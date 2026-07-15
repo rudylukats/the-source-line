@@ -50,7 +50,10 @@ def parse_published(entry):
         val = getattr(entry, key, None)
         if val:
             return datetime(*val[:6], tzinfo=timezone.utc)
-    return datetime.now(timezone.utc)
+    # No real timestamp in the feed (some feeds include pinned/promo items,
+    # e.g. a "Donate" link, with no pubDate). Push these to the back instead
+    # of letting them masquerade as the newest thing in the feed.
+    return datetime(1970, 1, 1, tzinfo=timezone.utc)
 
 
 def fetch_source(name, url):
