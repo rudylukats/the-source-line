@@ -25,6 +25,7 @@ FEEDS = {
 }
 
 MAX_ARTICLES = 60
+PER_SOURCE_MAX = 18
 MAX_EXCERPT_LEN = 220
 FEATURED_COUNT = 3
 
@@ -87,7 +88,11 @@ def main():
     for name, url in FEEDS.items():
         try:
             items = fetch_source(name, url)
-            print(f"{name}: {len(items)} items")
+            # Cap per source so one prolific outlet (e.g. a wire service)
+            # can't crowd out the others, keep each source's own newest first
+            items.sort(key=lambda a: a["published"], reverse=True)
+            items = items[:PER_SOURCE_MAX]
+            print(f"{name}: {len(items)} items (capped at {PER_SOURCE_MAX})")
             all_items.extend(items)
         except Exception as exc:
             print(f"ERROR fetching {name}: {exc}", file=sys.stderr)
