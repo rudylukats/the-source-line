@@ -1,0 +1,37 @@
+name: Fetch articles
+
+on:
+  schedule:
+    # Every 3 hours, at :13 past the hour (odd offset avoids the :00 pile-up
+    # that causes GitHub's scheduler to delay runs)
+    - cron: "13 */3 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Fetch articles
+        run: python scripts/fetch_articles.py
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add articles.json
+          git diff --staged --quiet || git commit -m "Update articles $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git push
