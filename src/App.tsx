@@ -309,9 +309,10 @@ export default function App() {
 
               <p className="text-sm text-neutral-400 leading-relaxed">
                 If you create an account, we store your email and password (handled by our
-                authentication provider, Supabase, never in plain text) and the list of sources
-                you've chosen to hide. That's it. We don't collect names, locations, or browsing
-                history, and articles.json itself carries no personal data.
+                authentication provider, Supabase, never in plain text), the list of sources
+                you've chosen to hide, and which daily puzzles you've completed. That's it. We
+                don't collect names, locations, or browsing history, and articles.json itself
+                carries no personal data.
               </p>
 
               <p className="text-sm text-neutral-400 leading-relaxed">
@@ -336,9 +337,9 @@ export default function App() {
 
               <p className="text-sm text-neutral-400 leading-relaxed">
                 You can access, correct, or delete your data at any time. Delete your saved
-                source preferences instantly below, or request full account deletion (removes
-                your login entirely) and we'll action it promptly. You can also reach us directly
-                at rudylukats@gmail.com with any privacy question.
+                preferences and puzzle history instantly below, or request full account deletion
+                (removes your login entirely) and we'll action it promptly. You can also reach us
+                directly at rudylukats@gmail.com with any privacy question.
               </p>
 
               <PrivacyControls />

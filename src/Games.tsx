@@ -1,6 +1,7 @@
 import { useEffect, useMemo, useRef, useState } from "react";
+import { useAuth, usePuzzleCompletions } from "./auth";
 
-// ---- Types matching puzzles.json (written by scripts/generate_puzzles.py) --
+// ---- Types matching puzzles/{date}.json (written by scripts/generate_puzzles.py) --
 
 type WordSearchData = {
   size: number;
@@ -39,9 +40,33 @@ function cellKey(r: number, c: number) {
   return r + "-" + c;
 }
 
+// The archive is UTC-dated (matches how scripts/generate_puzzles.py picks
+// the day), so "today" here has to be computed in UTC too, otherwise a
+// visitor west of the prime meridian could see a "today" that doesn't have
+// an archive file yet.
+function todayISO(): string {
+  return new Date().toISOString().slice(0, 10);
+}
+
+function formatDayLabel(iso: string): string {
+  const d = new Date(iso + "T00:00:00Z");
+  return d.toLocaleDateString(undefined, { month: "short", day: "numeric", timeZone: "UTC" });
+}
+
+function recentDates(days: number): string[] {
+  const today = new Date(todayISO() + "T00:00:00Z");
+  const out: string[] = [];
+  for (let i = days - 1; i >= 0; i--) {
+    const d = new Date(today);
+    d.setUTCDate(d.getUTCDate() - i);
+    out.push(d.toISOString().slice(0, 10));
+  }
+  return out;
+}
+
 // ---- Word search ------------------------------------------------------
 
-function WordSearch({ data }: { data: WordSearchData }) {
+function WordSearch({ data, onComplete }: { data: WordSearchData; onComplete?: () => void }) {
   const [start, setStart] = useState<{ r: number; c: number } | null>(null);
   const [found, setFound] = useState<Record<string, string>>({}); // cellKey -> word
   const [foundWords, setFoundWords] = useState<Set<string>>(new Set());
@@ -94,6 +119,11 @@ function WordSearch({ data }: { data: WordSearchData }) {
   }
 
   const allFound = foundWords.size === data.words.length;
+
+  useEffect(() => {
+    if (allFound) onComplete?.();
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [allFound]);
 
   return (
     <div className="flex flex-col md:flex-row gap-6">
@@ -157,7 +187,7 @@ function WordSearch({ data }: { data: WordSearchData }) {
 
 // ---- Crossword ----------------------------------------------------------
 
-function Crossword({ data }: { data: CrosswordData }) {
+function Crossword({ data, onComplete }: { data: CrosswordData; onComplete?: () => void }) {
   const [entries, setEntries] = useState<Record<string, string>>({});
   const [active, setActive] = useState<{ r: number; c: number } | null>(null);
   const [direction, setDirection] = useState<"A" | "D">("A");
@@ -254,6 +284,14 @@ function Crossword({ data }: { data: CrosswordData }) {
     .filter((v) => v !== null);
   const allCorrect = correctCells.length === totalCells && correctCells.every(Boolean);
 
+  // Completion is detected the moment every cell is correct, it doesn't
+  // require the player to click "Check answers" first (that button is just
+  // for feedback while working through it).
+  useEffect(() => {
+    if (allCorrect) onComplete?.();
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [allCorrect]);
+
   return (
     <div className="flex flex-col lg:flex-row gap-6">
       <div className="overflow-auto">
@@ -274,7 +312,7 @@ function Crossword({ data }: { data: CrosswordData }) {
               return (
                 <div key={cellKey(r, c)} className="relative w-7 h-7">
                   {cell.number && (
-                    <span className="absolute top-0 left-0.5 text-[8px] text-neutral-500 leading-none">
+                    <span className="absolute top-0 left-0.5 text-[8px] text-neutral-600 leading-none z-10">
                       {cell.number}
                     </span>
                   )}
@@ -286,16 +324,16 @@ function Crossword({ data }: { data: CrosswordData }) {
                     onChange={(e) => handleChange(r, c, e.target.value)}
                     onKeyDown={(e) => handleKeyDown(r, c, e)}
                     className={
-                      "w-7 h-7 text-center text-xs font-semibold border border-neutral-900 outline-none " +
+                      "w-7 h-7 text-center text-xs font-bold border-2 border-neutral-900 outline-none " +
                       (isCorrect
-                        ? "bg-emerald-900/60 text-emerald-300"
+                        ? "bg-emerald-200 text-emerald-900"
                         : isWrong
-                        ? "bg-red-900/60 text-red-300"
+                        ? "bg-red-200 text-red-900"
                         : isActive
-                        ? "bg-neutral-100 text-neutral-900"
+                        ? "bg-amber-300 text-neutral-900"
                         : inWord
-                        ? "bg-neutral-700 text-neutral-100"
-                        : "bg-[#111113] text-neutral-100")
+                        ? "bg-amber-100 text-neutral-900"
+                        : "bg-white text-neutral-900")
                     }
                   />
                 </div>
@@ -363,15 +401,86 @@ function Crossword({ data }: { data: CrosswordData }) {
   );
 }
 
+// ---- Day picker -------------------------------------------------------
+
+function DayPicker({
+  selectedDate,
+  onSelect,
+  completions,
+  signedIn,
+}: {
+  selectedDate: string;
+  onSelect: (date: string) => void;
+  completions: Record<string, { word_search_completed: boolean; crossword_completed: boolean }>;
+  signedIn: boolean;
+}) {
+  const dates = recentDates(14);
+  const today = todayISO();
+
+  return (
+    <div className="mb-4">
+      <div className="flex gap-1.5 overflow-x-auto pb-2">
+        {dates.map((date) => {
+          const isSelected = date === selectedDate;
+          const c = completions[date];
+          return (
+            <button
+              key={date}
+              onClick={() => onSelect(date)}
+              className={
+                "shrink-0 flex flex-col items-center gap-1 px-2.5 py-1.5 border text-xs " +
+                (isSelected
+                  ? "border-neutral-100 bg-neutral-900 text-neutral-100"
+                  : "border-neutral-800 text-neutral-500 hover:border-neutral-600 hover:text-neutral-300")
+              }
+            >
+              <span>
+                {formatDayLabel(date)}
+                {date === today ? " · today" : ""}
+              </span>
+              {signedIn && (
+                <span className="flex gap-1">
+                  <span
+                    title="Word search"
+                    className={
+                      "w-1.5 h-1.5 rounded-full " +
+                      (c?.word_search_completed ? "bg-emerald-400" : "bg-neutral-700")
+                    }
+                  />
+                  <span
+                    title="Crossword"
+                    className={
+                      "w-1.5 h-1.5 rounded-full " +
+                      (c?.crossword_completed ? "bg-emerald-400" : "bg-neutral-700")
+                    }
+                  />
+                </span>
+              )}
+            </button>
+          );
+        })}
+      </div>
+      {!signedIn && (
+        <p className="text-xs text-neutral-600">Sign in to track which days you've completed.</p>
+      )}
+    </div>
+  );
+}
+
 // ---- Top-level Games panel ------------------------------------------------
 
 export default function Games() {
+  const { user } = useAuth();
+  const { completions, markCompleted } = usePuzzleCompletions(user?.id);
+
+  const [selectedDate, setSelectedDate] = useState(todayISO());
   const [data, setData] = useState<PuzzleData | null>(null);
   const [status, setStatus] = useState<"loading" | "ready" | "error">("loading");
   const [tab, setTab] = useState<"wordsearch" | "crossword">("wordsearch");
 
   useEffect(() => {
-    fetch("./puzzles.json", { cache: "no-store" })
+    setStatus("loading");
+    fetch(`./puzzles/${selectedDate}.json`, { cache: "no-store" })
       .then((res) => {
         if (!res.ok) throw new Error(`HTTP ${res.status}`);
         return res.json();
@@ -381,40 +490,64 @@ export default function Games() {
         setStatus("ready");
       })
       .catch(() => setStatus("error"));
-  }, []);
+  }, [selectedDate]);
 
-  if (status === "loading") {
-    return <p className="text-sm text-neutral-500 py-8">Loading today's puzzles...</p>;
-  }
-  if (status === "error" || !data) {
-    return (
-      <p className="text-sm text-neutral-500 py-8">
-        Couldn't load today's puzzles yet. They're generated by a scheduled job, if this is a
-        fresh deploy the first run hasn't happened yet.
-      </p>
-    );
-  }
+  const isToday = selectedDate === todayISO();
 
   return (
     <div>
-      <div className="flex items-baseline justify-between mb-4">
-        <h2 className="font-serif text-xl text-neutral-50">Today's theme: {data.theme}</h2>
-        <div className="flex gap-4 text-sm">
-          <button
-            onClick={() => setTab("wordsearch")}
-            className={tab === "wordsearch" ? "text-neutral-100 font-semibold" : "text-neutral-500 hover:text-neutral-300"}
-          >
-            Word search
-          </button>
-          <button
-            onClick={() => setTab("crossword")}
-            className={tab === "crossword" ? "text-neutral-100 font-semibold" : "text-neutral-500 hover:text-neutral-300"}
-          >
-            Crossword
-          </button>
+      <DayPicker
+        selectedDate={selectedDate}
+        onSelect={setSelectedDate}
+        completions={completions}
+        signedIn={!!user}
+      />
+
+      {status === "loading" && <p className="text-sm text-neutral-500 py-8">Loading puzzles...</p>}
+      {status === "error" && (
+        <p className="text-sm text-neutral-500 py-8">
+          {isToday
+            ? "Couldn't load today's puzzles yet. They're generated by a scheduled job, if this is a fresh deploy the first run hasn't happened yet."
+            : "No archived puzzle found for this day."}
+        </p>
+      )}
+
+      {status === "ready" && data && (
+        <div>
+          <div className="flex items-baseline justify-between mb-4">
+            <h2 className="font-serif text-xl text-neutral-50">
+              {isToday ? "Today's theme" : formatDayLabel(selectedDate)}: {data.theme}
+            </h2>
+            <div className="flex gap-4 text-sm">
+              <button
+                onClick={() => setTab("wordsearch")}
+                className={tab === "wordsearch" ? "text-neutral-100 font-semibold" : "text-neutral-500 hover:text-neutral-300"}
+              >
+                Word search
+              </button>
+              <button
+                onClick={() => setTab("crossword")}
+                className={tab === "crossword" ? "text-neutral-100 font-semibold" : "text-neutral-500 hover:text-neutral-300"}
+              >
+                Crossword
+              </button>
+            </div>
+          </div>
+          {tab === "wordsearch" ? (
+            <WordSearch
+              key={selectedDate + "-ws"}
+              data={data.word_search}
+              onComplete={() => markCompleted(selectedDate, "word_search")}
+            />
+          ) : (
+            <Crossword
+              key={selectedDate + "-cw"}
+              data={data.crossword}
+              onComplete={() => markCompleted(selectedDate, "crossword")}
+            />
+          )}
         </div>
-      </div>
-      {tab === "wordsearch" ? <WordSearch data={data.word_search} /> : <Crossword data={data.crossword} />}
+      )}
     </div>
   );
 }
