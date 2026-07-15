@@ -1,15 +1,6 @@
 {
-  "generated_at": "2026-07-15T01:10:06.488108+00:00",
+  "generated_at": "2026-07-15T01:13:13.857145+00:00",
   "articles": [
-    {
-      "id": "bc3b3fec41ea",
-      "source": "ICIJ",
-      "headline": "Donate to ICIJ",
-      "excerpt": "Support our journalism.",
-      "link": "https://www.icij.org/donate/",
-      "published": "2026-07-15T01:10:06.105527+00:00",
-      "featured": true
-    },
     {
       "id": "3a446974c0a2",
       "source": "Al Jazeera",
@@ -35,7 +26,7 @@
       "excerpt": "Activists say Moroccan authorities are intensifying repression of critical voices and the Gen Z protest movement.",
       "link": "https://www.aljazeera.com/news/2026/7/14/outspoken-moroccan-rapper-mehdi-el-youbi-arrested-in-casablanca?traffic_source=rss",
       "published": "2026-07-14T22:11:33+00:00",
-      "featured": false
+      "featured": true
     },
     {
       "id": "e93dbf6e1d2f",
@@ -539,6 +530,15 @@
       "excerpt": "The post Amid Mounting War Casualties, Pete Hegseth “Defunded and Impeded” Efforts to Protect Civilians, Lawmakers Say appeared first on ProPublica.",
       "link": "https://www.propublica.org/article/hegseth-trump-war-civilian-casualties-elizabeth-warren-pentagon",
       "published": "2026-07-06T16:00:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "94fb1dcb3e51",
+      "source": "Dropsite News",
+      "headline": "Hamas Gaza government dissolves; Dr. Abu Safiya beaten, expects to be killed; 40,000 still missing in Venezuela",
+      "excerpt": "Drop Site Daily: July 6, 2026",
+      "link": "https://www.dropsitenews.com/p/hamas-gaza-government-abu-safiya-israel-venezuela-earthquake",
+      "published": "2026-07-06T15:44:53+00:00",
       "featured": false
     }
   ]
