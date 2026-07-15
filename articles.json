@@ -1,112 +1,544 @@
 {
-  "generated_at": "2026-07-15T00:58:18.371691+00:00",
+  "generated_at": "2026-07-15T01:10:06.488108+00:00",
   "articles": [
     {
-      "id": "dbc19c9c0311",
+      "id": "bc3b3fec41ea",
       "source": "ICIJ",
-      "headline": "Offshore filings reveal how shell companies moved public contract money across three continents",
-      "excerpt": "A cross-border investigation traces a network of shell entities used to obscure ownership of firms awarded state infrastructure contracts.",
-      "link": "https://www.icij.org/investigations/",
-      "published": "2026-07-14T22:58:18.371691+00:00",
+      "headline": "Donate to ICIJ",
+      "excerpt": "Support our journalism.",
+      "link": "https://www.icij.org/donate/",
+      "published": "2026-07-15T01:10:06.105527+00:00",
       "featured": true
     },
     {
-      "id": "aa522f08209a",
-      "source": "Dropsite News",
-      "headline": "Internal cables show aid agencies were warned of supply route collapse weeks before crossings closed",
-      "excerpt": "Documents obtained by Dropsite show repeated internal warnings went unheeded by coordinating bodies.",
-      "link": "https://www.dropsitenews.com/",
-      "published": "2026-07-14T21:58:18.371691+00:00",
-      "featured": true
-    },
-    {
-      "id": "83b96d49235e",
-      "source": "ProPublica",
-      "headline": "How a little-known state fund quietly backstopped a private insurer's bad bets",
-      "excerpt": "Regulators allowed the fund's exposure to grow far past its own risk limits, records show.",
-      "link": "https://www.propublica.org/",
-      "published": "2026-07-14T20:58:18.371691+00:00",
-      "featured": true
-    },
-    {
-      "id": "bb959f11bcf1",
-      "source": "The Markup",
-      "headline": "A popular license plate reader company left a database of driver locations exposed for months",
-      "excerpt": "Researchers found the misconfigured server indexed by a search engine before it was locked down.",
-      "link": "https://themarkup.org/",
-      "published": "2026-07-14T19:58:18.371691+00:00",
-      "featured": false
-    },
-    {
-      "id": "5fd94d87b85e",
+      "id": "3a446974c0a2",
       "source": "Al Jazeera",
-      "headline": "Regional talks stall as negotiators clash over terms of proposed border monitoring mission",
-      "excerpt": "Delegations left the third round of talks without a joint statement for the first time this year.",
-      "link": "https://www.aljazeera.com/",
-      "published": "2026-07-14T18:58:18.371691+00:00",
-      "featured": false
+      "headline": "Spain fans erupt as team reaches World Cup final",
+      "excerpt": "Fans erupted in celebration after Spain beat France 2-0 in the semifinals, securing their place in the 2026 Finals",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/15/spain-fans-erupt-as-team-reaches-world-cup-final?traffic_source=rss",
+      "published": "2026-07-15T00:14:35+00:00",
+      "featured": true
     },
     {
-      "id": "a60d8ae47eb2",
-      "source": "ProPublica",
-      "headline": "Nursing home chain kept collecting Medicare payments after inspectors flagged repeat violations",
-      "excerpt": "State inspection records show citations were issued but rarely resulted in funding holds.",
-      "link": "https://www.propublica.org/",
-      "published": "2026-07-14T17:58:18.371691+00:00",
-      "featured": false
-    },
-    {
-      "id": "f7d4dc529719",
-      "source": "ICIJ",
-      "headline": "Leaked customs data links sanctioned shipping fleet to routine ports of call in four countries",
-      "excerpt": "Trade records suggest enforcement gaps let vessels continue operating under new registrations.",
-      "link": "https://www.icij.org/",
-      "published": "2026-07-14T15:58:18.371691+00:00",
-      "featured": false
-    },
-    {
-      "id": "b2dcc1f36ffc",
-      "source": "Dropsite News",
-      "headline": "Procurement records show contractor billed for equipment never delivered to field hospitals",
-      "excerpt": "Invoices reviewed by Dropsite do not match delivery logs kept by on-site logistics staff.",
-      "link": "https://www.dropsitenews.com/",
-      "published": "2026-07-14T14:58:18.371691+00:00",
-      "featured": false
-    },
-    {
-      "id": "77a7af3a200e",
-      "source": "The Markup",
-      "headline": "Inside the marketplace where data brokers sell location histories with no oversight",
-      "excerpt": "A review of listings shows granular movement data changing hands for a few hundred dollars.",
-      "link": "https://themarkup.org/",
-      "published": "2026-07-14T12:58:18.371691+00:00",
-      "featured": false
-    },
-    {
-      "id": "a069778ad826",
+      "id": "cf61c3f673e0",
       "source": "Al Jazeera",
-      "headline": "Shipping costs climb as rerouted vessels avoid contested strait for third straight month",
-      "excerpt": "Insurers have raised premiums on the route, adding pressure to already stretched freight budgets.",
-      "link": "https://www.aljazeera.com/",
-      "published": "2026-07-14T11:58:18.371691+00:00",
+      "headline": "LIVE: Trump says ‘strikes on Iran will continue until I say enough’",
+      "excerpt": "Iran's bridges, power plants possible targets, Trump said as IRGC says it attacked US forces in Kuwait, Bahrain, Jordan.",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/7/15/live-trump-says-strikes-on-iran-will-continue-until-i-say?traffic_source=rss",
+      "published": "2026-07-15T00:00:15+00:00",
+      "featured": true
+    },
+    {
+      "id": "a8ca01653a90",
+      "source": "Al Jazeera",
+      "headline": "Outspoken Moroccan rapper Mehdi El Youbi arrested in Casablanca",
+      "excerpt": "Activists say Moroccan authorities are intensifying repression of critical voices and the Gen Z protest movement.",
+      "link": "https://www.aljazeera.com/news/2026/7/14/outspoken-moroccan-rapper-mehdi-el-youbi-arrested-in-casablanca?traffic_source=rss",
+      "published": "2026-07-14T22:11:33+00:00",
       "featured": false
     },
     {
-      "id": "2cee16589216",
+      "id": "e93dbf6e1d2f",
+      "source": "Al Jazeera",
+      "headline": "Colombian father identified in deadly ICE shooting",
+      "excerpt": "Colombian father identified in deadly ICE shooting",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/14/colombian-father-identified-in-deadly-ice-shooting?traffic_source=rss",
+      "published": "2026-07-14T21:51:14+00:00",
+      "featured": false
+    },
+    {
+      "id": "40f175ff079d",
+      "source": "Dropsite News",
+      "headline": "A Young Populist Heats Up the Texas Agricultural Commissioner Race",
+      "excerpt": "Data centers, Big Ag, and the New World screwworm take center stage for rural voters",
+      "link": "https://www.dropsitenews.com/p/clayton-tucker-texas-agricultural-commissioner-democrat-ai-data-centers-screwworm",
+      "published": "2026-07-14T21:45:04+00:00",
+      "featured": false
+    },
+    {
+      "id": "7f1fab13e0de",
+      "source": "Al Jazeera",
+      "headline": "Spain deliver masterclass to beat France 2-0 and reach World Cup final",
+      "excerpt": "European champions Spain beat France with controlled display to book final against Argentina or England.",
+      "link": "https://www.aljazeera.com/sports/2026/7/14/spain-deliver-masterclass-to-beat-france-2-0-and-reach-world-cup-final?traffic_source=rss",
+      "published": "2026-07-14T21:39:16+00:00",
+      "featured": false
+    },
+    {
+      "id": "5eeec26dd6a7",
+      "source": "Al Jazeera",
+      "headline": "Are countries prepared to cope with extreme weather?",
+      "excerpt": "Severe weather conditions are likely to get worse due to climate change.",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/7/14/are-countries-prepared-to-cope-with-extreme-weather?traffic_source=rss",
+      "published": "2026-07-14T21:26:07+00:00",
+      "featured": false
+    },
+    {
+      "id": "ed6edf67175d",
+      "source": "Al Jazeera",
+      "headline": "World Cup semifinal: Key players to watch in England vs Argentina clash",
+      "excerpt": "Lionel Messi, Jude Bellingham and Harry Kane will be among the stars on show during Wednesday's match in Atlanta.",
+      "link": "https://www.aljazeera.com/sports/2026/7/14/fifa-world-cup-key-players-to-watch-as-england-and-argentina-clash-in-semifinal?traffic_source=rss",
+      "published": "2026-07-14T21:10:42+00:00",
+      "featured": false
+    },
+    {
+      "id": "337f08ef91ee",
+      "source": "Al Jazeera",
+      "headline": "Why the England shirt feels complicated for some fans this World Cup",
+      "excerpt": "The World Cup has ignited debate in the UK over wearing or displaying the England flag.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/14/why-the-england-shirt-feels-complicated-for-some-fans-this-world-cup?traffic_source=rss",
+      "published": "2026-07-14T21:08:42+00:00",
+      "featured": false
+    },
+    {
+      "id": "a80260d0fa1a",
+      "source": "Al Jazeera",
+      "headline": "Palestine weekly: Israel attacks children, hospitals in bloody week in Gaza",
+      "excerpt": "Israel's grip on the occupied West Bank tightens through outposts, demolitions, and army-backed settler raids.",
+      "link": "https://www.aljazeera.com/features/2026/7/14/palestine-weekly-israel-attacks-children-hospitals-in-bloody-week-in-gaza?traffic_source=rss",
+      "published": "2026-07-14T21:05:39+00:00",
+      "featured": false
+    },
+    {
+      "id": "001526f463d7",
+      "source": "Al Jazeera",
+      "headline": "Sirens blare in Bahrain as Iran launches barrage of missiles, drones",
+      "excerpt": "Iranian state media is reporting that Tehran has targeted a US naval support base in Bahrain’s capital.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/14/sirens-blare-in-bahrain-as-iran-launches-barrage-of-missiles-drones?traffic_source=rss",
+      "published": "2026-07-14T21:05:12+00:00",
+      "featured": false
+    },
+    {
+      "id": "13c3e1e47282",
+      "source": "Al Jazeera",
+      "headline": "US-Russian crew launches on mission to space station",
+      "excerpt": "A US-Russian crew blasted off onboard a Soyuz spacecraft for an eight-month mission to the International Space Station.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/14/us-russian-crew-launches-on-mission-to-space-station?traffic_source=rss",
+      "published": "2026-07-14T20:36:57+00:00",
+      "featured": false
+    },
+    {
+      "id": "5f8a4396efe7",
+      "source": "Al Jazeera",
+      "headline": "What is Iran’s Pickaxe Mountain?",
+      "excerpt": "Donald Trump has threatened to strike Pickaxe Mountain, an underground nuclear-related complex.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/14/what-is-irans-pickaxe-mountain-2?traffic_source=rss",
+      "published": "2026-07-14T20:27:40+00:00",
+      "featured": false
+    },
+    {
+      "id": "8e330a93fb76",
+      "source": "Al Jazeera",
+      "headline": "Worker killed in furnace explosion fire at Indian recycling plant",
+      "excerpt": "A furnace explosion triggered a fire at Jain Resource Recycling's plant in the Indian state of Tamil Nadu.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/14/worker-killed-in-furnace-explosion-fire-at-indian-recycling-plant?traffic_source=rss",
+      "published": "2026-07-14T20:18:36+00:00",
+      "featured": false
+    },
+    {
+      "id": "bccff440a876",
+      "source": "Al Jazeera",
+      "headline": "Why Yemen’s long ‘no war, no peace’ deadlock may be ending",
+      "excerpt": "Mobilisation of fighters and attacks signal the collapse of Yemen's fragile peace, with regional implications looming.",
+      "link": "https://www.aljazeera.com/features/2026/7/14/why-yemens-long-no-war-no-peace-deadlock-may-be-ending?traffic_source=rss",
+      "published": "2026-07-14T20:17:56+00:00",
+      "featured": false
+    },
+    {
+      "id": "3719bab37b19",
+      "source": "Al Jazeera",
+      "headline": "Mahmoud Khalil alleges conspiracy in lawsuit against Trump officials",
+      "excerpt": "Lawsuit claims conspiracy between top administrative officials and private groups to target the pro-Palestine advocate.",
+      "link": "https://www.aljazeera.com/news/2026/7/14/mahmoud-khalil-alleges-conspiracy-in-lawsuit-against-trump-officials?traffic_source=rss",
+      "published": "2026-07-14T20:16:52+00:00",
+      "featured": false
+    },
+    {
+      "id": "88e7fee1cec8",
+      "source": "Al Jazeera",
+      "headline": "New York imposes landmark one-year ban on large data centres",
+      "excerpt": "Data centre moratorium pushes have gained steam around the US, with bans proposed in at least a dozen states.",
+      "link": "https://www.aljazeera.com/economy/2026/7/14/new-york-imposes-landmark-one-year-ban-on-large-data-centres?traffic_source=rss",
+      "published": "2026-07-14T20:13:32+00:00",
+      "featured": false
+    },
+    {
+      "id": "1b17c02ae5c8",
+      "source": "Al Jazeera",
+      "headline": "US Senate Democrats block defence bill over Iran war, Israel integration",
+      "excerpt": "The Senate votes 50-46 to block debate on the annual defence bill over war funding and defence cooperation with Israel.",
+      "link": "https://www.aljazeera.com/news/2026/7/14/senate-democrats-block-defence-bill-over-iran-war-israel-provisions?traffic_source=rss",
+      "published": "2026-07-14T20:12:06+00:00",
+      "featured": false
+    },
+    {
+      "id": "bc847baa266d",
+      "source": "Al Jazeera",
+      "headline": "US reimposes blockade on Iranian ports, launches more strikes",
+      "excerpt": "Iran's deputy FM accuses US of destroying the interim peace deal and says Tehran now has no commitments under MoU.",
+      "link": "https://www.aljazeera.com/news/2026/7/14/us-strikes-new-targets-in-iran-as-tehran-hits-gulf-states-hormuz?traffic_source=rss",
+      "published": "2026-07-14T19:47:33+00:00",
+      "featured": false
+    },
+    {
+      "id": "7b4c52876be4",
+      "source": "Al Jazeera",
+      "headline": "US President Trump meets with ‘fan of America’ Iraqi PM Ali al-Zaidi",
+      "excerpt": "US President Donald Trump welcomed Iraqi Prime Minister Ali al-Zaidi to the White House.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/14/us-president-trump-meets-with-fan-of-america-iraqi-pm-ali-al-zaidi?traffic_source=rss",
+      "published": "2026-07-14T19:43:26+00:00",
+      "featured": false
+    },
+    {
+      "id": "8f99e0750d18",
+      "source": "Al Jazeera",
+      "headline": "Families claim bodies of victims of deadly Bangkok pub fire",
+      "excerpt": "‘No one has been able to accept it yet.’",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/14/families-claim-bodies-of-victims-of-deadly-bangkok-pub-fire?traffic_source=rss",
+      "published": "2026-07-14T19:32:54+00:00",
+      "featured": false
+    },
+    {
+      "id": "f9613b76ad1a",
+      "source": "Al Jazeera",
+      "headline": "US risks falling into ‘escalation trap’ if it deploys troops in Iran",
+      "excerpt": "Analyst Alex Alfirraz Scheers says the US risks falling into an escalation trap if it launches a ground assault in Iran.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/14/us-risks-falling-into-escalation-trap-if-it-deploys-troops-in-iran?traffic_source=rss",
+      "published": "2026-07-14T18:32:40+00:00",
+      "featured": false
+    },
+    {
+      "id": "d5e27574b963",
+      "source": "Dropsite News",
+      "headline": "Ro Khanna and Israeli Apartheid, the Iran War, and the Politics of the World Cup",
+      "excerpt": "Watch now | Rep. Ro Khanna describes his detention by Israeli settlers backed by the Israeli army in the West Bank. Khanna and Drop Site's Jeremy Scahill debate Palestinian armed resistance, the Iron Dome, and...",
+      "link": "https://www.dropsitenews.com/p/ro-khanna-jeremy-scahill-debate-israel-west-bank-resistance-fifa-world-cup",
+      "published": "2026-07-14T18:29:59+00:00",
+      "featured": false
+    },
+    {
+      "id": "6dbb2aa2f611",
+      "source": "Al Jazeera",
+      "headline": "Trump pivots from 20 percent Strait of Hormuz fee amid Iran war escalation",
+      "excerpt": "Donald Trump backs away from fee, says regional countries will instead invest in US in return for transit protection.",
+      "link": "https://www.aljazeera.com/news/2026/7/14/trump-pivots-from-20-percent-strait-of-hormuz-fee-amid-iran-war-escalation?traffic_source=rss",
+      "published": "2026-07-14T18:26:10+00:00",
+      "featured": false
+    },
+    {
+      "id": "c0096ad9a94c",
+      "source": "Al Jazeera",
+      "headline": "US President Trump drops 20% Strait of Hormuz fee plan",
+      "excerpt": "US President Donald Trump says he has abandoned his proposed 20% fee on cargo transiting the Strait of Hormuz.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/14/us-president-trump-drops-20-strait-of-hormuz-fee-plan?traffic_source=rss",
+      "published": "2026-07-14T18:05:05+00:00",
+      "featured": false
+    },
+    {
+      "id": "35c4579252cc",
+      "source": "Al Jazeera",
+      "headline": "US, Russian astronauts launch into orbit for joint space mission",
+      "excerpt": "NASA chief Jared Isaacman made a rare visit to the Russia-operated Baikonur Cosmodrome to witness the launch.",
+      "link": "https://www.aljazeera.com/news/2026/7/14/us-russian-astronauts-launch-into-orbit-for-joint-space-mission?traffic_source=rss",
+      "published": "2026-07-14T17:49:28+00:00",
+      "featured": false
+    },
+    {
+      "id": "b33863b921f6",
+      "source": "Al Jazeera",
+      "headline": "Cuba’s power grid collapses again, triggering third blackout in 10 days",
+      "excerpt": "Millions lost power as Cuba’s fifth nationwide blackout of 2026 hit amid a US-imposed oil blockade.",
+      "link": "https://www.aljazeera.com/news/2026/7/14/cubas-power-grid-collapses-again-triggering-third-blackout-in-10-days?traffic_source=rss",
+      "published": "2026-07-14T17:34:29+00:00",
+      "featured": false
+    },
+    {
+      "id": "ef2c09674406",
       "source": "ProPublica",
-      "headline": "Whistleblower records detail how safety complaints were routed away from federal reviewers",
-      "excerpt": "Internal routing logs show a pattern of complaints closed without reaching inspection staff.",
-      "link": "https://www.propublica.org/",
-      "published": "2026-07-14T10:58:18.371691+00:00",
+      "headline": "Trump Administration Launches Crackdown on Teacher Sexual Misconduct Following KQED-ProPublica Investigation",
+      "excerpt": "The post Trump Administration Launches Crackdown on Teacher Sexual Misconduct Following KQED-ProPublica Investigation appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/trump-teacher-sexual-misconduct-crackdown-linda-mcmahon",
+      "published": "2026-07-14T16:35:00+00:00",
       "featured": false
     },
     {
-      "id": "29dd8e624cc3",
+      "id": "a4181be55bab",
+      "source": "Dropsite News",
+      "headline": "Trump restarts Iran war-powers clock; ICE kills man in Maine; Saudis and Ansarallah trade strikes",
+      "excerpt": "Drop Site Daily: July 14, 2026",
+      "link": "https://www.dropsitenews.com/p/trump-iran-us-war-powers-ice-maine-saudi-ansarallah-yemen",
+      "published": "2026-07-14T15:15:45+00:00",
+      "featured": false
+    },
+    {
+      "id": "718de13a82c9",
+      "source": "ProPublica",
+      "headline": "What We Uncovered About the Sexual Assault of Alice Sebold and a City’s Buried Rape Crisis",
+      "excerpt": "The post What We Uncovered About the Sexual Assault of Alice Sebold and a City’s Buried Rape Crisis appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/sebold-rape-syracuse-investigation-findings-documentary",
+      "published": "2026-07-14T09:00:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "87efd2e8eebd",
+      "source": "Dropsite News",
+      "headline": "The New Israel-Backed Nonprofit Feeding Lawmakers Model Legislation",
+      "excerpt": "The State Legislator Israel Caucus says it’s an independent nonprofit. The Israeli government discreetly paid for its first D.C. junket.",
+      "link": "https://www.dropsitenews.com/p/israel-backed-nonprofit-lawmakers-draft-legislation",
+      "published": "2026-07-13T18:14:37+00:00",
+      "featured": false
+    },
+    {
+      "id": "f405304207b3",
+      "source": "Dropsite News",
+      "headline": "U.S.-Iran war re-escalates; Israeli settlers detain Ro Khanna; UAW President says Gaza advocacy led to DOJ probe",
+      "excerpt": "Drop Site Daily: July 13, 2026",
+      "link": "https://www.dropsitenews.com/p/us-iran-war-hormuz-trump-israel-khanna-uaw-gaza-doj",
+      "published": "2026-07-13T15:34:17+00:00",
+      "featured": false
+    },
+    {
+      "id": "29c3c814f84e",
+      "source": "ProPublica",
+      "headline": "New Mexico AG Calls for Reform After Report Finds “Substantial Racial Disparities” in One School District",
+      "excerpt": "The post New Mexico AG Calls for Reform After Report Finds “Substantial Racial Disparities” in One School District appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/new-mexico-ag-report-gallup-mckinley-schools",
+      "published": "2026-07-13T10:00:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "0b7c8d633319",
+      "source": "ProPublica",
+      "headline": "A U.S.-Mexico Impasse Will Test How Far the Trump Administration Will Go to Fight Drug Trade",
+      "excerpt": "The post A U.S.-Mexico Impasse Will Test How Far the Trump Administration Will Go to Fight Drug Trade appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/us-mexico-drug-trade-sheinbaum",
+      "published": "2026-07-13T09:00:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "90393b474c59",
+      "source": "Dropsite News",
+      "headline": "The Man Who Walked Toward the \"Yellow Line\" in Gaza—and the Son He Carried With Him",
+      "excerpt": "Osama Al-Shafi's mental deterioration from the stresses of war culminated in him wandering in a disassociated state towards Israeli soldiers who detained him and his infant son.",
+      "link": "https://www.dropsitenews.com/p/gaza-yellow-line-psychological-trauma-maghazi",
+      "published": "2026-07-11T15:46:49+00:00",
+      "featured": false
+    },
+    {
+      "id": "a5fdd9f8ba62",
+      "source": "Dropsite News",
+      "headline": "In Letter, Platner Volunteer Network Warns Dems: Nominee Must Back Same Agenda to Win Our Full Support",
+      "excerpt": "Supporters are drafting a policy demand letter that Maine’s next nominee must publicly commit to if they want support from the largest organizing network in state history.",
+      "link": "https://www.dropsitenews.com/p/platner-volunteer-maine-democratic-party-replacement-nominee-delegates",
+      "published": "2026-07-10T21:21:43+00:00",
+      "featured": false
+    },
+    {
+      "id": "7da0979d139d",
       "source": "ICIJ",
-      "headline": "Real estate registry gaps let sanctioned individuals hold property through family members",
-      "excerpt": "Public records in three jurisdictions show no requirement to disclose beneficial ownership.",
-      "link": "https://www.icij.org/",
-      "published": "2026-07-14T08:58:18.371691+00:00",
+      "headline": "Merck takes Austria’s Keytruda price transparency battle to top court as journalists fight for information",
+      "excerpt": "The case stems from ICIJ’s Cancer Calculus investigation into the world's best-selling drug’s sky-high price and its global consequences.",
+      "link": "https://www.icij.org/investigations/cancer-calculus/merck-takes-austrias-keytruda-price-transparency-battle-to-top-court-as-journalists-fight-for-information/",
+      "published": "2026-07-10T16:24:05+00:00",
+      "featured": false
+    },
+    {
+      "id": "b92ec4e024b0",
+      "source": "Dropsite News",
+      "headline": "Khamenei is buried; Hormuz grinds to a halt; What we know about the Platner replacement process",
+      "excerpt": "Drop Site Daily: July 10, 2026",
+      "link": "https://www.dropsitenews.com/p/khamenei-funeral-hormuz-iran-us-platner-maine",
+      "published": "2026-07-10T15:27:30+00:00",
+      "featured": false
+    },
+    {
+      "id": "160349174294",
+      "source": "ProPublica",
+      "headline": "He’s Suspected of Hiring a Venezuelan Gang for a Political Killing. Trump Officials Still Work With Him.",
+      "excerpt": "The post He’s Suspected of Hiring a Venezuelan Gang for a Political Killing. Trump Officials Still Work With Him. appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/chile-suspects-venezuela-cabello-killing",
+      "published": "2026-07-10T11:00:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "46a476a4f7bd",
+      "source": "ProPublica",
+      "headline": "Lawmakers Call for CDC to Track Vitamin K Shot Refusals, Cite ProPublica Report",
+      "excerpt": "The post Lawmakers Call for CDC to Track Vitamin K Shot Refusals, Cite ProPublica Report appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/vitamin-k-cdc-rfk-jr-lawmakers-letter",
+      "published": "2026-07-10T09:00:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "7cbdf82ca50e",
+      "source": "ProPublica",
+      "headline": "Trump Pushes Out Remaining Members of Bipartisan Election Commission Ahead of Midterms",
+      "excerpt": "The post Trump Pushes Out Remaining Members of Bipartisan Election Commission Ahead of Midterms appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/federal-election-assistance-commission-trump-dismantled",
+      "published": "2026-07-10T03:00:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "32082bb33870",
+      "source": "ProPublica",
+      "headline": "New York Hasn’t Raised Housing Allowances for Needy Residents in Decades. That’s Unconstitutional, a Lawsuit Says.",
+      "excerpt": "The post New York Hasn’t Raised Housing Allowances for Needy Residents in Decades. That’s Unconstitutional, a Lawsuit Says. appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/new-york-shelter-assistance-lawsuit",
+      "published": "2026-07-09T19:00:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "68f35cc741b2",
+      "source": "Dropsite News",
+      "headline": "U.S. and Iran trade strikes; Platner drops out; 600 Ebola deaths in Congo",
+      "excerpt": "Drop Site Daily: July 9, 2026",
+      "link": "https://www.dropsitenews.com/p/us-iran-strikes-hormuz-graham-platner-maine-congo-ebola",
+      "published": "2026-07-09T14:55:33+00:00",
+      "featured": false
+    },
+    {
+      "id": "caad1e0c6575",
+      "source": "The Markup",
+      "headline": "Kaiser Permanente nurses say technology is making their jobs — and patient care — worse",
+      "excerpt": "Call center nurses at the health giant said workplace surveillance tools and AI prioritize speed and cost savings over quality and safety.",
+      "link": "https://themarkup.org/artificial-intelligence/2026/07/09/kaiser-permanente-nurses-say-technology-is-making-their-jobs-and-patient-care-worse",
+      "published": "2026-07-09T12:00:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "d95cf6645716",
+      "source": "ProPublica",
+      "headline": "A Puerto Rico Government Agency Exposed 1 Million Social Security Numbers",
+      "excerpt": "The post A Puerto Rico Government Agency Exposed 1 Million Social Security Numbers appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/puerto-rico-crim-data-breach",
+      "published": "2026-07-09T09:00:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "20bdcbad34a6",
+      "source": "ProPublica",
+      "headline": "Top Legal Adviser to Joint Chiefs Is Stepping Down Nearly a Year Before Completing Term",
+      "excerpt": "The post Top Legal Adviser to Joint Chiefs Is Stepping Down Nearly a Year Before Completing Term appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/eric-widmar-retiring-joint-chiefs-legal-adviser",
+      "published": "2026-07-08T22:25:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "9c1d6cb721e2",
+      "source": "Dropsite News",
+      "headline": "The Crimson Thread: The Israeli Military Barrier Cutting Off Palestine’s Breadbasket",
+      "excerpt": "The first 22 kilometers of a planned 500-kilometer Israeli military barrier are cutting off Palestinians from a large swathe of some of the most fertile agricultural land in the occupied West Bank.",
+      "link": "https://www.dropsitenews.com/p/crimson-thread-israeli-military-barrier-west-bank-tubas-land",
+      "published": "2026-07-08T21:29:04+00:00",
+      "featured": false
+    },
+    {
+      "id": "184da45954bc",
+      "source": "Dropsite News",
+      "headline": "Trump says Iran deal is “over”; U.S. hits Iran over Hormuz; Drone strikes kill 15 in Sudan",
+      "excerpt": "Drop Site Daily: July 8, 2026",
+      "link": "https://www.dropsitenews.com/p/trump-iran-deal-mou-hormuz-khamenei-drone-strikes-sudan",
+      "published": "2026-07-08T15:44:53+00:00",
+      "featured": false
+    },
+    {
+      "id": "3112594336e3",
+      "source": "ICIJ",
+      "headline": "Crypto giant Circle rebuffed efforts to help scam victims, police say",
+      "excerpt": "Law enforcement in Wisconsin and New York accuse the firm of refusing to help recoup funds, even under court orders.",
+      "link": "https://www.icij.org/investigations/coin-laundry/crypto-giant-circle-rebuffed-efforts-to-help-scam-victims-police-say/",
+      "published": "2026-07-08T14:29:36+00:00",
+      "featured": false
+    },
+    {
+      "id": "6016db50a9f3",
+      "source": "ProPublica",
+      "headline": "Wall Street Wants to Change the Rules for Your 401(k). It Could Put Your Retirement at Risk.",
+      "excerpt": "The post Wall Street Wants to Change the Rules for Your 401(k). It Could Put Your Retirement at Risk. appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/401k-retirement-investment-plan-risk-trump",
+      "published": "2026-07-08T10:00:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "b60632ab9f49",
+      "source": "ProPublica",
+      "headline": "Have a 401(k)? Help ProPublica Investigate What’s Really Happening to Your Money.",
+      "excerpt": "The post Have a 401(k)? Help ProPublica Investigate What’s Really Happening to Your Money. appeared first on ProPublica.",
+      "link": "https://www.propublica.org/getinvolved/share-401k-fees-retirement-investment",
+      "published": "2026-07-08T09:55:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "1d3a0af529a6",
+      "source": "ProPublica",
+      "headline": "Washington Law Says to Alert the Public When Doctors Are Accused of Misconduct. It Can Take Months.",
+      "excerpt": "The post Washington Law Says to Alert the Public When Doctors Are Accused of Misconduct. It Can Take Months. appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/washington-doctor-misconduct-failed-disclosure",
+      "published": "2026-07-08T09:00:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "13f511e9c616",
+      "source": "Dropsite News",
+      "headline": "Platner Volunteers Want to Move Forward with a New Candidate",
+      "excerpt": "The populist movement propelling Graham Platner’s senatorial campaign is eyeing former state senator Troy Jackson.",
+      "link": "https://www.dropsitenews.com/p/maine-graham-platner-sexual-assault-senate-troy-jackson",
+      "published": "2026-07-07T17:59:37+00:00",
+      "featured": false
+    },
+    {
+      "id": "3f4a3d735f34",
+      "source": "ProPublica",
+      "headline": "Ken Paxton Vowed to Crack Down on “Illegal Voting.” He May Have Violated Texas Election Law.",
+      "excerpt": "The post Ken Paxton Vowed to Crack Down on “Illegal Voting.” He May Have Violated Texas Election Law. appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/ken-paxton-voter-registration-election-law",
+      "published": "2026-07-07T17:30:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "e0c7e814831c",
+      "source": "Dropsite News",
+      "headline": "Beyond the Battlefield: What Comes Next for the Iran and Gaza Wars",
+      "excerpt": "Palestinian Lawyer Diana Buttu and Iran analyst Vali Nasr speak to Jeremy Scahill and Murtaza Hussain.",
+      "link": "https://www.dropsitenews.com/p/iran-gaza-wars-israel-trump-ceasefire-khamenei-funeral",
+      "published": "2026-07-07T15:57:21+00:00",
+      "featured": false
+    },
+    {
+      "id": "ed0f6db83da3",
+      "source": "Dropsite News",
+      "headline": "Supporters call on Platner to drop out after rape story; Three cancer patients die every day in Gaza; Goodbye, DOGE",
+      "excerpt": "Drop Site Daily: July 7, 2026",
+      "link": "https://www.dropsitenews.com/p/graham-platner-maine-rape-gaza-cancer-israel-doge-shutdown",
+      "published": "2026-07-07T15:38:26+00:00",
+      "featured": false
+    },
+    {
+      "id": "7f3b3ad99596",
+      "source": "ICIJ",
+      "headline": "Taiwanese authorities charge executives who helped China’s cyber spies target ICIJ network",
+      "excerpt": "The Ministry of Justice Investigation Bureau probe corroborates ICIJ and Citizen Lab’s findings that attacks against journalists were part of a coordinated espionage campaign sponsored by Beijing.",
+      "link": "https://www.icij.org/investigations/china-targets/taiwanese-authorities-charge-executives-who-helped-chinas-cyber-spies-target-icij-network/",
+      "published": "2026-07-07T14:50:32+00:00",
+      "featured": false
+    },
+    {
+      "id": "4f1366746b8d",
+      "source": "ProPublica",
+      "headline": "The First Major Overhaul of Public Lands Grazing Regulations in a Generation Looks to Cut Out Public Involvement",
+      "excerpt": "The post The First Major Overhaul of Public Lands Grazing Regulations in a Generation Looks to Cut Out Public Involvement appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/public-land-livestock-grazing-ranching-access",
+      "published": "2026-07-07T09:00:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "b216d0147651",
+      "source": "ProPublica",
+      "headline": "Amid Mounting War Casualties, Pete Hegseth “Defunded and Impeded” Efforts to Protect Civilians, Lawmakers Say",
+      "excerpt": "The post Amid Mounting War Casualties, Pete Hegseth “Defunded and Impeded” Efforts to Protect Civilians, Lawmakers Say appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/hegseth-trump-war-civilian-casualties-elizabeth-warren-pentagon",
+      "published": "2026-07-06T16:00:00+00:00",
       "featured": false
     }
   ]
