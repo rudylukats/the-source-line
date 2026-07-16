@@ -1,14 +1,158 @@
 {
-  "generated_at": "2026-07-16T11:12:56.683446+00:00",
+  "generated_at": "2026-07-16T14:24:13.590645+00:00",
   "articles": [
+    {
+      "id": "36ee052caeb7",
+      "source": "Al Jazeera",
+      "headline": "US or Iran — Who needs a new truce deal more?",
+      "excerpt": "Both sides face pressure points that could make a protracted war painful.",
+      "link": "https://www.aljazeera.com/news/2026/7/16/us-or-iran-who-needs-a-new-truce-deal?traffic_source=rss",
+      "published": "2026-07-16T14:13:10+00:00",
+      "featured": true
+    },
+    {
+      "id": "0b251c9f9294",
+      "source": "Al Jazeera",
+      "headline": "Sudanese minister says war has ‘profoundly reshaped’ nation’s demographics",
+      "excerpt": "Sudan faces a population shift as conflict empties areas, burdens cities, and disrupts economic and social stability.",
+      "link": "https://www.aljazeera.com/news/2026/7/16/sudanese-minister-says-war-has-profoundly-reshaped-nations-demography?traffic_source=rss",
+      "published": "2026-07-16T13:45:43+00:00",
+      "featured": true
+    },
+    {
+      "id": "150f97ff44f1",
+      "source": "Al Jazeera",
+      "headline": "Key moments from JD Vance sit down with Joe Rogan",
+      "excerpt": "Key moments from JD Vance sit down with Joe Rogan",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/16/key-moments-from-jd-vance-sit-down-with-joe-rogan?traffic_source=rss",
+      "published": "2026-07-16T13:21:42+00:00",
+      "featured": true
+    },
+    {
+      "id": "8a82c84bee56",
+      "source": "Al Jazeera",
+      "headline": "‘Falklands are Argentinian’: Celebrations over England win revive old wounds",
+      "excerpt": "The Falkland Islands have been at the heart of a long-running dispute between the United Kingdom and Argentina.",
+      "link": "https://www.aljazeera.com/news/2026/7/16/falklands-are-argentinian-celebrations-over-england-win-revive-old-wounds?traffic_source=rss",
+      "published": "2026-07-16T13:17:48+00:00",
+      "featured": false
+    },
+    {
+      "id": "e99e0a0dae2b",
+      "source": "Al Jazeera",
+      "headline": "Powerful storm floods hundreds of homes in Russia’s urals",
+      "excerpt": "Powerful storm floods hundreds of homes in Russia's urals",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/16/powerful-storm-floods-hundreds-of-homes-in-russias-urals?traffic_source=rss",
+      "published": "2026-07-16T13:16:14+00:00",
+      "featured": false
+    },
+    {
+      "id": "a79c16092666",
+      "source": "Al Jazeera",
+      "headline": "US hosts global meet on ‘far-left terror’: Who’s attending, why it matters",
+      "excerpt": "More than 65 countries expected to address 'renewed threats' from 'far-left political violence and terrorism'.",
+      "link": "https://www.aljazeera.com/news/2026/7/16/us-hosts-global-meet-on-far-left-terror-whos-attending-why-it-matters?traffic_source=rss",
+      "published": "2026-07-16T12:42:17+00:00",
+      "featured": false
+    },
+    {
+      "id": "f43eb98ecbd6",
+      "source": "Al Jazeera",
+      "headline": "John Esposito, pioneering scholar of Islam in the US, dies aged 86",
+      "excerpt": "Georgetown scholar and author spent decades building bridges between the Islamic and Western worlds.",
+      "link": "https://www.aljazeera.com/features/2026/7/16/john-esposito-pioneering-scholar-of-islam-in-the-us-dies-aged-86?traffic_source=rss",
+      "published": "2026-07-16T12:41:19+00:00",
+      "featured": false
+    },
+    {
+      "id": "ababc1ef1004",
+      "source": "Al Jazeera",
+      "headline": "Palestinians in Gaza search through homes destroyed by Israeli strikes",
+      "excerpt": "Palestinians are inspecting the damage in Nuseirat after Israeli strikes reduced their homes to rubble.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/16/palestinians-in-gaza-search-through-homes-destroyed-by-israeli-strikes?traffic_source=rss",
+      "published": "2026-07-16T12:31:08+00:00",
+      "featured": false
+    },
+    {
+      "id": "d90946c9171b",
+      "source": "Al Jazeera",
+      "headline": "FIFA World Cup 2026: Biggest takeaways from the semifinals",
+      "excerpt": "The semifinals are now behind us, with plenty of key moments and incidents to digest ahead of Sunday's final.",
+      "link": "https://www.aljazeera.com/sports/2026/7/16/fifa-world-cup-2026-biggest-takeaways-from-the-semifinals?traffic_source=rss",
+      "published": "2026-07-16T12:26:27+00:00",
+      "featured": false
+    },
+    {
+      "id": "87a1643d089d",
+      "source": "Al Jazeera",
+      "headline": "Thousands to lose their homes as Ivory Coast demolitions begin",
+      "excerpt": "Thousands to lose their homes as Ivory Coast demolitions begin",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/16/thousands-to-lose-their-homes-as-ivory-coast-demolitions-begin?traffic_source=rss",
+      "published": "2026-07-16T12:20:29+00:00",
+      "featured": false
+    },
+    {
+      "id": "8aa724f563a6",
+      "source": "Al Jazeera",
+      "headline": "Iran claims strikes on US bases, warns of wider attacks on region",
+      "excerpt": "Iran claims strikes on US bases, warns of wider attacks on region",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/16/iran-claims-strikes-on-us-bases-warns-of-wider-attacks-on-region?traffic_source=rss",
+      "published": "2026-07-16T12:00:45+00:00",
+      "featured": false
+    },
+    {
+      "id": "c59aadcb1556",
+      "source": "Al Jazeera",
+      "headline": "EU court upholds Spanish amnesty law as compatible with EU law",
+      "excerpt": "Amnesty for people involved in Catalonia independence movement introduced in 2024 by PM Pedro Sanchez's government.",
+      "link": "https://www.aljazeera.com/news/2026/7/16/eu-court-upholds-spanish-amnesty-law-as-compatible-with-eu-law?traffic_source=rss",
+      "published": "2026-07-16T11:56:14+00:00",
+      "featured": false
+    },
+    {
+      "id": "6ce426e6f81d",
+      "source": "Al Jazeera",
+      "headline": "Venezuela’s recovery clouded by uncertainty three weeks after earthquake",
+      "excerpt": "In Venezuela, the focus has shifted from rescue to rebuilding three weeks after devastating earthquakes.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/16/venezuelas-recovery-clouded-by-uncertainty-three-weeks-after-earthquake?traffic_source=rss",
+      "published": "2026-07-16T11:40:51+00:00",
+      "featured": false
+    },
+    {
+      "id": "440dc9c1b2f4",
+      "source": "Al Jazeera",
+      "headline": "‘Destroyed my whole life’: Lebanese families wiped out in Israeli attacks",
+      "excerpt": "Hussein Saleh describes an Israeli air attack in Tyre that killed his family, including his wife and his only child.",
+      "link": "https://www.aljazeera.com/features/2026/7/16/destroyed-my-whole-life-lebanese-families-wiped-out-in-israeli?traffic_source=rss",
+      "published": "2026-07-16T11:40:05+00:00",
+      "featured": false
+    },
+    {
+      "id": "eb966dc0f362",
+      "source": "Al Jazeera",
+      "headline": "Palestinians fight fires after settler attacks in the occupied West Bank",
+      "excerpt": "Overnight Israeli settler attacks set farmlands ablaze in Masafer Yatta and burned vehicles near Tulkarem.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/16/palestinians-fight-fires-after-settler-attacks-in-the-occupied-west-bank?traffic_source=rss",
+      "published": "2026-07-16T11:36:47+00:00",
+      "featured": false
+    },
+    {
+      "id": "ce086fd4a925",
+      "source": "Al Jazeera",
+      "headline": "World Cup: Tuchel, Messi and why Argentina beat England in semifinal",
+      "excerpt": "England's poor defensive tactics, Lionel Messi's enduring brilliance, and Argentina self-belief behind 2-1 comeback win.",
+      "link": "https://www.aljazeera.com/sports/2026/7/16/key-factors-in-argentinas-win-over-england-in-world-cup-2026-semifinal-tuchel-messi?traffic_source=rss",
+      "published": "2026-07-16T11:31:23+00:00",
+      "featured": false
+    },
     {
       "id": "e521a982637a",
       "source": "Al Jazeera",
       "headline": "Hundreds protest in Kyiv over Zelenskyy’s dismissal of defence minister",
-      "excerpt": "Mykhailo Fedorov has been credited with reforming defence procurement and tackling corruption.",
+      "excerpt": "The Ukrainian parliament has elected Serhii Koretskyi as the country's new prime minister.",
       "link": "https://www.aljazeera.com/news/2026/7/16/hundreds-protest-in-kyiv-over-zelenskyys-dismissal-of-defence-minister?traffic_source=rss",
       "published": "2026-07-16T10:45:36+00:00",
-      "featured": true
+      "featured": false
     },
     {
       "id": "4d17a22e82ad",
@@ -17,33 +161,6 @@
       "excerpt": "Eleven people died and 19 were injured after a fire swept through a state-run child welfare home in east Algiers.",
       "link": "https://www.aljazeera.com/news/2026/7/16/fire-at-orphanage-in-algeria-kills-11-people-including-children?traffic_source=rss",
       "published": "2026-07-16T10:41:41+00:00",
-      "featured": true
-    },
-    {
-      "id": "c5a5cddf7c38",
-      "source": "Al Jazeera",
-      "headline": "Climate funding: Who pays for the transition?",
-      "excerpt": "Developed nations are cutting climate funding, but developing countries still need billions to adapt.",
-      "link": "https://www.aljazeera.com/video/counting-the-cost/2026/7/16/climate-funding-who-pays-for-the-transition?traffic_source=rss",
-      "published": "2026-07-16T10:39:45+00:00",
-      "featured": true
-    },
-    {
-      "id": "2e90d39803f3",
-      "source": "Al Jazeera",
-      "headline": "‘Safe passage’: The fatal ambiguity at the heart of the Hormuz MoU",
-      "excerpt": "The vague language of the US-Iran MoU made the present escalation in the Strait of Hormuz all but inevitable.",
-      "link": "https://www.aljazeera.com/opinions/2026/7/16/safe-passage-the-fatal-ambiguity-at-the-heart-of-the-hormuz-mou?traffic_source=rss",
-      "published": "2026-07-16T10:27:59+00:00",
-      "featured": false
-    },
-    {
-      "id": "01e2c5f6117b",
-      "source": "Al Jazeera",
-      "headline": "What is cyclospora? Diarrhoea symptoms, foods linked to US outbreak",
-      "excerpt": "Cyclospora cases are rising across the US. Here's what to know about symptoms, spread, treatment and prevention.",
-      "link": "https://www.aljazeera.com/news/2026/7/16/what-is-cyclospora-diarrhoea-symptoms-foods-linked-to-us-outbreak?traffic_source=rss",
-      "published": "2026-07-16T10:12:57+00:00",
       "featured": false
     },
     {
@@ -53,51 +170,6 @@
       "excerpt": "The post DHS Plans “All-Out War” on Immigration Scammers as Fraud Complaints Double appeared first on ProPublica.",
       "link": "https://www.propublica.org/article/trump-dhs-immigration-scams-fraud-homeland-security",
       "published": "2026-07-16T10:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "902cb2dd89b1",
-      "source": "Al Jazeera",
-      "headline": "More than 500 feared dead after reports of boats capsizing off Myanmar",
-      "excerpt": "The IOM and UNHCR say two boats carrying mostly Rohingya passengers departed Rakhine State in late June.",
-      "link": "https://www.aljazeera.com/news/2026/7/16/more-than-500-feared-dead-after-reports-of-boats-capsizing-off-myanmar?traffic_source=rss",
-      "published": "2026-07-16T09:51:13+00:00",
-      "featured": false
-    },
-    {
-      "id": "beb83ddbb7d6",
-      "source": "Al Jazeera",
-      "headline": "Photos: Messi’s Argentina stun England to reach World Cup final vs Spain",
-      "excerpt": "Messi inspires Argentina’s dramatic late comeback win over England to reach final against Spain.",
-      "link": "https://www.aljazeera.com/gallery/2026/7/16/photos-messis-argentina-stun-england-to-reach-world-cup-final-vs-spain?traffic_source=rss",
-      "published": "2026-07-16T09:45:12+00:00",
-      "featured": false
-    },
-    {
-      "id": "d0c11dbcd33e",
-      "source": "Al Jazeera",
-      "headline": "Decades of denial: Death certificate for disappeared reopens Kashmir wounds",
-      "excerpt": "After years of searching and court battles, a judge declares what Junaid Rashid already believed: His father was dead.",
-      "link": "https://www.aljazeera.com/news/2026/7/16/decades-of-denial-death-certificate-for-disappeared-reopens-kashmir-wounds?traffic_source=rss",
-      "published": "2026-07-16T09:39:42+00:00",
-      "featured": false
-    },
-    {
-      "id": "4ce8cba60497",
-      "source": "Al Jazeera",
-      "headline": "Yemen is edging closer to renewed confrontation",
-      "excerpt": "The Iranian aircraft incident has exposed a fragile calm that may not survive a wider regional escalation.",
-      "link": "https://www.aljazeera.com/opinions/2026/7/16/yemen-is-edging-closer-to-renewed-confrontation?traffic_source=rss",
-      "published": "2026-07-16T09:36:38+00:00",
-      "featured": false
-    },
-    {
-      "id": "f8a7dab5667f",
-      "source": "Al Jazeera",
-      "headline": "FIFA World Cup final: Date, time, halftime show, prediction and Trump",
-      "excerpt": "From Donald Trump's attendance to the match winner, the short guide before football’s global showpiece in New Jersey.",
-      "link": "https://www.aljazeera.com/sports/2026/7/16/fifa-world-cup-final-2026-date-time-and-venue-trump-prediction?traffic_source=rss",
-      "published": "2026-07-16T09:07:06+00:00",
       "featured": false
     },
     {
@@ -116,78 +188,6 @@
       "excerpt": "The post Public Money Is Fueling an Explosion of Private Schools. States Often Don’t Care How They’re Run. appeared first on ProPublica.",
       "link": "https://www.propublica.org/article/private-schools-vouchers-growth-florida-arizona-west-virginia",
       "published": "2026-07-16T09:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "abacd745ae3d",
-      "source": "Al Jazeera",
-      "headline": "Why Italy’s Genoa bridge collapse led to one of its biggest criminal trials",
-      "excerpt": "Eight years after 43 people were killed, judges rule in the first trial over the Genoa bridge collapse.",
-      "link": "https://www.aljazeera.com/news/2026/7/16/why-italys-genoa-bridge-collapse-led-to-one-of-its-biggest-criminal-trials?traffic_source=rss",
-      "published": "2026-07-16T08:57:42+00:00",
-      "featured": false
-    },
-    {
-      "id": "795ae8a393c5",
-      "source": "Al Jazeera",
-      "headline": "Vance says Epstein had connections to US, Israeli intelligence",
-      "excerpt": "The US vice president says Epstein 'seemed' to be connected to elements of the 'Israeli deep state'.",
-      "link": "https://www.aljazeera.com/news/2026/7/16/vance-says-epstein-had-connections-to-us-israeli-intelligence?traffic_source=rss",
-      "published": "2026-07-16T08:37:54+00:00",
-      "featured": false
-    },
-    {
-      "id": "40144ed0b388",
-      "source": "Al Jazeera",
-      "headline": "US releases video of strikes on Iran",
-      "excerpt": "US releases video of strikes on Iran",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/16/us-releases-video-of-strikes-on-iran?traffic_source=rss",
-      "published": "2026-07-16T08:26:24+00:00",
-      "featured": false
-    },
-    {
-      "id": "bb290f92c3d9",
-      "source": "Al Jazeera",
-      "headline": "US strikes Iran, tanker, as Tehran hits Kuwait, Jordan: What’s the latest",
-      "excerpt": "Strikes have hit closer to Tehran for the first time since the latest wave of attacks started.",
-      "link": "https://www.aljazeera.com/news/2026/7/16/us-strikes-iran-tanker-as-tehran-hits-kuwait-jordan-whats-the-latest?traffic_source=rss",
-      "published": "2026-07-16T08:23:40+00:00",
-      "featured": false
-    },
-    {
-      "id": "1d52d3d1bd09",
-      "source": "Al Jazeera",
-      "headline": "Greece pins hopes on heat-seeking satellites to predict wildfires",
-      "excerpt": "The country, which suffers each summer, builds an arsenal of high-tech surveillance to help pre-position firefighters.",
-      "link": "https://www.aljazeera.com/news/2026/7/16/greece-pins-hopes-on-heat-seeking-satellites-to-predict-wildfires?traffic_source=rss",
-      "published": "2026-07-16T08:21:40+00:00",
-      "featured": false
-    },
-    {
-      "id": "53098d372ea9",
-      "source": "Al Jazeera",
-      "headline": "US launches new attacks on Iran as Tehran targets Gulf sites",
-      "excerpt": "Iran's Health Ministry has said at least 35 people have been killed and more than 300 injured since fighting resumed.",
-      "link": "https://www.aljazeera.com/news/2026/7/16/us-launches-new-attacks-on-iran-as-tehran-targets-gulf-sites?traffic_source=rss",
-      "published": "2026-07-16T08:18:23+00:00",
-      "featured": false
-    },
-    {
-      "id": "ff03f7fdc125",
-      "source": "Al Jazeera",
-      "headline": "Watch FIFA World Cup: Argentina rallies past England to reach final",
-      "excerpt": "Latest match highlights, reaction and previews from the FIFA World Cup 2026 in North America.",
-      "link": "https://www.aljazeera.com/video/2026/7/16/video-world-cup-2026-highlights?traffic_source=rss",
-      "published": "2026-07-16T08:15:41+00:00",
-      "featured": false
-    },
-    {
-      "id": "b8c761656de3",
-      "source": "Al Jazeera",
-      "headline": "‘Escaping Beijing’: Why some young Chinese are quitting the capital",
-      "excerpt": "A slowing economy and rising prices are making it harder for young Chinese to thrive in the city.",
-      "link": "https://www.aljazeera.com/news/2026/7/16/escaping-beijing-why-some-young-chinese-are-quitting-the-capital?traffic_source=rss",
-      "published": "2026-07-16T08:10:20+00:00",
       "featured": false
     },
     {
