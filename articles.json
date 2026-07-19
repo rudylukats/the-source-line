@@ -1,6 +1,78 @@
 {
-  "generated_at": "2026-07-19T03:55:16.686405+00:00",
+  "generated_at": "2026-07-19T08:33:23.451083+00:00",
   "articles": [
+    {
+      "id": "bfdfcda4bd19",
+      "source": "Al Jazeera",
+      "headline": "Israel demolishes Palestinian home in Masafer Yatta",
+      "excerpt": "Israel demolishes Palestinian home in Masafer Yatta",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/19/israel-demolishes-palestinian-home-in-masafer-yatta?traffic_source=rss",
+      "published": "2026-07-19T07:30:54+00:00",
+      "featured": true
+    },
+    {
+      "id": "8b0a25fc869a",
+      "source": "Al Jazeera",
+      "headline": "Russia launches largest ballistic missile attack on Kyiv since start of war",
+      "excerpt": "Ukraine is particularly vulnerable to ballistic missile attacks due to a shortage of Patriot air defence munitions.",
+      "link": "https://www.aljazeera.com/news/2026/7/19/russia-launches-largest-ballistic-missile-attack-on-kyiv-since-start-of-war?traffic_source=rss",
+      "published": "2026-07-19T07:28:08+00:00",
+      "featured": true
+    },
+    {
+      "id": "3d193faea933",
+      "source": "Al Jazeera",
+      "headline": "Spain vs Argentina FIFA World Cup final: Team news, prediction and lineups",
+      "excerpt": "Stars Lionel Messi and Lamine Yamal clash at the biggest match of the biggest World Cup in history.",
+      "link": "https://www.aljazeera.com/sports/2026/7/19/spain-vs-argentina-fifa-world-cup-final-messi-yamal-prediction-time-lineups-team-news?traffic_source=rss",
+      "published": "2026-07-19T07:15:31+00:00",
+      "featured": true
+    },
+    {
+      "id": "fea7ea82a1b3",
+      "source": "Al Jazeera",
+      "headline": "The number one health issue in Palestine is the Israeli occupation",
+      "excerpt": "In both Gaza and the West Bank, Israeli policies are devastating Palestinian health with deadly consequences.",
+      "link": "https://www.aljazeera.com/opinions/2026/7/19/the-number-one-health-issue-in-palestine-is-the-israeli-occupation?traffic_source=rss",
+      "published": "2026-07-19T07:15:19+00:00",
+      "featured": false
+    },
+    {
+      "id": "b79bddbd6d95",
+      "source": "Al Jazeera",
+      "headline": "US bombs Iran for eighth-straight night",
+      "excerpt": "The US has launched a new wave of strikes on Iran after two American soldiers were killed by Iranian strikes in Jordan.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/19/us-bombs-iran-for-eighth-straight-night?traffic_source=rss",
+      "published": "2026-07-19T05:08:20+00:00",
+      "featured": false
+    },
+    {
+      "id": "3a5266d0e72b",
+      "source": "Al Jazeera",
+      "headline": "Moment Iranian missiles hit airbase in Jordan killing US soldiers",
+      "excerpt": "A video captures the moment an Iranian missile struck Jordan’s Muwaffaq Salti Airbase, killing two US service members.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/19/moment-iranian-missiles-hit-airbase-in-jordan-killing-us-soldiers?traffic_source=rss",
+      "published": "2026-07-19T04:36:47+00:00",
+      "featured": false
+    },
+    {
+      "id": "b7352c2cec58",
+      "source": "Al Jazeera",
+      "headline": "At least one killed as Russian ballistic missiles hit Kyiv",
+      "excerpt": "Russian missiles struck Kyiv and the surrounding region early on Sunday, killing at least one person and injuring nine.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/19/at-least-one-killed-as-russian-ballistic-missiles-hit-kyiv?traffic_source=rss",
+      "published": "2026-07-19T04:32:28+00:00",
+      "featured": false
+    },
+    {
+      "id": "d1c046b4ca07",
+      "source": "Al Jazeera",
+      "headline": "US hits Iran for eighth consecutive night, Iran returns fire on Gulf bases",
+      "excerpt": "Sirik and Hajiabad areas in Iran's Hormozgan province targeted as US says revenge for killing of two soldiers.",
+      "link": "https://www.aljazeera.com/news/2026/7/19/us-launches-eighth-consecutive-night-of-attacks-on-iran?traffic_source=rss",
+      "published": "2026-07-19T04:16:08+00:00",
+      "featured": false
+    },
     {
       "id": "4bd5ea293adf",
       "source": "Al Jazeera",
@@ -8,7 +80,7 @@
       "excerpt": "A small team is working to digitise decades of Somali history in the country's main public radio station.",
       "link": "https://www.aljazeera.com/news/2026/7/19/somalia-races-to-save-radio-mogadishus-fading-archive?traffic_source=rss",
       "published": "2026-07-19T03:38:03+00:00",
-      "featured": true
+      "featured": false
     },
     {
       "id": "719ac56c244d",
@@ -17,7 +89,7 @@
       "excerpt": "Controversial influencers Andrew and Tristan Tate have been arrested in Miami onrape and sex trafficking charges.",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/7/19/tate-brothers-arrested-in-miami-on-rape-and-sex-trafficking-charges-2?traffic_source=rss",
       "published": "2026-07-19T03:36:44+00:00",
-      "featured": true
+      "featured": false
     },
     {
       "id": "2d6de4ab6e87",
@@ -26,7 +98,7 @@
       "excerpt": "A trend of teams defending deep has enticed forwards to take shots from outside the penalty area, Jurgen Klinsmann says.",
       "link": "https://www.aljazeera.com/sports/2026/7/19/fifa-world-cup-2026-sees-major-increase-in-goals-from-outside-the-box?traffic_source=rss",
       "published": "2026-07-19T03:34:40+00:00",
-      "featured": true
+      "featured": false
     },
     {
       "id": "f59a35229380",
@@ -89,78 +161,6 @@
       "excerpt": "Otero Alcantara is part of the San Isidro Movement, which has long been the target of Cuban repression.",
       "link": "https://www.aljazeera.com/news/2026/7/19/exiled-cuban-artist-otero-alcantara-has-arrived-in-us-rubio-confirms?traffic_source=rss",
       "published": "2026-07-19T00:52:18+00:00",
-      "featured": false
-    },
-    {
-      "id": "93378a43bcf5",
-      "source": "Al Jazeera",
-      "headline": "A giant cake for Venezuelan quake child survivors as death toll passes 5000",
-      "excerpt": "Volunteers made a giant cake to cheer up around 3,000 Venezuelan children displaced by last month's powerful twin quakes",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/19/a-giant-cake-for-venezuelan-quake-child-survivors-as-death-toll-passes-5000?traffic_source=rss",
-      "published": "2026-07-19T00:39:42+00:00",
-      "featured": false
-    },
-    {
-      "id": "663a81697065",
-      "source": "Al Jazeera",
-      "headline": "Netanyahu declares support for Argentina ahead of World Cup final",
-      "excerpt": "Argentina’s ambassador to Israel has presented Benjamin Netanyahu with a football jersey ahead of the World Cup final.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/19/netanyahu-declares-support-for-argentina-ahead-of-world-cup-final?traffic_source=rss",
-      "published": "2026-07-19T00:33:31+00:00",
-      "featured": false
-    },
-    {
-      "id": "d19ea24cebe7",
-      "source": "Al Jazeera",
-      "headline": "Iran war live: US launches new strikes; Trump mourns killed soldiers",
-      "excerpt": "US president says death of soldiers in Jordan a 'sad thing' as US forces attack Iran for the eighth consecutive night.",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/7/19/iran-war-live-us-launches-new-strikes-trump-mourns-killed-soldiers?traffic_source=rss",
-      "published": "2026-07-19T00:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "06830dffb80e",
-      "source": "Al Jazeera",
-      "headline": "Saka hat-trick helps England down France to win World Cup 2026 Bronze Final",
-      "excerpt": "Kylian Mbappe scores twice for France to hit World Cup record, but England win 6-4 in third-place playoff final.",
-      "link": "https://www.aljazeera.com/sports/2026/7/18/saka-hat-trick-helps-england-down-france-to-win-world-cup-2026-bronze-final?traffic_source=rss",
-      "published": "2026-07-18T23:22:12+00:00",
-      "featured": false
-    },
-    {
-      "id": "601ce24eb15b",
-      "source": "Al Jazeera",
-      "headline": "Kylian Mbappe breaks all-time World Cup scoring record with 22nd goal",
-      "excerpt": "Mbappe is back on track to defend his Golden Boot title, which he and Messi have traded between themselves throughout the tournament.",
-      "link": "https://www.aljazeera.com/sports/2026/7/18/kylian-mbappe-breaks-all-time-world-cup-scoring-record-with-22nd-goal?traffic_source=rss",
-      "published": "2026-07-18T23:20:31+00:00",
-      "featured": false
-    },
-    {
-      "id": "2cfde2a013e4",
-      "source": "Al Jazeera",
-      "headline": "World Cup final tickets near $2.3m mark on FIFA’s resale platform",
-      "excerpt": "While no tickets are available on FIFA's sales platform, they are being resold for sky-high prices on resale sites.",
-      "link": "https://www.aljazeera.com/sports/2026/7/18/world-cup-final-tickets-near-2-3m-mark-on-fifas-resale-platform?traffic_source=rss",
-      "published": "2026-07-18T22:41:47+00:00",
-      "featured": false
-    },
-    {
-      "id": "706390713c39",
-      "source": "Al Jazeera",
-      "headline": "Cockroach Party protest intensifies after Wangchuk forcibly hospitalised",
-      "excerpt": "Protest by India's Cockroach Janta Party has intensified after activist Sonam Wangchuk was forcibly hospitalised.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/18/cockroach-party-protest-intensifies-after-wangchuk-forcibly-hospitalised?traffic_source=rss",
-      "published": "2026-07-18T21:03:34+00:00",
-      "featured": false
-    },
-    {
-      "id": "21153e0e63c1",
-      "source": "Al Jazeera",
-      "headline": "Latin America unites to cheer against Argentina in FIFA World Cup final",
-      "excerpt": "Fans from Mexico to Brazil unite to cheer Yamal's Spain against Argentina and Messi, whom they call 'FIFA’s golden boy'.",
-      "link": "https://www.aljazeera.com/sports/2026/7/18/latin-america-unites-to-cheer-against-argentina-in-fifa-world-cup-final?traffic_source=rss",
-      "published": "2026-07-18T21:02:44+00:00",
       "featured": false
     },
     {
