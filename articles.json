@@ -1,6 +1,96 @@
 {
-  "generated_at": "2026-07-19T08:33:23.451083+00:00",
+  "generated_at": "2026-07-19T10:43:32.696733+00:00",
   "articles": [
+    {
+      "id": "a51c664dada8",
+      "source": "Al Jazeera",
+      "headline": "Gaza cheers for Spain as World Cup final anticipation mounts",
+      "excerpt": "Football fans in Gaza express support for Spain in showdown with Argentina, citing Spanish solidarity with Palestinians.",
+      "link": "https://www.aljazeera.com/news/2026/7/19/gaza-cheers-for-spain-as-world-cup-final-anticipation-mounts?traffic_source=rss",
+      "published": "2026-07-19T10:09:25+00:00",
+      "featured": true
+    },
+    {
+      "id": "a4e7b2caf3e4",
+      "source": "Al Jazeera",
+      "headline": "Du Plessis makes winning return to UFC with dominant decision over Usman",
+      "excerpt": "South African fighter held the middleweight belt ⁠from January 2024 until August 2025 when he lost to Chimaev.",
+      "link": "https://www.aljazeera.com/sports/2026/7/19/dricus-du-plessis-mma-ufc-unanimous-decision-kamaru-usman?traffic_source=rss",
+      "published": "2026-07-19T09:46:35+00:00",
+      "featured": true
+    },
+    {
+      "id": "27a37b066a02",
+      "source": "Al Jazeera",
+      "headline": "World Cup 2026 final: Closing ceremony and half-time show – what to know",
+      "excerpt": "Spain face Argentina in the 2026 World Cup final as musicians perform before kickoff and during the half-time break.",
+      "link": "https://www.aljazeera.com/sports/2026/7/19/world-cup-2026-final-closing-ceremony-and-half-time-show-what-to-know?traffic_source=rss",
+      "published": "2026-07-19T09:35:52+00:00",
+      "featured": true
+    },
+    {
+      "id": "8538775d1371",
+      "source": "Al Jazeera",
+      "headline": "Five people rescued after Indonesia boat sinks, at least 20 still missing",
+      "excerpt": "The survivors were found clinging to a fish trap and floating debris at sea three days after the boat sank.",
+      "link": "https://www.aljazeera.com/news/2026/7/19/five-people-rescued-after-indonesia-boat-sinks-at-least-20-still-missing?traffic_source=rss",
+      "published": "2026-07-19T09:08:55+00:00",
+      "featured": false
+    },
+    {
+      "id": "e03ff33ca69b",
+      "source": "Al Jazeera",
+      "headline": "US launches new Iran strikes after two soldiers killed: What’s the latest?",
+      "excerpt": "US strikes target Iran's IRGC after two of its soldiers were killed in Jordan, as Tehran attacks Kuwait and Bahrain.",
+      "link": "https://www.aljazeera.com/news/2026/7/19/us-launches-new-iran-strikes-after-two-soldiers-killed-whats-the-latest?traffic_source=rss",
+      "published": "2026-07-19T08:49:56+00:00",
+      "featured": false
+    },
+    {
+      "id": "48402841eea8",
+      "source": "Al Jazeera",
+      "headline": "From settlements to blocked recovery: Israeli strategy taking shape in Gaza",
+      "excerpt": "Setting up illegal settlements, erasing cities and obstructing aid serve goal of forcing Palestinians out, analysts say.",
+      "link": "https://www.aljazeera.com/news/2026/7/19/from-settlements-to-blocked-recovery-israeli-strategy-taking-shape-in-gaza?traffic_source=rss",
+      "published": "2026-07-19T08:46:42+00:00",
+      "featured": false
+    },
+    {
+      "id": "c35b352d439c",
+      "source": "Al Jazeera",
+      "headline": "Spain fans bring the party to New York before World Cup final",
+      "excerpt": "‘King [Messi] abdicates, but the prince [Lamine Yamal] takes the throne!’",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/19/spain-fans-bring-the-party-to-new-york-before-world-cup-final?traffic_source=rss",
+      "published": "2026-07-19T08:41:18+00:00",
+      "featured": false
+    },
+    {
+      "id": "f32a33154478",
+      "source": "Al Jazeera",
+      "headline": "Spain vs Argentina: World Cup final predictions, schedule, Messi news",
+      "excerpt": "Spain face Argentina in the World Cup final as Lionel Messi, Lamine Yamal and history dominate the build-up.",
+      "link": "https://www.aljazeera.com/news/2026/7/19/world-cup-final-2026-spain-argentina-predictions-schedule-messi?traffic_source=rss",
+      "published": "2026-07-19T08:24:19+00:00",
+      "featured": false
+    },
+    {
+      "id": "b432e17fdae4",
+      "source": "Al Jazeera",
+      "headline": "Watch FIFA World Cup: Argentina, Spain make preparations ahead of final",
+      "excerpt": "Latest match highlights, reaction and previews from the FIFA World Cup 2026 in North America.",
+      "link": "https://www.aljazeera.com/video/2026/7/19/video-world-cup-2026-highlights?traffic_source=rss",
+      "published": "2026-07-19T08:20:41+00:00",
+      "featured": false
+    },
+    {
+      "id": "bbb3c96e61bc",
+      "source": "Al Jazeera",
+      "headline": "Spain vs Argentina: How each team can win World Cup final 2026",
+      "excerpt": "Matchups, a style clash, Messi magic, a midfield battle and a passing of the torch could be key narratives in the final.",
+      "link": "https://www.aljazeera.com/sports/2026/7/19/spain-vs-argentina-five-key-factors-2026-world-cup-final?traffic_source=rss",
+      "published": "2026-07-19T08:12:54+00:00",
+      "featured": false
+    },
     {
       "id": "bfdfcda4bd19",
       "source": "Al Jazeera",
@@ -8,7 +98,7 @@
       "excerpt": "Israel demolishes Palestinian home in Masafer Yatta",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/7/19/israel-demolishes-palestinian-home-in-masafer-yatta?traffic_source=rss",
       "published": "2026-07-19T07:30:54+00:00",
-      "featured": true
+      "featured": false
     },
     {
       "id": "8b0a25fc869a",
@@ -17,7 +107,7 @@
       "excerpt": "Ukraine is particularly vulnerable to ballistic missile attacks due to a shortage of Patriot air defence munitions.",
       "link": "https://www.aljazeera.com/news/2026/7/19/russia-launches-largest-ballistic-missile-attack-on-kyiv-since-start-of-war?traffic_source=rss",
       "published": "2026-07-19T07:28:08+00:00",
-      "featured": true
+      "featured": false
     },
     {
       "id": "3d193faea933",
@@ -26,7 +116,7 @@
       "excerpt": "Stars Lionel Messi and Lamine Yamal clash at the biggest match of the biggest World Cup in history.",
       "link": "https://www.aljazeera.com/sports/2026/7/19/spain-vs-argentina-fifa-world-cup-final-messi-yamal-prediction-time-lineups-team-news?traffic_source=rss",
       "published": "2026-07-19T07:15:31+00:00",
-      "featured": true
+      "featured": false
     },
     {
       "id": "fea7ea82a1b3",
@@ -71,96 +161,6 @@
       "excerpt": "Sirik and Hajiabad areas in Iran's Hormozgan province targeted as US says revenge for killing of two soldiers.",
       "link": "https://www.aljazeera.com/news/2026/7/19/us-launches-eighth-consecutive-night-of-attacks-on-iran?traffic_source=rss",
       "published": "2026-07-19T04:16:08+00:00",
-      "featured": false
-    },
-    {
-      "id": "4bd5ea293adf",
-      "source": "Al Jazeera",
-      "headline": "Somalia races to save Radio Mogadishu’s fading archive",
-      "excerpt": "A small team is working to digitise decades of Somali history in the country's main public radio station.",
-      "link": "https://www.aljazeera.com/news/2026/7/19/somalia-races-to-save-radio-mogadishus-fading-archive?traffic_source=rss",
-      "published": "2026-07-19T03:38:03+00:00",
-      "featured": false
-    },
-    {
-      "id": "719ac56c244d",
-      "source": "Al Jazeera",
-      "headline": "Tate brothers arrested in Miami on rape and sex trafficking charges",
-      "excerpt": "Controversial influencers Andrew and Tristan Tate have been arrested in Miami onrape and sex trafficking charges.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/19/tate-brothers-arrested-in-miami-on-rape-and-sex-trafficking-charges-2?traffic_source=rss",
-      "published": "2026-07-19T03:36:44+00:00",
-      "featured": false
-    },
-    {
-      "id": "2d6de4ab6e87",
-      "source": "Al Jazeera",
-      "headline": "FIFA World Cup 2026 sees major increase in goals from outside the box",
-      "excerpt": "A trend of teams defending deep has enticed forwards to take shots from outside the penalty area, Jurgen Klinsmann says.",
-      "link": "https://www.aljazeera.com/sports/2026/7/19/fifa-world-cup-2026-sees-major-increase-in-goals-from-outside-the-box?traffic_source=rss",
-      "published": "2026-07-19T03:34:40+00:00",
-      "featured": false
-    },
-    {
-      "id": "f59a35229380",
-      "source": "Al Jazeera",
-      "headline": "‘Spanish style’ wins over New York’s die-hard World Cup fans ahead of final",
-      "excerpt": "La Roja's World Cup success has built a new coalition of loyal and recently converted Spanish fans across New York City.",
-      "link": "https://www.aljazeera.com/sports/2026/7/19/spanish-style-wins-over-new-yorks-die-hard-world-cup-fans-ahead-of-final?traffic_source=rss",
-      "published": "2026-07-19T03:02:22+00:00",
-      "featured": false
-    },
-    {
-      "id": "439e432be4f1",
-      "source": "Al Jazeera",
-      "headline": "Palestinian teenage footballer dies after Israeli settler attack",
-      "excerpt": "Palestinian teenage footballer, Fadi al-Naasan, has died a week after being shot by Israeli forces.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/19/palestinian-teenage-footballer-dies-after-israeli-settler-attack?traffic_source=rss",
-      "published": "2026-07-19T02:57:31+00:00",
-      "featured": false
-    },
-    {
-      "id": "feff64e68fef",
-      "source": "Al Jazeera",
-      "headline": "Tate brothers arrested in Miami as UK adds rape, trafficking charges",
-      "excerpt": "Andrew and his brother Tristan were arrested in the US on Saturday, and the UK is seeking their extradition.",
-      "link": "https://www.aljazeera.com/news/2026/7/19/tate-brothers-arrested-in-miami-as-uk-adds-rape-trafficking-charges?traffic_source=rss",
-      "published": "2026-07-19T02:05:41+00:00",
-      "featured": false
-    },
-    {
-      "id": "8606840c18e1",
-      "source": "Al Jazeera",
-      "headline": "WNBA coach Brondello suspended over inappropriate comment at Angel Reese",
-      "excerpt": "Brondello suspended for a game after calling Reese a 'protected species' in Toronto Tempo's game against Atlanta Dream.",
-      "link": "https://www.aljazeera.com/sports/2026/7/19/wnba-coach-brondello-suspended-over-inappropriate-comment-at-angel-reese?traffic_source=rss",
-      "published": "2026-07-19T01:57:39+00:00",
-      "featured": false
-    },
-    {
-      "id": "1b1c33d2ef6a",
-      "source": "Al Jazeera",
-      "headline": "FIFA admits hydration breaks may not continue after World Cup criticism",
-      "excerpt": "FIFA will analyse the impact of hydration breaks after the World Cup, says Arsene Wenger a day before the final.",
-      "link": "https://www.aljazeera.com/news/2026/7/19/fifa-admits-hydration-breaks-may-not-continue-after-world-cup-criticism?traffic_source=rss",
-      "published": "2026-07-19T01:40:12+00:00",
-      "featured": false
-    },
-    {
-      "id": "024a98c35fd3",
-      "source": "Al Jazeera",
-      "headline": "Argentina fans flood NYC’s Times Square before World Cup final",
-      "excerpt": "Hundreds of Argentina fans packed New York City’s Times Square hours before Sunday's World Cup final.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/19/argentina-fans-flood-nycs-times-square-before-world-cup-final?traffic_source=rss",
-      "published": "2026-07-19T01:20:48+00:00",
-      "featured": false
-    },
-    {
-      "id": "002d977bda34",
-      "source": "Al Jazeera",
-      "headline": "Exiled Cuban artist Otero Alcantara has arrived in US, Rubio confirms",
-      "excerpt": "Otero Alcantara is part of the San Isidro Movement, which has long been the target of Cuban repression.",
-      "link": "https://www.aljazeera.com/news/2026/7/19/exiled-cuban-artist-otero-alcantara-has-arrived-in-us-rubio-confirms?traffic_source=rss",
-      "published": "2026-07-19T00:52:18+00:00",
       "featured": false
     },
     {
