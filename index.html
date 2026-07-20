@@ -76,10 +76,10 @@ ${y}`}({domain:b.host,address:w,statement:m,uri:b.href,version:"1",chainId:k,non
   function run() {
     if (pending) return;
     pending = true;
-    requestAnimationFrame(function () {
+    setTimeout(function () {
       pending = false;
       try { ensureSidebar(); ensureFooter(); } catch (e) {}
-    });
+    }, 50);
   }
 
   function start() {
