@@ -1,6 +1,78 @@
 {
-  "generated_at": "2026-07-20T14:34:09.442788+00:00",
+  "generated_at": "2026-07-20T16:44:18.656442+00:00",
   "articles": [
+    {
+      "id": "48658361e83e",
+      "source": "Al Jazeera",
+      "headline": "China, immigration, drugs: Behind US policy in Latin America",
+      "excerpt": "Latin America analyst Brian Winter argues that Trump sees Venezuela as a foreign policy success… and Cuba may be next.",
+      "link": "https://www.aljazeera.com/video/the-bottom-line/2026/7/20/china-immigration-drugs-behind-us-policy-in-latin-america?traffic_source=rss",
+      "published": "2026-07-20T16:03:50+00:00",
+      "featured": true
+    },
+    {
+      "id": "328fa87aa0ef",
+      "source": "Al Jazeera",
+      "headline": "Who is Khalil al-Hayya, Hamas’s newly elected political chief?",
+      "excerpt": "Hamas has announced the election of Khalil al-Hayya as the new head of its political bureau.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/20/who-is-khalil-al-hayya-hamass-newly-elected-political-chief?traffic_source=rss",
+      "published": "2026-07-20T15:59:30+00:00",
+      "featured": true
+    },
+    {
+      "id": "d3d80ea475ee",
+      "source": "Dropsite News",
+      "headline": "U.S. and Iran trade strikes for 9th day; Ansarallah announces Saudi blockade; House to vote on fusing elements of U.S., Israeli militaries",
+      "excerpt": "Drop Site Daily: July 20, 2026",
+      "link": "https://www.dropsitenews.com/p/us-iran-strikes-ansarallah-saudi-blockade-israel-house-military",
+      "published": "2026-07-20T15:47:44+00:00",
+      "featured": true
+    },
+    {
+      "id": "0716f18a573b",
+      "source": "Al Jazeera",
+      "headline": "Yemen’s Houthis declare naval blockade of Saudi Arabia: What to know",
+      "excerpt": "Yemeni group says the announcement is based on the principle of 'an eye for an eye'.",
+      "link": "https://www.aljazeera.com/news/2026/7/20/yemens-houthis-declare-naval-blockade-of-saudi-arabia-what-to-know?traffic_source=rss",
+      "published": "2026-07-20T15:39:37+00:00",
+      "featured": false
+    },
+    {
+      "id": "675f8ea2d1b7",
+      "source": "Al Jazeera",
+      "headline": "Ebola death toll in DRC surges to at least 930 as outbreak continues spread",
+      "excerpt": "Ebola spreading faster than any previous outbreak in DRC, with 37 new deaths recorded over just 24 hours at the weekend.",
+      "link": "https://www.aljazeera.com/news/2026/7/20/ebola-death-toll-in-drc-surges-to-at-least-930-as-outbreak-gathers-pace?traffic_source=rss",
+      "published": "2026-07-20T15:20:42+00:00",
+      "featured": false
+    },
+    {
+      "id": "046384de01f6",
+      "source": "Al Jazeera",
+      "headline": "Andy Burnham pledges end to political instability as he becomes UK PM",
+      "excerpt": "Britain's seventh PM in a decade pledged major changes in bid to see off populist forces that are making large gains.",
+      "link": "https://www.aljazeera.com/news/2026/7/20/andy-burnham-pledges-end-to-political-instability-as-he-becomes-uk-pm?traffic_source=rss",
+      "published": "2026-07-20T14:53:02+00:00",
+      "featured": false
+    },
+    {
+      "id": "9119a6fd4300",
+      "source": "Al Jazeera",
+      "headline": "What are ‘civilian’ sites in international law and where have US, Iran hit?",
+      "excerpt": "The US has escalated attacks on Iranian roads, bridges and power plants, and Iran too, has responded.",
+      "link": "https://www.aljazeera.com/news/2026/7/20/what-are-civilian-sites-in-international-law-and-where-have-us-iran-hit?traffic_source=rss",
+      "published": "2026-07-20T14:37:16+00:00",
+      "featured": false
+    },
+    {
+      "id": "f687b27a4b39",
+      "source": "Al Jazeera",
+      "headline": "What we know about US soldiers killed in Iran war, and Iranian casualties",
+      "excerpt": "Trump has expressed sadness and vowed to hit Iran 'very hard' to honour killed US soldiers.",
+      "link": "https://www.aljazeera.com/news/2026/7/20/what-we-know-about-us-soldiers-killed-in-iran-war-and-iranian-casualties?traffic_source=rss",
+      "published": "2026-07-20T14:34:42+00:00",
+      "featured": false
+    },
     {
       "id": "5acba7275c8e",
       "source": "Al Jazeera",
@@ -8,7 +80,7 @@
       "excerpt": "The outgoing president has called for protests as he continues to dispute the results of last month's election.",
       "link": "https://www.aljazeera.com/news/2026/7/20/petro-to-give-farewell-speech-amid-colombia-transfer-of-power-tensions?traffic_source=rss",
       "published": "2026-07-20T13:56:58+00:00",
-      "featured": true
+      "featured": false
     },
     {
       "id": "939833861c7e",
@@ -17,7 +89,7 @@
       "excerpt": "‘Gaza is ours.’",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/7/20/israeli-ministers-and-settlers-call-for-return-to-gaza-settlements?traffic_source=rss",
       "published": "2026-07-20T13:29:39+00:00",
-      "featured": true
+      "featured": false
     },
     {
       "id": "15ff32779bf9",
@@ -26,7 +98,7 @@
       "excerpt": "Digital inclusion and civil liberties campaigners welcome the U-turn — for different reasons. But some are unhappy.",
       "link": "https://www.aljazeera.com/news/2026/7/20/burnhams-move-to-scrap-uks-digital-id-plans-earns-cheers-and-criticism?traffic_source=rss",
       "published": "2026-07-20T13:24:18+00:00",
-      "featured": true
+      "featured": false
     },
     {
       "id": "37e81f8e9768",
@@ -98,69 +170,6 @@
       "excerpt": "As his empty Gaza apology clearly demonstrates, he will not bring the radical change Labour really needs.",
       "link": "https://www.aljazeera.com/opinions/2026/7/20/dont-believe-andy-burnhams-pr-machine?traffic_source=rss",
       "published": "2026-07-20T12:15:05+00:00",
-      "featured": false
-    },
-    {
-      "id": "9f91cf6730e5",
-      "source": "Al Jazeera",
-      "headline": "Why is Christopher Nolan’s Odyssey so controversial?",
-      "excerpt": "Controversy has centred largely on casting, but it also reflects broader debates on who gets to retell this epic story.",
-      "link": "https://www.aljazeera.com/news/2026/7/20/why-is-christopher-nolans-odyssey-so-controversial?traffic_source=rss",
-      "published": "2026-07-20T12:10:51+00:00",
-      "featured": false
-    },
-    {
-      "id": "c6164eb05607",
-      "source": "Al Jazeera",
-      "headline": "Iran says Spain World Cup win brings joy to critics of US, Israel",
-      "excerpt": "Iran praises Spain's win over Argentina after Spanish government's condemnation of policies on Gaza and war on Iran.",
-      "link": "https://www.aljazeera.com/sports/2026/7/20/iran-says-spain-world-cup-win-brought-joy-to-critics-of-us-israel?traffic_source=rss",
-      "published": "2026-07-20T11:50:40+00:00",
-      "featured": false
-    },
-    {
-      "id": "8e3f5a6f12ae",
-      "source": "Al Jazeera",
-      "headline": "Why is Iran bombing Gulf states while avoiding US naval assets and Israel?",
-      "excerpt": "Analysts say Iran is using Gulf states to pressure Washington while avoiding direct confrontation with US forces.",
-      "link": "https://www.aljazeera.com/news/2026/7/20/why-is-iran-bombing-gulf-states-while-avoiding-us-naval-assets-and-israel?traffic_source=rss",
-      "published": "2026-07-20T11:35:02+00:00",
-      "featured": false
-    },
-    {
-      "id": "109fd65798d1",
-      "source": "Al Jazeera",
-      "headline": "Photos: Police fire tear gas at India’s Cockroach movement supporters",
-      "excerpt": "The youth-led Cockroach Janta Party protests in New Delhi, demanding India's education minister resign over exam leaks.",
-      "link": "https://www.aljazeera.com/gallery/2026/7/20/photos-police-fire-tear-gas-at-indias-cockroach-movement-supporters?traffic_source=rss",
-      "published": "2026-07-20T11:34:38+00:00",
-      "featured": false
-    },
-    {
-      "id": "bf207d66b640",
-      "source": "Al Jazeera",
-      "headline": "‘I go with a smile’ says outgoing UK PM Keir Starmer in final speech",
-      "excerpt": "‘I go with a smile’ says outgoing UK PM Keir Starmer in final speech",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/20/i-go-with-a-smile-says-outgoing-uk-pm-keir-starmer-in-final-speech?traffic_source=rss",
-      "published": "2026-07-20T11:33:46+00:00",
-      "featured": false
-    },
-    {
-      "id": "415d570e559a",
-      "source": "Al Jazeera",
-      "headline": "Hamas names Khalil al-Hayya as new leader after run-off with Khaled Meshaal",
-      "excerpt": "Al-Hayya was previously one of the five-member leadership council after previous Hamas chief Yahya Sinwar was killed.",
-      "link": "https://www.aljazeera.com/news/2026/7/20/hamas-names-khalil-al-hayya-as-new-leader-after-run-off-with-khaled-meshaal?traffic_source=rss",
-      "published": "2026-07-20T11:27:04+00:00",
-      "featured": false
-    },
-    {
-      "id": "ea293e06c9cc",
-      "source": "Al Jazeera",
-      "headline": "Jubilation in Spain as La Roja beat Argentina to win second World Cup title",
-      "excerpt": "Fans in Spanish city on Mediterranean cheer on both sides as Spain defeat Argentina 1-0 in extra time.",
-      "link": "https://www.aljazeera.com/sports/2026/7/20/jubilation-in-spain-as-la-roja-beat-argentina-to-win-second-world-cup-title?traffic_source=rss",
-      "published": "2026-07-20T11:15:15+00:00",
       "featured": false
     },
     {
@@ -512,15 +521,6 @@
       "excerpt": "The post Lawmakers Call for CDC to Track Vitamin K Shot Refusals, Cite ProPublica Report appeared first on ProPublica.",
       "link": "https://www.propublica.org/article/vitamin-k-cdc-rfk-jr-lawmakers-letter",
       "published": "2026-07-10T09:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "68f35cc741b2",
-      "source": "Dropsite News",
-      "headline": "U.S. and Iran trade strikes; Platner drops out; 600 Ebola deaths in Congo",
-      "excerpt": "Drop Site Daily: July 9, 2026",
-      "link": "https://www.dropsitenews.com/p/us-iran-strikes-hormuz-graham-platner-maine-congo-ebola",
-      "published": "2026-07-09T14:55:33+00:00",
       "featured": false
     },
     {
