@@ -101,6 +101,23 @@ function timeAgo(iso: string): string {
   return `${days}d ago`;
 }
 
+function SourceLineMark({ size = 34 }: { size?: number }) {
+  return (
+    <svg
+      width={size}
+      height={size}
+      viewBox="0 0 64 64"
+      aria-hidden="true"
+      className="shrink-0"
+    >
+      <rect x="13" y="12" width="5" height="40" rx="2.5" fill="#e8a33d" />
+      <rect x="25" y="16" width="26" height="5" rx="2.5" fill="#f5f5f5" />
+      <rect x="25" y="29" width="19" height="5" rx="2.5" fill="#f5f5f5" opacity="0.85" />
+      <rect x="25" y="42" width="23" height="5" rx="2.5" fill="#f5f5f5" opacity="0.7" />
+    </svg>
+  );
+}
+
 function SourceTag({ source }: { source: Source }) {
   const style = SOURCE_STYLES[source] ?? "text-neutral-400 border-neutral-700";
   return (
@@ -198,13 +215,16 @@ export default function App() {
       {/* Header */}
       <header className="border-b border-neutral-800">
         <div className="mx-auto max-w-6xl px-4 py-4 flex items-start justify-between">
-          <div>
+          <div className="flex items-start gap-3">
+            <SourceLineMark />
+            <div>
             <h1 className="m-0 font-serif text-2xl font-bold tracking-tight text-neutral-50">
               THE SOURCE LINE
             </h1>
             <p className="mt-1 text-sm italic text-neutral-500 max-w-md">
               For the people who want real, independent journalism without the corporate fluff.
             </p>
+            </div>
           </div>
           <nav className="hidden md:flex items-center gap-5 text-sm text-neutral-400">
             {CATEGORIES.map((cat) => (
