@@ -1,6 +1,33 @@
 {
-  "generated_at": "2026-07-21T16:42:23.612037+00:00",
+  "generated_at": "2026-07-21T19:51:39.794788+00:00",
   "articles": [
+    {
+      "id": "bc7ed0492715",
+      "source": "Al Jazeera",
+      "headline": "India tunnel collapse kills 10 as toxic gases hamper rescue",
+      "excerpt": "At least 10 people have died and 17 remain trapped after a suspected gas explosion caused a tunnel to collapse.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/21/india-tunnel-collapse-kills-10-as-toxic-gases-hamper-rescue?traffic_source=rss",
+      "published": "2026-07-21T19:41:38+00:00",
+      "featured": true
+    },
+    {
+      "id": "6221590b0ecf",
+      "source": "Dropsite News",
+      "headline": "In Southern Lebanon, a Gloss of Diplomacy Can't Hide the Reality of Occupation",
+      "excerpt": "Occupied by Israeli forces and depopulated, Majdal Zoun overlooks the nearby village of Al-Mansouri, where the few remaining residents come under Israeli attack on a near daily basis.",
+      "link": "https://www.dropsitenews.com/p/lebanon-israel-mansouri-majdal-zoun-occupation-aoun-trump-framework-hezbollah",
+      "published": "2026-07-21T19:14:53+00:00",
+      "featured": true
+    },
+    {
+      "id": "a2184d76c644",
+      "source": "404 Media",
+      "headline": "What Does Olive Garden’s Never-Ending Pasta Have to Do With Voting Rights?",
+      "excerpt": "Do you have to show ID to get unlimited pasta at Olive Garden? Yes. Is this the same as secure voting? Definitely not.",
+      "link": "https://www.404media.co/olive-garden-never-ending-pasta-id-save-act/",
+      "published": "2026-07-21T17:17:45+00:00",
+      "featured": true
+    },
     {
       "id": "8a8bb6c734af",
       "source": "The Lever",
@@ -8,25 +35,7 @@
       "excerpt": "Big Oil is laying off workers while ramping up production — and profits.",
       "link": "https://www.levernews.com/gas-grab/",
       "published": "2026-07-21T16:37:00+00:00",
-      "featured": true
-    },
-    {
-      "id": "89d6eba8819d",
-      "source": "Al Jazeera",
-      "headline": "US appeals court overturns ruling that freed Columbia activist Mahdawi",
-      "excerpt": "The decision is the latest court victory for US President Donald Trump’s campaign targeting foreign student protesters.",
-      "link": "https://www.aljazeera.com/news/2026/7/21/us-appeals-court-overturns-ruling-that-freed-columbia-activist-mahdawi?traffic_source=rss",
-      "published": "2026-07-21T16:16:40+00:00",
-      "featured": true
-    },
-    {
-      "id": "3ea763ab6343",
-      "source": "Dropsite News",
-      "headline": "Attacks in the Strait of Hormuz; Israel kills 57 Palestinians in Gaza in one week; No more elections in Nicaragua, Ortega says",
-      "excerpt": "Drop Site Daily: July 21, 2026",
-      "link": "https://www.dropsitenews.com/p/hormuz-strikes-iran-us-israel-gaza-nicaragua-ortega-elections",
-      "published": "2026-07-21T15:33:55+00:00",
-      "featured": true
+      "featured": false
     },
     {
       "id": "cfb311dc7126",
@@ -35,15 +44,6 @@
       "excerpt": "An internal report obtained says that crypto brokers are moving millions while dodging rules to guard against dirty money.",
       "link": "https://www.icij.org/investigations/coin-laundry/canadian-intelligence-flags-crypto-to-cash-services-as-knowingly-facilitating-money-laundering-document-shows/",
       "published": "2026-07-21T15:25:38+00:00",
-      "featured": false
-    },
-    {
-      "id": "a0d2753db9ef",
-      "source": "404 Media",
-      "headline": "Apple Fixes Hide My Email Vulnerability After 404 Media Coverage",
-      "excerpt": "For a year, Apple knew that an issue in its Hide My Email feature was exposing customers’ real email addresses. Apple only fixed the issue after 404 Media covered it.",
-      "link": "https://www.404media.co/apple-fixes-hide-my-email-vulnerability-after-404-media-coverage/",
-      "published": "2026-07-21T15:20:10+00:00",
       "featured": false
     },
     {
@@ -101,12 +101,30 @@
       "featured": false
     },
     {
-      "id": "2732bf4b3e0f",
+      "id": "b00fc150229a",
       "source": "Al Jazeera",
-      "headline": "US eyes new tariffs as existing trade duties near expiration",
-      "excerpt": "US Trade Rep Jamieson Greer hints at new tariffs on 60 trading partners as Trump's temporary tariffs expire on Friday.",
-      "link": "https://www.aljazeera.com/economy/2026/7/21/us-eyes-new-tariffs-as-existing-trade-duties-near-expiration?traffic_source=rss",
-      "published": "2026-07-21T15:54:13+00:00",
+      "headline": "US agency proposes ending racial and gender workforce data collection",
+      "excerpt": "Republican-led EEOC proposal to end workforce diversity reporting heads to public commentary amid sharp criticism.",
+      "link": "https://www.aljazeera.com/economy/2026/7/21/us-agency-proposes-ending-racial-and-gender-workforce-data-collection?traffic_source=rss",
+      "published": "2026-07-21T19:34:06+00:00",
+      "featured": false
+    },
+    {
+      "id": "3ea763ab6343",
+      "source": "Dropsite News",
+      "headline": "Attacks in the Strait of Hormuz; Israel kills 57 Palestinians in Gaza in one week; No more elections in Nicaragua, Ortega says",
+      "excerpt": "Drop Site Daily: July 21, 2026",
+      "link": "https://www.dropsitenews.com/p/hormuz-strikes-iran-us-israel-gaza-nicaragua-ortega-elections",
+      "published": "2026-07-21T15:33:55+00:00",
+      "featured": false
+    },
+    {
+      "id": "a0d2753db9ef",
+      "source": "404 Media",
+      "headline": "Apple Fixes Hide My Email Vulnerability After 404 Media Coverage",
+      "excerpt": "For a year, Apple knew that an issue in its Hide My Email feature was exposing customers’ real email addresses. Apple only fixed the issue after 404 Media covered it.",
+      "link": "https://www.404media.co/apple-fixes-hide-my-email-vulnerability-after-404-media-coverage/",
+      "published": "2026-07-21T15:20:10+00:00",
       "featured": false
     },
     {
@@ -116,15 +134,6 @@
       "excerpt": "Updates to ICE’s code of conduct ban deportation officers from wearing jeans, hoodies, and graphic tees, according to a leaked document. The post ICE Mandates Dress Code After Killings and Botched Arrest appeared first...",
       "link": "https://theintercept.com/2026/07/21/ice-undercover-plainclothes-uniform/",
       "published": "2026-07-21T14:05:04+00:00",
-      "featured": false
-    },
-    {
-      "id": "55f8d8a2dda6",
-      "source": "404 Media",
-      "headline": "AI Companies Are Buying Tons of Old Books Because They're Free of AI Slop",
-      "excerpt": "ISBNdb, a company that sources printed books for AI companies to turn into training data, tells clients “the optics problem is real.”",
-      "link": "https://www.404media.co/ai-companies-are-buying-tons-of-old-books-because-theyre-free-of-ai-slop/",
-      "published": "2026-07-21T13:51:39+00:00",
       "featured": false
     },
     {
@@ -143,15 +152,6 @@
       "excerpt": "The crypto investors donated $10 million in bitcoin to Trump's super PAC weeks after his administration moved to abandon a federal enforcement action against their crypto exchange.",
       "link": "https://www.levernews.com/the-winklevoss-twins-gave-trump-10-million-after-regulatory-win/",
       "published": "2026-07-20T23:53:20+00:00",
-      "featured": false
-    },
-    {
-      "id": "d3d80ea475ee",
-      "source": "Dropsite News",
-      "headline": "U.S. and Iran trade strikes for 9th day; Ansarallah announces Saudi blockade; House to vote on fusing elements of U.S., Israeli militaries",
-      "excerpt": "Drop Site Daily: July 20, 2026",
-      "link": "https://www.dropsitenews.com/p/us-iran-strikes-ansarallah-saudi-blockade-israel-house-military",
-      "published": "2026-07-20T15:47:44+00:00",
       "featured": false
     },
     {
@@ -200,12 +200,21 @@
       "featured": false
     },
     {
-      "id": "c7eaccb2f1ce",
+      "id": "3bec22110b4c",
       "source": "Al Jazeera",
-      "headline": "Italy’s Meloni slams protesters following clashes in Bologna",
-      "excerpt": "PM pledges probe into death of Moroccan man under police restraint, condemns violence as protests injure 56 officers.",
-      "link": "https://www.aljazeera.com/news/2026/7/21/italys-meloni-slams-protesters-following-clashes-in-bologna?traffic_source=rss",
-      "published": "2026-07-21T15:44:59+00:00",
+      "headline": "Can mediators broker a truce between the US and Iran?",
+      "excerpt": "With every new round of attacks raising political cost of compromise, analysts warn the window for peace may be closing.",
+      "link": "https://www.aljazeera.com/news/2026/7/21/can-mediators-broker-a-truce-between-the-us-and-iran?traffic_source=rss",
+      "published": "2026-07-21T19:27:26+00:00",
+      "featured": false
+    },
+    {
+      "id": "55f8d8a2dda6",
+      "source": "404 Media",
+      "headline": "AI Companies Are Buying Tons of Old Books Because They're Free of AI Slop",
+      "excerpt": "ISBNdb, a company that sources printed books for AI companies to turn into training data, tells clients “the optics problem is real.”",
+      "link": "https://www.404media.co/ai-companies-are-buying-tons-of-old-books-because-theyre-free-of-ai-slop/",
+      "published": "2026-07-21T13:51:39+00:00",
       "featured": false
     },
     {
@@ -236,12 +245,12 @@
       "featured": false
     },
     {
-      "id": "f9693aa8368c",
-      "source": "404 Media",
-      "headline": "New Orleans Cops Published Policy Document Allowing Weaponized Drones",
-      "excerpt": "Cops and drone companies seem increasingly eager to put weapons on their drones.",
-      "link": "https://www.404media.co/new-orleans-cops-published-policy-document-allowing-weaponized-drones/",
-      "published": "2026-07-20T14:37:38+00:00",
+      "id": "d3d80ea475ee",
+      "source": "Dropsite News",
+      "headline": "U.S. and Iran trade strikes for 9th day; Ansarallah announces Saudi blockade; House to vote on fusing elements of U.S., Israeli militaries",
+      "excerpt": "Drop Site Daily: July 20, 2026",
+      "link": "https://www.dropsitenews.com/p/us-iran-strikes-ansarallah-saudi-blockade-israel-house-military",
+      "published": "2026-07-20T15:47:44+00:00",
       "featured": false
     },
     {
@@ -251,15 +260,6 @@
       "excerpt": "The post On This Nearly Deserted Alaska Island, You Pay to Keep Hundreds of Empty Buildings Wired for Internet appeared first on ProPublica.",
       "link": "https://www.propublica.org/article/adak-island-alaska-internet-subsidy-fcc",
       "published": "2026-07-20T09:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "6ac414e4d1b6",
-      "source": "Dropsite News",
-      "headline": "U.S. bombs civilian infrastructure in Iran; Israeli attacks in Gaza at highest level since “ceasefire”; Rubio urges crackdown on “far-left terrorists”",
-      "excerpt": "Drop Site Daily: July 17, 2026",
-      "link": "https://www.dropsitenews.com/p/us-iran-civilian-infrastructure-israel-gaza-rubio-crackdown-left",
-      "published": "2026-07-17T15:48:28+00:00",
       "featured": false
     },
     {
@@ -290,12 +290,12 @@
       "featured": false
     },
     {
-      "id": "6778905f4aae",
+      "id": "c9be7311ca9f",
       "source": "Al Jazeera",
-      "headline": "UK PM Burnham: ‘We need to be a cost-of-living government’",
-      "excerpt": "At his first cabinet meeting as UK prime minister, Burnham told ministers they must be a \"cost-of-living government\".",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/21/uk-pm-burnham-we-need-to-be-a-cost-of-living?traffic_source=rss",
-      "published": "2026-07-21T15:44:19+00:00",
+      "headline": "Rescuers search for flood survivors in Afghanistan",
+      "excerpt": "Rescuers in eastern Afghanistan are searching through mud and rubble after flash floods and a landslide",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/21/rescuers-search-for-flood-survivors-in-afghanistan?traffic_source=rss",
+      "published": "2026-07-21T19:21:15+00:00",
       "featured": false
     },
     {
@@ -317,21 +317,21 @@
       "featured": false
     },
     {
+      "id": "f9693aa8368c",
+      "source": "404 Media",
+      "headline": "New Orleans Cops Published Policy Document Allowing Weaponized Drones",
+      "excerpt": "Cops and drone companies seem increasingly eager to put weapons on their drones.",
+      "link": "https://www.404media.co/new-orleans-cops-published-policy-document-allowing-weaponized-drones/",
+      "published": "2026-07-20T14:37:38+00:00",
+      "featured": false
+    },
+    {
       "id": "4e231aae7d7a",
       "source": "The Lever",
       "headline": "Lever Weekly: Ballot Battles And Blockbusters",
       "excerpt": "Midterm machinations, movie monopolies, and more from The Lever this week.",
       "link": "https://www.levernews.com/lever-weekly-ballot-battles-and-blockbusters/",
       "published": "2026-07-19T13:01:49+00:00",
-      "featured": false
-    },
-    {
-      "id": "b765606787c0",
-      "source": "404 Media",
-      "headline": "Ancient Princesses Were Weapon-Wielding Badasses, Scientists Discover",
-      "excerpt": "The mummified remains of 4,000-year-old Egyptian royals suggest that they were buried with weapons because they could use them, not for symbolic reasons.",
-      "link": "https://www.404media.co/ancient-princesses-were-weapon-wielding-badasses-scientists-discover/",
-      "published": "2026-07-18T10:00:29+00:00",
       "featured": false
     },
     {
@@ -344,12 +344,12 @@
       "featured": false
     },
     {
-      "id": "eb11332b5e36",
+      "id": "6ac414e4d1b6",
       "source": "Dropsite News",
-      "headline": "Recording Shows UAW Federal Monitor Pressured Union President Over Israel",
-      "excerpt": "Tlaib calls for UAW federal monitor Neil Barofsky to resign after recording undercuts his claims about interactions with union President Shawn Fain",
-      "link": "https://www.dropsitenews.com/p/uaw-shawn-fain-neil-barofsky-recording-israel-gaza",
-      "published": "2026-07-17T13:33:50+00:00",
+      "headline": "U.S. bombs civilian infrastructure in Iran; Israeli attacks in Gaza at highest level since “ceasefire”; Rubio urges crackdown on “far-left terrorists”",
+      "excerpt": "Drop Site Daily: July 17, 2026",
+      "link": "https://www.dropsitenews.com/p/us-iran-civilian-infrastructure-israel-gaza-rubio-crackdown-left",
+      "published": "2026-07-17T15:48:28+00:00",
       "featured": false
     },
     {
@@ -380,12 +380,12 @@
       "featured": false
     },
     {
-      "id": "873c9f2d8261",
+      "id": "bf4304689e37",
       "source": "Al Jazeera",
-      "headline": "FIFA ‘destroying football’ for the World Cup, says Spanish football chief",
-      "excerpt": "In a scathing interview, La Liga President Javier Tebas says FIFA chief Gianni Infantino’s time is 'over'.",
-      "link": "https://www.aljazeera.com/sports/2026/7/21/fifa-destroying-football-for-the-world-cup-says-spanish-football-chief?traffic_source=rss",
-      "published": "2026-07-21T15:32:50+00:00",
+      "headline": "Trump says he’s open to talks with Hezbollah, vows to help Lebanon",
+      "excerpt": "US President Trump said he is open to direct talks with Hezbollah.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/21/trump-says-hes-open-to-talks-with-hezbollah-vows-to-help-lebanon?traffic_source=rss",
+      "published": "2026-07-21T19:16:08+00:00",
       "featured": false
     },
     {
@@ -407,6 +407,15 @@
       "featured": false
     },
     {
+      "id": "b765606787c0",
+      "source": "404 Media",
+      "headline": "Ancient Princesses Were Weapon-Wielding Badasses, Scientists Discover",
+      "excerpt": "The mummified remains of 4,000-year-old Egyptian royals suggest that they were buried with weapons because they could use them, not for symbolic reasons.",
+      "link": "https://www.404media.co/ancient-princesses-were-weapon-wielding-badasses-scientists-discover/",
+      "published": "2026-07-18T10:00:29+00:00",
+      "featured": false
+    },
+    {
       "id": "97e8a1364eeb",
       "source": "ProPublica",
       "headline": "Trump Officials Want to Use Human Rights Aid to Advocate for White South Africans and Right-Wing Causes in Europe",
@@ -425,21 +434,12 @@
       "featured": false
     },
     {
-      "id": "c3ad7f809f1e",
-      "source": "404 Media",
-      "headline": "You're Invited: 404 Media's Third Anniversary Live Podcast and Party!",
-      "excerpt": "We're celebrating with TWO NIGHTS of good times: A live taping of the podcast, and a party the following night! Paid 404 Media subscribers get free and discounted access. Details below.",
-      "link": "https://www.404media.co/three-years/",
-      "published": "2026-07-17T16:15:53+00:00",
-      "featured": false
-    },
-    {
-      "id": "74a98a2b690a",
+      "id": "eb11332b5e36",
       "source": "Dropsite News",
-      "headline": "Major Blockchain Firm Consensys Accidentally Hired a North Korean Hacker",
-      "excerpt": "An engineer under the alias “Tyler Knapp” managed to be brought on as a software developer at the Ethereum-based firm.",
-      "link": "https://www.dropsitenews.com/p/consensys-metamask-crypto-wallet-hired-north-korean-hacker",
-      "published": "2026-07-17T13:07:25+00:00",
+      "headline": "Recording Shows UAW Federal Monitor Pressured Union President Over Israel",
+      "excerpt": "Tlaib calls for UAW federal monitor Neil Barofsky to resign after recording undercuts his claims about interactions with union President Shawn Fain",
+      "link": "https://www.dropsitenews.com/p/uaw-shawn-fain-neil-barofsky-recording-israel-gaza",
+      "published": "2026-07-17T13:33:50+00:00",
       "featured": false
     },
     {
@@ -470,12 +470,12 @@
       "featured": false
     },
     {
-      "id": "640d768bd275",
+      "id": "dd092961fc9e",
       "source": "Al Jazeera",
-      "headline": "Israel has ‘no interest’ in joining US war on Iran, says Smotrich",
-      "excerpt": "Israeli Finance Minister says Israel has \"no interest\" in joining the renewed US military campaign against Iran.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/21/israel-has-no-interest-in-joining-us-war-on-iran-says-smotrich?traffic_source=rss",
-      "published": "2026-07-21T14:42:21+00:00",
+      "headline": "Instagram on trial for allegedly harming kids",
+      "excerpt": "The trial between the state of Tennessee and Instagram is kicking off this week.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/21/instagram-on-trial-for-allegedly-harming-kids?traffic_source=rss",
+      "published": "2026-07-21T18:59:51+00:00",
       "featured": false
     },
     {
@@ -497,12 +497,12 @@
       "featured": false
     },
     {
-      "id": "3eac40a3b23d",
+      "id": "c3ad7f809f1e",
       "source": "404 Media",
-      "headline": "Behind the Blog: Infinite Bowl Machine",
-      "excerpt": "This week, we discuss AI music, slop bowls, and the endless quest for optimization.",
-      "link": "https://www.404media.co/behind-the-blog-infinite-bowl-machine/",
-      "published": "2026-07-17T16:07:19+00:00",
+      "headline": "You're Invited: 404 Media's Third Anniversary Live Podcast and Party!",
+      "excerpt": "We're celebrating with TWO NIGHTS of good times: A live taping of the podcast, and a party the following night! Paid 404 Media subscribers get free and discounted access. Details below.",
+      "link": "https://www.404media.co/three-years/",
+      "published": "2026-07-17T16:15:53+00:00",
       "featured": false
     },
     {
@@ -515,21 +515,21 @@
       "featured": false
     },
     {
+      "id": "74a98a2b690a",
+      "source": "Dropsite News",
+      "headline": "Major Blockchain Firm Consensys Accidentally Hired a North Korean Hacker",
+      "excerpt": "An engineer under the alias “Tyler Knapp” managed to be brought on as a software developer at the Ethereum-based firm.",
+      "link": "https://www.dropsitenews.com/p/consensys-metamask-crypto-wallet-hired-north-korean-hacker",
+      "published": "2026-07-17T13:07:25+00:00",
+      "featured": false
+    },
+    {
       "id": "aa2300841643",
       "source": "ProPublica",
       "headline": "How a Paid Expert Reversed His View of a Notoriously Flawed Prosecution in the Rape of a Bestselling Author",
       "excerpt": "The post How a Paid Expert Reversed His View of a Notoriously Flawed Prosecution in the Rape of a Bestselling Author appeared first on ProPublica.",
       "link": "https://www.propublica.org/article/alice-sebold-anthony-broadwater-rape-case-prosecutorial-misconduct-bennett-gershman",
       "published": "2026-07-17T10:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "763d163f843b",
-      "source": "Dropsite News",
-      "headline": "A World Turned Upside Down: Syria Reckons with an Assad-Era Peacemaker",
-      "excerpt": "As Syria struggles to pursue transitional justice, a former commander faces false accusations of war crimes.",
-      "link": "https://www.dropsitenews.com/p/syria-tadamon-massacre-civil-war",
-      "published": "2026-07-16T20:34:50+00:00",
       "featured": false
     },
     {
