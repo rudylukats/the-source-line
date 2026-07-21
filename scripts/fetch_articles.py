@@ -11,7 +11,7 @@ import hashlib
 import json
 import re
 import sys
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 from html import unescape
 
 import feedparser
@@ -42,6 +42,13 @@ MAX_ARTICLES = 60
 # Lower cap now that there are many more sources, so no single prolific outlet
 # (Al Jazeera publishes dozens a day) can occupy a large share of the page.
 PER_SOURCE_MAX = 8
+# Drop anything older than this. A feed can keep responding long after an outlet
+# stops publishing to it (Reveal's feed served items up to 15 months old), and
+# without this one dead feed puts year-old stories on the front page.
+MAX_AGE_DAYS = 30
+# If almost nothing is fresh (feeds down, outage), top back up with older items
+# rather than shipping an empty page.
+MIN_ARTICLES = 12
 MAX_EXCERPT_LEN = 220
 FEATURED_COUNT = 3
 
@@ -100,35 +107,51 @@ def fetch_source(name, url):
 
 
 def main():
-    all_items = []
+    cutoff = (datetime.now(timezone.utc) - timedelta(days=MAX_AGE_DAYS)).isoformat()
+    by_source = {}
+    all_seen = {}  # every item we saw, unfiltered, used only as a fallback
+
     for name, url in FEEDS.items():
         try:
             items = fetch_source(name, url)
-            # Cap per source so one prolific outlet (e.g. a wire service)
-            # can't crowd out the others, keep each source's own newest first
             items.sort(key=lambda a: a["published"], reverse=True)
-            items = items[:PER_SOURCE_MAX]
-            print(f"{name}: {len(items)} items (capped at {PER_SOURCE_MAX})")
-            all_items.extend(items)
+            for item in items:
+                all_seen.setdefault(item["id"], item)
+
+            fresh = [a for a in items if a["published"] >= cutoff]
+            stale = len(items) - len(fresh)
+            fresh = fresh[:PER_SOURCE_MAX]
+            by_source[name] = fresh
+
+            msg = f"{name}: {len(fresh)} items"
+            if stale:
+                msg += f" ({stale} older than {MAX_AGE_DAYS}d skipped)"
+            if items and not fresh:
+                msg += "  <-- nothing recent, feed may be abandoned"
+            print(msg)
         except Exception as exc:
             print(f"ERROR fetching {name}: {exc}", file=sys.stderr)
 
-    # Dedupe by id (hash of link)
-    dedup = {item["id"]: item for item in all_items}
+    # Dedupe across sources (same story syndicated twice), keeping first seen
+    used = set()
+    for name in list(by_source):
+        kept = []
+        for item in by_source[name]:
+            if item["id"] in used:
+                continue
+            used.add(item["id"])
+            kept.append(item)
+        if kept:
+            by_source[name] = kept
+        else:
+            del by_source[name]
 
     # Balance the running order across sources. Sorting purely by recency lets a
     # high-frequency outlet own the whole page: Al Jazeera posts dozens of stories
     # a day, so its items are always "1h ago" while ProPublica's newest is days
     # old and sinks out of view. Instead, go round-robin: every source's newest
     # story first (those sorted newest-first among themselves), then everyone's
-    # second story, and so on. Each outlet gets a fair shot at the top of the page
-    # while the ordering still skews recent within each round.
-    by_source = {}
-    for item in dedup.values():
-        by_source.setdefault(item["source"], []).append(item)
-    for items in by_source.values():
-        items.sort(key=lambda a: a["published"], reverse=True)
-
+    # second story, and so on.
     articles = []
     depth = 0
     while True:
@@ -139,6 +162,23 @@ def main():
         articles.extend(round_items)
         depth += 1
     articles = articles[:MAX_ARTICLES]
+
+    # Safety net: never ship a near-empty page just because feeds went quiet.
+    if len(articles) < MIN_ARTICLES:
+        print(
+            f"WARNING: only {len(articles)} fresh articles, topping up with older ones",
+            file=sys.stderr,
+        )
+        older = sorted(
+            (a for a in all_seen.values() if a["id"] not in used),
+            key=lambda a: a["published"],
+            reverse=True,
+        )
+        for item in older:
+            if len(articles) >= MIN_ARTICLES:
+                break
+            articles.append(item)
+            used.add(item["id"])
 
     for i, article in enumerate(articles):
         article["featured"] = i < FEATURED_COUNT
