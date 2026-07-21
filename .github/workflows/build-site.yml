@@ -1,0 +1,64 @@
+name: Build site
+
+# Rebuilds the compiled index.html whenever the app source changes.
+# The site is served from index.html at the repo root (wrangler.jsonc
+# assets.directory = "."), so the build output is copied there and committed.
+on:
+  push:
+    branches: [main]
+    paths:
+      - "src/**"
+      - "app/index.html"
+      - "package.json"
+      - "vite.config.ts"
+      - "tailwind.config.js"
+      - "postcss.config.js"
+      - ".github/workflows/build-site.yml"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+# If several pushes land quickly, only build the newest one.
+concurrency:
+  group: build-site
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Install dependencies
+        run: npm install --no-audit --no-fund
+
+      - name: Build
+        run: npm run build
+
+      - name: Copy build output to repo root
+        run: |
+          BUILT=$(find dist -name "index.html" | head -1)
+          if [ -z "$BUILT" ]; then
+            echo "Build produced no index.html"; exit 1
+          fi
+          echo "Built file: $BUILT ($(wc -c < "$BUILT") bytes)"
+          # Guard against committing a broken/truncated build
+          if [ "$(wc -c < "$BUILT")" -lt 50000 ]; then
+            echo "Built file suspiciously small, refusing to publish"; exit 1
+          fi
+          cp "$BUILT" index.html
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add index.html
+          git diff --staged --quiet || git commit -m "Rebuild site $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git push

@@ -2,9 +2,10 @@ name: Generate puzzles
 
 on:
   schedule:
-    # Once a day, shortly after midnight UTC so the new theme is ready
-    # before most visitors' morning.
-    - cron: "7 0 * * *"
+    # 21:00 UTC, deliberately *before* the UTC date rolls over. GitHub often
+    # delays scheduled runs by hours, so scheduling at 00:07 meant the new
+    # day's puzzle showed up late and the site 404'd in the meantime.
+    - cron: "0 21 * * *"
   workflow_dispatch: {}
 
 permissions:
@@ -22,13 +23,29 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Generate puzzles
-        run: python scripts/generate_puzzles.py
+      - name: Generate today, tomorrow, and backfill any missing recent days
+        run: |
+          set -e
+          # Today, which also refreshes the root puzzles.json copy
+          python scripts/generate_puzzles.py
+          # Tomorrow, so the puzzle already exists when the UTC date rolls over
+          python scripts/generate_puzzles.py --date "$(date -u -d '+1 day' +%F)"
+          # Self-heal: fill any gaps in the last 13 days. Output is seeded by
+          # date, so regenerating a day is deterministic and safe.
+          for i in $(seq 1 13); do
+            D=$(date -u -d "$i days ago" +%F)
+            if [ ! -f "puzzles/$D.json" ]; then
+              echo "Backfilling missing puzzle for $D"
+              python scripts/generate_puzzles.py --date "$D"
+            fi
+          done
 
       - name: Commit and push if changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add puzzles.json
+          # The archive directory is the file the Games tab actually fetches.
+          # Staging only puzzles.json is what silently broke the archive.
+          git add puzzles.json puzzles/
           git diff --staged --quiet || git commit -m "Update puzzles $(date -u +'%Y-%m-%d')"
           git push
