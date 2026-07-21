@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21T02:17:43.632370+00:00",
+  "generated_at": "2026-07-21T02:49:17.632277+00:00",
   "articles": [
     {
       "id": "4bbdcd1e96b0",
@@ -98,15 +98,6 @@
       "excerpt": "Call center nurses at the health giant said workplace surveillance tools and AI prioritize speed and cost savings over quality and safety.",
       "link": "https://themarkup.org/artificial-intelligence/2026/07/09/kaiser-permanente-nurses-say-technology-is-making-their-jobs-and-patient-care-worse",
       "published": "2026-07-09T12:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "258d0e23f6bc",
-      "source": "Reveal",
-      "headline": "How a US Citizen Was Scanned With ICE’s Facial Recognition Tech",
-      "excerpt": "Jesus Gutiérrez told immigration agents he was a US citizen. Only after they scanned his face, did the agents let him go. How a US Citizen Was Scanned With ICE’s Facial Recognition Tech is a story from Reveal. Reveal is...",
-      "link": "https://revealnews.org/article/how-a-us-citizen-was-scanned-with-ices-facial-recognition-tech",
-      "published": "2025-12-13T08:01:00+00:00",
       "featured": false
     },
     {
@@ -209,15 +200,6 @@
       "featured": false
     },
     {
-      "id": "a06c59700878",
-      "source": "Reveal",
-      "headline": "Find Your Lost Google Videos",
-      "excerpt": "A guide to reclaiming your missing ephemera. Find Your Lost Google Videos is a story from Reveal. Reveal is a registered trademark of The Center for Investigative Reporting and is a 501(c)(3) tax exempt organization.",
-      "link": "https://revealnews.org/article/find-your-lost-google-videos",
-      "published": "2025-10-25T07:01:00+00:00",
-      "featured": false
-    },
-    {
       "id": "2a8679c7a5c5",
       "source": "Al Jazeera",
       "headline": "Tate brothers vow to fight extradition as they appear at court in Miami",
@@ -305,24 +287,6 @@
       "excerpt": "If you’ve seen reports of a wildfire in your region and you’re looking for open source data, NASA’s fire-tracking tool is often the first place to start. It provides a heat signature and an approximate location. But...",
       "link": "https://www.bellingcat.com/resources/how-tos/2026/06/30/burning-forests-tools-for-tracking-and-reporting-wildfire-damage/",
       "published": "2026-06-30T08:25:31+00:00",
-      "featured": false
-    },
-    {
-      "id": "f91dceeab260",
-      "source": "The Markup",
-      "headline": "Your medical provider might be recording your mental health care visits",
-      "excerpt": "Mental health providers are increasingly using AI technology to record conversations, raising privacy concerns among patients and practitioners.",
-      "link": "https://themarkup.org/privacy/2026/06/16/your-medical-provider-might-be-recording-your-mental-health-care-visits",
-      "published": "2026-06-16T12:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "e35ba2827f8d",
-      "source": "Reveal",
-      "headline": "From New York to Arizona, Efforts Emerge to Curb Drug Testing During Childbirth",
-      "excerpt": "Several proposals followed an investigation by The Marshall Project and Reveal exposing the harms of widespread drug testing of pregnant patients. From New York to Arizona, Efforts Emerge to Curb Drug Testing During...",
-      "link": "https://revealnews.org/article/pregnancy-drug-testing-legislation-new-york-arizona-tennessee",
-      "published": "2025-06-09T10:01:00+00:00",
       "featured": false
     },
     {
@@ -416,24 +380,6 @@
       "featured": false
     },
     {
-      "id": "550347ea20d8",
-      "source": "The Markup",
-      "headline": "The form asked my permission to share my health data. Then it wouldn’t let me say no.",
-      "excerpt": "Dark patterns force patients to share their data with big healthcare networks, even when the privacy form they’re signing explicitly says they can opt-out.",
-      "link": "https://themarkup.org/privacy/2026/05/27/opt-out-dark-patterns",
-      "published": "2026-05-27T12:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "7e148457e925",
-      "source": "Reveal",
-      "headline": "A Gun Deemed Too Dangerous for Cops, But Fine for Civilians",
-      "excerpt": "Police are reselling their SIG Sauer P320 pistols—alleged in multiple lawsuits to fire without the trigger being pulled—to the public. A Gun Deemed Too Dangerous for Cops, But Fine for Civilians is a story from Reveal....",
-      "link": "https://revealnews.org/article/sig-sauer-p320-police-resale-public",
-      "published": "2025-05-19T10:01:00+00:00",
-      "featured": false
-    },
-    {
       "id": "b1d36858e630",
       "source": "Al Jazeera",
       "headline": "US attacks Iran for 10th consecutive night",
@@ -524,21 +470,75 @@
       "featured": false
     },
     {
-      "id": "bb236055dd52",
-      "source": "The Markup",
-      "headline": "It’s easier for Californians to escape data brokers following a Markup investigation",
-      "excerpt": "The Markup and CalMatters showed how website code could make it harder for Californians to exercise their right to remove personal data. Now much of that code has disappeared.",
-      "link": "https://themarkup.org/privacy/2026/05/22/its-easier-for-californians-to-escape-data-brokers-following-a-markup-investigation",
-      "published": "2026-05-22T12:00:00+00:00",
+      "id": "fd19095d1c3b",
+      "source": "Al Jazeera",
+      "headline": "Iran war live: Tehran attacks Gulf states, says 2 tankers in Hormuz on fire",
+      "excerpt": "Explosions reported in Iran's Bandar Abbas, Qeshm Island, Chabahar and Konarak as US launches new wave of attacks.",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/7/21/iran-war-live-us-launches-10th-night-of-strikes-tehran-attacks-kuwait?traffic_source=rss",
+      "published": "2026-07-21T00:00:00+00:00",
       "featured": false
     },
     {
-      "id": "3ccebeb7ebca",
-      "source": "Reveal",
-      "headline": "Why Some Doctors Are Pushing to End Routine Drug Testing During Childbirth",
-      "excerpt": "Hospitals routinely report parents to child welfare authorities based on error-prone drug tests. Some hospitals are changing policy as a result. Why Some Doctors Are Pushing to End Routine Drug Testing During Childbirth...",
-      "link": "https://revealnews.org/article/end-drug-testing-pregnant-patients-newborns",
-      "published": "2025-04-02T10:00:00+00:00",
+      "id": "bd1020b9e89f",
+      "source": "The Intercept",
+      "headline": "Two-Thirds of Shri Thanedar's Campaign Cash Came Through AIPAC as He Lost Over $600K",
+      "excerpt": "AIPAC bundlers have propped up the Michigan congressman, who has invested millions in campaign funds in crypto. The post Two-Thirds of Shri Thanedar’s Campaign Cash Came Through AIPAC as He Lost Over $600K appeared...",
+      "link": "https://theintercept.com/2026/07/17/shri-thanedar-crypto-donavan-mckinney-michigan-aipac/",
+      "published": "2026-07-17T16:31:20+00:00",
+      "featured": false
+    },
+    {
+      "id": "997a211260e7",
+      "source": "OCCRP",
+      "headline": "Ukrainian Media Defy Court Ban to Publish Spiked Corruption Probe",
+      "excerpt": "Condemning a preemptive court injunction as \"prior censorship,\" Ukrainian newsrooms united to publish a blocked investigation into a top official's inner circle.",
+      "link": "https://www.occrp.org/en/news/ukrainian-media-defy-court-ban-to-publish-spiked-corruption-probe",
+      "published": "2026-07-17T11:25:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "47c508323644",
+      "source": "ProPublica",
+      "headline": "Texas Democrats Ask for Investigation Into Ken Paxton After Our Reporting Found He May Have Violated Election Law",
+      "excerpt": "The post Texas Democrats Ask for Investigation Into Ken Paxton After Our Reporting Found He May Have Violated Election Law appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/texas-democrats-ken-paxton-voting-complaint",
+      "published": "2026-07-16T21:05:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "00dfb754ff49",
+      "source": "The Lever",
+      "headline": "We’re Still Living In The 2016 Election",
+      "excerpt": "Bernie Sanders’ chief campaign strategist says Democrats rigged the 2016 presidential primary — and started a fight the party is still having today.",
+      "link": "https://www.levernews.com/were-still-living-in-the-2016-election/",
+      "published": "2026-07-16T20:10:43+00:00",
+      "featured": false
+    },
+    {
+      "id": "5e3437df528b",
+      "source": "404 Media",
+      "headline": "Scientists Discover Planet Has Everything to Host ‘Earth-Like Life’ In Breakthrough",
+      "excerpt": "For the first time, scientists found that a rocky planet in the habitable zone of its star has an atmosphere. It’s the best place to look for alien biosignatures, scientists say.",
+      "link": "https://www.404media.co/scientists-discover-planet-has-everything-to-host-earth-like-life-in-breakthrough/",
+      "published": "2026-07-16T18:00:10+00:00",
+      "featured": false
+    },
+    {
+      "id": "452da8ff0d40",
+      "source": "Dropsite News",
+      "headline": "Ansarallah Vows to Block Saudi Access to Bab al-Mandab After Strikes on Sana’a",
+      "excerpt": "The first Saudi airstrikes against Ansarallah in four years threaten to upend their tenuous ceasefire, just as the truce between the U.S. and Iran is crumbling over the Strait of Hormuz.",
+      "link": "https://www.dropsitenews.com/p/yemen-sanaa-airport-ansarallah-saudi-houthis-bab-al-mandab-bukhaiti",
+      "published": "2026-07-16T16:56:14+00:00",
+      "featured": false
+    },
+    {
+      "id": "c6a450e427e3",
+      "source": "Rest of World",
+      "headline": "India’s crackdown on a new WhatsApp feature risks setting a global precedent",
+      "excerpt": "If Meta complies or modifies its app for India, it risks creating a “slippery slope” that emboldens governments worldwide to demand changes to encrypted messaging apps.",
+      "link": "https://restofworld.org/2026/india-whatsapp-username-ban-encryption-cyber-fraud/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "published": "2026-07-13T10:00:22+00:00",
       "featured": false
     }
   ]
