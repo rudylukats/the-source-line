@@ -1,166 +1,40 @@
 {
-  "generated_at": "2026-07-20T22:13:53.020205+00:00",
+  "generated_at": "2026-07-21T02:17:43.632370+00:00",
   "articles": [
     {
-      "id": "a20968aff01d",
+      "id": "4bbdcd1e96b0",
       "source": "Al Jazeera",
-      "headline": "World Cup champions Spain return to royal welcome, parade through Madrid",
-      "excerpt": "Tens of thousands of fans greet La Roja as they travel down Madrid's historic avenues to Cibeles Square.",
-      "link": "https://www.aljazeera.com/sports/2026/7/20/world-cup-champions-spain-return-to-royal-welcome-parade-through-madrid?traffic_source=rss",
-      "published": "2026-07-20T21:52:02+00:00",
+      "headline": "Guyana recovers 27 bodies after ferry disaster as crew comes under scrutiny",
+      "excerpt": "Authorities detain ferry crew members after drug tests reveal violations in Guyana's worst marine disaster in decades.",
+      "link": "https://www.aljazeera.com/news/2026/7/21/guyana-recovers-27-bodies-after-ferry-disaster-as-crew-comes-under-scrutiny?traffic_source=rss",
+      "published": "2026-07-21T01:47:30+00:00",
       "featured": true
     },
     {
-      "id": "25681a49cdcd",
-      "source": "Al Jazeera",
-      "headline": "Albanian protesters pelt lawmakers’ cars over resort projects",
-      "excerpt": "Protesters threw eggs at lawmakers' vehicles outside Albania's parliament, demanding changes to laws.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/20/albanian-protesters-pelt-lawmakers-cars-over-resort-projects?traffic_source=rss",
-      "published": "2026-07-20T21:19:41+00:00",
+      "id": "f0269800b4ff",
+      "source": "The Lever",
+      "headline": "The Winklevoss Twins Gave Trump $20 Million After Regulatory Win",
+      "excerpt": "The crypto investors donated $20 million in bitcoin to Trump's super PAC weeks after his administration moved to abandon a federal enforcement action against their crypto exchange.",
+      "link": "https://www.levernews.com/the-winklevoss-twins-gave-trump-20-million-after-regulatory-win/",
+      "published": "2026-07-20T23:53:20+00:00",
       "featured": true
     },
     {
-      "id": "b9ee31b22db0",
-      "source": "Al Jazeera",
-      "headline": "FIFA investigating on-pitch brawl after Spain vs Argentina World Cup final",
-      "excerpt": "Argentina's Paredes was seen shoving Spanish players, which led to an on-field melee, while Spain's Yamal prayed calmly.",
-      "link": "https://www.aljazeera.com/sports/2026/7/20/fifa-investigating-on-pitch-brawl-after-spain-vs-argentina-world-cup-final?traffic_source=rss",
-      "published": "2026-07-20T21:12:22+00:00",
+      "id": "9cce0a84537d",
+      "source": "The Intercept",
+      "headline": "U.S. Official: Iran Attacks Injured “Far More” Troops Than Pentagon Admits",
+      "excerpt": "Iran’s strikes caused dozens of casualties and the first deaths in action since the ceasefire collapsed, a U.S. official said. The post U.S. Official: Iran Attacks Injured “Far More” Troops Than Pentagon Admits appeared...",
+      "link": "https://theintercept.com/2026/07/20/united-states-iran-war-casualties-cover-up-pentagon/",
+      "published": "2026-07-20T20:03:20+00:00",
       "featured": true
     },
     {
-      "id": "68b6c54fe2ea",
-      "source": "Al Jazeera",
-      "headline": "Trump rejects Mamdani threat to arrest Israel’s Netanyahu for war crimes",
-      "excerpt": "US president insists Netanyahu will not be arrested, despite ICC warrant.",
-      "link": "https://www.aljazeera.com/news/2026/7/20/trump-rejects-mamdani-threat-to-arrest-israels-netanyahu-for-war-crimes?traffic_source=rss",
-      "published": "2026-07-20T21:06:42+00:00",
-      "featured": false
-    },
-    {
-      "id": "d146d1f91606",
-      "source": "Al Jazeera",
-      "headline": "King of Spain celebrates World Cup winners in Madrid",
-      "excerpt": "Spain’s World Cup-winning team received a royal reception from King Felipe VI in Madrid ahead of a victory parade.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/20/king-of-spain-celebrates-world-cup-winners-in-madrid?traffic_source=rss",
-      "published": "2026-07-20T21:01:01+00:00",
-      "featured": false
-    },
-    {
-      "id": "8fe3b7f3488c",
-      "source": "Al Jazeera",
-      "headline": "Gaza residents weigh in on election of new Hamas leader",
-      "excerpt": "Gaza residents weigh in on election of new Hamas leader",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/20/gaza-residents-weigh-in-on-election-of-new-hamas-leader?traffic_source=rss",
-      "published": "2026-07-20T20:53:29+00:00",
-      "featured": false
-    },
-    {
-      "id": "a39f47a5f62e",
-      "source": "Al Jazeera",
-      "headline": "How will Zelenskyy handle the growing political crisis at home?",
-      "excerpt": "Ukraine strikes Russian oil sites after major missile attack, as President Zelenskyy faces crisis over sacked minister.",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/7/20/how-will-zelenskyy-handle-the-growing-political-crisis-at-home?traffic_source=rss",
-      "published": "2026-07-20T20:50:31+00:00",
-      "featured": false
-    },
-    {
-      "id": "f9aa6a378f8e",
-      "source": "Al Jazeera",
-      "headline": "Ortega insists no more elections for Nicaragua",
-      "excerpt": "The Central American state's longtime leader intends to block the opposition from challenging his rule.",
-      "link": "https://www.aljazeera.com/news/2026/7/20/ortega-insists-no-more-elections-for-nicaragua?traffic_source=rss",
-      "published": "2026-07-20T20:49:08+00:00",
-      "featured": false
-    },
-    {
-      "id": "c496991f20cd",
-      "source": "Al Jazeera",
-      "headline": "Man arrested after fire outside New York immigration court",
-      "excerpt": "A man has been arrested after setting off an incendiary device outside an immigration court building in New York City.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/20/man-arrested-after-fire-outside-new-york-immigration-court?traffic_source=rss",
-      "published": "2026-07-20T20:45:11+00:00",
-      "featured": false
-    },
-    {
-      "id": "58e2bf57f4b8",
-      "source": "Al Jazeera",
-      "headline": "Monsoon-driven flash flooding kills at least 20 in Afghanistan",
-      "excerpt": "Rescue teams are racing to reach Nuristan province as devastation continues across the region.",
-      "link": "https://www.aljazeera.com/news/2026/7/20/monsoon-driven-flash-flooding-kills-at-least-20-in-afghanistan?traffic_source=rss",
-      "published": "2026-07-20T20:29:27+00:00",
-      "featured": false
-    },
-    {
-      "id": "7ea9d73bb704",
-      "source": "Al Jazeera",
-      "headline": "Indian police attack Cockroach Janta Party’s parliament march",
-      "excerpt": "Police used batons to disperse protesters as thousands of people joined the Cockroach Janta Party's march in New Delhi.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/20/indian-police-attack-cockroach-janta-partys-parliament-march?traffic_source=rss",
-      "published": "2026-07-20T20:21:30+00:00",
-      "featured": false
-    },
-    {
-      "id": "992034a0e6ce",
-      "source": "Al Jazeera",
-      "headline": "Iran condemns US attacks on civilian infrastructure",
-      "excerpt": "Iran says it has received mediation proposals from multiple parties and insists diplomatic efforts remain active.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/20/iran-condemns-us-attacks-on-civilian-infrastructure?traffic_source=rss",
-      "published": "2026-07-20T20:02:20+00:00",
-      "featured": false
-    },
-    {
-      "id": "b477642cad88",
-      "source": "Al Jazeera",
-      "headline": "What does Khalil al-Hayya’s election win mean for Gaza?",
-      "excerpt": "Al-Hayya wins Hamas leadership with a single-vote margin, signalling a focus on Gaza amidst continued Israeli aggression",
-      "link": "https://www.aljazeera.com/news/2026/7/20/what-does-khalil-al-hayyas-election-win-mean-for-gaza?traffic_source=rss",
-      "published": "2026-07-20T19:43:02+00:00",
-      "featured": false
-    },
-    {
-      "id": "12e1d22de8d7",
-      "source": "Al Jazeera",
-      "headline": "Yemeni women support families through enterprise as economic crisis bites",
-      "excerpt": "Amid Yemen’s harsh economic crisis, securing viable employment has become increasingly difficult for men.",
-      "link": "https://www.aljazeera.com/economy/2026/7/20/yemeni-women-support-families-through-enterprise-as-economic-crisis-bites?traffic_source=rss",
-      "published": "2026-07-20T19:36:37+00:00",
-      "featured": false
-    },
-    {
-      "id": "2ded589d9aac",
-      "source": "Al Jazeera",
-      "headline": "EU pauses methane penalties amid energy crisis, US pressure",
-      "excerpt": "The European Commission says waiving penalties will ensure the security of energy supply.",
-      "link": "https://www.aljazeera.com/news/2026/7/20/eu-pauses-methane-penalties-amid-energy-crisis-us-pressure?traffic_source=rss",
-      "published": "2026-07-20T19:29:37+00:00",
-      "featured": false
-    },
-    {
-      "id": "fd8d67523439",
-      "source": "Al Jazeera",
-      "headline": "US judge orders pause on Paramount–Warner Bros merger",
-      "excerpt": "Paramount risks $650m quarterly fees if merger delays extend beyond September, as per the merger agreement terms.",
-      "link": "https://www.aljazeera.com/economy/2026/7/20/us-judge-orders-pause-on-paramount-warner-bros?traffic_source=rss",
-      "published": "2026-07-20T19:20:31+00:00",
-      "featured": false
-    },
-    {
-      "id": "e933f19b8fa4",
-      "source": "Al Jazeera",
-      "headline": "A tournament of contradictions: What did we learn at World Cup 2026?",
-      "excerpt": "A look back at the World Cup's moments of glory and controversy, and their impact on fans, teams and the sport.",
-      "link": "https://www.aljazeera.com/sports/2026/7/20/a-tournament-of-contradictions-what-did-we-learn-at-world-cup-2026?traffic_source=rss",
-      "published": "2026-07-20T19:15:38+00:00",
-      "featured": false
-    },
-    {
-      "id": "f627439169f1",
-      "source": "Al Jazeera",
-      "headline": "Italians protest in Bologna after Moroccan man dies during arrest",
-      "excerpt": "Abderrahim Fakir died as police were restraining him, drawing comparisons with George Floyd's death in 2020.",
-      "link": "https://www.aljazeera.com/news/2026/7/20/protests-in-italy-after-moroccan-man-dies-during-arrest?traffic_source=rss",
-      "published": "2026-07-20T18:53:13+00:00",
+      "id": "7848ec6396a6",
+      "source": "OCCRP",
+      "headline": "Sinaloa Cartel Co-Founder 'El Mayo' Zambada Sentenced to Life in US Prison",
+      "excerpt": "The historic conviction marks the fall of one of the world's last original drug lords, leaving the powerful Sinaloa Cartel facing a massive internal succession battle.",
+      "link": "https://www.occrp.org/en/news/sinaloa-cartel-co-founder-el-mayo-zambada-sentenced-to-life-in-us-prison",
+      "published": "2026-07-20T16:51:00+00:00",
       "featured": false
     },
     {
@@ -173,6 +47,15 @@
       "featured": false
     },
     {
+      "id": "f9693aa8368c",
+      "source": "404 Media",
+      "headline": "New Orleans Cops Published Policy Document Allowing Weaponized Drones",
+      "excerpt": "Cops and drone companies seem increasingly eager to put weapons on their drones.",
+      "link": "https://www.404media.co/new-orleans-cops-published-policy-document-allowing-weaponized-drones/",
+      "published": "2026-07-20T14:37:38+00:00",
+      "featured": false
+    },
+    {
       "id": "939a88797170",
       "source": "ProPublica",
       "headline": "Children in This Church Were Sexually Abused. Then They Began Abusing Other Kids. Some Continued as Adults.",
@@ -182,30 +65,12 @@
       "featured": false
     },
     {
-      "id": "681c337a6f8f",
-      "source": "ProPublica",
-      "headline": "On This Nearly Deserted Alaska Island, You Pay to Keep Hundreds of Empty Buildings Wired for Internet",
-      "excerpt": "The post On This Nearly Deserted Alaska Island, You Pay to Keep Hundreds of Empty Buildings Wired for Internet appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/adak-island-alaska-internet-subsidy-fcc",
-      "published": "2026-07-20T09:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "3824b8c4e53c",
-      "source": "ProPublica",
-      "headline": "How a Man Once Ordered to Pay Libel Damages Helped Launch an Investigation Into Islamic Private Schools",
-      "excerpt": "The post How a Man Once Ordered to Pay Libel Damages Helped Launch an Investigation Into Islamic Private Schools appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/islamic-private-schools-texas-vouchers-sam-westrop",
-      "published": "2026-07-18T03:10:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "97e8a1364eeb",
-      "source": "ProPublica",
-      "headline": "Trump Officials Want to Use Human Rights Aid to Advocate for White South Africans and Right-Wing Causes in Europe",
-      "excerpt": "The post Trump Officials Want to Use Human Rights Aid to Advocate for White South Africans and Right-Wing Causes in Europe appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/human-rights-aid-right-wing-causes",
-      "published": "2026-07-17T21:45:00+00:00",
+      "id": "99c22cbf755c",
+      "source": "Rest of World",
+      "headline": "AI is shrinking video game development teams to one",
+      "excerpt": "AI is helping solo developers thrive in Turkey’s gaming industry, but writers, artists, and junior programmers are being left behind.",
+      "link": "https://restofworld.org/2026/ai-video-games-developer-jobs/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "published": "2026-07-20T10:00:00+00:00",
       "featured": false
     },
     {
@@ -218,309 +83,12 @@
       "featured": false
     },
     {
-      "id": "6ac414e4d1b6",
-      "source": "Dropsite News",
-      "headline": "U.S. bombs civilian infrastructure in Iran; Israeli attacks in Gaza at highest level since “ceasefire”; Rubio urges crackdown on “far-left terrorists”",
-      "excerpt": "Drop Site Daily: July 17, 2026",
-      "link": "https://www.dropsitenews.com/p/us-iran-civilian-infrastructure-israel-gaza-rubio-crackdown-left",
-      "published": "2026-07-17T15:48:28+00:00",
-      "featured": false
-    },
-    {
-      "id": "eb11332b5e36",
-      "source": "Dropsite News",
-      "headline": "Recording Shows UAW Federal Monitor Pressured Union President Over Israel",
-      "excerpt": "Tlaib calls for UAW federal monitor Neil Barofsky to resign after recording undercuts his claims about interactions with union President Shawn Fain",
-      "link": "https://www.dropsitenews.com/p/uaw-shawn-fain-neil-barofsky-recording-israel-gaza",
-      "published": "2026-07-17T13:33:50+00:00",
-      "featured": false
-    },
-    {
-      "id": "74a98a2b690a",
-      "source": "Dropsite News",
-      "headline": "Major Blockchain Firm Consensys Accidentally Hired a North Korean Hacker",
-      "excerpt": "An engineer under the alias “Tyler Knapp” managed to be brought on as a software developer at the Ethereum-based firm.",
-      "link": "https://www.dropsitenews.com/p/consensys-metamask-crypto-wallet-hired-north-korean-hacker",
-      "published": "2026-07-17T13:07:25+00:00",
-      "featured": false
-    },
-    {
-      "id": "aa2300841643",
-      "source": "ProPublica",
-      "headline": "How a Paid Expert Reversed His View of a Notoriously Flawed Prosecution in the Rape of a Bestselling Author",
-      "excerpt": "The post How a Paid Expert Reversed His View of a Notoriously Flawed Prosecution in the Rape of a Bestselling Author appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/alice-sebold-anthony-broadwater-rape-case-prosecutorial-misconduct-bennett-gershman",
-      "published": "2026-07-17T10:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "d9304df93d64",
-      "source": "ICIJ",
-      "headline": "How offshore firms helped a mafia-linked Italian druglord hide a $230m fortune",
-      "excerpt": "Leaked Pandora Papers records reveal that Giacomo Tamburello and his family, now facing prosecution, accumulated gold bars, luxury real estate and a $89 million stake in a bank with the help of unscrupulous financiers...",
-      "link": "https://www.icij.org/investigations/pandora-papers/how-offshore-firms-helped-a-mafia-linked-italian-druglord-hide-a-230m-fortune/",
-      "published": "2026-07-17T08:59:48+00:00",
-      "featured": false
-    },
-    {
-      "id": "47c508323644",
-      "source": "ProPublica",
-      "headline": "Texas Democrats Ask for Investigation Into Ken Paxton After Our Reporting Found He May Have Violated Election Law",
-      "excerpt": "The post Texas Democrats Ask for Investigation Into Ken Paxton After Our Reporting Found He May Have Violated Election Law appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/texas-democrats-ken-paxton-voting-complaint",
-      "published": "2026-07-16T21:05:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "763d163f843b",
-      "source": "Dropsite News",
-      "headline": "A World Turned Upside Down: Syria Reckons with an Assad-Era Peacemaker",
-      "excerpt": "As Syria struggles to pursue transitional justice, a former commander faces false accusations of war crimes.",
-      "link": "https://www.dropsitenews.com/p/syria-tadamon-massacre-civil-war",
-      "published": "2026-07-16T20:34:50+00:00",
-      "featured": false
-    },
-    {
-      "id": "452da8ff0d40",
-      "source": "Dropsite News",
-      "headline": "Ansarallah Vows to Block Saudi Access to Bab al-Mandab After Strikes on Sana’a",
-      "excerpt": "The first Saudi airstrikes against Ansarallah in four years threaten to upend their tenuous ceasefire, just as the truce between the U.S. and Iran is crumbling over the Strait of Hormuz.",
-      "link": "https://www.dropsitenews.com/p/yemen-sanaa-airport-ansarallah-saudi-houthis-bab-al-mandab-bukhaiti",
-      "published": "2026-07-16T16:56:14+00:00",
-      "featured": false
-    },
-    {
-      "id": "70cc9170856e",
-      "source": "Dropsite News",
-      "headline": "U.S. and Iran trade strikes for 5th day; 103 House Democrats vote to end Israel aid; Over 200 dead in Congo massacres",
-      "excerpt": "Drop Site Daily: July 16, 2026",
-      "link": "https://www.dropsitenews.com/p/us-iran-strikes-house-democrats-vote-israel-aid-congo-massacres",
-      "published": "2026-07-16T15:22:57+00:00",
-      "featured": false
-    },
-    {
-      "id": "18cf4cacbc5b",
-      "source": "ProPublica",
-      "headline": "DHS Plans “All-Out War” on Immigration Scammers as Fraud Complaints Double",
-      "excerpt": "The post DHS Plans “All-Out War” on Immigration Scammers as Fraud Complaints Double appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/trump-dhs-immigration-scams-fraud-homeland-security",
-      "published": "2026-07-16T10:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "a332c650dd60",
-      "source": "ProPublica",
-      "headline": "How to Research Private Schools Like an Investigative Reporter",
-      "excerpt": "The post How to Research Private Schools Like an Investigative Reporter appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/how-to-research-private-schools",
-      "published": "2026-07-16T09:05:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "7f2bd9905ada",
-      "source": "ProPublica",
-      "headline": "Barns, Go-Karts and Strip Malls: The Wild West of Private Schools That Collect Taxpayer Dollars",
-      "excerpt": "The post Barns, Go-Karts and Strip Malls: The Wild West of Private Schools That Collect Taxpayer Dollars appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/private-schools-vouchers-growth-florida-arizona-west-virginia",
-      "published": "2026-07-16T09:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "772e9ab44646",
-      "source": "ProPublica",
-      "headline": "FBI Has Looked at Using Questionable AI Tech to Review Signatures on Seized Mail-In Ballots",
-      "excerpt": "The post FBI Has Looked at Using Questionable AI Tech to Review Signatures on Seized Mail-In Ballots appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/trump-2020-election-georgia-fulton-artificial-intelligence-fbi",
-      "published": "2026-07-15T17:55:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "4835ec1d3c38",
-      "source": "ICIJ",
-      "headline": "International Finance Corporation watchdog in turmoil following scathing report on microfinance in Cambodia",
-      "excerpt": "The head of an internal auditor resigned after the board of the World Bank’s private investment arm rejected her office’s findings that the deal violated internal safeguard policies.",
-      "link": "https://www.icij.org/news/2026/07/international-finance-corporation-watchdog-in-turmoil-following-scathing-report-on-microfinance-in-cambodia/",
-      "published": "2026-07-15T17:07:28+00:00",
-      "featured": false
-    },
-    {
-      "id": "1d3e933ed908",
-      "source": "Dropsite News",
-      "headline": "Iran Sent Message to JD Vance Warning that Kushner and Witkoff Were “Abusing” Their Inside Access to Negotiations",
-      "excerpt": "A senior Iranian official said Tehran privately told Vance the pair were exploiting the negotiations for financial gain. The Trump administration says it never happened.",
-      "link": "https://www.dropsitenews.com/p/iran-jd-vance-kushner-witkoff-exploiting-negotiations",
-      "published": "2026-07-15T16:48:43+00:00",
-      "featured": false
-    },
-    {
-      "id": "3be060db4600",
-      "source": "Dropsite News",
-      "headline": "U.S. resumes blockade of Iran; Democrats block defense bill; Cuba’s grid collapses",
-      "excerpt": "Drop Site Daily: July 15, 2026",
-      "link": "https://www.dropsitenews.com/p/us-blockade-iran-hormuz-senate-democrats-defense-bill-cuba-blackout-blockade",
-      "published": "2026-07-15T15:44:38+00:00",
-      "featured": false
-    },
-    {
-      "id": "43595b939201",
-      "source": "Dropsite News",
-      "headline": "Dead or Detained? Families in Gaza Search for Their Loved Ones",
-      "excerpt": "With over 9,500 missing in Gaza, Palestinians search for family members under the rubble, in the \"numbered graves cemetery,\" or in Israeli prisons.",
-      "link": "https://www.dropsitenews.com/p/missing-unidentified-gaza-dead-detained-numbers-cemetery",
-      "published": "2026-07-15T11:44:08+00:00",
-      "featured": false
-    },
-    {
-      "id": "36bdba942c59",
-      "source": "ProPublica",
-      "headline": "This Private School Had Students Scrub Floors and Attack a Fellow Classmate. The State Still Funds It.",
-      "excerpt": "The post This Private School Had Students Scrub Floors and Attack a Fellow Classmate. The State Still Funds It. appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/arkansas-private-schools-vouchers-delta-institute-developing-brain-autism-harm",
-      "published": "2026-07-15T10:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "c34aa4e1c67b",
-      "source": "ProPublica",
-      "headline": "FCC Officials Took Pricey Gifts From Paramount as the Company Needed Approval for Billion-Dollar Deals",
-      "excerpt": "The post FCC Officials Took Pricey Gifts From Paramount as the Company Needed Approval for Billion-Dollar Deals appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/paramount-mergers-fcc-kennedy-center-gala",
-      "published": "2026-07-15T09:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "40f175ff079d",
-      "source": "Dropsite News",
-      "headline": "A Young Populist Heats Up the Texas Agricultural Commissioner Race",
-      "excerpt": "Data centers, Big Ag, and the New World screwworm take center stage for rural voters",
-      "link": "https://www.dropsitenews.com/p/clayton-tucker-texas-agricultural-commissioner-democrat-ai-data-centers-screwworm",
-      "published": "2026-07-14T21:45:04+00:00",
-      "featured": false
-    },
-    {
-      "id": "d5e27574b963",
-      "source": "Dropsite News",
-      "headline": "Ro Khanna and Israeli Apartheid, the Iran War, and the Politics of the World Cup",
-      "excerpt": "Watch now | Rep. Ro Khanna describes his detention by Israeli settlers backed by the Israeli army in the West Bank. Khanna and Drop Site's Jeremy Scahill debate Palestinian armed resistance, the Iron Dome, and...",
-      "link": "https://www.dropsitenews.com/p/ro-khanna-jeremy-scahill-debate-israel-west-bank-resistance-fifa-world-cup",
-      "published": "2026-07-14T18:29:59+00:00",
-      "featured": false
-    },
-    {
-      "id": "ef2c09674406",
-      "source": "ProPublica",
-      "headline": "Trump Administration Launches Crackdown on Teacher Sexual Misconduct Following KQED-ProPublica Investigation",
-      "excerpt": "The post Trump Administration Launches Crackdown on Teacher Sexual Misconduct Following KQED-ProPublica Investigation appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/trump-teacher-sexual-misconduct-crackdown-linda-mcmahon",
-      "published": "2026-07-14T16:35:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "a4181be55bab",
-      "source": "Dropsite News",
-      "headline": "Trump restarts Iran war-powers clock; ICE kills man in Maine; Saudis and Ansarallah trade strikes",
-      "excerpt": "Drop Site Daily: July 14, 2026",
-      "link": "https://www.dropsitenews.com/p/trump-iran-us-war-powers-ice-maine-saudi-ansarallah-yemen",
-      "published": "2026-07-14T15:15:45+00:00",
-      "featured": false
-    },
-    {
-      "id": "718de13a82c9",
-      "source": "ProPublica",
-      "headline": "What We Uncovered About the Sexual Assault of Alice Sebold and a City’s Buried Rape Crisis",
-      "excerpt": "The post What We Uncovered About the Sexual Assault of Alice Sebold and a City’s Buried Rape Crisis appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/sebold-rape-syracuse-investigation-findings-documentary",
-      "published": "2026-07-14T09:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "87efd2e8eebd",
-      "source": "Dropsite News",
-      "headline": "The New Israel-Backed Nonprofit Feeding Lawmakers Model Legislation",
-      "excerpt": "The State Legislator Israel Caucus says it’s an independent nonprofit. The Israeli government discreetly paid for its first D.C. junket.",
-      "link": "https://www.dropsitenews.com/p/israel-backed-nonprofit-lawmakers-draft-legislation",
-      "published": "2026-07-13T18:14:37+00:00",
-      "featured": false
-    },
-    {
-      "id": "f405304207b3",
-      "source": "Dropsite News",
-      "headline": "U.S.-Iran war re-escalates; Israeli settlers detain Ro Khanna; UAW President says Gaza advocacy led to DOJ probe",
-      "excerpt": "Drop Site Daily: July 13, 2026",
-      "link": "https://www.dropsitenews.com/p/us-iran-war-hormuz-trump-israel-khanna-uaw-gaza-doj",
-      "published": "2026-07-13T15:34:17+00:00",
-      "featured": false
-    },
-    {
-      "id": "29c3c814f84e",
-      "source": "ProPublica",
-      "headline": "New Mexico AG Calls for Reform After Report Finds “Substantial Racial Disparities” in One School District",
-      "excerpt": "The post New Mexico AG Calls for Reform After Report Finds “Substantial Racial Disparities” in One School District appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/new-mexico-ag-report-gallup-mckinley-schools",
-      "published": "2026-07-13T10:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "0b7c8d633319",
-      "source": "ProPublica",
-      "headline": "A U.S.-Mexico Impasse Will Test How Far the Trump Administration Will Go to Fight Drug Trade",
-      "excerpt": "The post A U.S.-Mexico Impasse Will Test How Far the Trump Administration Will Go to Fight Drug Trade appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/us-mexico-drug-trade-sheinbaum",
-      "published": "2026-07-13T09:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "90393b474c59",
-      "source": "Dropsite News",
-      "headline": "The Man Who Walked Toward the \"Yellow Line\" in Gaza—and the Son He Carried With Him",
-      "excerpt": "Osama Al-Shafi's mental deterioration from the stresses of war culminated in him wandering in a disassociated state towards Israeli soldiers who detained him and his infant son.",
-      "link": "https://www.dropsitenews.com/p/gaza-yellow-line-psychological-trauma-maghazi",
-      "published": "2026-07-11T15:46:49+00:00",
-      "featured": false
-    },
-    {
-      "id": "a5fdd9f8ba62",
-      "source": "Dropsite News",
-      "headline": "In Letter, Platner Volunteer Network Warns Dems: Nominee Must Back Same Agenda to Win Our Full Support",
-      "excerpt": "Supporters are drafting a policy demand letter that Maine’s next nominee must publicly commit to if they want support from the largest organizing network in state history.",
-      "link": "https://www.dropsitenews.com/p/platner-volunteer-maine-democratic-party-replacement-nominee-delegates",
-      "published": "2026-07-10T21:21:43+00:00",
-      "featured": false
-    },
-    {
-      "id": "7da0979d139d",
-      "source": "ICIJ",
-      "headline": "Merck takes Austria’s Keytruda price transparency battle to top court as journalists fight for information",
-      "excerpt": "The case stems from ICIJ’s Cancer Calculus investigation into the world's best-selling drug’s sky-high price and its global consequences.",
-      "link": "https://www.icij.org/investigations/cancer-calculus/merck-takes-austrias-keytruda-price-transparency-battle-to-top-court-as-journalists-fight-for-information/",
-      "published": "2026-07-10T16:24:05+00:00",
-      "featured": false
-    },
-    {
-      "id": "b92ec4e024b0",
-      "source": "Dropsite News",
-      "headline": "Khamenei is buried; Hormuz grinds to a halt; What we know about the Platner replacement process",
-      "excerpt": "Drop Site Daily: July 10, 2026",
-      "link": "https://www.dropsitenews.com/p/khamenei-funeral-hormuz-iran-us-platner-maine",
-      "published": "2026-07-10T15:27:30+00:00",
-      "featured": false
-    },
-    {
-      "id": "160349174294",
-      "source": "ProPublica",
-      "headline": "He’s Suspected of Hiring a Venezuelan Gang for a Political Killing. Trump Officials Still Work With Him.",
-      "excerpt": "The post He’s Suspected of Hiring a Venezuelan Gang for a Political Killing. Trump Officials Still Work With Him. appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/chile-suspects-venezuela-cabello-killing",
-      "published": "2026-07-10T11:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "46a476a4f7bd",
-      "source": "ProPublica",
-      "headline": "Lawmakers Call for CDC to Track Vitamin K Shot Refusals, Cite ProPublica Report",
-      "excerpt": "The post Lawmakers Call for CDC to Track Vitamin K Shot Refusals, Cite ProPublica Report appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/vitamin-k-cdc-rfk-jr-lawmakers-letter",
-      "published": "2026-07-10T09:00:00+00:00",
+      "id": "c3fe7ef39077",
+      "source": "Bellingcat",
+      "headline": "Identifying the Crypto Entrepreneur Linked to Popular Forum Trading in ‘Leaked’ Nudes of Women",
+      "excerpt": "This investigation is a collaboration between Bellingcat and New Zealand news site The Press. You can read The Press’ piece here. Content warning: This article discusses non-consensual sexually explicit content and...",
+      "link": "https://www.bellingcat.com/news/2026/07/16/leakedbb-crypto-entrepreneur/",
+      "published": "2026-07-16T16:00:01+00:00",
       "featured": false
     },
     {
@@ -533,12 +101,444 @@
       "featured": false
     },
     {
+      "id": "258d0e23f6bc",
+      "source": "Reveal",
+      "headline": "How a US Citizen Was Scanned With ICE’s Facial Recognition Tech",
+      "excerpt": "Jesus Gutiérrez told immigration agents he was a US citizen. Only after they scanned his face, did the agents let him go. How a US Citizen Was Scanned With ICE’s Facial Recognition Tech is a story from Reveal. Reveal is...",
+      "link": "https://revealnews.org/article/how-a-us-citizen-was-scanned-with-ices-facial-recognition-tech",
+      "published": "2025-12-13T08:01:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "d0662d5c5840",
+      "source": "Al Jazeera",
+      "headline": "Why protests are growing in Ukraine over defence leadership and dismissals",
+      "excerpt": "Protests continue as anger grows over President Zelenskyy’s decision to fire the country’s defence minister.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/21/aje-onl-nf_protests-in-kyiv-over-defence-minister-dismissal-200726?traffic_source=rss",
+      "published": "2026-07-21T01:27:56+00:00",
+      "featured": false
+    },
+    {
+      "id": "2f73400eb57e",
+      "source": "The Lever",
+      "headline": "Repeat Food Contaminator Gave $2.2 Million to GOP. Now Thousands Are Sick",
+      "excerpt": "The suspected source of the cyclospora outbreak, gave $1 million to the MAGA Inc, PAC just days after the Trump administration delayed food tracing rules.",
+      "link": "https://www.levernews.com/repeat-food-contaminator-gave-2-2-million-to-gop-now-thousands-are-sick/",
+      "published": "2026-07-20T16:57:02+00:00",
+      "featured": false
+    },
+    {
+      "id": "1e762ce56ce6",
+      "source": "OCCRP",
+      "headline": "Serbian Football Star Files Police Complaint Over Former Chief's Intimidation Plot",
+      "excerpt": "International star Nemanja Matić joins Nemanja Vidić in taking legal action after leaked encrypted chats revealed a former football chief's plot to silence critics.",
+      "link": "https://www.occrp.org/en/news/serbian-football-star-files-police-complaint-over-former-chiefs-intimidation-plot",
+      "published": "2026-07-20T16:26:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "c19f942ce69a",
+      "source": "The Intercept",
+      "headline": "Google Is Censoring Reviews of ICE Detention Centers",
+      "excerpt": "In the past year, Google Maps was deleting all the reviews for dozens of ICE jails, a new study found. The post Google Is Censoring Reviews of ICE Detention Centers appeared first on The Intercept.",
+      "link": "https://theintercept.com/2026/07/20/google-maps-reviews-ice-detention-centers/",
+      "published": "2026-07-20T09:48:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "681c337a6f8f",
+      "source": "ProPublica",
+      "headline": "On This Nearly Deserted Alaska Island, You Pay to Keep Hundreds of Empty Buildings Wired for Internet",
+      "excerpt": "The post On This Nearly Deserted Alaska Island, You Pay to Keep Hundreds of Empty Buildings Wired for Internet appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/adak-island-alaska-internet-subsidy-fcc",
+      "published": "2026-07-20T09:00:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "b765606787c0",
+      "source": "404 Media",
+      "headline": "Ancient Princesses Were Weapon-Wielding Badasses, Scientists Discover",
+      "excerpt": "The mummified remains of 4,000-year-old Egyptian royals suggest that they were buried with weapons because they could use them, not for symbolic reasons.",
+      "link": "https://www.404media.co/ancient-princesses-were-weapon-wielding-badasses-scientists-discover/",
+      "published": "2026-07-18T10:00:29+00:00",
+      "featured": false
+    },
+    {
+      "id": "6ac414e4d1b6",
+      "source": "Dropsite News",
+      "headline": "U.S. bombs civilian infrastructure in Iran; Israeli attacks in Gaza at highest level since “ceasefire”; Rubio urges crackdown on “far-left terrorists”",
+      "excerpt": "Drop Site Daily: July 17, 2026",
+      "link": "https://www.dropsitenews.com/p/us-iran-civilian-infrastructure-israel-gaza-rubio-crackdown-left",
+      "published": "2026-07-17T15:48:28+00:00",
+      "featured": false
+    },
+    {
+      "id": "0356084311c3",
+      "source": "Rest of World",
+      "headline": "Can AI beat a goldfish at calling the World Cup?",
+      "excerpt": "As chatbots compete to forecast the tournament, an unlikely rival from a Toronto fish tank continues to outperform them.",
+      "link": "https://restofworld.org/2026/world-cup-ai-prediction/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "published": "2026-07-17T13:00:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "d9304df93d64",
+      "source": "ICIJ",
+      "headline": "How offshore firms helped a mafia-linked Italian druglord hide a $230m fortune",
+      "excerpt": "Leaked Pandora Papers records reveal that Giacomo Tamburello and his family, now facing prosecution, accumulated gold bars, luxury real estate and a $89 million stake in a bank with the help of unscrupulous financiers...",
+      "link": "https://www.icij.org/investigations/pandora-papers/how-offshore-firms-helped-a-mafia-linked-italian-druglord-hide-a-230m-fortune/",
+      "published": "2026-07-17T08:59:48+00:00",
+      "featured": false
+    },
+    {
+      "id": "fdc5c549ba49",
+      "source": "Bellingcat",
+      "headline": "Between Graves and Uncertainty: The Management of the Dead After Venezuela’s Earthquake",
+      "excerpt": "Bellingcat has geolocated footage circulating on social media that appears to show coffins placed in newly dug trenches following the recent deadly earthquakes in Venezuela. The site identified extends over two hectares...",
+      "link": "https://www.bellingcat.com/news/2026/07/06/between-graves-and-uncertainty-the-management-of-the-dead-after-venezuelas-earthquake/",
+      "published": "2026-07-06T22:19:31+00:00",
+      "featured": false
+    },
+    {
+      "id": "a6e64cbe6faa",
+      "source": "The Markup",
+      "headline": "Californians can protect their personal data with one click. Help us test if it works",
+      "excerpt": "A new state tool lets you tell data brokers to stop tracking you. Will they comply? Help us investigate.",
+      "link": "https://themarkup.org/hello-world/2026/06/30/californians-can-protect-their-personal-data-with-one-click-help-us-test-if-it-works",
+      "published": "2026-06-30T12:00:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "a06c59700878",
+      "source": "Reveal",
+      "headline": "Find Your Lost Google Videos",
+      "excerpt": "A guide to reclaiming your missing ephemera. Find Your Lost Google Videos is a story from Reveal. Reveal is a registered trademark of The Center for Investigative Reporting and is a 501(c)(3) tax exempt organization.",
+      "link": "https://revealnews.org/article/find-your-lost-google-videos",
+      "published": "2025-10-25T07:01:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "2a8679c7a5c5",
+      "source": "Al Jazeera",
+      "headline": "Tate brothers vow to fight extradition as they appear at court in Miami",
+      "excerpt": "Controversial ‘manosphere’ influencers Andrew and Tristan Tate appeared at a federal court hearing in Miami.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/21/tate-brothers-vow-to-fight-extradition-as-they-appear-at-court-in-miami?traffic_source=rss",
+      "published": "2026-07-21T00:58:10+00:00",
+      "featured": false
+    },
+    {
+      "id": "96291f869755",
+      "source": "OCCRP",
+      "headline": "UK Brings New Trafficking Charges Against Tate Brothers",
+      "excerpt": "British prosecutors brought 38 additional charges against Andrew and Tristan Tate after identifying four more alleged victims. The brothers were arrested in Miami, and the U.K. has requested their extradition.",
+      "link": "https://www.occrp.org/en/news/uk-brings-new-trafficking-charges-against-tate-brothers",
+      "published": "2026-07-20T14:07:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "e1e20ea87aba",
+      "source": "The Intercept",
+      "headline": "Hegseth’s War Department Slashed Civilian Protection Staff, Brought in AI Assessments",
+      "excerpt": "An unreleased Pentagon report says its center devoted to protecting civilians cut most of its staff and scrapped a records database while developing an AI assistant to speed up work. The post Hegseth’s War Department...",
+      "link": "https://theintercept.com/2026/07/20/hegseth-civilian-harm-deaths-war/",
+      "published": "2026-07-20T08:13:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "4e231aae7d7a",
+      "source": "The Lever",
+      "headline": "Lever Weekly: Ballot Battles And Blockbusters",
+      "excerpt": "Midterm machinations, movie monopolies, and more from The Lever this week.",
+      "link": "https://www.levernews.com/lever-weekly-ballot-battles-and-blockbusters/",
+      "published": "2026-07-19T13:01:49+00:00",
+      "featured": false
+    },
+    {
+      "id": "3824b8c4e53c",
+      "source": "ProPublica",
+      "headline": "How a Man Once Ordered to Pay Libel Damages Helped Launch an Investigation Into Islamic Private Schools",
+      "excerpt": "The post How a Man Once Ordered to Pay Libel Damages Helped Launch an Investigation Into Islamic Private Schools appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/islamic-private-schools-texas-vouchers-sam-westrop",
+      "published": "2026-07-18T03:10:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "c3ad7f809f1e",
+      "source": "404 Media",
+      "headline": "You're Invited: 404 Media's Third Anniversary Live Podcast and Party!",
+      "excerpt": "We're celebrating with TWO NIGHTS of good times: A live taping of the podcast, and a party the following night! Paid 404 Media subscribers get free and discounted access. Details below.",
+      "link": "https://www.404media.co/three-years/",
+      "published": "2026-07-17T16:15:53+00:00",
+      "featured": false
+    },
+    {
+      "id": "eb11332b5e36",
+      "source": "Dropsite News",
+      "headline": "Recording Shows UAW Federal Monitor Pressured Union President Over Israel",
+      "excerpt": "Tlaib calls for UAW federal monitor Neil Barofsky to resign after recording undercuts his claims about interactions with union President Shawn Fain",
+      "link": "https://www.dropsitenews.com/p/uaw-shawn-fain-neil-barofsky-recording-israel-gaza",
+      "published": "2026-07-17T13:33:50+00:00",
+      "featured": false
+    },
+    {
+      "id": "5e72013cc093",
+      "source": "Rest of World",
+      "headline": "The problem AI content moderation cannot solve",
+      "excerpt": "Meta and other big tech companies are increasingly using AI for content moderation, but as the backlash to Muse Image shows, it cannot protect users because it does not account for consent.",
+      "link": "https://restofworld.org/2026/ai-content-moderation-consent-muse/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "published": "2026-07-16T10:00:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "4835ec1d3c38",
+      "source": "ICIJ",
+      "headline": "International Finance Corporation watchdog in turmoil following scathing report on microfinance in Cambodia",
+      "excerpt": "The head of an internal auditor resigned after the board of the World Bank’s private investment arm rejected her office’s findings that the deal violated internal safeguard policies.",
+      "link": "https://www.icij.org/news/2026/07/international-finance-corporation-watchdog-in-turmoil-following-scathing-report-on-microfinance-in-cambodia/",
+      "published": "2026-07-15T17:07:28+00:00",
+      "featured": false
+    },
+    {
+      "id": "2928cdce2fb3",
+      "source": "Bellingcat",
+      "headline": "Burning Forests: Tools for Tracking and Reporting Wildfire Damage",
+      "excerpt": "If you’ve seen reports of a wildfire in your region and you’re looking for open source data, NASA’s fire-tracking tool is often the first place to start. It provides a heat signature and an approximate location. But...",
+      "link": "https://www.bellingcat.com/resources/how-tos/2026/06/30/burning-forests-tools-for-tracking-and-reporting-wildfire-damage/",
+      "published": "2026-06-30T08:25:31+00:00",
+      "featured": false
+    },
+    {
+      "id": "f91dceeab260",
+      "source": "The Markup",
+      "headline": "Your medical provider might be recording your mental health care visits",
+      "excerpt": "Mental health providers are increasingly using AI technology to record conversations, raising privacy concerns among patients and practitioners.",
+      "link": "https://themarkup.org/privacy/2026/06/16/your-medical-provider-might-be-recording-your-mental-health-care-visits",
+      "published": "2026-06-16T12:00:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "e35ba2827f8d",
+      "source": "Reveal",
+      "headline": "From New York to Arizona, Efforts Emerge to Curb Drug Testing During Childbirth",
+      "excerpt": "Several proposals followed an investigation by The Marshall Project and Reveal exposing the harms of widespread drug testing of pregnant patients. From New York to Arizona, Efforts Emerge to Curb Drug Testing During...",
+      "link": "https://revealnews.org/article/pregnancy-drug-testing-legislation-new-york-arizona-tennessee",
+      "published": "2025-06-09T10:01:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "87ed625c5810",
+      "source": "Al Jazeera",
+      "headline": "Trump imposes 50% US tariffs on some Canadian goods, citing discrimination",
+      "excerpt": "Tariffs apply to Canadian wine, hockey sticks, cement, and other products, sparking fears of escalating trade tensions.",
+      "link": "https://www.aljazeera.com/news/2026/7/21/trump-imposes-50-us-tariffs-on-some-canadian-goods-citing-discrimination?traffic_source=rss",
+      "published": "2026-07-21T00:08:50+00:00",
+      "featured": false
+    },
+    {
+      "id": "dd521c08c058",
+      "source": "OCCRP",
+      "headline": "Russian Security Service Planned AI Tool to Track Media",
+      "excerpt": "Leaked documents show that Russia’s security service planned to merge media monitoring with closed databases in an AI assistant for its officers. The contractor later failed to deliver a working system.",
+      "link": "https://www.occrp.org/en/news/russian-security-service-planned-ai-tool-to-track-media",
+      "published": "2026-07-20T09:28:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "1207b5dfd291",
+      "source": "The Intercept",
+      "headline": "It’s Scary As Hell Being Black in America Right Now",
+      "excerpt": "The deaths of Nolan Wells and Kohen Wiley are symptoms of a nation retreating from any pretense of equal rights. The post It’s Scary As Hell Being Black in America Right Now appeared first on The Intercept.",
+      "link": "https://theintercept.com/2026/07/19/nolan-wells-kohen-wiley/",
+      "published": "2026-07-19T10:00:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "97e8a1364eeb",
+      "source": "ProPublica",
+      "headline": "Trump Officials Want to Use Human Rights Aid to Advocate for White South Africans and Right-Wing Causes in Europe",
+      "excerpt": "The post Trump Officials Want to Use Human Rights Aid to Advocate for White South Africans and Right-Wing Causes in Europe appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/human-rights-aid-right-wing-causes",
+      "published": "2026-07-17T21:45:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "c0400cd1ad1c",
+      "source": "The Lever",
+      "headline": "Democrats Fail Because They Won’t Name The Villains",
+      "excerpt": "Democrats keep promising to fix the country’s problems. But many refuse to name the corporate interests standing in the way.",
+      "link": "https://www.levernews.com/democrats-fail-because-they-wont-name-the-villains/",
+      "published": "2026-07-17T17:04:30+00:00",
+      "featured": false
+    },
+    {
+      "id": "3eac40a3b23d",
+      "source": "404 Media",
+      "headline": "Behind the Blog: Infinite Bowl Machine",
+      "excerpt": "This week, we discuss AI music, slop bowls, and the endless quest for optimization.",
+      "link": "https://www.404media.co/behind-the-blog-infinite-bowl-machine/",
+      "published": "2026-07-17T16:07:19+00:00",
+      "featured": false
+    },
+    {
+      "id": "74a98a2b690a",
+      "source": "Dropsite News",
+      "headline": "Major Blockchain Firm Consensys Accidentally Hired a North Korean Hacker",
+      "excerpt": "An engineer under the alias “Tyler Knapp” managed to be brought on as a software developer at the Ethereum-based firm.",
+      "link": "https://www.dropsitenews.com/p/consensys-metamask-crypto-wallet-hired-north-korean-hacker",
+      "published": "2026-07-17T13:07:25+00:00",
+      "featured": false
+    },
+    {
+      "id": "5dacc3339031",
+      "source": "Rest of World",
+      "headline": "AI powers citizen-led disaster relief from afar for Venezuela",
+      "excerpt": "TOPSHOT - This aerial view taken on July 2, 2026 in Caraballeda in the state of La Guaira shows collapsed buildings following the June 24 twin earthquakes.",
+      "link": "https://restofworld.org/2026/venezuela-ai-citizen-disaster-response/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "published": "2026-07-15T10:00:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "7da0979d139d",
+      "source": "ICIJ",
+      "headline": "Merck takes Austria’s Keytruda price transparency battle to top court as journalists fight for information",
+      "excerpt": "The case stems from ICIJ’s Cancer Calculus investigation into the world's best-selling drug’s sky-high price and its global consequences.",
+      "link": "https://www.icij.org/investigations/cancer-calculus/merck-takes-austrias-keytruda-price-transparency-battle-to-top-court-as-journalists-fight-for-information/",
+      "published": "2026-07-10T16:24:05+00:00",
+      "featured": false
+    },
+    {
+      "id": "77a95586558d",
+      "source": "Bellingcat",
+      "headline": "Satellite Imagery Shows Scale of Venezuela Earthquake Damage",
+      "excerpt": "At least 1,719 people are reported to have died after two devastating earthquakes struck northwestern Venezuela last week. The final casualty count is expected to rise significantly. Some media outlets report resident’s...",
+      "link": "https://www.bellingcat.com/news/2026/06/29/satellite-imagery-shows-scale-of-venezuela-earthquake-damage/",
+      "published": "2026-06-29T22:34:11+00:00",
+      "featured": false
+    },
+    {
+      "id": "550347ea20d8",
+      "source": "The Markup",
+      "headline": "The form asked my permission to share my health data. Then it wouldn’t let me say no.",
+      "excerpt": "Dark patterns force patients to share their data with big healthcare networks, even when the privacy form they’re signing explicitly says they can opt-out.",
+      "link": "https://themarkup.org/privacy/2026/05/27/opt-out-dark-patterns",
+      "published": "2026-05-27T12:00:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "7e148457e925",
+      "source": "Reveal",
+      "headline": "A Gun Deemed Too Dangerous for Cops, But Fine for Civilians",
+      "excerpt": "Police are reselling their SIG Sauer P320 pistols—alleged in multiple lawsuits to fire without the trigger being pulled—to the public. A Gun Deemed Too Dangerous for Cops, But Fine for Civilians is a story from Reveal....",
+      "link": "https://revealnews.org/article/sig-sauer-p320-police-resale-public",
+      "published": "2025-05-19T10:01:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "b1d36858e630",
+      "source": "Al Jazeera",
+      "headline": "US attacks Iran for 10th consecutive night",
+      "excerpt": "Washington vows revenge for US military casualties, while Iran claims attacks on US sites across the region.",
+      "link": "https://www.aljazeera.com/news/2026/7/21/us-launches-tenth-consecutive-night-of-attacks-on-iran?traffic_source=rss",
+      "published": "2026-07-21T00:06:33+00:00",
+      "featured": false
+    },
+    {
+      "id": "585fd6f6706b",
+      "source": "The Intercept",
+      "headline": "The United States of Betrayal",
+      "excerpt": "Turning on our allies has always been the American way. The post The United States of Betrayal appeared first on The Intercept.",
+      "link": "https://theintercept.com/2026/07/18/united-states-betray-allies-trump-foreign-policy/",
+      "published": "2026-07-18T10:00:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "c38bdbfe8782",
+      "source": "OCCRP",
+      "headline": "Breaking the Bloodline: Italy Enacts Landmark Law to Help Children Flee the Mafia",
+      "excerpt": "Italy's parliament has codified the \"Free to Choose\" program nationwide, offering permanent identity changes, safe houses, and comprehensive state support to mothers and minors escaping the grip of the country's most...",
+      "link": "https://www.occrp.org/en/news/breaking-the-bloodline-italy-enacts-landmark-law-to-help-children-flee-the-mafia",
+      "published": "2026-07-17T21:29:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "1fc36f08349d",
+      "source": "404 Media",
+      "headline": "ICE to Pay Thomson Reuters $125 Million to Find ‘Voter Fraud’",
+      "excerpt": "A new procurement record says ICE wants access to personal data, including names, Social Security numbers, and ethnicity, to investigate in part what the agency calls “voters fraud.” It also plans to use the data to...",
+      "link": "https://www.404media.co/ice-to-pay-thomson-reuters-125-million-to-find-voter-fraud/",
+      "published": "2026-07-17T15:35:37+00:00",
+      "featured": false
+    },
+    {
+      "id": "e776aed49286",
+      "source": "The Lever",
+      "headline": "Maine’s Insider Primary Begins",
+      "excerpt": "With Graham Platner out, the battle for Maine's Senate seat just moved behind closed doors.",
+      "link": "https://www.levernews.com/maines-insider-primary-begins/",
+      "published": "2026-07-17T14:33:07+00:00",
+      "featured": false
+    },
+    {
+      "id": "aa2300841643",
+      "source": "ProPublica",
+      "headline": "How a Paid Expert Reversed His View of a Notoriously Flawed Prosecution in the Rape of a Bestselling Author",
+      "excerpt": "The post How a Paid Expert Reversed His View of a Notoriously Flawed Prosecution in the Rape of a Bestselling Author appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/alice-sebold-anthony-broadwater-rape-case-prosecutorial-misconduct-bennett-gershman",
+      "published": "2026-07-17T10:00:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "763d163f843b",
+      "source": "Dropsite News",
+      "headline": "A World Turned Upside Down: Syria Reckons with an Assad-Era Peacemaker",
+      "excerpt": "As Syria struggles to pursue transitional justice, a former commander faces false accusations of war crimes.",
+      "link": "https://www.dropsitenews.com/p/syria-tadamon-massacre-civil-war",
+      "published": "2026-07-16T20:34:50+00:00",
+      "featured": false
+    },
+    {
+      "id": "94c73617ee95",
+      "source": "Rest of World",
+      "headline": "The Gulf has billions to spend on AI. It still needs Nvidia",
+      "excerpt": "Saudi Arabia and the UAE are trying to diversify their AI supply chains, but geopolitical constraints and Nvidia's technological lead leave them with few viable alternatives.",
+      "link": "https://restofworld.org/2026/gulf-ai-investment-nvidia-monopoly-blackwell/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "published": "2026-07-14T10:00:39+00:00",
+      "featured": false
+    },
+    {
       "id": "3112594336e3",
       "source": "ICIJ",
       "headline": "Crypto giant Circle rebuffed efforts to help scam victims, police say",
       "excerpt": "Law enforcement in Wisconsin and New York accuse the firm of refusing to help recoup funds, even under court orders.",
       "link": "https://www.icij.org/investigations/coin-laundry/crypto-giant-circle-rebuffed-efforts-to-help-scam-victims-police-say/",
       "published": "2026-07-08T14:29:36+00:00",
+      "featured": false
+    },
+    {
+      "id": "69e36aeb809d",
+      "source": "Bellingcat",
+      "headline": "Poster Boy: Sanctioned Kinahan Cartel Lieutenant Found Playing Padel in Dubai",
+      "excerpt": "This article is the result of a collaboration with The Sunday Times. You can find their corresponding piece here. Every Friday evening, the brochure says, players can compete to win cash prizes in one of the world’s...",
+      "link": "https://www.bellingcat.com/news/2026/06/27/poster-boy-sanctioned-kinahan-cartel-lieutenant-found-playing-padel-in-dubai/",
+      "published": "2026-06-27T18:02:34+00:00",
+      "featured": false
+    },
+    {
+      "id": "bb236055dd52",
+      "source": "The Markup",
+      "headline": "It’s easier for Californians to escape data brokers following a Markup investigation",
+      "excerpt": "The Markup and CalMatters showed how website code could make it harder for Californians to exercise their right to remove personal data. Now much of that code has disappeared.",
+      "link": "https://themarkup.org/privacy/2026/05/22/its-easier-for-californians-to-escape-data-brokers-following-a-markup-investigation",
+      "published": "2026-05-22T12:00:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "3ccebeb7ebca",
+      "source": "Reveal",
+      "headline": "Why Some Doctors Are Pushing to End Routine Drug Testing During Childbirth",
+      "excerpt": "Hospitals routinely report parents to child welfare authorities based on error-prone drug tests. Some hospitals are changing policy as a result. Why Some Doctors Are Pushing to End Routine Drug Testing During Childbirth...",
+      "link": "https://revealnews.org/article/end-drug-testing-pregnant-patients-newborns",
+      "published": "2025-04-02T10:00:00+00:00",
       "featured": false
     }
   ]
