@@ -1,6 +1,4 @@
-# wrangler files
-.wrangler
-.dev.vars*
-!.dev.vars.example
-.env*
-!.env.example
+index.html.bak
+*.bak
+node_modules
+dist
