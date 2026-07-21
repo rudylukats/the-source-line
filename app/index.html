@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>The Source Line - Independent News Aggregator</title>
+    <meta name="description" content="Independent and investigative news headlines from Dropsite News, ProPublica, ICIJ, Al Jazeera, and The Markup, updated every 3 hours. No corporate fluff." />
+    <meta name="google-site-verification" content="ucfWjHZEy2EmQhmRWIlE5UpEIH14m0r6AXIrufjljGM" />
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+
+    <!-- Cloudflare Web Analytics (cookieless). Keep this or analytics stops. -->
+    <script type=module src=https://static.cloudflareinsights.com/beacon.min.js data-cf-beacon="{&quot;token&quot;: &quot;3fc93ca0b4e8447aa2a302a8cc3fc6ff&quot;}"></script>
+
+    <!-- Ko-fi support button -->
+    <script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
+<script>
+  kofiWidgetOverlay.draw('rudylukats', {
+    'type': 'floating-chat',
+    'floating-chat.donateButton.text': 'Support',
+    'floating-chat.donateButton.background-color': '#e8a33d',
+    'floating-chat.donateButton.text-color': '#0b0b0c'
+  });
+</script>
+
+    <!-- Beehiiv newsletter forms, injected into the sidebar and footer -->
+    <script id="tsl-beehiiv-injector">
+(function () {
+  // Beehiiv email capture, placed into the app's sidebar and footer without
+  // touching the compiled bundle. The app re-renders on view changes, so an
+  // observer keeps the form present. Everything is wrapped so it can never
+  // break the page.
+  var FORM_ID = "5d79eaec-9f5b-434c-81b7-c0f5e91dfb92";
+  var LOADER = "https://subscribe-forms.beehiiv.com/v3/loader.js";
+
+  function makeForm() {
+    var wrap = document.createElement("div");
+    wrap.className = "tsl-newsletter";
+    wrap.style.marginBottom = "1.5rem";
+    var s = document.createElement("script");
+    s.async = true;
+    s.src = LOADER;
+    s.setAttribute("data-beehiiv-form", FORM_ID);
+    wrap.appendChild(s);
+    return wrap;
+  }
+
+  function ensureSidebar() {
+    var anchor = document.getElementById("about-panel");
+    if (!anchor || !anchor.parentNode) return;
+    if (anchor.parentNode.querySelector(".tsl-newsletter")) return;
+    anchor.parentNode.insertBefore(makeForm(), anchor);
+  }
+
+  function ensureFooter() {
+    var footer = document.querySelector("footer");
+    if (!footer) return;
+    var inner = footer.querySelector("div");
+    if (!inner || inner.querySelector(".tsl-newsletter")) return;
+    var box = makeForm();
+    box.style.marginTop = "1.25rem";
+    box.style.maxWidth = "640px";
+    inner.appendChild(box);
+  }
+
+  var pending = false;
+  function run() {
+    if (pending) return;
+    pending = true;
+    setTimeout(function () {
+      pending = false;
+      try { ensureSidebar(); ensureFooter(); } catch (e) {}
+    }, 50);
+  }
+
+  function start() {
+    run();
+    try {
+      new MutationObserver(run).observe(document.body, { childList: true, subtree: true });
+    } catch (e) {}
+    setInterval(run, 2000);
+  }
+
+  if (document.readyState === "loading") {
+    document.addEventListener("DOMContentLoaded", start);
+  } else {
+    start();
+  }
+})();
+</script>
+  </body>
+</html>
