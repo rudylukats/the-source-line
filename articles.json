@@ -1,6 +1,33 @@
 {
-  "generated_at": "2026-07-21T11:19:21.621583+00:00",
+  "generated_at": "2026-07-21T14:23:02.790760+00:00",
   "articles": [
+    {
+      "id": "9ed36c181930",
+      "source": "Al Jazeera",
+      "headline": "Searching for closure: Venezuela families refuse to give up after quakes",
+      "excerpt": "Weeks after earthquakes, relatives are still searching for bodies of loved ones who disappeared beneath the rubble.",
+      "link": "https://www.aljazeera.com/features/2026/7/21/searching-for-closure-venezuela-families-refuse-to-give-up-after-quakes?traffic_source=rss",
+      "published": "2026-07-21T14:08:59+00:00",
+      "featured": true
+    },
+    {
+      "id": "e6be421b584b",
+      "source": "The Intercept",
+      "headline": "ICE Mandates Dress Code After Killings and Botched Arrest",
+      "excerpt": "Updates to ICE’s code of conduct ban deportation officers from wearing jeans, hoodies, and graphic tees, according to a leaked document. The post ICE Mandates Dress Code After Killings and Botched Arrest appeared first...",
+      "link": "https://theintercept.com/2026/07/21/ice-undercover-plainclothes-uniform/",
+      "published": "2026-07-21T14:05:04+00:00",
+      "featured": true
+    },
+    {
+      "id": "55f8d8a2dda6",
+      "source": "404 Media",
+      "headline": "AI Companies Are Buying Tons of Old Books Because They're Free of AI Slop",
+      "excerpt": "ISBNdb, a company that sources printed books for AI companies to turn into training data, tells clients “the optics problem is real.”",
+      "link": "https://www.404media.co/ai-companies-are-buying-tons-of-old-books-because-theyre-free-of-ai-slop/",
+      "published": "2026-07-21T13:51:39+00:00",
+      "featured": true
+    },
     {
       "id": "096fa8e67cb6",
       "source": "OCCRP",
@@ -8,16 +35,7 @@
       "excerpt": "",
       "link": "https://www.occrp.org/en/news/indonesia-sentences-19-in-syndicate-that-trafficked-dozens-of-babies",
       "published": "2026-07-21T11:06:00+00:00",
-      "featured": true
-    },
-    {
-      "id": "656a02b6d4c8",
-      "source": "Al Jazeera",
-      "headline": "Arizona’s primary elections: Which US races to watch and why they matter",
-      "excerpt": "From the governor’s race to Democratic divisions over Gaza, here’s what could shape Arizona elections on Tuesday.",
-      "link": "https://www.aljazeera.com/news/2026/7/21/arizonas-primary-elections-which-us-races-to-watch-and-why-they-matter?traffic_source=rss",
-      "published": "2026-07-21T10:28:16+00:00",
-      "featured": true
+      "featured": false
     },
     {
       "id": "9043dcf2350e",
@@ -26,7 +44,7 @@
       "excerpt": "As demand for elite AI engineers outpaces supply, companies are recruiting teenagers through camps, research programs, and guaranteed job pipelines.",
       "link": "https://restofworld.org/2026/china-tech-recruiting-teenagers-ai-shortage/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "published": "2026-07-21T10:00:00+00:00",
-      "featured": true
+      "featured": false
     },
     {
       "id": "66c67f2edea4",
@@ -38,21 +56,12 @@
       "featured": false
     },
     {
-      "id": "f0269800b4ff",
+      "id": "f989ab39cd49",
       "source": "The Lever",
-      "headline": "The Winklevoss Twins Gave Trump $20 Million After Regulatory Win",
-      "excerpt": "The crypto investors donated $20 million in bitcoin to Trump's super PAC weeks after his administration moved to abandon a federal enforcement action against their crypto exchange.",
-      "link": "https://www.levernews.com/the-winklevoss-twins-gave-trump-20-million-after-regulatory-win/",
+      "headline": "The Winklevoss Twins Gave Trump $10 Million After Regulatory Win",
+      "excerpt": "The crypto investors donated $10 million in bitcoin to Trump's super PAC weeks after his administration moved to abandon a federal enforcement action against their crypto exchange.",
+      "link": "https://www.levernews.com/the-winklevoss-twins-gave-trump-10-million-after-regulatory-win/",
       "published": "2026-07-20T23:53:20+00:00",
-      "featured": false
-    },
-    {
-      "id": "9cce0a84537d",
-      "source": "The Intercept",
-      "headline": "U.S. Official: Iran Attacks Injured “Far More” Troops Than Pentagon Admits",
-      "excerpt": "Iran’s strikes caused dozens of casualties and the first deaths in action since the ceasefire collapsed, a U.S. official said. The post U.S. Official: Iran Attacks Injured “Far More” Troops Than Pentagon Admits appeared...",
-      "link": "https://theintercept.com/2026/07/20/united-states-iran-war-casualties-cover-up-pentagon/",
-      "published": "2026-07-20T20:03:20+00:00",
       "featured": false
     },
     {
@@ -65,12 +74,12 @@
       "featured": false
     },
     {
-      "id": "f9693aa8368c",
-      "source": "404 Media",
-      "headline": "New Orleans Cops Published Policy Document Allowing Weaponized Drones",
-      "excerpt": "Cops and drone companies seem increasingly eager to put weapons on their drones.",
-      "link": "https://www.404media.co/new-orleans-cops-published-policy-document-allowing-weaponized-drones/",
-      "published": "2026-07-20T14:37:38+00:00",
+      "id": "9b5a8b13fb9a",
+      "source": "ICIJ",
+      "headline": "Swedbank fined $50 million by New York authorities over Panama Papers revelations",
+      "excerpt": "The Swedish bank and its New York subsidiary agreed to the penalty to settle final U.S. probe tied to money laundering case, officials say.",
+      "link": "https://www.icij.org/investigations/panama-papers/swedbank-fined-50-million-by-new-york-authorities-over-panama-papers-revelations/",
+      "published": "2026-07-17T21:24:52+00:00",
       "featured": false
     },
     {
@@ -92,6 +101,24 @@
       "featured": false
     },
     {
+      "id": "d715300c05c6",
+      "source": "Al Jazeera",
+      "headline": "Japan’s AI gamble: Can technology offset the cost of an ageing society?",
+      "excerpt": "From underground networks to emerging AI start-ups, Japan is testing whether its greatest issue can be an opportunity.",
+      "link": "https://www.aljazeera.com/features/2026/7/21/japan-ai-gamble-can-technology-offset-the-cost-of-an-ageing-society?traffic_source=rss",
+      "published": "2026-07-21T14:06:44+00:00",
+      "featured": false
+    },
+    {
+      "id": "c0b14244837c",
+      "source": "The Intercept",
+      "headline": "Nancy Pelosi’s Pick for Her SF House Seat Takes Anti-AIPAC Pledge",
+      "excerpt": "House candidate Connie Chan is backed by Pelosi, Adam Schiff, and now TrackAIPAC, signaling the growing influence of a politics skeptical of Israel. The post Nancy Pelosi’s Pick for Her SF House Seat Takes Anti-AIPAC...",
+      "link": "https://theintercept.com/2026/07/21/connie-chan-san-francisco-aipac-pelosi/",
+      "published": "2026-07-21T11:59:00+00:00",
+      "featured": false
+    },
+    {
       "id": "03321aa363ce",
       "source": "OCCRP",
       "headline": "UN Report Details Southeast Asia’s Interconnected Criminal Economy",
@@ -101,21 +128,21 @@
       "featured": false
     },
     {
-      "id": "e7bfb097513e",
-      "source": "Al Jazeera",
-      "headline": "Lebanon’s Joseph Aoun to meet Trump: What to expect",
-      "excerpt": "The Lebanese president is seeking Washington's support for his agenda, including diplomacy with Israel.",
-      "link": "https://www.aljazeera.com/news/2026/7/21/lebanons-joseph-aoun-to-meet-trump-what-to-expect?traffic_source=rss",
-      "published": "2026-07-21T10:27:31+00:00",
-      "featured": false
-    },
-    {
       "id": "2f73400eb57e",
       "source": "The Lever",
       "headline": "Repeat Food Contaminator Gave $2.2 Million to GOP. Now Thousands Are Sick",
       "excerpt": "The suspected source of the cyclospora outbreak, gave $1 million to the MAGA Inc, PAC just days after the Trump administration delayed food tracing rules.",
       "link": "https://www.levernews.com/repeat-food-contaminator-gave-2-2-million-to-gop-now-thousands-are-sick/",
       "published": "2026-07-20T16:57:02+00:00",
+      "featured": false
+    },
+    {
+      "id": "f9693aa8368c",
+      "source": "404 Media",
+      "headline": "New Orleans Cops Published Policy Document Allowing Weaponized Drones",
+      "excerpt": "Cops and drone companies seem increasingly eager to put weapons on their drones.",
+      "link": "https://www.404media.co/new-orleans-cops-published-policy-document-allowing-weaponized-drones/",
+      "published": "2026-07-20T14:37:38+00:00",
       "featured": false
     },
     {
@@ -137,30 +164,21 @@
       "featured": false
     },
     {
-      "id": "c19f942ce69a",
-      "source": "The Intercept",
-      "headline": "Google Is Censoring Reviews of ICE Detention Centers",
-      "excerpt": "In the past year, Google Maps was deleting all the reviews for dozens of ICE jails, a new study found. The post Google Is Censoring Reviews of ICE Detention Centers appeared first on The Intercept.",
-      "link": "https://theintercept.com/2026/07/20/google-maps-reviews-ice-detention-centers/",
-      "published": "2026-07-20T09:48:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "b765606787c0",
-      "source": "404 Media",
-      "headline": "Ancient Princesses Were Weapon-Wielding Badasses, Scientists Discover",
-      "excerpt": "The mummified remains of 4,000-year-old Egyptian royals suggest that they were buried with weapons because they could use them, not for symbolic reasons.",
-      "link": "https://www.404media.co/ancient-princesses-were-weapon-wielding-badasses-scientists-discover/",
-      "published": "2026-07-18T10:00:29+00:00",
-      "featured": false
-    },
-    {
       "id": "6ac414e4d1b6",
       "source": "Dropsite News",
       "headline": "U.S. bombs civilian infrastructure in Iran; Israeli attacks in Gaza at highest level since “ceasefire”; Rubio urges crackdown on “far-left terrorists”",
       "excerpt": "Drop Site Daily: July 17, 2026",
       "link": "https://www.dropsitenews.com/p/us-iran-civilian-infrastructure-israel-gaza-rubio-crackdown-left",
       "published": "2026-07-17T15:48:28+00:00",
+      "featured": false
+    },
+    {
+      "id": "d9304df93d64",
+      "source": "ICIJ",
+      "headline": "How offshore firms helped a mafia-linked Italian druglord hide a $230m fortune",
+      "excerpt": "Leaked Pandora Papers records reveal that Giacomo Tamburello and his family, now facing prosecution, accumulated gold bars, luxury real estate and a $89 million stake in a bank with the help of unscrupulous financiers...",
+      "link": "https://www.icij.org/investigations/pandora-papers/how-offshore-firms-helped-a-mafia-linked-italian-druglord-hide-a-230m-fortune/",
+      "published": "2026-07-17T08:59:48+00:00",
       "featured": false
     },
     {
@@ -182,12 +200,21 @@
       "featured": false
     },
     {
-      "id": "1972a99a4303",
+      "id": "64299c88b3f1",
       "source": "Al Jazeera",
-      "headline": "FIFA World Cup: Who scored the most goals, assists, saves and yellow cards?",
-      "excerpt": "FIFA’s biggest global showpiece saw 1,039 players from 48 nations play across 16 venues and score 308 goals.",
-      "link": "https://www.aljazeera.com/sports/2026/7/21/who-scored-the-most-goals-kept-clean-sheets-made-assists-fifa-world-cup-yellow-cards-saves?traffic_source=rss",
-      "published": "2026-07-21T10:25:18+00:00",
+      "headline": "ASEAN diplomats voice ‘serious concern’ over Iran war and energy crisis",
+      "excerpt": "Southeast Asian countries are highly affected by oil supply shortages caused by Iran war and Strait of Hormuz closure.",
+      "link": "https://www.aljazeera.com/news/2026/7/21/asean-diplomats-voice-serious-concern-over-iran-war-and-energy-crisis?traffic_source=rss",
+      "published": "2026-07-21T13:43:48+00:00",
+      "featured": false
+    },
+    {
+      "id": "9cce0a84537d",
+      "source": "The Intercept",
+      "headline": "U.S. Official: Iran Attacks Injured “Far More” Troops Than Pentagon Admits",
+      "excerpt": "Iran’s strikes caused dozens of casualties and the first deaths in action since the ceasefire collapsed, a U.S. official said. The post U.S. Official: Iran Attacks Injured “Far More” Troops Than Pentagon Admits appeared...",
+      "link": "https://theintercept.com/2026/07/20/united-states-iran-war-casualties-cover-up-pentagon/",
+      "published": "2026-07-20T20:03:20+00:00",
       "featured": false
     },
     {
@@ -209,15 +236,6 @@
       "featured": false
     },
     {
-      "id": "e1e20ea87aba",
-      "source": "The Intercept",
-      "headline": "Hegseth’s War Department Slashed Civilian Protection Staff, Brought in AI Assessments",
-      "excerpt": "An unreleased Pentagon report says its center devoted to protecting civilians cut most of its staff and scrapped a records database while developing an AI assistant to speed up work. The post Hegseth’s War Department...",
-      "link": "https://theintercept.com/2026/07/20/hegseth-civilian-harm-deaths-war/",
-      "published": "2026-07-20T08:13:00+00:00",
-      "featured": false
-    },
-    {
       "id": "4e231aae7d7a",
       "source": "The Lever",
       "headline": "Lever Weekly: Ballot Battles And Blockbusters",
@@ -227,12 +245,12 @@
       "featured": false
     },
     {
-      "id": "c3ad7f809f1e",
+      "id": "b765606787c0",
       "source": "404 Media",
-      "headline": "You're Invited: 404 Media's Third Anniversary Live Podcast and Party!",
-      "excerpt": "We're celebrating with TWO NIGHTS of good times: A live taping of the podcast, and a party the following night! Paid 404 Media subscribers get free and discounted access. Details below.",
-      "link": "https://www.404media.co/three-years/",
-      "published": "2026-07-17T16:15:53+00:00",
+      "headline": "Ancient Princesses Were Weapon-Wielding Badasses, Scientists Discover",
+      "excerpt": "The mummified remains of 4,000-year-old Egyptian royals suggest that they were buried with weapons because they could use them, not for symbolic reasons.",
+      "link": "https://www.404media.co/ancient-princesses-were-weapon-wielding-badasses-scientists-discover/",
+      "published": "2026-07-18T10:00:29+00:00",
       "featured": false
     },
     {
@@ -254,6 +272,15 @@
       "featured": false
     },
     {
+      "id": "4835ec1d3c38",
+      "source": "ICIJ",
+      "headline": "International Finance Corporation watchdog in turmoil following scathing report on microfinance in Cambodia",
+      "excerpt": "The head of an internal auditor resigned after the board of the World Bank’s private investment arm rejected her office’s findings that the deal violated internal safeguard policies.",
+      "link": "https://www.icij.org/news/2026/07/international-finance-corporation-watchdog-in-turmoil-following-scathing-report-on-microfinance-in-cambodia/",
+      "published": "2026-07-15T17:07:28+00:00",
+      "featured": false
+    },
+    {
       "id": "2928cdce2fb3",
       "source": "Bellingcat",
       "headline": "Burning Forests: Tools for Tracking and Reporting Wildfire Damage",
@@ -263,12 +290,12 @@
       "featured": false
     },
     {
-      "id": "62366a35f645",
+      "id": "82333241bb6a",
       "source": "Al Jazeera",
-      "headline": "Can AI systems make moral decisions in war?",
-      "excerpt": "As more militaries adopt AI technology into their kill chain, Al Jazeera asks if they are capable of moral judgement.",
-      "link": "https://www.aljazeera.com/news/2026/7/21/can-ai-systems-make-moral-decisions-in-war?traffic_source=rss",
-      "published": "2026-07-21T10:21:08+00:00",
+      "headline": "What does a heatwave cost?",
+      "excerpt": "What does a heatwave cost?",
+      "link": "https://www.aljazeera.com/video/money-works/2026/7/21/what-does-a-heatwave-cost?traffic_source=rss",
+      "published": "2026-07-21T13:42:38+00:00",
       "featured": false
     },
     {
@@ -281,12 +308,12 @@
       "featured": false
     },
     {
-      "id": "1207b5dfd291",
+      "id": "c19f942ce69a",
       "source": "The Intercept",
-      "headline": "It’s Scary As Hell Being Black in America Right Now",
-      "excerpt": "The deaths of Nolan Wells and Kohen Wiley are symptoms of a nation retreating from any pretense of equal rights. The post It’s Scary As Hell Being Black in America Right Now appeared first on The Intercept.",
-      "link": "https://theintercept.com/2026/07/19/nolan-wells-kohen-wiley/",
-      "published": "2026-07-19T10:00:00+00:00",
+      "headline": "Google Is Censoring Reviews of ICE Detention Centers",
+      "excerpt": "In the past year, Google Maps was deleting all the reviews for dozens of ICE jails, a new study found. The post Google Is Censoring Reviews of ICE Detention Centers appeared first on The Intercept.",
+      "link": "https://theintercept.com/2026/07/20/google-maps-reviews-ice-detention-centers/",
+      "published": "2026-07-20T09:48:00+00:00",
       "featured": false
     },
     {
@@ -308,12 +335,12 @@
       "featured": false
     },
     {
-      "id": "3eac40a3b23d",
+      "id": "c3ad7f809f1e",
       "source": "404 Media",
-      "headline": "Behind the Blog: Infinite Bowl Machine",
-      "excerpt": "This week, we discuss AI music, slop bowls, and the endless quest for optimization.",
-      "link": "https://www.404media.co/behind-the-blog-infinite-bowl-machine/",
-      "published": "2026-07-17T16:07:19+00:00",
+      "headline": "You're Invited: 404 Media's Third Anniversary Live Podcast and Party!",
+      "excerpt": "We're celebrating with TWO NIGHTS of good times: A live taping of the podcast, and a party the following night! Paid 404 Media subscribers get free and discounted access. Details below.",
+      "link": "https://www.404media.co/three-years/",
+      "published": "2026-07-17T16:15:53+00:00",
       "featured": false
     },
     {
@@ -335,6 +362,15 @@
       "featured": false
     },
     {
+      "id": "7da0979d139d",
+      "source": "ICIJ",
+      "headline": "Merck takes Austria’s Keytruda price transparency battle to top court as journalists fight for information",
+      "excerpt": "The case stems from ICIJ’s Cancer Calculus investigation into the world's best-selling drug’s sky-high price and its global consequences.",
+      "link": "https://www.icij.org/investigations/cancer-calculus/merck-takes-austrias-keytruda-price-transparency-battle-to-top-court-as-journalists-fight-for-information/",
+      "published": "2026-07-10T16:24:05+00:00",
+      "featured": false
+    },
+    {
       "id": "77a95586558d",
       "source": "Bellingcat",
       "headline": "Satellite Imagery Shows Scale of Venezuela Earthquake Damage",
@@ -344,12 +380,12 @@
       "featured": false
     },
     {
-      "id": "ad8affb3199c",
+      "id": "0838b45aed51",
       "source": "Al Jazeera",
-      "headline": "Australian MP interrupts tough interview to yell at dog",
-      "excerpt": "Australian politician Barnaby Joyce interrupted a live TV interview to shout at his dog.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/21/australian-mp-interrupts-tough-interview-to-yell-at-dog?traffic_source=rss",
-      "published": "2026-07-21T10:19:06+00:00",
+      "headline": "Clashes between police and people protesting Italy arrest death",
+      "excerpt": "Clashes between police and people protesting Italy arrest death",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/21/clashes-between-police-and-people-protesting-italy-arrest-death?traffic_source=rss",
+      "published": "2026-07-21T13:36:46+00:00",
       "featured": false
     },
     {
@@ -362,12 +398,12 @@
       "featured": false
     },
     {
-      "id": "585fd6f6706b",
+      "id": "e1e20ea87aba",
       "source": "The Intercept",
-      "headline": "The United States of Betrayal",
-      "excerpt": "Turning on our allies has always been the American way. The post The United States of Betrayal appeared first on The Intercept.",
-      "link": "https://theintercept.com/2026/07/18/united-states-betray-allies-trump-foreign-policy/",
-      "published": "2026-07-18T10:00:00+00:00",
+      "headline": "Hegseth’s War Department Slashed Civilian Protection Staff, Brought in AI Assessments",
+      "excerpt": "An unreleased Pentagon report says its center devoted to protecting civilians cut most of its staff and scrapped a records database while developing an AI assistant to speed up work. The post Hegseth’s War Department...",
+      "link": "https://theintercept.com/2026/07/20/hegseth-civilian-harm-deaths-war/",
+      "published": "2026-07-20T08:13:00+00:00",
       "featured": false
     },
     {
@@ -380,12 +416,12 @@
       "featured": false
     },
     {
-      "id": "1fc36f08349d",
+      "id": "3eac40a3b23d",
       "source": "404 Media",
-      "headline": "ICE to Pay Thomson Reuters $125 Million to Find ‘Voter Fraud’",
-      "excerpt": "A new procurement record says ICE wants access to personal data, including names, Social Security numbers, and ethnicity, to investigate in part what the agency calls “voters fraud.” It also plans to use the data to...",
-      "link": "https://www.404media.co/ice-to-pay-thomson-reuters-125-million-to-find-voter-fraud/",
-      "published": "2026-07-17T15:35:37+00:00",
+      "headline": "Behind the Blog: Infinite Bowl Machine",
+      "excerpt": "This week, we discuss AI music, slop bowls, and the endless quest for optimization.",
+      "link": "https://www.404media.co/behind-the-blog-infinite-bowl-machine/",
+      "published": "2026-07-17T16:07:19+00:00",
       "featured": false
     },
     {
@@ -416,6 +452,15 @@
       "featured": false
     },
     {
+      "id": "3112594336e3",
+      "source": "ICIJ",
+      "headline": "Crypto giant Circle rebuffed efforts to help scam victims, police say",
+      "excerpt": "Law enforcement in Wisconsin and New York accuse the firm of refusing to help recoup funds, even under court orders.",
+      "link": "https://www.icij.org/investigations/coin-laundry/crypto-giant-circle-rebuffed-efforts-to-help-scam-victims-police-say/",
+      "published": "2026-07-08T14:29:36+00:00",
+      "featured": false
+    },
+    {
       "id": "69e36aeb809d",
       "source": "Bellingcat",
       "headline": "Poster Boy: Sanctioned Kinahan Cartel Lieutenant Found Playing Padel in Dubai",
@@ -425,12 +470,12 @@
       "featured": false
     },
     {
-      "id": "e6021f34ace9",
+      "id": "38f48a41f542",
       "source": "Al Jazeera",
-      "headline": "Huge fire at Ukraine shopping centre after Russian drone strike",
-      "excerpt": "A fire engulfed a shopping centre in Ukraine's Sumy after Russian drone strikes hit the building.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/21/huge-fire-at-ukraine-shopping-centre-after-russian-drone-strike?traffic_source=rss",
-      "published": "2026-07-21T09:52:56+00:00",
+      "headline": "India tunnel collapse at a hydropower project kills 10 as 17 remain missing",
+      "excerpt": "Rescue teams have been struggling to reach the 17 people trapped because of hazardous conditions inside the tunnel.",
+      "link": "https://www.aljazeera.com/news/2026/7/21/india-tunnel-collapse-at-a-hydropower-project-kills-10-as-17-remain-missing?traffic_source=rss",
+      "published": "2026-07-21T13:32:04+00:00",
       "featured": false
     },
     {
@@ -443,12 +488,21 @@
       "featured": false
     },
     {
-      "id": "bd1020b9e89f",
+      "id": "1207b5dfd291",
       "source": "The Intercept",
-      "headline": "Two-Thirds of Shri Thanedar's Campaign Cash Came Through AIPAC as He Lost Over $600K",
-      "excerpt": "AIPAC bundlers have propped up the Michigan congressman, who has invested millions in campaign funds in crypto. The post Two-Thirds of Shri Thanedar’s Campaign Cash Came Through AIPAC as He Lost Over $600K appeared...",
-      "link": "https://theintercept.com/2026/07/17/shri-thanedar-crypto-donavan-mckinney-michigan-aipac/",
-      "published": "2026-07-17T16:31:20+00:00",
+      "headline": "It’s Scary As Hell Being Black in America Right Now",
+      "excerpt": "The deaths of Nolan Wells and Kohen Wiley are symptoms of a nation retreating from any pretense of equal rights. The post It’s Scary As Hell Being Black in America Right Now appeared first on The Intercept.",
+      "link": "https://theintercept.com/2026/07/19/nolan-wells-kohen-wiley/",
+      "published": "2026-07-19T10:00:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "1fc36f08349d",
+      "source": "404 Media",
+      "headline": "ICE to Pay Thomson Reuters $125 Million to Find ‘Voter Fraud’",
+      "excerpt": "A new procurement record says ICE wants access to personal data, including names, Social Security numbers, and ethnicity, to investigate in part what the agency calls “voters fraud.” It also plans to use the data to...",
+      "link": "https://www.404media.co/ice-to-pay-thomson-reuters-125-million-to-find-voter-fraud/",
+      "published": "2026-07-17T15:35:37+00:00",
       "featured": false
     },
     {
@@ -470,15 +524,6 @@
       "featured": false
     },
     {
-      "id": "5e3437df528b",
-      "source": "404 Media",
-      "headline": "Scientists Discover Planet Has Everything to Host ‘Earth-Like Life’ In Breakthrough",
-      "excerpt": "For the first time, scientists found that a rocky planet in the habitable zone of its star has an atmosphere. It’s the best place to look for alien biosignatures, scientists say.",
-      "link": "https://www.404media.co/scientists-discover-planet-has-everything-to-host-earth-like-life-in-breakthrough/",
-      "published": "2026-07-16T18:00:10+00:00",
-      "featured": false
-    },
-    {
       "id": "452da8ff0d40",
       "source": "Dropsite News",
       "headline": "Ansarallah Vows to Block Saudi Access to Bab al-Mandab After Strikes on Sana’a",
@@ -494,51 +539,6 @@
       "excerpt": "Saudi Arabia and the UAE are trying to diversify their AI supply chains, but geopolitical constraints and Nvidia's technological lead leave them with few viable alternatives.",
       "link": "https://restofworld.org/2026/gulf-ai-investment-nvidia-monopoly-blackwell/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "published": "2026-07-14T10:00:39+00:00",
-      "featured": false
-    },
-    {
-      "id": "f9c87bb4a9a9",
-      "source": "Bellingcat",
-      "headline": "How to Use AI to Help Find Civilian Harm",
-      "excerpt": "Between February 2022 and September 2025, Bellingcat staff and volunteers collected, geolocated, and shared more than 2,500 incidents of civilian harm following Russia’s full-scale invasion of Ukraine. As part of this...",
-      "link": "https://www.bellingcat.com/resources/2026/06/25/how-to-use-ai-to-help-find-civilian-harm-conflict-report-monitor-war-machine-learning-telegram/",
-      "published": "2026-06-25T13:59:13+00:00",
-      "featured": false
-    },
-    {
-      "id": "237350308b7c",
-      "source": "Al Jazeera",
-      "headline": "Argentina deny World Cup villains’ role after Samuel Jackson-led slants",
-      "excerpt": "Hollywood actor Samuel L Jackson was among those who criticised Argentina at World Cup, with racism among allegations.",
-      "link": "https://www.aljazeera.com/sports/2026/7/21/argentina-grapple-with-world-cup-villainy-amid-samuel-l-jackson-led-slant?traffic_source=rss",
-      "published": "2026-07-21T09:48:55+00:00",
-      "featured": false
-    },
-    {
-      "id": "c38bdbfe8782",
-      "source": "OCCRP",
-      "headline": "Breaking the Bloodline: Italy Enacts Landmark Law to Help Children Flee the Mafia",
-      "excerpt": "Italy's parliament has codified the \"Free to Choose\" program nationwide, offering permanent identity changes, safe houses, and comprehensive state support to mothers and minors escaping the grip of the country's most...",
-      "link": "https://www.occrp.org/en/news/breaking-the-bloodline-italy-enacts-landmark-law-to-help-children-flee-the-mafia",
-      "published": "2026-07-17T21:29:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "f16a0beb9bfb",
-      "source": "The Intercept",
-      "headline": "Trump’s Formula for Forever Wars",
-      "excerpt": "Spencer Ackerman on Sen. Lindsey Graham’s warmongering legacy and the next U.S. forever war in Iran. The post Trump’s Formula for Forever Wars appeared first on The Intercept.",
-      "link": "https://theintercept.com/2026/07/17/spencer-ackerman-lindsey-graham-iran-war/",
-      "published": "2026-07-17T10:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "47c508323644",
-      "source": "ProPublica",
-      "headline": "Texas Democrats Ask for Investigation Into Ken Paxton After Our Reporting Found He May Have Violated Election Law",
-      "excerpt": "The post Texas Democrats Ask for Investigation Into Ken Paxton After Our Reporting Found He May Have Violated Election Law appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/texas-democrats-ken-paxton-voting-complaint",
-      "published": "2026-07-16T21:05:00+00:00",
       "featured": false
     }
   ]
