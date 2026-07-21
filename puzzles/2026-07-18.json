@@ -1,0 +1,1199 @@
+{
+  "generated_at": "2026-07-21T02:28:50.936930+00:00",
+  "date": "2026-07-18",
+  "theme": "Ocean Life",
+  "word_search": {
+    "size": 14,
+    "grid": [
+      [
+        "I",
+        "Z",
+        "M",
+        "O",
+        "V",
+        "P",
+        "B",
+        "X",
+        "E",
+        "W",
+        "H",
+        "A",
+        "L",
+        "E"
+      ],
+      [
+        "Y",
+        "E",
+        "U",
+        "J",
+        "D",
+        "Q",
+        "X",
+        "H",
+        "L",
+        "D",
+        "N",
+        "J",
+        "I",
+        "C"
+      ],
+      [
+        "A",
+        "Q",
+        "V",
+        "P",
+        "O",
+        "F",
+        "H",
+        "L",
+        "H",
+        "K",
+        "K",
+        "S",
+        "C",
+        "P"
+      ],
+      [
+        "U",
+        "N",
+        "O",
+        "T",
+        "K",
+        "N",
+        "A",
+        "L",
+        "P",
+        "D",
+        "T",
+        "M",
+        "Q",
+        "C"
+      ],
+      [
+        "T",
+        "O",
+        "C",
+        "R",
+        "Q",
+        "G",
+        "K",
+        "V",
+        "T",
+        "A",
+        "L",
+        "N",
+        "G",
+        "O"
+      ],
+      [
+        "G",
+        "X",
+        "A",
+        "I",
+        "O",
+        "R",
+        "M",
+        "U",
+        "R",
+        "Z",
+        "G",
+        "T",
+        "R",
+        "O"
+      ],
+      [
+        "W",
+        "H",
+        "A",
+        "O",
+        "R",
+        "R",
+        "Q",
+        "F",
+        "M",
+        "M",
+        "S",
+        "L",
+        "G",
+        "L"
+      ],
+      [
+        "S",
+        "B",
+        "N",
+        "H",
+        "B",
+        "O",
+        "I",
+        "D",
+        "E",
+        "D",
+        "I",
+        "T",
+        "T",
+        "U"
+      ],
+      [
+        "Y",
+        "A",
+        "Z",
+        "I",
+        "C",
+        "S",
+        "H",
+        "R",
+        "O",
+        "C",
+        "S",
+        "Z",
+        "F",
+        "V"
+      ],
+      [
+        "M",
+        "R",
+        "N",
+        "O",
+        "H",
+        "Y",
+        "Q",
+        "C",
+        "K",
+        "L",
+        "O",
+        "G",
+        "D",
+        "W"
+      ],
+      [
+        "J",
+        "C",
+        "R",
+        "K",
+        "E",
+        "Q",
+        "I",
+        "D",
+        "N",
+        "E",
+        "P",
+        "R",
+        "Z",
+        "V"
+      ],
+      [
+        "F",
+        "S",
+        "U",
+        "P",
+        "O",
+        "T",
+        "C",
+        "O",
+        "O",
+        "A",
+        "L",
+        "H",
+        "A",
+        "C"
+      ],
+      [
+        "A",
+        "Z",
+        "C",
+        "Y",
+        "V",
+        "X",
+        "R",
+        "N",
+        "P",
+        "H",
+        "A",
+        "P",
+        "I",
+        "L"
+      ],
+      [
+        "A",
+        "F",
+        "O",
+        "N",
+        "U",
+        "I",
+        "R",
+        "G",
+        "O",
+        "R",
+        "Z",
+        "H",
+        "D",
+        "N"
+      ]
+    ],
+    "words": [
+      "PLANKTON",
+      "STARFISH",
+      "OCTOPUS",
+      "DOLPHIN",
+      "ANCHOR",
+      "LAGOON",
+      "WHALE",
+      "SHARK",
+      "CORAL",
+      "TIDE",
+      "KELP",
+      "CRAB"
+    ]
+  },
+  "crossword": {
+    "width": 23,
+    "height": 21,
+    "grid": [
+      [
+        {
+          "letter": "K",
+          "number": 1
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        {
+          "letter": "E",
+          "number": null
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        {
+          "letter": "L",
+          "number": null
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        {
+          "letter": "P",
+          "number": 2
+        },
+        {
+          "letter": "E",
+          "number": null
+        },
+        {
+          "letter": "A",
+          "number": null
+        },
+        {
+          "letter": "R",
+          "number": null
+        },
+        {
+          "letter": "L",
+          "number": 3
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        {
+          "letter": "A",
+          "number": null
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        {
+          "letter": "G",
+          "number": null
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        {
+          "letter": "O",
+          "number": null
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        {
+          "letter": "O",
+          "number": 4
+        },
+        {
+          "letter": "C",
+          "number": null
+        },
+        {
+          "letter": "T",
+          "number": null
+        },
+        {
+          "letter": "O",
+          "number": null
+        },
+        {
+          "letter": "P",
+          "number": null
+        },
+        {
+          "letter": "U",
+          "number": null
+        },
+        {
+          "letter": "S",
+          "number": 5
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        {
+          "letter": "N",
+          "number": null
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "letter": "E",
+          "number": null
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "letter": "C",
+          "number": 6
+        },
+        {
+          "letter": "R",
+          "number": null
+        },
+        {
+          "letter": "A",
+          "number": null
+        },
+        {
+          "letter": "B",
+          "number": null
+        },
+        null,
+        null,
+        null,
+        {
+          "letter": "S",
+          "number": 7
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "letter": "T",
+          "number": 8
+        },
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "letter": "W",
+          "number": 9
+        },
+        null,
+        {
+          "letter": "O",
+          "number": null
+        },
+        null,
+        {
+          "letter": "H",
+          "number": null
+        },
+        null,
+        null,
+        null,
+        null,
+        {
+          "letter": "T",
+          "number": 10
+        },
+        {
+          "letter": "S",
+          "number": null
+        },
+        {
+          "letter": "U",
+          "number": null
+        },
+        {
+          "letter": "N",
+          "number": null
+        },
+        {
+          "letter": "A",
+          "number": null
+        },
+        {
+          "letter": "M",
+          "number": null
+        },
+        {
+          "letter": "I",
+          "number": null
+        },
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "letter": "H",
+          "number": 11
+        },
+        {
+          "letter": "A",
+          "number": null
+        },
+        {
+          "letter": "R",
+          "number": null
+        },
+        {
+          "letter": "B",
+          "number": null
+        },
+        {
+          "letter": "O",
+          "number": null
+        },
+        {
+          "letter": "R",
+          "number": null
+        },
+        null,
+        null,
+        null,
+        {
+          "letter": "A",
+          "number": null
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "letter": "D",
+          "number": null
+        },
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "letter": "A",
+          "number": null
+        },
+        null,
+        {
+          "letter": "A",
+          "number": null
+        },
+        null,
+        {
+          "letter": "R",
+          "number": null
+        },
+        null,
+        null,
+        null,
+        null,
+        {
+          "letter": "R",
+          "number": null
+        },
+        null,
+        null,
+        null,
+        {
+          "letter": "R",
+          "number": 12
+        },
+        {
+          "letter": "E",
+          "number": null
+        },
+        {
+          "letter": "E",
+          "number": null
+        },
+        {
+          "letter": "F",
+          "number": null
+        }
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "letter": "L",
+          "number": null
+        },
+        null,
+        {
+          "letter": "L",
+          "number": null
+        },
+        null,
+        {
+          "letter": "S",
+          "number": null
+        },
+        null,
+        {
+          "letter": "P",
+          "number": 13
+        },
+        null,
+        null,
+        {
+          "letter": "F",
+          "number": null
+        },
+        null,
+        {
+          "letter": "S",
+          "number": 14
+        },
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "letter": "E",
+          "number": null
+        },
+        null,
+        null,
+        {
+          "letter": "J",
+          "number": 15
+        },
+        {
+          "letter": "E",
+          "number": null
+        },
+        {
+          "letter": "L",
+          "number": null
+        },
+        {
+          "letter": "L",
+          "number": null
+        },
+        {
+          "letter": "Y",
+          "number": null
+        },
+        {
+          "letter": "F",
+          "number": null
+        },
+        {
+          "letter": "I",
+          "number": null
+        },
+        {
+          "letter": "S",
+          "number": null
+        },
+        {
+          "letter": "H",
+          "number": null
+        },
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "letter": "A",
+          "number": null
+        },
+        null,
+        null,
+        {
+          "letter": "S",
+          "number": null
+        },
+        null,
+        {
+          "letter": "A",
+          "number": null
+        },
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "letter": "D",
+          "number": 16
+        },
+        {
+          "letter": "O",
+          "number": null
+        },
+        {
+          "letter": "L",
+          "number": null
+        },
+        {
+          "letter": "P",
+          "number": null
+        },
+        {
+          "letter": "H",
+          "number": null
+        },
+        {
+          "letter": "I",
+          "number": null
+        },
+        {
+          "letter": "N",
+          "number": null
+        },
+        null,
+        null,
+        {
+          "letter": "H",
+          "number": null
+        },
+        null,
+        {
+          "letter": "R",
+          "number": null
+        },
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "letter": "K",
+          "number": null
+        },
+        null,
+        null,
+        null,
+        null,
+        {
+          "letter": "K",
+          "number": null
+        },
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "letter": "T",
+          "number": null
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "letter": "O",
+          "number": null
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "letter": "A",
+          "number": 17
+        },
+        {
+          "letter": "N",
+          "number": null
+        },
+        {
+          "letter": "C",
+          "number": null
+        },
+        {
+          "letter": "H",
+          "number": null
+        },
+        {
+          "letter": "O",
+          "number": null
+        },
+        {
+          "letter": "R",
+          "number": null
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "across": [
+      {
+        "number": 2,
+        "clue": "Gem formed inside an oyster",
+        "answer": "PEARL",
+        "row": 3,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 4,
+        "clue": "Eight-armed cephalopod",
+        "answer": "OCTOPUS",
+        "row": 7,
+        "col": 4,
+        "length": 7
+      },
+      {
+        "number": 6,
+        "clue": "Walks sideways, has claws",
+        "answer": "CRAB",
+        "row": 9,
+        "col": 8,
+        "length": 4
+      },
+      {
+        "number": 10,
+        "clue": "Huge wave from a quake",
+        "answer": "TSUNAMI",
+        "row": 10,
+        "col": 15,
+        "length": 7
+      },
+      {
+        "number": 11,
+        "clue": "Sheltered place for ships",
+        "answer": "HARBOR",
+        "row": 11,
+        "col": 6,
+        "length": 6
+      },
+      {
+        "number": 12,
+        "clue": "Coral ridge near the surface",
+        "answer": "REEF",
+        "row": 12,
+        "col": 19,
+        "length": 4
+      },
+      {
+        "number": 15,
+        "clue": "Gelatinous, stings",
+        "answer": "JELLYFISH",
+        "row": 14,
+        "col": 9,
+        "length": 9
+      },
+      {
+        "number": 16,
+        "clue": "Playful, clever marine mammal",
+        "answer": "DOLPHIN",
+        "row": 16,
+        "col": 6,
+        "length": 7
+      },
+      {
+        "number": 17,
+        "clue": "Keeps a ship from drifting",
+        "answer": "ANCHOR",
+        "row": 20,
+        "col": 11,
+        "length": 6
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Large brown seaweed",
+        "answer": "KELP",
+        "row": 0,
+        "col": 0,
+        "length": 4
+      },
+      {
+        "number": 3,
+        "clue": "Shallow water near a coast",
+        "answer": "LAGOON",
+        "row": 3,
+        "col": 4,
+        "length": 6
+      },
+      {
+        "number": 5,
+        "clue": "Fish with a horse-shaped head",
+        "answer": "SEAHORSE",
+        "row": 7,
+        "col": 10,
+        "length": 8
+      },
+      {
+        "number": 6,
+        "clue": "Reef-building sea organism",
+        "answer": "CORAL",
+        "row": 9,
+        "col": 8,
+        "length": 5
+      },
+      {
+        "number": 7,
+        "clue": "Sea animal shaped like a star",
+        "answer": "STARFISH",
+        "row": 9,
+        "col": 15,
+        "length": 8
+      },
+      {
+        "number": 8,
+        "clue": "Daily rise and fall of the sea",
+        "answer": "TIDE",
+        "row": 9,
+        "col": 21,
+        "length": 4
+      },
+      {
+        "number": 9,
+        "clue": "Largest animal on Earth",
+        "answer": "WHALE",
+        "row": 10,
+        "col": 6,
+        "length": 5
+      },
+      {
+        "number": 13,
+        "clue": "Tiny drifting sea organisms",
+        "answer": "PLANKTON",
+        "row": 13,
+        "col": 12,
+        "length": 8
+      },
+      {
+        "number": 14,
+        "clue": "Cartilaginous ocean predator",
+        "answer": "SHARK",
+        "row": 13,
+        "col": 17,
+        "length": 5
+      }
+    ],
+    "placed_count": 18,
+    "skipped": []
+  }
+}
