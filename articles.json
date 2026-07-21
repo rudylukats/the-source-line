@@ -1,14 +1,41 @@
 {
-  "generated_at": "2026-07-21T08:46:03.318325+00:00",
+  "generated_at": "2026-07-21T11:19:21.621583+00:00",
   "articles": [
     {
-      "id": "bcbbe2d91219",
-      "source": "Al Jazeera",
-      "headline": "Israeli forces open fire on children in Syrian village",
-      "excerpt": "Israeli forces open fire on children in Syrian village",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/21/israeli-forces-open-fire-on-children-in-syrian-village?traffic_source=rss",
-      "published": "2026-07-21T08:39:16+00:00",
+      "id": "096fa8e67cb6",
+      "source": "OCCRP",
+      "headline": "Indonesia Sentences 19 in Syndicate that Trafficked Dozens of Babies",
+      "excerpt": "",
+      "link": "https://www.occrp.org/en/news/indonesia-sentences-19-in-syndicate-that-trafficked-dozens-of-babies",
+      "published": "2026-07-21T11:06:00+00:00",
       "featured": true
+    },
+    {
+      "id": "656a02b6d4c8",
+      "source": "Al Jazeera",
+      "headline": "Arizona’s primary elections: Which US races to watch and why they matter",
+      "excerpt": "From the governor’s race to Democratic divisions over Gaza, here’s what could shape Arizona elections on Tuesday.",
+      "link": "https://www.aljazeera.com/news/2026/7/21/arizonas-primary-elections-which-us-races-to-watch-and-why-they-matter?traffic_source=rss",
+      "published": "2026-07-21T10:28:16+00:00",
+      "featured": true
+    },
+    {
+      "id": "9043dcf2350e",
+      "source": "Rest of World",
+      "headline": "China’s AI talent race is starting in high school",
+      "excerpt": "As demand for elite AI engineers outpaces supply, companies are recruiting teenagers through camps, research programs, and guaranteed job pipelines.",
+      "link": "https://restofworld.org/2026/china-tech-recruiting-teenagers-ai-shortage/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "published": "2026-07-21T10:00:00+00:00",
+      "featured": true
+    },
+    {
+      "id": "66c67f2edea4",
+      "source": "ProPublica",
+      "headline": "My Maddening Quest to Find Out if Blueberries Come From Farms Where Workers Were Harmed",
+      "excerpt": "The post My Maddening Quest to Find Out if Blueberries Come From Farms Where Workers Were Harmed appeared first on ProPublica.",
+      "link": "https://projects.propublica.org/blueberries-farmworker-mistreatment/",
+      "published": "2026-07-21T09:00:00+00:00",
+      "featured": false
     },
     {
       "id": "f0269800b4ff",
@@ -17,7 +44,7 @@
       "excerpt": "The crypto investors donated $20 million in bitcoin to Trump's super PAC weeks after his administration moved to abandon a federal enforcement action against their crypto exchange.",
       "link": "https://www.levernews.com/the-winklevoss-twins-gave-trump-20-million-after-regulatory-win/",
       "published": "2026-07-20T23:53:20+00:00",
-      "featured": true
+      "featured": false
     },
     {
       "id": "9cce0a84537d",
@@ -26,15 +53,6 @@
       "excerpt": "Iran’s strikes caused dozens of casualties and the first deaths in action since the ceasefire collapsed, a U.S. official said. The post U.S. Official: Iran Attacks Injured “Far More” Troops Than Pentagon Admits appeared...",
       "link": "https://theintercept.com/2026/07/20/united-states-iran-war-casualties-cover-up-pentagon/",
       "published": "2026-07-20T20:03:20+00:00",
-      "featured": true
-    },
-    {
-      "id": "7848ec6396a6",
-      "source": "OCCRP",
-      "headline": "Sinaloa Cartel Co-Founder 'El Mayo' Zambada Sentenced to Life in US Prison",
-      "excerpt": "The historic conviction marks the fall of one of the world's last original drug lords, leaving the powerful Sinaloa Cartel facing a massive internal succession battle.",
-      "link": "https://www.occrp.org/en/news/sinaloa-cartel-co-founder-el-mayo-zambada-sentenced-to-life-in-us-prison",
-      "published": "2026-07-20T16:51:00+00:00",
       "featured": false
     },
     {
@@ -56,33 +74,6 @@
       "featured": false
     },
     {
-      "id": "939a88797170",
-      "source": "ProPublica",
-      "headline": "Children in This Church Were Sexually Abused. Then They Began Abusing Other Kids. Some Continued as Adults.",
-      "excerpt": "The post Children in This Church Were Sexually Abused. Then They Began Abusing Other Kids. Some Continued as Adults. appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/old-apostolic-lutheran-church-child-sexual-assault-cycle-abuse",
-      "published": "2026-07-20T10:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "99c22cbf755c",
-      "source": "Rest of World",
-      "headline": "AI is shrinking video game development teams to one",
-      "excerpt": "AI is helping solo developers thrive in Turkey’s gaming industry, but writers, artists, and junior programmers are being left behind.",
-      "link": "https://restofworld.org/2026/ai-video-games-developer-jobs/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-      "published": "2026-07-20T10:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "9b5a8b13fb9a",
-      "source": "ICIJ",
-      "headline": "Swedbank fined $50 million by New York authorities over Panama Papers revelations",
-      "excerpt": "The Swedish bank and its New York subsidiary agreed to the penalty to settle final U.S. probe tied to money laundering case, officials say.",
-      "link": "https://www.icij.org/investigations/panama-papers/swedbank-fined-50-million-by-new-york-authorities-over-panama-papers-revelations/",
-      "published": "2026-07-17T21:24:52+00:00",
-      "featured": false
-    },
-    {
       "id": "c3fe7ef39077",
       "source": "Bellingcat",
       "headline": "Identifying the Crypto Entrepreneur Linked to Popular Forum Trading in ‘Leaked’ Nudes of Women",
@@ -101,12 +92,21 @@
       "featured": false
     },
     {
-      "id": "eb8b6214e225",
+      "id": "03321aa363ce",
+      "source": "OCCRP",
+      "headline": "UN Report Details Southeast Asia’s Interconnected Criminal Economy",
+      "excerpt": "Scams across East and Southeast Asia, Australia and New Zealand caused estimated losses of as much as $114.1 billion in 2025, according to a U.N. report examining the infrastructure shared by criminal networks.",
+      "link": "https://www.occrp.org/en/news/un-report-details-southeast-asias-interconnected-criminal-economy",
+      "published": "2026-07-21T10:47:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "e7bfb097513e",
       "source": "Al Jazeera",
-      "headline": "Bangladesh face Australia Test might as Cummins, Hazlewood and Lyon return",
-      "excerpt": "Australia return to full strength for two-Test series against Bangladesh, as injured trio return to strengthen squad.",
-      "link": "https://www.aljazeera.com/sports/2026/7/21/bangladesh-face-australia-test-might-as-cummins-hazlewood-and-lyon-return?traffic_source=rss",
-      "published": "2026-07-21T08:25:34+00:00",
+      "headline": "Lebanon’s Joseph Aoun to meet Trump: What to expect",
+      "excerpt": "The Lebanese president is seeking Washington's support for his agenda, including diplomacy with Israel.",
+      "link": "https://www.aljazeera.com/news/2026/7/21/lebanons-joseph-aoun-to-meet-trump-what-to-expect?traffic_source=rss",
+      "published": "2026-07-21T10:27:31+00:00",
       "featured": false
     },
     {
@@ -119,12 +119,21 @@
       "featured": false
     },
     {
-      "id": "1e762ce56ce6",
-      "source": "OCCRP",
-      "headline": "Serbian Football Star Files Police Complaint Over Former Chief's Intimidation Plot",
-      "excerpt": "International star Nemanja Matić joins Nemanja Vidić in taking legal action after leaked encrypted chats revealed a former football chief's plot to silence critics.",
-      "link": "https://www.occrp.org/en/news/serbian-football-star-files-police-complaint-over-former-chiefs-intimidation-plot",
-      "published": "2026-07-20T16:26:00+00:00",
+      "id": "939a88797170",
+      "source": "ProPublica",
+      "headline": "Children in This Church Were Sexually Abused. Then They Began Abusing Other Kids. Some Continued as Adults.",
+      "excerpt": "The post Children in This Church Were Sexually Abused. Then They Began Abusing Other Kids. Some Continued as Adults. appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/old-apostolic-lutheran-church-child-sexual-assault-cycle-abuse",
+      "published": "2026-07-20T10:00:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "99c22cbf755c",
+      "source": "Rest of World",
+      "headline": "AI is shrinking video game development teams to one",
+      "excerpt": "AI is helping solo developers thrive in Turkey’s gaming industry, but writers, artists, and junior programmers are being left behind.",
+      "link": "https://restofworld.org/2026/ai-video-games-developer-jobs/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "published": "2026-07-20T10:00:00+00:00",
       "featured": false
     },
     {
@@ -134,15 +143,6 @@
       "excerpt": "In the past year, Google Maps was deleting all the reviews for dozens of ICE jails, a new study found. The post Google Is Censoring Reviews of ICE Detention Centers appeared first on The Intercept.",
       "link": "https://theintercept.com/2026/07/20/google-maps-reviews-ice-detention-centers/",
       "published": "2026-07-20T09:48:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "681c337a6f8f",
-      "source": "ProPublica",
-      "headline": "On This Nearly Deserted Alaska Island, You Pay to Keep Hundreds of Empty Buildings Wired for Internet",
-      "excerpt": "The post On This Nearly Deserted Alaska Island, You Pay to Keep Hundreds of Empty Buildings Wired for Internet appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/adak-island-alaska-internet-subsidy-fcc",
-      "published": "2026-07-20T09:00:00+00:00",
       "featured": false
     },
     {
@@ -164,24 +164,6 @@
       "featured": false
     },
     {
-      "id": "0356084311c3",
-      "source": "Rest of World",
-      "headline": "Can AI beat a goldfish at calling the World Cup?",
-      "excerpt": "As chatbots compete to forecast the tournament, an unlikely rival from a Toronto fish tank continues to outperform them.",
-      "link": "https://restofworld.org/2026/world-cup-ai-prediction/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-      "published": "2026-07-17T13:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "d9304df93d64",
-      "source": "ICIJ",
-      "headline": "How offshore firms helped a mafia-linked Italian druglord hide a $230m fortune",
-      "excerpt": "Leaked Pandora Papers records reveal that Giacomo Tamburello and his family, now facing prosecution, accumulated gold bars, luxury real estate and a $89 million stake in a bank with the help of unscrupulous financiers...",
-      "link": "https://www.icij.org/investigations/pandora-papers/how-offshore-firms-helped-a-mafia-linked-italian-druglord-hide-a-230m-fortune/",
-      "published": "2026-07-17T08:59:48+00:00",
-      "featured": false
-    },
-    {
       "id": "fdc5c549ba49",
       "source": "Bellingcat",
       "headline": "Between Graves and Uncertainty: The Management of the Dead After Venezuela’s Earthquake",
@@ -200,21 +182,30 @@
       "featured": false
     },
     {
-      "id": "ffdf0dd7e57c",
+      "id": "1972a99a4303",
       "source": "Al Jazeera",
-      "headline": "Moment terrifying floodwaters sweep through Afghan village",
-      "excerpt": "Moment terrifying floodwaters sweep through Afghan village",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/21/moment-terrifying-floodwaters-sweep-through-afghan-village?traffic_source=rss",
-      "published": "2026-07-21T07:58:52+00:00",
+      "headline": "FIFA World Cup: Who scored the most goals, assists, saves and yellow cards?",
+      "excerpt": "FIFA’s biggest global showpiece saw 1,039 players from 48 nations play across 16 venues and score 308 goals.",
+      "link": "https://www.aljazeera.com/sports/2026/7/21/who-scored-the-most-goals-kept-clean-sheets-made-assists-fifa-world-cup-yellow-cards-saves?traffic_source=rss",
+      "published": "2026-07-21T10:25:18+00:00",
       "featured": false
     },
     {
-      "id": "96291f869755",
+      "id": "7848ec6396a6",
       "source": "OCCRP",
-      "headline": "UK Brings New Trafficking Charges Against Tate Brothers",
-      "excerpt": "British prosecutors brought 38 additional charges against Andrew and Tristan Tate after identifying four more alleged victims. The brothers were arrested in Miami, and the U.K. has requested their extradition.",
-      "link": "https://www.occrp.org/en/news/uk-brings-new-trafficking-charges-against-tate-brothers",
-      "published": "2026-07-20T14:07:00+00:00",
+      "headline": "Sinaloa Cartel Co-Founder 'El Mayo' Zambada Sentenced to Life in US Prison",
+      "excerpt": "The historic conviction marks the fall of one of the world's last original drug lords, leaving the powerful Sinaloa Cartel facing a massive internal succession battle.",
+      "link": "https://www.occrp.org/en/news/sinaloa-cartel-co-founder-el-mayo-zambada-sentenced-to-life-in-us-prison",
+      "published": "2026-07-20T16:51:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "681c337a6f8f",
+      "source": "ProPublica",
+      "headline": "On This Nearly Deserted Alaska Island, You Pay to Keep Hundreds of Empty Buildings Wired for Internet",
+      "excerpt": "The post On This Nearly Deserted Alaska Island, You Pay to Keep Hundreds of Empty Buildings Wired for Internet appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/adak-island-alaska-internet-subsidy-fcc",
+      "published": "2026-07-20T09:00:00+00:00",
       "featured": false
     },
     {
@@ -236,15 +227,6 @@
       "featured": false
     },
     {
-      "id": "3824b8c4e53c",
-      "source": "ProPublica",
-      "headline": "How a Man Once Ordered to Pay Libel Damages Helped Launch an Investigation Into Islamic Private Schools",
-      "excerpt": "The post How a Man Once Ordered to Pay Libel Damages Helped Launch an Investigation Into Islamic Private Schools appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/islamic-private-schools-texas-vouchers-sam-westrop",
-      "published": "2026-07-18T03:10:00+00:00",
-      "featured": false
-    },
-    {
       "id": "c3ad7f809f1e",
       "source": "404 Media",
       "headline": "You're Invited: 404 Media's Third Anniversary Live Podcast and Party!",
@@ -263,21 +245,12 @@
       "featured": false
     },
     {
-      "id": "5e72013cc093",
+      "id": "0356084311c3",
       "source": "Rest of World",
-      "headline": "The problem AI content moderation cannot solve",
-      "excerpt": "Meta and other big tech companies are increasingly using AI for content moderation, but as the backlash to Muse Image shows, it cannot protect users because it does not account for consent.",
-      "link": "https://restofworld.org/2026/ai-content-moderation-consent-muse/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-      "published": "2026-07-16T10:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "4835ec1d3c38",
-      "source": "ICIJ",
-      "headline": "International Finance Corporation watchdog in turmoil following scathing report on microfinance in Cambodia",
-      "excerpt": "The head of an internal auditor resigned after the board of the World Bank’s private investment arm rejected her office’s findings that the deal violated internal safeguard policies.",
-      "link": "https://www.icij.org/news/2026/07/international-finance-corporation-watchdog-in-turmoil-following-scathing-report-on-microfinance-in-cambodia/",
-      "published": "2026-07-15T17:07:28+00:00",
+      "headline": "Can AI beat a goldfish at calling the World Cup?",
+      "excerpt": "As chatbots compete to forecast the tournament, an unlikely rival from a Toronto fish tank continues to outperform them.",
+      "link": "https://restofworld.org/2026/world-cup-ai-prediction/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "published": "2026-07-17T13:00:00+00:00",
       "featured": false
     },
     {
@@ -290,21 +263,21 @@
       "featured": false
     },
     {
-      "id": "950706501434",
+      "id": "62366a35f645",
       "source": "Al Jazeera",
-      "headline": "Five Palestinians die in fire after Israeli attack in Gaza",
-      "excerpt": "An Israeli air attack on an apartment in Gaza City set the building on fire, killing five people.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/21/five-palestinians-die-in-fire-after-israeli-attack-in-gaza?traffic_source=rss",
-      "published": "2026-07-21T07:55:43+00:00",
+      "headline": "Can AI systems make moral decisions in war?",
+      "excerpt": "As more militaries adopt AI technology into their kill chain, Al Jazeera asks if they are capable of moral judgement.",
+      "link": "https://www.aljazeera.com/news/2026/7/21/can-ai-systems-make-moral-decisions-in-war?traffic_source=rss",
+      "published": "2026-07-21T10:21:08+00:00",
       "featured": false
     },
     {
-      "id": "dd521c08c058",
+      "id": "1e762ce56ce6",
       "source": "OCCRP",
-      "headline": "Russian Security Service Planned AI Tool to Track Media",
-      "excerpt": "Leaked documents show that Russia’s security service planned to merge media monitoring with closed databases in an AI assistant for its officers. The contractor later failed to deliver a working system.",
-      "link": "https://www.occrp.org/en/news/russian-security-service-planned-ai-tool-to-track-media",
-      "published": "2026-07-20T09:28:00+00:00",
+      "headline": "Serbian Football Star Files Police Complaint Over Former Chief's Intimidation Plot",
+      "excerpt": "International star Nemanja Matić joins Nemanja Vidić in taking legal action after leaked encrypted chats revealed a former football chief's plot to silence critics.",
+      "link": "https://www.occrp.org/en/news/serbian-football-star-files-police-complaint-over-former-chiefs-intimidation-plot",
+      "published": "2026-07-20T16:26:00+00:00",
       "featured": false
     },
     {
@@ -317,12 +290,12 @@
       "featured": false
     },
     {
-      "id": "97e8a1364eeb",
+      "id": "3824b8c4e53c",
       "source": "ProPublica",
-      "headline": "Trump Officials Want to Use Human Rights Aid to Advocate for White South Africans and Right-Wing Causes in Europe",
-      "excerpt": "The post Trump Officials Want to Use Human Rights Aid to Advocate for White South Africans and Right-Wing Causes in Europe appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/human-rights-aid-right-wing-causes",
-      "published": "2026-07-17T21:45:00+00:00",
+      "headline": "How a Man Once Ordered to Pay Libel Damages Helped Launch an Investigation Into Islamic Private Schools",
+      "excerpt": "The post How a Man Once Ordered to Pay Libel Damages Helped Launch an Investigation Into Islamic Private Schools appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/islamic-private-schools-texas-vouchers-sam-westrop",
+      "published": "2026-07-18T03:10:00+00:00",
       "featured": false
     },
     {
@@ -353,21 +326,12 @@
       "featured": false
     },
     {
-      "id": "5dacc3339031",
+      "id": "5e72013cc093",
       "source": "Rest of World",
-      "headline": "AI powers citizen-led disaster relief from afar for Venezuela",
-      "excerpt": "TOPSHOT - This aerial view taken on July 2, 2026 in Caraballeda in the state of La Guaira shows collapsed buildings following the June 24 twin earthquakes.",
-      "link": "https://restofworld.org/2026/venezuela-ai-citizen-disaster-response/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-      "published": "2026-07-15T10:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "7da0979d139d",
-      "source": "ICIJ",
-      "headline": "Merck takes Austria’s Keytruda price transparency battle to top court as journalists fight for information",
-      "excerpt": "The case stems from ICIJ’s Cancer Calculus investigation into the world's best-selling drug’s sky-high price and its global consequences.",
-      "link": "https://www.icij.org/investigations/cancer-calculus/merck-takes-austrias-keytruda-price-transparency-battle-to-top-court-as-journalists-fight-for-information/",
-      "published": "2026-07-10T16:24:05+00:00",
+      "headline": "The problem AI content moderation cannot solve",
+      "excerpt": "Meta and other big tech companies are increasingly using AI for content moderation, but as the backlash to Muse Image shows, it cannot protect users because it does not account for consent.",
+      "link": "https://restofworld.org/2026/ai-content-moderation-consent-muse/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "published": "2026-07-16T10:00:00+00:00",
       "featured": false
     },
     {
@@ -380,12 +344,21 @@
       "featured": false
     },
     {
-      "id": "e53968bd238c",
+      "id": "ad8affb3199c",
       "source": "Al Jazeera",
-      "headline": "World Cup: Messi thanks Argentina fans but ‘wound will take time to heal’",
-      "excerpt": "Argentina were beaten 1-0 in the final by Spain in what has been rumoured to be Lionel Messi's final World Cup game.",
-      "link": "https://www.aljazeera.com/sports/2026/7/21/world-cup-messi-thanks-argentina-fans-wound-will-take-time-to-heal?traffic_source=rss",
-      "published": "2026-07-21T06:52:38+00:00",
+      "headline": "Australian MP interrupts tough interview to yell at dog",
+      "excerpt": "Australian politician Barnaby Joyce interrupted a live TV interview to shout at his dog.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/21/australian-mp-interrupts-tough-interview-to-yell-at-dog?traffic_source=rss",
+      "published": "2026-07-21T10:19:06+00:00",
+      "featured": false
+    },
+    {
+      "id": "96291f869755",
+      "source": "OCCRP",
+      "headline": "UK Brings New Trafficking Charges Against Tate Brothers",
+      "excerpt": "British prosecutors brought 38 additional charges against Andrew and Tristan Tate after identifying four more alleged victims. The brothers were arrested in Miami, and the U.K. has requested their extradition.",
+      "link": "https://www.occrp.org/en/news/uk-brings-new-trafficking-charges-against-tate-brothers",
+      "published": "2026-07-20T14:07:00+00:00",
       "featured": false
     },
     {
@@ -398,12 +371,12 @@
       "featured": false
     },
     {
-      "id": "c38bdbfe8782",
-      "source": "OCCRP",
-      "headline": "Breaking the Bloodline: Italy Enacts Landmark Law to Help Children Flee the Mafia",
-      "excerpt": "Italy's parliament has codified the \"Free to Choose\" program nationwide, offering permanent identity changes, safe houses, and comprehensive state support to mothers and minors escaping the grip of the country's most...",
-      "link": "https://www.occrp.org/en/news/breaking-the-bloodline-italy-enacts-landmark-law-to-help-children-flee-the-mafia",
-      "published": "2026-07-17T21:29:00+00:00",
+      "id": "97e8a1364eeb",
+      "source": "ProPublica",
+      "headline": "Trump Officials Want to Use Human Rights Aid to Advocate for White South Africans and Right-Wing Causes in Europe",
+      "excerpt": "The post Trump Officials Want to Use Human Rights Aid to Advocate for White South Africans and Right-Wing Causes in Europe appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/human-rights-aid-right-wing-causes",
+      "published": "2026-07-17T21:45:00+00:00",
       "featured": false
     },
     {
@@ -425,15 +398,6 @@
       "featured": false
     },
     {
-      "id": "aa2300841643",
-      "source": "ProPublica",
-      "headline": "How a Paid Expert Reversed His View of a Notoriously Flawed Prosecution in the Rape of a Bestselling Author",
-      "excerpt": "The post How a Paid Expert Reversed His View of a Notoriously Flawed Prosecution in the Rape of a Bestselling Author appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/alice-sebold-anthony-broadwater-rape-case-prosecutorial-misconduct-bennett-gershman",
-      "published": "2026-07-17T10:00:00+00:00",
-      "featured": false
-    },
-    {
       "id": "763d163f843b",
       "source": "Dropsite News",
       "headline": "A World Turned Upside Down: Syria Reckons with an Assad-Era Peacemaker",
@@ -443,21 +407,12 @@
       "featured": false
     },
     {
-      "id": "94c73617ee95",
+      "id": "5dacc3339031",
       "source": "Rest of World",
-      "headline": "The Gulf has billions to spend on AI. It still needs Nvidia",
-      "excerpt": "Saudi Arabia and the UAE are trying to diversify their AI supply chains, but geopolitical constraints and Nvidia's technological lead leave them with few viable alternatives.",
-      "link": "https://restofworld.org/2026/gulf-ai-investment-nvidia-monopoly-blackwell/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-      "published": "2026-07-14T10:00:39+00:00",
-      "featured": false
-    },
-    {
-      "id": "3112594336e3",
-      "source": "ICIJ",
-      "headline": "Crypto giant Circle rebuffed efforts to help scam victims, police say",
-      "excerpt": "Law enforcement in Wisconsin and New York accuse the firm of refusing to help recoup funds, even under court orders.",
-      "link": "https://www.icij.org/investigations/coin-laundry/crypto-giant-circle-rebuffed-efforts-to-help-scam-victims-police-say/",
-      "published": "2026-07-08T14:29:36+00:00",
+      "headline": "AI powers citizen-led disaster relief from afar for Venezuela",
+      "excerpt": "TOPSHOT - This aerial view taken on July 2, 2026 in Caraballeda in the state of La Guaira shows collapsed buildings following the June 24 twin earthquakes.",
+      "link": "https://restofworld.org/2026/venezuela-ai-citizen-disaster-response/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "published": "2026-07-15T10:00:00+00:00",
       "featured": false
     },
     {
@@ -470,12 +425,21 @@
       "featured": false
     },
     {
-      "id": "b8027abd234c",
+      "id": "e6021f34ace9",
       "source": "Al Jazeera",
-      "headline": "‘Active in BDS’: Document reveals how Israel scrutinised global NGOs",
-      "excerpt": "An internal government file obtained by Al Jazeera shows how Israel collected data on groups it suspected supported BDS.",
-      "link": "https://www.aljazeera.com/news/2026/7/21/critic-to-israel-document-reveals-how-israel-scrutinised-global-ngos?traffic_source=rss",
-      "published": "2026-07-21T06:26:35+00:00",
+      "headline": "Huge fire at Ukraine shopping centre after Russian drone strike",
+      "excerpt": "A fire engulfed a shopping centre in Ukraine's Sumy after Russian drone strikes hit the building.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/21/huge-fire-at-ukraine-shopping-centre-after-russian-drone-strike?traffic_source=rss",
+      "published": "2026-07-21T09:52:56+00:00",
+      "featured": false
+    },
+    {
+      "id": "dd521c08c058",
+      "source": "OCCRP",
+      "headline": "Russian Security Service Planned AI Tool to Track Media",
+      "excerpt": "Leaked documents show that Russia’s security service planned to merge media monitoring with closed databases in an AI assistant for its officers. The contractor later failed to deliver a working system.",
+      "link": "https://www.occrp.org/en/news/russian-security-service-planned-ai-tool-to-track-media",
+      "published": "2026-07-20T09:28:00+00:00",
       "featured": false
     },
     {
@@ -488,21 +452,12 @@
       "featured": false
     },
     {
-      "id": "997a211260e7",
-      "source": "OCCRP",
-      "headline": "Ukrainian Media Defy Court Ban to Publish Spiked Corruption Probe",
-      "excerpt": "Condemning a preemptive court injunction as \"prior censorship,\" Ukrainian newsrooms united to publish a blocked investigation into a top official's inner circle.",
-      "link": "https://www.occrp.org/en/news/ukrainian-media-defy-court-ban-to-publish-spiked-corruption-probe",
-      "published": "2026-07-17T11:25:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "47c508323644",
+      "id": "aa2300841643",
       "source": "ProPublica",
-      "headline": "Texas Democrats Ask for Investigation Into Ken Paxton After Our Reporting Found He May Have Violated Election Law",
-      "excerpt": "The post Texas Democrats Ask for Investigation Into Ken Paxton After Our Reporting Found He May Have Violated Election Law appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/texas-democrats-ken-paxton-voting-complaint",
-      "published": "2026-07-16T21:05:00+00:00",
+      "headline": "How a Paid Expert Reversed His View of a Notoriously Flawed Prosecution in the Rape of a Bestselling Author",
+      "excerpt": "The post How a Paid Expert Reversed His View of a Notoriously Flawed Prosecution in the Rape of a Bestselling Author appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/alice-sebold-anthony-broadwater-rape-case-prosecutorial-misconduct-bennett-gershman",
+      "published": "2026-07-17T10:00:00+00:00",
       "featured": false
     },
     {
@@ -533,12 +488,57 @@
       "featured": false
     },
     {
-      "id": "c6a450e427e3",
+      "id": "94c73617ee95",
       "source": "Rest of World",
-      "headline": "India’s crackdown on a new WhatsApp feature risks setting a global precedent",
-      "excerpt": "If Meta complies or modifies its app for India, it risks creating a “slippery slope” that emboldens governments worldwide to demand changes to encrypted messaging apps.",
-      "link": "https://restofworld.org/2026/india-whatsapp-username-ban-encryption-cyber-fraud/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-      "published": "2026-07-13T10:00:22+00:00",
+      "headline": "The Gulf has billions to spend on AI. It still needs Nvidia",
+      "excerpt": "Saudi Arabia and the UAE are trying to diversify their AI supply chains, but geopolitical constraints and Nvidia's technological lead leave them with few viable alternatives.",
+      "link": "https://restofworld.org/2026/gulf-ai-investment-nvidia-monopoly-blackwell/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "published": "2026-07-14T10:00:39+00:00",
+      "featured": false
+    },
+    {
+      "id": "f9c87bb4a9a9",
+      "source": "Bellingcat",
+      "headline": "How to Use AI to Help Find Civilian Harm",
+      "excerpt": "Between February 2022 and September 2025, Bellingcat staff and volunteers collected, geolocated, and shared more than 2,500 incidents of civilian harm following Russia’s full-scale invasion of Ukraine. As part of this...",
+      "link": "https://www.bellingcat.com/resources/2026/06/25/how-to-use-ai-to-help-find-civilian-harm-conflict-report-monitor-war-machine-learning-telegram/",
+      "published": "2026-06-25T13:59:13+00:00",
+      "featured": false
+    },
+    {
+      "id": "237350308b7c",
+      "source": "Al Jazeera",
+      "headline": "Argentina deny World Cup villains’ role after Samuel Jackson-led slants",
+      "excerpt": "Hollywood actor Samuel L Jackson was among those who criticised Argentina at World Cup, with racism among allegations.",
+      "link": "https://www.aljazeera.com/sports/2026/7/21/argentina-grapple-with-world-cup-villainy-amid-samuel-l-jackson-led-slant?traffic_source=rss",
+      "published": "2026-07-21T09:48:55+00:00",
+      "featured": false
+    },
+    {
+      "id": "c38bdbfe8782",
+      "source": "OCCRP",
+      "headline": "Breaking the Bloodline: Italy Enacts Landmark Law to Help Children Flee the Mafia",
+      "excerpt": "Italy's parliament has codified the \"Free to Choose\" program nationwide, offering permanent identity changes, safe houses, and comprehensive state support to mothers and minors escaping the grip of the country's most...",
+      "link": "https://www.occrp.org/en/news/breaking-the-bloodline-italy-enacts-landmark-law-to-help-children-flee-the-mafia",
+      "published": "2026-07-17T21:29:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "f16a0beb9bfb",
+      "source": "The Intercept",
+      "headline": "Trump’s Formula for Forever Wars",
+      "excerpt": "Spencer Ackerman on Sen. Lindsey Graham’s warmongering legacy and the next U.S. forever war in Iran. The post Trump’s Formula for Forever Wars appeared first on The Intercept.",
+      "link": "https://theintercept.com/2026/07/17/spencer-ackerman-lindsey-graham-iran-war/",
+      "published": "2026-07-17T10:00:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "47c508323644",
+      "source": "ProPublica",
+      "headline": "Texas Democrats Ask for Investigation Into Ken Paxton After Our Reporting Found He May Have Violated Election Law",
+      "excerpt": "The post Texas Democrats Ask for Investigation Into Ken Paxton After Our Reporting Found He May Have Violated Election Law appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/texas-democrats-ken-paxton-voting-complaint",
+      "published": "2026-07-16T21:05:00+00:00",
       "featured": false
     }
   ]
