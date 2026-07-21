@@ -2,7 +2,19 @@ import { useEffect, useState } from "react";
 import { AccountWidget, useAuth, useSourcePreferences, PrivacyControls } from "./auth";
 import Games from "./Games";
 
-type Source = "Dropsite News" | "ProPublica" | "ICIJ" | "Al Jazeera" | "The Markup";
+type Source =
+  | "Dropsite News"
+  | "ProPublica"
+  | "ICIJ"
+  | "Al Jazeera"
+  | "The Markup"
+  | "OCCRP"
+  | "Bellingcat"
+  | "The Intercept"
+  | "The Lever"
+  | "404 Media"
+  | "Rest of World"
+  | "Reveal";
 type Category = "World" | "Investigations" | "Tech";
 
 const SOURCE_STYLES: Record<Source, string> = {
@@ -11,9 +23,29 @@ const SOURCE_STYLES: Record<Source, string> = {
   "ICIJ": "text-[#8fd694] border-[#8fd694]/40",
   "Al Jazeera": "text-[#e8666a] border-[#e8666a]/40",
   "The Markup": "text-[#c99bf0] border-[#c99bf0]/40",
+  "OCCRP": "text-[#f2a0c4] border-[#f2a0c4]/40",
+  "Bellingcat": "text-[#5fd0bd] border-[#5fd0bd]/40",
+  "The Intercept": "text-[#f08a4b] border-[#f08a4b]/40",
+  "The Lever": "text-[#d9c94f] border-[#d9c94f]/40",
+  "404 Media": "text-[#8fa6f5] border-[#8fa6f5]/40",
+  "Rest of World": "text-[#b6dd5f] border-[#b6dd5f]/40",
+  "Reveal": "text-[#c98f6a] border-[#c98f6a]/40",
 };
 
-const SOURCES: Source[] = ["Dropsite News", "ProPublica", "ICIJ", "Al Jazeera", "The Markup"];
+const SOURCES: Source[] = [
+  "Al Jazeera",
+  "Dropsite News",
+  "Bellingcat",
+  "ProPublica",
+  "ICIJ",
+  "OCCRP",
+  "The Intercept",
+  "The Lever",
+  "Reveal",
+  "The Markup",
+  "404 Media",
+  "Rest of World",
+];
 
 // Categories are derived from source, not from per-article feed data. The
 // feeds themselves don't carry usable topic tags across all 5 sources (Al
@@ -22,11 +54,21 @@ const SOURCES: Source[] = ["Dropsite News", "ProPublica", "ICIJ", "Al Jazeera", 
 // approximation, not a per-article classification. It'll misfire on outliers
 // (e.g. an Al Jazeera tech story still shows under World).
 const SOURCE_CATEGORY: Record<Source, Category> = {
+  // World: international news and on-the-ground conflict reporting
   "Al Jazeera": "World",
   "Dropsite News": "World",
+  "Bellingcat": "World",
+  // Investigations: accountability and long-form investigative newsrooms
   "ICIJ": "Investigations",
   "ProPublica": "Investigations",
+  "OCCRP": "Investigations",
+  "The Intercept": "Investigations",
+  "The Lever": "Investigations",
+  "Reveal": "Investigations",
+  // Tech: technology, platforms and surveillance
   "The Markup": "Tech",
+  "404 Media": "Tech",
+  "Rest of World": "Tech",
 };
 
 const CATEGORIES: Category[] = ["World", "Investigations", "Tech"];
