@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+<defs>
+<clipPath id="a"><rect x="0" y="0" width="32" height="64"/></clipPath>
+<clipPath id="b"><rect x="32" y="0" width="32" height="64"/></clipPath>
+</defs>
+<rect width="1200" height="630" fill="#0b0b0c"/>
+<g transform="translate(23.88,184.39) scale(4.0816)">
+  <g clip-path="url(#a)" fill="#e8a33d"><path d="M22.16 29.28V23.35H24.29Q24.77 26.16 26.58 27.55Q28.39 28.94 31.59 28.94Q34.19 28.94 35.54 27.95Q36.9 26.97 36.9 25.06Q36.9 23.55 35.98 22.71Q35.06 21.88 32.18 21.16L28.42 20.24Q24.76 19.3 23.27 17.63Q21.78 15.97 21.78 12.88Q21.78 9.17 24.25 7.1Q26.72 5.03 31.17 5.03Q33.36 5.03 35.73 5.4Q38.1 5.77 40.65 6.5V12.03H38.52Q38.04 9.45 36.4 8.25Q34.75 7.06 31.72 7.06Q29.25 7.06 27.98 7.92Q26.72 8.78 26.72 10.49Q26.72 12.05 27.59 12.86Q28.46 13.67 31.86 14.54L35.61 15.46Q39.09 16.33 40.66 18.18Q42.22 20.02 42.22 23.25Q42.22 27.03 39.61 29Q37 30.97 31.92 30.97Q29.48 30.97 27.07 30.55Q24.66 30.13 22.16 29.28Z"/><path d="M21.12 58.97V56.94H24.32V35.99H21.12V33.97H33.98V35.99H30.77V56.67H40.62V52.72H42.88V58.97Z"/></g>
+  <g clip-path="url(#b)" fill="#f5f5f5"><path d="M22.16 29.28V23.35H24.29Q24.77 26.16 26.58 27.55Q28.39 28.94 31.59 28.94Q34.19 28.94 35.54 27.95Q36.9 26.97 36.9 25.06Q36.9 23.55 35.98 22.71Q35.06 21.88 32.18 21.16L28.42 20.24Q24.76 19.3 23.27 17.63Q21.78 15.97 21.78 12.88Q21.78 9.17 24.25 7.1Q26.72 5.03 31.17 5.03Q33.36 5.03 35.73 5.4Q38.1 5.77 40.65 6.5V12.03H38.52Q38.04 9.45 36.4 8.25Q34.75 7.06 31.72 7.06Q29.25 7.06 27.98 7.92Q26.72 8.78 26.72 10.49Q26.72 12.05 27.59 12.86Q28.46 13.67 31.86 14.54L35.61 15.46Q39.09 16.33 40.66 18.18Q42.22 20.02 42.22 23.25Q42.22 27.03 39.61 29Q37 30.97 31.92 30.97Q29.48 30.97 27.07 30.55Q24.66 30.13 22.16 29.28Z"/><path d="M21.12 58.97V56.94H24.32V35.99H21.12V33.97H33.98V35.99H30.77V56.67H40.62V52.72H42.88V58.97Z"/></g>
+</g>
+<text x="280" y="265" font-family="DejaVu Serif" font-weight="bold" font-size="72" fill="#f5f5f5" letter-spacing="2">THE SOURCE LINE</text>
+<rect x="280" y="292" width="200" height="5" fill="#e8a33d"/>
+<text x="280" y="348" font-family="DejaVu Serif" font-style="italic" font-size="29" fill="#9a9a9a">Real, independent journalism without the corporate fluff.</text>
+<text x="280" y="412" font-family="DejaVu Serif" font-size="21" fill="#5f5f5f">Dropsite &#183; ProPublica &#183; ICIJ &#183; Bellingcat &#183; The Intercept &#183; OCCRP</text>
+<text x="280" y="443" font-family="DejaVu Serif" font-size="21" fill="#5f5f5f">The Lever &#183; 404 Media &#183; The Markup &#183; Rest of World &#183; Al Jazeera</text>
+</svg>
