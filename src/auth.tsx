@@ -259,7 +259,6 @@ export function useLeaderboard(
   refreshKey: number
 ) {
   const [daily, setDaily] = useState<LeaderRow[]>([]);
-  const [allTime, setAllTime] = useState<LeaderRow[]>([]);
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
@@ -267,35 +266,17 @@ export function useLeaderboard(
     setLoading(true);
 
     async function run() {
-      const dailyQ = supabase
+      // Ranking is per-day only. Puzzles vary in difficulty from one day to the
+      // next, so an all-time fastest-completion board wouldn't be a fair compare.
+      const { data } = await supabase
         .from("leaderboard")
         .select("user_id, display_name, seconds")
         .eq("puzzle_type", puzzleType)
         .eq("puzzle_date", puzzleDate)
         .order("seconds", { ascending: true })
         .limit(50);
-      const allQ = supabase
-        .from("leaderboard")
-        .select("user_id, display_name, seconds")
-        .eq("puzzle_type", puzzleType)
-        .order("seconds", { ascending: true })
-        .limit(200);
-
-      const [d, a] = await Promise.all([dailyQ, allQ]);
       if (cancelled) return;
-
-      setDaily((d.data as LeaderRow[]) ?? []);
-
-      // All-time is the best time per user. Rows come sorted fastest-first, so the
-      // first time we see a user is their best.
-      const seen = new Set<string>();
-      const best: LeaderRow[] = [];
-      for (const row of ((a.data as LeaderRow[]) ?? [])) {
-        if (seen.has(row.user_id)) continue;
-        seen.add(row.user_id);
-        best.push(row);
-      }
-      setAllTime(best);
+      setDaily((data as LeaderRow[]) ?? []);
       setLoading(false);
     }
 
@@ -305,7 +286,7 @@ export function useLeaderboard(
     };
   }, [puzzleType, puzzleDate, refreshKey]);
 
-  return { daily, allTime, loading };
+  return { daily, loading };
 }
 
 // ---- Sign in / sign up modal ----------------------------------------------

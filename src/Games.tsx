@@ -572,35 +572,15 @@ function Leaderboard({
   currentUserId: string | null | undefined;
   refreshKey: number;
 }) {
-  const [scope, setScope] = useState<"daily" | "alltime">("daily");
-  const { daily, allTime, loading } = useLeaderboard(puzzleType, puzzleDate, refreshKey);
-  const rows = scope === "daily" ? daily : allTime;
+  const { daily, loading } = useLeaderboard(puzzleType, puzzleDate, refreshKey);
+  const rows = daily;
   const label = puzzleType === "word_search" ? "Word search" : "Crossword";
   const visible = signedIn ? rows : rows.slice(0, 3);
 
   return (
     <section className="mt-8 border-t border-neutral-800 pt-6">
-      <div className="flex items-baseline justify-between mb-3">
-        <h3 className="font-serif text-lg text-neutral-50">Fastest completions</h3>
-        <div className="flex gap-4 text-xs">
-          <button
-            onClick={() => setScope("daily")}
-            className={scope === "daily" ? "text-neutral-100 font-semibold" : "text-neutral-500 hover:text-neutral-300"}
-          >
-            This day
-          </button>
-          <button
-            onClick={() => setScope("alltime")}
-            className={scope === "alltime" ? "text-neutral-100 font-semibold" : "text-neutral-500 hover:text-neutral-300"}
-          >
-            All time
-          </button>
-        </div>
-      </div>
-      <p className="text-xs text-neutral-600 mb-3">
-        {label}
-        {scope === "daily" ? " · " + formatDayLabel(puzzleDate) : " · best times ever"}
-      </p>
+      <h3 className="font-serif text-lg text-neutral-50 mb-1">Fastest completions</h3>
+      <p className="text-xs text-neutral-600 mb-3">{label} · {formatDayLabel(puzzleDate)}</p>
 
       {loading ? (
         <p className="text-sm text-neutral-500 py-2">Loading...</p>
