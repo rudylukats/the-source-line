@@ -1,5 +1,11 @@
 import { useEffect, useMemo, useRef, useState } from "react";
-import { useAuth, usePuzzleCompletions } from "./auth";
+import {
+  useAuth,
+  usePuzzleCompletions,
+  useProfile,
+  useLeaderboard,
+  recordLeaderboardTime,
+} from "./auth";
 
 // ---- Types matching puzzles/{date}.json (written by scripts/generate_puzzles.py) --
 
@@ -64,9 +70,44 @@ function recentDates(days: number): string[] {
   return out;
 }
 
+function formatTime(totalSeconds: number): string {
+  const s = Math.max(0, Math.floor(totalSeconds));
+  const m = Math.floor(s / 60);
+  const rem = s % 60;
+  return m + ":" + String(rem).padStart(2, "0");
+}
+
+// A running solve timer. Starts when the puzzle mounts, ticks while unsolved,
+// and freezes + reports the final time once `done` flips true. Fires onSolved
+// exactly once thanks to the ref guard.
+function useSolveTimer(done: boolean, onSolved?: (seconds: number) => void) {
+  const startRef = useRef<number>(Date.now());
+  const firedRef = useRef(false);
+  const [elapsed, setElapsed] = useState(0);
+
+  useEffect(() => {
+    if (done) return;
+    const id = setInterval(() => {
+      setElapsed(Math.round((Date.now() - startRef.current) / 1000));
+    }, 500);
+    return () => clearInterval(id);
+  }, [done]);
+
+  useEffect(() => {
+    if (done && !firedRef.current) {
+      firedRef.current = true;
+      const secs = Math.max(1, Math.round((Date.now() - startRef.current) / 1000));
+      setElapsed(secs);
+      onSolved?.(secs);
+    }
+  }, [done, onSolved]);
+
+  return elapsed;
+}
+
 // ---- Word search ------------------------------------------------------
 
-function WordSearch({ data, onComplete }: { data: WordSearchData; onComplete?: () => void }) {
+function WordSearch({ data, onComplete }: { data: WordSearchData; onComplete?: (seconds: number) => void }) {
   const [start, setStart] = useState<{ r: number; c: number } | null>(null);
   const [found, setFound] = useState<Record<string, string>>({}); // cellKey -> word
   const [foundWords, setFoundWords] = useState<Set<string>>(new Set());
@@ -119,11 +160,7 @@ function WordSearch({ data, onComplete }: { data: WordSearchData; onComplete?: (
   }
 
   const allFound = foundWords.size === data.words.length;
-
-  useEffect(() => {
-    if (allFound) onComplete?.();
-    // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [allFound]);
+  const elapsed = useSolveTimer(allFound, onComplete);
 
   return (
     <div className="flex flex-col md:flex-row gap-6">
@@ -161,6 +198,9 @@ function WordSearch({ data, onComplete }: { data: WordSearchData; onComplete?: (
         </div>
       </div>
       <div className="min-w-[160px]">
+        <div className="mb-3 font-mono text-sm text-neutral-200 tabular-nums">
+          {formatTime(elapsed)}
+        </div>
         <h4 className="text-xs font-semibold uppercase tracking-widest text-neutral-500 mb-2">
           Find these words
         </h4>
@@ -175,7 +215,7 @@ function WordSearch({ data, onComplete }: { data: WordSearchData; onComplete?: (
           ))}
         </ul>
         {allFound && (
-          <p className="mt-4 text-sm text-emerald-400">Nice, you found every word.</p>
+          <p className="mt-4 text-sm text-emerald-400">Solved in {formatTime(elapsed)}. Nice.</p>
         )}
         <p className="mt-4 text-xs text-neutral-600">
           Click a start letter, then click the end letter to select a line.
@@ -187,7 +227,7 @@ function WordSearch({ data, onComplete }: { data: WordSearchData; onComplete?: (
 
 // ---- Crossword ----------------------------------------------------------
 
-function Crossword({ data, onComplete }: { data: CrosswordData; onComplete?: () => void }) {
+function Crossword({ data, onComplete }: { data: CrosswordData; onComplete?: (seconds: number) => void }) {
   const [entries, setEntries] = useState<Record<string, string>>({});
   const [active, setActive] = useState<{ r: number; c: number } | null>(null);
   const [direction, setDirection] = useState<"A" | "D">("A");
@@ -287,10 +327,7 @@ function Crossword({ data, onComplete }: { data: CrosswordData; onComplete?: () 
   // Completion is detected the moment every cell is correct, it doesn't
   // require the player to click "Check answers" first (that button is just
   // for feedback while working through it).
-  useEffect(() => {
-    if (allCorrect) onComplete?.();
-    // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [allCorrect]);
+  const elapsed = useSolveTimer(allCorrect, onComplete);
 
   return (
     <div className="flex flex-col lg:flex-row gap-6">
@@ -351,7 +388,10 @@ function Crossword({ data, onComplete }: { data: CrosswordData; onComplete?: () 
           <span className="text-xs text-neutral-600">
             {filledCells}/{totalCells} filled
           </span>
-          {allCorrect && <span className="text-xs text-emerald-400">All correct!</span>}
+          <span className="font-mono text-xs text-neutral-200 tabular-nums">{formatTime(elapsed)}</span>
+          {allCorrect && (
+            <span className="text-xs text-emerald-400">All correct in {formatTime(elapsed)}!</span>
+          )}
         </div>
       </div>
 
@@ -467,16 +507,194 @@ function DayPicker({
   );
 }
 
+// ---- Handle setup + leaderboard -------------------------------------------
+
+function HandleSetup({
+  onSave,
+  pendingTime,
+}: {
+  onSave: (name: string) => Promise<string | null>;
+  pendingTime: number | null;
+}) {
+  const [name, setName] = useState("");
+  const [err, setErr] = useState<string | null>(null);
+  const [busy, setBusy] = useState(false);
+
+  async function submit(e: React.FormEvent) {
+    e.preventDefault();
+    setBusy(true);
+    setErr(null);
+    const result = await onSave(name);
+    setBusy(false);
+    if (result) setErr(result);
+  }
+
+  return (
+    <div className="mt-8 border border-neutral-800 p-4">
+      <h3 className="font-serif text-base text-neutral-100 mb-1">Join the leaderboard</h3>
+      <p className="text-sm text-neutral-400 mb-3">
+        {pendingTime != null
+          ? "Pick a display name to post your time of " + formatTime(pendingTime) + " and appear on the board."
+          : "Pick a display name and your completion times will show on the leaderboard."}
+      </p>
+      <form onSubmit={submit} className="flex flex-wrap items-start gap-2">
+        <input
+          value={name}
+          onChange={(e) => setName(e.target.value)}
+          placeholder="Display name"
+          maxLength={20}
+          className="bg-[#0b0b0c] border border-neutral-800 px-3 py-2 text-sm text-neutral-100 focus:outline-none focus:border-neutral-500"
+        />
+        <button
+          type="submit"
+          disabled={busy}
+          className="bg-neutral-100 text-neutral-900 text-sm font-semibold px-4 py-2 hover:bg-neutral-300 disabled:opacity-50"
+        >
+          {busy ? "Saving..." : "Save"}
+        </button>
+      </form>
+      {err && <p className="mt-2 text-xs text-red-400">{err}</p>}
+      <p className="mt-2 text-xs text-neutral-600">2 to 20 characters. Shown publicly on the board.</p>
+    </div>
+  );
+}
+
+function Leaderboard({
+  puzzleType,
+  puzzleDate,
+  signedIn,
+  currentUserId,
+  refreshKey,
+}: {
+  puzzleType: "word_search" | "crossword";
+  puzzleDate: string;
+  signedIn: boolean;
+  currentUserId: string | null | undefined;
+  refreshKey: number;
+}) {
+  const [scope, setScope] = useState<"daily" | "alltime">("daily");
+  const { daily, allTime, loading } = useLeaderboard(puzzleType, puzzleDate, refreshKey);
+  const rows = scope === "daily" ? daily : allTime;
+  const label = puzzleType === "word_search" ? "Word search" : "Crossword";
+  const visible = signedIn ? rows : rows.slice(0, 3);
+
+  return (
+    <section className="mt-8 border-t border-neutral-800 pt-6">
+      <div className="flex items-baseline justify-between mb-3">
+        <h3 className="font-serif text-lg text-neutral-50">Fastest completions</h3>
+        <div className="flex gap-4 text-xs">
+          <button
+            onClick={() => setScope("daily")}
+            className={scope === "daily" ? "text-neutral-100 font-semibold" : "text-neutral-500 hover:text-neutral-300"}
+          >
+            This day
+          </button>
+          <button
+            onClick={() => setScope("alltime")}
+            className={scope === "alltime" ? "text-neutral-100 font-semibold" : "text-neutral-500 hover:text-neutral-300"}
+          >
+            All time
+          </button>
+        </div>
+      </div>
+      <p className="text-xs text-neutral-600 mb-3">
+        {label}
+        {scope === "daily" ? " · " + formatDayLabel(puzzleDate) : " · best times ever"}
+      </p>
+
+      {loading ? (
+        <p className="text-sm text-neutral-500 py-2">Loading...</p>
+      ) : rows.length === 0 ? (
+        <p className="text-sm text-neutral-500 py-2">
+          No times yet. Finish the {label.toLowerCase()} to be the first on the board.
+        </p>
+      ) : (
+        <ol className="space-y-1">
+          {visible.map((row, i) => (
+            <li
+              key={row.user_id + "-" + i}
+              className={
+                "flex items-center justify-between text-sm px-2 py-1.5 " +
+                (row.user_id === currentUserId ? "bg-neutral-900 text-neutral-100" : "text-neutral-300")
+              }
+            >
+              <span className="flex items-center gap-3">
+                <span className="w-5 text-right text-neutral-600 tabular-nums">{i + 1}</span>
+                <span>{row.display_name}</span>
+              </span>
+              <span className="font-mono tabular-nums text-neutral-200">{formatTime(row.seconds)}</span>
+            </li>
+          ))}
+        </ol>
+      )}
+
+      {!signedIn && rows.length > 0 && (
+        <div className="mt-3 relative">
+          <div className="space-y-1 blur-sm select-none pointer-events-none" aria-hidden="true">
+            {[0, 1, 2].map((i) => (
+              <div key={i} className="flex items-center justify-between text-sm px-2 py-1.5 text-neutral-500">
+                <span className="flex items-center gap-3">
+                  <span className="w-5 text-right">{visible.length + i + 1}</span>
+                  <span>••••••</span>
+                </span>
+                <span className="font-mono">•:••</span>
+              </div>
+            ))}
+          </div>
+          <div className="absolute inset-0 flex items-center justify-center">
+            <p className="text-xs text-neutral-400 bg-[#0b0b0c]/80 px-3 py-1">
+              Sign in to see the full board and post your times.
+            </p>
+          </div>
+        </div>
+      )}
+    </section>
+  );
+}
+
 // ---- Top-level Games panel ------------------------------------------------
 
 export default function Games() {
   const { user } = useAuth();
   const { completions, markCompleted } = usePuzzleCompletions(user?.id);
+  const { displayName, saveDisplayName, loaded: profileLoaded } = useProfile(user?.id);
 
   const [selectedDate, setSelectedDate] = useState(todayISO());
   const [data, setData] = useState<PuzzleData | null>(null);
   const [status, setStatus] = useState<"loading" | "ready" | "error">("loading");
   const [tab, setTab] = useState<"wordsearch" | "crossword">("wordsearch");
+  const [refreshKey, setRefreshKey] = useState(0);
+  // A finished time that can't be posted yet because the player hasn't picked a
+  // handle. Held here and flushed the moment they do.
+  const [pending, setPending] = useState<
+    { date: string; type: "word_search" | "crossword"; seconds: number } | null
+  >(null);
+  const [lastSolved, setLastSolved] = useState<{ type: "word_search" | "crossword"; seconds: number } | null>(null);
+
+  const puzzleType: "word_search" | "crossword" = tab === "wordsearch" ? "word_search" : "crossword";
+
+  async function handleSolved(type: "word_search" | "crossword", seconds: number) {
+    markCompleted(selectedDate, type);
+    setLastSolved({ type, seconds });
+    if (!user) return; // logged-out players can't post; the board nudges them to sign in
+    if (!displayName) {
+      setPending({ date: selectedDate, type, seconds });
+      return;
+    }
+    const changed = await recordLeaderboardTime(user.id, displayName, selectedDate, type, seconds);
+    if (changed) setRefreshKey((k) => k + 1);
+  }
+
+  async function handleSaveName(name: string): Promise<string | null> {
+    const err = await saveDisplayName(name);
+    if (err) return err;
+    if (pending && user) {
+      await recordLeaderboardTime(user.id, name.trim(), pending.date, pending.type, pending.seconds);
+      setPending(null);
+      setRefreshKey((k) => k + 1);
+    }
+    return null;
+  }
 
   useEffect(() => {
     setStatus("loading");
@@ -537,15 +755,35 @@ export default function Games() {
             <WordSearch
               key={selectedDate + "-ws"}
               data={data.word_search}
-              onComplete={() => markCompleted(selectedDate, "word_search")}
+              onComplete={(secs) => handleSolved("word_search", secs)}
             />
           ) : (
             <Crossword
               key={selectedDate + "-cw"}
               data={data.crossword}
-              onComplete={() => markCompleted(selectedDate, "crossword")}
+              onComplete={(secs) => handleSolved("crossword", secs)}
             />
           )}
+
+          {lastSolved && !user && (
+            <p className="mt-4 text-sm text-neutral-400">
+              You solved the {lastSolved.type === "word_search" ? "word search" : "crossword"} in{" "}
+              {formatTime(lastSolved.seconds)}.{" "}
+              <span className="text-neutral-500">Sign in to post your time to the leaderboard.</span>
+            </p>
+          )}
+
+          {user && profileLoaded && !displayName && (
+            <HandleSetup onSave={handleSaveName} pendingTime={pending?.seconds ?? null} />
+          )}
+
+          <Leaderboard
+            puzzleType={puzzleType}
+            puzzleDate={selectedDate}
+            signedIn={!!user}
+            currentUserId={user?.id}
+            refreshKey={refreshKey}
+          />
         </div>
       )}
     </div>

@@ -157,6 +157,157 @@ export function usePuzzleCompletions(userId: string | null | undefined) {
   return { completions, markCompleted, deleteCompletions, loaded };
 }
 
+// ---- Profile (public display name / handle) --------------------------------
+
+export function useProfile(userId: string | null | undefined) {
+  const [displayName, setDisplayName] = useState<string | null>(null);
+  const [loaded, setLoaded] = useState(false);
+
+  useEffect(() => {
+    if (!userId) {
+      setDisplayName(null);
+      setLoaded(true);
+      return;
+    }
+    let cancelled = false;
+    setLoaded(false);
+    supabase
+      .from("profiles")
+      .select("display_name")
+      .eq("id", userId)
+      .maybeSingle()
+      .then(({ data }) => {
+        if (cancelled) return;
+        setDisplayName(data?.display_name ?? null);
+        setLoaded(true);
+      });
+    return () => {
+      cancelled = true;
+    };
+  }, [userId]);
+
+  // Returns an error message string on failure, or null on success.
+  async function saveDisplayName(name: string): Promise<string | null> {
+    if (!userId) return "You need to be signed in.";
+    const trimmed = name.trim();
+    if (trimmed.length < 2 || trimmed.length > 20) return "Display name must be 2 to 20 characters.";
+    if (!/^[a-zA-Z0-9 _-]+$/.test(trimmed)) return "Letters, numbers, spaces, - and _ only.";
+
+    const { error } = await supabase.from("profiles").upsert({
+      id: userId,
+      display_name: trimmed,
+      updated_at: new Date().toISOString(),
+    });
+    if (error) {
+      // 23505 = unique_violation, i.e. the handle is already taken.
+      if (error.code === "23505" || error.message.toLowerCase().includes("duplicate")) {
+        return "That name is taken. Try another.";
+      }
+      return "Couldn't save that name. Try again.";
+    }
+    // Keep any leaderboard rows this user already posted showing the new name.
+    await supabase.from("leaderboard").update({ display_name: trimmed }).eq("user_id", userId);
+    setDisplayName(trimmed);
+    return null;
+  }
+
+  return { displayName, saveDisplayName, loaded };
+}
+
+// ---- Leaderboard -----------------------------------------------------------
+
+export type LeaderRow = {
+  user_id: string;
+  display_name: string;
+  seconds: number;
+};
+
+// Writes a time only if it beats the user's existing best for that puzzle+day.
+// Returns true if the board changed (so the caller can refresh it).
+export async function recordLeaderboardTime(
+  userId: string,
+  displayName: string,
+  puzzleDate: string,
+  puzzleType: "word_search" | "crossword",
+  seconds: number
+): Promise<boolean> {
+  const { data: existing } = await supabase
+    .from("leaderboard")
+    .select("seconds")
+    .eq("user_id", userId)
+    .eq("puzzle_date", puzzleDate)
+    .eq("puzzle_type", puzzleType)
+    .maybeSingle();
+  if (existing && existing.seconds <= seconds) return false;
+
+  const { error } = await supabase.from("leaderboard").upsert(
+    {
+      user_id: userId,
+      display_name: displayName,
+      puzzle_date: puzzleDate,
+      puzzle_type: puzzleType,
+      seconds,
+    },
+    { onConflict: "user_id,puzzle_date,puzzle_type" }
+  );
+  return !error;
+}
+
+export function useLeaderboard(
+  puzzleType: "word_search" | "crossword",
+  puzzleDate: string,
+  refreshKey: number
+) {
+  const [daily, setDaily] = useState<LeaderRow[]>([]);
+  const [allTime, setAllTime] = useState<LeaderRow[]>([]);
+  const [loading, setLoading] = useState(true);
+
+  useEffect(() => {
+    let cancelled = false;
+    setLoading(true);
+
+    async function run() {
+      const dailyQ = supabase
+        .from("leaderboard")
+        .select("user_id, display_name, seconds")
+        .eq("puzzle_type", puzzleType)
+        .eq("puzzle_date", puzzleDate)
+        .order("seconds", { ascending: true })
+        .limit(50);
+      const allQ = supabase
+        .from("leaderboard")
+        .select("user_id, display_name, seconds")
+        .eq("puzzle_type", puzzleType)
+        .order("seconds", { ascending: true })
+        .limit(200);
+
+      const [d, a] = await Promise.all([dailyQ, allQ]);
+      if (cancelled) return;
+
+      setDaily((d.data as LeaderRow[]) ?? []);
+
+      // All-time is the best time per user. Rows come sorted fastest-first, so the
+      // first time we see a user is their best.
+      const seen = new Set<string>();
+      const best: LeaderRow[] = [];
+      for (const row of ((a.data as LeaderRow[]) ?? [])) {
+        if (seen.has(row.user_id)) continue;
+        seen.add(row.user_id);
+        best.push(row);
+      }
+      setAllTime(best);
+      setLoading(false);
+    }
+
+    run();
+    return () => {
+      cancelled = true;
+    };
+  }, [puzzleType, puzzleDate, refreshKey]);
+
+  return { daily, allTime, loading };
+}
+
 // ---- Sign in / sign up modal ----------------------------------------------
 
 export function AuthModal({ onClose }: { onClose: () => void }) {
