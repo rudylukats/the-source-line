@@ -107,19 +107,42 @@ function timeAgo(iso: string): string {
   return `${days}d ago`;
 }
 
-function SourceLineMark({ size = 34 }: { size?: number }) {
+// Stacked "SL" monogram, split down the vertical centre line at x=32: the left
+// half is amber, the right half is off-white. Letterforms are real vector
+// outlines (DejaVu Serif Bold), not live text, so the mark renders identically
+// regardless of which fonts the visitor has installed. The viewBox is cropped
+// tight to the ink so `size` maps to the actual drawn height.
+const MARK_S =
+  "M22.16 29.28V23.35H24.29Q24.77 26.16 26.58 27.55Q28.39 28.94 31.59 28.94Q34.19 28.94 35.54 27.95Q36.9 26.97 36.9 25.06Q36.9 23.55 35.98 22.71Q35.06 21.88 32.18 21.16L28.42 20.24Q24.76 19.3 23.27 17.63Q21.78 15.97 21.78 12.88Q21.78 9.17 24.25 7.1Q26.72 5.03 31.17 5.03Q33.36 5.03 35.73 5.4Q38.1 5.77 40.65 6.5V12.03H38.52Q38.04 9.45 36.4 8.25Q34.75 7.06 31.72 7.06Q29.25 7.06 27.98 7.92Q26.72 8.78 26.72 10.49Q26.72 12.05 27.59 12.86Q28.46 13.67 31.86 14.54L35.61 15.46Q39.09 16.33 40.66 18.18Q42.22 20.02 42.22 23.25Q42.22 27.03 39.61 29Q37 30.97 31.92 30.97Q29.48 30.97 27.07 30.55Q24.66 30.13 22.16 29.28Z";
+const MARK_L =
+  "M21.12 58.97V56.94H24.32V35.99H21.12V33.97H33.98V35.99H30.77V56.67H40.62V52.72H42.88V58.97Z";
+
+function SourceLineMark({ size = 40 }: { size?: number }) {
+  const width = Math.round((size * 24) / 58);
   return (
     <svg
-      width={size}
+      width={width}
       height={size}
-      viewBox="0 0 64 64"
+      viewBox="20 3 24 58"
       aria-hidden="true"
       className="shrink-0"
     >
-      <rect x="13" y="12" width="5" height="40" rx="2.5" fill="#e8a33d" />
-      <rect x="25" y="16" width="26" height="5" rx="2.5" fill="#f5f5f5" />
-      <rect x="25" y="29" width="19" height="5" rx="2.5" fill="#f5f5f5" opacity="0.85" />
-      <rect x="25" y="42" width="23" height="5" rx="2.5" fill="#f5f5f5" opacity="0.7" />
+      <defs>
+        <clipPath id="tsl-mark-left">
+          <rect x="0" y="0" width="32" height="64" />
+        </clipPath>
+        <clipPath id="tsl-mark-right">
+          <rect x="32" y="0" width="32" height="64" />
+        </clipPath>
+      </defs>
+      <g clipPath="url(#tsl-mark-left)" fill="#e8a33d">
+        <path d={MARK_S} />
+        <path d={MARK_L} />
+      </g>
+      <g clipPath="url(#tsl-mark-right)" fill="#f5f5f5">
+        <path d={MARK_S} />
+        <path d={MARK_L} />
+      </g>
     </svg>
   );
 }
