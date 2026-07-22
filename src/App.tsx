@@ -88,6 +88,12 @@ type FeedData = {
   articles: Article[];
 };
 
+type Brief = {
+  date: string;
+  title: string;
+  body: string[];
+};
+
 function timeAgo(iso: string): string {
   const then = new Date(iso).getTime();
   if (Number.isNaN(then)) return "";
@@ -170,12 +176,40 @@ function ListRow({ article }: { article: Article }) {
   );
 }
 
+function BriefBlock({ brief }: { brief: Brief }) {
+  const dateLabel = new Date(brief.date + "T00:00:00Z").toLocaleDateString(undefined, {
+    weekday: "long",
+    month: "long",
+    day: "numeric",
+    timeZone: "UTC",
+  });
+  return (
+    <section className="mx-auto max-w-6xl px-4 pt-6">
+      <div className="border border-neutral-800 bg-[#0e0e10] p-5 md:p-6">
+        <p className="text-[11px] font-semibold uppercase tracking-widest text-[#e8a33d]">
+          The Source Line Daily · {dateLabel}
+        </p>
+        <h2 className="mt-1 font-serif text-2xl leading-snug text-neutral-50">{brief.title}</h2>
+        <div className="mt-3 space-y-3 max-w-3xl">
+          {brief.body.map((para, i) => (
+            <p key={i} className="text-[15px] text-neutral-300 leading-relaxed">
+              {para}
+            </p>
+          ))}
+        </div>
+        <p className="mt-4 text-xs text-neutral-600">The day's reporting is below.</p>
+      </div>
+    </section>
+  );
+}
+
 export default function App() {
   const [view, setView] = useState<"news" | "games">("news");
   const [activeSource, setActiveSource] = useState<Source | "All">("All");
   const [activeCategory, setActiveCategory] = useState<Category | "All">("All");
   const [feed, setFeed] = useState<FeedData | null>(null);
   const [status, setStatus] = useState<"loading" | "ready" | "error">("loading");
+  const [brief, setBrief] = useState<Brief | null>(null);
 
   useEffect(() => {
     fetch("./articles.json", { cache: "no-store" })
@@ -188,6 +222,13 @@ export default function App() {
         setStatus("ready");
       })
       .catch(() => setStatus("error"));
+  }, []);
+
+  useEffect(() => {
+    fetch("./brief.json", { cache: "no-store" })
+      .then((res) => (res.ok ? res.json() : null))
+      .then((data: Brief | null) => setBrief(data))
+      .catch(() => setBrief(null));
   }, []);
 
   const { user } = useAuth();
@@ -286,6 +327,8 @@ export default function App() {
           <Games />
         </div>
       ) : (
+      <>
+      {brief && <BriefBlock brief={brief} />}
       <div className="mx-auto max-w-6xl px-4 py-6 grid grid-cols-1 lg:grid-cols-[1fr_300px] gap-8">
         <main>
           {status === "loading" && (
@@ -409,6 +452,7 @@ export default function App() {
           </div>
         </aside>
       </div>
+      </>
       )}
 
       {/* Footer */}
