@@ -1,13 +1,22 @@
 {
-  "generated_at": "2026-07-21T22:12:49.568491+00:00",
+  "generated_at": "2026-07-22T03:47:21.210186+00:00",
   "articles": [
     {
-      "id": "da0728b91aa0",
+      "id": "b1e12612abca",
       "source": "Al Jazeera",
-      "headline": "Drone shows scorched landscape after Spain wildfire",
-      "excerpt": "A drone has revealed what remains of this forest after a wildfire burned through over 30,000 hectares of it.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/21/drone-shows-scorched-landscape-after-spain-wildfire?traffic_source=rss",
-      "published": "2026-07-21T21:21:12+00:00",
+      "headline": "How armed group alliances are reshaping Mali’s conflict and the wider Sahel",
+      "excerpt": "A deadly attack near Anefis exposes the growing challenges facing Mali's military leaders.",
+      "link": "https://www.aljazeera.com/news/2026/7/22/how-armed-group-alliances-are-reshaping-malis-conflict-and-the-wider-sahel?traffic_source=rss",
+      "published": "2026-07-22T02:39:13+00:00",
+      "featured": true
+    },
+    {
+      "id": "fc773c275786",
+      "source": "The Lever",
+      "headline": "Francesca Hong Wants To Be America’s First Socialist Governor",
+      "excerpt": "The Democratic Socialists of America are winning big this summer — but can a DSA candidate land the governor’s seat in a swing state like Wisconsin?",
+      "link": "https://www.levernews.com/francesca-hong-wants-to-be-americas-first-socialist-governor/",
+      "published": "2026-07-21T22:15:24+00:00",
       "featured": true
     },
     {
@@ -26,15 +35,6 @@
       "excerpt": "Do you have to show ID to get unlimited pasta at Olive Garden? Yes. Is this the same as secure voting? Definitely not.",
       "link": "https://www.404media.co/olive-garden-never-ending-pasta-id-save-act/",
       "published": "2026-07-21T17:17:45+00:00",
-      "featured": true
-    },
-    {
-      "id": "8a8bb6c734af",
-      "source": "The Lever",
-      "headline": "Gas Grab",
-      "excerpt": "Big Oil is laying off workers while ramping up production — and profits.",
-      "link": "https://www.levernews.com/gas-grab/",
-      "published": "2026-07-21T16:37:00+00:00",
       "featured": false
     },
     {
@@ -101,12 +101,12 @@
       "featured": false
     },
     {
-      "id": "a286b16450d0",
+      "id": "0684cba26c24",
       "source": "Al Jazeera",
-      "headline": "US defence chief Hegseth puts Iran war cost at $37.5bn so far",
-      "excerpt": "Latest cost comes as Hegseth and Joint Chiefs Chairman Caine seek a $1.5 trillion budget, including $70bn for Iran war.",
-      "link": "https://www.aljazeera.com/news/2026/7/21/hegseth-says-iran-war-has-cost-37-5bn-in-latest-official-us-account?traffic_source=rss",
-      "published": "2026-07-21T21:17:06+00:00",
+      "headline": "‘Unprecedented’: OpenAI says AI models autonomously hacked another company",
+      "excerpt": "OpenAI says an autonomous agent bypassed controls and hacked Hugging Face servers during a cybersecurity test.",
+      "link": "https://www.aljazeera.com/news/2026/7/22/unprecedented-openai-says-ai-models-autonomously-hacked-another-company?traffic_source=rss",
+      "published": "2026-07-22T02:36:55+00:00",
       "featured": false
     },
     {
@@ -116,6 +116,15 @@
       "excerpt": "Occupied by Israeli forces and depopulated, Majdal Zoun overlooks the nearby village of Al-Mansouri, where the few remaining residents come under Israeli attack on a near daily basis.",
       "link": "https://www.dropsitenews.com/p/lebanon-israel-mansouri-majdal-zoun-occupation-aoun-trump-framework-hezbollah",
       "published": "2026-07-21T19:14:53+00:00",
+      "featured": false
+    },
+    {
+      "id": "8a8bb6c734af",
+      "source": "The Lever",
+      "headline": "Gas Grab",
+      "excerpt": "Big Oil is laying off workers while ramping up production — and profits.",
+      "link": "https://www.levernews.com/gas-grab/",
+      "published": "2026-07-21T16:37:00+00:00",
       "featured": false
     },
     {
@@ -143,15 +152,6 @@
       "excerpt": "Scams across East and Southeast Asia, Australia and New Zealand caused estimated losses of as much as $114.1 billion in 2025, according to a U.N. report examining the infrastructure shared by criminal networks.",
       "link": "https://www.occrp.org/en/news/un-report-details-southeast-asias-interconnected-criminal-economy",
       "published": "2026-07-21T10:47:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "f989ab39cd49",
-      "source": "The Lever",
-      "headline": "The Winklevoss Twins Gave Trump $10 Million After Regulatory Win",
-      "excerpt": "The crypto investors donated $10 million in bitcoin to Trump's super PAC weeks after his administration moved to abandon a federal enforcement action against their crypto exchange.",
-      "link": "https://www.levernews.com/the-winklevoss-twins-gave-trump-10-million-after-regulatory-win/",
-      "published": "2026-07-20T23:53:20+00:00",
       "featured": false
     },
     {
@@ -200,12 +200,12 @@
       "featured": false
     },
     {
-      "id": "bf095877f01c",
+      "id": "6333b7266987",
       "source": "Al Jazeera",
-      "headline": "Iran holds funerals for children killed in Minab school strike",
-      "excerpt": "Iran has held funerals for 32 children killed in a US strike on a school in Minab, Iran on February 28.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/21/iran-holds-funerals-for-children-killed-in-minab-school-strike?traffic_source=rss",
-      "published": "2026-07-21T21:13:02+00:00",
+      "headline": "US targets China in move to ban military-grade drone imports",
+      "excerpt": "Proposed rules would have US regulator block the entry of swarm-capable drones, mainly from China.",
+      "link": "https://www.aljazeera.com/news/2026/7/22/us-targets-china-in-move-to-ban-military-grade-drone-imports?traffic_source=rss",
+      "published": "2026-07-22T02:21:57+00:00",
       "featured": false
     },
     {
@@ -236,12 +236,12 @@
       "featured": false
     },
     {
-      "id": "2f73400eb57e",
+      "id": "f989ab39cd49",
       "source": "The Lever",
-      "headline": "Repeat Food Contaminator Gave $2.2 Million to GOP. Now Thousands Are Sick",
-      "excerpt": "The suspected source of the cyclospora outbreak, gave $1 million to the MAGA Inc, PAC just days after the Trump administration delayed food tracing rules.",
-      "link": "https://www.levernews.com/repeat-food-contaminator-gave-2-2-million-to-gop-now-thousands-are-sick/",
-      "published": "2026-07-20T16:57:02+00:00",
+      "headline": "The Winklevoss Twins Gave Trump $10 Million After Regulatory Win",
+      "excerpt": "The crypto investors donated $10 million in bitcoin to Trump's super PAC weeks after his administration moved to abandon a federal enforcement action against their crypto exchange.",
+      "link": "https://www.levernews.com/the-winklevoss-twins-gave-trump-10-million-after-regulatory-win/",
+      "published": "2026-07-20T23:53:20+00:00",
       "featured": false
     },
     {
@@ -290,12 +290,12 @@
       "featured": false
     },
     {
-      "id": "242ce36d918a",
+      "id": "f8a94c97ee9b",
       "source": "Al Jazeera",
-      "headline": "How will Khalil al-Hayya’s leadership shape Hamas?",
-      "excerpt": "Newly named Hamas leader al-Hayya faces pressure to cede power amid Gaza's fragile ceasefire.",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/7/21/how-will-khalil-al-hayyas-leadership-shape-hamas?traffic_source=rss",
-      "published": "2026-07-21T21:03:58+00:00",
+      "headline": "US says more than 1,400 infected by parasitic Cyclospora illness outbreak",
+      "excerpt": "US officials claim evidence points to lettuce grown in Mexico, which Mexico's Health Ministry disputes.",
+      "link": "https://www.aljazeera.com/news/2026/7/22/us-says-more-than-1400-infected-by-parasitic-cyclospora-illness-outbreak?traffic_source=rss",
+      "published": "2026-07-22T02:01:28+00:00",
       "featured": false
     },
     {
@@ -305,6 +305,15 @@
       "excerpt": "Iran’s strikes caused dozens of casualties and the first deaths in action since the ceasefire collapsed, a U.S. official said. The post U.S. Official: Iran Attacks Injured “Far More” Troops Than Pentagon Admits appeared...",
       "link": "https://theintercept.com/2026/07/20/united-states-iran-war-casualties-cover-up-pentagon/",
       "published": "2026-07-20T20:03:20+00:00",
+      "featured": false
+    },
+    {
+      "id": "2f73400eb57e",
+      "source": "The Lever",
+      "headline": "Repeat Food Contaminator Gave $2.2 Million to GOP. Now Thousands Are Sick",
+      "excerpt": "The suspected source of the cyclospora outbreak, gave $1 million to the MAGA Inc, PAC just days after the Trump administration delayed food tracing rules.",
+      "link": "https://www.levernews.com/repeat-food-contaminator-gave-2-2-million-to-gop-now-thousands-are-sick/",
+      "published": "2026-07-20T16:57:02+00:00",
       "featured": false
     },
     {
@@ -332,15 +341,6 @@
       "excerpt": "Cops and drone companies seem increasingly eager to put weapons on their drones.",
       "link": "https://www.404media.co/new-orleans-cops-published-policy-document-allowing-weaponized-drones/",
       "published": "2026-07-20T14:37:38+00:00",
-      "featured": false
-    },
-    {
-      "id": "4e231aae7d7a",
-      "source": "The Lever",
-      "headline": "Lever Weekly: Ballot Battles And Blockbusters",
-      "excerpt": "Midterm machinations, movie monopolies, and more from The Lever this week.",
-      "link": "https://www.levernews.com/lever-weekly-ballot-battles-and-blockbusters/",
-      "published": "2026-07-19T13:01:49+00:00",
       "featured": false
     },
     {
@@ -380,12 +380,12 @@
       "featured": false
     },
     {
-      "id": "9cd24409f33b",
+      "id": "50608063219f",
       "source": "Al Jazeera",
-      "headline": "Guyana reports ferry disaster death toll rises to 41",
-      "excerpt": "Search continues for dozens more people unaccounted for after the MV Barima capsized on Saturday night.",
-      "link": "https://www.aljazeera.com/news/2026/7/21/guyana-reports-ferry-disaster-death-toll-rises-to-41?traffic_source=rss",
-      "published": "2026-07-21T20:54:41+00:00",
+      "headline": "Desperate families search rubble weeks after Venezuela earthquakes",
+      "excerpt": "Families in Venezuela search through the rubble of their homes, weeks after the 7.2 and 7.5 magnitude earthquakes hit.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/22/desperate-families-search-rubble-weeks-after-venezuela-earthquakes?traffic_source=rss",
+      "published": "2026-07-22T01:45:35+00:00",
       "featured": false
     },
     {
@@ -407,6 +407,15 @@
       "featured": false
     },
     {
+      "id": "4e231aae7d7a",
+      "source": "The Lever",
+      "headline": "Lever Weekly: Ballot Battles And Blockbusters",
+      "excerpt": "Midterm machinations, movie monopolies, and more from The Lever this week.",
+      "link": "https://www.levernews.com/lever-weekly-ballot-battles-and-blockbusters/",
+      "published": "2026-07-19T13:01:49+00:00",
+      "featured": false
+    },
+    {
       "id": "b765606787c0",
       "source": "404 Media",
       "headline": "Ancient Princesses Were Weapon-Wielding Badasses, Scientists Discover",
@@ -422,15 +431,6 @@
       "excerpt": "The post Trump Officials Want to Use Human Rights Aid to Advocate for White South Africans and Right-Wing Causes in Europe appeared first on ProPublica.",
       "link": "https://www.propublica.org/article/human-rights-aid-right-wing-causes",
       "published": "2026-07-17T21:45:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "c0400cd1ad1c",
-      "source": "The Lever",
-      "headline": "Democrats Fail Because They Won’t Name The Villains",
-      "excerpt": "Democrats keep promising to fix the country’s problems. But many refuse to name the corporate interests standing in the way.",
-      "link": "https://www.levernews.com/democrats-fail-because-they-wont-name-the-villains/",
-      "published": "2026-07-17T17:04:30+00:00",
       "featured": false
     },
     {
@@ -470,12 +470,12 @@
       "featured": false
     },
     {
-      "id": "0ba57f51592c",
+      "id": "2eee2b4a2d92",
       "source": "Al Jazeera",
-      "headline": "Daytime Russian strike kills three in Zaporizhzhia",
-      "excerpt": "A Russian guided aerial bomb attack on Zaporizhzhia, Ukraine, killed at least three people and injured 13 others.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/21/daytime-russian-strike-kills-three-in-zaporizhzhia?traffic_source=rss",
-      "published": "2026-07-21T20:48:18+00:00",
+      "headline": "Former Biden official can’t see ‘pilot zones’ scheme working in Lebanon",
+      "excerpt": "Gavito: Israel will likely keep pushing limits in Lebanon, making a full withdrawal unlikely amid security concerns.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/22/aje-onl-nf_gavito-cant-see-pilot-zones-working-in-lebanon-210726?traffic_source=rss",
+      "published": "2026-07-22T01:21:29+00:00",
       "featured": false
     },
     {
@@ -497,21 +497,21 @@
       "featured": false
     },
     {
+      "id": "c0400cd1ad1c",
+      "source": "The Lever",
+      "headline": "Democrats Fail Because They Won’t Name The Villains",
+      "excerpt": "Democrats keep promising to fix the country’s problems. But many refuse to name the corporate interests standing in the way.",
+      "link": "https://www.levernews.com/democrats-fail-because-they-wont-name-the-villains/",
+      "published": "2026-07-17T17:04:30+00:00",
+      "featured": false
+    },
+    {
       "id": "c3ad7f809f1e",
       "source": "404 Media",
       "headline": "You're Invited: 404 Media's Third Anniversary Live Podcast and Party!",
       "excerpt": "We're celebrating with TWO NIGHTS of good times: A live taping of the podcast, and a party the following night! Paid 404 Media subscribers get free and discounted access. Details below.",
       "link": "https://www.404media.co/three-years/",
       "published": "2026-07-17T16:15:53+00:00",
-      "featured": false
-    },
-    {
-      "id": "e776aed49286",
-      "source": "The Lever",
-      "headline": "Maine’s Insider Primary Begins",
-      "excerpt": "With Graham Platner out, the battle for Maine's Senate seat just moved behind closed doors.",
-      "link": "https://www.levernews.com/maines-insider-primary-begins/",
-      "published": "2026-07-17T14:33:07+00:00",
       "featured": false
     },
     {
