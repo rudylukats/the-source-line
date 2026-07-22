@@ -244,6 +244,24 @@ export default function App() {
     .filter((a) => activeSource === "All" || a.source === activeSource)
     .filter((a) => activeCategory === "All" || SOURCE_CATEGORY[a.source] === activeCategory);
 
+  const isHome = view === "news" && activeCategory === "All" && activeSource === "All";
+
+  function goHome() {
+    setView("news");
+    setActiveCategory("All");
+    setActiveSource("All");
+    window.scrollTo({ top: 0, behavior: "smooth" });
+  }
+
+  // The About/Sources/Privacy panels only render in the news view, so jumping to
+  // one from the Games tab has to switch views first or the anchor goes nowhere.
+  function goToPanel(id: string) {
+    setView("news");
+    setTimeout(() => {
+      document.getElementById(id)?.scrollIntoView({ behavior: "smooth", block: "start" });
+    }, 60);
+  }
+
   const latestLabel = [
     activeCategory !== "All" ? activeCategory : null,
     activeSource !== "All" ? activeSource : null,
@@ -257,23 +275,36 @@ export default function App() {
       <header className="border-b border-neutral-800">
         <div className="mx-auto max-w-6xl px-4 py-4 flex items-start justify-between">
           <div className="flex items-start gap-3">
-            <SourceLineMark />
+            <button onClick={goHome} aria-label="Go to homepage" className="shrink-0">
+              <SourceLineMark />
+            </button>
             <div>
-            <h1 className="m-0 font-serif text-2xl font-bold tracking-tight text-neutral-50">
-              THE SOURCE LINE
-            </h1>
-            <p className="mt-1 text-sm italic text-neutral-500 max-w-md">
-              For the people who want real, independent journalism without the corporate fluff.
-            </p>
+              <button onClick={goHome} className="text-left">
+                <h1 className="m-0 font-serif text-2xl font-bold tracking-tight text-neutral-50 hover:text-neutral-300">
+                  THE SOURCE LINE
+                </h1>
+              </button>
+              <p className="mt-1 text-sm italic text-neutral-500 max-w-md">
+                For the people who want real, independent journalism without the corporate fluff.
+              </p>
             </div>
           </div>
           <nav className="hidden md:flex items-center gap-5 text-sm text-neutral-400">
+            <button
+              onClick={goHome}
+              className={`hover:text-neutral-100 ${isHome ? "text-neutral-100 font-semibold" : ""}`}
+            >
+              Home
+            </button>
             {CATEGORIES.map((cat) => (
               <button
                 key={cat}
-                onClick={() => setActiveCategory(activeCategory === cat ? "All" : cat)}
+                onClick={() => {
+                  setView("news");
+                  setActiveCategory(activeCategory === cat ? "All" : cat);
+                }}
                 className={`hover:text-neutral-100 ${
-                  activeCategory === cat ? "text-neutral-100 font-semibold" : ""
+                  view === "news" && activeCategory === cat ? "text-neutral-100 font-semibold" : ""
                 }`}
               >
                 {cat}
@@ -285,9 +316,9 @@ export default function App() {
             >
               Games
             </button>
-            <a href="#sources-panel" className="hover:text-neutral-100">Sources</a>
-            <a href="#about-panel" className="hover:text-neutral-100">About</a>
-            <a href="#privacy-panel" className="hover:text-neutral-100">Privacy</a>
+            <button onClick={() => goToPanel("sources-panel")} className="hover:text-neutral-100">Sources</button>
+            <button onClick={() => goToPanel("about-panel")} className="hover:text-neutral-100">About</button>
+            <button onClick={() => goToPanel("privacy-panel")} className="hover:text-neutral-100">Privacy</button>
             <AccountWidget />
           </nav>
         </div>

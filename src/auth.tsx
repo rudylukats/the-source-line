@@ -428,6 +428,7 @@ export function AuthModal({ onClose }: { onClose: () => void }) {
 
 export function AccountWidget() {
   const { user, loading } = useAuth();
+  const { displayName } = useProfile(user?.id);
   const [modalOpen, setModalOpen] = useState(false);
 
   if (loading) return null;
@@ -445,7 +446,7 @@ export function AccountWidget() {
 
   return (
     <div className="flex items-center gap-3">
-      <span className="hidden lg:inline text-neutral-500 text-xs">{user.email}</span>
+      <span className="hidden lg:inline text-neutral-500 text-xs">{displayName ?? user.email}</span>
       <button onClick={() => supabase.auth.signOut()} className="hover:text-neutral-100">
         Sign out
       </button>
