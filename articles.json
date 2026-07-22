@@ -1,13 +1,31 @@
 {
-  "generated_at": "2026-07-22T11:20:15.045790+00:00",
+  "generated_at": "2026-07-22T14:22:54.713233+00:00",
   "articles": [
     {
-      "id": "f636d41db89b",
+      "id": "a87675e808dd",
       "source": "Al Jazeera",
-      "headline": "US Secretary of State say Iran is in ‘a lot of trouble’",
-      "excerpt": "US Secretary of State say Iran is in ‘a lot of trouble’",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/22/us-secretary-of-state-say-iran-is-in-a-lot-of?traffic_source=rss",
-      "published": "2026-07-22T11:05:39+00:00",
+      "headline": "Zelenskyy sacks Syrskii: How many generals have Ukraine, Russia fired?",
+      "excerpt": "Several Ukrainian and Russian generals have been sacked from their militaries over the course of the war in Ukraine.",
+      "link": "https://www.aljazeera.com/news/2026/7/22/zelenskyy-sacks-syrskii-how-many-generals-have-ukraine-russia-fired?traffic_source=rss",
+      "published": "2026-07-22T14:10:54+00:00",
+      "featured": true
+    },
+    {
+      "id": "190bb20b8ac3",
+      "source": "404 Media",
+      "headline": "Flock ‘Objects to Our Removing Their Equipment’: Emails Reveal Why a Town Put Bags Over Its Flock Cameras",
+      "excerpt": "\"For the time being, if you or someone on your crew has availability to secure black plastic bags (or something else) over the cameras, that would be great.\"",
+      "link": "https://www.404media.co/flock-objects-to-our-removing-their-equipment-emails-reveal-why-a-town-put-bags-over-its-flock-cameras/",
+      "published": "2026-07-22T14:03:02+00:00",
+      "featured": true
+    },
+    {
+      "id": "4af7f179a0d0",
+      "source": "Dropsite News",
+      "headline": "Israel‘s Secret Sales Pitch to Provide Surveillance Drones to the UAE",
+      "excerpt": "Internal emails and documents reveal how Israel’s Elbit Systems worked to supply the UAE with drones and other weapons.",
+      "link": "https://www.dropsitenews.com/p/elbit-israel-uae-drones-hermes",
+      "published": "2026-07-22T12:00:06+00:00",
       "featured": true
     },
     {
@@ -17,7 +35,7 @@
       "excerpt": "Big Tech is building AI infrastructure in the world’s most polluting oil field, where Americans face mounting exposure to toxic emissions and regulators struggle to keep watch.",
       "link": "https://www.levernews.com/the-ai-boom-runs-on-toxic-air/",
       "published": "2026-07-22T11:03:28+00:00",
-      "featured": true
+      "featured": false
     },
     {
       "id": "5cc6eece6f03",
@@ -26,7 +44,7 @@
       "excerpt": "As Apple, Thinking Machines, and developers worldwide embrace Chinese AI models such as Kimi K3, U.S. policymakers are struggling to protect the AI lead.",
       "link": "https://restofworld.org/2026/china-siliconvalley-ai-moonshot-kimi/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "published": "2026-07-22T10:00:00+00:00",
-      "featured": true
+      "featured": false
     },
     {
       "id": "8056298557aa",
@@ -44,24 +62,6 @@
       "excerpt": "The post How the Government’s Obligation to Keep Foreign Workers Safe Collided With Its Efforts to Keep Farms Afloat appeared first on ProPublica.",
       "link": "https://www.propublica.org/article/h-2a-farmworker-protections-profits-trump",
       "published": "2026-07-22T09:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "ddce38c0a31c",
-      "source": "Dropsite News",
-      "headline": "The Gulf War and the Battle For Michigan",
-      "excerpt": "Watch now | The impact of the Iran war on the Gulf states—and the upcoming Democratic primary races in Michigan.",
-      "link": "https://www.dropsitenews.com/p/iran-gulf-war-michigan-primary-election-will-lawrence",
-      "published": "2026-07-21T20:21:15+00:00",
-      "featured": false
-    },
-    {
-      "id": "a2184d76c644",
-      "source": "404 Media",
-      "headline": "What Does Olive Garden’s Never-Ending Pasta Have to Do With Voting Rights?",
-      "excerpt": "Do you have to show ID to get unlimited pasta at Olive Garden? Yes. Is this the same as secure voting? Definitely not.",
-      "link": "https://www.404media.co/olive-garden-never-ending-pasta-id-save-act/",
-      "published": "2026-07-21T17:17:45+00:00",
       "featured": false
     },
     {
@@ -101,12 +101,21 @@
       "featured": false
     },
     {
-      "id": "fc73698b5123",
+      "id": "4ff2d3645c02",
       "source": "Al Jazeera",
-      "headline": "Baulking at shipping sanctions, Greece balances Ukraine aid, fear of Russia",
-      "excerpt": "Sanctions on Russian LNG would hurt Greek shipping, argues Athens, but it also fears Moscow’s hybrid warfare.",
-      "link": "https://www.aljazeera.com/news/2026/7/22/baulking-at-shipping-sanctions-greece-balances-ukraine-aid-fear-of-russia?traffic_source=rss",
-      "published": "2026-07-22T11:04:43+00:00",
+      "headline": "Nearly 1,000 people have died from Ebola in DR Congo",
+      "excerpt": "According to WHO figures, 999 people have died in DRC and two in Uganda due to the Bundibugyo strain of the virus.",
+      "link": "https://www.aljazeera.com/news/2026/7/22/nearly-1000-people-have-died-from-ebola-in-dr-congo?traffic_source=rss",
+      "published": "2026-07-22T14:01:10+00:00",
+      "featured": false
+    },
+    {
+      "id": "40e0a034a971",
+      "source": "404 Media",
+      "headline": "Podcast: Flock is Tracking People, Not Just Cars",
+      "excerpt": "How cops are using Flock to look for specific people; the company buying mountains of books for AI companies; and the big Suno hack.",
+      "link": "https://www.404media.co/podcast-flock-is-tracking-people-not-just-cars/",
+      "published": "2026-07-22T13:56:17+00:00",
       "featured": false
     },
     {
@@ -119,21 +128,12 @@
       "featured": false
     },
     {
-      "id": "6221590b0ecf",
+      "id": "ddce38c0a31c",
       "source": "Dropsite News",
-      "headline": "In Southern Lebanon, a Gloss of Diplomacy Can't Hide the Reality of Occupation",
-      "excerpt": "Occupied by Israeli forces and depopulated, Majdal Zoun overlooks the nearby village of Al-Mansouri, where the few remaining residents come under Israeli attack on a near daily basis.",
-      "link": "https://www.dropsitenews.com/p/lebanon-israel-mansouri-majdal-zoun-occupation-aoun-trump-framework-hezbollah",
-      "published": "2026-07-21T19:14:53+00:00",
-      "featured": false
-    },
-    {
-      "id": "a0d2753db9ef",
-      "source": "404 Media",
-      "headline": "Apple Fixes Hide My Email Vulnerability After 404 Media Coverage",
-      "excerpt": "For a year, Apple knew that an issue in its Hide My Email feature was exposing customers’ real email addresses. Apple only fixed the issue after 404 Media covered it.",
-      "link": "https://www.404media.co/apple-fixes-hide-my-email-vulnerability-after-404-media-coverage/",
-      "published": "2026-07-21T15:20:10+00:00",
+      "headline": "The Gulf War and the Battle For Michigan",
+      "excerpt": "Watch now | The impact of the Iran war on the Gulf states—and the upcoming Democratic primary races in Michigan.",
+      "link": "https://www.dropsitenews.com/p/iran-gulf-war-michigan-primary-election-will-lawrence",
+      "published": "2026-07-21T20:21:15+00:00",
       "featured": false
     },
     {
@@ -200,12 +200,30 @@
       "featured": false
     },
     {
-      "id": "2a8ef0ec329e",
+      "id": "d24bba1d9f66",
       "source": "Al Jazeera",
-      "headline": "Austria turns Adolf Hitler’s birthplace into police station",
-      "excerpt": "Austrian politicians hope the change will prevent neo-Nazis from visiting the building as a place of pilgrimage.",
-      "link": "https://www.aljazeera.com/news/2026/7/22/austria-turns-adolf-hitlers-birthplace-into-police-station?traffic_source=rss",
-      "published": "2026-07-22T11:02:42+00:00",
+      "headline": "Open AI says its AI model “went rogue”: What do we know?",
+      "excerpt": "The system hacked into another company without being prompted by a human.",
+      "link": "https://www.aljazeera.com/news/2026/7/22/open-ai-says-its-ai-model-went-rogue-what-do-we-know?traffic_source=rss",
+      "published": "2026-07-22T13:42:29+00:00",
+      "featured": false
+    },
+    {
+      "id": "94e82b236fe6",
+      "source": "404 Media",
+      "headline": "You Opened a Credit Card. ICE Now Knows Where You Live",
+      "excerpt": "Here's how your personal address travels from your credit card provider, through middlemen companies, and ends up with ICE.",
+      "link": "https://www.404media.co/you-opened-a-credit-card-ice-now-knows-where-you-live/",
+      "published": "2026-07-22T13:14:27+00:00",
+      "featured": false
+    },
+    {
+      "id": "6221590b0ecf",
+      "source": "Dropsite News",
+      "headline": "In Southern Lebanon, a Gloss of Diplomacy Can't Hide the Reality of Occupation",
+      "excerpt": "Occupied by Israeli forces and depopulated, Majdal Zoun overlooks the nearby village of Al-Mansouri, where the few remaining residents come under Israeli attack on a near daily basis.",
+      "link": "https://www.dropsitenews.com/p/lebanon-israel-mansouri-majdal-zoun-occupation-aoun-trump-framework-hezbollah",
+      "published": "2026-07-21T19:14:53+00:00",
       "featured": false
     },
     {
@@ -218,30 +236,12 @@
       "featured": false
     },
     {
-      "id": "3ea763ab6343",
-      "source": "Dropsite News",
-      "headline": "Attacks in the Strait of Hormuz; Israel kills 57 Palestinians in Gaza in one week; No more elections in Nicaragua, Ortega says",
-      "excerpt": "Drop Site Daily: July 21, 2026",
-      "link": "https://www.dropsitenews.com/p/hormuz-strikes-iran-us-israel-gaza-nicaragua-ortega-elections",
-      "published": "2026-07-21T15:33:55+00:00",
-      "featured": false
-    },
-    {
       "id": "e6be421b584b",
       "source": "The Intercept",
       "headline": "ICE Mandates Dress Code After Killings and Botched Arrest",
       "excerpt": "Updates to ICE’s code of conduct ban deportation officers from wearing jeans, hoodies, and graphic tees, according to a leaked document. The post ICE Mandates Dress Code After Killings and Botched Arrest appeared first...",
       "link": "https://theintercept.com/2026/07/21/ice-undercover-plainclothes-uniform/",
       "published": "2026-07-21T14:05:04+00:00",
-      "featured": false
-    },
-    {
-      "id": "55f8d8a2dda6",
-      "source": "404 Media",
-      "headline": "AI Companies Are Buying Tons of Old Books Because They're Free of AI Slop",
-      "excerpt": "ISBNdb, a company that sources printed books for AI companies to turn into training data, tells clients “the optics problem is real.”",
-      "link": "https://www.404media.co/ai-companies-are-buying-tons-of-old-books-because-theyre-free-of-ai-slop/",
-      "published": "2026-07-21T13:51:39+00:00",
       "featured": false
     },
     {
@@ -290,12 +290,30 @@
       "featured": false
     },
     {
-      "id": "acea81fcf469",
+      "id": "a11af9df78e5",
       "source": "Al Jazeera",
-      "headline": "Lebanese army deployed in ‘pilot zone’ as families wait to return home",
-      "excerpt": "Lebanese army deployed in ‘pilot zone’ as families wait to return home",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/22/lebanese-army-deployed-in-pilot-zone-as-families-wait-to-return-home?traffic_source=rss",
-      "published": "2026-07-22T10:53:53+00:00",
+      "headline": "UK’s Miliband, Streeting: What are their foreign policy, defence records?",
+      "excerpt": "Miliband, Trump critic who once opposed strikes on Syria, joins Streeting, defence novice with shifting Israel views.",
+      "link": "https://www.aljazeera.com/news/2026/7/22/uks-miliband-streeting-what-are-their-foreign-policy-defence-records?traffic_source=rss",
+      "published": "2026-07-22T13:41:33+00:00",
+      "featured": false
+    },
+    {
+      "id": "a2184d76c644",
+      "source": "404 Media",
+      "headline": "What Does Olive Garden’s Never-Ending Pasta Have to Do With Voting Rights?",
+      "excerpt": "Do you have to show ID to get unlimited pasta at Olive Garden? Yes. Is this the same as secure voting? Definitely not.",
+      "link": "https://www.404media.co/olive-garden-never-ending-pasta-id-save-act/",
+      "published": "2026-07-21T17:17:45+00:00",
+      "featured": false
+    },
+    {
+      "id": "3ea763ab6343",
+      "source": "Dropsite News",
+      "headline": "Attacks in the Strait of Hormuz; Israel kills 57 Palestinians in Gaza in one week; No more elections in Nicaragua, Ortega says",
+      "excerpt": "Drop Site Daily: July 21, 2026",
+      "link": "https://www.dropsitenews.com/p/hormuz-strikes-iran-us-israel-gaza-nicaragua-ortega-elections",
+      "published": "2026-07-21T15:33:55+00:00",
       "featured": false
     },
     {
@@ -323,24 +341,6 @@
       "excerpt": "International star Nemanja Matić joins Nemanja Vidić in taking legal action after leaked encrypted chats revealed a former football chief's plot to silence critics.",
       "link": "https://www.occrp.org/en/news/serbian-football-star-files-police-complaint-over-former-chiefs-intimidation-plot",
       "published": "2026-07-20T16:26:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "d3d80ea475ee",
-      "source": "Dropsite News",
-      "headline": "U.S. and Iran trade strikes for 9th day; Ansarallah announces Saudi blockade; House to vote on fusing elements of U.S., Israeli militaries",
-      "excerpt": "Drop Site Daily: July 20, 2026",
-      "link": "https://www.dropsitenews.com/p/us-iran-strikes-ansarallah-saudi-blockade-israel-house-military",
-      "published": "2026-07-20T15:47:44+00:00",
-      "featured": false
-    },
-    {
-      "id": "f9693aa8368c",
-      "source": "404 Media",
-      "headline": "New Orleans Cops Published Policy Document Allowing Weaponized Drones",
-      "excerpt": "Cops and drone companies seem increasingly eager to put weapons on their drones.",
-      "link": "https://www.404media.co/new-orleans-cops-published-policy-document-allowing-weaponized-drones/",
-      "published": "2026-07-20T14:37:38+00:00",
       "featured": false
     },
     {
@@ -380,12 +380,21 @@
       "featured": false
     },
     {
-      "id": "b8892dc0e9cc",
+      "id": "2a35063a39b7",
       "source": "Al Jazeera",
-      "headline": "Graphic evidence shown as D4vd murder hearing begins",
-      "excerpt": "Hearing in singer D4vd's murder case begins.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/22/graphic-evidence-shown-as-d4vd-murder-hearing-begins?traffic_source=rss",
-      "published": "2026-07-22T10:51:41+00:00",
+      "headline": "Israeli strike leaves two Palestinians burnt beyond recognition",
+      "excerpt": "An Israeli strike hit a civilian vehicle in central Gaza, killing two Palestinians.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/22/israeli-strike-leaves-two-palestinians-burnt-beyond-recognition?traffic_source=rss",
+      "published": "2026-07-22T13:23:49+00:00",
+      "featured": false
+    },
+    {
+      "id": "a0d2753db9ef",
+      "source": "404 Media",
+      "headline": "Apple Fixes Hide My Email Vulnerability After 404 Media Coverage",
+      "excerpt": "For a year, Apple knew that an issue in its Hide My Email feature was exposing customers’ real email addresses. Apple only fixed the issue after 404 Media covered it.",
+      "link": "https://www.404media.co/apple-fixes-hide-my-email-vulnerability-after-404-media-coverage/",
+      "published": "2026-07-21T15:20:10+00:00",
       "featured": false
     },
     {
@@ -407,6 +416,15 @@
       "featured": false
     },
     {
+      "id": "d3d80ea475ee",
+      "source": "Dropsite News",
+      "headline": "U.S. and Iran trade strikes for 9th day; Ansarallah announces Saudi blockade; House to vote on fusing elements of U.S., Israeli militaries",
+      "excerpt": "Drop Site Daily: July 20, 2026",
+      "link": "https://www.dropsitenews.com/p/us-iran-strikes-ansarallah-saudi-blockade-israel-house-military",
+      "published": "2026-07-20T15:47:44+00:00",
+      "featured": false
+    },
+    {
       "id": "96291f869755",
       "source": "OCCRP",
       "headline": "UK Brings New Trafficking Charges Against Tate Brothers",
@@ -416,30 +434,12 @@
       "featured": false
     },
     {
-      "id": "b765606787c0",
-      "source": "404 Media",
-      "headline": "Ancient Princesses Were Weapon-Wielding Badasses, Scientists Discover",
-      "excerpt": "The mummified remains of 4,000-year-old Egyptian royals suggest that they were buried with weapons because they could use them, not for symbolic reasons.",
-      "link": "https://www.404media.co/ancient-princesses-were-weapon-wielding-badasses-scientists-discover/",
-      "published": "2026-07-18T10:00:29+00:00",
-      "featured": false
-    },
-    {
       "id": "3824b8c4e53c",
       "source": "ProPublica",
       "headline": "How a Man Once Ordered to Pay Libel Damages Helped Launch an Investigation Into Islamic Private Schools",
       "excerpt": "The post How a Man Once Ordered to Pay Libel Damages Helped Launch an Investigation Into Islamic Private Schools appeared first on ProPublica.",
       "link": "https://www.propublica.org/article/islamic-private-schools-texas-vouchers-sam-westrop",
       "published": "2026-07-18T03:10:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "6ac414e4d1b6",
-      "source": "Dropsite News",
-      "headline": "U.S. bombs civilian infrastructure in Iran; Israeli attacks in Gaza at highest level since “ceasefire”; Rubio urges crackdown on “far-left terrorists”",
-      "excerpt": "Drop Site Daily: July 17, 2026",
-      "link": "https://www.dropsitenews.com/p/us-iran-civilian-infrastructure-israel-gaza-rubio-crackdown-left",
-      "published": "2026-07-17T15:48:28+00:00",
       "featured": false
     },
     {
@@ -470,12 +470,21 @@
       "featured": false
     },
     {
-      "id": "2c0d87cbddc0",
+      "id": "dc53e179384e",
       "source": "Al Jazeera",
-      "headline": "Ukraine hits more warehouses of top Russian online retailer",
-      "excerpt": "Ukrainian drones have hit two more warehouses belonging to Russia’s biggest online retailer Wildberries.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/22/ukraine-hits-more-warehouses-of-top-russian-online-retailer?traffic_source=rss",
-      "published": "2026-07-22T10:22:06+00:00",
+      "headline": "The Indian football tournament where goats replace trophies",
+      "excerpt": "GOATs are not players, but prizes at this football tournament in eastern India.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/22/the-indian-football-tournament-where-goats-replace-trophies?traffic_source=rss",
+      "published": "2026-07-22T13:19:22+00:00",
+      "featured": false
+    },
+    {
+      "id": "55f8d8a2dda6",
+      "source": "404 Media",
+      "headline": "AI Companies Are Buying Tons of Old Books Because They're Free of AI Slop",
+      "excerpt": "ISBNdb, a company that sources printed books for AI companies to turn into training data, tells clients “the optics problem is real.”",
+      "link": "https://www.404media.co/ai-companies-are-buying-tons-of-old-books-because-theyre-free-of-ai-slop/",
+      "published": "2026-07-21T13:51:39+00:00",
       "featured": false
     },
     {
@@ -515,21 +524,12 @@
       "featured": false
     },
     {
-      "id": "c3ad7f809f1e",
-      "source": "404 Media",
-      "headline": "You're Invited: 404 Media's Third Anniversary Live Podcast and Party!",
-      "excerpt": "We're celebrating with TWO NIGHTS of good times: A live taping of the podcast, and a party the following night! Paid 404 Media subscribers get free and discounted access. Details below.",
-      "link": "https://www.404media.co/three-years/",
-      "published": "2026-07-17T16:15:53+00:00",
-      "featured": false
-    },
-    {
-      "id": "eb11332b5e36",
+      "id": "6ac414e4d1b6",
       "source": "Dropsite News",
-      "headline": "Recording Shows UAW Federal Monitor Pressured Union President Over Israel",
-      "excerpt": "Tlaib calls for UAW federal monitor Neil Barofsky to resign after recording undercuts his claims about interactions with union President Shawn Fain",
-      "link": "https://www.dropsitenews.com/p/uaw-shawn-fain-neil-barofsky-recording-israel-gaza",
-      "published": "2026-07-17T13:33:50+00:00",
+      "headline": "U.S. bombs civilian infrastructure in Iran; Israeli attacks in Gaza at highest level since “ceasefire”; Rubio urges crackdown on “far-left terrorists”",
+      "excerpt": "Drop Site Daily: July 17, 2026",
+      "link": "https://www.dropsitenews.com/p/us-iran-civilian-infrastructure-israel-gaza-rubio-crackdown-left",
+      "published": "2026-07-17T15:48:28+00:00",
       "featured": false
     },
     {
