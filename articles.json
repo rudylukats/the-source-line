@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-07-23T16:47:06.637325+00:00",
+  "generated_at": "2026-07-23T19:46:18.747986+00:00",
   "articles": [
+    {
+      "id": "e1cf0f04eda1",
+      "source": "Al Jazeera",
+      "headline": "Journalist killed in Mexico after years of exposing corruption",
+      "excerpt": "Mexican journalist Alejandro Leyva Aguilar was shot dead while eating at a street food stall in Oaxaca.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/23/journalist-killed-in-mexico-after-years-of-exposing-corruption?traffic_source=rss",
+      "published": "2026-07-23T19:40:27+00:00",
+      "featured": true
+    },
+    {
+      "id": "17b8c866ab20",
+      "source": "The Intercept",
+      "headline": "Trump’s Crypto Corruption Puts Centrist Democrats in Bind",
+      "excerpt": "Moderate Democrats want to put a stop to Trump’s meme coin self-dealing. But that might cut off campaign donations from crypto interests. The post Trump’s Crypto Corruption Puts Centrist Democrats in Bind appeared first...",
+      "link": "https://theintercept.com/2026/07/23/trump-crypto-conflict-clarity-act-democrats/",
+      "published": "2026-07-23T18:56:45+00:00",
+      "featured": true
+    },
+    {
+      "id": "ce3023b3fffb",
+      "source": "Dropsite News",
+      "headline": "Prosecutor Investigating U.S. Boat Strikes and Claims of Torture Was Murdered in Ecuador",
+      "excerpt": "New evidence has emerged of U.S. Coast Guard activity in the aftermath of two strikes, further corroborating survivor testimony.",
+      "link": "https://www.dropsitenews.com/p/prosecutor-investigating-ecuador-boat-strikes-murdered",
+      "published": "2026-07-23T17:53:09+00:00",
+      "featured": true
+    },
+    {
+      "id": "ea65ddbbfcbd",
+      "source": "OCCRP",
+      "headline": "EU Prosecutors Raid Two Latvian Hospitals in Fraud Probe",
+      "excerpt": "",
+      "link": "https://www.occrp.org/en/news/eu-prosecutors-raid-two-latvian-hospitals-in-fraud-probe",
+      "published": "2026-07-23T17:17:00+00:00",
+      "featured": false
+    },
     {
       "id": "0106dc40c1a9",
       "source": "The Lever",
@@ -8,25 +44,7 @@
       "excerpt": "At America’s biggest corporations, low wages mean thousands of workers rely on federal food stamps to get by.",
       "link": "https://www.levernews.com/the-snap-subsidy/",
       "published": "2026-07-23T16:23:23+00:00",
-      "featured": true
-    },
-    {
-      "id": "5e0ac73596f4",
-      "source": "Al Jazeera",
-      "headline": "Yemen faces a new challenge amid prospects of confrontation",
-      "excerpt": "What is the military balance of power in Yemen and the likelihood of confrontation between the government and Houthis?",
-      "link": "https://www.aljazeera.com/news/2026/7/23/yemen-faces-a-new-challenge-amid-prospects-of-confrontation?traffic_source=rss",
-      "published": "2026-07-23T16:17:44+00:00",
-      "featured": true
-    },
-    {
-      "id": "c4392fa58ab5",
-      "source": "Dropsite News",
-      "headline": "Ansarallah strikes two Saudi tankers; Oil surges past $100; Over 4,200 Israeli settlers storm Al-Aqsa",
-      "excerpt": "Drop Site Daily: July 23, 2026",
-      "link": "https://www.dropsitenews.com/p/ansarallah-saudi-tankers-oil-surge-israel-palestine-settlers-aqsa-mosque",
-      "published": "2026-07-23T15:49:05+00:00",
-      "featured": true
+      "featured": false
     },
     {
       "id": "d2c9e5010902",
@@ -53,24 +71,6 @@
       "excerpt": "As the U.S. races to bypass China, the global hunger for critical minerals is financing warlords and poisoning Myanmar's borderlands.",
       "link": "https://restofworld.org/2026/myanmar-china-rare-earths-damage/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "published": "2026-07-23T15:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "85e56e3f052a",
-      "source": "OCCRP",
-      "headline": "Kazakhstan Sentences 27 in $6.4 Million Fake Farm-Loan Scheme",
-      "excerpt": "",
-      "link": "https://www.occrp.org/en/news/kazakhstan-sentences-27-in-64-million-fake-farm-loan-scheme",
-      "published": "2026-07-23T13:02:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "191a98657510",
-      "source": "The Intercept",
-      "headline": "On a West Bank Eviction Tour, Israeli Settlers Advertise “No Arabs Here”",
-      "excerpt": "Israelis celebrated evicting Palestinians on a tour of the West Bank, where government-backed settler violence has spiked. The post On a West Bank Eviction Tour, Israeli Settlers Advertise “No Arabs Here” appeared first...",
-      "link": "https://theintercept.com/2026/07/23/west-bank-israeli-settlers-palestine/",
-      "published": "2026-07-23T09:58:00+00:00",
       "featured": false
     },
     {
@@ -101,12 +101,30 @@
       "featured": false
     },
     {
-      "id": "9eb8b4543baa",
+      "id": "e205dfa9afb4",
       "source": "Al Jazeera",
-      "headline": "US House votes to limit Iran war for first time since ceasefire breakdown",
-      "excerpt": "The Senate was also expected to vote on War Powers resolution, in largely symbolic move attempting to reign in Trump.",
-      "link": "https://www.aljazeera.com/news/2026/7/23/us-house-votes-to-limit-iran-war-for-first-time-since-ceasefire-breakdown?traffic_source=rss",
-      "published": "2026-07-23T16:12:43+00:00",
+      "headline": "Resumption of oil exports: Will Yemen recover its economic lifeline?",
+      "excerpt": "Yemen has proven oil reserves estimated at three billion barrels, but the security environment hinders its export.",
+      "link": "https://www.aljazeera.com/economy/2026/7/23/resumption-of-oil-exports-will-yemen-recover-its-economic-lifeline?traffic_source=rss",
+      "published": "2026-07-23T19:28:24+00:00",
+      "featured": false
+    },
+    {
+      "id": "cf56fde41b9f",
+      "source": "Dropsite News",
+      "headline": "Asesinan A La Fiscal Que Investigaba Los Ataques Estadounidenses Contra Pescadores Ecuatorianos y Denuncias De Tortura",
+      "excerpt": "Han surgido nuevas pruebas sobre la actividad de la Guardia Costera Estadounidense tras dos ataques, lo cual corrobora el testimonio de los sobrevivientes.",
+      "link": "https://www.dropsitenews.com/p/asesinan-a-la-fiscal-que-investigaba",
+      "published": "2026-07-23T17:50:20+00:00",
+      "featured": false
+    },
+    {
+      "id": "7f255a09f6e8",
+      "source": "OCCRP",
+      "headline": "Videos of Torture for Millions in Ransom: Ethiopia Smashes Notorious Trafficking Ring",
+      "excerpt": "Ethiopian authorities have arrested 17 key operatives behind a brutal human trafficking syndicate that trapped tens of thousands of migrants in Yemen, systematically filming their torture to extort millions from...",
+      "link": "https://www.occrp.org/en/news/videos-of-torture-for-millions-in-ransom-ethiopia-smashes-notorious-trafficking-ring",
+      "published": "2026-07-23T16:56:00+00:00",
       "featured": false
     },
     {
@@ -119,15 +137,6 @@
       "featured": false
     },
     {
-      "id": "da5ab9703a0b",
-      "source": "OCCRP",
-      "headline": "Popular EU Mobile Apps with Security Gaps Lead to Belarus and Russia",
-      "excerpt": "Mobile apps that appear to be Lithuanian were developed by a Belarusian company, raising risks that exiled activists could be surveilled by security agents from the authoritarian country.",
-      "link": "https://www.occrp.org/en/news/popular-eu-mobile-apps-with-security-gaps-lead-to-belarus-and-russia",
-      "published": "2026-07-23T12:14:00+00:00",
-      "featured": false
-    },
-    {
       "id": "84aa01a1ef6e",
       "source": "Rest of World",
       "headline": "Fed up with Big Tech, communities turn to data collectives for control",
@@ -137,12 +146,12 @@
       "featured": false
     },
     {
-      "id": "5347d357faf6",
+      "id": "191a98657510",
       "source": "The Intercept",
-      "headline": "GOP Rep. Called Israeli–U.S. Defense Tech Integration “Dangerous.” The House Passed It Anyway.",
-      "excerpt": "Rep. Thomas Massie had tried to strip the provision from the $1.15 trillion Pentagon budget, calling it “lopsided” in Israel’s favor. The post GOP Rep. Called Israeli–U.S. Defense Tech Integration “Dangerous.” The House...",
-      "link": "https://theintercept.com/2026/07/22/ndaa-defense-bill-pentagon-israel-massie/",
-      "published": "2026-07-22T22:13:33+00:00",
+      "headline": "On a West Bank Eviction Tour, Israeli Settlers Advertise “No Arabs Here”",
+      "excerpt": "Israelis celebrated evicting Palestinians on a tour of the West Bank, where government-backed settler violence has spiked. The post On a West Bank Eviction Tour, Israeli Settlers Advertise “No Arabs Here” appeared first...",
+      "link": "https://theintercept.com/2026/07/23/west-bank-israeli-settlers-palestine/",
+      "published": "2026-07-23T09:58:00+00:00",
       "featured": false
     },
     {
@@ -152,15 +161,6 @@
       "excerpt": "Financial disclosures reveal Trump’s CFPB pick advised companies accused of ripping off consumers — and if confirmed, he won’t recuse himself from overseeing them.",
       "link": "https://www.levernews.com/trumps-consumer-watchdog-pick-worked-for-companies-the-agency-sued/",
       "published": "2026-07-22T21:02:15+00:00",
-      "featured": false
-    },
-    {
-      "id": "ec99fa5bc1ab",
-      "source": "Dropsite News",
-      "headline": "Israel Firebombed a Family Home Where Children Were Sleeping in Latest Killing Spree",
-      "excerpt": "As the world focuses on the renewed U.S. war with Iran, Israel has killed nearly 60 Palestinians over the past week and moved to occupy close to 70 percent of Gaza.",
-      "link": "https://www.dropsitenews.com/p/gaza-israel-escalated-attacks-yellow-line-displacement",
-      "published": "2026-07-22T21:00:25+00:00",
       "featured": false
     },
     {
@@ -200,12 +200,21 @@
       "featured": false
     },
     {
-      "id": "d803c3c4219f",
+      "id": "931a86c17c4a",
       "source": "Al Jazeera",
-      "headline": "The missing half of mediation",
-      "excerpt": "The future of diplomacy between the US and Iran depends on giving mediators the backing needed to make agreements stick.",
-      "link": "https://www.aljazeera.com/opinions/2026/7/23/the-missing-half-of-mediation?traffic_source=rss",
-      "published": "2026-07-23T16:08:54+00:00",
+      "headline": "Can India’s youth-led protest movement bring lasting change?",
+      "excerpt": "Protesters refuse to back down until Education Minister Dharmendra Pradhan resigns.",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/7/23/can-indias-youth-led-protest-movement-bring-lasting-change?traffic_source=rss",
+      "published": "2026-07-23T19:11:37+00:00",
+      "featured": false
+    },
+    {
+      "id": "c4392fa58ab5",
+      "source": "Dropsite News",
+      "headline": "Ansarallah strikes two Saudi tankers; Oil surges past $100; Over 4,200 Israeli settlers storm Al-Aqsa",
+      "excerpt": "Drop Site Daily: July 23, 2026",
+      "link": "https://www.dropsitenews.com/p/ansarallah-saudi-tankers-oil-surge-israel-palestine-settlers-aqsa-mosque",
+      "published": "2026-07-23T15:49:05+00:00",
       "featured": false
     },
     {
@@ -218,6 +227,24 @@
       "featured": false
     },
     {
+      "id": "85e56e3f052a",
+      "source": "OCCRP",
+      "headline": "Kazakhstan Sentences 27 in $6.4 Million Fake Farm-Loan Scheme",
+      "excerpt": "",
+      "link": "https://www.occrp.org/en/news/kazakhstan-sentences-27-in-64-million-fake-farm-loan-scheme",
+      "published": "2026-07-23T13:02:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "5347d357faf6",
+      "source": "The Intercept",
+      "headline": "GOP Rep. Called Israeli–U.S. Defense Tech Integration “Dangerous.” The House Passed It Anyway.",
+      "excerpt": "Rep. Thomas Massie had tried to strip the provision from the $1.15 trillion Pentagon budget, calling it “lopsided” in Israel’s favor. The post GOP Rep. Called Israeli–U.S. Defense Tech Integration “Dangerous.” The House...",
+      "link": "https://theintercept.com/2026/07/22/ndaa-defense-bill-pentagon-israel-massie/",
+      "published": "2026-07-22T22:13:33+00:00",
+      "featured": false
+    },
+    {
       "id": "0f839211273c",
       "source": "The Lever",
       "headline": "Midterm Madness: Defeat in the Desert",
@@ -227,39 +254,12 @@
       "featured": false
     },
     {
-      "id": "13be1b60c3fc",
-      "source": "Dropsite News",
-      "headline": "Trump threatens Iran’s bridges and power plants over Hormuz; U.S. and Saudi agree to nuclear deal; RSF drone kills 21 in North Darfur",
-      "excerpt": "Drop Site Daily: July 22, 2026",
-      "link": "https://www.dropsitenews.com/p/trump-iran-infrastructure-hormuz-us-saudi-nuclear-rsf-sudan-darfur",
-      "published": "2026-07-22T15:59:26+00:00",
-      "featured": false
-    },
-    {
       "id": "5cc6eece6f03",
       "source": "Rest of World",
       "headline": "The U.S. wants to contain China’s AI. Silicon Valley keeps using it",
       "excerpt": "As Apple, Thinking Machines, and developers worldwide embrace Chinese AI models such as Kimi K3, U.S. policymakers are struggling to protect the AI lead.",
       "link": "https://restofworld.org/2026/china-siliconvalley-ai-moonshot-kimi/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "published": "2026-07-22T10:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "8056298557aa",
-      "source": "The Intercept",
-      "headline": "William Lawrence Is Running in a Purple Michigan District — on His Pro-Palestine Credentials",
-      "excerpt": "Democratic leaders keep backing centrists, but a Michigan progressive is trying to harness left-leaning energy on Palestine. The post William Lawrence Is Running in a Purple Michigan District — on His Pro-Palestine...",
-      "link": "https://theintercept.com/2026/07/22/michigan-primary-will-lawrence-palestine/",
-      "published": "2026-07-22T09:14:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "096fa8e67cb6",
-      "source": "OCCRP",
-      "headline": "Indonesia Sentences 19 in Syndicate that Trafficked Dozens of Babies",
-      "excerpt": "",
-      "link": "https://www.occrp.org/en/news/indonesia-sentences-19-in-syndicate-that-trafficked-dozens-of-babies",
-      "published": "2026-07-21T11:06:00+00:00",
       "featured": false
     },
     {
@@ -290,12 +290,12 @@
       "featured": false
     },
     {
-      "id": "cedd61d506b3",
+      "id": "71da70f3905a",
       "source": "Al Jazeera",
-      "headline": "Norway Viking Row gets ‘resign’ twist in ‘Cockroach’ protest",
-      "excerpt": "Cockroach Janty Party-led protesters in Mumbai, India recreated Norway’s viral Viking Row, replacing ‘ro’ with ‘resign’.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/23/norway-viking-row-gets-resign-twist-in-cockroach-protest?traffic_source=rss",
-      "published": "2026-07-23T15:53:45+00:00",
+      "headline": "Children wounded in Israeli strike on Khan Younis",
+      "excerpt": "Children were rushed to hospital after an Israeli strike hit a tent sheltering displaced people in Khan Younis.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/23/children-wounded-in-israeli-strike-on-khan-younis?traffic_source=rss",
+      "published": "2026-07-23T18:55:53+00:00",
       "featured": false
     },
     {
@@ -308,12 +308,21 @@
       "featured": false
     },
     {
-      "id": "4af7f179a0d0",
+      "id": "da5ab9703a0b",
+      "source": "OCCRP",
+      "headline": "Popular EU Mobile Apps with Security Gaps Lead to Belarus and Russia",
+      "excerpt": "Mobile apps that appear to be Lithuanian were developed by a Belarusian company, raising risks that exiled activists could be surveilled by security agents from the authoritarian country.",
+      "link": "https://www.occrp.org/en/news/popular-eu-mobile-apps-with-security-gaps-lead-to-belarus-and-russia",
+      "published": "2026-07-23T12:14:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "ec99fa5bc1ab",
       "source": "Dropsite News",
-      "headline": "Israel‘s Secret Sales Pitch to Provide Surveillance Drones to the UAE",
-      "excerpt": "Internal emails and documents reveal how Israel’s Elbit Systems worked to supply the UAE with drones and other weapons.",
-      "link": "https://www.dropsitenews.com/p/elbit-israel-uae-drones-hermes",
-      "published": "2026-07-22T12:00:06+00:00",
+      "headline": "Israel Firebombed a Family Home Where Children Were Sleeping in Latest Killing Spree",
+      "excerpt": "As the world focuses on the renewed U.S. war with Iran, Israel has killed nearly 60 Palestinians over the past week and moved to occupy close to 70 percent of Gaza.",
+      "link": "https://www.dropsitenews.com/p/gaza-israel-escalated-attacks-yellow-line-displacement",
+      "published": "2026-07-22T21:00:25+00:00",
       "featured": false
     },
     {
@@ -326,21 +335,12 @@
       "featured": false
     },
     {
-      "id": "cdd11330d791",
+      "id": "8056298557aa",
       "source": "The Intercept",
-      "headline": "“Cover-Up” Unravels as Pentagon Admits Nearly 100 Injured in Iran Strikes",
-      "excerpt": "The Department of War disclosed a massive spike in U.S. military casualties, but it’s still not showing in the official count. The post “Cover-Up” Unravels as Pentagon Admits Nearly 100 Injured in Iran Strikes appeared...",
-      "link": "https://theintercept.com/2026/07/21/iran-war-pentagon-casualties-injuries/",
-      "published": "2026-07-21T15:03:52+00:00",
-      "featured": false
-    },
-    {
-      "id": "03321aa363ce",
-      "source": "OCCRP",
-      "headline": "UN Report Details Southeast Asia’s Interconnected Criminal Economy",
-      "excerpt": "Scams across East and Southeast Asia, Australia and New Zealand caused estimated losses of as much as $114.1 billion in 2025, according to a U.N. report examining the infrastructure shared by criminal networks.",
-      "link": "https://www.occrp.org/en/news/un-report-details-southeast-asias-interconnected-criminal-economy",
-      "published": "2026-07-21T10:47:00+00:00",
+      "headline": "William Lawrence Is Running in a Purple Michigan District — on His Pro-Palestine Credentials",
+      "excerpt": "Democratic leaders keep backing centrists, but a Michigan progressive is trying to harness left-leaning energy on Palestine. The post William Lawrence Is Running in a Purple Michigan District — on His Pro-Palestine...",
+      "link": "https://theintercept.com/2026/07/22/michigan-primary-will-lawrence-palestine/",
+      "published": "2026-07-22T09:14:00+00:00",
       "featured": false
     },
     {
@@ -380,12 +380,12 @@
       "featured": false
     },
     {
-      "id": "8852babf7aa0",
+      "id": "51ea342f37fc",
       "source": "Al Jazeera",
-      "headline": "Two Palestinians shot dead by Israeli forces as West Bank fields set ablaze",
-      "excerpt": "Two men were killed in the town of Beit Furik, east of Nablus. An Israeli settler was also reportedly stabbed.",
-      "link": "https://www.aljazeera.com/news/2026/7/23/two-palestinians-shot-dead-by-israeli-forces-as-west-bank-fields-set-ablaze?traffic_source=rss",
-      "published": "2026-07-23T15:52:58+00:00",
+      "headline": "World Bank estimates Venezuela earthquakes caused $19.6bn in damage",
+      "excerpt": "Report says 47 percent of physical damage from pair of earthquakes impacted residential buildings.",
+      "link": "https://www.aljazeera.com/news/2026/7/23/world-bank-estimates-venezuela-earthquakes-caused-19-6bn-in-damage?traffic_source=rss",
+      "published": "2026-07-23T18:41:22+00:00",
       "featured": false
     },
     {
@@ -398,6 +398,15 @@
       "featured": false
     },
     {
+      "id": "13be1b60c3fc",
+      "source": "Dropsite News",
+      "headline": "Trump threatens Iran’s bridges and power plants over Hormuz; U.S. and Saudi agree to nuclear deal; RSF drone kills 21 in North Darfur",
+      "excerpt": "Drop Site Daily: July 22, 2026",
+      "link": "https://www.dropsitenews.com/p/trump-iran-infrastructure-hormuz-us-saudi-nuclear-rsf-sudan-darfur",
+      "published": "2026-07-22T15:59:26+00:00",
+      "featured": false
+    },
+    {
       "id": "fc773c275786",
       "source": "The Lever",
       "headline": "Francesca Hong Wants To Be America’s First Socialist Governor",
@@ -407,30 +416,21 @@
       "featured": false
     },
     {
-      "id": "ddce38c0a31c",
-      "source": "Dropsite News",
-      "headline": "The Gulf War and the Battle For Michigan",
-      "excerpt": "Watch now | The impact of the Iran war on the Gulf states—and the upcoming Democratic primary races in Michigan.",
-      "link": "https://www.dropsitenews.com/p/iran-gulf-war-michigan-primary-election-will-lawrence",
-      "published": "2026-07-21T20:21:15+00:00",
-      "featured": false
-    },
-    {
-      "id": "e6be421b584b",
+      "id": "cdd11330d791",
       "source": "The Intercept",
-      "headline": "ICE Mandates Dress Code After Killings and Botched Arrest",
-      "excerpt": "Updates to ICE’s code of conduct ban deportation officers from wearing jeans, hoodies, and graphic tees, according to a leaked document. The post ICE Mandates Dress Code After Killings and Botched Arrest appeared first...",
-      "link": "https://theintercept.com/2026/07/21/ice-undercover-plainclothes-uniform/",
-      "published": "2026-07-21T14:05:04+00:00",
+      "headline": "“Cover-Up” Unravels as Pentagon Admits Nearly 100 Injured in Iran Strikes",
+      "excerpt": "The Department of War disclosed a massive spike in U.S. military casualties, but it’s still not showing in the official count. The post “Cover-Up” Unravels as Pentagon Admits Nearly 100 Injured in Iran Strikes appeared...",
+      "link": "https://theintercept.com/2026/07/21/iran-war-pentagon-casualties-injuries/",
+      "published": "2026-07-21T15:03:52+00:00",
       "featured": false
     },
     {
-      "id": "7848ec6396a6",
+      "id": "096fa8e67cb6",
       "source": "OCCRP",
-      "headline": "Sinaloa Cartel Co-Founder 'El Mayo' Zambada Sentenced to Life in US Prison",
-      "excerpt": "The historic conviction marks the fall of one of the world's last original drug lords, leaving the powerful Sinaloa Cartel facing a massive internal succession battle.",
-      "link": "https://www.occrp.org/en/news/sinaloa-cartel-co-founder-el-mayo-zambada-sentenced-to-life-in-us-prison",
-      "published": "2026-07-20T16:51:00+00:00",
+      "headline": "Indonesia Sentences 19 in Syndicate that Trafficked Dozens of Babies",
+      "excerpt": "",
+      "link": "https://www.occrp.org/en/news/indonesia-sentences-19-in-syndicate-that-trafficked-dozens-of-babies",
+      "published": "2026-07-21T11:06:00+00:00",
       "featured": false
     },
     {
@@ -470,12 +470,12 @@
       "featured": false
     },
     {
-      "id": "0a80f09c8866",
+      "id": "63039da1da36",
       "source": "Al Jazeera",
-      "headline": "In India, fear has switched sides",
-      "excerpt": "By refusing to be intimidated, India’s students have turned a protest over education into a crisis for Narendra Modi.",
-      "link": "https://www.aljazeera.com/opinions/2026/7/23/in-india-fear-has-switched-sides?traffic_source=rss",
-      "published": "2026-07-23T15:36:58+00:00",
+      "headline": "Iraqi PM makes first official visit to Iran in bid to deepen ties",
+      "excerpt": "Ali al-Zaidi will hold talks with senior Iranian officials on cooperation, shared interests and security.",
+      "link": "https://www.aljazeera.com/news/2026/7/23/iraqi-pm-makes-first-official-visit-to-iran-to-deepen-ties?traffic_source=rss",
+      "published": "2026-07-23T18:34:41+00:00",
       "featured": false
     },
     {
@@ -488,12 +488,12 @@
       "featured": false
     },
     {
-      "id": "6221590b0ecf",
+      "id": "4af7f179a0d0",
       "source": "Dropsite News",
-      "headline": "In Southern Lebanon, a Gloss of Diplomacy Can't Hide the Reality of Occupation",
-      "excerpt": "Occupied by Israeli forces and depopulated, Majdal Zoun overlooks the nearby village of Al-Mansouri, where the few remaining residents come under Israeli attack on a near daily basis.",
-      "link": "https://www.dropsitenews.com/p/lebanon-israel-mansouri-majdal-zoun-occupation-aoun-trump-framework-hezbollah",
-      "published": "2026-07-21T19:14:53+00:00",
+      "headline": "Israel‘s Secret Sales Pitch to Provide Surveillance Drones to the UAE",
+      "excerpt": "Internal emails and documents reveal how Israel’s Elbit Systems worked to supply the UAE with drones and other weapons.",
+      "link": "https://www.dropsitenews.com/p/elbit-israel-uae-drones-hermes",
+      "published": "2026-07-22T12:00:06+00:00",
       "featured": false
     },
     {
@@ -506,21 +506,21 @@
       "featured": false
     },
     {
-      "id": "c0b14244837c",
+      "id": "e6be421b584b",
       "source": "The Intercept",
-      "headline": "Nancy Pelosi’s Pick for Her SF House Seat Takes Anti-AIPAC Pledge",
-      "excerpt": "House candidate Connie Chan is backed by Pelosi, Adam Schiff, and now TrackAIPAC, signaling the growing influence of a politics skeptical of Israel. The post Nancy Pelosi’s Pick for Her SF House Seat Takes Anti-AIPAC...",
-      "link": "https://theintercept.com/2026/07/21/connie-chan-san-francisco-aipac-pelosi/",
-      "published": "2026-07-21T11:59:00+00:00",
+      "headline": "ICE Mandates Dress Code After Killings and Botched Arrest",
+      "excerpt": "Updates to ICE’s code of conduct ban deportation officers from wearing jeans, hoodies, and graphic tees, according to a leaked document. The post ICE Mandates Dress Code After Killings and Botched Arrest appeared first...",
+      "link": "https://theintercept.com/2026/07/21/ice-undercover-plainclothes-uniform/",
+      "published": "2026-07-21T14:05:04+00:00",
       "featured": false
     },
     {
-      "id": "1e762ce56ce6",
+      "id": "03321aa363ce",
       "source": "OCCRP",
-      "headline": "Serbian Football Star Files Police Complaint Over Former Chief's Intimidation Plot",
-      "excerpt": "International star Nemanja Matić joins Nemanja Vidić in taking legal action after leaked encrypted chats revealed a former football chief's plot to silence critics.",
-      "link": "https://www.occrp.org/en/news/serbian-football-star-files-police-complaint-over-former-chiefs-intimidation-plot",
-      "published": "2026-07-20T16:26:00+00:00",
+      "headline": "UN Report Details Southeast Asia’s Interconnected Criminal Economy",
+      "excerpt": "Scams across East and Southeast Asia, Australia and New Zealand caused estimated losses of as much as $114.1 billion in 2025, according to a U.N. report examining the infrastructure shared by criminal networks.",
+      "link": "https://www.occrp.org/en/news/un-report-details-southeast-asias-interconnected-criminal-economy",
+      "published": "2026-07-21T10:47:00+00:00",
       "featured": false
     },
     {
