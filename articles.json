@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-07-22T22:16:30.242788+00:00",
+  "generated_at": "2026-07-23T03:45:30.459403+00:00",
   "articles": [
+    {
+      "id": "1d3e2ae6e081",
+      "source": "Al Jazeera",
+      "headline": "In Gaza, a long path to recovery for one woman who lost eye, and daughter",
+      "excerpt": "Psychological wounds compound Najwa's physical injuries after losing her daughter in an Israeli air strike.",
+      "link": "https://www.aljazeera.com/features/2026/7/23/in-gaza-a-long-path-to-recovery-for-one-woman-who-lost-eye-and-daughter?traffic_source=rss",
+      "published": "2026-07-23T03:07:01+00:00",
+      "featured": true
+    },
     {
       "id": "5347d357faf6",
       "source": "The Intercept",
@@ -8,15 +17,6 @@
       "excerpt": "Rep. Thomas Massie had tried to strip the provision from the $1.15 trillion Pentagon budget, calling it “lopsided” in Israel’s favor. The post GOP Rep. Called Israeli–U.S. Defense Tech Integration “Dangerous.” The House...",
       "link": "https://theintercept.com/2026/07/22/ndaa-defense-bill-pentagon-israel-massie/",
       "published": "2026-07-22T22:13:33+00:00",
-      "featured": true
-    },
-    {
-      "id": "08b7e9177949",
-      "source": "Al Jazeera",
-      "headline": "Iranian missiles show deadly precision amid US-Iran war escalation",
-      "excerpt": "Killing of three US soldiers at Jordan base shows Iran maintains the ability to exact deadly toll in grinding conflict.",
-      "link": "https://www.aljazeera.com/news/2026/7/22/iranian-missiles-show-deadly-precision-amid-us-iran-war-escalation?traffic_source=rss",
-      "published": "2026-07-22T22:03:13+00:00",
       "featured": true
     },
     {
@@ -101,12 +101,12 @@
       "featured": false
     },
     {
-      "id": "7c7c5532eb46",
+      "id": "089c29514706",
       "source": "Al Jazeera",
-      "headline": "Iran warns of regional turmoil if US threats and attacks do not stop",
-      "excerpt": "Tehran's chief negotiator says if Iran's 'security is not ensured, no infrastructure will be safe'.",
-      "link": "https://www.aljazeera.com/news/2026/7/22/iran-warns-of-regional-turmoil-if-us-threats-and-attacks-do-not?traffic_source=rss",
-      "published": "2026-07-22T21:41:32+00:00",
+      "headline": "Why Abderrahim Fakir’s death reignited Italy’s police accountability debate",
+      "excerpt": "A Moroccan-born man’s death in Bologna has prompted anger and renewed scrutiny of Italy’s policing and legal reforms.",
+      "link": "https://www.aljazeera.com/news/2026/7/23/why-abderrahim-fakirs-death-reignited-italys-police-accountability-debate?traffic_source=rss",
+      "published": "2026-07-23T01:44:30+00:00",
       "featured": false
     },
     {
@@ -200,12 +200,12 @@
       "featured": false
     },
     {
-      "id": "97162c7fa8b7",
+      "id": "6f66b362a154",
       "source": "Al Jazeera",
-      "headline": "Wounded Gaza journalists call for urgent medical evacuation",
-      "excerpt": "Wounded and chronically ill Palestinian journalists held a protest calling for urgent medical evacuation from Gaza.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/22/wounded-gaza-journalists-call-for-urgent-medical-evacuation?traffic_source=rss",
-      "published": "2026-07-22T21:36:37+00:00",
+      "headline": "Spain and France battle raging wildfires, face high risk of more",
+      "excerpt": "A wildfire in Spain's Guadalajara region has burned 32,000 hectares, in one of the country's largest recorded blazes.",
+      "link": "https://www.aljazeera.com/news/2026/7/23/spain-and-france-battle-raging-wildfires-face-high-risk-of-more?traffic_source=rss",
+      "published": "2026-07-23T01:23:57+00:00",
       "featured": false
     },
     {
@@ -290,12 +290,12 @@
       "featured": false
     },
     {
-      "id": "3e8609a1d5bc",
+      "id": "6d04fbc11a36",
       "source": "Al Jazeera",
-      "headline": "US and Saudi Arabia announce nuclear cooperation deal",
-      "excerpt": "Trump administration says 'historic' agreement will 'reinforce global nonproliferation standards' and create jobs in US.",
-      "link": "https://www.aljazeera.com/news/2026/7/22/us-and-saudi-arabia-announce-nuclear-cooperation-deal?traffic_source=rss",
-      "published": "2026-07-22T21:30:25+00:00",
+      "headline": "US tariffs ‘strengthen’ Lula against Bolsonaro’s son in upcoming elections",
+      "excerpt": "With Lula polling ahead and tariffs squeezing Brazil's economy, the Bolsonaro family's Washington strategy is faltering.",
+      "link": "https://www.aljazeera.com/news/2026/7/23/us-tariffs-strengthen-lula-against-bolsonaros-son-in-upcoming-elections?traffic_source=rss",
+      "published": "2026-07-23T01:20:37+00:00",
       "featured": false
     },
     {
@@ -380,12 +380,12 @@
       "featured": false
     },
     {
-      "id": "6756dbfc89ee",
+      "id": "5c0269b1f072",
       "source": "Al Jazeera",
-      "headline": "India’s Rahul Gandhi speaks out after release",
-      "excerpt": "Indian opposition leader Rahul Gandhi has spoken out publicly for the first time since he was arrested during protests.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/22/indias-rahul-gandhi-speaks-out-after-release?traffic_source=rss",
-      "published": "2026-07-22T20:59:28+00:00",
+      "headline": "US House passes $1.15 trillion military bill expanding Israel cooperation",
+      "excerpt": "Bill to fund war on Iran and a handful of Trump priorities passes largely along party lines, faces Senate uncertainty.",
+      "link": "https://www.aljazeera.com/news/2026/7/23/us-house-passes-1-15-trillion-military-bill-expanding-israel-cooperation?traffic_source=rss",
+      "published": "2026-07-23T00:29:52+00:00",
       "featured": false
     },
     {
@@ -470,12 +470,12 @@
       "featured": false
     },
     {
-      "id": "9eb5fe969f48",
+      "id": "843471dc89ca",
       "source": "Al Jazeera",
-      "headline": "US regulators to weigh controversial peptides backed by RFK Jr",
-      "excerpt": "FDA has questioned the evidence as demand surges for the compounds promoted for sleep, muscle growth, and anti-ageing.",
-      "link": "https://www.aljazeera.com/news/2026/7/22/us-regulators-to-weigh-controversial-peptides-backed-by-rfk-jr?traffic_source=rss",
-      "published": "2026-07-22T20:39:14+00:00",
+      "headline": "AI, China, ‘dark factories’ and the future of the US auto industry",
+      "excerpt": "Economist Mary Lovely dismisses the claims that getting automakers to produce more cars in America proves tariffs work.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/23/ai-china-dark-factories-and-the-future-of-the-us-auto-industry?traffic_source=rss",
+      "published": "2026-07-23T00:25:49+00:00",
       "featured": false
     },
     {
