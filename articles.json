@@ -1,13 +1,31 @@
 {
-  "generated_at": "2026-07-23T11:20:22.790488+00:00",
+  "generated_at": "2026-07-23T14:33:02.235598+00:00",
   "articles": [
     {
-      "id": "acbfb67aaae2",
+      "id": "03f20ea8d1a5",
+      "source": "404 Media",
+      "headline": "Leaked Document Shows the Surveillance Tech at ICE’s Fingertips",
+      "excerpt": "From phone location data, to social media monitoring, to online undercover tools, a document obtained by 404 Media lays out the surveillance tech available across ICE agency wide.",
+      "link": "https://www.404media.co/leaked-document-shows-the-surveillance-tech-at-ices-fingertips/",
+      "published": "2026-07-23T13:55:45+00:00",
+      "featured": true
+    },
+    {
+      "id": "23540c2f7465",
       "source": "Al Jazeera",
-      "headline": "Rubio says Iran ‘begging’ for a deal with US but not ready to make one",
-      "excerpt": "Secretary of state says US has 'a head for an eye' policy as strikes hit Iran for a 12th straight night.",
-      "link": "https://www.aljazeera.com/news/2026/7/23/rubio-says-iran-begging-for-a-deal-with-us-but-not-ready-to-make-one?traffic_source=rss",
-      "published": "2026-07-23T10:19:58+00:00",
+      "headline": "Why do some of the cheapest cities cost the most to live in?",
+      "excerpt": "A worker in Cairo can afford 22 hamburgers a month. In Tel Aviv, more than 200. AJLabs counts a salary in Big Mac meals.",
+      "link": "https://www.aljazeera.com/video/by-the-numbers-3/2026/7/23/why-do-some-of-the-cheapest-cities-cost-the-most-to-live-in?traffic_source=rss",
+      "published": "2026-07-23T13:46:28+00:00",
+      "featured": true
+    },
+    {
+      "id": "85e56e3f052a",
+      "source": "OCCRP",
+      "headline": "Kazakhstan Sentences 27 in $6.4 Million Fake Farm-Loan Scheme",
+      "excerpt": "",
+      "link": "https://www.occrp.org/en/news/kazakhstan-sentences-27-in-64-million-fake-farm-loan-scheme",
+      "published": "2026-07-23T13:02:00+00:00",
       "featured": true
     },
     {
@@ -17,16 +35,16 @@
       "excerpt": "Data collectives and cooperatives, which let creators control the collection and distribution of their data, are emerging as preferred alternatives to big tech companies.",
       "link": "https://restofworld.org/2026/ai-data-collectives-mozilla/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "published": "2026-07-23T10:00:00+00:00",
-      "featured": true
+      "featured": false
     },
     {
       "id": "191a98657510",
       "source": "The Intercept",
-      "headline": "Israeli Settler-Soldiers Took Me on a West Bank Tour Celebrating Evictions of Palestinians",
-      "excerpt": "\"There are no Arabs here,” one soldier told me, as government-backed settler violence spikes. The post Israeli Settler-Soldiers Took Me on a West Bank Tour Celebrating Evictions of Palestinians appeared first on The...",
+      "headline": "On a West Bank Eviction Tour, Israeli Settlers Advertise “No Arabs Here”",
+      "excerpt": "Israelis celebrated evicting Palestinians on a tour of the West Bank, where government-backed settler violence has spiked. The post On a West Bank Eviction Tour, Israeli Settlers Advertise “No Arabs Here” appeared first...",
       "link": "https://theintercept.com/2026/07/23/west-bank-israeli-settlers-palestine/",
       "published": "2026-07-23T09:58:00+00:00",
-      "featured": true
+      "featured": false
     },
     {
       "id": "f6cd7bff4b58",
@@ -56,30 +74,12 @@
       "featured": false
     },
     {
-      "id": "508efc0789e9",
-      "source": "404 Media",
-      "headline": "What Happened When Flock Came to My Town",
-      "excerpt": "My small town in South Carolina will soon have more Flock cameras than police officers.",
-      "link": "https://www.404media.co/what-happened-when-flock-came-to-my-town/",
-      "published": "2026-07-22T18:33:44+00:00",
-      "featured": false
-    },
-    {
       "id": "cfb311dc7126",
       "source": "ICIJ",
       "headline": "Canadian intelligence flags crypto-to-cash services as ‘knowingly facilitating money laundering,’ document shows",
       "excerpt": "An internal report obtained says that crypto brokers are moving millions while dodging rules to guard against dirty money.",
       "link": "https://www.icij.org/investigations/coin-laundry/canadian-intelligence-flags-crypto-to-cash-services-as-knowingly-facilitating-money-laundering-document-shows/",
       "published": "2026-07-21T15:25:38+00:00",
-      "featured": false
-    },
-    {
-      "id": "096fa8e67cb6",
-      "source": "OCCRP",
-      "headline": "Indonesia Sentences 19 in Syndicate that Trafficked Dozens of Babies",
-      "excerpt": "",
-      "link": "https://www.occrp.org/en/news/indonesia-sentences-19-in-syndicate-that-trafficked-dozens-of-babies",
-      "published": "2026-07-21T11:06:00+00:00",
       "featured": false
     },
     {
@@ -101,12 +101,30 @@
       "featured": false
     },
     {
-      "id": "c741b884ddec",
+      "id": "996e3db81fff",
       "source": "Al Jazeera",
-      "headline": "Thai sailors sue owners of cargo ship hit in Hormuz",
-      "excerpt": "Thai sailors sue owners of cargo ship hit in Hormuz",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/23/thai-sailors-sue-owners-of-cargo-ship-hit-in-hormuz?traffic_source=rss",
-      "published": "2026-07-23T09:45:59+00:00",
+      "headline": "Kashmiri activist Khurram Parvez and journalist Irfan Mehraj freed on bail",
+      "excerpt": "Indian authorities release the two men after years in prison although both remain under tight court-imposed restrictions",
+      "link": "https://www.aljazeera.com/news/2026/7/23/kashmiri-activist-khurram-parvez-and-journalist-irfan-mehraj-freed-on-bail?traffic_source=rss",
+      "published": "2026-07-23T13:18:13+00:00",
+      "featured": false
+    },
+    {
+      "id": "67ee953df6b1",
+      "source": "404 Media",
+      "headline": "Orcas Explode Fish Into Confetti, Possibly for Fun, In ‘Astounding’ New Video",
+      "excerpt": "A team captured first-of-its-kind footage of orcas holding a sunfish carcass still and ramming it so hard that it burst into fragments, which may be a form of social play. “We could hear the sound,” said one researcher.",
+      "link": "https://www.404media.co/orcas-explode-fish-into-confetti-possibly-for-fun-in-astounding-new-video/",
+      "published": "2026-07-23T13:17:40+00:00",
+      "featured": false
+    },
+    {
+      "id": "da5ab9703a0b",
+      "source": "OCCRP",
+      "headline": "Popular EU Mobile Apps with Security Gaps Lead to Belarus and Russia",
+      "excerpt": "Mobile apps that appear to be Lithuanian were developed by a Belarusian company, raising risks that exiled activists could be surveilled by security agents from the authoritarian country.",
+      "link": "https://www.occrp.org/en/news/popular-eu-mobile-apps-with-security-gaps-lead-to-belarus-and-russia",
+      "published": "2026-07-23T12:14:00+00:00",
       "featured": false
     },
     {
@@ -137,15 +155,6 @@
       "featured": false
     },
     {
-      "id": "190bb20b8ac3",
-      "source": "404 Media",
-      "headline": "Flock ‘Objects to Our Removing Their Equipment’: Emails Reveal Why a Town Put Bags Over Its Flock Cameras",
-      "excerpt": "\"For the time being, if you or someone on your crew has availability to secure black plastic bags (or something else) over the cameras, that would be great.\"",
-      "link": "https://www.404media.co/flock-objects-to-our-removing-their-equipment-emails-reveal-why-a-town-put-bags-over-its-flock-cameras/",
-      "published": "2026-07-22T14:03:02+00:00",
-      "featured": false
-    },
-    {
       "id": "5cc6eece6f03",
       "source": "Rest of World",
       "headline": "The U.S. wants to contain China’s AI. Silicon Valley keeps using it",
@@ -161,15 +170,6 @@
       "excerpt": "The post How the Government’s Obligation to Keep Foreign Workers Safe Collided With Its Efforts to Keep Farms Afloat appeared first on ProPublica.",
       "link": "https://www.propublica.org/article/h-2a-farmworker-protections-profits-trump",
       "published": "2026-07-22T09:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "03321aa363ce",
-      "source": "OCCRP",
-      "headline": "UN Report Details Southeast Asia’s Interconnected Criminal Economy",
-      "excerpt": "Scams across East and Southeast Asia, Australia and New Zealand caused estimated losses of as much as $114.1 billion in 2025, according to a U.N. report examining the infrastructure shared by criminal networks.",
-      "link": "https://www.occrp.org/en/news/un-report-details-southeast-asias-interconnected-criminal-economy",
-      "published": "2026-07-21T10:47:00+00:00",
       "featured": false
     },
     {
@@ -200,21 +200,21 @@
       "featured": false
     },
     {
-      "id": "6bf802626d14",
+      "id": "1a153c9cdf26",
       "source": "Al Jazeera",
-      "headline": "Iran, Houthis strike tankers as US bombing continues: What’s the latest?",
-      "excerpt": "With the Houthi naval blockade, shipping disruptions now impact the Bab al-Mandeb strait in addition to Hormuz.",
-      "link": "https://www.aljazeera.com/news/2026/7/23/iran-houthis-strike-tankers-as-us-bombing-continues-whats-the-latest?traffic_source=rss",
-      "published": "2026-07-23T09:20:46+00:00",
+      "headline": "Rebuilding Gaza to cost $71bn, must include Palestinians, report finds",
+      "excerpt": "Rebuilding the enclave will cost seven times the combined cost of all past offensives, says joint report.",
+      "link": "https://www.aljazeera.com/news/2026/7/23/rebuilding-gaza-to-cost-71bn-must-include-palestinians-report-finds?traffic_source=rss",
+      "published": "2026-07-23T13:06:35+00:00",
       "featured": false
     },
     {
-      "id": "40e0a034a971",
+      "id": "7633c21bd755",
       "source": "404 Media",
-      "headline": "Podcast: Flock is Tracking People, Not Just Cars",
-      "excerpt": "How cops are using Flock to look for specific people; the company buying mountains of books for AI companies; and the big Suno hack.",
-      "link": "https://www.404media.co/podcast-flock-is-tracking-people-not-just-cars/",
-      "published": "2026-07-22T13:56:17+00:00",
+      "headline": "Our New FOIA Forum! 7/30, 1PM ET",
+      "excerpt": "Join us for our latest FOIA Forum where we teach you how to pry records from the government.",
+      "link": "https://www.404media.co/our-new-foia-forum-7-30-1pm-et/",
+      "published": "2026-07-23T11:52:00+00:00",
       "featured": false
     },
     {
@@ -245,6 +245,15 @@
       "featured": false
     },
     {
+      "id": "096fa8e67cb6",
+      "source": "OCCRP",
+      "headline": "Indonesia Sentences 19 in Syndicate that Trafficked Dozens of Babies",
+      "excerpt": "",
+      "link": "https://www.occrp.org/en/news/indonesia-sentences-19-in-syndicate-that-trafficked-dozens-of-babies",
+      "published": "2026-07-21T11:06:00+00:00",
+      "featured": false
+    },
+    {
       "id": "9043dcf2350e",
       "source": "Rest of World",
       "headline": "China’s AI talent race is starting in high school",
@@ -260,15 +269,6 @@
       "excerpt": "The post My Maddening Quest to Find Out if Blueberries Come From Farms Where Workers Were Harmed appeared first on ProPublica.",
       "link": "https://projects.propublica.org/blueberries-farmworker-mistreatment/",
       "published": "2026-07-21T09:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "7848ec6396a6",
-      "source": "OCCRP",
-      "headline": "Sinaloa Cartel Co-Founder 'El Mayo' Zambada Sentenced to Life in US Prison",
-      "excerpt": "The historic conviction marks the fall of one of the world's last original drug lords, leaving the powerful Sinaloa Cartel facing a massive internal succession battle.",
-      "link": "https://www.occrp.org/en/news/sinaloa-cartel-co-founder-el-mayo-zambada-sentenced-to-life-in-us-prison",
-      "published": "2026-07-20T16:51:00+00:00",
       "featured": false
     },
     {
@@ -290,21 +290,21 @@
       "featured": false
     },
     {
-      "id": "5262eb4dfb68",
+      "id": "a01c8e85298e",
       "source": "Al Jazeera",
-      "headline": "‘Televising our revolution’: India’s Gen Z flips Modi’s social media game",
-      "excerpt": "For 12 years, Modi and his party have dominated Indian social media. Now, youth use the same platforms against him.",
-      "link": "https://www.aljazeera.com/features/2026/7/23/televising-our-revolution-indias-gen-z-flips-modis-social-media-game?traffic_source=rss",
-      "published": "2026-07-23T09:20:04+00:00",
+      "headline": "How are companies, governments responding to the OpenAI hack?",
+      "excerpt": "OpenAI's AI models hacked into another company, prompting calls for scrutiny of safeguards for advanced AI systems.",
+      "link": "https://www.aljazeera.com/news/2026/7/23/how-are-companies-governments-responding-to-the-openai-hack?traffic_source=rss",
+      "published": "2026-07-23T13:00:07+00:00",
       "featured": false
     },
     {
-      "id": "94e82b236fe6",
+      "id": "508efc0789e9",
       "source": "404 Media",
-      "headline": "You Opened a Credit Card. ICE Now Knows Where You Live",
-      "excerpt": "Here's how your personal address travels from your credit card provider, through middlemen companies, and ends up with ICE.",
-      "link": "https://www.404media.co/you-opened-a-credit-card-ice-now-knows-where-you-live/",
-      "published": "2026-07-22T13:14:27+00:00",
+      "headline": "What Happened When Flock Came to My Town",
+      "excerpt": "My small town in South Carolina will soon have more Flock cameras than police officers.",
+      "link": "https://www.404media.co/what-happened-when-flock-came-to-my-town/",
+      "published": "2026-07-22T18:33:44+00:00",
       "featured": false
     },
     {
@@ -335,12 +335,12 @@
       "featured": false
     },
     {
-      "id": "1e762ce56ce6",
+      "id": "03321aa363ce",
       "source": "OCCRP",
-      "headline": "Serbian Football Star Files Police Complaint Over Former Chief's Intimidation Plot",
-      "excerpt": "International star Nemanja Matić joins Nemanja Vidić in taking legal action after leaked encrypted chats revealed a former football chief's plot to silence critics.",
-      "link": "https://www.occrp.org/en/news/serbian-football-star-files-police-complaint-over-former-chiefs-intimidation-plot",
-      "published": "2026-07-20T16:26:00+00:00",
+      "headline": "UN Report Details Southeast Asia’s Interconnected Criminal Economy",
+      "excerpt": "Scams across East and Southeast Asia, Australia and New Zealand caused estimated losses of as much as $114.1 billion in 2025, according to a U.N. report examining the infrastructure shared by criminal networks.",
+      "link": "https://www.occrp.org/en/news/un-report-details-southeast-asias-interconnected-criminal-economy",
+      "published": "2026-07-21T10:47:00+00:00",
       "featured": false
     },
     {
@@ -380,12 +380,21 @@
       "featured": false
     },
     {
-      "id": "350447e84899",
+      "id": "2f607c37c0c8",
       "source": "Al Jazeera",
-      "headline": "More than 2,300 Israelis storm Al-Aqsa Mosque in Jerusalem",
-      "excerpt": "National Security Minister Ben-Gvir joins settlers and far-right groups at holy site under heavy police protection.",
-      "link": "https://www.aljazeera.com/news/2026/7/23/more-than-2300-israelis-storm-al-aqsa-mosque-in-jerusalem?traffic_source=rss",
-      "published": "2026-07-23T09:18:37+00:00",
+      "headline": "‘Our fight is to fix the system’: India protesters demand accountability",
+      "excerpt": "India's Cockroach Janta Party led weeks of protests over exam paper leaks.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/23/our-fight-is-to-fix-the-system-india-protesters-demand-accountability?traffic_source=rss",
+      "published": "2026-07-23T12:54:11+00:00",
+      "featured": false
+    },
+    {
+      "id": "190bb20b8ac3",
+      "source": "404 Media",
+      "headline": "Flock ‘Objects to Our Removing Their Equipment’: Emails Reveal Why a Town Put Bags Over Its Flock Cameras",
+      "excerpt": "\"For the time being, if you or someone on your crew has availability to secure black plastic bags (or something else) over the cameras, that would be great.\"",
+      "link": "https://www.404media.co/flock-objects-to-our-removing-their-equipment-emails-reveal-why-a-town-put-bags-over-its-flock-cameras/",
+      "published": "2026-07-22T14:03:02+00:00",
       "featured": false
     },
     {
@@ -395,15 +404,6 @@
       "excerpt": "Occupied by Israeli forces and depopulated, Majdal Zoun overlooks the nearby village of Al-Mansouri, where the few remaining residents come under Israeli attack on a near daily basis.",
       "link": "https://www.dropsitenews.com/p/lebanon-israel-mansouri-majdal-zoun-occupation-aoun-trump-framework-hezbollah",
       "published": "2026-07-21T19:14:53+00:00",
-      "featured": false
-    },
-    {
-      "id": "a2184d76c644",
-      "source": "404 Media",
-      "headline": "What Does Olive Garden’s Never-Ending Pasta Have to Do With Voting Rights?",
-      "excerpt": "Do you have to show ID to get unlimited pasta at Olive Garden? Yes. Is this the same as secure voting? Definitely not.",
-      "link": "https://www.404media.co/olive-garden-never-ending-pasta-id-save-act/",
-      "published": "2026-07-21T17:17:45+00:00",
       "featured": false
     },
     {
@@ -425,12 +425,12 @@
       "featured": false
     },
     {
-      "id": "96291f869755",
+      "id": "7848ec6396a6",
       "source": "OCCRP",
-      "headline": "UK Brings New Trafficking Charges Against Tate Brothers",
-      "excerpt": "British prosecutors brought 38 additional charges against Andrew and Tristan Tate after identifying four more alleged victims. The brothers were arrested in Miami, and the U.K. has requested their extradition.",
-      "link": "https://www.occrp.org/en/news/uk-brings-new-trafficking-charges-against-tate-brothers",
-      "published": "2026-07-20T14:07:00+00:00",
+      "headline": "Sinaloa Cartel Co-Founder 'El Mayo' Zambada Sentenced to Life in US Prison",
+      "excerpt": "The historic conviction marks the fall of one of the world's last original drug lords, leaving the powerful Sinaloa Cartel facing a massive internal succession battle.",
+      "link": "https://www.occrp.org/en/news/sinaloa-cartel-co-founder-el-mayo-zambada-sentenced-to-life-in-us-prison",
+      "published": "2026-07-20T16:51:00+00:00",
       "featured": false
     },
     {
@@ -470,12 +470,21 @@
       "featured": false
     },
     {
-      "id": "e8c37c8e83dd",
+      "id": "afb87284d2c2",
       "source": "Al Jazeera",
-      "headline": "‘Back from the dead’: The continuing agony over Gaza’s 9,500 missing people",
-      "excerpt": "Palestinian's sudden return alive after family held his funeral highlights suffering of those still waiting for answers.",
-      "link": "https://www.aljazeera.com/features/2026/7/23/back-from-the-dead-the-continuing-agony-of-gazas-9500-missing-persons?traffic_source=rss",
-      "published": "2026-07-23T08:57:18+00:00",
+      "headline": "Which Middle East nations have nuclear programmes, and how were they built?",
+      "excerpt": "Saudi Arabia aims to join the region's nuclear club after it signs a deal with the US.",
+      "link": "https://www.aljazeera.com/news/2026/7/23/which-middle-east-nations-have-nuclear-programmes-and-how-were-they-built?traffic_source=rss",
+      "published": "2026-07-23T12:46:46+00:00",
+      "featured": false
+    },
+    {
+      "id": "40e0a034a971",
+      "source": "404 Media",
+      "headline": "Podcast: Flock is Tracking People, Not Just Cars",
+      "excerpt": "How cops are using Flock to look for specific people; the company buying mountains of books for AI companies; and the big Suno hack.",
+      "link": "https://www.404media.co/podcast-flock-is-tracking-people-not-just-cars/",
+      "published": "2026-07-22T13:56:17+00:00",
       "featured": false
     },
     {
@@ -485,15 +494,6 @@
       "excerpt": "Drop Site Daily: July 21, 2026",
       "link": "https://www.dropsitenews.com/p/hormuz-strikes-iran-us-israel-gaza-nicaragua-ortega-elections",
       "published": "2026-07-21T15:33:55+00:00",
-      "featured": false
-    },
-    {
-      "id": "a0d2753db9ef",
-      "source": "404 Media",
-      "headline": "Apple Fixes Hide My Email Vulnerability After 404 Media Coverage",
-      "excerpt": "For a year, Apple knew that an issue in its Hide My Email feature was exposing customers’ real email addresses. Apple only fixed the issue after 404 Media covered it.",
-      "link": "https://www.404media.co/apple-fixes-hide-my-email-vulnerability-after-404-media-coverage/",
-      "published": "2026-07-21T15:20:10+00:00",
       "featured": false
     },
     {
@@ -515,12 +515,12 @@
       "featured": false
     },
     {
-      "id": "dd521c08c058",
+      "id": "1e762ce56ce6",
       "source": "OCCRP",
-      "headline": "Russian Security Service Planned AI Tool to Track Media",
-      "excerpt": "Leaked documents show that Russia’s security service planned to merge media monitoring with closed databases in an AI assistant for its officers. The contractor later failed to deliver a working system.",
-      "link": "https://www.occrp.org/en/news/russian-security-service-planned-ai-tool-to-track-media",
-      "published": "2026-07-20T09:28:00+00:00",
+      "headline": "Serbian Football Star Files Police Complaint Over Former Chief's Intimidation Plot",
+      "excerpt": "International star Nemanja Matić joins Nemanja Vidić in taking legal action after leaked encrypted chats revealed a former football chief's plot to silence critics.",
+      "link": "https://www.occrp.org/en/news/serbian-football-star-files-police-complaint-over-former-chiefs-intimidation-plot",
+      "published": "2026-07-20T16:26:00+00:00",
       "featured": false
     },
     {
