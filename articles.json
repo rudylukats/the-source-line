@@ -1,22 +1,31 @@
 {
-  "generated_at": "2026-07-23T19:46:18.747986+00:00",
+  "generated_at": "2026-07-23T22:15:17.520621+00:00",
   "articles": [
     {
-      "id": "e1cf0f04eda1",
+      "id": "af368a6f435e",
       "source": "Al Jazeera",
-      "headline": "Journalist killed in Mexico after years of exposing corruption",
-      "excerpt": "Mexican journalist Alejandro Leyva Aguilar was shot dead while eating at a street food stall in Oaxaca.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/23/journalist-killed-in-mexico-after-years-of-exposing-corruption?traffic_source=rss",
-      "published": "2026-07-23T19:40:27+00:00",
+      "headline": "US war on Iran: The $110 billion price tag",
+      "excerpt": "America's war on Iran has cost the US nearly $110 billion. Now, the Trump administration wants another $67 billion.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/23/us-war-on-iran-the-110-billion-price-tag?traffic_source=rss",
+      "published": "2026-07-23T22:04:23+00:00",
       "featured": true
     },
     {
-      "id": "17b8c866ab20",
+      "id": "228ca1830e6f",
+      "source": "404 Media",
+      "headline": "A Stenographer Submitted AI-Generated Errors in Official Court Transcript, Judge Says",
+      "excerpt": "A judge in Indiana warns a court reporter than it's their job to proofread their work, after catching errors likely made by AI transcription services.",
+      "link": "https://www.404media.co/judge-caught-court-reporter-using-ai-transcript-errors/",
+      "published": "2026-07-23T21:41:29+00:00",
+      "featured": true
+    },
+    {
+      "id": "5f2969667c68",
       "source": "The Intercept",
-      "headline": "Trump’s Crypto Corruption Puts Centrist Democrats in Bind",
-      "excerpt": "Moderate Democrats want to put a stop to Trump’s meme coin self-dealing. But that might cut off campaign donations from crypto interests. The post Trump’s Crypto Corruption Puts Centrist Democrats in Bind appeared first...",
-      "link": "https://theintercept.com/2026/07/23/trump-crypto-conflict-clarity-act-democrats/",
-      "published": "2026-07-23T18:56:45+00:00",
+      "headline": "U.S. Website Gave False Approval to Green Card Applicants — Then Blamed Glitch and Took It Away",
+      "excerpt": "“It was heartbreaking,” said one recipient of a false approval who was told about a USCIS website snafu. The post U.S. Website Gave False Approval to Green Card Applicants — Then Blamed Glitch and Took It Away appeared...",
+      "link": "https://theintercept.com/2026/07/23/approved-green-cards-uscis-website-glitch/",
+      "published": "2026-07-23T20:28:16+00:00",
       "featured": true
     },
     {
@@ -26,7 +35,7 @@
       "excerpt": "New evidence has emerged of U.S. Coast Guard activity in the aftermath of two strikes, further corroborating survivor testimony.",
       "link": "https://www.dropsitenews.com/p/prosecutor-investigating-ecuador-boat-strikes-murdered",
       "published": "2026-07-23T17:53:09+00:00",
-      "featured": true
+      "featured": false
     },
     {
       "id": "ea65ddbbfcbd",
@@ -44,15 +53,6 @@
       "excerpt": "At America’s biggest corporations, low wages mean thousands of workers rely on federal food stamps to get by.",
       "link": "https://www.levernews.com/the-snap-subsidy/",
       "published": "2026-07-23T16:23:23+00:00",
-      "featured": false
-    },
-    {
-      "id": "d2c9e5010902",
-      "source": "404 Media",
-      "headline": "Patreon Lays Off 20 Percent of Its Workforce",
-      "excerpt": "In an internal email shared with creators, CEO Jack Conte wrote that AI doesn’t replace human creativity — but it does affect how the company operates.",
-      "link": "https://www.404media.co/patreon-lays-off-20-percent-of-its-workforce/",
-      "published": "2026-07-23T15:24:36+00:00",
       "featured": false
     },
     {
@@ -101,12 +101,30 @@
       "featured": false
     },
     {
-      "id": "e205dfa9afb4",
+      "id": "a3690d859a48",
       "source": "Al Jazeera",
-      "headline": "Resumption of oil exports: Will Yemen recover its economic lifeline?",
-      "excerpt": "Yemen has proven oil reserves estimated at three billion barrels, but the security environment hinders its export.",
-      "link": "https://www.aljazeera.com/economy/2026/7/23/resumption-of-oil-exports-will-yemen-recover-its-economic-lifeline?traffic_source=rss",
-      "published": "2026-07-23T19:28:24+00:00",
+      "headline": "Trump warns of largest strikes on Iran yet as Tehran lashes out across Gulf",
+      "excerpt": "The US president's threat comes after another day of Iranian attacks on Bahrain, Kuwait and Jordan.",
+      "link": "https://www.aljazeera.com/news/2026/7/23/trump-warns-of-biggest-strikes-yet-on-iran-as-tehran-lashes-out-across-gulf?traffic_source=rss",
+      "published": "2026-07-23T21:43:28+00:00",
+      "featured": false
+    },
+    {
+      "id": "9549ad00d636",
+      "source": "404 Media",
+      "headline": "Flock's CEO Says its ALPRs Don't Do Video After Repeatedly Announcing They Can",
+      "excerpt": "Flock's CEO Garrett Langley says people don't understand the capabilities of its ALPR system, but they do.",
+      "link": "https://www.404media.co/flocks-ceo-says-its-alprs-dont-do-video-after-repeatedly-announcing-they-can/",
+      "published": "2026-07-23T20:12:32+00:00",
+      "featured": false
+    },
+    {
+      "id": "17b8c866ab20",
+      "source": "The Intercept",
+      "headline": "Trump’s Crypto Corruption Puts Centrist Democrats in Bind",
+      "excerpt": "Moderate Democrats want to put a stop to Trump’s meme coin self-dealing. But that might cut off campaign donations from crypto interests. The post Trump’s Crypto Corruption Puts Centrist Democrats in Bind appeared first...",
+      "link": "https://theintercept.com/2026/07/23/trump-crypto-conflict-clarity-act-democrats/",
+      "published": "2026-07-23T18:56:45+00:00",
       "featured": false
     },
     {
@@ -128,30 +146,12 @@
       "featured": false
     },
     {
-      "id": "5b79f58bf3c7",
-      "source": "404 Media",
-      "headline": "The Rise of Anti-Flock Influencers Who Make Things Up for Clout",
-      "excerpt": "Instagram influencers are creating fake cease-and-desist letters, making themselves go viral and muddying the waters about mass surveillance.",
-      "link": "https://www.404media.co/the-rise-of-anti-flock-influencers-who-make-things-up-for-clout/",
-      "published": "2026-07-23T14:51:32+00:00",
-      "featured": false
-    },
-    {
       "id": "84aa01a1ef6e",
       "source": "Rest of World",
       "headline": "Fed up with Big Tech, communities turn to data collectives for control",
       "excerpt": "Data collectives and cooperatives, which let creators control the collection and distribution of their data, are emerging as preferred alternatives to big tech companies.",
       "link": "https://restofworld.org/2026/ai-data-collectives-mozilla/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "published": "2026-07-23T10:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "191a98657510",
-      "source": "The Intercept",
-      "headline": "On a West Bank Eviction Tour, Israeli Settlers Advertise “No Arabs Here”",
-      "excerpt": "Israelis celebrated evicting Palestinians on a tour of the West Bank, where government-backed settler violence has spiked. The post On a West Bank Eviction Tour, Israeli Settlers Advertise “No Arabs Here” appeared first...",
-      "link": "https://theintercept.com/2026/07/23/west-bank-israeli-settlers-palestine/",
-      "published": "2026-07-23T09:58:00+00:00",
       "featured": false
     },
     {
@@ -200,12 +200,12 @@
       "featured": false
     },
     {
-      "id": "931a86c17c4a",
+      "id": "c83d4a61a182",
       "source": "Al Jazeera",
-      "headline": "Can India’s youth-led protest movement bring lasting change?",
-      "excerpt": "Protesters refuse to back down until Education Minister Dharmendra Pradhan resigns.",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/7/23/can-indias-youth-led-protest-movement-bring-lasting-change?traffic_source=rss",
-      "published": "2026-07-23T19:11:37+00:00",
+      "headline": "US-Saudi nuclear deal hinges on normalisation with Israel",
+      "excerpt": "President Trump said a proposed US-Saudi civilian nuclear deal is subject to Saudi Arabia joining the Abraham Accords",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/23/us-saudi-nuclear-deal-hinges-on-normalisation-with-israel?traffic_source=rss",
+      "published": "2026-07-23T21:41:25+00:00",
       "featured": false
     },
     {
@@ -218,12 +218,12 @@
       "featured": false
     },
     {
-      "id": "03f20ea8d1a5",
+      "id": "d2c9e5010902",
       "source": "404 Media",
-      "headline": "Leaked Document Shows the Surveillance Tech at ICE’s Fingertips",
-      "excerpt": "From phone location data, to social media monitoring, to online undercover tools, a document obtained by 404 Media lays out the surveillance tech available across ICE agency wide.",
-      "link": "https://www.404media.co/leaked-document-shows-the-surveillance-tech-at-ices-fingertips/",
-      "published": "2026-07-23T13:55:45+00:00",
+      "headline": "Patreon Lays Off 20 Percent of Its Workforce",
+      "excerpt": "In an internal email shared with creators, CEO Jack Conte wrote that AI doesn’t replace human creativity — but it does affect how the company operates.",
+      "link": "https://www.404media.co/patreon-lays-off-20-percent-of-its-workforce/",
+      "published": "2026-07-23T15:24:36+00:00",
       "featured": false
     },
     {
@@ -236,12 +236,12 @@
       "featured": false
     },
     {
-      "id": "5347d357faf6",
+      "id": "191a98657510",
       "source": "The Intercept",
-      "headline": "GOP Rep. Called Israeli–U.S. Defense Tech Integration “Dangerous.” The House Passed It Anyway.",
-      "excerpt": "Rep. Thomas Massie had tried to strip the provision from the $1.15 trillion Pentagon budget, calling it “lopsided” in Israel’s favor. The post GOP Rep. Called Israeli–U.S. Defense Tech Integration “Dangerous.” The House...",
-      "link": "https://theintercept.com/2026/07/22/ndaa-defense-bill-pentagon-israel-massie/",
-      "published": "2026-07-22T22:13:33+00:00",
+      "headline": "On a West Bank Eviction Tour, Israeli Settlers Advertise “No Arabs Here”",
+      "excerpt": "Israelis celebrated evicting Palestinians on a tour of the West Bank, where government-backed settler violence has spiked. The post On a West Bank Eviction Tour, Israeli Settlers Advertise “No Arabs Here” appeared first...",
+      "link": "https://theintercept.com/2026/07/23/west-bank-israeli-settlers-palestine/",
+      "published": "2026-07-23T09:58:00+00:00",
       "featured": false
     },
     {
@@ -290,21 +290,21 @@
       "featured": false
     },
     {
-      "id": "71da70f3905a",
+      "id": "d807b671a3a5",
       "source": "Al Jazeera",
-      "headline": "Children wounded in Israeli strike on Khan Younis",
-      "excerpt": "Children were rushed to hospital after an Israeli strike hit a tent sheltering displaced people in Khan Younis.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/23/children-wounded-in-israeli-strike-on-khan-younis?traffic_source=rss",
-      "published": "2026-07-23T18:55:53+00:00",
+      "headline": "Rally attendee steals the show by mimicking Trump’s gestures",
+      "excerpt": "A rally attendee seated directly behind Trump drew attention by mimicking the president.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/23/rally-attendee-steals-the-show-by-mimicking-trumps-gestures?traffic_source=rss",
+      "published": "2026-07-23T21:08:32+00:00",
       "featured": false
     },
     {
-      "id": "67ee953df6b1",
+      "id": "5b79f58bf3c7",
       "source": "404 Media",
-      "headline": "Orcas Explode Fish Into Confetti, Possibly for Fun, In ‘Astounding’ New Video",
-      "excerpt": "A team captured first-of-its-kind footage of orcas holding a sunfish carcass still and ramming it so hard that it burst into fragments, which may be a form of social play. “We could hear the sound,” said one researcher.",
-      "link": "https://www.404media.co/orcas-explode-fish-into-confetti-possibly-for-fun-in-astounding-new-video/",
-      "published": "2026-07-23T13:17:40+00:00",
+      "headline": "The Rise of Anti-Flock Influencers Who Make Things Up for Clout",
+      "excerpt": "Instagram influencers are creating fake cease-and-desist letters, making themselves go viral and muddying the waters about mass surveillance.",
+      "link": "https://www.404media.co/the-rise-of-anti-flock-influencers-who-make-things-up-for-clout/",
+      "published": "2026-07-23T14:51:32+00:00",
       "featured": false
     },
     {
@@ -314,6 +314,15 @@
       "excerpt": "Mobile apps that appear to be Lithuanian were developed by a Belarusian company, raising risks that exiled activists could be surveilled by security agents from the authoritarian country.",
       "link": "https://www.occrp.org/en/news/popular-eu-mobile-apps-with-security-gaps-lead-to-belarus-and-russia",
       "published": "2026-07-23T12:14:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "5347d357faf6",
+      "source": "The Intercept",
+      "headline": "GOP Rep. Called Israeli–U.S. Defense Tech Integration “Dangerous.” The House Passed It Anyway.",
+      "excerpt": "Rep. Thomas Massie had tried to strip the provision from the $1.15 trillion Pentagon budget, calling it “lopsided” in Israel’s favor. The post GOP Rep. Called Israeli–U.S. Defense Tech Integration “Dangerous.” The House...",
+      "link": "https://theintercept.com/2026/07/22/ndaa-defense-bill-pentagon-israel-massie/",
+      "published": "2026-07-22T22:13:33+00:00",
       "featured": false
     },
     {
@@ -332,15 +341,6 @@
       "excerpt": "Big Tech is building AI infrastructure in the world’s most polluting oil field, where Americans face mounting exposure to toxic emissions and regulators struggle to keep watch.",
       "link": "https://www.levernews.com/the-ai-boom-runs-on-toxic-air/",
       "published": "2026-07-22T11:03:28+00:00",
-      "featured": false
-    },
-    {
-      "id": "8056298557aa",
-      "source": "The Intercept",
-      "headline": "William Lawrence Is Running in a Purple Michigan District — on His Pro-Palestine Credentials",
-      "excerpt": "Democratic leaders keep backing centrists, but a Michigan progressive is trying to harness left-leaning energy on Palestine. The post William Lawrence Is Running in a Purple Michigan District — on His Pro-Palestine...",
-      "link": "https://theintercept.com/2026/07/22/michigan-primary-will-lawrence-palestine/",
-      "published": "2026-07-22T09:14:00+00:00",
       "featured": false
     },
     {
@@ -380,21 +380,21 @@
       "featured": false
     },
     {
-      "id": "51ea342f37fc",
+      "id": "82e7be76f533",
       "source": "Al Jazeera",
-      "headline": "World Bank estimates Venezuela earthquakes caused $19.6bn in damage",
-      "excerpt": "Report says 47 percent of physical damage from pair of earthquakes impacted residential buildings.",
-      "link": "https://www.aljazeera.com/news/2026/7/23/world-bank-estimates-venezuela-earthquakes-caused-19-6bn-in-damage?traffic_source=rss",
-      "published": "2026-07-23T18:41:22+00:00",
+      "headline": "France wildfires force evacuation of over 20,000 people from tourist town",
+      "excerpt": "About 800 firefighters and hundreds of gendarmes and soldiers deployed to battle the flames west of Bordeaux.",
+      "link": "https://www.aljazeera.com/news/2026/7/23/france-wildfires-force-evacuation-of-over-20000-people-from-tourist-town?traffic_source=rss",
+      "published": "2026-07-23T21:07:31+00:00",
       "featured": false
     },
     {
-      "id": "7633c21bd755",
+      "id": "03f20ea8d1a5",
       "source": "404 Media",
-      "headline": "Our New FOIA Forum! 7/30, 1PM ET",
-      "excerpt": "Join us for our latest FOIA Forum where we teach you how to pry records from the government.",
-      "link": "https://www.404media.co/our-new-foia-forum-7-30-1pm-et/",
-      "published": "2026-07-23T11:52:00+00:00",
+      "headline": "Leaked Document Shows the Surveillance Tech at ICE’s Fingertips",
+      "excerpt": "From phone location data, to social media monitoring, to online undercover tools, a document obtained by 404 Media lays out the surveillance tech available across ICE agency wide.",
+      "link": "https://www.404media.co/leaked-document-shows-the-surveillance-tech-at-ices-fingertips/",
+      "published": "2026-07-23T13:55:45+00:00",
       "featured": false
     },
     {
@@ -407,21 +407,21 @@
       "featured": false
     },
     {
+      "id": "8056298557aa",
+      "source": "The Intercept",
+      "headline": "William Lawrence Is Running in a Purple Michigan District — on His Pro-Palestine Credentials",
+      "excerpt": "Democratic leaders keep backing centrists, but a Michigan progressive is trying to harness left-leaning energy on Palestine. The post William Lawrence Is Running in a Purple Michigan District — on His Pro-Palestine...",
+      "link": "https://theintercept.com/2026/07/22/michigan-primary-will-lawrence-palestine/",
+      "published": "2026-07-22T09:14:00+00:00",
+      "featured": false
+    },
+    {
       "id": "fc773c275786",
       "source": "The Lever",
       "headline": "Francesca Hong Wants To Be America’s First Socialist Governor",
       "excerpt": "The Democratic Socialists of America are winning big this summer — but can a DSA candidate land the governor’s seat in a swing state like Wisconsin?",
       "link": "https://www.levernews.com/francesca-hong-wants-to-be-americas-first-socialist-governor/",
       "published": "2026-07-21T22:15:24+00:00",
-      "featured": false
-    },
-    {
-      "id": "cdd11330d791",
-      "source": "The Intercept",
-      "headline": "“Cover-Up” Unravels as Pentagon Admits Nearly 100 Injured in Iran Strikes",
-      "excerpt": "The Department of War disclosed a massive spike in U.S. military casualties, but it’s still not showing in the official count. The post “Cover-Up” Unravels as Pentagon Admits Nearly 100 Injured in Iran Strikes appeared...",
-      "link": "https://theintercept.com/2026/07/21/iran-war-pentagon-casualties-injuries/",
-      "published": "2026-07-21T15:03:52+00:00",
       "featured": false
     },
     {
@@ -470,21 +470,21 @@
       "featured": false
     },
     {
-      "id": "63039da1da36",
+      "id": "dc225296a2b7",
       "source": "Al Jazeera",
-      "headline": "Iraqi PM makes first official visit to Iran in bid to deepen ties",
-      "excerpt": "Ali al-Zaidi will hold talks with senior Iranian officials on cooperation, shared interests and security.",
-      "link": "https://www.aljazeera.com/news/2026/7/23/iraqi-pm-makes-first-official-visit-to-iran-to-deepen-ties?traffic_source=rss",
-      "published": "2026-07-23T18:34:41+00:00",
+      "headline": "Videos show the moment police officer shoots man on street in Wisconsin",
+      "excerpt": "Outrage is growing after videos show a police officer fatally shooting a man in the US state of Wisconsin.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/23/videos-show-the-moment-police-officer-shoots-man-on-street-in-wisconsin?traffic_source=rss",
+      "published": "2026-07-23T21:04:26+00:00",
       "featured": false
     },
     {
-      "id": "508efc0789e9",
+      "id": "67ee953df6b1",
       "source": "404 Media",
-      "headline": "What Happened When Flock Came to My Town",
-      "excerpt": "My small town in South Carolina will soon have more Flock cameras than police officers.",
-      "link": "https://www.404media.co/what-happened-when-flock-came-to-my-town/",
-      "published": "2026-07-22T18:33:44+00:00",
+      "headline": "Orcas Explode Fish Into Confetti, Possibly for Fun, In ‘Astounding’ New Video",
+      "excerpt": "A team captured first-of-its-kind footage of orcas holding a sunfish carcass still and ramming it so hard that it burst into fragments, which may be a form of social play. “We could hear the sound,” said one researcher.",
+      "link": "https://www.404media.co/orcas-explode-fish-into-confetti-possibly-for-fun-in-astounding-new-video/",
+      "published": "2026-07-23T13:17:40+00:00",
       "featured": false
     },
     {
@@ -506,12 +506,12 @@
       "featured": false
     },
     {
-      "id": "e6be421b584b",
+      "id": "cdd11330d791",
       "source": "The Intercept",
-      "headline": "ICE Mandates Dress Code After Killings and Botched Arrest",
-      "excerpt": "Updates to ICE’s code of conduct ban deportation officers from wearing jeans, hoodies, and graphic tees, according to a leaked document. The post ICE Mandates Dress Code After Killings and Botched Arrest appeared first...",
-      "link": "https://theintercept.com/2026/07/21/ice-undercover-plainclothes-uniform/",
-      "published": "2026-07-21T14:05:04+00:00",
+      "headline": "“Cover-Up” Unravels as Pentagon Admits Nearly 100 Injured in Iran Strikes",
+      "excerpt": "The Department of War disclosed a massive spike in U.S. military casualties, but it’s still not showing in the official count. The post “Cover-Up” Unravels as Pentagon Admits Nearly 100 Injured in Iran Strikes appeared...",
+      "link": "https://theintercept.com/2026/07/21/iran-war-pentagon-casualties-injuries/",
+      "published": "2026-07-21T15:03:52+00:00",
       "featured": false
     },
     {
