@@ -1,13 +1,31 @@
 {
-  "generated_at": "2026-07-24T08:43:12.157938+00:00",
+  "generated_at": "2026-07-24T11:12:46.195736+00:00",
   "articles": [
     {
-      "id": "6af2124d3264",
+      "id": "68d28b47bd8a",
       "source": "Al Jazeera",
-      "headline": "US attacks Iran as Houthis allow Chinese ships to pass: What’s the latest?",
-      "excerpt": "The number of tanker crossings in the Strait of Hormuz dropped to lowest levels in two months on Thursday.",
-      "link": "https://www.aljazeera.com/news/2026/7/24/us-attacks-iran-as-houthis-allow-chinese-ships-to-pass-whats-the-latest?traffic_source=rss",
-      "published": "2026-07-24T07:59:01+00:00",
+      "headline": "South African court pauses impeachment process against president",
+      "excerpt": "The 'Farmgate' scandal nearly cost President Cyril Ramaphosa the leadership of his African National Congress in 2022.",
+      "link": "https://www.aljazeera.com/news/2026/7/24/south-african-court-pauses-impeachment-process-against-president?traffic_source=rss",
+      "published": "2026-07-24T10:39:47+00:00",
+      "featured": true
+    },
+    {
+      "id": "c5483c48631e",
+      "source": "The Intercept",
+      "headline": "Trump’s National Killer Police Force",
+      "excerpt": "ICE and Border Patrol’s purviews have transformed from immigration enforcement to being a political tool of the White House — all under the pretext of public safety. The post Trump’s National Killer Police Force...",
+      "link": "https://theintercept.com/2026/07/24/trump-ice-deaths-mass-deportation/",
+      "published": "2026-07-24T10:00:00+00:00",
+      "featured": true
+    },
+    {
+      "id": "fa683ecfc35c",
+      "source": "ProPublica",
+      "headline": "How Videos Helped Me Uncover Abuse at an Arkansas Private School",
+      "excerpt": "The post How Videos Helped Me Uncover Abuse at an Arkansas Private School appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/arkansas-private-school-abuse-video",
+      "published": "2026-07-24T09:00:00+00:00",
       "featured": true
     },
     {
@@ -17,7 +35,7 @@
       "excerpt": "Through an opaque network of shell companies in the British Virgin Islands and Luxembourg holding firms, an agency that manages China’s foreign reserves has discreetly scooped up stakes in Europe’s critical...",
       "link": "https://www.occrp.org/en/investigation/a-police-hq-wind-farms-and-natural-gas-mapping-the-european-holdings-of-chinas-central-bank",
       "published": "2026-07-24T04:00:00+00:00",
-      "featured": true
+      "featured": false
     },
     {
       "id": "228ca1830e6f",
@@ -26,15 +44,6 @@
       "excerpt": "A judge in Indiana warns a court reporter than it's their job to proofread their work, after catching errors likely made by AI transcription services.",
       "link": "https://www.404media.co/judge-caught-court-reporter-using-ai-transcript-errors/",
       "published": "2026-07-23T21:41:29+00:00",
-      "featured": true
-    },
-    {
-      "id": "5f2969667c68",
-      "source": "The Intercept",
-      "headline": "U.S. Website Gave False Approval to Green Card Applicants — Then Blamed Glitch and Took It Away",
-      "excerpt": "“It was heartbreaking,” said one recipient of a false approval who was told about a USCIS website snafu. The post U.S. Website Gave False Approval to Green Card Applicants — Then Blamed Glitch and Took It Away appeared...",
-      "link": "https://theintercept.com/2026/07/23/approved-green-cards-uscis-website-glitch/",
-      "published": "2026-07-23T20:28:16+00:00",
       "featured": false
     },
     {
@@ -74,15 +83,6 @@
       "featured": false
     },
     {
-      "id": "f6cd7bff4b58",
-      "source": "ProPublica",
-      "headline": "5 Raw Quotes From America’s Largest Raw-Milk Dairy Owner",
-      "excerpt": "The post 5 Raw Quotes From America’s Largest Raw-Milk Dairy Owner appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/5-quotes-raw-milk-mark-mcafee",
-      "published": "2026-07-23T09:00:00+00:00",
-      "featured": false
-    },
-    {
       "id": "c3fe7ef39077",
       "source": "Bellingcat",
       "headline": "Identifying the Crypto Entrepreneur Linked to Popular Forum Trading in ‘Leaked’ Nudes of Women",
@@ -101,12 +101,21 @@
       "featured": false
     },
     {
-      "id": "efa31b6ca1f4",
+      "id": "1388a8a793c6",
       "source": "Al Jazeera",
-      "headline": "Real Madrid legend Ancelotti rivals Barcelona great Guardiola for Italy job",
-      "excerpt": "Former Man City and Barca boss Pep Guardiola is not the clear candidate for Italian job, as Carlo Ancelotti approached.",
-      "link": "https://www.aljazeera.com/sports/2026/7/24/real-madrid-legend-ancelotti-rivals-barcelona-great-guardiola-for-italy-job?traffic_source=rss",
-      "published": "2026-07-24T07:58:18+00:00",
+      "headline": "Andy Burnham’s Number 10 North changes the postcode, but not the politics",
+      "excerpt": "As Andy Burnham moves part of Downing Street to Manchester, Scotland and Wales are asking what it means for devolution.",
+      "link": "https://www.aljazeera.com/economy/2026/7/24/andy-burnhams-number-10-north-changes-the-postcode-but-not-the-politics?traffic_source=rss",
+      "published": "2026-07-24T10:03:10+00:00",
+      "featured": false
+    },
+    {
+      "id": "5f2969667c68",
+      "source": "The Intercept",
+      "headline": "U.S. Website Gave False Approval to Green Card Applicants — Then Blamed Glitch and Took It Away",
+      "excerpt": "“It was heartbreaking,” said one recipient of a false approval who was told about a USCIS website snafu. The post U.S. Website Gave False Approval to Green Card Applicants — Then Blamed Glitch and Took It Away appeared...",
+      "link": "https://theintercept.com/2026/07/23/approved-green-cards-uscis-website-glitch/",
+      "published": "2026-07-23T20:28:16+00:00",
       "featured": false
     },
     {
@@ -116,15 +125,6 @@
       "excerpt": "Flock's CEO Garrett Langley says people don't understand the capabilities of its ALPR system, but they do.",
       "link": "https://www.404media.co/flocks-ceo-says-its-alprs-dont-do-video-after-repeatedly-announcing-they-can/",
       "published": "2026-07-23T20:12:32+00:00",
-      "featured": false
-    },
-    {
-      "id": "17b8c866ab20",
-      "source": "The Intercept",
-      "headline": "Trump’s Crypto Corruption Puts Centrist Democrats in Bind",
-      "excerpt": "Moderate Democrats want to put a stop to Trump’s meme coin self-dealing. But that might cut off campaign donations from crypto interests. The post Trump’s Crypto Corruption Puts Centrist Democrats in Bind appeared first...",
-      "link": "https://theintercept.com/2026/07/23/trump-crypto-conflict-clarity-act-democrats/",
-      "published": "2026-07-23T18:56:45+00:00",
       "featured": false
     },
     {
@@ -155,21 +155,21 @@
       "featured": false
     },
     {
+      "id": "f6cd7bff4b58",
+      "source": "ProPublica",
+      "headline": "5 Raw Quotes From America’s Largest Raw-Milk Dairy Owner",
+      "excerpt": "The post 5 Raw Quotes From America’s Largest Raw-Milk Dairy Owner appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/5-quotes-raw-milk-mark-mcafee",
+      "published": "2026-07-23T09:00:00+00:00",
+      "featured": false
+    },
+    {
       "id": "2f9478125ffa",
       "source": "The Lever",
       "headline": "Trump’s Consumer Watchdog Pick Worked For Companies Sued By The Agency",
       "excerpt": "Financial disclosures reveal Trump’s CFPB pick advised companies accused of ripping off consumers — and if confirmed, he won’t recuse himself from overseeing them.",
       "link": "https://www.levernews.com/trumps-consumer-watchdog-pick-worked-for-companies-the-agency-sued/",
       "published": "2026-07-22T21:02:15+00:00",
-      "featured": false
-    },
-    {
-      "id": "958eb3c11d02",
-      "source": "ProPublica",
-      "headline": "How the Government’s Obligation to Keep Foreign Workers Safe Collided With Its Efforts to Keep Farms Afloat",
-      "excerpt": "The post How the Government’s Obligation to Keep Foreign Workers Safe Collided With Its Efforts to Keep Farms Afloat appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/h-2a-farmworker-protections-profits-trump",
-      "published": "2026-07-22T09:00:00+00:00",
       "featured": false
     },
     {
@@ -200,12 +200,21 @@
       "featured": false
     },
     {
-      "id": "660c7d4dd8b1",
+      "id": "d812847040b9",
       "source": "Al Jazeera",
-      "headline": "Indian activist Wangchuk ends 26-day hunger strike",
-      "excerpt": "Indian activist Sonam Wangchuk has ended a 26-day hunger strike over leaked medical entrance exams",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/24/indian-activist-wangchuk-ends-26-day-hunger-strike?traffic_source=rss",
-      "published": "2026-07-24T07:08:21+00:00",
+      "headline": "Does this disappearing organ hold the secret of longevity?",
+      "excerpt": "Scientists are increasingly focused on the thymus, an immune gland that naturally becomes less active with age.",
+      "link": "https://www.aljazeera.com/news/2026/7/24/does-this-disappearing-organ-hold-the-secret-of-longevity?traffic_source=rss",
+      "published": "2026-07-24T10:00:50+00:00",
+      "featured": false
+    },
+    {
+      "id": "17b8c866ab20",
+      "source": "The Intercept",
+      "headline": "Trump’s Crypto Corruption Puts Centrist Democrats in Bind",
+      "excerpt": "Moderate Democrats want to put a stop to Trump’s meme coin self-dealing. But that might cut off campaign donations from crypto interests. The post Trump’s Crypto Corruption Puts Centrist Democrats in Bind appeared first...",
+      "link": "https://theintercept.com/2026/07/23/trump-crypto-conflict-clarity-act-democrats/",
+      "published": "2026-07-23T18:56:45+00:00",
       "featured": false
     },
     {
@@ -236,15 +245,6 @@
       "featured": false
     },
     {
-      "id": "191a98657510",
-      "source": "The Intercept",
-      "headline": "On a West Bank Eviction Tour, Israeli Settlers Advertise “No Arabs Here”",
-      "excerpt": "Israelis celebrated evicting Palestinians on a tour of the West Bank, where government-backed settler violence has spiked. The post On a West Bank Eviction Tour, Israeli Settlers Advertise “No Arabs Here” appeared first...",
-      "link": "https://theintercept.com/2026/07/23/west-bank-israeli-settlers-palestine/",
-      "published": "2026-07-23T09:58:00+00:00",
-      "featured": false
-    },
-    {
       "id": "0f839211273c",
       "source": "The Lever",
       "headline": "Midterm Madness: Defeat in the Desert",
@@ -263,12 +263,12 @@
       "featured": false
     },
     {
-      "id": "66c67f2edea4",
+      "id": "958eb3c11d02",
       "source": "ProPublica",
-      "headline": "My Maddening Quest to Find Out if Blueberries Come From Farms Where Workers Were Harmed",
-      "excerpt": "The post My Maddening Quest to Find Out if Blueberries Come From Farms Where Workers Were Harmed appeared first on ProPublica.",
-      "link": "https://projects.propublica.org/blueberries-farmworker-mistreatment/",
-      "published": "2026-07-21T09:00:00+00:00",
+      "headline": "How the Government’s Obligation to Keep Foreign Workers Safe Collided With Its Efforts to Keep Farms Afloat",
+      "excerpt": "The post How the Government’s Obligation to Keep Foreign Workers Safe Collided With Its Efforts to Keep Farms Afloat appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/h-2a-farmworker-protections-profits-trump",
+      "published": "2026-07-22T09:00:00+00:00",
       "featured": false
     },
     {
@@ -290,12 +290,12 @@
       "featured": false
     },
     {
-      "id": "7c59c0aa5267",
+      "id": "32a8b122098c",
       "source": "Al Jazeera",
-      "headline": "Tehran slams Trump’s threat to use frozen Iranian assets as ‘incendiary’",
-      "excerpt": "President Trump says damages will be paid for by Iranian money that the US has 'in its possession, and controls'.",
-      "link": "https://www.aljazeera.com/news/2026/7/24/tehran-slams-trumps-threat-to-use-frozen-iranian-assets-as-incendiary?traffic_source=rss",
-      "published": "2026-07-24T06:48:07+00:00",
+      "headline": "Israel’s illegal settlements are Europe’s credibility test",
+      "excerpt": "The EU has documented accelerating annexation. It must now use its collective power to confront it.",
+      "link": "https://www.aljazeera.com/opinions/2026/7/24/israels-illegal-settlements-are-europes-credibility-test?traffic_source=rss",
+      "published": "2026-07-24T09:59:37+00:00",
       "featured": false
     },
     {
@@ -317,12 +317,12 @@
       "featured": false
     },
     {
-      "id": "5347d357faf6",
+      "id": "191a98657510",
       "source": "The Intercept",
-      "headline": "GOP Rep. Called Israeli–U.S. Defense Tech Integration “Dangerous.” The House Passed It Anyway.",
-      "excerpt": "Rep. Thomas Massie had tried to strip the provision from the $1.15 trillion Pentagon budget, calling it “lopsided” in Israel’s favor. The post GOP Rep. Called Israeli–U.S. Defense Tech Integration “Dangerous.” The House...",
-      "link": "https://theintercept.com/2026/07/22/ndaa-defense-bill-pentagon-israel-massie/",
-      "published": "2026-07-22T22:13:33+00:00",
+      "headline": "On a West Bank Eviction Tour, Israeli Settlers Advertise “No Arabs Here”",
+      "excerpt": "Israelis celebrated evicting Palestinians on a tour of the West Bank, where government-backed settler violence has spiked. The post On a West Bank Eviction Tour, Israeli Settlers Advertise “No Arabs Here” appeared first...",
+      "link": "https://theintercept.com/2026/07/23/west-bank-israeli-settlers-palestine/",
+      "published": "2026-07-23T09:58:00+00:00",
       "featured": false
     },
     {
@@ -353,12 +353,12 @@
       "featured": false
     },
     {
-      "id": "939a88797170",
+      "id": "66c67f2edea4",
       "source": "ProPublica",
-      "headline": "Children in This Church Were Sexually Abused. Then They Began Abusing Other Kids. Some Continued as Adults.",
-      "excerpt": "The post Children in This Church Were Sexually Abused. Then They Began Abusing Other Kids. Some Continued as Adults. appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/old-apostolic-lutheran-church-child-sexual-assault-cycle-abuse",
-      "published": "2026-07-20T10:00:00+00:00",
+      "headline": "My Maddening Quest to Find Out if Blueberries Come From Farms Where Workers Were Harmed",
+      "excerpt": "The post My Maddening Quest to Find Out if Blueberries Come From Farms Where Workers Were Harmed appeared first on ProPublica.",
+      "link": "https://projects.propublica.org/blueberries-farmworker-mistreatment/",
+      "published": "2026-07-21T09:00:00+00:00",
       "featured": false
     },
     {
@@ -380,12 +380,12 @@
       "featured": false
     },
     {
-      "id": "455f555b8c01",
+      "id": "2fc06c9e076c",
       "source": "Al Jazeera",
-      "headline": "‘Collapsed’: Roadblocks, internet blackout leave Pakistani Kashmir in limbo",
-      "excerpt": "Residents describe mounting hardship, as internet restrictions and road closures stretch into second month before polls.",
-      "link": "https://www.aljazeera.com/features/2026/7/24/collapsed-roadblocks-internet-blackout-leave-pakistani-kashmir-in-limbo?traffic_source=rss",
-      "published": "2026-07-24T06:01:39+00:00",
+      "headline": "Four Palestinians killed as Israeli settlers raid occupied West Bank town",
+      "excerpt": "One Israeli was also killed near town of Tal in Nablus, according to Israel's Magen David Adom rescue services.",
+      "link": "https://www.aljazeera.com/news/2026/7/24/four-palestinians-killed-as-israeli-settlers-raid-occupied-west-bank-town?traffic_source=rss",
+      "published": "2026-07-24T09:35:39+00:00",
       "featured": false
     },
     {
@@ -407,21 +407,21 @@
       "featured": false
     },
     {
+      "id": "5347d357faf6",
+      "source": "The Intercept",
+      "headline": "GOP Rep. Called Israeli–U.S. Defense Tech Integration “Dangerous.” The House Passed It Anyway.",
+      "excerpt": "Rep. Thomas Massie had tried to strip the provision from the $1.15 trillion Pentagon budget, calling it “lopsided” in Israel’s favor. The post GOP Rep. Called Israeli–U.S. Defense Tech Integration “Dangerous.” The House...",
+      "link": "https://theintercept.com/2026/07/22/ndaa-defense-bill-pentagon-israel-massie/",
+      "published": "2026-07-22T22:13:33+00:00",
+      "featured": false
+    },
+    {
       "id": "13be1b60c3fc",
       "source": "Dropsite News",
       "headline": "Trump threatens Iran’s bridges and power plants over Hormuz; U.S. and Saudi agree to nuclear deal; RSF drone kills 21 in North Darfur",
       "excerpt": "Drop Site Daily: July 22, 2026",
       "link": "https://www.dropsitenews.com/p/trump-iran-infrastructure-hormuz-us-saudi-nuclear-rsf-sudan-darfur",
       "published": "2026-07-22T15:59:26+00:00",
-      "featured": false
-    },
-    {
-      "id": "8056298557aa",
-      "source": "The Intercept",
-      "headline": "William Lawrence Is Running in a Purple Michigan District — on His Pro-Palestine Credentials",
-      "excerpt": "Democratic leaders keep backing centrists, but a Michigan progressive is trying to harness left-leaning energy on Palestine. The post William Lawrence Is Running in a Purple Michigan District — on His Pro-Palestine...",
-      "link": "https://theintercept.com/2026/07/22/michigan-primary-will-lawrence-palestine/",
-      "published": "2026-07-22T09:14:00+00:00",
       "featured": false
     },
     {
@@ -434,21 +434,21 @@
       "featured": false
     },
     {
+      "id": "939a88797170",
+      "source": "ProPublica",
+      "headline": "Children in This Church Were Sexually Abused. Then They Began Abusing Other Kids. Some Continued as Adults.",
+      "excerpt": "The post Children in This Church Were Sexually Abused. Then They Began Abusing Other Kids. Some Continued as Adults. appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/old-apostolic-lutheran-church-child-sexual-assault-cycle-abuse",
+      "published": "2026-07-20T10:00:00+00:00",
+      "featured": false
+    },
+    {
       "id": "99c22cbf755c",
       "source": "Rest of World",
       "headline": "AI is shrinking video game development teams to one",
       "excerpt": "AI is helping solo developers thrive in Turkey’s gaming industry, but writers, artists, and junior programmers are being left behind.",
       "link": "https://restofworld.org/2026/ai-video-games-developer-jobs/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "published": "2026-07-20T10:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "681c337a6f8f",
-      "source": "ProPublica",
-      "headline": "On This Nearly Deserted Alaska Island, You Pay to Keep Hundreds of Empty Buildings Wired for Internet",
-      "excerpt": "The post On This Nearly Deserted Alaska Island, You Pay to Keep Hundreds of Empty Buildings Wired for Internet appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/adak-island-alaska-internet-subsidy-fcc",
-      "published": "2026-07-20T09:00:00+00:00",
       "featured": false
     },
     {
@@ -470,12 +470,12 @@
       "featured": false
     },
     {
-      "id": "62c12f9bc648",
+      "id": "f9721ab870e6",
       "source": "Al Jazeera",
-      "headline": "Mykhailo Drapatyi: Can new Ukraine army chief alter Russia war’s direction?",
-      "excerpt": "In 2014, a young Drapatyi became an icon for his daredevilry in Mariupol. Can he lead his military to victory?",
-      "link": "https://www.aljazeera.com/news/2026/7/24/mykhailo-drapatyi-can-new-ukraine-army-chief-alter-russia-wars-direction?traffic_source=rss",
-      "published": "2026-07-24T05:56:31+00:00",
+      "headline": "Germany appoint Klopp as ex-Liverpool coach sought to lift World Cup blues",
+      "excerpt": "Jurgen Klopp last coached in 2024 at Liverpool but was Red Bull's head of global football, leading Leipzig and New York.",
+      "link": "https://www.aljazeera.com/sports/2026/7/24/germany-appoint-klopp-as-ex-liverpool-coach-sought-to-lift-world-cup-blues?traffic_source=rss",
+      "published": "2026-07-24T09:24:01+00:00",
       "featured": false
     },
     {
@@ -497,21 +497,21 @@
       "featured": false
     },
     {
+      "id": "8056298557aa",
+      "source": "The Intercept",
+      "headline": "William Lawrence Is Running in a Purple Michigan District — on His Pro-Palestine Credentials",
+      "excerpt": "Democratic leaders keep backing centrists, but a Michigan progressive is trying to harness left-leaning energy on Palestine. The post William Lawrence Is Running in a Purple Michigan District — on His Pro-Palestine...",
+      "link": "https://theintercept.com/2026/07/22/michigan-primary-will-lawrence-palestine/",
+      "published": "2026-07-22T09:14:00+00:00",
+      "featured": false
+    },
+    {
       "id": "8a8bb6c734af",
       "source": "The Lever",
       "headline": "Gas Grab",
       "excerpt": "Big Oil is laying off workers while ramping up production — and profits.",
       "link": "https://www.levernews.com/gas-grab/",
       "published": "2026-07-21T16:37:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "cdd11330d791",
-      "source": "The Intercept",
-      "headline": "“Cover-Up” Unravels as Pentagon Admits Nearly 100 Injured in Iran Strikes",
-      "excerpt": "The Department of War disclosed a massive spike in U.S. military casualties, but it’s still not showing in the official count. The post “Cover-Up” Unravels as Pentagon Admits Nearly 100 Injured in Iran Strikes appeared...",
-      "link": "https://theintercept.com/2026/07/21/iran-war-pentagon-casualties-injuries/",
-      "published": "2026-07-21T15:03:52+00:00",
       "featured": false
     },
     {
@@ -524,12 +524,12 @@
       "featured": false
     },
     {
-      "id": "3824b8c4e53c",
+      "id": "681c337a6f8f",
       "source": "ProPublica",
-      "headline": "How a Man Once Ordered to Pay Libel Damages Helped Launch an Investigation Into Islamic Private Schools",
-      "excerpt": "The post How a Man Once Ordered to Pay Libel Damages Helped Launch an Investigation Into Islamic Private Schools appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/islamic-private-schools-texas-vouchers-sam-westrop",
-      "published": "2026-07-18T03:10:00+00:00",
+      "headline": "On This Nearly Deserted Alaska Island, You Pay to Keep Hundreds of Empty Buildings Wired for Internet",
+      "excerpt": "The post On This Nearly Deserted Alaska Island, You Pay to Keep Hundreds of Empty Buildings Wired for Internet appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/adak-island-alaska-internet-subsidy-fcc",
+      "published": "2026-07-20T09:00:00+00:00",
       "featured": false
     },
     {
