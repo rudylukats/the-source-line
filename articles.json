@@ -1,13 +1,22 @@
 {
-  "generated_at": "2026-07-25T16:12:43.665751+00:00",
+  "generated_at": "2026-07-25T19:34:57.227687+00:00",
   "articles": [
     {
-      "id": "bd9e77ad00b4",
+      "id": "91daa1ae0e38",
       "source": "Al Jazeera",
-      "headline": "The Battle Over Al-Aqsa",
-      "excerpt": "What happened when thousands of Israelis stormed the Al-Aqsa Mosque compound under Israeli police protection?",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/25/the-battle-over-al-aqsa?traffic_source=rss",
-      "published": "2026-07-25T15:49:53+00:00",
+      "headline": "Ebola deaths in DRC surge past 1,300 as virus ‘spreading like a wildfire’",
+      "excerpt": "The outbreak is spreading at the fastest rate ever recorded and threatens to become the worst in history.",
+      "link": "https://www.aljazeera.com/news/2026/7/25/ebola-deaths-in-drc-surge-past-1300-as-virus-spreading-like-a-wildfire?traffic_source=rss",
+      "published": "2026-07-25T18:28:09+00:00",
+      "featured": true
+    },
+    {
+      "id": "609543bdfa95",
+      "source": "Dropsite News",
+      "headline": "India’s Cockroach Protests End as Modi Government Bows to Demands",
+      "excerpt": "Hundreds of thousands of young protesters assembled in Delhi’s Jantar Mantar every day to demand the resignation of the education minister and accountability from the Modi government.",
+      "link": "https://www.dropsitenews.com/p/india-cockroach-protests-end-modi-education-minister-resigns",
+      "published": "2026-07-25T18:15:50+00:00",
       "featured": true
     },
     {
@@ -26,7 +35,7 @@
       "excerpt": "The secretary of war’s obsession with testosterone reveals the anxieties he harbors about himself and the military he leads. The post Pete Hegseth’s Crisis of Masculinity appeared first on The Intercept.",
       "link": "https://theintercept.com/2026/07/25/pete-hegseth-testosterone-military-masculinity/",
       "published": "2026-07-25T11:08:00+00:00",
-      "featured": true
+      "featured": false
     },
     {
       "id": "1a60ae787f6e",
@@ -35,15 +44,6 @@
       "excerpt": "Scientists have predicted that human linguistic diversity flourished between 3,000 and 1,000 years ago, before declining with the rise of multinational states and colonial expansion.",
       "link": "https://www.404media.co/scientists-uncover-lost-golden-age-of-languages-that-ended-1-000-years-ago/",
       "published": "2026-07-25T10:00:43+00:00",
-      "featured": false
-    },
-    {
-      "id": "36e0d8b6830d",
-      "source": "Dropsite News",
-      "headline": "The Last-Minute Million-Dollar Ad Spend Against Will Lawrence Is Coming From a Major Pro-Israel Group",
-      "excerpt": "Democratic Majority for Israel is routing the contribution through a CBC-linked PAC—producing a one-of-a-kind irony.",
-      "link": "https://www.dropsitenews.com/p/dmfi-will-lawrence-michigan-haley-stevens-consultant-palantir",
-      "published": "2026-07-24T21:51:16+00:00",
       "featured": false
     },
     {
@@ -101,21 +101,30 @@
       "featured": false
     },
     {
-      "id": "a0e562d820b7",
+      "id": "06a4562bf235",
       "source": "Al Jazeera",
-      "headline": "The Global South is being forced to choose creditors over children",
-      "excerpt": "The education of millions of children is at risk because of the current global financial order. We need change",
-      "link": "https://www.aljazeera.com/opinions/2026/7/25/the-global-south-is-being-forced-to-choose-creditors-over-children?traffic_source=rss",
-      "published": "2026-07-25T14:33:23+00:00",
+      "headline": "How Netanyahu gov’t media reforms risk deepening Israeli press bias",
+      "excerpt": "Critics decry Israel's sweeping media reforms, warning of further risks to press freedom and election integrity.",
+      "link": "https://www.aljazeera.com/news/2026/7/25/how-netanyahu-govt-media-reforms-risk-deepening-israeli-press-bias?traffic_source=rss",
+      "published": "2026-07-25T18:14:54+00:00",
       "featured": false
     },
     {
       "id": "99cbcc060a8f",
       "source": "The Intercept",
-      "headline": "ICE Officially Resumes Vehicle Stops — But Leaked Email Imposes All-New Requirements",
-      "excerpt": "Some ICE regional offices defied Trump's order to resume vehicle stops. Then an angecywide memo went out with restrictive policy guidelines. The post ICE Officially Resumes Vehicle Stops — But Leaked Email Imposes...",
+      "headline": "Leaked Email Reveals New Requirements for ICE Vehicle Stops",
+      "excerpt": "An angecywide memo reinstated ICE vehicle stops with all-new restrictive policy guidelines. The post Leaked Email Reveals New Requirements for ICE Vehicle Stops appeared first on The Intercept.",
       "link": "https://theintercept.com/2026/07/25/trump-ice-vehicle-stops-policy/",
       "published": "2026-07-25T10:10:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "36e0d8b6830d",
+      "source": "Dropsite News",
+      "headline": "The Last-Minute Million-Dollar Ad Spend Against Will Lawrence Is Coming From a Major Pro-Israel Group",
+      "excerpt": "Democratic Majority for Israel is routing the contribution through a CBC-linked PAC—producing a one-of-a-kind irony.",
+      "link": "https://www.dropsitenews.com/p/dmfi-will-lawrence-michigan-haley-stevens-consultant-palantir",
+      "published": "2026-07-24T21:51:16+00:00",
       "featured": false
     },
     {
@@ -134,15 +143,6 @@
       "excerpt": "Test your knowledge of the midterms, the Winklevoss twins, and other issues that really matter.",
       "link": "https://www.levernews.com/whats-in-your-lettuce/",
       "published": "2026-07-24T17:12:34+00:00",
-      "featured": false
-    },
-    {
-      "id": "fa89ad1c14c0",
-      "source": "Dropsite News",
-      "headline": "Four Palestinians and two Israelis killed in incendiary settler attack; Israel launches major West Bank military operation in response; Oil leaking into Hormuz",
-      "excerpt": "Drop Site Daily: July 24, 2026",
-      "link": "https://www.dropsitenews.com/p/palestine-israel-west-bank-settlers-nablus-hormuz-oil-leak",
-      "published": "2026-07-24T16:16:42+00:00",
       "featured": false
     },
     {
@@ -200,12 +200,21 @@
       "featured": false
     },
     {
-      "id": "f50fab53d414",
+      "id": "c6937c1471ab",
       "source": "Al Jazeera",
-      "headline": "Atletico Madrid sign South Korea World Cup star Lee Kang-In from PSG",
-      "excerpt": "Lee Kang-In makes the switch to Atletico after helping Paris Saint-Germain to consecutive Champions League titles.",
-      "link": "https://www.aljazeera.com/sports/2026/7/25/atletico-madrid-sign-south-korea-world-cup-star-lee-kang-in-from-psg?traffic_source=rss",
-      "published": "2026-07-25T14:20:21+00:00",
+      "headline": "Why Epstein’s survivors are still fighting",
+      "excerpt": "Why Epstein's survivors are still fighting",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/25/why-epsteins-survivors-are-still-fighting?traffic_source=rss",
+      "published": "2026-07-25T18:06:09+00:00",
+      "featured": false
+    },
+    {
+      "id": "fa89ad1c14c0",
+      "source": "Dropsite News",
+      "headline": "Four Palestinians and two Israelis killed in incendiary settler attack; Israel launches major West Bank military operation in response; Oil leaking into Hormuz",
+      "excerpt": "Drop Site Daily: July 24, 2026",
+      "link": "https://www.dropsitenews.com/p/palestine-israel-west-bank-settlers-nablus-hormuz-oil-leak",
+      "published": "2026-07-24T16:16:42+00:00",
       "featured": false
     },
     {
@@ -233,15 +242,6 @@
       "excerpt": "A judge in Indiana warns a court reporter that it's their job to proofread their work, after catching errors likely made by AI transcription services.",
       "link": "https://www.404media.co/judge-caught-court-reporter-using-ai-transcript-errors/",
       "published": "2026-07-23T21:41:29+00:00",
-      "featured": false
-    },
-    {
-      "id": "ce3023b3fffb",
-      "source": "Dropsite News",
-      "headline": "Prosecutor Investigating U.S. Boat Strikes and Claims of Torture Was Murdered in Ecuador",
-      "excerpt": "New evidence has emerged of U.S. Coast Guard activity in the aftermath of two strikes, further corroborating survivor testimony.",
-      "link": "https://www.dropsitenews.com/p/prosecutor-investigating-ecuador-boat-strikes-murdered",
-      "published": "2026-07-23T17:53:09+00:00",
       "featured": false
     },
     {
@@ -290,12 +290,12 @@
       "featured": false
     },
     {
-      "id": "347726dee5af",
+      "id": "61a9022643ce",
       "source": "Al Jazeera",
-      "headline": "War on Iran: Phase II: Day 14",
-      "excerpt": "War on Iran: Phase II: Day 14",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/25/war-on-iran-phase-ii-day-14?traffic_source=rss",
-      "published": "2026-07-25T13:49:12+00:00",
+      "headline": "Iran’s government spars with state TV as mediators push talks with US",
+      "excerpt": "Gov't accuses IRIB of 'censorship' after parts of president's speech not aired; station rejects 'improper attributions'.",
+      "link": "https://www.aljazeera.com/news/2026/7/25/irans-government-spars-with-state-tv-as-mediators-push-talks-with-us?traffic_source=rss",
+      "published": "2026-07-25T16:39:16+00:00",
       "featured": false
     },
     {
@@ -326,12 +326,12 @@
       "featured": false
     },
     {
-      "id": "cf56fde41b9f",
+      "id": "ce3023b3fffb",
       "source": "Dropsite News",
-      "headline": "Asesinan A La Fiscal Que Investigaba Los Ataques Estadounidenses Contra Pescadores Ecuatorianos y Denuncias De Tortura",
-      "excerpt": "Han surgido nuevas pruebas sobre la actividad de la Guardia Costera Estadounidense tras dos ataques, lo cual corrobora el testimonio de los sobrevivientes.",
-      "link": "https://www.dropsitenews.com/p/asesinan-a-la-fiscal-que-investigaba",
-      "published": "2026-07-23T17:50:20+00:00",
+      "headline": "Prosecutor Investigating U.S. Boat Strikes and Claims of Torture Was Murdered in Ecuador",
+      "excerpt": "New evidence has emerged of U.S. Coast Guard activity in the aftermath of two strikes, further corroborating survivor testimony.",
+      "link": "https://www.dropsitenews.com/p/prosecutor-investigating-ecuador-boat-strikes-murdered",
+      "published": "2026-07-23T17:53:09+00:00",
       "featured": false
     },
     {
@@ -380,12 +380,12 @@
       "featured": false
     },
     {
-      "id": "5ed033b40f8b",
+      "id": "877dee629842",
       "source": "Al Jazeera",
-      "headline": "F1 needs better balance between business and sport, says Norris",
-      "excerpt": "Lando Norris speaks up ahead of Hungarian Grand Prix with drivers feeling new regulations have cramped their speed.",
-      "link": "https://www.aljazeera.com/sports/2026/7/25/f1-needs-better-balance-between-business-and-sport-says-norris?traffic_source=rss",
-      "published": "2026-07-25T13:03:52+00:00",
+      "headline": "Worker dies during reconstruction of Barcelona’s Camp Nou Stadium",
+      "excerpt": "Barcelona offer condolences to family of a 54-year-old man who died during Camp Nou redevelopment after blow to head.",
+      "link": "https://www.aljazeera.com/sports/2026/7/25/construction-worker-dies-in-accident-at-barcelonas-camp-nou-stadium?traffic_source=rss",
+      "published": "2026-07-25T16:36:48+00:00",
       "featured": false
     },
     {
@@ -407,12 +407,12 @@
       "featured": false
     },
     {
-      "id": "c4392fa58ab5",
+      "id": "cf56fde41b9f",
       "source": "Dropsite News",
-      "headline": "Ansarallah strikes two Saudi tankers; Oil surges past $100; Over 4,200 Israeli settlers storm Al-Aqsa",
-      "excerpt": "Drop Site Daily: July 23, 2026",
-      "link": "https://www.dropsitenews.com/p/ansarallah-saudi-tankers-oil-surge-israel-palestine-settlers-aqsa-mosque",
-      "published": "2026-07-23T15:49:05+00:00",
+      "headline": "Asesinan A La Fiscal Que Investigaba Los Ataques Estadounidenses Contra Pescadores Ecuatorianos y Denuncias De Tortura",
+      "excerpt": "Han surgido nuevas pruebas sobre la actividad de la Guardia Costera Estadounidense tras dos ataques, lo cual corrobora el testimonio de los sobrevivientes.",
+      "link": "https://www.dropsitenews.com/p/asesinan-a-la-fiscal-que-investigaba",
+      "published": "2026-07-23T17:50:20+00:00",
       "featured": false
     },
     {
@@ -470,12 +470,12 @@
       "featured": false
     },
     {
-      "id": "bd671a777c40",
+      "id": "681de7f6491d",
       "source": "Al Jazeera",
-      "headline": "What’s behind the ICC investigation into Karim Khan?",
-      "excerpt": "Lawyers for the ICC’s ousted Chief Prosecutor Karim Khan say he is the victim of a political witchhunt",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/25/whats-behind-the-icc-investigation-into-karim-khan?traffic_source=rss",
-      "published": "2026-07-25T12:53:41+00:00",
+      "headline": "India win second T20 in Zimbabwe to take series as Kishan and Varma shine",
+      "excerpt": "Ishan Kishan and Tilak Varma sets up 90-run win over Zimbabwe as India takes 2-0 lead in T20 series.",
+      "link": "https://www.aljazeera.com/sports/2026/7/25/india-win-second-t20-clash-in-zimbabwe-to-take-series-as-kishan-tilak-varma-shine?traffic_source=rss",
+      "published": "2026-07-25T16:02:40+00:00",
       "featured": false
     },
     {
@@ -497,21 +497,21 @@
       "featured": false
     },
     {
+      "id": "c4392fa58ab5",
+      "source": "Dropsite News",
+      "headline": "Ansarallah strikes two Saudi tankers; Oil surges past $100; Over 4,200 Israeli settlers storm Al-Aqsa",
+      "excerpt": "Drop Site Daily: July 23, 2026",
+      "link": "https://www.dropsitenews.com/p/ansarallah-saudi-tankers-oil-surge-israel-palestine-settlers-aqsa-mosque",
+      "published": "2026-07-23T15:49:05+00:00",
+      "featured": false
+    },
+    {
       "id": "5b79f58bf3c7",
       "source": "404 Media",
       "headline": "The Rise of Anti-Flock Influencers Who Make Things Up for Clout",
       "excerpt": "Instagram influencers are creating fake cease-and-desist letters, making themselves go viral and muddying the waters about mass surveillance.",
       "link": "https://www.404media.co/the-rise-of-anti-flock-influencers-who-make-things-up-for-clout/",
       "published": "2026-07-23T14:51:32+00:00",
-      "featured": false
-    },
-    {
-      "id": "ec99fa5bc1ab",
-      "source": "Dropsite News",
-      "headline": "Israel Firebombed a Family Home Where Children Were Sleeping in Latest Killing Spree",
-      "excerpt": "As the world focuses on the renewed U.S. war with Iran, Israel has killed nearly 60 Palestinians over the past week and moved to occupy close to 70 percent of Gaza.",
-      "link": "https://www.dropsitenews.com/p/gaza-israel-escalated-attacks-yellow-line-displacement",
-      "published": "2026-07-22T21:00:25+00:00",
       "featured": false
     },
     {
