@@ -1,14 +1,41 @@
 {
-  "generated_at": "2026-07-27T04:03:07.686439+00:00",
+  "generated_at": "2026-07-27T10:09:53.623595+00:00",
   "articles": [
     {
-      "id": "e8605cf1affc",
-      "source": "Al Jazeera",
-      "headline": "Russia and Ukraine trade attacks, killing 10, including child in Chernihiv",
-      "excerpt": "Kyiv says Russian strikes killed six, including a child at a supermarket, as Moscow says Ukrainian strikes killed four.",
-      "link": "https://www.aljazeera.com/news/2026/7/27/russia-and-ukraine-trade-attacks-killing-10-including-child-in-chernihiv?traffic_source=rss",
-      "published": "2026-07-27T03:34:06+00:00",
+      "id": "4fe0ea50a962",
+      "source": "404 Media",
+      "headline": "Being a Luddite Is Fun Again",
+      "excerpt": "As tech backlash hits the mainstream, the ‘Summer of Ludd’ proves we don’t need social media to hang out and have a good time.",
+      "link": "https://www.404media.co/luddite-events-nyc-off-tech-summer-of-ludd/",
+      "published": "2026-07-27T10:00:04+00:00",
       "featured": true
+    },
+    {
+      "id": "9674a9bacf1d",
+      "source": "Rest of World",
+      "headline": "In China, people are renting out their faces to AI",
+      "excerpt": "New platforms are paying people to license their likeness for AI-generated dramas and ads, creating a new marketplace for biometric identity.",
+      "link": "https://restofworld.org/2026/china-ai-microdramas-face-licensing/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "published": "2026-07-27T10:00:00+00:00",
+      "featured": true
+    },
+    {
+      "id": "a234b51aa0ac",
+      "source": "Al Jazeera",
+      "headline": "Sam Altman says AI has entered ‘singularity’: Should we be worried?",
+      "excerpt": "The 'singularity' refers to the point at which AI outpaces human intelligence and becomes difficult to control.",
+      "link": "https://www.aljazeera.com/news/2026/7/27/sam-altman-says-ai-has-entered-singularity-should-we-be-worried?traffic_source=rss",
+      "published": "2026-07-27T09:37:49+00:00",
+      "featured": true
+    },
+    {
+      "id": "036900adee8b",
+      "source": "ProPublica",
+      "headline": "How Trump’s “America First” Administration Could Shut U.S. Scientists Out of the Next Nobel-Worthy Discovery",
+      "excerpt": "The post How Trump’s “America First” Administration Could Shut U.S. Scientists Out of the Next Nobel-Worthy Discovery appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/federal-science-grants-russell-vought-omb",
+      "published": "2026-07-27T09:00:00+00:00",
+      "featured": false
     },
     {
       "id": "fd4ef84923a5",
@@ -17,7 +44,7 @@
       "excerpt": "Did Cuba foment Black Lives Matter and anti-ICE protests? The State Department seems to think so. The post Rubio’s Paranoid Cuba Report Designed to “Justify a Military Attack on Cuba,” Says Democratic Rep. appeared...",
       "link": "https://theintercept.com/2026/07/26/cuba-marco-rubio-state-department-report/",
       "published": "2026-07-26T10:00:00+00:00",
-      "featured": true
+      "featured": false
     },
     {
       "id": "797b96d615d2",
@@ -26,7 +53,7 @@
       "excerpt": "Michigan’s Democratic governor is helping her healthcare donors try to stop Abdul El-Sayed’s crusade.",
       "link": "https://www.levernews.com/whitmers-war-against-medicare-for-all/",
       "published": "2026-07-25T20:49:28+00:00",
-      "featured": true
+      "featured": false
     },
     {
       "id": "609543bdfa95",
@@ -35,15 +62,6 @@
       "excerpt": "Hundreds of thousands of young protesters assembled in Delhi’s Jantar Mantar every day to demand the resignation of the education minister and accountability from the Modi government.",
       "link": "https://www.dropsitenews.com/p/india-cockroach-protests-end-modi-education-minister-resigns",
       "published": "2026-07-25T18:15:50+00:00",
-      "featured": false
-    },
-    {
-      "id": "1a60ae787f6e",
-      "source": "404 Media",
-      "headline": "Scientists Uncover Lost ‘Golden Age’ of Languages That Ended 1,000 Years Ago",
-      "excerpt": "Scientists have predicted that human linguistic diversity flourished between 3,000 and 1,000 years ago, before declining with the rise of multinational states and colonial expansion.",
-      "link": "https://www.404media.co/scientists-uncover-lost-golden-age-of-languages-that-ended-1-000-years-ago/",
-      "published": "2026-07-25T10:00:43+00:00",
       "featured": false
     },
     {
@@ -65,24 +83,6 @@
       "featured": false
     },
     {
-      "id": "5b09e0879a62",
-      "source": "ProPublica",
-      "headline": "Ken Paxton Touts His Efforts to Fight Voter Fraud. His Senate Opponent Is Now Accusing Him of Committing It.",
-      "excerpt": "The post Ken Paxton Touts His Efforts to Fight Voter Fraud. His Senate Opponent Is Now Accusing Him of Committing It. appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/ken-paxton-voter-registration-james-talarico",
-      "published": "2026-07-24T15:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "6c366dc1b20a",
-      "source": "Rest of World",
-      "headline": "Why state-owned AI won’t solve inequality",
-      "excerpt": "Government ownership of AI companies may promise shared wealth, but it risks weakening oversight and accountability.",
-      "link": "https://restofworld.org/2026/ai-government-ownership/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-      "published": "2026-07-24T13:00:00+00:00",
-      "featured": false
-    },
-    {
       "id": "78e93507b9c1",
       "source": "ICIJ",
       "headline": "Inside the Matrix: How models, influencers and engagement quotas power the Social Discovery Group’s dating machine and global profits",
@@ -101,12 +101,12 @@
       "featured": false
     },
     {
-      "id": "b0bc5cf69fce",
+      "id": "c310ea50f7ae",
       "source": "Al Jazeera",
-      "headline": "Firefighters battle to contain wildfires still burning near Bordeaux",
-      "excerpt": "Wildfires in southwestern France are continuing to burn near the city of Bordeaux.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/27/firefighters-battle-to-contain-wildfires-still-burning-near-bordeaux?traffic_source=rss",
-      "published": "2026-07-27T02:50:05+00:00",
+      "headline": "FIFA’s Infantino issues letter, accuses World Cup critics of spreading hate",
+      "excerpt": "FIFA faced criticism over several issues during the tournament, including a debate over US visa restrictions for teams.",
+      "link": "https://www.aljazeera.com/sports/2026/7/27/fifa-president-infantino-accuses-2026-world-cup-critics-of-spreading-hate-letter?traffic_source=rss",
+      "published": "2026-07-27T09:33:55+00:00",
       "featured": false
     },
     {
@@ -128,21 +128,21 @@
       "featured": false
     },
     {
+      "id": "1a60ae787f6e",
+      "source": "404 Media",
+      "headline": "Scientists Uncover Lost ‘Golden Age’ of Languages That Ended 1,000 Years Ago",
+      "excerpt": "Scientists have predicted that human linguistic diversity flourished between 3,000 and 1,000 years ago, before declining with the rise of multinational states and colonial expansion.",
+      "link": "https://www.404media.co/scientists-uncover-lost-golden-age-of-languages-that-ended-1-000-years-ago/",
+      "published": "2026-07-25T10:00:43+00:00",
+      "featured": false
+    },
+    {
       "id": "36e0d8b6830d",
       "source": "Dropsite News",
       "headline": "The Last-Minute Million-Dollar Ad Spend Against Will Lawrence Is Coming From a Major Pro-Israel Group",
       "excerpt": "Democratic Majority for Israel is routing the contribution through a CBC-linked PAC—producing a one-of-a-kind irony.",
       "link": "https://www.dropsitenews.com/p/dmfi-will-lawrence-michigan-haley-stevens-consultant-palantir",
       "published": "2026-07-24T21:51:16+00:00",
-      "featured": false
-    },
-    {
-      "id": "123a83a08669",
-      "source": "404 Media",
-      "headline": "Behind the Blog: No Spoilers",
-      "excerpt": "This week, we discuss astrology, Flock on the brain, The Odyssey, and more.",
-      "link": "https://www.404media.co/behind-the-blog-no-spoilers/",
-      "published": "2026-07-24T18:11:04+00:00",
       "featured": false
     },
     {
@@ -155,21 +155,21 @@
       "featured": false
     },
     {
-      "id": "fa683ecfc35c",
+      "id": "5b09e0879a62",
       "source": "ProPublica",
-      "headline": "How Videos Helped Me Uncover Abuse at an Arkansas Private School",
-      "excerpt": "The post How Videos Helped Me Uncover Abuse at an Arkansas Private School appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/arkansas-private-school-abuse-video",
-      "published": "2026-07-24T09:00:00+00:00",
+      "headline": "Ken Paxton Touts His Efforts to Fight Voter Fraud. His Senate Opponent Is Now Accusing Him of Committing It.",
+      "excerpt": "The post Ken Paxton Touts His Efforts to Fight Voter Fraud. His Senate Opponent Is Now Accusing Him of Committing It. appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/ken-paxton-voter-registration-james-talarico",
+      "published": "2026-07-24T15:00:00+00:00",
       "featured": false
     },
     {
-      "id": "73410466b4b0",
+      "id": "6c366dc1b20a",
       "source": "Rest of World",
-      "headline": "The hidden cost of Myanmar’s rare earth mines",
-      "excerpt": "As the U.S. races to bypass China, the global hunger for critical minerals is financing warlords and poisoning Myanmar's borderlands.",
-      "link": "https://restofworld.org/2026/myanmar-china-rare-earths-damage/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-      "published": "2026-07-23T15:00:00+00:00",
+      "headline": "Why state-owned AI won’t solve inequality",
+      "excerpt": "Government ownership of AI companies may promise shared wealth, but it risks weakening oversight and accountability.",
+      "link": "https://restofworld.org/2026/ai-government-ownership/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "published": "2026-07-24T13:00:00+00:00",
       "featured": false
     },
     {
@@ -200,12 +200,12 @@
       "featured": false
     },
     {
-      "id": "075aa3a97631",
+      "id": "00be5bb11e29",
       "source": "Al Jazeera",
-      "headline": "Why Mali’s northern conflict has entered a dangerous new phase",
-      "excerpt": "A separatist–al-Qaeda alliance has shifted the balance of power in northern Mali and complicated efforts to end the war.",
-      "link": "https://www.aljazeera.com/news/2026/7/27/why-malis-northern-conflict-has-entered-a-dangerous-new-phase?traffic_source=rss",
-      "published": "2026-07-27T02:49:45+00:00",
+      "headline": "Macron calls crisis meeting of French cabinet as blaze approaches Bordeaux",
+      "excerpt": "The situation in France is currently stable, authorities say, but another heatwave is on the way.",
+      "link": "https://www.aljazeera.com/news/2026/7/27/macron-calls-crisis-meeting-of-french-cabinet-as-blaze-approaches-bordeaux?traffic_source=rss",
+      "published": "2026-07-27T09:26:42+00:00",
       "featured": false
     },
     {
@@ -215,6 +215,15 @@
       "excerpt": "An angecywide memo reinstated ICE vehicle stops with all-new restrictive policy guidelines. The post Leaked Email Reveals New Requirements for ICE Vehicle Stops appeared first on The Intercept.",
       "link": "https://theintercept.com/2026/07/25/trump-ice-vehicle-stops-policy/",
       "published": "2026-07-25T10:10:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "123a83a08669",
+      "source": "404 Media",
+      "headline": "Behind the Blog: No Spoilers",
+      "excerpt": "This week, we discuss astrology, Flock on the brain, The Odyssey, and more.",
+      "link": "https://www.404media.co/behind-the-blog-no-spoilers/",
+      "published": "2026-07-24T18:11:04+00:00",
       "featured": false
     },
     {
@@ -245,30 +254,21 @@
       "featured": false
     },
     {
-      "id": "228ca1830e6f",
-      "source": "404 Media",
-      "headline": "A Court Reporter Submitted AI-Generated Errors in Official Court Transcript, Judge Says",
-      "excerpt": "A judge in Indiana warns a court reporter that it's their job to proofread their work, after catching errors likely made by AI transcription services.",
-      "link": "https://www.404media.co/judge-caught-court-reporter-using-ai-transcript-errors/",
-      "published": "2026-07-23T21:41:29+00:00",
-      "featured": false
-    },
-    {
-      "id": "84aa01a1ef6e",
-      "source": "Rest of World",
-      "headline": "Fed up with Big Tech, communities turn to data collectives for control",
-      "excerpt": "Data collectives and cooperatives, which let creators control the collection and distribution of their data, are emerging as preferred alternatives to big tech companies.",
-      "link": "https://restofworld.org/2026/ai-data-collectives-mozilla/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-      "published": "2026-07-23T10:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "f6cd7bff4b58",
+      "id": "fa683ecfc35c",
       "source": "ProPublica",
-      "headline": "5 Raw Quotes From America’s Largest Raw-Milk Dairy Owner",
-      "excerpt": "The post 5 Raw Quotes From America’s Largest Raw-Milk Dairy Owner appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/5-quotes-raw-milk-mark-mcafee",
-      "published": "2026-07-23T09:00:00+00:00",
+      "headline": "How Videos Helped Me Uncover Abuse at an Arkansas Private School",
+      "excerpt": "The post How Videos Helped Me Uncover Abuse at an Arkansas Private School appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/arkansas-private-school-abuse-video",
+      "published": "2026-07-24T09:00:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "73410466b4b0",
+      "source": "Rest of World",
+      "headline": "The hidden cost of Myanmar’s rare earth mines",
+      "excerpt": "As the U.S. races to bypass China, the global hunger for critical minerals is financing warlords and poisoning Myanmar's borderlands.",
+      "link": "https://restofworld.org/2026/myanmar-china-rare-earths-damage/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "published": "2026-07-23T15:00:00+00:00",
       "featured": false
     },
     {
@@ -290,12 +290,12 @@
       "featured": false
     },
     {
-      "id": "a9758fc50dd6",
+      "id": "744b26cbf913",
       "source": "Al Jazeera",
-      "headline": "Massive iceberg capsizes off the coast of Greenland",
-      "excerpt": "A massive iceberg capsized off the coast of Ilulissat, Greenland flipping with force to reveal its jagged underside.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/27/aje-onl-nf_massive-iceberg-capsizes-off-the-coast-of-greenland-260726?traffic_source=rss",
-      "published": "2026-07-27T02:15:46+00:00",
+      "headline": "The Ban: A censorship loophole during the conflict in Northern Ireland",
+      "excerpt": "A censorship saga about how the voices of republican leaders in Northern Ireland were banned by the British government.",
+      "link": "https://www.aljazeera.com/video/witness/2026/7/27/the-ban-a-censorship-loophole-during-the-conflict-in-northern-ireland?traffic_source=rss",
+      "published": "2026-07-27T09:05:24+00:00",
       "featured": false
     },
     {
@@ -317,12 +317,12 @@
       "featured": false
     },
     {
-      "id": "9549ad00d636",
+      "id": "228ca1830e6f",
       "source": "404 Media",
-      "headline": "Flock's CEO Says its ALPRs Don't Do Video After Repeatedly Announcing They Can",
-      "excerpt": "Flock's CEO Garrett Langley says people don't understand the capabilities of its ALPR system, but they do.",
-      "link": "https://www.404media.co/flocks-ceo-says-its-alprs-dont-do-video-after-repeatedly-announcing-they-can/",
-      "published": "2026-07-23T20:12:32+00:00",
+      "headline": "A Court Reporter Submitted AI-Generated Errors in Official Court Transcript, Judge Says",
+      "excerpt": "A judge in Indiana warns a court reporter that it's their job to proofread their work, after catching errors likely made by AI transcription services.",
+      "link": "https://www.404media.co/judge-caught-court-reporter-using-ai-transcript-errors/",
+      "published": "2026-07-23T21:41:29+00:00",
       "featured": false
     },
     {
@@ -344,21 +344,21 @@
       "featured": false
     },
     {
-      "id": "5cc6eece6f03",
+      "id": "84aa01a1ef6e",
       "source": "Rest of World",
-      "headline": "The U.S. wants to contain China’s AI. Silicon Valley keeps using it",
-      "excerpt": "As Apple, Thinking Machines, and developers worldwide embrace Chinese AI models such as Kimi K3, U.S. policymakers are struggling to protect the AI lead.",
-      "link": "https://restofworld.org/2026/china-siliconvalley-ai-moonshot-kimi/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-      "published": "2026-07-22T10:00:00+00:00",
+      "headline": "Fed up with Big Tech, communities turn to data collectives for control",
+      "excerpt": "Data collectives and cooperatives, which let creators control the collection and distribution of their data, are emerging as preferred alternatives to big tech companies.",
+      "link": "https://restofworld.org/2026/ai-data-collectives-mozilla/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "published": "2026-07-23T10:00:00+00:00",
       "featured": false
     },
     {
-      "id": "958eb3c11d02",
+      "id": "f6cd7bff4b58",
       "source": "ProPublica",
-      "headline": "How the Government’s Obligation to Keep Foreign Workers Safe Collided With Its Efforts to Keep Farms Afloat",
-      "excerpt": "The post How the Government’s Obligation to Keep Foreign Workers Safe Collided With Its Efforts to Keep Farms Afloat appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/h-2a-farmworker-protections-profits-trump",
-      "published": "2026-07-22T09:00:00+00:00",
+      "headline": "5 Raw Quotes From America’s Largest Raw-Milk Dairy Owner",
+      "excerpt": "The post 5 Raw Quotes From America’s Largest Raw-Milk Dairy Owner appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/5-quotes-raw-milk-mark-mcafee",
+      "published": "2026-07-23T09:00:00+00:00",
       "featured": false
     },
     {
@@ -380,12 +380,12 @@
       "featured": false
     },
     {
-      "id": "5af3b0cbef5e",
+      "id": "6bd9a1ea2fe3",
       "source": "Al Jazeera",
-      "headline": "Ebola infections in DR Congo surge to 3,200, with 1,405 deaths",
-      "excerpt": "Cases have surged by 1,000 in just 10 days as outbreak continues to spread across five provinces.",
-      "link": "https://www.aljazeera.com/news/2026/7/27/ebola-infections-in-dr-congo-surge-to-3200-with-1405-deaths?traffic_source=rss",
-      "published": "2026-07-27T01:59:02+00:00",
+      "headline": "Diomande, Real Madrid ‘agree terms’ for transfer of Leipzig winger",
+      "excerpt": "After an impressive campaign at the FIFA World Cup, Yan Diomande will reportedly join world's richest football club.",
+      "link": "https://www.aljazeera.com/sports/2026/7/27/yan-diomande-real-madrid-agree-terms-transfer-deal-football-leipzig?traffic_source=rss",
+      "published": "2026-07-27T09:00:45+00:00",
       "featured": false
     },
     {
@@ -407,21 +407,21 @@
       "featured": false
     },
     {
+      "id": "9549ad00d636",
+      "source": "404 Media",
+      "headline": "Flock's CEO Says its ALPRs Don't Do Video After Repeatedly Announcing They Can",
+      "excerpt": "Flock's CEO Garrett Langley says people don't understand the capabilities of its ALPR system, but they do.",
+      "link": "https://www.404media.co/flocks-ceo-says-its-alprs-dont-do-video-after-repeatedly-announcing-they-can/",
+      "published": "2026-07-23T20:12:32+00:00",
+      "featured": false
+    },
+    {
       "id": "cf56fde41b9f",
       "source": "Dropsite News",
       "headline": "Asesinan A La Fiscal Que Investigaba Los Ataques Estadounidenses Contra Pescadores Ecuatorianos y Denuncias De Tortura",
       "excerpt": "Han surgido nuevas pruebas sobre la actividad de la Guardia Costera Estadounidense tras dos ataques, lo cual corrobora el testimonio de los sobrevivientes.",
       "link": "https://www.dropsitenews.com/p/asesinan-a-la-fiscal-que-investigaba",
       "published": "2026-07-23T17:50:20+00:00",
-      "featured": false
-    },
-    {
-      "id": "d2c9e5010902",
-      "source": "404 Media",
-      "headline": "Patreon Lays Off 20 Percent of Its Workforce",
-      "excerpt": "In an internal email shared with creators, CEO Jack Conte wrote that AI doesn’t replace human creativity — but it does affect how the company operates.",
-      "link": "https://www.404media.co/patreon-lays-off-20-percent-of-its-workforce/",
-      "published": "2026-07-23T15:24:36+00:00",
       "featured": false
     },
     {
@@ -434,21 +434,21 @@
       "featured": false
     },
     {
-      "id": "9043dcf2350e",
+      "id": "5cc6eece6f03",
       "source": "Rest of World",
-      "headline": "China’s AI talent race is starting in high school",
-      "excerpt": "As demand for elite AI engineers outpaces supply, companies are recruiting teenagers through camps, research programs, and guaranteed job pipelines.",
-      "link": "https://restofworld.org/2026/china-tech-recruiting-teenagers-ai-shortage/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-      "published": "2026-07-21T10:00:00+00:00",
+      "headline": "The U.S. wants to contain China’s AI. Silicon Valley keeps using it",
+      "excerpt": "As Apple, Thinking Machines, and developers worldwide embrace Chinese AI models such as Kimi K3, U.S. policymakers are struggling to protect the AI lead.",
+      "link": "https://restofworld.org/2026/china-siliconvalley-ai-moonshot-kimi/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "published": "2026-07-22T10:00:00+00:00",
       "featured": false
     },
     {
-      "id": "66c67f2edea4",
+      "id": "958eb3c11d02",
       "source": "ProPublica",
-      "headline": "My Maddening Quest to Find Out if Blueberries Come From Farms Where Workers Were Harmed",
-      "excerpt": "The post My Maddening Quest to Find Out if Blueberries Come From Farms Where Workers Were Harmed appeared first on ProPublica.",
-      "link": "https://projects.propublica.org/blueberries-farmworker-mistreatment/",
-      "published": "2026-07-21T09:00:00+00:00",
+      "headline": "How the Government’s Obligation to Keep Foreign Workers Safe Collided With Its Efforts to Keep Farms Afloat",
+      "excerpt": "The post How the Government’s Obligation to Keep Foreign Workers Safe Collided With Its Efforts to Keep Farms Afloat appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/h-2a-farmworker-protections-profits-trump",
+      "published": "2026-07-22T09:00:00+00:00",
       "featured": false
     },
     {
@@ -470,12 +470,12 @@
       "featured": false
     },
     {
-      "id": "4489424df469",
+      "id": "2b4af79d89df",
       "source": "Al Jazeera",
-      "headline": "Lebanese return to homes of rubble left by Israel in so-called pilot zones",
-      "excerpt": "Lebanon's army has accused Israel of bulldozing homes and hindering its efforts to escort residents to 'pilot zones'.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/27/lebanese-return-to-homes-of-rubble-left-by-israel-in-so-called-pilot-zones?traffic_source=rss",
-      "published": "2026-07-27T01:40:16+00:00",
+      "headline": "Death toll from Pakistan monsoon rains, floods tops 100",
+      "excerpt": "Punjab’s monsoon season usually lasts until September, and more rain is expected this week.",
+      "link": "https://www.aljazeera.com/news/2026/7/27/death-toll-from-pakistan-monsoon-rains-floods-tops-100?traffic_source=rss",
+      "published": "2026-07-27T08:53:05+00:00",
       "featured": false
     },
     {
@@ -506,12 +506,12 @@
       "featured": false
     },
     {
-      "id": "5b79f58bf3c7",
+      "id": "d2c9e5010902",
       "source": "404 Media",
-      "headline": "The Rise of Anti-Flock Influencers Who Make Things Up for Clout",
-      "excerpt": "Instagram influencers are creating fake cease-and-desist letters, making themselves go viral and muddying the waters about mass surveillance.",
-      "link": "https://www.404media.co/the-rise-of-anti-flock-influencers-who-make-things-up-for-clout/",
-      "published": "2026-07-23T14:51:32+00:00",
+      "headline": "Patreon Lays Off 20 Percent of Its Workforce",
+      "excerpt": "In an internal email shared with creators, CEO Jack Conte wrote that AI doesn’t replace human creativity — but it does affect how the company operates.",
+      "link": "https://www.404media.co/patreon-lays-off-20-percent-of-its-workforce/",
+      "published": "2026-07-23T15:24:36+00:00",
       "featured": false
     },
     {
@@ -524,21 +524,21 @@
       "featured": false
     },
     {
-      "id": "939a88797170",
-      "source": "ProPublica",
-      "headline": "Children in This Church Were Sexually Abused. Then They Began Abusing Other Kids. Some Continued as Adults.",
-      "excerpt": "The post Children in This Church Were Sexually Abused. Then They Began Abusing Other Kids. Some Continued as Adults. appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/old-apostolic-lutheran-church-child-sexual-assault-cycle-abuse",
-      "published": "2026-07-20T10:00:00+00:00",
+      "id": "9043dcf2350e",
+      "source": "Rest of World",
+      "headline": "China’s AI talent race is starting in high school",
+      "excerpt": "As demand for elite AI engineers outpaces supply, companies are recruiting teenagers through camps, research programs, and guaranteed job pipelines.",
+      "link": "https://restofworld.org/2026/china-tech-recruiting-teenagers-ai-shortage/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "published": "2026-07-21T10:00:00+00:00",
       "featured": false
     },
     {
-      "id": "99c22cbf755c",
-      "source": "Rest of World",
-      "headline": "AI is shrinking video game development teams to one",
-      "excerpt": "AI is helping solo developers thrive in Turkey’s gaming industry, but writers, artists, and junior programmers are being left behind.",
-      "link": "https://restofworld.org/2026/ai-video-games-developer-jobs/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-      "published": "2026-07-20T10:00:00+00:00",
+      "id": "66c67f2edea4",
+      "source": "ProPublica",
+      "headline": "My Maddening Quest to Find Out if Blueberries Come From Farms Where Workers Were Harmed",
+      "excerpt": "The post My Maddening Quest to Find Out if Blueberries Come From Farms Where Workers Were Harmed appeared first on ProPublica.",
+      "link": "https://projects.propublica.org/blueberries-farmworker-mistreatment/",
+      "published": "2026-07-21T09:00:00+00:00",
       "featured": false
     }
   ]
