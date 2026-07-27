@@ -1,6 +1,51 @@
 {
-  "generated_at": "2026-07-27T15:14:14.521641+00:00",
+  "generated_at": "2026-07-27T19:55:40.437182+00:00",
   "articles": [
+    {
+      "id": "93ece6778dd2",
+      "source": "Al Jazeera",
+      "headline": "UN eyeing potential Israeli war crimes in Lebanon",
+      "excerpt": "High Commissioner Turk discusses displacement and trauma in Lebanon, asserting Israel is violating international law.",
+      "link": "https://www.aljazeera.com/news/2026/7/27/un-eyeing-potential-israeli-war-crimes-in-lebanon?traffic_source=rss",
+      "published": "2026-07-27T19:32:53+00:00",
+      "featured": true
+    },
+    {
+      "id": "bbc39061fd6b",
+      "source": "Dropsite News",
+      "headline": "Drone Strikes Are Destroying the Infrastructure of Survival in the Heart of Sudan",
+      "excerpt": "In El-Obeid, RSF drone strikes are destroying fuel, electricity, and water that keeps the most fragile patients alive.",
+      "link": "https://www.dropsitenews.com/p/el-obeid-sudan-hospitals-rsf-drones",
+      "published": "2026-07-27T19:25:37+00:00",
+      "featured": true
+    },
+    {
+      "id": "b1ab37ffb329",
+      "source": "The Lever",
+      "headline": "These Democrats Voted Against The Iran War — Then Agreed To Fund It",
+      "excerpt": "Six House Democrats voted to expand Trump’s military budget despite supporting resolutions directing the president to end the war on Iran.",
+      "link": "https://www.levernews.com/these-democrats-voted-against-the-iran-war-then-agreed-to-fund-it/",
+      "published": "2026-07-27T18:13:16+00:00",
+      "featured": true
+    },
+    {
+      "id": "fe7b1193e2b1",
+      "source": "OCCRP",
+      "headline": "US Sanctions Family of Iranian Tycoon in Crackdown on Alleged IRGC Crypto Network",
+      "excerpt": "The U.S. Treasury Department has sanctioned the sister and “significant other” of Iranian tycoon Babak Zanjani, targeting a network of crypto exchanges and global companies accused of laundering funds for Iran’s...",
+      "link": "https://www.occrp.org/en/news/us-sanctions-family-of-iranian-tycoon-in-crackdown-on-alleged-irgc-crypto-network",
+      "published": "2026-07-27T17:17:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "66f55ea3b809",
+      "source": "The Intercept",
+      "headline": "The Right Seeks to Capitalize on Berlin Pride Attack — Even as It Poses Its Own Existential Threat to Queer Lives",
+      "excerpt": "Day in and day out, it is the likes of Germany’s conservative parties, and the Republicans at home, who are assaulting LGBTQ+ rights. The post The Right Seeks to Capitalize on Berlin Pride Attack — Even as It Poses Its...",
+      "link": "https://theintercept.com/2026/07/27/berlin-pride-attack-afd-trump/",
+      "published": "2026-07-27T16:59:26+00:00",
+      "featured": false
+    },
     {
       "id": "44be8f915eb7",
       "source": "404 Media",
@@ -8,33 +53,6 @@
       "excerpt": "Joseph speaks to Mike Yeagley about how he bought the world's location data, and what that means for everyone's privacy and security.",
       "link": "https://www.404media.co/this-man-bought-phone-location-data-from-around-the-world-with-mike-yeagley/",
       "published": "2026-07-27T14:52:02+00:00",
-      "featured": true
-    },
-    {
-      "id": "255a900114ff",
-      "source": "Al Jazeera",
-      "headline": "Honduras’s Hernandez returns home after Trump pardon: How it happened",
-      "excerpt": "Sentenced to 45 years in the US, Hernandez returns home to his family, party and supporters after Trump pardons him.",
-      "link": "https://www.aljazeera.com/news/2026/7/27/hondurass-hernandez-returns-home-after-trump-pardon-how-it-happened?traffic_source=rss",
-      "published": "2026-07-27T14:24:50+00:00",
-      "featured": true
-    },
-    {
-      "id": "d17181d173fb",
-      "source": "The Intercept",
-      "headline": "Fetterman Might Leave Democratic Party Because the Only Thing He Loves More Than Israel Is Attention",
-      "excerpt": "Why is the senator floating the idea of leaving the Democratic Party? Well, Israel, of course. Though he sure loves the media coverage. The post Fetterman Might Leave Democratic Party Because the Only Thing He Loves...",
-      "link": "https://theintercept.com/2026/07/27/fetterman-leave-democrat-party-israel/",
-      "published": "2026-07-27T14:00:33+00:00",
-      "featured": true
-    },
-    {
-      "id": "b5cf9580a34e",
-      "source": "OCCRP",
-      "headline": "Fake Companies, Millions in Cash: Georgia Charges Four in $8.2M Laundering Scheme",
-      "excerpt": "",
-      "link": "https://www.occrp.org/en/news/fake-companies-millions-in-cash-georgia-charges-four-in-82m-laundering-scheme",
-      "published": "2026-07-27T12:27:00+00:00",
       "featured": false
     },
     {
@@ -53,24 +71,6 @@
       "excerpt": "The post How Trump’s “America First” Administration Could Shut U.S. Scientists Out of the Next Nobel-Worthy Discovery appeared first on ProPublica.",
       "link": "https://www.propublica.org/article/federal-science-grants-russell-vought-omb",
       "published": "2026-07-27T09:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "797b96d615d2",
-      "source": "The Lever",
-      "headline": "Whitmer’s War Against Medicare For All",
-      "excerpt": "Michigan’s Democratic governor is helping her healthcare donors try to stop Abdul El-Sayed’s crusade.",
-      "link": "https://www.levernews.com/whitmers-war-against-medicare-for-all/",
-      "published": "2026-07-25T20:49:28+00:00",
-      "featured": false
-    },
-    {
-      "id": "609543bdfa95",
-      "source": "Dropsite News",
-      "headline": "India’s Cockroach Protests End as Modi Government Bows to Demands",
-      "excerpt": "Hundreds of thousands of young protesters assembled in Delhi’s Jantar Mantar every day to demand the resignation of the education minister and accountability from the Modi government.",
-      "link": "https://www.dropsitenews.com/p/india-cockroach-protests-end-modi-education-minister-resigns",
-      "published": "2026-07-25T18:15:50+00:00",
       "featured": false
     },
     {
@@ -101,12 +101,30 @@
       "featured": false
     },
     {
-      "id": "c8663018c875",
+      "id": "eaa258bd7603",
       "source": "Al Jazeera",
-      "headline": "Five decades of Israeli covert strategy to push US, Iran into confrontation",
-      "excerpt": "Successive Israeli governments have undermined diplomatic efforts and stoked tensions between Washington and Tehran.",
-      "link": "https://www.aljazeera.com/opinions/2026/7/27/five-decades-of-israeli-covert-strategy-to-push-us-iran-into-confrontation?traffic_source=rss",
-      "published": "2026-07-27T14:04:43+00:00",
+      "headline": "Why have US-Lebanon direct flights been banned for 40 years?",
+      "excerpt": "Why have US-Lebanon direct flights been banned for 40 years?",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/27/why-have-us-lebanon-direct-flights-been-banned-for-40-years?traffic_source=rss",
+      "published": "2026-07-27T19:24:21+00:00",
+      "featured": false
+    },
+    {
+      "id": "521155c249e6",
+      "source": "The Intercept",
+      "headline": "House Investigation of BreakThrough News Is an Attack on All Journalism",
+      "excerpt": "Favorable coverage of U.S. adversaries is constitutionally protected speech. The post House Investigation of BreakThrough News Is an Attack on All Journalism appeared first on The Intercept.",
+      "link": "https://theintercept.com/2026/07/27/breakthrough-news-journalists-subpoena/",
+      "published": "2026-07-27T15:42:21+00:00",
+      "featured": false
+    },
+    {
+      "id": "483d7968de33",
+      "source": "Dropsite News",
+      "headline": "Iran war pauses; Yemen and Saudi go “siege for a siege”; Dr. Fauci’s diary",
+      "excerpt": "Drop Site Daily: July 27, 2026",
+      "link": "https://www.dropsitenews.com/p/iran-us-war-pause-yemen-saudi-ansarallah-fauci-diary-covid",
+      "published": "2026-07-27T15:39:49+00:00",
       "featured": false
     },
     {
@@ -119,39 +137,21 @@
       "featured": false
     },
     {
-      "id": "8b123acc0949",
-      "source": "The Intercept",
-      "headline": "Abdul El-Sayed Faces Islamophobic Attacks From GOP and Democratic Establishment",
-      "excerpt": "AIPAC has spent nearly $30 million against the Michigan Democratic Senate candidate, fueling ads that paint him as a terrorist sympathizer. The post Abdul El-Sayed Faces Islamophobic Attacks From GOP and Democratic...",
-      "link": "https://theintercept.com/2026/07/27/abdul-el-sayed-haley-stevens-aipac-senate-michigan/",
-      "published": "2026-07-27T10:12:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "f279ff8af7a4",
-      "source": "The Lever",
-      "headline": "You Love To See It: My Kingdom For A Sweatshirt",
-      "excerpt": "First Amendment rights get fashionable, New York takes a data center pause, Lina Khan returns to public service, and retirees get payback.",
-      "link": "https://www.levernews.com/you-love-to-see-it-my-kingdom-for-a-sweatshirt/",
-      "published": "2026-07-25T13:01:51+00:00",
-      "featured": false
-    },
-    {
-      "id": "36e0d8b6830d",
-      "source": "Dropsite News",
-      "headline": "The Last-Minute Million-Dollar Ad Spend Against Will Lawrence Is Coming From a Major Pro-Israel Group",
-      "excerpt": "Democratic Majority for Israel is routing the contribution through a CBC-linked PAC—producing a one-of-a-kind irony.",
-      "link": "https://www.dropsitenews.com/p/dmfi-will-lawrence-michigan-haley-stevens-consultant-palantir",
-      "published": "2026-07-24T21:51:16+00:00",
-      "featured": false
-    },
-    {
-      "id": "f63b48844f84",
+      "id": "b5cf9580a34e",
       "source": "OCCRP",
-      "headline": "Montenegrin Court Sentences Fugitive Kavač Clan Boss to 40 Years in Prison",
-      "excerpt": "Using intercepted communications from the encrypted Sky app as evidence, a Montenegrin court handed down a combined 148 years in prison to the Kavač clan leader and his criminal network.",
-      "link": "https://www.occrp.org/en/news/montenegrin-court-sentences-fugitive-kavac-clan-boss-to-40-years-in-prison",
-      "published": "2026-07-24T16:14:00+00:00",
+      "headline": "Fake Companies, Millions in Cash: Georgia Charges Four in $8.2M Laundering Scheme",
+      "excerpt": "",
+      "link": "https://www.occrp.org/en/news/fake-companies-millions-in-cash-georgia-charges-four-in-82m-laundering-scheme",
+      "published": "2026-07-27T12:27:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "797b96d615d2",
+      "source": "The Lever",
+      "headline": "Whitmer’s War Against Medicare For All",
+      "excerpt": "Michigan’s Democratic governor is helping her healthcare donors try to stop Abdul El-Sayed’s crusade.",
+      "link": "https://www.levernews.com/whitmers-war-against-medicare-for-all/",
+      "published": "2026-07-25T20:49:28+00:00",
       "featured": false
     },
     {
@@ -200,12 +200,21 @@
       "featured": false
     },
     {
-      "id": "e30597017905",
+      "id": "4ac74f0dbb82",
       "source": "Al Jazeera",
-      "headline": "Five years after Saied’s power grab, Tunisians are no better off",
-      "excerpt": "Tunisia has seen no economic benefit from power consolidation, while liberties have dwindled.",
-      "link": "https://www.aljazeera.com/opinions/2026/7/27/five-years-after-saieds-power-grab-tunisians-are-no-better-off?traffic_source=rss",
-      "published": "2026-07-27T14:03:09+00:00",
+      "headline": "Pakistan-administered Kashmir opens polls in violence-wracked vote",
+      "excerpt": "First of three rounds of voting held after weeks of protests during which dozens of people were killed.",
+      "link": "https://www.aljazeera.com/news/2026/7/27/pakistan-administered-kashmir-opens-polls-in-violence-wracked-vote?traffic_source=rss",
+      "published": "2026-07-27T18:53:10+00:00",
+      "featured": false
+    },
+    {
+      "id": "d17181d173fb",
+      "source": "The Intercept",
+      "headline": "Fetterman Might Leave Democratic Party Because the Only Thing He Loves More Than Israel Is Attention",
+      "excerpt": "Why is the senator floating the idea of leaving the Democratic Party? Well, Israel, of course. Though he sure loves the media coverage. The post Fetterman Might Leave Democratic Party Because the Only Thing He Loves...",
+      "link": "https://theintercept.com/2026/07/27/fetterman-leave-democrat-party-israel/",
+      "published": "2026-07-27T14:00:33+00:00",
       "featured": false
     },
     {
@@ -218,39 +227,30 @@
       "featured": false
     },
     {
-      "id": "fd4ef84923a5",
-      "source": "The Intercept",
-      "headline": "Rubio’s Paranoid Cuba Report Designed to “Justify a Military Attack on Cuba,” Says Democratic Rep.",
-      "excerpt": "Did Cuba foment Black Lives Matter and anti-ICE protests? The State Department seems to think so. The post Rubio’s Paranoid Cuba Report Designed to “Justify a Military Attack on Cuba,” Says Democratic Rep. appeared...",
-      "link": "https://theintercept.com/2026/07/26/cuba-marco-rubio-state-department-report/",
-      "published": "2026-07-26T10:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "00dcbbde46a8",
-      "source": "The Lever",
-      "headline": "What’s In Your Lettuce?",
-      "excerpt": "Test your knowledge of the midterms, the Winklevoss twins, and other issues that really matter.",
-      "link": "https://www.levernews.com/whats-in-your-lettuce/",
-      "published": "2026-07-24T17:12:34+00:00",
-      "featured": false
-    },
-    {
-      "id": "fa89ad1c14c0",
+      "id": "609543bdfa95",
       "source": "Dropsite News",
-      "headline": "Four Palestinians and two Israelis killed in incendiary settler attack; Israel launches major West Bank military operation in response; Oil leaking into Hormuz",
-      "excerpt": "Drop Site Daily: July 24, 2026",
-      "link": "https://www.dropsitenews.com/p/palestine-israel-west-bank-settlers-nablus-hormuz-oil-leak",
-      "published": "2026-07-24T16:16:42+00:00",
+      "headline": "India’s Cockroach Protests End as Modi Government Bows to Demands",
+      "excerpt": "Hundreds of thousands of young protesters assembled in Delhi’s Jantar Mantar every day to demand the resignation of the education minister and accountability from the Modi government.",
+      "link": "https://www.dropsitenews.com/p/india-cockroach-protests-end-modi-education-minister-resigns",
+      "published": "2026-07-25T18:15:50+00:00",
       "featured": false
     },
     {
-      "id": "088ecf7457b3",
+      "id": "f279ff8af7a4",
+      "source": "The Lever",
+      "headline": "You Love To See It: My Kingdom For A Sweatshirt",
+      "excerpt": "First Amendment rights get fashionable, New York takes a data center pause, Lina Khan returns to public service, and retirees get payback.",
+      "link": "https://www.levernews.com/you-love-to-see-it-my-kingdom-for-a-sweatshirt/",
+      "published": "2026-07-25T13:01:51+00:00",
+      "featured": false
+    },
+    {
+      "id": "f63b48844f84",
       "source": "OCCRP",
-      "headline": "Protected Fraud: Georgian Security Chief’s Cousin Gets 12 Years for Call Center Bribes",
-      "excerpt": "Following a secretive trial, Andria Liluashvili was sentenced to 12 years in prison and stripped of $13 million in luxury assets for funneling monthly kickbacks from fraudulent call centers to his relative, the former...",
-      "link": "https://www.occrp.org/en/news/protected-fraud-georgian-security-chiefs-cousin-gets-12-years-for-call-center-bribes",
-      "published": "2026-07-24T16:00:00+00:00",
+      "headline": "Montenegrin Court Sentences Fugitive Kavač Clan Boss to 40 Years in Prison",
+      "excerpt": "Using intercepted communications from the encrypted Sky app as evidence, a Montenegrin court handed down a combined 148 years in prison to the Kavač clan leader and his criminal network.",
+      "link": "https://www.occrp.org/en/news/montenegrin-court-sentences-fugitive-kavac-clan-boss-to-40-years-in-prison",
+      "published": "2026-07-24T16:14:00+00:00",
       "featured": false
     },
     {
@@ -290,12 +290,21 @@
       "featured": false
     },
     {
-      "id": "f56b51432e6a",
+      "id": "6508072aedf0",
       "source": "Al Jazeera",
-      "headline": "Australian court rejects racial discrimination appeal by Pauline Hanson",
-      "excerpt": "⁠Court upholds earlier ruling ⁠that a post directed at Greens Senator Mehreen Faruqi was unlawful.",
-      "link": "https://www.aljazeera.com/news/2026/7/27/australian-court-rejects-racial-discrimination-appeal-by-pauline-hanson?traffic_source=rss",
-      "published": "2026-07-27T13:46:06+00:00",
+      "headline": "Are the US and Iran heading towards a forever war?",
+      "excerpt": "Marc Lamont Hill speaks with sociologist Ali Kadivar on what history shows about the risk of a US forever war in Iran.",
+      "link": "https://www.aljazeera.com/video/upfront/2026/7/27/are-the-us-and-iran-heading-towards-a-forever-war?traffic_source=rss",
+      "published": "2026-07-27T18:40:34+00:00",
+      "featured": false
+    },
+    {
+      "id": "8b123acc0949",
+      "source": "The Intercept",
+      "headline": "Abdul El-Sayed Faces Islamophobic Attacks From GOP and Democratic Establishment",
+      "excerpt": "AIPAC has spent nearly $30 million against the Michigan Democratic Senate candidate, fueling ads that paint him as a terrorist sympathizer. The post Abdul El-Sayed Faces Islamophobic Attacks From GOP and Democratic...",
+      "link": "https://theintercept.com/2026/07/27/abdul-el-sayed-haley-stevens-aipac-senate-michigan/",
+      "published": "2026-07-27T10:12:00+00:00",
       "featured": false
     },
     {
@@ -308,39 +317,30 @@
       "featured": false
     },
     {
-      "id": "39bb6c374032",
-      "source": "The Intercept",
-      "headline": "Pete Hegseth’s Crisis of Masculinity",
-      "excerpt": "The secretary of war’s obsession with testosterone reveals the anxieties he harbors about himself and the military he leads. The post Pete Hegseth’s Crisis of Masculinity appeared first on The Intercept.",
-      "link": "https://theintercept.com/2026/07/25/pete-hegseth-testosterone-military-masculinity/",
-      "published": "2026-07-25T11:08:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "9a31cd643f9a",
-      "source": "OCCRP",
-      "headline": "Lab Owner Suspected of $547 Million Medicare Fraud Extradited to The United States",
-      "excerpt": "Khalid Satary’s laboratories allegedly used call centers, telemedicine doctors and kickbacks to turn medically unnecessary cancer tests into $547 million in Medicare claims. Court records indicate the program paid about...",
-      "link": "https://www.occrp.org/en/news/lab-owner-suspected-of-547-million-medicare-fraud-extradited-to-the-united-states",
-      "published": "2026-07-24T15:42:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "ce3023b3fffb",
+      "id": "36e0d8b6830d",
       "source": "Dropsite News",
-      "headline": "Prosecutor Investigating U.S. Boat Strikes and Claims of Torture Was Murdered in Ecuador",
-      "excerpt": "New evidence has emerged of U.S. Coast Guard activity in the aftermath of two strikes, further corroborating survivor testimony.",
-      "link": "https://www.dropsitenews.com/p/prosecutor-investigating-ecuador-boat-strikes-murdered",
-      "published": "2026-07-23T17:53:09+00:00",
+      "headline": "The Last-Minute Million-Dollar Ad Spend Against Will Lawrence Is Coming From a Major Pro-Israel Group",
+      "excerpt": "Democratic Majority for Israel is routing the contribution through a CBC-linked PAC—producing a one-of-a-kind irony.",
+      "link": "https://www.dropsitenews.com/p/dmfi-will-lawrence-michigan-haley-stevens-consultant-palantir",
+      "published": "2026-07-24T21:51:16+00:00",
       "featured": false
     },
     {
-      "id": "0106dc40c1a9",
+      "id": "00dcbbde46a8",
       "source": "The Lever",
-      "headline": "The SNAP Subsidy",
-      "excerpt": "At America’s biggest corporations, low wages mean thousands of workers rely on federal food stamps to get by.",
-      "link": "https://www.levernews.com/the-snap-subsidy/",
-      "published": "2026-07-23T16:23:23+00:00",
+      "headline": "What’s In Your Lettuce?",
+      "excerpt": "Test your knowledge of the midterms, the Winklevoss twins, and other issues that really matter.",
+      "link": "https://www.levernews.com/whats-in-your-lettuce/",
+      "published": "2026-07-24T17:12:34+00:00",
+      "featured": false
+    },
+    {
+      "id": "088ecf7457b3",
+      "source": "OCCRP",
+      "headline": "Protected Fraud: Georgian Security Chief’s Cousin Gets 12 Years for Call Center Bribes",
+      "excerpt": "Following a secretive trial, Andria Liluashvili was sentenced to 12 years in prison and stripped of $13 million in luxury assets for funneling monthly kickbacks from fraudulent call centers to his relative, the former...",
+      "link": "https://www.occrp.org/en/news/protected-fraud-georgian-security-chiefs-cousin-gets-12-years-for-call-center-bribes",
+      "published": "2026-07-24T16:00:00+00:00",
       "featured": false
     },
     {
@@ -380,21 +380,21 @@
       "featured": false
     },
     {
-      "id": "73dbe0cb52cc",
+      "id": "aaaf5017bad3",
       "source": "Al Jazeera",
-      "headline": "Former Honduras president returns home after Trump pardon",
-      "excerpt": "Former Honduras president returns home after Trump pardon",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/27/former-honduras-president-returns-home-after-trump-pardon?traffic_source=rss",
-      "published": "2026-07-27T13:32:15+00:00",
+      "headline": "Lebanon’s displaced endure ‘exhaustion and despair’",
+      "excerpt": "UN High Commissioner for Human Rights Volker said that Lebanon's displaced endure ‘exhaustion and despair’.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/27/lebanons-displaced-endure-exhaustion-and?traffic_source=rss",
+      "published": "2026-07-27T18:28:06+00:00",
       "featured": false
     },
     {
-      "id": "99cbcc060a8f",
+      "id": "fd4ef84923a5",
       "source": "The Intercept",
-      "headline": "Leaked Email Reveals New Requirements for ICE Vehicle Stops",
-      "excerpt": "An angecywide memo reinstated ICE vehicle stops with all-new restrictive policy guidelines. The post Leaked Email Reveals New Requirements for ICE Vehicle Stops appeared first on The Intercept.",
-      "link": "https://theintercept.com/2026/07/25/trump-ice-vehicle-stops-policy/",
-      "published": "2026-07-25T10:10:00+00:00",
+      "headline": "Rubio’s Paranoid Cuba Report Designed to “Justify a Military Attack on Cuba,” Says Democratic Rep.",
+      "excerpt": "Did Cuba foment Black Lives Matter and anti-ICE protests? The State Department seems to think so. The post Rubio’s Paranoid Cuba Report Designed to “Justify a Military Attack on Cuba,” Says Democratic Rep. appeared...",
+      "link": "https://theintercept.com/2026/07/26/cuba-marco-rubio-state-department-report/",
+      "published": "2026-07-26T10:00:00+00:00",
       "featured": false
     },
     {
@@ -407,30 +407,30 @@
       "featured": false
     },
     {
-      "id": "b2e54ac32a02",
-      "source": "OCCRP",
-      "headline": "EU Targets Georgian Oil Refinery Over Russian Crude Processing",
-      "excerpt": "The European Union is placing a deferred transaction ban on a Georgian oil refinery for processing Russian crude, giving the facility six months before the measure takes effect under its 21st sanctions package.",
-      "link": "https://www.occrp.org/en/news/eu-targets-georgian-oil-refinery-over-russian-crude-processing",
-      "published": "2026-07-24T15:06:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "cf56fde41b9f",
+      "id": "fa89ad1c14c0",
       "source": "Dropsite News",
-      "headline": "Asesinan A La Fiscal Que Investigaba Los Ataques Estadounidenses Contra Pescadores Ecuatorianos y Denuncias De Tortura",
-      "excerpt": "Han surgido nuevas pruebas sobre la actividad de la Guardia Costera Estadounidense tras dos ataques, lo cual corrobora el testimonio de los sobrevivientes.",
-      "link": "https://www.dropsitenews.com/p/asesinan-a-la-fiscal-que-investigaba",
-      "published": "2026-07-23T17:50:20+00:00",
+      "headline": "Four Palestinians and two Israelis killed in incendiary settler attack; Israel launches major West Bank military operation in response; Oil leaking into Hormuz",
+      "excerpt": "Drop Site Daily: July 24, 2026",
+      "link": "https://www.dropsitenews.com/p/palestine-israel-west-bank-settlers-nablus-hormuz-oil-leak",
+      "published": "2026-07-24T16:16:42+00:00",
       "featured": false
     },
     {
-      "id": "2f9478125ffa",
+      "id": "9a31cd643f9a",
+      "source": "OCCRP",
+      "headline": "Lab Owner Suspected of $547 Million Medicare Fraud Extradited to The United States",
+      "excerpt": "Khalid Satary’s laboratories allegedly used call centers, telemedicine doctors and kickbacks to turn medically unnecessary cancer tests into $547 million in Medicare claims. Court records indicate the program paid about...",
+      "link": "https://www.occrp.org/en/news/lab-owner-suspected-of-547-million-medicare-fraud-extradited-to-the-united-states",
+      "published": "2026-07-24T15:42:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "0106dc40c1a9",
       "source": "The Lever",
-      "headline": "Trump’s Consumer Watchdog Pick Worked For Companies Sued By The Agency",
-      "excerpt": "Financial disclosures reveal Trump’s CFPB pick advised companies accused of ripping off consumers — and if confirmed, he won’t recuse himself from overseeing them.",
-      "link": "https://www.levernews.com/trumps-consumer-watchdog-pick-worked-for-companies-the-agency-sued/",
-      "published": "2026-07-22T21:02:15+00:00",
+      "headline": "The SNAP Subsidy",
+      "excerpt": "At America’s biggest corporations, low wages mean thousands of workers rely on federal food stamps to get by.",
+      "link": "https://www.levernews.com/the-snap-subsidy/",
+      "published": "2026-07-23T16:23:23+00:00",
       "featured": false
     },
     {
@@ -470,12 +470,21 @@
       "featured": false
     },
     {
-      "id": "0ff0770f9aa4",
+      "id": "a4cd6683d477",
       "source": "Al Jazeera",
-      "headline": "Israel’s approval of limited Gaza force a calculated manoeuvre, experts say",
-      "excerpt": "Analysts say Israeli cabinet's decision aims to deflect US pressure and fragment the Gaza Strip.",
-      "link": "https://www.aljazeera.com/news/2026/7/27/israels-approval-of-limited-gaza-force-a-calculated-manoeuvre-experts-say?traffic_source=rss",
-      "published": "2026-07-27T12:58:20+00:00",
+      "headline": "Saudi Arabia defends against drone strikes from ‘Iran-backed’ groups",
+      "excerpt": "Drones launched at Saudi, Jordan and Iraq suggest Iran, or linked groups, may be testing US as it mulls new strategy.",
+      "link": "https://www.aljazeera.com/news/2026/7/27/saudi-arabia-defends-against-drone-strikes-from-iran-backed-groups?traffic_source=rss",
+      "published": "2026-07-27T17:58:27+00:00",
+      "featured": false
+    },
+    {
+      "id": "39bb6c374032",
+      "source": "The Intercept",
+      "headline": "Pete Hegseth’s Crisis of Masculinity",
+      "excerpt": "The secretary of war’s obsession with testosterone reveals the anxieties he harbors about himself and the military he leads. The post Pete Hegseth’s Crisis of Masculinity appeared first on The Intercept.",
+      "link": "https://theintercept.com/2026/07/25/pete-hegseth-testosterone-military-masculinity/",
+      "published": "2026-07-25T11:08:00+00:00",
       "featured": false
     },
     {
@@ -488,39 +497,30 @@
       "featured": false
     },
     {
-      "id": "fc75401c3319",
-      "source": "The Intercept",
-      "headline": "Hegseth Is Pushing Testosterone. The VA Has Already Struggled With the Treatment.",
-      "excerpt": "“Men who take testosterone will have a reduction in their sperm counts,” one medical professor said. There’s no stated plan for continuing care. The post Hegseth Is Pushing Testosterone. The VA Has Already Struggled...",
-      "link": "https://theintercept.com/2026/07/24/hegseth-testosterone-hormone-therapy-veterans-affairs/",
-      "published": "2026-07-24T14:25:58+00:00",
-      "featured": false
-    },
-    {
-      "id": "e8fa95e4b108",
+      "id": "b2e54ac32a02",
       "source": "OCCRP",
-      "headline": "UK Freezes $30 million in London Properties Owned by a Man Under Investigation in Singapore Money Laundering Case",
-      "excerpt": "Britain's National Crime Agency has frozen 16 luxury apartments in central London acquired by Xu Haika, who is under investigation in Singapore as authorities pursue their largest ever money laundering probe.",
-      "link": "https://www.occrp.org/en/news/uk-freezes-30-million-in-london-properties-owned-by-a-man-under-investigation-in-singapore-money-laundering-case",
-      "published": "2026-07-24T13:06:00+00:00",
+      "headline": "EU Targets Georgian Oil Refinery Over Russian Crude Processing",
+      "excerpt": "The European Union is placing a deferred transaction ban on a Georgian oil refinery for processing Russian crude, giving the facility six months before the measure takes effect under its 21st sanctions package.",
+      "link": "https://www.occrp.org/en/news/eu-targets-georgian-oil-refinery-over-russian-crude-processing",
+      "published": "2026-07-24T15:06:00+00:00",
       "featured": false
     },
     {
-      "id": "c4392fa58ab5",
+      "id": "ce3023b3fffb",
       "source": "Dropsite News",
-      "headline": "Ansarallah strikes two Saudi tankers; Oil surges past $100; Over 4,200 Israeli settlers storm Al-Aqsa",
-      "excerpt": "Drop Site Daily: July 23, 2026",
-      "link": "https://www.dropsitenews.com/p/ansarallah-saudi-tankers-oil-surge-israel-palestine-settlers-aqsa-mosque",
-      "published": "2026-07-23T15:49:05+00:00",
+      "headline": "Prosecutor Investigating U.S. Boat Strikes and Claims of Torture Was Murdered in Ecuador",
+      "excerpt": "New evidence has emerged of U.S. Coast Guard activity in the aftermath of two strikes, further corroborating survivor testimony.",
+      "link": "https://www.dropsitenews.com/p/prosecutor-investigating-ecuador-boat-strikes-murdered",
+      "published": "2026-07-23T17:53:09+00:00",
       "featured": false
     },
     {
-      "id": "0f839211273c",
+      "id": "2f9478125ffa",
       "source": "The Lever",
-      "headline": "Midterm Madness: Defeat in the Desert",
-      "excerpt": "Yet another Democratic Congressional Campaign Committee-endorsed candidate is set to lose their primary to a progressive.",
-      "link": "https://www.levernews.com/defeat-in-the-desert/",
-      "published": "2026-07-22T17:07:17+00:00",
+      "headline": "Trump’s Consumer Watchdog Pick Worked For Companies Sued By The Agency",
+      "excerpt": "Financial disclosures reveal Trump’s CFPB pick advised companies accused of ripping off consumers — and if confirmed, he won’t recuse himself from overseeing them.",
+      "link": "https://www.levernews.com/trumps-consumer-watchdog-pick-worked-for-companies-the-agency-sued/",
+      "published": "2026-07-22T21:02:15+00:00",
       "featured": false
     },
     {
