@@ -1,14 +1,41 @@
 {
-  "generated_at": "2026-07-27T10:09:53.623595+00:00",
+  "generated_at": "2026-07-27T15:14:14.521641+00:00",
   "articles": [
     {
-      "id": "4fe0ea50a962",
+      "id": "44be8f915eb7",
       "source": "404 Media",
-      "headline": "Being a Luddite Is Fun Again",
-      "excerpt": "As tech backlash hits the mainstream, the ‘Summer of Ludd’ proves we don’t need social media to hang out and have a good time.",
-      "link": "https://www.404media.co/luddite-events-nyc-off-tech-summer-of-ludd/",
-      "published": "2026-07-27T10:00:04+00:00",
+      "headline": "This Man Bought Phone Location Data from Around the World (with Mike Yeagley)",
+      "excerpt": "Joseph speaks to Mike Yeagley about how he bought the world's location data, and what that means for everyone's privacy and security.",
+      "link": "https://www.404media.co/this-man-bought-phone-location-data-from-around-the-world-with-mike-yeagley/",
+      "published": "2026-07-27T14:52:02+00:00",
       "featured": true
+    },
+    {
+      "id": "255a900114ff",
+      "source": "Al Jazeera",
+      "headline": "Honduras’s Hernandez returns home after Trump pardon: How it happened",
+      "excerpt": "Sentenced to 45 years in the US, Hernandez returns home to his family, party and supporters after Trump pardons him.",
+      "link": "https://www.aljazeera.com/news/2026/7/27/hondurass-hernandez-returns-home-after-trump-pardon-how-it-happened?traffic_source=rss",
+      "published": "2026-07-27T14:24:50+00:00",
+      "featured": true
+    },
+    {
+      "id": "d17181d173fb",
+      "source": "The Intercept",
+      "headline": "Fetterman Might Leave Democratic Party Because the Only Thing He Loves More Than Israel Is Attention",
+      "excerpt": "Why is the senator floating the idea of leaving the Democratic Party? Well, Israel, of course. Though he sure loves the media coverage. The post Fetterman Might Leave Democratic Party Because the Only Thing He Loves...",
+      "link": "https://theintercept.com/2026/07/27/fetterman-leave-democrat-party-israel/",
+      "published": "2026-07-27T14:00:33+00:00",
+      "featured": true
+    },
+    {
+      "id": "b5cf9580a34e",
+      "source": "OCCRP",
+      "headline": "Fake Companies, Millions in Cash: Georgia Charges Four in $8.2M Laundering Scheme",
+      "excerpt": "",
+      "link": "https://www.occrp.org/en/news/fake-companies-millions-in-cash-georgia-charges-four-in-82m-laundering-scheme",
+      "published": "2026-07-27T12:27:00+00:00",
+      "featured": false
     },
     {
       "id": "9674a9bacf1d",
@@ -17,16 +44,7 @@
       "excerpt": "New platforms are paying people to license their likeness for AI-generated dramas and ads, creating a new marketplace for biometric identity.",
       "link": "https://restofworld.org/2026/china-ai-microdramas-face-licensing/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "published": "2026-07-27T10:00:00+00:00",
-      "featured": true
-    },
-    {
-      "id": "a234b51aa0ac",
-      "source": "Al Jazeera",
-      "headline": "Sam Altman says AI has entered ‘singularity’: Should we be worried?",
-      "excerpt": "The 'singularity' refers to the point at which AI outpaces human intelligence and becomes difficult to control.",
-      "link": "https://www.aljazeera.com/news/2026/7/27/sam-altman-says-ai-has-entered-singularity-should-we-be-worried?traffic_source=rss",
-      "published": "2026-07-27T09:37:49+00:00",
-      "featured": true
+      "featured": false
     },
     {
       "id": "036900adee8b",
@@ -35,15 +53,6 @@
       "excerpt": "The post How Trump’s “America First” Administration Could Shut U.S. Scientists Out of the Next Nobel-Worthy Discovery appeared first on ProPublica.",
       "link": "https://www.propublica.org/article/federal-science-grants-russell-vought-omb",
       "published": "2026-07-27T09:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "fd4ef84923a5",
-      "source": "The Intercept",
-      "headline": "Rubio’s Paranoid Cuba Report Designed to “Justify a Military Attack on Cuba,” Says Democratic Rep.",
-      "excerpt": "Did Cuba foment Black Lives Matter and anti-ICE protests? The State Department seems to think so. The post Rubio’s Paranoid Cuba Report Designed to “Justify a Military Attack on Cuba,” Says Democratic Rep. appeared...",
-      "link": "https://theintercept.com/2026/07/26/cuba-marco-rubio-state-department-report/",
-      "published": "2026-07-26T10:00:00+00:00",
       "featured": false
     },
     {
@@ -62,15 +71,6 @@
       "excerpt": "Hundreds of thousands of young protesters assembled in Delhi’s Jantar Mantar every day to demand the resignation of the education minister and accountability from the Modi government.",
       "link": "https://www.dropsitenews.com/p/india-cockroach-protests-end-modi-education-minister-resigns",
       "published": "2026-07-25T18:15:50+00:00",
-      "featured": false
-    },
-    {
-      "id": "f63b48844f84",
-      "source": "OCCRP",
-      "headline": "Montenegrin Court Sentences Fugitive Kavač Clan Boss to 40 Years in Prison",
-      "excerpt": "Using intercepted communications from the encrypted Sky app as evidence, a Montenegrin court handed down a combined 148 years in prison to the Kavač clan leader and his criminal network.",
-      "link": "https://www.occrp.org/en/news/montenegrin-court-sentences-fugitive-kavac-clan-boss-to-40-years-in-prison",
-      "published": "2026-07-24T16:14:00+00:00",
       "featured": false
     },
     {
@@ -101,12 +101,30 @@
       "featured": false
     },
     {
-      "id": "c310ea50f7ae",
+      "id": "c8663018c875",
       "source": "Al Jazeera",
-      "headline": "FIFA’s Infantino issues letter, accuses World Cup critics of spreading hate",
-      "excerpt": "FIFA faced criticism over several issues during the tournament, including a debate over US visa restrictions for teams.",
-      "link": "https://www.aljazeera.com/sports/2026/7/27/fifa-president-infantino-accuses-2026-world-cup-critics-of-spreading-hate-letter?traffic_source=rss",
-      "published": "2026-07-27T09:33:55+00:00",
+      "headline": "Five decades of Israeli covert strategy to push US, Iran into confrontation",
+      "excerpt": "Successive Israeli governments have undermined diplomatic efforts and stoked tensions between Washington and Tehran.",
+      "link": "https://www.aljazeera.com/opinions/2026/7/27/five-decades-of-israeli-covert-strategy-to-push-us-iran-into-confrontation?traffic_source=rss",
+      "published": "2026-07-27T14:04:43+00:00",
+      "featured": false
+    },
+    {
+      "id": "efccadc24fbc",
+      "source": "404 Media",
+      "headline": "Tons of Peoples’ Claude Chats and Creations are Exposed on Google",
+      "excerpt": "Claude users are creating public share links, but probably don't realize that means their chats are now ending up in Google searches where anyone can dig through them.",
+      "link": "https://www.404media.co/tons-of-peoples-claude-chats-and-creations-are-exposed-on-google/",
+      "published": "2026-07-27T13:48:42+00:00",
+      "featured": false
+    },
+    {
+      "id": "8b123acc0949",
+      "source": "The Intercept",
+      "headline": "Abdul El-Sayed Faces Islamophobic Attacks From GOP and Democratic Establishment",
+      "excerpt": "AIPAC has spent nearly $30 million against the Michigan Democratic Senate candidate, fueling ads that paint him as a terrorist sympathizer. The post Abdul El-Sayed Faces Islamophobic Attacks From GOP and Democratic...",
+      "link": "https://theintercept.com/2026/07/27/abdul-el-sayed-haley-stevens-aipac-senate-michigan/",
+      "published": "2026-07-27T10:12:00+00:00",
       "featured": false
     },
     {
@@ -119,24 +137,6 @@
       "featured": false
     },
     {
-      "id": "39bb6c374032",
-      "source": "The Intercept",
-      "headline": "Pete Hegseth’s Crisis of Masculinity",
-      "excerpt": "The secretary of war’s obsession with testosterone reveals the anxieties he harbors about himself and the military he leads. The post Pete Hegseth’s Crisis of Masculinity appeared first on The Intercept.",
-      "link": "https://theintercept.com/2026/07/25/pete-hegseth-testosterone-military-masculinity/",
-      "published": "2026-07-25T11:08:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "1a60ae787f6e",
-      "source": "404 Media",
-      "headline": "Scientists Uncover Lost ‘Golden Age’ of Languages That Ended 1,000 Years Ago",
-      "excerpt": "Scientists have predicted that human linguistic diversity flourished between 3,000 and 1,000 years ago, before declining with the rise of multinational states and colonial expansion.",
-      "link": "https://www.404media.co/scientists-uncover-lost-golden-age-of-languages-that-ended-1-000-years-ago/",
-      "published": "2026-07-25T10:00:43+00:00",
-      "featured": false
-    },
-    {
       "id": "36e0d8b6830d",
       "source": "Dropsite News",
       "headline": "The Last-Minute Million-Dollar Ad Spend Against Will Lawrence Is Coming From a Major Pro-Israel Group",
@@ -146,12 +146,12 @@
       "featured": false
     },
     {
-      "id": "088ecf7457b3",
+      "id": "f63b48844f84",
       "source": "OCCRP",
-      "headline": "Protected Fraud: Georgian Security Chief’s Cousin Gets 12 Years for Call Center Bribes",
-      "excerpt": "Following a secretive trial, Andria Liluashvili was sentenced to 12 years in prison and stripped of $13 million in luxury assets for funneling monthly kickbacks from fraudulent call centers to his relative, the former...",
-      "link": "https://www.occrp.org/en/news/protected-fraud-georgian-security-chiefs-cousin-gets-12-years-for-call-center-bribes",
-      "published": "2026-07-24T16:00:00+00:00",
+      "headline": "Montenegrin Court Sentences Fugitive Kavač Clan Boss to 40 Years in Prison",
+      "excerpt": "Using intercepted communications from the encrypted Sky app as evidence, a Montenegrin court handed down a combined 148 years in prison to the Kavač clan leader and his criminal network.",
+      "link": "https://www.occrp.org/en/news/montenegrin-court-sentences-fugitive-kavac-clan-boss-to-40-years-in-prison",
+      "published": "2026-07-24T16:14:00+00:00",
       "featured": false
     },
     {
@@ -200,30 +200,30 @@
       "featured": false
     },
     {
-      "id": "00be5bb11e29",
+      "id": "e30597017905",
       "source": "Al Jazeera",
-      "headline": "Macron calls crisis meeting of French cabinet as blaze approaches Bordeaux",
-      "excerpt": "The situation in France is currently stable, authorities say, but another heatwave is on the way.",
-      "link": "https://www.aljazeera.com/news/2026/7/27/macron-calls-crisis-meeting-of-french-cabinet-as-blaze-approaches-bordeaux?traffic_source=rss",
-      "published": "2026-07-27T09:26:42+00:00",
+      "headline": "Five years after Saied’s power grab, Tunisians are no better off",
+      "excerpt": "Tunisia has seen no economic benefit from power consolidation, while liberties have dwindled.",
+      "link": "https://www.aljazeera.com/opinions/2026/7/27/five-years-after-saieds-power-grab-tunisians-are-no-better-off?traffic_source=rss",
+      "published": "2026-07-27T14:03:09+00:00",
       "featured": false
     },
     {
-      "id": "99cbcc060a8f",
-      "source": "The Intercept",
-      "headline": "Leaked Email Reveals New Requirements for ICE Vehicle Stops",
-      "excerpt": "An angecywide memo reinstated ICE vehicle stops with all-new restrictive policy guidelines. The post Leaked Email Reveals New Requirements for ICE Vehicle Stops appeared first on The Intercept.",
-      "link": "https://theintercept.com/2026/07/25/trump-ice-vehicle-stops-policy/",
-      "published": "2026-07-25T10:10:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "123a83a08669",
+      "id": "9472c0a75019",
       "source": "404 Media",
-      "headline": "Behind the Blog: No Spoilers",
-      "excerpt": "This week, we discuss astrology, Flock on the brain, The Odyssey, and more.",
-      "link": "https://www.404media.co/behind-the-blog-no-spoilers/",
-      "published": "2026-07-24T18:11:04+00:00",
+      "headline": "Spotify's AI Problem Is So Bad Random People Are Stepping In to Track the Slop",
+      "excerpt": "Spotify doesn’t label AI music on its platform, so websites like SoullessMusic.com and SlopTracker.org do it instead.",
+      "link": "https://www.404media.co/spotifys-ai-problem-is-so-bad-random-people-are-stepping-in-to-track-the-slop/",
+      "published": "2026-07-27T13:25:34+00:00",
+      "featured": false
+    },
+    {
+      "id": "fd4ef84923a5",
+      "source": "The Intercept",
+      "headline": "Rubio’s Paranoid Cuba Report Designed to “Justify a Military Attack on Cuba,” Says Democratic Rep.",
+      "excerpt": "Did Cuba foment Black Lives Matter and anti-ICE protests? The State Department seems to think so. The post Rubio’s Paranoid Cuba Report Designed to “Justify a Military Attack on Cuba,” Says Democratic Rep. appeared...",
+      "link": "https://theintercept.com/2026/07/26/cuba-marco-rubio-state-department-report/",
+      "published": "2026-07-26T10:00:00+00:00",
       "featured": false
     },
     {
@@ -245,12 +245,12 @@
       "featured": false
     },
     {
-      "id": "9a31cd643f9a",
+      "id": "088ecf7457b3",
       "source": "OCCRP",
-      "headline": "Lab Owner Suspected of $547 Million Medicare Fraud Extradited to The United States",
-      "excerpt": "Khalid Satary’s laboratories allegedly used call centers, telemedicine doctors and kickbacks to turn medically unnecessary cancer tests into $547 million in Medicare claims. Court records indicate the program paid about...",
-      "link": "https://www.occrp.org/en/news/lab-owner-suspected-of-547-million-medicare-fraud-extradited-to-the-united-states",
-      "published": "2026-07-24T15:42:00+00:00",
+      "headline": "Protected Fraud: Georgian Security Chief’s Cousin Gets 12 Years for Call Center Bribes",
+      "excerpt": "Following a secretive trial, Andria Liluashvili was sentenced to 12 years in prison and stripped of $13 million in luxury assets for funneling monthly kickbacks from fraudulent call centers to his relative, the former...",
+      "link": "https://www.occrp.org/en/news/protected-fraud-georgian-security-chiefs-cousin-gets-12-years-for-call-center-bribes",
+      "published": "2026-07-24T16:00:00+00:00",
       "featured": false
     },
     {
@@ -290,39 +290,39 @@
       "featured": false
     },
     {
-      "id": "744b26cbf913",
+      "id": "f56b51432e6a",
       "source": "Al Jazeera",
-      "headline": "The Ban: A censorship loophole during the conflict in Northern Ireland",
-      "excerpt": "A censorship saga about how the voices of republican leaders in Northern Ireland were banned by the British government.",
-      "link": "https://www.aljazeera.com/video/witness/2026/7/27/the-ban-a-censorship-loophole-during-the-conflict-in-northern-ireland?traffic_source=rss",
-      "published": "2026-07-27T09:05:24+00:00",
+      "headline": "Australian court rejects racial discrimination appeal by Pauline Hanson",
+      "excerpt": "⁠Court upholds earlier ruling ⁠that a post directed at Greens Senator Mehreen Faruqi was unlawful.",
+      "link": "https://www.aljazeera.com/news/2026/7/27/australian-court-rejects-racial-discrimination-appeal-by-pauline-hanson?traffic_source=rss",
+      "published": "2026-07-27T13:46:06+00:00",
       "featured": false
     },
     {
-      "id": "b2e54ac32a02",
-      "source": "OCCRP",
-      "headline": "EU Targets Georgian Oil Refinery Over Russian Crude Processing",
-      "excerpt": "The European Union is placing a deferred transaction ban on a Georgian oil refinery for processing Russian crude, giving the facility six months before the measure takes effect under its 21st sanctions package.",
-      "link": "https://www.occrp.org/en/news/eu-targets-georgian-oil-refinery-over-russian-crude-processing",
-      "published": "2026-07-24T15:06:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "fc75401c3319",
-      "source": "The Intercept",
-      "headline": "Hegseth Is Pushing Testosterone. The VA Has Already Struggled With the Treatment.",
-      "excerpt": "“Men who take testosterone will have a reduction in their sperm counts,” one medical professor said. There’s no stated plan for continuing care. The post Hegseth Is Pushing Testosterone. The VA Has Already Struggled...",
-      "link": "https://theintercept.com/2026/07/24/hegseth-testosterone-hormone-therapy-veterans-affairs/",
-      "published": "2026-07-24T14:25:58+00:00",
-      "featured": false
-    },
-    {
-      "id": "228ca1830e6f",
+      "id": "4fe0ea50a962",
       "source": "404 Media",
-      "headline": "A Court Reporter Submitted AI-Generated Errors in Official Court Transcript, Judge Says",
-      "excerpt": "A judge in Indiana warns a court reporter that it's their job to proofread their work, after catching errors likely made by AI transcription services.",
-      "link": "https://www.404media.co/judge-caught-court-reporter-using-ai-transcript-errors/",
-      "published": "2026-07-23T21:41:29+00:00",
+      "headline": "Being a Luddite Is Fun Again",
+      "excerpt": "As tech backlash hits the mainstream, the ‘Summer of Ludd’ proves we don’t need social media to hang out and have a good time.",
+      "link": "https://www.404media.co/luddite-events-nyc-off-tech-summer-of-ludd/",
+      "published": "2026-07-27T10:00:04+00:00",
+      "featured": false
+    },
+    {
+      "id": "39bb6c374032",
+      "source": "The Intercept",
+      "headline": "Pete Hegseth’s Crisis of Masculinity",
+      "excerpt": "The secretary of war’s obsession with testosterone reveals the anxieties he harbors about himself and the military he leads. The post Pete Hegseth’s Crisis of Masculinity appeared first on The Intercept.",
+      "link": "https://theintercept.com/2026/07/25/pete-hegseth-testosterone-military-masculinity/",
+      "published": "2026-07-25T11:08:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "9a31cd643f9a",
+      "source": "OCCRP",
+      "headline": "Lab Owner Suspected of $547 Million Medicare Fraud Extradited to The United States",
+      "excerpt": "Khalid Satary’s laboratories allegedly used call centers, telemedicine doctors and kickbacks to turn medically unnecessary cancer tests into $547 million in Medicare claims. Court records indicate the program paid about...",
+      "link": "https://www.occrp.org/en/news/lab-owner-suspected-of-547-million-medicare-fraud-extradited-to-the-united-states",
+      "published": "2026-07-24T15:42:00+00:00",
       "featured": false
     },
     {
@@ -380,39 +380,39 @@
       "featured": false
     },
     {
-      "id": "6bd9a1ea2fe3",
+      "id": "73dbe0cb52cc",
       "source": "Al Jazeera",
-      "headline": "Diomande, Real Madrid ‘agree terms’ for transfer of Leipzig winger",
-      "excerpt": "After an impressive campaign at the FIFA World Cup, Yan Diomande will reportedly join world's richest football club.",
-      "link": "https://www.aljazeera.com/sports/2026/7/27/yan-diomande-real-madrid-agree-terms-transfer-deal-football-leipzig?traffic_source=rss",
-      "published": "2026-07-27T09:00:45+00:00",
+      "headline": "Former Honduras president returns home after Trump pardon",
+      "excerpt": "Former Honduras president returns home after Trump pardon",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/27/former-honduras-president-returns-home-after-trump-pardon?traffic_source=rss",
+      "published": "2026-07-27T13:32:15+00:00",
       "featured": false
     },
     {
-      "id": "e8fa95e4b108",
-      "source": "OCCRP",
-      "headline": "UK Freezes $30 million in London Properties Owned by a Man Under Investigation in Singapore Money Laundering Case",
-      "excerpt": "Britain's National Crime Agency has frozen 16 luxury apartments in central London acquired by Xu Haika, who is under investigation in Singapore as authorities pursue their largest ever money laundering probe.",
-      "link": "https://www.occrp.org/en/news/uk-freezes-30-million-in-london-properties-owned-by-a-man-under-investigation-in-singapore-money-laundering-case",
-      "published": "2026-07-24T13:06:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "c5483c48631e",
+      "id": "99cbcc060a8f",
       "source": "The Intercept",
-      "headline": "Trump’s National Killer Police Force",
-      "excerpt": "ICE and Border Patrol’s purviews have transformed from immigration enforcement to being a political tool of the White House — all under the pretext of public safety. The post Trump’s National Killer Police Force...",
-      "link": "https://theintercept.com/2026/07/24/trump-ice-deaths-mass-deportation/",
-      "published": "2026-07-24T10:00:00+00:00",
+      "headline": "Leaked Email Reveals New Requirements for ICE Vehicle Stops",
+      "excerpt": "An angecywide memo reinstated ICE vehicle stops with all-new restrictive policy guidelines. The post Leaked Email Reveals New Requirements for ICE Vehicle Stops appeared first on The Intercept.",
+      "link": "https://theintercept.com/2026/07/25/trump-ice-vehicle-stops-policy/",
+      "published": "2026-07-25T10:10:00+00:00",
       "featured": false
     },
     {
-      "id": "9549ad00d636",
+      "id": "1a60ae787f6e",
       "source": "404 Media",
-      "headline": "Flock's CEO Says its ALPRs Don't Do Video After Repeatedly Announcing They Can",
-      "excerpt": "Flock's CEO Garrett Langley says people don't understand the capabilities of its ALPR system, but they do.",
-      "link": "https://www.404media.co/flocks-ceo-says-its-alprs-dont-do-video-after-repeatedly-announcing-they-can/",
-      "published": "2026-07-23T20:12:32+00:00",
+      "headline": "Scientists Uncover Lost ‘Golden Age’ of Languages That Ended 1,000 Years Ago",
+      "excerpt": "Scientists have predicted that human linguistic diversity flourished between 3,000 and 1,000 years ago, before declining with the rise of multinational states and colonial expansion.",
+      "link": "https://www.404media.co/scientists-uncover-lost-golden-age-of-languages-that-ended-1-000-years-ago/",
+      "published": "2026-07-25T10:00:43+00:00",
+      "featured": false
+    },
+    {
+      "id": "b2e54ac32a02",
+      "source": "OCCRP",
+      "headline": "EU Targets Georgian Oil Refinery Over Russian Crude Processing",
+      "excerpt": "The European Union is placing a deferred transaction ban on a Georgian oil refinery for processing Russian crude, giving the facility six months before the measure takes effect under its 21st sanctions package.",
+      "link": "https://www.occrp.org/en/news/eu-targets-georgian-oil-refinery-over-russian-crude-processing",
+      "published": "2026-07-24T15:06:00+00:00",
       "featured": false
     },
     {
@@ -470,30 +470,39 @@
       "featured": false
     },
     {
-      "id": "2b4af79d89df",
+      "id": "0ff0770f9aa4",
       "source": "Al Jazeera",
-      "headline": "Death toll from Pakistan monsoon rains, floods tops 100",
-      "excerpt": "Punjab’s monsoon season usually lasts until September, and more rain is expected this week.",
-      "link": "https://www.aljazeera.com/news/2026/7/27/death-toll-from-pakistan-monsoon-rains-floods-tops-100?traffic_source=rss",
-      "published": "2026-07-27T08:53:05+00:00",
+      "headline": "Israel’s approval of limited Gaza force a calculated manoeuvre, experts say",
+      "excerpt": "Analysts say Israeli cabinet's decision aims to deflect US pressure and fragment the Gaza Strip.",
+      "link": "https://www.aljazeera.com/news/2026/7/27/israels-approval-of-limited-gaza-force-a-calculated-manoeuvre-experts-say?traffic_source=rss",
+      "published": "2026-07-27T12:58:20+00:00",
       "featured": false
     },
     {
-      "id": "1846d3d80164",
-      "source": "OCCRP",
-      "headline": "A Police HQ, Wind Farms, and Natural Gas: Mapping China's Investments in Europe",
-      "excerpt": "Through an opaque network of shell companies in the British Virgin Islands and Luxembourg holding firms, an agency that manages China’s foreign reserves has discreetly scooped up stakes in Europe’s critical...",
-      "link": "https://www.occrp.org/en/investigation/a-police-hq-wind-farms-and-natural-gas-mapping-the-european-holdings-of-chinas-central-bank",
-      "published": "2026-07-24T04:00:00+00:00",
+      "id": "123a83a08669",
+      "source": "404 Media",
+      "headline": "Behind the Blog: No Spoilers",
+      "excerpt": "This week, we discuss astrology, Flock on the brain, The Odyssey, and more.",
+      "link": "https://www.404media.co/behind-the-blog-no-spoilers/",
+      "published": "2026-07-24T18:11:04+00:00",
       "featured": false
     },
     {
-      "id": "5f2969667c68",
+      "id": "fc75401c3319",
       "source": "The Intercept",
-      "headline": "U.S. Website Gave False Approval to Green Card Applicants — Then Blamed Glitch and Took It Away",
-      "excerpt": "“It was heartbreaking,” said one recipient of a false approval who was told about a USCIS website snafu. The post U.S. Website Gave False Approval to Green Card Applicants — Then Blamed Glitch and Took It Away appeared...",
-      "link": "https://theintercept.com/2026/07/23/approved-green-cards-uscis-website-glitch/",
-      "published": "2026-07-23T20:28:16+00:00",
+      "headline": "Hegseth Is Pushing Testosterone. The VA Has Already Struggled With the Treatment.",
+      "excerpt": "“Men who take testosterone will have a reduction in their sperm counts,” one medical professor said. There’s no stated plan for continuing care. The post Hegseth Is Pushing Testosterone. The VA Has Already Struggled...",
+      "link": "https://theintercept.com/2026/07/24/hegseth-testosterone-hormone-therapy-veterans-affairs/",
+      "published": "2026-07-24T14:25:58+00:00",
+      "featured": false
+    },
+    {
+      "id": "e8fa95e4b108",
+      "source": "OCCRP",
+      "headline": "UK Freezes $30 million in London Properties Owned by a Man Under Investigation in Singapore Money Laundering Case",
+      "excerpt": "Britain's National Crime Agency has frozen 16 luxury apartments in central London acquired by Xu Haika, who is under investigation in Singapore as authorities pursue their largest ever money laundering probe.",
+      "link": "https://www.occrp.org/en/news/uk-freezes-30-million-in-london-properties-owned-by-a-man-under-investigation-in-singapore-money-laundering-case",
+      "published": "2026-07-24T13:06:00+00:00",
       "featured": false
     },
     {
@@ -503,15 +512,6 @@
       "excerpt": "Drop Site Daily: July 23, 2026",
       "link": "https://www.dropsitenews.com/p/ansarallah-saudi-tankers-oil-surge-israel-palestine-settlers-aqsa-mosque",
       "published": "2026-07-23T15:49:05+00:00",
-      "featured": false
-    },
-    {
-      "id": "d2c9e5010902",
-      "source": "404 Media",
-      "headline": "Patreon Lays Off 20 Percent of Its Workforce",
-      "excerpt": "In an internal email shared with creators, CEO Jack Conte wrote that AI doesn’t replace human creativity — but it does affect how the company operates.",
-      "link": "https://www.404media.co/patreon-lays-off-20-percent-of-its-workforce/",
-      "published": "2026-07-23T15:24:36+00:00",
       "featured": false
     },
     {
