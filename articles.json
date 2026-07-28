@@ -1,14 +1,41 @@
 {
-  "generated_at": "2026-07-28T09:05:12.132512+00:00",
+  "generated_at": "2026-07-28T11:28:05.728723+00:00",
   "articles": [
     {
-      "id": "4a09f7d785ef",
+      "id": "a8c131d27102",
       "source": "Al Jazeera",
-      "headline": "‘Future at stake’: India moves to demolish university Muslim leader founded",
-      "excerpt": "Authorities in BJP-ruled Uttar Pradesh allege 38 of Mohammad Ali Jauhar University's 40 buildings were built illegally.",
-      "link": "https://www.aljazeera.com/news/2026/7/28/future-at-stake-india-moves-to-demolish-university-muslim-leader-founded?traffic_source=rss",
-      "published": "2026-07-28T08:45:37+00:00",
+      "headline": "Magnitude 7.1 earthquake shakes southern Japan, tsunami warning issued",
+      "excerpt": "PM Sanae Takaichi urges people 'to remain vigilant for the possibility of another earthquake of similar magnitude'.",
+      "link": "https://www.aljazeera.com/news/2026/7/28/magnitude-7-1-earthquake-shakes-southern-japan-tsunami-warning-issued?traffic_source=rss",
+      "published": "2026-07-28T11:02:03+00:00",
       "featured": true
+    },
+    {
+      "id": "c396599f7e27",
+      "source": "OCCRP",
+      "headline": "Azerbaijani Court Jails 9 Journalists and Activists for up to 15 Years",
+      "excerpt": "A Baku court convicted journalists, media rights workers, and pro-democracy activists linked to Toplum TV on financial crimes charges, sentencing them to between 12 and 15 years in prison.",
+      "link": "https://www.occrp.org/en/news/azerbaijani-court-jails-9-journalists-and-activists-for-up-to-15-years",
+      "published": "2026-07-28T10:48:00+00:00",
+      "featured": true
+    },
+    {
+      "id": "d4a1e6fedd41",
+      "source": "Rest of World",
+      "headline": "Indian EV makers beat Tesla and BYD on energy efficiency",
+      "excerpt": "Tata Motors and Mahindra topped a global ranking of battery efficiency, showing India's strength in building frugal electric cars — even as they lag on charging speed and driving range.",
+      "link": "https://restofworld.org/2026/indian-evs-beat-tesla-byd-icct-efficiency-ranking/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "published": "2026-07-28T10:00:42+00:00",
+      "featured": true
+    },
+    {
+      "id": "f4a74325ef94",
+      "source": "ProPublica",
+      "headline": "This MAGA Influencer Runs a Charity to Teach Kids Civics. Much of the Money Goes to Him Instead.",
+      "excerpt": "The post This MAGA Influencer Runs a Charity to Teach Kids Civics. Much of the Money Goes to Him Instead. appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/trump-nick-adams-state-flag-charity-civics-state-department",
+      "published": "2026-07-28T10:00:00+00:00",
+      "featured": false
     },
     {
       "id": "4e321bf4516d",
@@ -17,7 +44,7 @@
       "excerpt": "The Wikimedia Foundation waited until immediately after its largest annual conference to say it wouldn't voluntarily recognize its workers' union.",
       "link": "https://www.404media.co/wikimedia-waits-until-after-its-massive-conference-to-say-it-wont-voluntarily-recognize-union/",
       "published": "2026-07-27T23:43:57+00:00",
-      "featured": true
+      "featured": false
     },
     {
       "id": "5889d717a6f7",
@@ -26,7 +53,7 @@
       "excerpt": "Israeli soldiers and settlers have unleashed a campaign of terror on Palestinians across the occupied West Bank with home raids, shootings, assaults, mass detentions, and house demolitions.",
       "link": "https://www.dropsitenews.com/p/west-bank-tal-israeli-settlers-army-outposts-arrests-home-demolitions",
       "published": "2026-07-27T22:06:37+00:00",
-      "featured": true
+      "featured": false
     },
     {
       "id": "b1ab37ffb329",
@@ -38,39 +65,12 @@
       "featured": false
     },
     {
-      "id": "fe7b1193e2b1",
-      "source": "OCCRP",
-      "headline": "US Sanctions Family of Iranian Tycoon in Crackdown on Alleged IRGC Crypto Network",
-      "excerpt": "The U.S. Treasury Department has sanctioned the sister and “significant other” of Iranian tycoon Babak Zanjani, targeting a network of crypto exchanges and global companies accused of laundering funds for Iran’s...",
-      "link": "https://www.occrp.org/en/news/us-sanctions-family-of-iranian-tycoon-in-crackdown-on-alleged-irgc-crypto-network",
-      "published": "2026-07-27T17:17:00+00:00",
-      "featured": false
-    },
-    {
       "id": "66f55ea3b809",
       "source": "The Intercept",
       "headline": "The Right Seeks to Capitalize on Berlin Pride Attack — Even as It Poses Its Own Existential Threat to Queer Lives",
       "excerpt": "Day in and day out, it is the likes of Germany’s conservative parties, and the Republicans at home, who are assaulting LGBTQ+ rights. The post The Right Seeks to Capitalize on Berlin Pride Attack — Even as It Poses Its...",
       "link": "https://theintercept.com/2026/07/27/berlin-pride-attack-afd-trump/",
       "published": "2026-07-27T16:59:26+00:00",
-      "featured": false
-    },
-    {
-      "id": "9674a9bacf1d",
-      "source": "Rest of World",
-      "headline": "In China, people are renting out their faces to AI",
-      "excerpt": "New platforms are paying people to license their likeness for AI-generated dramas and ads, creating a new marketplace for biometric identity.",
-      "link": "https://restofworld.org/2026/china-ai-microdramas-face-licensing/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-      "published": "2026-07-27T10:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "036900adee8b",
-      "source": "ProPublica",
-      "headline": "How Trump’s “America First” Administration Could Shut U.S. Scientists Out of the Next Nobel-Worthy Discovery",
-      "excerpt": "The post How Trump’s “America First” Administration Could Shut U.S. Scientists Out of the Next Nobel-Worthy Discovery appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/federal-science-grants-russell-vought-omb",
-      "published": "2026-07-27T09:00:00+00:00",
       "featured": false
     },
     {
@@ -101,12 +101,21 @@
       "featured": false
     },
     {
-      "id": "ce3a7ced6393",
+      "id": "650c371579aa",
       "source": "Al Jazeera",
-      "headline": "Sixty Palestinians detained by Israel return to Gaza, describe abuses",
-      "excerpt": "The freed men, some in wheelchairs, describe horrific abuses in Israeli detention.",
-      "link": "https://www.aljazeera.com/news/2026/7/28/sixty-palestinians-detained-by-israel-return-to-gaza-describe-abuses?traffic_source=rss",
-      "published": "2026-07-28T08:25:07+00:00",
+      "headline": "Moment 7.1-magnitude earthquake rocks southern Japan",
+      "excerpt": "A magnitude 7.1 earthquake has hit Kumamoto on Japan's southern island of Kyushu.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/28/moment-7-1-magnitude-earthquake-rocks-southern-japan?traffic_source=rss",
+      "published": "2026-07-28T09:45:13+00:00",
+      "featured": false
+    },
+    {
+      "id": "4b31245ae6c0",
+      "source": "ProPublica",
+      "headline": "Federal Judges Chastise Trump’s Justice Department for “Unlawful,” “Unethical” and “Unseemly” Conduct",
+      "excerpt": "The post Federal Judges Chastise Trump’s Justice Department for “Unlawful,” “Unethical” and “Unseemly” Conduct appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/justice-department-presumption-of-regularity",
+      "published": "2026-07-28T09:00:00+00:00",
       "featured": false
     },
     {
@@ -128,6 +137,15 @@
       "featured": false
     },
     {
+      "id": "fe7b1193e2b1",
+      "source": "OCCRP",
+      "headline": "US Sanctions Family of Iranian Tycoon in Crackdown on Alleged IRGC Crypto Network",
+      "excerpt": "The U.S. Treasury Department has sanctioned the sister and “significant other” of Iranian tycoon Babak Zanjani, targeting a network of crypto exchanges and global companies accused of laundering funds for Iran’s...",
+      "link": "https://www.occrp.org/en/news/us-sanctions-family-of-iranian-tycoon-in-crackdown-on-alleged-irgc-crypto-network",
+      "published": "2026-07-27T17:17:00+00:00",
+      "featured": false
+    },
+    {
       "id": "521155c249e6",
       "source": "The Intercept",
       "headline": "House Investigation of BreakThrough News Is an Attack on All Journalism",
@@ -137,12 +155,12 @@
       "featured": false
     },
     {
-      "id": "b5cf9580a34e",
-      "source": "OCCRP",
-      "headline": "Fake Companies, Millions in Cash: Georgia Charges Four in $8.2M Laundering Scheme",
-      "excerpt": "",
-      "link": "https://www.occrp.org/en/news/fake-companies-millions-in-cash-georgia-charges-four-in-82m-laundering-scheme",
-      "published": "2026-07-27T12:27:00+00:00",
+      "id": "9674a9bacf1d",
+      "source": "Rest of World",
+      "headline": "In China, people are renting out their faces to AI",
+      "excerpt": "New platforms are paying people to license their likeness for AI-generated dramas and ads, creating a new marketplace for biometric identity.",
+      "link": "https://restofworld.org/2026/china-ai-microdramas-face-licensing/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "published": "2026-07-27T10:00:00+00:00",
       "featured": false
     },
     {
@@ -152,24 +170,6 @@
       "excerpt": "Michigan’s Democratic governor is helping her healthcare donors try to stop Abdul El-Sayed’s crusade.",
       "link": "https://www.levernews.com/whitmers-war-against-medicare-for-all/",
       "published": "2026-07-25T20:49:28+00:00",
-      "featured": false
-    },
-    {
-      "id": "5b09e0879a62",
-      "source": "ProPublica",
-      "headline": "Ken Paxton Touts His Efforts to Fight Voter Fraud. His Senate Opponent Is Now Accusing Him of Committing It.",
-      "excerpt": "The post Ken Paxton Touts His Efforts to Fight Voter Fraud. His Senate Opponent Is Now Accusing Him of Committing It. appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/ken-paxton-voter-registration-james-talarico",
-      "published": "2026-07-24T15:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "6c366dc1b20a",
-      "source": "Rest of World",
-      "headline": "Why state-owned AI won’t solve inequality",
-      "excerpt": "Government ownership of AI companies may promise shared wealth, but it risks weakening oversight and accountability.",
-      "link": "https://restofworld.org/2026/ai-government-ownership/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-      "published": "2026-07-24T13:00:00+00:00",
       "featured": false
     },
     {
@@ -200,12 +200,12 @@
       "featured": false
     },
     {
-      "id": "7e5f2fd772e6",
+      "id": "352070def0e8",
       "source": "Al Jazeera",
-      "headline": "Colombia’s president-elect to suspend Palestine embassy",
-      "excerpt": "Colombia’s far-right president-elect says he'll close or suspend embassies in these countries",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/28/colombias-president-elect-to-suspend-palestine-embassy?traffic_source=rss",
-      "published": "2026-07-28T08:19:12+00:00",
+      "headline": "Zinedine Zidane named as France head coach following World Cup 2026",
+      "excerpt": "Ex-superstar player succeeds Didier Deschamps as France manager after the national team’s bitter semifinal exit.",
+      "link": "https://www.aljazeera.com/sports/2026/7/28/zidane-named-new-france-head-coach-after-fifa-world-cup-2026?traffic_source=rss",
+      "published": "2026-07-28T09:39:06+00:00",
       "featured": false
     },
     {
@@ -236,6 +236,24 @@
       "featured": false
     },
     {
+      "id": "b5cf9580a34e",
+      "source": "OCCRP",
+      "headline": "Fake Companies, Millions in Cash: Georgia Charges Four in $8.2M Laundering Scheme",
+      "excerpt": "",
+      "link": "https://www.occrp.org/en/news/fake-companies-millions-in-cash-georgia-charges-four-in-82m-laundering-scheme",
+      "published": "2026-07-27T12:27:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "036900adee8b",
+      "source": "ProPublica",
+      "headline": "How Trump’s “America First” Administration Could Shut U.S. Scientists Out of the Next Nobel-Worthy Discovery",
+      "excerpt": "The post How Trump’s “America First” Administration Could Shut U.S. Scientists Out of the Next Nobel-Worthy Discovery appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/federal-science-grants-russell-vought-omb",
+      "published": "2026-07-27T09:00:00+00:00",
+      "featured": false
+    },
+    {
       "id": "f279ff8af7a4",
       "source": "The Lever",
       "headline": "You Love To See It: My Kingdom For A Sweatshirt",
@@ -245,30 +263,12 @@
       "featured": false
     },
     {
-      "id": "f63b48844f84",
-      "source": "OCCRP",
-      "headline": "Montenegrin Court Sentences Fugitive Kavač Clan Boss to 40 Years in Prison",
-      "excerpt": "Using intercepted communications from the encrypted Sky app as evidence, a Montenegrin court handed down a combined 148 years in prison to the Kavač clan leader and his criminal network.",
-      "link": "https://www.occrp.org/en/news/montenegrin-court-sentences-fugitive-kavac-clan-boss-to-40-years-in-prison",
-      "published": "2026-07-24T16:14:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "fa683ecfc35c",
-      "source": "ProPublica",
-      "headline": "How Videos Helped Me Uncover Abuse at an Arkansas Private School",
-      "excerpt": "The post How Videos Helped Me Uncover Abuse at an Arkansas Private School appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/arkansas-private-school-abuse-video",
-      "published": "2026-07-24T09:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "73410466b4b0",
+      "id": "6c366dc1b20a",
       "source": "Rest of World",
-      "headline": "The hidden cost of Myanmar’s rare earth mines",
-      "excerpt": "As the U.S. races to bypass China, the global hunger for critical minerals is financing warlords and poisoning Myanmar's borderlands.",
-      "link": "https://restofworld.org/2026/myanmar-china-rare-earths-damage/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-      "published": "2026-07-23T15:00:00+00:00",
+      "headline": "Why state-owned AI won’t solve inequality",
+      "excerpt": "Government ownership of AI companies may promise shared wealth, but it risks weakening oversight and accountability.",
+      "link": "https://restofworld.org/2026/ai-government-ownership/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "published": "2026-07-24T13:00:00+00:00",
       "featured": false
     },
     {
@@ -290,12 +290,12 @@
       "featured": false
     },
     {
-      "id": "ffb0dd0c8682",
+      "id": "f4981019b63f",
       "source": "Al Jazeera",
-      "headline": "ICE extends lease on Texas detention centre where three migrants died",
-      "excerpt": "Three people have died in the Texas detainment centre Camp East Montana since it opened last year.",
-      "link": "https://www.aljazeera.com/news/2026/7/28/ice-extends-lease-on-texas-detention-centre-where-three-migrants-died?traffic_source=rss",
-      "published": "2026-07-28T08:18:58+00:00",
+      "headline": "Netanyahu in the White House: What’s on the agenda and what’s next?",
+      "excerpt": "The Israeli PM's visit to the US comes amid raids in the occupied West Bank, before the October 27 elections.",
+      "link": "https://www.aljazeera.com/news/2026/7/28/netanyahu-in-the-white-house-whats-on-the-agenda-and-whats-next?traffic_source=rss",
+      "published": "2026-07-28T09:29:16+00:00",
       "featured": false
     },
     {
@@ -335,30 +335,30 @@
       "featured": false
     },
     {
-      "id": "088ecf7457b3",
+      "id": "f63b48844f84",
       "source": "OCCRP",
-      "headline": "Protected Fraud: Georgian Security Chief’s Cousin Gets 12 Years for Call Center Bribes",
-      "excerpt": "Following a secretive trial, Andria Liluashvili was sentenced to 12 years in prison and stripped of $13 million in luxury assets for funneling monthly kickbacks from fraudulent call centers to his relative, the former...",
-      "link": "https://www.occrp.org/en/news/protected-fraud-georgian-security-chiefs-cousin-gets-12-years-for-call-center-bribes",
-      "published": "2026-07-24T16:00:00+00:00",
+      "headline": "Montenegrin Court Sentences Fugitive Kavač Clan Boss to 40 Years in Prison",
+      "excerpt": "Using intercepted communications from the encrypted Sky app as evidence, a Montenegrin court handed down a combined 148 years in prison to the Kavač clan leader and his criminal network.",
+      "link": "https://www.occrp.org/en/news/montenegrin-court-sentences-fugitive-kavac-clan-boss-to-40-years-in-prison",
+      "published": "2026-07-24T16:14:00+00:00",
       "featured": false
     },
     {
-      "id": "84aa01a1ef6e",
-      "source": "Rest of World",
-      "headline": "Fed up with Big Tech, communities turn to data collectives for control",
-      "excerpt": "Data collectives and cooperatives, which let creators control the collection and distribution of their data, are emerging as preferred alternatives to big tech companies.",
-      "link": "https://restofworld.org/2026/ai-data-collectives-mozilla/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-      "published": "2026-07-23T10:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "f6cd7bff4b58",
+      "id": "5b09e0879a62",
       "source": "ProPublica",
-      "headline": "5 Raw Quotes From America’s Largest Raw-Milk Dairy Owner",
-      "excerpt": "The post 5 Raw Quotes From America’s Largest Raw-Milk Dairy Owner appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/5-quotes-raw-milk-mark-mcafee",
-      "published": "2026-07-23T09:00:00+00:00",
+      "headline": "Ken Paxton Touts His Efforts to Fight Voter Fraud. His Senate Opponent Is Now Accusing Him of Committing It.",
+      "excerpt": "The post Ken Paxton Touts His Efforts to Fight Voter Fraud. His Senate Opponent Is Now Accusing Him of Committing It. appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/ken-paxton-voter-registration-james-talarico",
+      "published": "2026-07-24T15:00:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "73410466b4b0",
+      "source": "Rest of World",
+      "headline": "The hidden cost of Myanmar’s rare earth mines",
+      "excerpt": "As the U.S. races to bypass China, the global hunger for critical minerals is financing warlords and poisoning Myanmar's borderlands.",
+      "link": "https://restofworld.org/2026/myanmar-china-rare-earths-damage/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "published": "2026-07-23T15:00:00+00:00",
       "featured": false
     },
     {
@@ -380,12 +380,12 @@
       "featured": false
     },
     {
-      "id": "5d6f7316b7ea",
+      "id": "4a09f7d785ef",
       "source": "Al Jazeera",
-      "headline": "Justin Greaves sets new cricket bowling record with five wicket maiden",
-      "excerpt": "Greaves, a West Indies paceman, becomes the first player in Test history to bowl five straight wicket maidens.",
-      "link": "https://www.aljazeera.com/sports/2026/7/28/justin-greaves-sets-new-cricket-bowling-record-with-five-wicket-maiden?traffic_source=rss",
-      "published": "2026-07-28T08:17:11+00:00",
+      "headline": "‘Future at stake’: India moves to demolish university Muslim leader founded",
+      "excerpt": "Authorities in BJP-ruled Uttar Pradesh allege 38 of Mohammad Ali Jauhar University's 40 buildings were built illegally.",
+      "link": "https://www.aljazeera.com/news/2026/7/28/future-at-stake-india-moves-to-demolish-university-muslim-leader-founded?traffic_source=rss",
+      "published": "2026-07-28T08:45:37+00:00",
       "featured": false
     },
     {
@@ -416,12 +416,21 @@
       "featured": false
     },
     {
-      "id": "9a31cd643f9a",
+      "id": "088ecf7457b3",
       "source": "OCCRP",
-      "headline": "Lab Owner Suspected of $547 Million Medicare Fraud Extradited to The United States",
-      "excerpt": "Khalid Satary’s laboratories allegedly used call centers, telemedicine doctors and kickbacks to turn medically unnecessary cancer tests into $547 million in Medicare claims. Court records indicate the program paid about...",
-      "link": "https://www.occrp.org/en/news/lab-owner-suspected-of-547-million-medicare-fraud-extradited-to-the-united-states",
-      "published": "2026-07-24T15:42:00+00:00",
+      "headline": "Protected Fraud: Georgian Security Chief’s Cousin Gets 12 Years for Call Center Bribes",
+      "excerpt": "Following a secretive trial, Andria Liluashvili was sentenced to 12 years in prison and stripped of $13 million in luxury assets for funneling monthly kickbacks from fraudulent call centers to his relative, the former...",
+      "link": "https://www.occrp.org/en/news/protected-fraud-georgian-security-chiefs-cousin-gets-12-years-for-call-center-bribes",
+      "published": "2026-07-24T16:00:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "fa683ecfc35c",
+      "source": "ProPublica",
+      "headline": "How Videos Helped Me Uncover Abuse at an Arkansas Private School",
+      "excerpt": "The post How Videos Helped Me Uncover Abuse at an Arkansas Private School appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/arkansas-private-school-abuse-video",
+      "published": "2026-07-24T09:00:00+00:00",
       "featured": false
     },
     {
@@ -434,21 +443,12 @@
       "featured": false
     },
     {
-      "id": "5cc6eece6f03",
+      "id": "84aa01a1ef6e",
       "source": "Rest of World",
-      "headline": "The U.S. wants to contain China’s AI. Silicon Valley keeps using it",
-      "excerpt": "As Apple, Thinking Machines, and developers worldwide embrace Chinese AI models such as Kimi K3, U.S. policymakers are struggling to protect the AI lead.",
-      "link": "https://restofworld.org/2026/china-siliconvalley-ai-moonshot-kimi/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-      "published": "2026-07-22T10:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "958eb3c11d02",
-      "source": "ProPublica",
-      "headline": "How the Government’s Obligation to Keep Foreign Workers Safe Collided With Its Efforts to Keep Farms Afloat",
-      "excerpt": "The post How the Government’s Obligation to Keep Foreign Workers Safe Collided With Its Efforts to Keep Farms Afloat appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/h-2a-farmworker-protections-profits-trump",
-      "published": "2026-07-22T09:00:00+00:00",
+      "headline": "Fed up with Big Tech, communities turn to data collectives for control",
+      "excerpt": "Data collectives and cooperatives, which let creators control the collection and distribution of their data, are emerging as preferred alternatives to big tech companies.",
+      "link": "https://restofworld.org/2026/ai-data-collectives-mozilla/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "published": "2026-07-23T10:00:00+00:00",
       "featured": false
     },
     {
@@ -470,12 +470,12 @@
       "featured": false
     },
     {
-      "id": "a50368eeea68",
+      "id": "ce3a7ced6393",
       "source": "Al Jazeera",
-      "headline": "‘War criminal’: Protesters confront Netanyahu motorcade in Washington DC",
-      "excerpt": "‘F*** you Bibi.’ ‘War criminal!’",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/28/war-criminal-protesters-confront-netanyahu-motorcade-in-washington-dc?traffic_source=rss",
-      "published": "2026-07-28T08:06:35+00:00",
+      "headline": "Sixty Palestinians detained by Israel return to Gaza, describe abuses",
+      "excerpt": "The freed men, some in wheelchairs, describe horrific abuses in Israeli detention.",
+      "link": "https://www.aljazeera.com/news/2026/7/28/sixty-palestinians-detained-by-israel-return-to-gaza-describe-abuses?traffic_source=rss",
+      "published": "2026-07-28T08:25:07+00:00",
       "featured": false
     },
     {
@@ -506,12 +506,21 @@
       "featured": false
     },
     {
-      "id": "b2e54ac32a02",
+      "id": "9a31cd643f9a",
       "source": "OCCRP",
-      "headline": "EU Targets Georgian Oil Refinery Over Russian Crude Processing",
-      "excerpt": "The European Union is placing a deferred transaction ban on a Georgian oil refinery for processing Russian crude, giving the facility six months before the measure takes effect under its 21st sanctions package.",
-      "link": "https://www.occrp.org/en/news/eu-targets-georgian-oil-refinery-over-russian-crude-processing",
-      "published": "2026-07-24T15:06:00+00:00",
+      "headline": "Lab Owner Suspected of $547 Million Medicare Fraud Extradited to The United States",
+      "excerpt": "Khalid Satary’s laboratories allegedly used call centers, telemedicine doctors and kickbacks to turn medically unnecessary cancer tests into $547 million in Medicare claims. Court records indicate the program paid about...",
+      "link": "https://www.occrp.org/en/news/lab-owner-suspected-of-547-million-medicare-fraud-extradited-to-the-united-states",
+      "published": "2026-07-24T15:42:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "f6cd7bff4b58",
+      "source": "ProPublica",
+      "headline": "5 Raw Quotes From America’s Largest Raw-Milk Dairy Owner",
+      "excerpt": "The post 5 Raw Quotes From America’s Largest Raw-Milk Dairy Owner appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/5-quotes-raw-milk-mark-mcafee",
+      "published": "2026-07-23T09:00:00+00:00",
       "featured": false
     },
     {
@@ -524,21 +533,12 @@
       "featured": false
     },
     {
-      "id": "9043dcf2350e",
+      "id": "5cc6eece6f03",
       "source": "Rest of World",
-      "headline": "China’s AI talent race is starting in high school",
-      "excerpt": "As demand for elite AI engineers outpaces supply, companies are recruiting teenagers through camps, research programs, and guaranteed job pipelines.",
-      "link": "https://restofworld.org/2026/china-tech-recruiting-teenagers-ai-shortage/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-      "published": "2026-07-21T10:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "66c67f2edea4",
-      "source": "ProPublica",
-      "headline": "My Maddening Quest to Find Out if Blueberries Come From Farms Where Workers Were Harmed",
-      "excerpt": "The post My Maddening Quest to Find Out if Blueberries Come From Farms Where Workers Were Harmed appeared first on ProPublica.",
-      "link": "https://projects.propublica.org/blueberries-farmworker-mistreatment/",
-      "published": "2026-07-21T09:00:00+00:00",
+      "headline": "The U.S. wants to contain China’s AI. Silicon Valley keeps using it",
+      "excerpt": "As Apple, Thinking Machines, and developers worldwide embrace Chinese AI models such as Kimi K3, U.S. policymakers are struggling to protect the AI lead.",
+      "link": "https://restofworld.org/2026/china-siliconvalley-ai-moonshot-kimi/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "published": "2026-07-22T10:00:00+00:00",
       "featured": false
     }
   ]
