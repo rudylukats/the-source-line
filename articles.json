@@ -1,32 +1,50 @@
 {
-  "generated_at": "2026-07-28T16:51:09.860317+00:00",
+  "generated_at": "2026-07-28T19:53:45.716125+00:00",
   "articles": [
     {
-      "id": "30be2ef2793f",
-      "source": "404 Media",
-      "headline": "'I Would Never Do This To You:' Protesting Flock, Arizona Man Presents Plan to Surveil Government Officials",
-      "excerpt": "“They didn't understand it was satire in the beginning until the end,” Casa Grande, Arizona resident Jacob Petrosky told 404 Media. “They were not happy, they were very upset.”",
-      "link": "https://www.404media.co/casa-grande-arizona-flock-city-council/",
-      "published": "2026-07-28T16:07:52+00:00",
-      "featured": true
-    },
-    {
-      "id": "42a1d667c9e0",
-      "source": "Dropsite News",
-      "headline": "Ansarallah strikes Saudi oil facility; Katz orders Israeli takeover of West Bank refugee camp; Chad pulls out of ICC",
-      "excerpt": "Drop Site Daily: July 28, 2026",
-      "link": "https://www.dropsitenews.com/p/ansarallah-saudi-oil-facility-katz-israel-west-bank-chad-icc",
-      "published": "2026-07-28T15:39:45+00:00",
-      "featured": true
-    },
-    {
-      "id": "f0051324d42e",
+      "id": "e5d5b03bdb25",
       "source": "Al Jazeera",
-      "headline": "Is Netanyahu’s Trump card losing its power in Israel?",
-      "excerpt": "As US ties fray, Netanyahu's claim to unrivalled influence in Washington is under growing scrutiny.",
-      "link": "https://www.aljazeera.com/news/2026/7/28/is-netanyahus-trump-card-losing-its-power-in-israel?traffic_source=rss",
-      "published": "2026-07-28T15:39:42+00:00",
+      "headline": "West Bank quarry owner appeals to Trump after settler raid",
+      "excerpt": "West Bank quarry owner appeals to Trump after settler raid",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/28/west-bank-quarry-owner-appeals-to-trump-after-settler-raid?traffic_source=rss",
+      "published": "2026-07-28T19:23:29+00:00",
       "featured": true
+    },
+    {
+      "id": "a8c61da35aad",
+      "source": "The Intercept",
+      "headline": "Iran Has Figured Out How to Overwhelm U.S. Air Defenses",
+      "excerpt": "As the U.S. runs short of interceptor missiles, Iran is carrying out strikes with a mix of attack drones and advanced ballistic missiles. The post Iran Has Figured Out How to Overwhelm U.S. Air Defenses appeared first...",
+      "link": "https://theintercept.com/2026/07/28/iran-missiles-drones-us-air-defenses/",
+      "published": "2026-07-28T17:51:39+00:00",
+      "featured": true
+    },
+    {
+      "id": "813e53b542a4",
+      "source": "404 Media",
+      "headline": "‘The Government Hopes To Set a Precedent’: An Interview With the Man Charged for Allegedly Wiping His GrapheneOS Phone",
+      "excerpt": "The U.S. government has charged Samuel Tunick with allegedly typing in a passcode to wipe his phone before officers could search it. “I hope people understand that the charges against me are meant to intimidate people,”...",
+      "link": "https://www.404media.co/the-government-hopes-to-set-a-precedent-an-interview-with-the-man-charged-for-allegedly-wiping-his-grapheneos-phone/",
+      "published": "2026-07-28T17:27:01+00:00",
+      "featured": true
+    },
+    {
+      "id": "83ac93722c10",
+      "source": "Dropsite News",
+      "headline": "Israel Is Paying Millions to Train AI Chatbots How to Talk About Gaza. It's Working.",
+      "excerpt": "Former Trump campaign manager Brad Parscale is overseeing an operation posting hundreds of blog posts on behalf of Israel, with the goal of infiltrating artificial intelligence.",
+      "link": "https://www.dropsitenews.com/p/israel-brad-parscale-ai-chatbots-gaza",
+      "published": "2026-07-28T17:24:04+00:00",
+      "featured": false
+    },
+    {
+      "id": "a737631ab062",
+      "source": "The Lever",
+      "headline": "Major Airports To Ditch TSA",
+      "excerpt": "Three U.S. travel hubs are ditching federal transportation security for private contractors.",
+      "link": "https://www.levernews.com/these-major-airports-just-privatized-tsa/",
+      "published": "2026-07-28T17:12:15+00:00",
+      "featured": false
     },
     {
       "id": "c5a4d977067e",
@@ -65,24 +83,6 @@
       "featured": false
     },
     {
-      "id": "b1ab37ffb329",
-      "source": "The Lever",
-      "headline": "These Democrats Voted Against The Iran War — Then Agreed To Fund It",
-      "excerpt": "Six House Democrats voted to expand Trump’s military budget despite supporting resolutions directing the president to end the war on Iran.",
-      "link": "https://www.levernews.com/these-democrats-voted-against-the-iran-war-then-agreed-to-fund-it/",
-      "published": "2026-07-27T18:13:16+00:00",
-      "featured": false
-    },
-    {
-      "id": "66f55ea3b809",
-      "source": "The Intercept",
-      "headline": "The Right Seeks to Capitalize on Berlin Pride Attack — Even as It Poses Its Own Existential Threat to Queer Lives",
-      "excerpt": "Day in and day out, it is the likes of Germany’s conservative parties, and the Republicans at home, who are assaulting LGBTQ+ rights. The post The Right Seeks to Capitalize on Berlin Pride Attack — Even as It Poses Its...",
-      "link": "https://theintercept.com/2026/07/27/berlin-pride-attack-afd-trump/",
-      "published": "2026-07-27T16:59:26+00:00",
-      "featured": false
-    },
-    {
       "id": "671acda7f379",
       "source": "Bellingcat",
       "headline": "Shahed-Type Drones Filmed During Mali Village Attacks",
@@ -101,21 +101,30 @@
       "featured": false
     },
     {
-      "id": "2ee4b838dc62",
+      "id": "e92c3b4f9787",
       "source": "Al Jazeera",
-      "headline": "Iran rejects Trump frozen funds plan, warns ships of Hormuz transit ban",
-      "excerpt": "Iran rejected Trump’s claim that ships damaged by Iran in the Gulf would be compensated from frozen Iranian funds.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/28/iran-rejects-trump-frozen-funds-plan-warns-ships-of-hormuz-transit-ban?traffic_source=rss",
-      "published": "2026-07-28T15:28:33+00:00",
+      "headline": "‘The dream I carried is gone’: Miscarriages rise amid trauma of Gaza’s war",
+      "excerpt": "At al-Awda Hospital, doctors say about 70% of pregnancy losses they see are linked to Israel's genocide and blockade.",
+      "link": "https://www.aljazeera.com/features/2026/7/28/the-dream-i-carried-is-gone-miscarriages-rise-amid-trauma-of-gazas-war?traffic_source=rss",
+      "published": "2026-07-28T18:46:57+00:00",
       "featured": false
     },
     {
-      "id": "d3d90524541f",
+      "id": "30be2ef2793f",
       "source": "404 Media",
-      "headline": "Substackers Say New AI Detection Tool Is a ‘Witch Hunt’",
-      "excerpt": "“I’m not going to apologize for using AI in the creation process.”",
-      "link": "https://www.404media.co/substackers-say-new-ai-detection-tool-is-a-witch-hunt/",
-      "published": "2026-07-28T14:53:59+00:00",
+      "headline": "'I Would Never Do This To You:' Protesting Flock, Arizona Man Presents Plan to Surveil Government Officials",
+      "excerpt": "“They didn't understand it was satire in the beginning until the end,” Casa Grande, Arizona resident Jacob Petrosky told 404 Media. “They were not happy, they were very upset.”",
+      "link": "https://www.404media.co/casa-grande-arizona-flock-city-council/",
+      "published": "2026-07-28T16:07:52+00:00",
+      "featured": false
+    },
+    {
+      "id": "42a1d667c9e0",
+      "source": "Dropsite News",
+      "headline": "Ansarallah strikes Saudi oil facility; Katz orders Israeli takeover of West Bank refugee camp; Chad pulls out of ICC",
+      "excerpt": "Drop Site Daily: July 28, 2026",
+      "link": "https://www.dropsitenews.com/p/ansarallah-saudi-oil-facility-katz-israel-west-bank-chad-icc",
+      "published": "2026-07-28T15:39:45+00:00",
       "featured": false
     },
     {
@@ -137,21 +146,21 @@
       "featured": false
     },
     {
-      "id": "5889d717a6f7",
-      "source": "Dropsite News",
-      "headline": "Israeli Settlers Set Up At Least Six New Colonial Outposts After Friday Killings in the Occupied West Bank",
-      "excerpt": "Israeli soldiers and settlers have unleashed a campaign of terror on Palestinians across the occupied West Bank with home raids, shootings, assaults, mass detentions, and house demolitions.",
-      "link": "https://www.dropsitenews.com/p/west-bank-tal-israeli-settlers-army-outposts-arrests-home-demolitions",
-      "published": "2026-07-27T22:06:37+00:00",
+      "id": "b1ab37ffb329",
+      "source": "The Lever",
+      "headline": "These Democrats Voted Against The Iran War — Then Agreed To Fund It",
+      "excerpt": "Six House Democrats voted to expand Trump’s military budget despite supporting resolutions directing the president to end the war on Iran.",
+      "link": "https://www.levernews.com/these-democrats-voted-against-the-iran-war-then-agreed-to-fund-it/",
+      "published": "2026-07-27T18:13:16+00:00",
       "featured": false
     },
     {
-      "id": "521155c249e6",
+      "id": "66f55ea3b809",
       "source": "The Intercept",
-      "headline": "House Investigation of BreakThrough News Is an Attack on All Journalism",
-      "excerpt": "Favorable coverage of U.S. adversaries is constitutionally protected speech. The post House Investigation of BreakThrough News Is an Attack on All Journalism appeared first on The Intercept.",
-      "link": "https://theintercept.com/2026/07/27/breakthrough-news-journalists-subpoena/",
-      "published": "2026-07-27T15:42:21+00:00",
+      "headline": "The Right Seeks to Capitalize on Berlin Pride Attack — Even as It Poses Its Own Existential Threat to Queer Lives",
+      "excerpt": "Day in and day out, it is the likes of Germany’s conservative parties, and the Republicans at home, who are assaulting LGBTQ+ rights. The post The Right Seeks to Capitalize on Berlin Pride Attack — Even as It Poses Its...",
+      "link": "https://theintercept.com/2026/07/27/berlin-pride-attack-afd-trump/",
+      "published": "2026-07-27T16:59:26+00:00",
       "featured": false
     },
     {
@@ -161,15 +170,6 @@
       "excerpt": "New platforms are paying people to license their likeness for AI-generated dramas and ads, creating a new marketplace for biometric identity.",
       "link": "https://restofworld.org/2026/china-ai-microdramas-face-licensing/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "published": "2026-07-27T10:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "797b96d615d2",
-      "source": "The Lever",
-      "headline": "Whitmer’s War Against Medicare For All",
-      "excerpt": "Michigan’s Democratic governor is helping her healthcare donors try to stop Abdul El-Sayed’s crusade.",
-      "link": "https://www.levernews.com/whitmers-war-against-medicare-for-all/",
-      "published": "2026-07-25T20:49:28+00:00",
       "featured": false
     },
     {
@@ -200,21 +200,21 @@
       "featured": false
     },
     {
-      "id": "7bd9537a7c86",
+      "id": "6809de315e16",
       "source": "Al Jazeera",
-      "headline": "Trump expresses frustration with Netanyahu before White House meeting",
-      "excerpt": "US president says Iran talks progressing, reups threats if diplomacy fails before sit down with Israeli prime minister.",
-      "link": "https://www.aljazeera.com/news/2026/7/28/trump-expresses-frustration-with-netanyahu-before-white-house-meeting?traffic_source=rss",
-      "published": "2026-07-28T15:21:43+00:00",
+      "headline": "Malaysian foreign minister calls for review of UNHCR’s presence",
+      "excerpt": "The UN refugee agency is under pressure to impose stricter controls amid rising local backlash against Rohingya.",
+      "link": "https://www.aljazeera.com/news/2026/7/28/malaysian-foreign-minister-calls-for-review-of-unhcrs-presence?traffic_source=rss",
+      "published": "2026-07-28T18:25:13+00:00",
       "featured": false
     },
     {
-      "id": "a52d078c308f",
+      "id": "d3d90524541f",
       "source": "404 Media",
-      "headline": "Apple’s iMessage Scanning Flagged a Video of My Friend's Dog as Nudity",
-      "excerpt": "Apple’s Sensitive Content Warning is supposed to protect users from unwanted nude images. It accidentally blurred my friend’s dog video.",
-      "link": "https://www.404media.co/apples-imessage-scanning-flagged-a-video-of-my-friends-dog-as-nudity/",
-      "published": "2026-07-28T14:06:28+00:00",
+      "headline": "Substackers Say New AI Detection Tool Is a ‘Witch Hunt’",
+      "excerpt": "“I’m not going to apologize for using AI in the creation process.”",
+      "link": "https://www.404media.co/substackers-say-new-ai-detection-tool-is-a-witch-hunt/",
+      "published": "2026-07-28T14:53:59+00:00",
       "featured": false
     },
     {
@@ -227,21 +227,21 @@
       "featured": false
     },
     {
-      "id": "bbc39061fd6b",
+      "id": "5889d717a6f7",
       "source": "Dropsite News",
-      "headline": "Drone Strikes Are Destroying the Infrastructure of Survival in the Heart of Sudan",
-      "excerpt": "In El-Obeid, RSF drone strikes are destroying fuel, electricity, and water that keeps the most fragile patients alive.",
-      "link": "https://www.dropsitenews.com/p/el-obeid-sudan-hospitals-rsf-drones",
-      "published": "2026-07-27T19:25:37+00:00",
+      "headline": "Israeli Settlers Set Up At Least Six New Colonial Outposts After Friday Killings in the Occupied West Bank",
+      "excerpt": "Israeli soldiers and settlers have unleashed a campaign of terror on Palestinians across the occupied West Bank with home raids, shootings, assaults, mass detentions, and house demolitions.",
+      "link": "https://www.dropsitenews.com/p/west-bank-tal-israeli-settlers-army-outposts-arrests-home-demolitions",
+      "published": "2026-07-27T22:06:37+00:00",
       "featured": false
     },
     {
-      "id": "d17181d173fb",
+      "id": "521155c249e6",
       "source": "The Intercept",
-      "headline": "Fetterman Might Leave Democratic Party Because the Only Thing He Loves More Than Israel Is Attention",
-      "excerpt": "Why is the senator floating the idea of leaving the Democratic Party? Well, Israel, of course. Though he sure loves the media coverage. The post Fetterman Might Leave Democratic Party Because the Only Thing He Loves...",
-      "link": "https://theintercept.com/2026/07/27/fetterman-leave-democrat-party-israel/",
-      "published": "2026-07-27T14:00:33+00:00",
+      "headline": "House Investigation of BreakThrough News Is an Attack on All Journalism",
+      "excerpt": "Favorable coverage of U.S. adversaries is constitutionally protected speech. The post House Investigation of BreakThrough News Is an Attack on All Journalism appeared first on The Intercept.",
+      "link": "https://theintercept.com/2026/07/27/breakthrough-news-journalists-subpoena/",
+      "published": "2026-07-27T15:42:21+00:00",
       "featured": false
     },
     {
@@ -254,12 +254,12 @@
       "featured": false
     },
     {
-      "id": "f279ff8af7a4",
+      "id": "797b96d615d2",
       "source": "The Lever",
-      "headline": "You Love To See It: My Kingdom For A Sweatshirt",
-      "excerpt": "First Amendment rights get fashionable, New York takes a data center pause, Lina Khan returns to public service, and retirees get payback.",
-      "link": "https://www.levernews.com/you-love-to-see-it-my-kingdom-for-a-sweatshirt/",
-      "published": "2026-07-25T13:01:51+00:00",
+      "headline": "Whitmer’s War Against Medicare For All",
+      "excerpt": "Michigan’s Democratic governor is helping her healthcare donors try to stop Abdul El-Sayed’s crusade.",
+      "link": "https://www.levernews.com/whitmers-war-against-medicare-for-all/",
+      "published": "2026-07-25T20:49:28+00:00",
       "featured": false
     },
     {
@@ -299,21 +299,30 @@
       "featured": false
     },
     {
-      "id": "2802cbf2b137",
+      "id": "cbe5c3abbaf9",
       "source": "Al Jazeera",
-      "headline": "German investigators find apparent motive after Berlin Pride attack",
-      "excerpt": "Prosecutors say they uncover video of accused Berlin Pride attacker pledging allegiance to ISIL (ISIS).",
-      "link": "https://www.aljazeera.com/news/2026/7/28/german-investigators-find-apparent-motive-after-berlin-pride-attack?traffic_source=rss",
-      "published": "2026-07-28T15:20:43+00:00",
+      "headline": "‘No freedom at all’: Israeli closures leave West Bank patients trapped",
+      "excerpt": "Palestinians face hours-long waits at Israeli military checkpoints, forcing women to give birth outside hospitals.",
+      "link": "https://www.aljazeera.com/news/2026/7/28/no-freedom-at-all-israeli-closures-leave-west-bank-patients-trapped?traffic_source=rss",
+      "published": "2026-07-28T18:24:26+00:00",
       "featured": false
     },
     {
-      "id": "4e321bf4516d",
+      "id": "a52d078c308f",
       "source": "404 Media",
-      "headline": "Wikimedia Will Not Voluntarily Recognize Union a Supermajority of Its Workers Want",
-      "excerpt": "The Wikimedia Foundation waited until immediately after its largest annual conference to say it wouldn't voluntarily recognize its workers' union.",
-      "link": "https://www.404media.co/wikimedia-waits-until-after-its-massive-conference-to-say-it-wont-voluntarily-recognize-union/",
-      "published": "2026-07-27T23:43:57+00:00",
+      "headline": "Apple’s iMessage Scanning Flagged a Video of My Friend's Dog as Nudity",
+      "excerpt": "Apple’s Sensitive Content Warning is supposed to protect users from unwanted nude images. It accidentally blurred my friend’s dog video.",
+      "link": "https://www.404media.co/apples-imessage-scanning-flagged-a-video-of-my-friends-dog-as-nudity/",
+      "published": "2026-07-28T14:06:28+00:00",
+      "featured": false
+    },
+    {
+      "id": "bbc39061fd6b",
+      "source": "Dropsite News",
+      "headline": "Drone Strikes Are Destroying the Infrastructure of Survival in the Heart of Sudan",
+      "excerpt": "In El-Obeid, RSF drone strikes are destroying fuel, electricity, and water that keeps the most fragile patients alive.",
+      "link": "https://www.dropsitenews.com/p/el-obeid-sudan-hospitals-rsf-drones",
+      "published": "2026-07-27T19:25:37+00:00",
       "featured": false
     },
     {
@@ -326,30 +335,21 @@
       "featured": false
     },
     {
-      "id": "483d7968de33",
-      "source": "Dropsite News",
-      "headline": "Iran war pauses; Yemen and Saudi go “siege for a siege”; Dr. Fauci’s diary",
-      "excerpt": "Drop Site Daily: July 27, 2026",
-      "link": "https://www.dropsitenews.com/p/iran-us-war-pause-yemen-saudi-ansarallah-fauci-diary-covid",
-      "published": "2026-07-27T15:39:49+00:00",
-      "featured": false
-    },
-    {
-      "id": "8b123acc0949",
+      "id": "d17181d173fb",
       "source": "The Intercept",
-      "headline": "Abdul El-Sayed Faces Islamophobic Attacks From GOP and Democratic Establishment",
-      "excerpt": "AIPAC has spent nearly $30 million against the Michigan Democratic Senate candidate, fueling ads that paint him as a terrorist sympathizer. The post Abdul El-Sayed Faces Islamophobic Attacks From GOP and Democratic...",
-      "link": "https://theintercept.com/2026/07/27/abdul-el-sayed-haley-stevens-aipac-senate-michigan/",
-      "published": "2026-07-27T10:12:00+00:00",
+      "headline": "Fetterman Might Leave Democratic Party Because the Only Thing He Loves More Than Israel Is Attention",
+      "excerpt": "Why is the senator floating the idea of leaving the Democratic Party? Well, Israel, of course. Though he sure loves the media coverage. The post Fetterman Might Leave Democratic Party Because the Only Thing He Loves...",
+      "link": "https://theintercept.com/2026/07/27/fetterman-leave-democrat-party-israel/",
+      "published": "2026-07-27T14:00:33+00:00",
       "featured": false
     },
     {
-      "id": "00dcbbde46a8",
+      "id": "f279ff8af7a4",
       "source": "The Lever",
-      "headline": "What’s In Your Lettuce?",
-      "excerpt": "Test your knowledge of the midterms, the Winklevoss twins, and other issues that really matter.",
-      "link": "https://www.levernews.com/whats-in-your-lettuce/",
-      "published": "2026-07-24T17:12:34+00:00",
+      "headline": "You Love To See It: My Kingdom For A Sweatshirt",
+      "excerpt": "First Amendment rights get fashionable, New York takes a data center pause, Lina Khan returns to public service, and retirees get payback.",
+      "link": "https://www.levernews.com/you-love-to-see-it-my-kingdom-for-a-sweatshirt/",
+      "published": "2026-07-25T13:01:51+00:00",
       "featured": false
     },
     {
@@ -389,21 +389,30 @@
       "featured": false
     },
     {
-      "id": "7ca0d01decec",
+      "id": "9f3087d49e91",
       "source": "Al Jazeera",
-      "headline": "FIFA World Cup: For India, qualification is still just a distant dream",
-      "excerpt": "India failed to qualify for next year's Asian Cup, making a FIFA World Cup 2030 or 2034 appearance unlikely.",
-      "link": "https://www.aljazeera.com/sports/2026/7/28/fifa-world-cup-for-india-football-qualification-is-still-just-a-distant-dream?traffic_source=rss",
-      "published": "2026-07-28T14:45:14+00:00",
+      "headline": "Uganda declares end to Ebola outbreak",
+      "excerpt": "Health minister urges people in the country 'to remain alert' and continue observing public health measures.",
+      "link": "https://www.aljazeera.com/news/2026/7/28/uganda-declares-end-to-ebola-outbreak?traffic_source=rss",
+      "published": "2026-07-28T18:02:03+00:00",
       "featured": false
     },
     {
-      "id": "6790ad386ed0",
+      "id": "4e321bf4516d",
       "source": "404 Media",
-      "headline": "Person Opposing Data Center Arrested for Clapping at City Meeting",
-      "excerpt": "Police refused to release the arrest report, saying it could \"could interfere with ongoing investigative efforts.\"",
-      "link": "https://www.404media.co/person-opposing-data-center-arrested-for-clapping-at-city-meeting/",
-      "published": "2026-07-27T22:56:07+00:00",
+      "headline": "Wikimedia Will Not Voluntarily Recognize Union a Supermajority of Its Workers Want",
+      "excerpt": "The Wikimedia Foundation waited until immediately after its largest annual conference to say it wouldn't voluntarily recognize its workers' union.",
+      "link": "https://www.404media.co/wikimedia-waits-until-after-its-massive-conference-to-say-it-wont-voluntarily-recognize-union/",
+      "published": "2026-07-27T23:43:57+00:00",
+      "featured": false
+    },
+    {
+      "id": "483d7968de33",
+      "source": "Dropsite News",
+      "headline": "Iran war pauses; Yemen and Saudi go “siege for a siege”; Dr. Fauci’s diary",
+      "excerpt": "Drop Site Daily: July 27, 2026",
+      "link": "https://www.dropsitenews.com/p/iran-us-war-pause-yemen-saudi-ansarallah-fauci-diary-covid",
+      "published": "2026-07-27T15:39:49+00:00",
       "featured": false
     },
     {
@@ -416,21 +425,21 @@
       "featured": false
     },
     {
-      "id": "fd4ef84923a5",
+      "id": "8b123acc0949",
       "source": "The Intercept",
-      "headline": "Rubio’s Paranoid Cuba Report Designed to “Justify a Military Attack on Cuba,” Says Democratic Rep.",
-      "excerpt": "Did Cuba foment Black Lives Matter and anti-ICE protests? The State Department seems to think so. The post Rubio’s Paranoid Cuba Report Designed to “Justify a Military Attack on Cuba,” Says Democratic Rep. appeared...",
-      "link": "https://theintercept.com/2026/07/26/cuba-marco-rubio-state-department-report/",
-      "published": "2026-07-26T10:00:00+00:00",
+      "headline": "Abdul El-Sayed Faces Islamophobic Attacks From GOP and Democratic Establishment",
+      "excerpt": "AIPAC has spent nearly $30 million against the Michigan Democratic Senate candidate, fueling ads that paint him as a terrorist sympathizer. The post Abdul El-Sayed Faces Islamophobic Attacks From GOP and Democratic...",
+      "link": "https://theintercept.com/2026/07/27/abdul-el-sayed-haley-stevens-aipac-senate-michigan/",
+      "published": "2026-07-27T10:12:00+00:00",
       "featured": false
     },
     {
-      "id": "609543bdfa95",
-      "source": "Dropsite News",
-      "headline": "India’s Cockroach Protests End as Modi Government Bows to Demands",
-      "excerpt": "Hundreds of thousands of young protesters assembled in Delhi’s Jantar Mantar every day to demand the resignation of the education minister and accountability from the Modi government.",
-      "link": "https://www.dropsitenews.com/p/india-cockroach-protests-end-modi-education-minister-resigns",
-      "published": "2026-07-25T18:15:50+00:00",
+      "id": "00dcbbde46a8",
+      "source": "The Lever",
+      "headline": "What’s In Your Lettuce?",
+      "excerpt": "Test your knowledge of the midterms, the Winklevoss twins, and other issues that really matter.",
+      "link": "https://www.levernews.com/whats-in-your-lettuce/",
+      "published": "2026-07-24T17:12:34+00:00",
       "featured": false
     },
     {
@@ -440,15 +449,6 @@
       "excerpt": "The post How Videos Helped Me Uncover Abuse at an Arkansas Private School appeared first on ProPublica.",
       "link": "https://www.propublica.org/article/arkansas-private-school-abuse-video",
       "published": "2026-07-24T09:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "0106dc40c1a9",
-      "source": "The Lever",
-      "headline": "The SNAP Subsidy",
-      "excerpt": "At America’s biggest corporations, low wages mean thousands of workers rely on federal food stamps to get by.",
-      "link": "https://www.levernews.com/the-snap-subsidy/",
-      "published": "2026-07-23T16:23:23+00:00",
       "featured": false
     },
     {
@@ -479,39 +479,39 @@
       "featured": false
     },
     {
-      "id": "54aabbb0bd31",
+      "id": "ffdb41c47eb4",
       "source": "Al Jazeera",
-      "headline": "Iraqi PM visits Turkiye to boost ties despite complex challenges",
-      "excerpt": "Discussions to focus on 'strategic cooperation', as well as issues related to security, water and the economy.",
-      "link": "https://www.aljazeera.com/economy/2026/7/28/iraqi-pm-visits-turkiye-to-boost-ties-despite-complex-challenges?traffic_source=rss",
-      "published": "2026-07-28T13:55:52+00:00",
+      "headline": "Lindsey Graham ‘almost cried’ tears of joy over war on Iran, footage shows",
+      "excerpt": "Excerpts from a planned documentary show the hawkish senator claiming credit for persuading Donald Trump to attack Iran.",
+      "link": "https://www.aljazeera.com/news/2026/7/28/lindsey-graham-almost-cried-tears-of-joy-over-war-on-iran-footage-shows?traffic_source=rss",
+      "published": "2026-07-28T18:01:03+00:00",
       "featured": false
     },
     {
-      "id": "44be8f915eb7",
+      "id": "6790ad386ed0",
       "source": "404 Media",
-      "headline": "This Man Bought Phone Location Data from Around the World (with Mike Yeagley)",
-      "excerpt": "Joseph speaks to Mike Yeagley about how he bought the world's location data, and what that means for everyone's privacy and security.",
-      "link": "https://www.404media.co/this-man-bought-phone-location-data-from-around-the-world-with-mike-yeagley/",
-      "published": "2026-07-27T14:52:02+00:00",
+      "headline": "Person Opposing Data Center Arrested for Clapping at City Meeting",
+      "excerpt": "Police refused to release the arrest report, saying it could \"could interfere with ongoing investigative efforts.\"",
+      "link": "https://www.404media.co/person-opposing-data-center-arrested-for-clapping-at-city-meeting/",
+      "published": "2026-07-27T22:56:07+00:00",
       "featured": false
     },
     {
-      "id": "39bb6c374032",
+      "id": "fd4ef84923a5",
       "source": "The Intercept",
-      "headline": "Pete Hegseth’s Crisis of Masculinity",
-      "excerpt": "The secretary of war’s obsession with testosterone reveals the anxieties he harbors about himself and the military he leads. The post Pete Hegseth’s Crisis of Masculinity appeared first on The Intercept.",
-      "link": "https://theintercept.com/2026/07/25/pete-hegseth-testosterone-military-masculinity/",
-      "published": "2026-07-25T11:08:00+00:00",
+      "headline": "Rubio’s Paranoid Cuba Report Designed to “Justify a Military Attack on Cuba,” Says Democratic Rep.",
+      "excerpt": "Did Cuba foment Black Lives Matter and anti-ICE protests? The State Department seems to think so. The post Rubio’s Paranoid Cuba Report Designed to “Justify a Military Attack on Cuba,” Says Democratic Rep. appeared...",
+      "link": "https://theintercept.com/2026/07/26/cuba-marco-rubio-state-department-report/",
+      "published": "2026-07-26T10:00:00+00:00",
       "featured": false
     },
     {
-      "id": "36e0d8b6830d",
+      "id": "609543bdfa95",
       "source": "Dropsite News",
-      "headline": "The Last-Minute Million-Dollar Ad Spend Against Will Lawrence Is Coming From a Major Pro-Israel Group",
-      "excerpt": "Democratic Majority for Israel is routing the contribution through a CBC-linked PAC—producing a one-of-a-kind irony.",
-      "link": "https://www.dropsitenews.com/p/dmfi-will-lawrence-michigan-haley-stevens-consultant-palantir",
-      "published": "2026-07-24T21:51:16+00:00",
+      "headline": "India’s Cockroach Protests End as Modi Government Bows to Demands",
+      "excerpt": "Hundreds of thousands of young protesters assembled in Delhi’s Jantar Mantar every day to demand the resignation of the education minister and accountability from the Modi government.",
+      "link": "https://www.dropsitenews.com/p/india-cockroach-protests-end-modi-education-minister-resigns",
+      "published": "2026-07-25T18:15:50+00:00",
       "featured": false
     },
     {
@@ -524,21 +524,21 @@
       "featured": false
     },
     {
+      "id": "0106dc40c1a9",
+      "source": "The Lever",
+      "headline": "The SNAP Subsidy",
+      "excerpt": "At America’s biggest corporations, low wages mean thousands of workers rely on federal food stamps to get by.",
+      "link": "https://www.levernews.com/the-snap-subsidy/",
+      "published": "2026-07-23T16:23:23+00:00",
+      "featured": false
+    },
+    {
       "id": "f6cd7bff4b58",
       "source": "ProPublica",
       "headline": "5 Raw Quotes From America’s Largest Raw-Milk Dairy Owner",
       "excerpt": "The post 5 Raw Quotes From America’s Largest Raw-Milk Dairy Owner appeared first on ProPublica.",
       "link": "https://www.propublica.org/article/5-quotes-raw-milk-mark-mcafee",
       "published": "2026-07-23T09:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "2f9478125ffa",
-      "source": "The Lever",
-      "headline": "Trump’s Consumer Watchdog Pick Worked For Companies Sued By The Agency",
-      "excerpt": "Financial disclosures reveal Trump’s CFPB pick advised companies accused of ripping off consumers — and if confirmed, he won’t recuse himself from overseeing them.",
-      "link": "https://www.levernews.com/trumps-consumer-watchdog-pick-worked-for-companies-the-agency-sued/",
-      "published": "2026-07-22T21:02:15+00:00",
       "featured": false
     }
   ]
