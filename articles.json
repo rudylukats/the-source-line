@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-07-27T22:19:11.138860+00:00",
+  "generated_at": "2026-07-28T03:36:49.898288+00:00",
   "articles": [
+    {
+      "id": "d6a29dcbba9e",
+      "source": "Al Jazeera",
+      "headline": "Ukraine’s Zelenskyy set to meet Trump as Iran and Ukraine wars converge",
+      "excerpt": "The US Senate will vote Tuesday on Russian sanctions, days after Ukraine attacked an Iranian vessel in the Caspian Sea.",
+      "link": "https://www.aljazeera.com/news/2026/7/28/ukraines-zelenskyy-set-to-meet-trump-as-iran-and-ukraine-wars-converge?traffic_source=rss",
+      "published": "2026-07-28T03:16:30+00:00",
+      "featured": true
+    },
+    {
+      "id": "4e321bf4516d",
+      "source": "404 Media",
+      "headline": "Wikimedia Will Not Voluntarily Recognize Union a Supermajority of Its Workers Want",
+      "excerpt": "The Wikimedia Foundation waited until immediately after its largest annual conference to say it wouldn't voluntarily recognize its workers' union.",
+      "link": "https://www.404media.co/wikimedia-waits-until-after-its-massive-conference-to-say-it-wont-voluntarily-recognize-union/",
+      "published": "2026-07-27T23:43:57+00:00",
+      "featured": true
+    },
     {
       "id": "5889d717a6f7",
       "source": "Dropsite News",
@@ -11,22 +29,13 @@
       "featured": true
     },
     {
-      "id": "3a9414da965a",
-      "source": "Al Jazeera",
-      "headline": "Video shows man subdued after stabbing three women in Paris",
-      "excerpt": "Three women were wounded, two of them seriously, in a knife attack near Porte de Clichy in Paris.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/27/video-shows-man-subdued-after-stabbing-three-women-in-paris?traffic_source=rss",
-      "published": "2026-07-27T21:27:08+00:00",
-      "featured": true
-    },
-    {
       "id": "b1ab37ffb329",
       "source": "The Lever",
       "headline": "These Democrats Voted Against The Iran War — Then Agreed To Fund It",
       "excerpt": "Six House Democrats voted to expand Trump’s military budget despite supporting resolutions directing the president to end the war on Iran.",
       "link": "https://www.levernews.com/these-democrats-voted-against-the-iran-war-then-agreed-to-fund-it/",
       "published": "2026-07-27T18:13:16+00:00",
-      "featured": true
+      "featured": false
     },
     {
       "id": "fe7b1193e2b1",
@@ -44,15 +53,6 @@
       "excerpt": "Day in and day out, it is the likes of Germany’s conservative parties, and the Republicans at home, who are assaulting LGBTQ+ rights. The post The Right Seeks to Capitalize on Berlin Pride Attack — Even as It Poses Its...",
       "link": "https://theintercept.com/2026/07/27/berlin-pride-attack-afd-trump/",
       "published": "2026-07-27T16:59:26+00:00",
-      "featured": false
-    },
-    {
-      "id": "44be8f915eb7",
-      "source": "404 Media",
-      "headline": "This Man Bought Phone Location Data from Around the World (with Mike Yeagley)",
-      "excerpt": "Joseph speaks to Mike Yeagley about how he bought the world's location data, and what that means for everyone's privacy and security.",
-      "link": "https://www.404media.co/this-man-bought-phone-location-data-from-around-the-world-with-mike-yeagley/",
-      "published": "2026-07-27T14:52:02+00:00",
       "featured": false
     },
     {
@@ -101,12 +101,21 @@
       "featured": false
     },
     {
-      "id": "3e3402212ea9",
+      "id": "07d1303ca5f1",
       "source": "Al Jazeera",
-      "headline": "Trump asks US Supreme Court to allow mail-in voting restrictions",
-      "excerpt": "A lower court blocked the mail-in ballot restrictions, ruling Trump lacked authority to change state election rules.",
-      "link": "https://www.aljazeera.com/news/2026/7/27/trump-asks-us-supreme-court-to-allow-mail-in-voting-restrictions?traffic_source=rss",
-      "published": "2026-07-27T21:24:31+00:00",
+      "headline": "US warns hundreds of Boeing jets may require seat safety inspections",
+      "excerpt": "US regulator warns of Boeing 737 MAX seat safety concerns, calls for inspection of 453 US-registered jets.",
+      "link": "https://www.aljazeera.com/news/2026/7/28/us-warns-hundreds-of-boeing-jets-may-require-seat-safety-inspections?traffic_source=rss",
+      "published": "2026-07-28T02:54:18+00:00",
+      "featured": false
+    },
+    {
+      "id": "6790ad386ed0",
+      "source": "404 Media",
+      "headline": "Person Opposing Data Center Arrested for Clapping at City Meeting",
+      "excerpt": "Police refused to release the arrest report, saying it could \"could interfere with ongoing investigative efforts.\"",
+      "link": "https://www.404media.co/person-opposing-data-center-arrested-for-clapping-at-city-meeting/",
+      "published": "2026-07-27T22:56:07+00:00",
       "featured": false
     },
     {
@@ -125,15 +134,6 @@
       "excerpt": "Favorable coverage of U.S. adversaries is constitutionally protected speech. The post House Investigation of BreakThrough News Is an Attack on All Journalism appeared first on The Intercept.",
       "link": "https://theintercept.com/2026/07/27/breakthrough-news-journalists-subpoena/",
       "published": "2026-07-27T15:42:21+00:00",
-      "featured": false
-    },
-    {
-      "id": "efccadc24fbc",
-      "source": "404 Media",
-      "headline": "Tons of Peoples’ Claude Chats and Creations are Exposed on Google",
-      "excerpt": "Claude users are creating public share links, but probably don't realize that means their chats are now ending up in Google searches where anyone can dig through them.",
-      "link": "https://www.404media.co/tons-of-peoples-claude-chats-and-creations-are-exposed-on-google/",
-      "published": "2026-07-27T13:48:42+00:00",
       "featured": false
     },
     {
@@ -200,12 +200,12 @@
       "featured": false
     },
     {
-      "id": "381e8d582df5",
+      "id": "ed0ebded0ae8",
       "source": "Al Jazeera",
-      "headline": "UN slams Israel’s expansion of illegal settlements in occupied West Bank",
-      "excerpt": "UN chief Guterres says settlements a 'flagrant violation' of international law, amid escalating violence.",
-      "link": "https://www.aljazeera.com/news/2026/7/27/un-slams-israels-expansion-of-illegal-settlements-in-occupied-west-bank?traffic_source=rss",
-      "published": "2026-07-27T21:17:15+00:00",
+      "headline": "Trump says Iran talks taking place during pause in US military strikes",
+      "excerpt": "US President Donald Trump says talks with Iran are continuing during a pause in US military strikes",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/28/trump-says-iran-talks-taking-place-during-pause-in-us-military-strikes?traffic_source=rss",
+      "published": "2026-07-28T02:47:55+00:00",
       "featured": false
     },
     {
@@ -218,21 +218,21 @@
       "featured": false
     },
     {
+      "id": "44be8f915eb7",
+      "source": "404 Media",
+      "headline": "This Man Bought Phone Location Data from Around the World (with Mike Yeagley)",
+      "excerpt": "Joseph speaks to Mike Yeagley about how he bought the world's location data, and what that means for everyone's privacy and security.",
+      "link": "https://www.404media.co/this-man-bought-phone-location-data-from-around-the-world-with-mike-yeagley/",
+      "published": "2026-07-27T14:52:02+00:00",
+      "featured": false
+    },
+    {
       "id": "d17181d173fb",
       "source": "The Intercept",
       "headline": "Fetterman Might Leave Democratic Party Because the Only Thing He Loves More Than Israel Is Attention",
       "excerpt": "Why is the senator floating the idea of leaving the Democratic Party? Well, Israel, of course. Though he sure loves the media coverage. The post Fetterman Might Leave Democratic Party Because the Only Thing He Loves...",
       "link": "https://theintercept.com/2026/07/27/fetterman-leave-democrat-party-israel/",
       "published": "2026-07-27T14:00:33+00:00",
-      "featured": false
-    },
-    {
-      "id": "9472c0a75019",
-      "source": "404 Media",
-      "headline": "Spotify's AI Problem Is So Bad Random People Are Stepping In to Track the Slop",
-      "excerpt": "Spotify doesn’t label AI music on its platform, so websites like SoullessMusic.com and SlopTracker.org do it instead.",
-      "link": "https://www.404media.co/spotifys-ai-problem-is-so-bad-random-people-are-stepping-in-to-track-the-slop/",
-      "published": "2026-07-27T13:25:34+00:00",
       "featured": false
     },
     {
@@ -290,12 +290,21 @@
       "featured": false
     },
     {
-      "id": "faf878a684b2",
+      "id": "f41e1889309d",
       "source": "Al Jazeera",
-      "headline": "Nvidia plans $250bn push to bolster OpenAI’s infrastructure ambitions",
-      "excerpt": "Political backlash grows as US states propose bans on new data centres, raising challenges for Nvidia and AI industry.",
-      "link": "https://www.aljazeera.com/economy/2026/7/27/nvidia-plans-250bn-push-to-bolster-openais-infrastructure-ambitions?traffic_source=rss",
-      "published": "2026-07-27T21:08:21+00:00",
+      "headline": "Ebola response workers strike in DR Congo as death toll spikes",
+      "excerpt": "Healthcare workers at an Ebola treatment centre in Bunia, Democratic Republic of Congo, have gone on strike.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/28/ebola-response-workers-strike-in-dr-congo-as-death-toll-spikes?traffic_source=rss",
+      "published": "2026-07-28T02:33:05+00:00",
+      "featured": false
+    },
+    {
+      "id": "efccadc24fbc",
+      "source": "404 Media",
+      "headline": "Tons of Peoples’ Claude Chats and Creations are Exposed on Google",
+      "excerpt": "Claude users are creating public share links, but probably don't realize that means their chats are now ending up in Google searches where anyone can dig through them.",
+      "link": "https://www.404media.co/tons-of-peoples-claude-chats-and-creations-are-exposed-on-google/",
+      "published": "2026-07-27T13:48:42+00:00",
       "featured": false
     },
     {
@@ -305,15 +314,6 @@
       "excerpt": "AIPAC has spent nearly $30 million against the Michigan Democratic Senate candidate, fueling ads that paint him as a terrorist sympathizer. The post Abdul El-Sayed Faces Islamophobic Attacks From GOP and Democratic...",
       "link": "https://theintercept.com/2026/07/27/abdul-el-sayed-haley-stevens-aipac-senate-michigan/",
       "published": "2026-07-27T10:12:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "4fe0ea50a962",
-      "source": "404 Media",
-      "headline": "Being a Luddite Is Fun Again",
-      "excerpt": "As tech backlash hits the mainstream, the ‘Summer of Ludd’ proves we don’t need social media to hang out and have a good time.",
-      "link": "https://www.404media.co/luddite-events-nyc-off-tech-summer-of-ludd/",
-      "published": "2026-07-27T10:00:04+00:00",
       "featured": false
     },
     {
@@ -380,12 +380,21 @@
       "featured": false
     },
     {
-      "id": "bbde8dfe914e",
+      "id": "58d6ee802079",
       "source": "Al Jazeera",
-      "headline": "Hopes of return to diplomacy as US-Iran hold fire for third day",
-      "excerpt": "Mediators from Qatar and Pakistan work to restart ceasefire talks amid fragile pause in hostilities.",
-      "link": "https://www.aljazeera.com/news/2026/7/27/hopes-of-return-to-diplomacy-as-us-iran-hold-fire-for-third-day?traffic_source=rss",
-      "published": "2026-07-27T21:04:09+00:00",
+      "headline": "How telehealth is helping close the healthcare gap in rural Zimbabwe",
+      "excerpt": "Virtual consultations are replacing hours of travel, bringing affordable healthcare closer to rural Zimbabweans.",
+      "link": "https://www.aljazeera.com/news/2026/7/28/how-telehealth-is-helping-close-the-healthcare-gap-in-rural-zimbabwe?traffic_source=rss",
+      "published": "2026-07-28T02:08:54+00:00",
+      "featured": false
+    },
+    {
+      "id": "9472c0a75019",
+      "source": "404 Media",
+      "headline": "Spotify's AI Problem Is So Bad Random People Are Stepping In to Track the Slop",
+      "excerpt": "Spotify doesn’t label AI music on its platform, so websites like SoullessMusic.com and SlopTracker.org do it instead.",
+      "link": "https://www.404media.co/spotifys-ai-problem-is-so-bad-random-people-are-stepping-in-to-track-the-slop/",
+      "published": "2026-07-27T13:25:34+00:00",
       "featured": false
     },
     {
@@ -395,15 +404,6 @@
       "excerpt": "Did Cuba foment Black Lives Matter and anti-ICE protests? The State Department seems to think so. The post Rubio’s Paranoid Cuba Report Designed to “Justify a Military Attack on Cuba,” Says Democratic Rep. appeared...",
       "link": "https://theintercept.com/2026/07/26/cuba-marco-rubio-state-department-report/",
       "published": "2026-07-26T10:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "1a60ae787f6e",
-      "source": "404 Media",
-      "headline": "Scientists Uncover Lost ‘Golden Age’ of Languages That Ended 1,000 Years Ago",
-      "excerpt": "Scientists have predicted that human linguistic diversity flourished between 3,000 and 1,000 years ago, before declining with the rise of multinational states and colonial expansion.",
-      "link": "https://www.404media.co/scientists-uncover-lost-golden-age-of-languages-that-ended-1-000-years-ago/",
-      "published": "2026-07-25T10:00:43+00:00",
       "featured": false
     },
     {
@@ -470,12 +470,21 @@
       "featured": false
     },
     {
-      "id": "f8a7292b40c0",
+      "id": "dda8344452de",
       "source": "Al Jazeera",
-      "headline": "Will Peru’s new leader Keiko Fujimori reject her father’s legacy?",
-      "excerpt": "Keiko Fujimori was elected president and many people are sceptical she will be able to unite Peru as promised.",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/7/27/will-perus-new-leader-keiko-fujimori-reject-her-fathers-legacy?traffic_source=rss",
-      "published": "2026-07-27T20:47:26+00:00",
+      "headline": "Former senior ICE official says rush for numbers is causing deaths",
+      "excerpt": "Fmr. Acting Chief of Staff at ICE: a rush to hire officers and a focus on detention numbers is causing fatal mistakes.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/28/aje-onl-nf_former-ice-official-rush-for-numbers-causing-deaths-270726?traffic_source=rss",
+      "published": "2026-07-28T01:18:24+00:00",
+      "featured": false
+    },
+    {
+      "id": "4fe0ea50a962",
+      "source": "404 Media",
+      "headline": "Being a Luddite Is Fun Again",
+      "excerpt": "As tech backlash hits the mainstream, the ‘Summer of Ludd’ proves we don’t need social media to hang out and have a good time.",
+      "link": "https://www.404media.co/luddite-events-nyc-off-tech-summer-of-ludd/",
+      "published": "2026-07-27T10:00:04+00:00",
       "featured": false
     },
     {
@@ -485,15 +494,6 @@
       "excerpt": "The secretary of war’s obsession with testosterone reveals the anxieties he harbors about himself and the military he leads. The post Pete Hegseth’s Crisis of Masculinity appeared first on The Intercept.",
       "link": "https://theintercept.com/2026/07/25/pete-hegseth-testosterone-military-masculinity/",
       "published": "2026-07-25T11:08:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "123a83a08669",
-      "source": "404 Media",
-      "headline": "Behind the Blog: No Spoilers",
-      "excerpt": "This week, we discuss astrology, Flock on the brain, The Odyssey, and more.",
-      "link": "https://www.404media.co/behind-the-blog-no-spoilers/",
-      "published": "2026-07-24T18:11:04+00:00",
       "featured": false
     },
     {
