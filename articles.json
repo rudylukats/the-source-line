@@ -1,13 +1,22 @@
 {
-  "generated_at": "2026-07-29T11:34:41.284694+00:00",
+  "generated_at": "2026-07-29T14:32:10.721711+00:00",
   "articles": [
     {
-      "id": "0f605441b63b",
+      "id": "3d04fc1801c7",
       "source": "Al Jazeera",
-      "headline": "Infantino’s FIFA World Cup stakes plan: Would UEFA boycott, would it work?",
-      "excerpt": "How the proposed FIFA Forward Enterprise has drawn criticism, including from UEFA and new United Kingdom Prime Minister.",
-      "link": "https://www.aljazeera.com/sports/2026/7/29/infantinos-fifa-world-cup-stakes-plan-would-uefa-boycott-would-it-work?traffic_source=rss",
-      "published": "2026-07-29T11:19:58+00:00",
+      "headline": "US and Israeli leaders expected ‘swift outcome’ in Iran",
+      "excerpt": "New details are emerging of how US and Israeli officials believed the war on Iran would be straightforward and short.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/29/us-and-israeli-leaders-expected-swift-outcome-in-iran?traffic_source=rss",
+      "published": "2026-07-29T14:27:45+00:00",
+      "featured": true
+    },
+    {
+      "id": "0bcc9c33ac8e",
+      "source": "404 Media",
+      "headline": "Data Centers Are Easy to Build. Powering Them Is Complicated, Slow, and Expensive",
+      "excerpt": "A new AI data center can be up and running in a year. Building new energy infrastructure to power it could take a decade.",
+      "link": "https://www.404media.co/data-centers-power-energy-grid-epa-clean-air-act/",
+      "published": "2026-07-29T14:03:50+00:00",
       "featured": true
     },
     {
@@ -26,7 +35,7 @@
       "excerpt": "The post Anthropic’s New AI Model Can Identify More Software Bugs Than Ever. Microsoft Is Struggling to Fix Them Fast Enough. appeared first on ProPublica.",
       "link": "https://www.propublica.org/article/anthropic-mythos-microsoft-software-vulnerabilities",
       "published": "2026-07-29T09:00:00+00:00",
-      "featured": true
+      "featured": false
     },
     {
       "id": "b7e462dee79f",
@@ -53,15 +62,6 @@
       "excerpt": "As the U.S. runs short of interceptor missiles, Iran is carrying out strikes with a mix of attack drones and advanced ballistic missiles. The post Iran Has Figured Out How to Overwhelm U.S. Air Defenses appeared first...",
       "link": "https://theintercept.com/2026/07/28/iran-missiles-drones-us-air-defenses/",
       "published": "2026-07-28T17:51:39+00:00",
-      "featured": false
-    },
-    {
-      "id": "813e53b542a4",
-      "source": "404 Media",
-      "headline": "‘The Government Hopes To Set a Precedent’: An Interview With the Man Charged for Allegedly Wiping His GrapheneOS Phone",
-      "excerpt": "The U.S. government has charged Samuel Tunick with allegedly typing in a passcode to wipe his phone before officers could search it. “I hope people understand that the charges against me are meant to intimidate people,”...",
-      "link": "https://www.404media.co/the-government-hopes-to-set-a-precedent-an-interview-with-the-man-charged-for-allegedly-wiping-his-grapheneos-phone/",
-      "published": "2026-07-28T17:27:01+00:00",
       "featured": false
     },
     {
@@ -101,12 +101,12 @@
       "featured": false
     },
     {
-      "id": "799250825309",
+      "id": "b0ed9bd992fd",
       "source": "Al Jazeera",
-      "headline": "‘Iran attacks now to send message as US assets build up in Israel’",
-      "excerpt": "‘Iran attacks now to send message as US assets build up in Israel’",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/29/iran-attacks-now-to-send-message-as-us-assets-build-up-in?traffic_source=rss",
-      "published": "2026-07-29T11:19:46+00:00",
+      "headline": "‘There is no ceasefire’ say Palestinians in Gaza after new Israeli strikes",
+      "excerpt": "'There is no ceasefire' say Palestinians in Gaza after new Israeli strikes",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/29/there-is-no-ceasefire-say-palestinians-in-gaza-after-new-israeli-strikes?traffic_source=rss",
+      "published": "2026-07-29T14:09:09+00:00",
       "featured": false
     },
     {
@@ -128,12 +128,12 @@
       "featured": false
     },
     {
-      "id": "30be2ef2793f",
+      "id": "813e53b542a4",
       "source": "404 Media",
-      "headline": "'I Would Never Do This To You:' Protesting Flock, Arizona Man Presents Plan to Surveil Government Officials",
-      "excerpt": "“They didn't understand it was satire in the beginning until the end,” Casa Grande, Arizona resident Jacob Petrosky told 404 Media. “They were not happy, they were very upset.”",
-      "link": "https://www.404media.co/casa-grande-arizona-flock-city-council/",
-      "published": "2026-07-28T16:07:52+00:00",
+      "headline": "‘The Government Hopes To Set a Precedent’: An Interview With the Man Charged for Allegedly Wiping His GrapheneOS Phone",
+      "excerpt": "The U.S. government has charged Samuel Tunick with allegedly typing in a passcode to wipe his phone before officers could search it. “I hope people understand that the charges against me are meant to intimidate people,”...",
+      "link": "https://www.404media.co/the-government-hopes-to-set-a-precedent-an-interview-with-the-man-charged-for-allegedly-wiping-his-grapheneos-phone/",
+      "published": "2026-07-28T17:27:01+00:00",
       "featured": false
     },
     {
@@ -200,12 +200,12 @@
       "featured": false
     },
     {
-      "id": "e8fbe6851b57",
+      "id": "426e3f18e5fd",
       "source": "Al Jazeera",
-      "headline": "Married couple deported by ICE killed in Guatemala",
-      "excerpt": "Nixon Giovanni Paz, deported by ICE last year was bound and shot dead alongside his wife in Guatemala.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/29/29-07-sv-guatemala-couple-ice-gl?traffic_source=rss",
-      "published": "2026-07-29T10:55:38+00:00",
+      "headline": "How a seaweed bloom is affecting tourism in Mexico",
+      "excerpt": "In Mexico, a record surge of brown, smelly seaweed known as sargassum has blanketed the idyllic coastline.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/29/how-a-seaweed-bloom-is-affecting-tourism-in-mexico?traffic_source=rss",
+      "published": "2026-07-29T14:04:42+00:00",
       "featured": false
     },
     {
@@ -218,21 +218,21 @@
       "featured": false
     },
     {
+      "id": "30be2ef2793f",
+      "source": "404 Media",
+      "headline": "'I Would Never Do This To You:' Protesting Flock, Arizona Man Presents Plan to Surveil Government Officials",
+      "excerpt": "“They didn't understand it was satire in the beginning until the end,” Casa Grande, Arizona resident Jacob Petrosky told 404 Media. “They were not happy, they were very upset.”",
+      "link": "https://www.404media.co/casa-grande-arizona-flock-city-council/",
+      "published": "2026-07-28T16:07:52+00:00",
+      "featured": false
+    },
+    {
       "id": "c5a4d977067e",
       "source": "OCCRP",
       "headline": "Poland Seeks Extradition of Ex-Justice Minister From US Over Criminal Charges",
       "excerpt": "",
       "link": "https://www.occrp.org/en/news/poland-seeks-extradition-of-ex-justice-minister-from-us-over-criminal-charges",
       "published": "2026-07-28T15:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "d3d90524541f",
-      "source": "404 Media",
-      "headline": "Substackers Say New AI Detection Tool Is a ‘Witch Hunt’",
-      "excerpt": "“I’m not going to apologize for using AI in the creation process.”",
-      "link": "https://www.404media.co/substackers-say-new-ai-detection-tool-is-a-witch-hunt/",
-      "published": "2026-07-28T14:53:59+00:00",
       "featured": false
     },
     {
@@ -299,12 +299,12 @@
       "featured": false
     },
     {
-      "id": "78e1a5050121",
+      "id": "d173a674357d",
       "source": "Al Jazeera",
-      "headline": "EU crisis chief urges tougher climate action amid France, Spain wildfires",
-      "excerpt": "Hadja Lahbib calls for existing plans to be accelerated and more investment as an ominous heatwave threatens.",
-      "link": "https://www.aljazeera.com/news/2026/7/29/eu-crisis-chief-urges-tougher-climate-action-amid-france-spain-wildfires?traffic_source=rss",
-      "published": "2026-07-29T10:19:28+00:00",
+      "headline": "Fragile peace in Syria’s Set Zaynab as sectarian challenges persist",
+      "excerpt": "Locals in southern Damascus town await safer times as fears rooted in a decade of war still loom over daily life.",
+      "link": "https://www.aljazeera.com/features/2026/7/29/fragile-peace-in-syrias-set-zaynab-as-sectarian-challenges-persist?traffic_source=rss",
+      "published": "2026-07-29T13:58:28+00:00",
       "featured": false
     },
     {
@@ -317,21 +317,21 @@
       "featured": false
     },
     {
+      "id": "d3d90524541f",
+      "source": "404 Media",
+      "headline": "Substackers Say New AI Detection Tool Is a ‘Witch Hunt’",
+      "excerpt": "“I’m not going to apologize for using AI in the creation process.”",
+      "link": "https://www.404media.co/substackers-say-new-ai-detection-tool-is-a-witch-hunt/",
+      "published": "2026-07-28T14:53:59+00:00",
+      "featured": false
+    },
+    {
       "id": "46877168349a",
       "source": "OCCRP",
       "headline": "Demanding a ‘15 Percent Cut’: Former Ukrainian Nuclear Official Sent to Trial Over Bribes",
       "excerpt": "",
       "link": "https://www.occrp.org/en/news/demanding-a-15-percent-cut-former-ukrainian-nuclear-official-sent-to-trial-over-bribes",
       "published": "2026-07-28T14:11:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "a52d078c308f",
-      "source": "404 Media",
-      "headline": "Apple’s iMessage Scanning Flagged a Video of My Friend's Dog as Nudity",
-      "excerpt": "Apple’s Sensitive Content Warning is supposed to protect users from unwanted nude images. It accidentally blurred my friend’s dog video.",
-      "link": "https://www.404media.co/apples-imessage-scanning-flagged-a-video-of-my-friends-dog-as-nudity/",
-      "published": "2026-07-28T14:06:28+00:00",
       "featured": false
     },
     {
@@ -389,12 +389,21 @@
       "featured": false
     },
     {
-      "id": "ace576c6f21e",
+      "id": "6f1b8fdd264a",
       "source": "Al Jazeera",
-      "headline": "Russia charges Telegram founder Pavel Durov with ‘aiding terrorism’",
-      "excerpt": "Russia's FSB says Telegram has not pulled content used by Ukrainian intelligence and 'terrorist' groups to plan attacks.",
-      "link": "https://www.aljazeera.com/news/2026/7/29/russia-charges-telegram-founder-pavel-durov-with-aiding-terrorism?traffic_source=rss",
-      "published": "2026-07-29T10:18:49+00:00",
+      "headline": "How are AI models able to autonomously hack others?",
+      "excerpt": "The next phase of AI has begun. Autonomous agents can make decisions and complete tasks with little human input.",
+      "link": "https://www.aljazeera.com/news/2026/7/29/how-are-ai-models-able-to-autonomously-hack-others?traffic_source=rss",
+      "published": "2026-07-29T13:19:04+00:00",
+      "featured": false
+    },
+    {
+      "id": "a52d078c308f",
+      "source": "404 Media",
+      "headline": "Apple’s iMessage Scanning Flagged a Video of My Friend's Dog as Nudity",
+      "excerpt": "Apple’s Sensitive Content Warning is supposed to protect users from unwanted nude images. It accidentally blurred my friend’s dog video.",
+      "link": "https://www.404media.co/apples-imessage-scanning-flagged-a-video-of-my-friends-dog-as-nudity/",
+      "published": "2026-07-28T14:06:28+00:00",
       "featured": false
     },
     {
@@ -404,15 +413,6 @@
       "excerpt": "A Baku court convicted journalists, media rights workers, and pro-democracy activists linked to Toplum TV on financial crimes charges, sentencing them to between 12 and 15 years in prison.",
       "link": "https://www.occrp.org/en/news/azerbaijani-court-jails-9-journalists-and-activists-for-up-to-15-years",
       "published": "2026-07-28T10:48:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "4e321bf4516d",
-      "source": "404 Media",
-      "headline": "Wikimedia Will Not Voluntarily Recognize Union a Supermajority of Its Workers Want",
-      "excerpt": "The Wikimedia Foundation waited until immediately after its largest annual conference to say it wouldn't voluntarily recognize its workers' union.",
-      "link": "https://www.404media.co/wikimedia-waits-until-after-its-massive-conference-to-say-it-wont-voluntarily-recognize-union/",
-      "published": "2026-07-27T23:43:57+00:00",
       "featured": false
     },
     {
@@ -479,21 +479,21 @@
       "featured": false
     },
     {
-      "id": "2f85ea0d4792",
+      "id": "0e8e0ad1aecd",
       "source": "Al Jazeera",
-      "headline": "How has the Indian government responded to ‘Cockroach’ protests?",
-      "excerpt": "The BJP government's response so far has been a measured crackdown as it also attempts to woo the youth.",
-      "link": "https://www.aljazeera.com/news/2026/7/29/how-has-the-indian-government-responded-to-cockroach-protests?traffic_source=rss",
-      "published": "2026-07-29T09:52:16+00:00",
+      "headline": "Infantino sets deadline for FIFA offer in Kushner-backed World Cup plan",
+      "excerpt": "FIFA's president lobbies for latest proposal for investment in football's governing body, which has met with criticism.",
+      "link": "https://www.aljazeera.com/sports/2026/7/29/infantino-sets-deadline-for-fifa-offer-in-kushner-backed-world-cup-plan?traffic_source=rss",
+      "published": "2026-07-29T13:15:22+00:00",
       "featured": false
     },
     {
-      "id": "6790ad386ed0",
+      "id": "4e321bf4516d",
       "source": "404 Media",
-      "headline": "Person Opposing Data Center Arrested for Clapping at City Meeting",
-      "excerpt": "Police refused to release the arrest report, saying it could \"could interfere with ongoing investigative efforts.\"",
-      "link": "https://www.404media.co/person-opposing-data-center-arrested-for-clapping-at-city-meeting/",
-      "published": "2026-07-27T22:56:07+00:00",
+      "headline": "Wikimedia Will Not Voluntarily Recognize Union a Supermajority of Its Workers Want",
+      "excerpt": "The Wikimedia Foundation waited until immediately after its largest annual conference to say it wouldn't voluntarily recognize its workers' union.",
+      "link": "https://www.404media.co/wikimedia-waits-until-after-its-massive-conference-to-say-it-wont-voluntarily-recognize-union/",
+      "published": "2026-07-27T23:43:57+00:00",
       "featured": false
     },
     {
