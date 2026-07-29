@@ -30,6 +30,11 @@ FEEDS = {
     "The Lever": "https://www.levernews.com/rss/",
     "404 Media": "https://www.404media.co/rss/",
     "Rest of World": "https://restofworld.org/feed/latest/",
+    # More Perfect Union is video-first; their written reporting lives on
+    # Substack, which is the only part that fits an article feed. Feed verified
+    # working (returns 20 items). Low volume: usually 1-2 written posts a month,
+    # so it only appears when they've published within MAX_AGE_DAYS.
+    "More Perfect Union": "https://substack.perfectunion.us/feed",
     # --- added, NOT verified. Watch the Action log for a WARNING on these. ---
     "Reveal": "https://revealnews.org/feed/",
 }
