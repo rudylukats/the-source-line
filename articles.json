@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-07-30T11:21:31.559217+00:00",
+  "generated_at": "2026-07-30T14:32:51.217895+00:00",
   "articles": [
+    {
+      "id": "cec16f466bfe",
+      "source": "Al Jazeera",
+      "headline": "Police arrest dozens at London rally supporting Palestine Action",
+      "excerpt": "The protest is the first in support of the proscribed group since Andy Burnham became prime minister.",
+      "link": "https://www.aljazeera.com/news/2026/7/30/police-arrest-dozens-at-london-rally-supporting-palestine-action?traffic_source=rss",
+      "published": "2026-07-30T14:22:02+00:00",
+      "featured": true
+    },
+    {
+      "id": "970710d4743a",
+      "source": "OCCRP",
+      "headline": "UK Crime Unit Jails 108, Seizes $93.6M in Drugs",
+      "excerpt": "",
+      "link": "https://www.occrp.org/en/news/uk-crime-unit-jails-108-seizes-936m-in-drugs",
+      "published": "2026-07-30T12:00:00+00:00",
+      "featured": true
+    },
     {
       "id": "5f1f128e4a58",
       "source": "Bellingcat",
@@ -11,39 +29,21 @@
       "featured": true
     },
     {
-      "id": "d9f4b1b9bf1a",
-      "source": "Al Jazeera",
-      "headline": "AFC president doubles down on FIFA, calling World Cup plan ‘unacceptable’",
-      "excerpt": "Asian Football Confederation chief says plan to sell FIFA World Cup stakes undermines sport's continental structure.",
-      "link": "https://www.aljazeera.com/sports/2026/7/30/afc-president-doubles-down-on-fifa-calling-world-cup-plan-unacceptable?traffic_source=rss",
-      "published": "2026-07-30T10:35:52+00:00",
-      "featured": true
-    },
-    {
       "id": "6b9dad7182f2",
       "source": "Rest of World",
       "headline": "With Moonshot’s free Kimi K3, China changes the sovereign AI playbook",
       "excerpt": "Governments can now deploy top-tier AI locally, bypassing costly U.S. cloud rentals.",
       "link": "https://restofworld.org/2026/china-moonshot-kimi-k3-free-sovereign-ai/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "published": "2026-07-30T10:00:00+00:00",
-      "featured": true
+      "featured": false
     },
     {
       "id": "9c1addbc4d02",
       "source": "The Intercept",
-      "headline": "Bob Vylan Frontman Deported From Germany for Chanting “Death to IDF” at Glastonbury",
-      "excerpt": "Allowing the musician into Germany could “radicalise certain segments of the [German] population,” authorities warned. The post Bob Vylan Frontman Deported From Germany for Chanting “Death to IDF” at Glastonbury...",
+      "headline": "Free Speech Crackdown: Germany Deports Bob Vylan Frontman for Anti-Israel Chants",
+      "excerpt": "Allowing the musician into Germany could “radicalise certain segments of the [German] population,” authorities warned. The post Free Speech Crackdown: Germany Deports Bob Vylan Frontman for Anti-Israel Chants appeared...",
       "link": "https://theintercept.com/2026/07/30/bob-vylan-germany-deport-palestine-israel/",
       "published": "2026-07-30T09:10:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "dd48c12752e1",
-      "source": "OCCRP",
-      "headline": "Pentagon Fuel Subcontractor Owned by Alleged Front for U.S.-Blacklisted Brothers",
-      "excerpt": "A man alleged by a U.S. Treasury official to have acted as a front for U.S.-sanctioned Lebanese brothers was the owner of a subcontractor on a 2022 fuel supply contract awarded by the Pentagon.",
-      "link": "https://www.occrp.org/en/investigation/pentagon-fuel-subcontractor-owned-by-alleged-front-for-us-blacklisted-brothers",
-      "published": "2026-07-30T09:07:00+00:00",
       "featured": false
     },
     {
@@ -110,12 +110,21 @@
       "featured": false
     },
     {
-      "id": "7b59ade8ce53",
+      "id": "18759905781c",
       "source": "Al Jazeera",
-      "headline": "Israeli raids and settler attacks intensify across the occupied West Bank",
-      "excerpt": "Israeli raids and settler attacks intensify across the occupied West Bank",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/30/israeli-raids-and-settler-attacks-intensify-across-the-occupied-west-bank?traffic_source=rss",
-      "published": "2026-07-30T10:21:53+00:00",
+      "headline": "El Salvador sentences gang members to 1,000 years in prison",
+      "excerpt": "El Salvador sentences gang members to 1,000 years in prison",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/30/el-salvador-sentences-gang-members-to-1000-years-in-prison?traffic_source=rss",
+      "published": "2026-07-30T14:07:49+00:00",
+      "featured": false
+    },
+    {
+      "id": "dd48c12752e1",
+      "source": "OCCRP",
+      "headline": "Pentagon Fuel Subcontractor Owned by Alleged Front for U.S.-Blacklisted Brothers",
+      "excerpt": "A man alleged by a U.S. Treasury official to have acted as a front for U.S.-sanctioned Lebanese brothers was the owner of a subcontractor on a 2022 fuel supply contract awarded by the Pentagon.",
+      "link": "https://www.occrp.org/en/investigation/pentagon-fuel-subcontractor-owned-by-alleged-front-for-us-blacklisted-brothers",
+      "published": "2026-07-30T09:07:00+00:00",
       "featured": false
     },
     {
@@ -143,15 +152,6 @@
       "excerpt": "A former Squad member is taking on the Israel lobby to get her seat back.",
       "link": "https://www.levernews.com/midterm-madness-cori-bushs-aipac-rematch/",
       "published": "2026-07-29T16:52:25+00:00",
-      "featured": false
-    },
-    {
-      "id": "99ebaba92c92",
-      "source": "OCCRP",
-      "headline": "Russia Charges Telegram Founder Durov With Aiding Terrorism",
-      "excerpt": "Russia’s FSB accused Pavel Durov of aiding terrorism and placed him on an international wanted list, escalating pressure on Telegram amid restrictions on the messaging service.",
-      "link": "https://www.occrp.org/en/news/russia-charges-telegram-founder-durov-with-aiding-terrorism",
-      "published": "2026-07-29T16:26:00+00:00",
       "featured": false
     },
     {
@@ -209,21 +209,21 @@
       "featured": false
     },
     {
-      "id": "eb25db40f314",
+      "id": "b270d852c265",
       "source": "Al Jazeera",
-      "headline": "Attack on northwest Pakistan police post kills 11 officers",
-      "excerpt": "Fifteen attackers were also killed during the hours-long raid in Pakistan's northwestern Hangu district.",
-      "link": "https://www.aljazeera.com/news/2026/7/30/attack-on-northwest-pakistan-police-post-kills-11-officers?traffic_source=rss",
-      "published": "2026-07-30T10:21:02+00:00",
+      "headline": "‘Go back to your own country’: NZ foreign minister faces backlash",
+      "excerpt": "New Zealand Foreign Minister Winston Peters told Chinese-born MP to ‘go back to your own country’.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/30/go-back-to-your-own-country-nz-foreign-minister-faces-backlash?traffic_source=rss",
+      "published": "2026-07-30T13:51:52+00:00",
       "featured": false
     },
     {
-      "id": "931a9b84192f",
+      "id": "99ebaba92c92",
       "source": "OCCRP",
-      "headline": "DZ Mafia Denies Threatening French Mayor, Arson Attack on Influencer",
-      "excerpt": "A French mayor was placed under police protection and a social media influencer's car was torched in a series of violent incidents linked to Marseille's “DZ Mafia.” The group denied any involvement.",
-      "link": "https://www.occrp.org/en/news/dz-mafia-denies-threatening-french-mayor-arson-attack-on-influencer",
-      "published": "2026-07-29T16:03:00+00:00",
+      "headline": "Russia Charges Telegram Founder Durov With Aiding Terrorism",
+      "excerpt": "Russia’s FSB accused Pavel Durov of aiding terrorism and placed him on an international wanted list, escalating pressure on Telegram amid restrictions on the messaging service.",
+      "link": "https://www.occrp.org/en/news/russia-charges-telegram-founder-durov-with-aiding-terrorism",
+      "published": "2026-07-29T16:26:00+00:00",
       "featured": false
     },
     {
@@ -299,30 +299,21 @@
       "featured": false
     },
     {
-      "id": "a6e64cbe6faa",
-      "source": "The Markup",
-      "headline": "Californians can protect their personal data with one click. Help us test if it works",
-      "excerpt": "A new state tool lets you tell data brokers to stop tracking you. Will they comply? Help us investigate.",
-      "link": "https://themarkup.org/hello-world/2026/06/30/californians-can-protect-their-personal-data-with-one-click-help-us-test-if-it-works",
-      "published": "2026-06-30T12:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "e82abea22b86",
+      "id": "7429facd9192",
       "source": "Al Jazeera",
-      "headline": "Several children killed and wounded in Israeli attacks across Gaza",
-      "excerpt": "Israeli strikes hit multiple areas across Gaza overnight, including tents sheltering displaced families in al-Mawasi.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/30/several-children-killed-and-wounded-in-israeli-attacks-across-gaza?traffic_source=rss",
-      "published": "2026-07-30T10:20:19+00:00",
+      "headline": "Islamabad residents rally in solidarity with Kashmir protests",
+      "excerpt": "A rally has been held in Islamabad in a show of support for protesters in Pakistan-administered Kashmir.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/30/islamabad-residents-rally-in-solidarity-with-kashmir-protests?traffic_source=rss",
+      "published": "2026-07-30T13:35:29+00:00",
       "featured": false
     },
     {
-      "id": "b7e462dee79f",
+      "id": "931a9b84192f",
       "source": "OCCRP",
-      "headline": "The Alleged Mastermind of a $2 Billion U.S. Telemedicine Scam Is Enjoying the Luxury Life in Russia",
-      "excerpt": "Brian Sutton, accused of masterminding one of the largest fraud schemes to ever be unraveled in the United States, is living freely in Russia. Among his acquisitions there is a fleet of luxury cars, an elite villa near...",
-      "link": "https://www.occrp.org/en/investigation/the-alleged-mastermind-of-a-2-billion-us-telemedicine-scam-is-enjoying-the-luxury-life-in-russia",
-      "published": "2026-07-29T07:00:00+00:00",
+      "headline": "DZ Mafia Denies Threatening French Mayor, Arson Attack on Influencer",
+      "excerpt": "A French mayor was placed under police protection and a social media influencer's car was torched in a series of violent incidents linked to Marseille's “DZ Mafia.” The group denied any involvement.",
+      "link": "https://www.occrp.org/en/news/dz-mafia-denies-threatening-french-mayor-arson-attack-on-influencer",
+      "published": "2026-07-29T16:03:00+00:00",
       "featured": false
     },
     {
@@ -398,21 +389,21 @@
       "featured": false
     },
     {
-      "id": "ca124d8c9169",
+      "id": "be528a50270b",
       "source": "Al Jazeera",
-      "headline": "Why is Saudi Arabia forming a coalition to protect the Red Sea?",
-      "excerpt": "The alliance aims to defend shipping from attacks by Iran-backed Houthis in Yemen.",
-      "link": "https://www.aljazeera.com/news/2026/7/30/why-is-saudi-arabia-forming-a-coalition-to-protect-the-red-sea?traffic_source=rss",
-      "published": "2026-07-30T10:18:53+00:00",
+      "headline": "Sudan’s RSF vows to return to Khartoum",
+      "excerpt": "Sudan’s RSF released a video of leader Mohamed Hamdan Dagalo, known as Hemedti, telling his forces to seize Khartoum.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/30/sudans-rsf-vows-to-return-to-khartoum?traffic_source=rss",
+      "published": "2026-07-30T13:26:26+00:00",
       "featured": false
     },
     {
-      "id": "977ade2c0bd8",
+      "id": "b7e462dee79f",
       "source": "OCCRP",
-      "headline": "Owner of Company Spearheading Kyrgyzstan’s Planned ‘Eco-City’ Had Business Links with Gov’t Official’s Son",
-      "excerpt": "A company selected to construct Kyrgyzstan’s Asman eco-city is owned by a Chinese man who previously was co-owner of a company alongside the son of the head of a state agency involved in the project.",
-      "link": "https://www.occrp.org/en/news/owner-of-company-spearheading-kyrgyzstans-planned-eco-city-had-business-links-with-govt-officials-son",
-      "published": "2026-07-29T00:00:00+00:00",
+      "headline": "The Alleged Mastermind of a $2 Billion U.S. Telemedicine Scam Is Enjoying the Luxury Life in Russia",
+      "excerpt": "Brian Sutton, accused of masterminding one of the largest fraud schemes to ever be unraveled in the United States, is living freely in Russia. Among his acquisitions there is a fleet of luxury cars, an elite villa near...",
+      "link": "https://www.occrp.org/en/investigation/the-alleged-mastermind-of-a-2-billion-us-telemedicine-scam-is-enjoying-the-luxury-life-in-russia",
+      "published": "2026-07-29T07:00:00+00:00",
       "featured": false
     },
     {
@@ -479,12 +470,21 @@
       "featured": false
     },
     {
-      "id": "68bf63762268",
+      "id": "4a2e596e4b31",
       "source": "Al Jazeera",
-      "headline": "Poland says Russian missile breaches NATO airspace",
-      "excerpt": "Poland says a Russian missile landed inside Polish territory, breaching NATO airspace during a Russian attack on Ukraine",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/30/30-07-sv-lublin-air-sirens-pl?traffic_source=rss",
-      "published": "2026-07-30T10:13:52+00:00",
+      "headline": "World Cup: What has FIFA charged Argentina with, what could punishment be?",
+      "excerpt": "What do the charges brought against Argentina's FA, their players and their fans mean, and what action could FIFA take?",
+      "link": "https://www.aljazeera.com/sports/2026/7/30/world-cup-what-have-fifa-charged-argentina-with-what-could-punishment-be?traffic_source=rss",
+      "published": "2026-07-30T13:15:23+00:00",
+      "featured": false
+    },
+    {
+      "id": "977ade2c0bd8",
+      "source": "OCCRP",
+      "headline": "Owner of Company Spearheading Kyrgyzstan’s Planned ‘Eco-City’ Had Business Links with Gov’t Official’s Son",
+      "excerpt": "A company selected to construct Kyrgyzstan’s Asman eco-city is owned by a Chinese man who previously was co-owner of a company alongside the son of the head of a state agency involved in the project.",
+      "link": "https://www.occrp.org/en/news/owner-of-company-spearheading-kyrgyzstans-planned-eco-city-had-business-links-with-govt-officials-son",
+      "published": "2026-07-29T00:00:00+00:00",
       "featured": false
     },
     {
@@ -494,15 +494,6 @@
       "excerpt": "Drop Site Daily: July 28, 2026",
       "link": "https://www.dropsitenews.com/p/ansarallah-saudi-oil-facility-katz-israel-west-bank-chad-icc",
       "published": "2026-07-28T15:39:45+00:00",
-      "featured": false
-    },
-    {
-      "id": "c5a4d977067e",
-      "source": "OCCRP",
-      "headline": "Poland Seeks Extradition of Ex-Justice Minister From US Over Criminal Charges",
-      "excerpt": "",
-      "link": "https://www.occrp.org/en/news/poland-seeks-extradition-of-ex-justice-minister-from-us-over-criminal-charges",
-      "published": "2026-07-28T15:00:00+00:00",
       "featured": false
     },
     {
@@ -539,6 +530,15 @@
       "excerpt": "First Amendment rights get fashionable, New York takes a data center pause, Lina Khan returns to public service, and retirees get payback.",
       "link": "https://www.levernews.com/you-love-to-see-it-my-kingdom-for-a-sweatshirt/",
       "published": "2026-07-25T13:01:51+00:00",
+      "featured": false
+    },
+    {
+      "id": "73410466b4b0",
+      "source": "Rest of World",
+      "headline": "The hidden cost of Myanmar’s rare earth mines",
+      "excerpt": "As the U.S. races to bypass China, the global hunger for critical minerals is financing warlords and poisoning Myanmar's borderlands.",
+      "link": "https://restofworld.org/2026/myanmar-china-rare-earths-damage/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "published": "2026-07-23T15:00:00+00:00",
       "featured": false
     }
   ]
