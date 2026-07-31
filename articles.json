@@ -1,13 +1,22 @@
 {
-  "generated_at": "2026-07-31T16:57:31.987575+00:00",
+  "generated_at": "2026-07-31T19:53:18.420492+00:00",
   "articles": [
     {
-      "id": "19d5fe6260b4",
+      "id": "08759a471681",
       "source": "Al Jazeera",
-      "headline": "Three-year roadmap proposed for Hamas disarmament in Gaza",
-      "excerpt": "Under a US-backed proposal, Hamas and Israel would have 14 days to finalise Gaza's political transition",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/31/three-year-roadmap-proposed-for-hamas-disarmament-in-gaza?traffic_source=rss",
-      "published": "2026-07-31T16:35:17+00:00",
+      "headline": "Trump says US has ‘understanding’ with Israel on Hamas disarmament deal",
+      "excerpt": "Israel has not yet agreed to plan for Hamas to surrender weapons in exchange for full Israeli withdrawal from Gaza.",
+      "link": "https://www.aljazeera.com/news/2026/7/31/trump-says-us-has-understanding-with-israel-on-hamas-disarmament-deal?traffic_source=rss",
+      "published": "2026-07-31T19:18:54+00:00",
+      "featured": true
+    },
+    {
+      "id": "03450ef99bd6",
+      "source": "The Lever",
+      "headline": "The Return Of The Kingmakers",
+      "excerpt": "Dick Cheney. Barack Obama. Donald Trump. The story of the all-powerful presidency continues this August.",
+      "link": "https://www.levernews.com/the-return-of-the-kingmakers-post/",
+      "published": "2026-07-31T19:18:15+00:00",
       "featured": true
     },
     {
@@ -26,7 +35,7 @@
       "excerpt": "Drop Site Daily: July 31, 2026",
       "link": "https://www.dropsitenews.com/p/gaza-deal-hamas-israel-lebanon-explosions-morocco-spain-migrants",
       "published": "2026-07-31T15:41:50+00:00",
-      "featured": true
+      "featured": false
     },
     {
       "id": "4e0c3f7f18bc",
@@ -76,19 +85,10 @@
     {
       "id": "bfe9d1f93b01",
       "source": "The Intercept",
-      "headline": "Can the Left Win in the Midwest? Abdul El-Sayed Says Yes.",
-      "excerpt": "The Michigan Senate primary is the next biggest test for the direction of the Democratic Party. The post Can the Left Win in the Midwest? Abdul El-Sayed Says Yes. appeared first on The Intercept.",
+      "headline": "Abdul El-Sayed on The Intercept Briefing",
+      "excerpt": "The Michigan Senate primary is the next biggest test for the direction of the Democratic Party. The post Abdul El-Sayed on The Intercept Briefing appeared first on The Intercept.",
       "link": "https://theintercept.com/2026/07/31/democrats-michigan-el-sayed-stevens-left-moderate/",
       "published": "2026-07-31T10:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "9011890011f9",
-      "source": "The Lever",
-      "headline": "He Left The GOP. Now He Has A Warning For Democrats.",
-      "excerpt": "A lifelong Republican left his party in 2016. Ten years later, he says Democrats are making the same mistakes — and the end result could be worse than Donald Trump.",
-      "link": "https://www.levernews.com/he-left-the-gop-now-he-has-a-warning-for-democrats/",
-      "published": "2026-07-30T19:32:15+00:00",
       "featured": false
     },
     {
@@ -110,12 +110,21 @@
       "featured": false
     },
     {
-      "id": "c6f9c2c01141",
+      "id": "d38a6c412334",
       "source": "Al Jazeera",
-      "headline": "LIVE: Chopra, Nadeem and Pathirage meet in Commonwealth Games javelin final",
-      "excerpt": "Follow live text updates and commentary stream coverage as India's Neeraj Chopra and Pakistan's Arshad Nadeem face-off.",
-      "link": "https://www.aljazeera.com/sports/liveblog/2026/7/31/live-chopra-nadeem-and-patharige-in-commonwealth-games-javelin-final?traffic_source=rss",
-      "published": "2026-07-31T16:18:42+00:00",
+      "headline": "World reacts with cautious optimism to Hamas disarmament agreement",
+      "excerpt": "Deal for Hamas to disarm in stages in return for Israeli withdrawal has been announced, but implementation will be key.",
+      "link": "https://www.aljazeera.com/news/2026/7/31/world-reacts-with-cautious-optimism-to-hamas-disarmament-agreement?traffic_source=rss",
+      "published": "2026-07-31T18:51:50+00:00",
+      "featured": false
+    },
+    {
+      "id": "38c734b57295",
+      "source": "The Lever",
+      "headline": "Trump’s Homeland Security Chief Turned Conflicts Of Interest Into Tax Breaks",
+      "excerpt": "Markwayne Mullin sold millions in stocks to resolve potential conflicts with the agency he now leads — and received a special tax benefit on the proceeds.",
+      "link": "https://www.levernews.com/trumps-homeland-security-chief-turned-conflicts-of-interest-into-tax-breaks/",
+      "published": "2026-07-31T18:23:24+00:00",
       "featured": false
     },
     {
@@ -173,15 +182,6 @@
       "featured": false
     },
     {
-      "id": "02869c942a34",
-      "source": "The Lever",
-      "headline": "A Detention And Deportation Gold Mine",
-      "excerpt": "As Immigration and Customs Enforcement pours millions into private prison firms, the president is trading their stocks.",
-      "link": "https://www.levernews.com/a-detention-deportation-gold-mine/",
-      "published": "2026-07-30T16:51:38+00:00",
-      "featured": false
-    },
-    {
       "id": "6b9dad7182f2",
       "source": "Rest of World",
       "headline": "With Moonshot’s free Kimi K3, China changes the sovereign AI playbook",
@@ -218,30 +218,39 @@
       "featured": false
     },
     {
-      "id": "166c74078a3b",
+      "id": "dd9edc500404",
       "source": "Al Jazeera",
-      "headline": "Spain PM: Ceuta migrant surge a ‘violation of territorial integrity’",
-      "excerpt": "Spanish Prime Minister Pedro Sanchez has said that the massive influx of migrants from Morocco was a “violation.\"",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/31/spain-pm-ceuta-migrant-surge-a-violation-of-territorial?traffic_source=rss",
-      "published": "2026-07-31T16:17:59+00:00",
+      "headline": "Trump says Hamas disarmament deal will be complex to deliver",
+      "excerpt": "Trump said Israel strongly supports an agreement for the complete disarmament of Hamas",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/31/trump-says-hamas-disarmament-deal-will-be-complex-to-deliver?traffic_source=rss",
+      "published": "2026-07-31T18:44:33+00:00",
+      "featured": false
+    },
+    {
+      "id": "0fca1b183790",
+      "source": "The Lever",
+      "headline": "Who’s Screening Your Luggage?",
+      "excerpt": "Test your knowledge of private prisons, military funding, and other issues that really matter.",
+      "link": "https://www.levernews.com/whos-screening-your-luggage/",
+      "published": "2026-07-31T17:11:51+00:00",
       "featured": false
     },
     {
       "id": "be779bdb0bfb",
       "source": "404 Media",
-      "headline": "YouTube Bans Popular ASMR Artists, Accusing Them of Making 'Sexually Gratifying' Videos",
+      "headline": "YouTube Bans Popular ASMR Artists, Accusing Them of Making 'Sexually Gratifying' Content",
       "excerpt": "YouTube told ASMR artists including Bunnii, Slight Sounds, Rose, and others that their content broke the platform's sex and nudity policy. Creators say these bans are unfair and potentially life-altering.",
       "link": "https://www.404media.co/youtube-asmr-ban-sex-and-nudity-policy/",
       "published": "2026-07-31T14:25:01+00:00",
       "featured": false
     },
     {
-      "id": "f39155b42f2e",
+      "id": "8b5852ff669e",
       "source": "OCCRP",
-      "headline": "Lithuania Reviews Belarusian Businessman After Report",
-      "excerpt": "Following an investigation by OCCRP and Buro into apps secretly sending data to Russia and Belarus, Lithuania is weighing the legal status of the Belarusian businessman behind them.",
-      "link": "https://www.occrp.org/en/news/lithuania-reviews-belarusian-businessman-after-report",
-      "published": "2026-07-30T16:05:00+00:00",
+      "headline": "Ex-Chief of Staff for Malta’s Former Prime Minister Testifies Against Childhood Friend Accused of Ordering Journalist’s Murder",
+      "excerpt": "Keith Schembri served as chief of staff to Malta’s prime minister at the time investigative journalist Daphne Caruana Galizia was assassinated. He testified this week that the killing was commissioned by businessman...",
+      "link": "https://www.occrp.org/en/news/ex-chief-of-staff-for-maltas-former-prime-minister-testifies-against-childhood-friend-accused-of-ordering-journalists-murder",
+      "published": "2026-07-31T08:10:00+00:00",
       "featured": false
     },
     {
@@ -260,15 +269,6 @@
       "excerpt": "The post Andy Beshear Set Out to Make Drug Treatment Widely Available in Kentucky. Fraud and Abuse Followed. appeared first on ProPublica.",
       "link": "https://www.propublica.org/article/andy-beshear-kentucky-opioid-drug-crisis-medicaid-spending-fraud",
       "published": "2026-07-30T09:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "e654ad979d19",
-      "source": "The Lever",
-      "headline": "The Failed Developer Behind ICE’s Billion-Dollar Prison Deals",
-      "excerpt": "As his construction empire collapsed under lawsuits and unpaid debts, James Grossmann found a lucrative new role in ICE’s multibillion-dollar detention buying spree.",
-      "link": "https://www.levernews.com/the-failed-developer-behind-ices-billion-dollar-prison-deals/",
-      "published": "2026-07-29T20:40:24+00:00",
       "featured": false
     },
     {
@@ -317,12 +317,12 @@
       "featured": false
     },
     {
-      "id": "bf964bacacce",
+      "id": "3188c69ed90f",
       "source": "Al Jazeera",
-      "headline": "Tunisian wildfires expose failing infrastructure, community vulnerabilities",
-      "excerpt": "For families in Tunisia's north, the wildfires have meant lost homes, livestock and harvests.",
-      "link": "https://www.aljazeera.com/features/2026/7/31/tunisian-wildfires-expose-failing-infrastructure-community-vulnerabilities?traffic_source=rss",
-      "published": "2026-07-31T16:06:05+00:00",
+      "headline": "Syrian lawyer takes on ex-Assad official in landmark trial",
+      "excerpt": "Syrian lawyer takes on ex-Assad official in landmark trial",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/31/syrian-lawyer-takes-on-ex-assad-official-in-landmark-trial?traffic_source=rss",
+      "published": "2026-07-31T18:11:15+00:00",
       "featured": false
     },
     {
@@ -335,12 +335,21 @@
       "featured": false
     },
     {
-      "id": "7eeaa4348a3d",
+      "id": "9011890011f9",
+      "source": "The Lever",
+      "headline": "He Left The GOP. Now He Has A Warning For Democrats.",
+      "excerpt": "A lifelong Republican left his party in 2016. Ten years later, he says Democrats are making the same mistakes — and the end result could be worse than Donald Trump.",
+      "link": "https://www.levernews.com/he-left-the-gop-now-he-has-a-warning-for-democrats/",
+      "published": "2026-07-30T19:32:15+00:00",
+      "featured": false
+    },
+    {
+      "id": "f39155b42f2e",
       "source": "OCCRP",
-      "headline": "EU Sanctions Target Prince Group and its Chairman Chen Zhi Over Alleged Cyber-Scams, Forced Labor",
-      "excerpt": "",
-      "link": "https://www.occrp.org/en/news/eu-sanctions-target-prince-group-and-its-chairman-chen-zhi-over-cyber-scams-forced-labor",
-      "published": "2026-07-30T14:53:00+00:00",
+      "headline": "Lithuania Reviews Belarusian Businessman After Report",
+      "excerpt": "Following an investigation by OCCRP and Buro into apps secretly sending data to Russia and Belarus, Lithuania is weighing the legal status of the Belarusian businessman behind them.",
+      "link": "https://www.occrp.org/en/news/lithuania-reviews-belarusian-businessman-after-report",
+      "published": "2026-07-30T16:05:00+00:00",
       "featured": false
     },
     {
@@ -359,15 +368,6 @@
       "excerpt": "Rand Paul is trying to put Anthony Fauci in prison for not confirming a conspiracy theory, but the key to blunting the next pandemic is universal healthcare. The post Fauci’s Diary Isn’t the Key to Why Covid Ravaged the...",
       "link": "https://theintercept.com/2026/07/29/covid-fauci-diary-rand-paul-healthcare-pandemic/",
       "published": "2026-07-29T19:05:39+00:00",
-      "featured": false
-    },
-    {
-      "id": "7b94d41e44a2",
-      "source": "The Lever",
-      "headline": "Midterm Madness: Cori Bush’s AIPAC Rematch",
-      "excerpt": "A former Squad member is taking on the Israel lobby to get her seat back.",
-      "link": "https://www.levernews.com/midterm-madness-cori-bushs-aipac-rematch/",
-      "published": "2026-07-29T16:52:25+00:00",
       "featured": false
     },
     {
@@ -407,12 +407,12 @@
       "featured": false
     },
     {
-      "id": "d6cc602ca3b6",
+      "id": "33f01c3398ed",
       "source": "Al Jazeera",
-      "headline": "The promise I made to Ismail al-Ghoul",
-      "excerpt": "He asked me to keep telling Gaza’s story. Two years after Israel killed him, I have not stopped.",
-      "link": "https://www.aljazeera.com/opinions/2026/7/31/the-promise-i-made-to-ismail-al-ghoul?traffic_source=rss",
-      "published": "2026-07-31T15:30:15+00:00",
+      "headline": "Why is Israel arming illegal settlers?",
+      "excerpt": "As settler attacks reach record levels, the government has distributed more than 100,000 assault rifles to Israelis.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/31/why-is-israel-arming-illegal-settlers?traffic_source=rss",
+      "published": "2026-07-31T18:02:14+00:00",
       "featured": false
     },
     {
@@ -425,12 +425,21 @@
       "featured": false
     },
     {
-      "id": "3c986896d572",
+      "id": "02869c942a34",
+      "source": "The Lever",
+      "headline": "A Detention And Deportation Gold Mine",
+      "excerpt": "As Immigration and Customs Enforcement pours millions into private prison firms, the president is trading their stocks.",
+      "link": "https://www.levernews.com/a-detention-deportation-gold-mine/",
+      "published": "2026-07-30T16:51:38+00:00",
+      "featured": false
+    },
+    {
+      "id": "7eeaa4348a3d",
       "source": "OCCRP",
-      "headline": "French Prosecutors Seek Trial for BNP Paribas in Case Against Late Gabon Leader's Family",
-      "excerpt": "While pursuing the family of Gabon's former president for alleged embezzlement in France's long-running \"ill-gotten gains\" investigation, prosecutors have requested a trial for BNP Paribas and the wife of the President...",
-      "link": "https://www.occrp.org/en/project/openlux/prosecutors-bnp-paribas-gabon-leaders-family",
-      "published": "2026-07-30T14:26:00+00:00",
+      "headline": "EU Sanctions Target Prince Group and its Chairman Chen Zhi Over Alleged Cyber-Scams, Forced Labor",
+      "excerpt": "",
+      "link": "https://www.occrp.org/en/news/eu-sanctions-target-prince-group-and-its-chairman-chen-zhi-over-cyber-scams-forced-labor",
+      "published": "2026-07-30T14:53:00+00:00",
       "featured": false
     },
     {
@@ -461,15 +470,6 @@
       "featured": false
     },
     {
-      "id": "a737631ab062",
-      "source": "The Lever",
-      "headline": "Major Airports To Ditch TSA",
-      "excerpt": "Three U.S. travel hubs are ditching federal transportation security for private contractors.",
-      "link": "https://www.levernews.com/these-major-airports-just-privatized-tsa/",
-      "published": "2026-07-28T17:12:15+00:00",
-      "featured": false
-    },
-    {
       "id": "9674a9bacf1d",
       "source": "Rest of World",
       "headline": "In China, people are renting out their faces to AI",
@@ -488,12 +488,12 @@
       "featured": false
     },
     {
-      "id": "e4339c559894",
+      "id": "febd795077e3",
       "source": "Al Jazeera",
-      "headline": "World Cup: FIFA studying impact of expanding to 64 teams for 2030 edition",
-      "excerpt": "FIFA's World Cup 2026 expansion was their first since 1998, but the 2030 edition could rise to 64 teams.",
-      "link": "https://www.aljazeera.com/sports/2026/7/31/world-cup-fifa-studying-impact-of-expanding-to-64-teams-for-2030-edition?traffic_source=rss",
-      "published": "2026-07-31T15:05:55+00:00",
+      "headline": "New York sues Kalshi, says its prediction markets are ‘illegal gambling’",
+      "excerpt": "New York is one of many states with cases against Kalshi and others in dispute with Trump gov't on who gets to regulate.",
+      "link": "https://www.aljazeera.com/economy/2026/7/31/new-york-sues-kalshi-says-its-prediction-markets-are-illegal-gambling?traffic_source=rss",
+      "published": "2026-07-31T17:52:23+00:00",
       "featured": false
     },
     {
@@ -506,12 +506,21 @@
       "featured": false
     },
     {
-      "id": "5062ccb06be0",
+      "id": "3c986896d572",
       "source": "OCCRP",
-      "headline": "Head of FinCEN Leaving to Join Citibank as Global Head of Sanctions",
-      "excerpt": "Andrea Gacki has served as director of FinCEN since 2023. She’s the second top anti-money laundering regulator in the last five years to leave and join Citibank.",
-      "link": "https://www.occrp.org/en/news/head-of-fincen-leaving-to-join-citibank",
-      "published": "2026-07-30T12:27:00+00:00",
+      "headline": "French Prosecutors Seek Trial for BNP Paribas in Case Against Late Gabon Leader's Family",
+      "excerpt": "While pursuing the family of Gabon's former president for alleged embezzlement in France's long-running \"ill-gotten gains\" investigation, prosecutors have requested a trial for BNP Paribas and the wife of the President...",
+      "link": "https://www.occrp.org/en/project/openlux/prosecutors-bnp-paribas-gabon-leaders-family",
+      "published": "2026-07-30T14:26:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "e654ad979d19",
+      "source": "The Lever",
+      "headline": "The Failed Developer Behind ICE’s Billion-Dollar Prison Deals",
+      "excerpt": "As his construction empire collapsed under lawsuits and unpaid debts, James Grossmann found a lucrative new role in ICE’s multibillion-dollar detention buying spree.",
+      "link": "https://www.levernews.com/the-failed-developer-behind-ices-billion-dollar-prison-deals/",
+      "published": "2026-07-29T20:40:24+00:00",
       "featured": false
     },
     {
@@ -530,15 +539,6 @@
       "excerpt": "As the U.S. runs short of interceptor missiles, Iran is carrying out strikes with a mix of attack drones and advanced ballistic missiles. The post Iran Has Figured Out How to Overwhelm U.S. Air Defenses appeared first...",
       "link": "https://theintercept.com/2026/07/28/iran-missiles-drones-us-air-defenses/",
       "published": "2026-07-28T17:51:39+00:00",
-      "featured": false
-    },
-    {
-      "id": "f4a74325ef94",
-      "source": "ProPublica",
-      "headline": "This MAGA Influencer Runs a Charity to Teach Kids Civics. Much of the Money Goes to Him Instead.",
-      "excerpt": "The post This MAGA Influencer Runs a Charity to Teach Kids Civics. Much of the Money Goes to Him Instead. appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/trump-nick-adams-state-flag-charity-civics-state-department",
-      "published": "2026-07-28T10:00:00+00:00",
       "featured": false
     }
   ]
