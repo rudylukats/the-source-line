@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-08-01T16:13:14.305480+00:00",
+  "generated_at": "2026-08-01T19:34:47.157913+00:00",
   "articles": [
+    {
+      "id": "89e09568ece4",
+      "source": "Dropsite News",
+      "headline": "State Killings in Pakistan as Kashmir Protest Movement Grows",
+      "excerpt": "The Pakistani military has imposed a communications blackout as it conducts a violent siege aimed at crushing a movement for electoral reform in Azad Kashmir.",
+      "link": "https://www.dropsitenews.com/p/state-killings-in-pakistan-as-kashmir",
+      "published": "2026-08-01T19:08:49+00:00",
+      "featured": true
+    },
+    {
+      "id": "6b3fbbc0de86",
+      "source": "Al Jazeera",
+      "headline": "Palestinian children among those detained in Israeli West Bank raids",
+      "excerpt": "Settler violence escalates, with illegal outposts and frequent attacks reported across Ramallah, Hebron and Nablus.",
+      "link": "https://www.aljazeera.com/news/2026/8/1/palestinian-children-among-those-detained-in-israeli-west-bank-raids?traffic_source=rss",
+      "published": "2026-08-01T18:51:14+00:00",
+      "featured": true
+    },
     {
       "id": "db353bb42182",
       "source": "The Intercept",
@@ -17,16 +35,7 @@
       "excerpt": "The U.S. Senate candidate weighs in on Democrats’ biggest liabilities, MAGA’s performative masculinity, and why AIPAC is out to get him.",
       "link": "https://www.levernews.com/abdul-el-sayed-on-fetterman-hes-also-just-an-asshole/",
       "published": "2026-08-01T16:07:19+00:00",
-      "featured": true
-    },
-    {
-      "id": "c6b6f9696759",
-      "source": "Al Jazeera",
-      "headline": "Two ex-Sri Lanka officials sentenced to death over 2019 Easter bombings",
-      "excerpt": "Former officials will appeal sentences handed down for neglecting intelligence warnings before the deadly attacks.",
-      "link": "https://www.aljazeera.com/news/2026/8/1/two-ex-sri-lanka-officials-sentenced-to-death-over-2019-easter-bombings?traffic_source=rss",
-      "published": "2026-08-01T15:34:15+00:00",
-      "featured": true
+      "featured": false
     },
     {
       "id": "fde6a5053370",
@@ -44,15 +53,6 @@
       "excerpt": "Researchers argue that a lunar biocontainment facility for extraterrestrial samples could prevent “the potential ecological devastation of an invasive extraterrestrial organism.”",
       "link": "https://www.404media.co/we-need-to-quarantine-aliens-on-the-moon-scientists-propose/",
       "published": "2026-08-01T10:00:47+00:00",
-      "featured": false
-    },
-    {
-      "id": "79bcaa33cb66",
-      "source": "Dropsite News",
-      "headline": "Gaza deal remains conditional on Israel; Earthquake-level explosions in Lebanon; 60,000 migrants cross from Morocco into Spanish territory",
-      "excerpt": "Drop Site Daily: July 31, 2026",
-      "link": "https://www.dropsitenews.com/p/gaza-deal-hamas-israel-lebanon-explosions-morocco-spain-migrants",
-      "published": "2026-07-31T15:41:50+00:00",
       "featured": false
     },
     {
@@ -110,12 +110,12 @@
       "featured": false
     },
     {
-      "id": "20df10af34d0",
+      "id": "f77a59da5690",
       "source": "Al Jazeera",
-      "headline": "India cracks down on protesters accused of ‘abusing’ Modi",
-      "excerpt": "Police cases, social media takedowns and online abuse have followed many who took part in India’s youth protests.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/1/india-cracks-down-on-protesters-accused-of-abusing-modi?traffic_source=rss",
-      "published": "2026-08-01T14:28:20+00:00",
+      "headline": "At least three killed in explosion near cafe in Russia’s Moscow",
+      "excerpt": "⁠Fifteen also ​injured ‌in the blast in Kudrinskaya Square, authorities say.",
+      "link": "https://www.aljazeera.com/news/2026/8/1/russia-says-explosion-near-cafe-in-moscow-kills-three?traffic_source=rss",
+      "published": "2026-08-01T18:22:35+00:00",
       "featured": false
     },
     {
@@ -146,6 +146,15 @@
       "featured": false
     },
     {
+      "id": "79bcaa33cb66",
+      "source": "Dropsite News",
+      "headline": "Gaza deal remains conditional on Israel; Earthquake-level explosions in Lebanon; 60,000 migrants cross from Morocco into Spanish territory",
+      "excerpt": "Drop Site Daily: July 31, 2026",
+      "link": "https://www.dropsitenews.com/p/gaza-deal-hamas-israel-lebanon-explosions-morocco-spain-migrants",
+      "published": "2026-07-31T15:41:50+00:00",
+      "featured": false
+    },
+    {
       "id": "471f11497193",
       "source": "OCCRP",
       "headline": "From Tehran to Texas: How a Convicted Iranian Pyramid Scheme Ringleader Built a New Life in the U.S.",
@@ -170,15 +179,6 @@
       "excerpt": "Watch now | The media claims Abdul El-Sayed can’t win in November. But is that narrative borne out on the ground?",
       "link": "https://substack.perfectunion.us/p/why-political-elites-are-terrified",
       "published": "2026-07-30T21:01:22+00:00",
-      "featured": false
-    },
-    {
-      "id": "3e5d236d14de",
-      "source": "Dropsite News",
-      "headline": "Trump and NYT Say There’s a Russian Spy Base in Cuba. Turns Out, It’s a School.",
-      "excerpt": "Belly of the Beast found no evidence of an active Russian intelligence base, much less the sort of extensive equipment described by the NYT.",
-      "link": "https://www.dropsitenews.com/p/trump-nyt-cuba-russian-spy-base-lourdes",
-      "published": "2026-07-30T19:22:01+00:00",
       "featured": false
     },
     {
@@ -218,12 +218,12 @@
       "featured": false
     },
     {
-      "id": "17d57f96c07b",
+      "id": "4f43dfcf37da",
       "source": "Al Jazeera",
-      "headline": "Israeli strike destroys Gaza hospital warehouse",
-      "excerpt": "Israeli strike destroys medical supplies warehouse at Gaza's Al-Aqsa Martyrs Hospital, staff say.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/1/01-08-israel-strike-gaza-hospital-sv-mp4?traffic_source=rss",
-      "published": "2026-08-01T14:07:36+00:00",
+      "headline": "‘Marathon’ shines light on Gaza’s orphaned children and humanitarian crisis",
+      "excerpt": "More than 58,000 children have lost one or both parents by Israel's war, highlighting urgent humanitarian challenges.",
+      "link": "https://www.aljazeera.com/news/2026/8/1/marathon-shines-light-on-gazas-orphaned-children-and-humanitarian-crisis?traffic_source=rss",
+      "published": "2026-08-01T17:57:18+00:00",
       "featured": false
     },
     {
@@ -263,21 +263,21 @@
       "featured": false
     },
     {
+      "id": "3e5d236d14de",
+      "source": "Dropsite News",
+      "headline": "Trump and NYT Say There’s a Russian Spy Base in Cuba. Turns Out, It’s a School.",
+      "excerpt": "Belly of the Beast found no evidence of an active Russian intelligence base, much less the sort of extensive equipment described by the NYT.",
+      "link": "https://www.dropsitenews.com/p/trump-nyt-cuba-russian-spy-base-lourdes",
+      "published": "2026-07-30T19:22:01+00:00",
+      "featured": false
+    },
+    {
       "id": "52ca1781b925",
       "source": "ProPublica",
       "headline": "Andy Beshear Set Out to Make Drug Treatment Widely Available in Kentucky. Fraud and Abuse Followed.",
       "excerpt": "The post Andy Beshear Set Out to Make Drug Treatment Widely Available in Kentucky. Fraud and Abuse Followed. appeared first on ProPublica.",
       "link": "https://www.propublica.org/article/andy-beshear-kentucky-opioid-drug-crisis-medicaid-spending-fraud",
       "published": "2026-07-30T09:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "6e966d1a116c",
-      "source": "Dropsite News",
-      "headline": "Data Centers Divide Democrats in Michigan Primary",
-      "excerpt": "Senate candidates offer conflicting visions over the role of A.I. and corporate power.",
-      "link": "https://www.dropsitenews.com/p/data-centers-michigan-democrats-primary-el-sayed-stevens",
-      "published": "2026-07-29T17:51:03+00:00",
       "featured": false
     },
     {
@@ -317,12 +317,12 @@
       "featured": false
     },
     {
-      "id": "13aa844383c2",
+      "id": "49ddfb5946e5",
       "source": "Al Jazeera",
-      "headline": "Infantino’s FIFA crisis: What is reaction to World Cup investment U-turn?",
-      "excerpt": "Backlash to FIFA's private investment plan for World Cups and events was huge; now football reacts to U-turn's fallout.",
-      "link": "https://www.aljazeera.com/sports/2026/8/1/infantinos-fifa-crisis-what-is-reaction-to-world-cup-investment-u-turn?traffic_source=rss",
-      "published": "2026-08-01T13:59:19+00:00",
+      "headline": "Trump pledges to pursue ‘anti-weaponisation’ fund amid Blanche standoff",
+      "excerpt": "The US president said he would push ahead with the controversial fund if his attorney general pick is not approved.",
+      "link": "https://www.aljazeera.com/news/2026/8/1/trump-pledges-to-pursue-anti-weaponisation-fund-amid-blanche-standoff?traffic_source=rss",
+      "published": "2026-08-01T17:48:41+00:00",
       "featured": false
     },
     {
@@ -371,12 +371,12 @@
       "featured": false
     },
     {
-      "id": "e0c45b0574ae",
+      "id": "6e966d1a116c",
       "source": "Dropsite News",
-      "headline": "U.S.-Saudi strikes kill 20 Iraqi fighters; Israeli settler attacks in West Bank “hitting an all-time high”; Cholera outbreak in Sudan",
-      "excerpt": "Drop Site Daily: July 29, 2026",
-      "link": "https://www.dropsitenews.com/p/us-saudi-strikes-iraq-israel-west-bank-settler-attacks-sudan-cholera",
-      "published": "2026-07-29T16:00:11+00:00",
+      "headline": "Data Centers Divide Democrats in Michigan Primary",
+      "excerpt": "Senate candidates offer conflicting visions over the role of A.I. and corporate power.",
+      "link": "https://www.dropsitenews.com/p/data-centers-michigan-democrats-primary-el-sayed-stevens",
+      "published": "2026-07-29T17:51:03+00:00",
       "featured": false
     },
     {
@@ -407,12 +407,12 @@
       "featured": false
     },
     {
-      "id": "a14ee1951718",
+      "id": "686f0dc7d2a2",
       "source": "Al Jazeera",
-      "headline": "Is Spain being punished?",
-      "excerpt": "In the months leading up to the crisis in Ceuta, pro-Israel voices conspicuously raised the issue of the enclave",
-      "link": "https://www.aljazeera.com/opinions/2026/8/1/is-spain-being-punished?traffic_source=rss",
-      "published": "2026-08-01T13:50:36+00:00",
+      "headline": "At least 9 people killed in Russian missile attacks on Kyiv",
+      "excerpt": "At least 9 people have been killed and dozens injured in Russian missile strikes on Kyiv.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/1/at-least-9-people-killed-in-russian-missile-attacks-on-kyiv?traffic_source=rss",
+      "published": "2026-08-01T17:45:26+00:00",
       "featured": false
     },
     {
@@ -452,21 +452,21 @@
       "featured": false
     },
     {
+      "id": "e0c45b0574ae",
+      "source": "Dropsite News",
+      "headline": "U.S.-Saudi strikes kill 20 Iraqi fighters; Israeli settler attacks in West Bank “hitting an all-time high”; Cholera outbreak in Sudan",
+      "excerpt": "Drop Site Daily: July 29, 2026",
+      "link": "https://www.dropsitenews.com/p/us-saudi-strikes-iraq-israel-west-bank-settler-attacks-sudan-cholera",
+      "published": "2026-07-29T16:00:11+00:00",
+      "featured": false
+    },
+    {
       "id": "19047055938b",
       "source": "ProPublica",
       "headline": "Anthropic’s New AI Model Can Identify More Software Bugs Than Ever. Microsoft Is Struggling to Fix Them Fast Enough.",
       "excerpt": "The post Anthropic’s New AI Model Can Identify More Software Bugs Than Ever. Microsoft Is Struggling to Fix Them Fast Enough. appeared first on ProPublica.",
       "link": "https://www.propublica.org/article/anthropic-mythos-microsoft-software-vulnerabilities",
       "published": "2026-07-29T09:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "e2c338525b0e",
-      "source": "Dropsite News",
-      "headline": "West Bank Settler Terrorism and India’s Gen Z Protest Movement",
-      "excerpt": "A recording from Drop Site News's live video",
-      "link": "https://www.dropsitenews.com/p/live-now-west-bank-settler-terrorism-d7d",
-      "published": "2026-07-28T22:22:31+00:00",
       "featured": false
     },
     {
@@ -497,12 +497,12 @@
       "featured": false
     },
     {
-      "id": "760e4a51b6be",
+      "id": "a22103c98378",
       "source": "Al Jazeera",
-      "headline": "Children run marathon to spotlight Gaza’s growing orphan crises",
-      "excerpt": "Children run marathon to spotlight Gaza's growing orphan crisis",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/1/children-run-marathon-to-spotlight-gazas-growing-orphan-crises?traffic_source=rss",
-      "published": "2026-08-01T13:46:33+00:00",
+      "headline": "Care for a dirty soda? How this drink trend became a US obsession",
+      "excerpt": "How Utah novelty grew into national trend, fuelled by customisation, social media, desire for affordable social spaces.",
+      "link": "https://www.aljazeera.com/features/longform/2026/8/1/care-for-a-dirty-soda-how-this-drink-trend-became-a-us-obsession?traffic_source=rss",
+      "published": "2026-08-01T17:37:34+00:00",
       "featured": false
     },
     {
