@@ -1,13 +1,31 @@
 {
-  "generated_at": "2026-08-03T03:55:28.413211+00:00",
+  "generated_at": "2026-08-03T10:05:55.059950+00:00",
   "articles": [
     {
-      "id": "ae634bb0aa08",
+      "id": "86b7056df1de",
+      "source": "Rest of World",
+      "headline": "Why Silicon Valley is divided over China’s powerful, cheap AI models",
+      "excerpt": "Low-cost Chinese open-weight models are splitting tech executives and Washington over national security and competitiveness.",
+      "link": "https://restofworld.org/2026/silicon-valley-debate-chinese-open-weight-ai-models/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "published": "2026-08-03T10:00:00+00:00",
+      "featured": true
+    },
+    {
+      "id": "fc6c0dfd89dc",
       "source": "Al Jazeera",
-      "headline": "Fires in Spokane, Washington, burn 600 structures, force 60,000 evacuations",
-      "excerpt": "A total of 1,000sq km (386sq miles) has burned across Washington state, and some of the fires have not been contained.",
-      "link": "https://www.aljazeera.com/news/2026/8/3/fires-in-spokane-washington-burn-600-structures-force-60000-evacuations?traffic_source=rss",
-      "published": "2026-08-03T03:26:08+00:00",
+      "headline": "Wales FA withdraws support for Infantino re-election after FIFA stake plan",
+      "excerpt": "Wales is the first federation to formally withdraw support for Gianni Infantino after botched World Cup investment plan.",
+      "link": "https://www.aljazeera.com/sports/2026/8/3/wales-fa-withdraws-support-for-infantino-re-election-after-fifa-stake-plan?traffic_source=rss",
+      "published": "2026-08-03T09:23:05+00:00",
+      "featured": true
+    },
+    {
+      "id": "7a89736dd6b9",
+      "source": "ProPublica",
+      "headline": "Solar Developer Cancels Washington State Project on Sacred Indigenous Land",
+      "excerpt": "The post Solar Developer Cancels Washington State Project on Sacred Indigenous Land appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/washington-badger-mountain-solar-project-canceled-avangrid",
+      "published": "2026-08-03T09:00:00+00:00",
       "featured": true
     },
     {
@@ -17,7 +35,7 @@
       "excerpt": "Bishop Christopher Martin, who has faced public scrutiny over his anti-LGBT comments in the past, said he’d been “working” with the campaign.",
       "link": "https://www.levernews.com/haley-stevens-new-campaign-ad-features-anti-lgbtq-islamophobic-pastor/",
       "published": "2026-08-02T23:01:47+00:00",
-      "featured": true
+      "featured": false
     },
     {
       "id": "89e09568ece4",
@@ -26,7 +44,7 @@
       "excerpt": "The Pakistani military has imposed a communications blackout as it conducts a violent siege aimed at crushing a movement for electoral reform in Azad Kashmir.",
       "link": "https://www.dropsitenews.com/p/state-killings-in-pakistan-as-kashmir",
       "published": "2026-08-01T19:08:49+00:00",
-      "featured": true
+      "featured": false
     },
     {
       "id": "db353bb42182",
@@ -65,39 +83,12 @@
       "featured": false
     },
     {
-      "id": "d94afd76a70c",
-      "source": "ICIJ",
-      "headline": "Europe sanctioned crypto exchange HTX. Experts say the firm is deploying tactics that could blunt the impact.",
-      "excerpt": "The exchange is rapidly generating new accounts in a way that can confuse authorities and compliance officials, experts told ICIJ.",
-      "link": "https://www.icij.org/investigations/coin-laundry/europe-sanctioned-crypto-exchange-htx-experts-say-the-firm-is-deploying-tactics-that-could-blunt-the-impact/",
-      "published": "2026-07-31T14:55:36+00:00",
-      "featured": false
-    },
-    {
       "id": "6880adc40ec6",
       "source": "OCCRP",
       "headline": "Slim Shady: Smugglers Eye Big Profits Running Weight Loss Drugs into Brazil",
       "excerpt": "The weight loss drug tirzepatide has become a major black market commodity on the border between Paraguay and Brazil, fueling a rise in armed robberies and smuggling by criminal groups.",
       "link": "https://www.occrp.org/en/feature/slim-shady-smugglers-eye-big-profits-running-weight-loss-drugs-into-brazil",
       "published": "2026-07-31T14:50:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "3315d16a703c",
-      "source": "Rest of World",
-      "headline": "Can we train AI to choose safety over speed?",
-      "excerpt": "Delivery personnel from Swiggy navigate a flooded street amid heavy rainfall in Mumbai, India, on July 4, 2026.",
-      "link": "https://restofworld.org/2026/india-ai-extreme-weather/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-      "published": "2026-07-31T13:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "2a8770a43dcd",
-      "source": "ProPublica",
-      "headline": "For the Second Time, Lawmakers Failed to Fix California’s Warning System for Teacher Misconduct",
-      "excerpt": "The post For the Second Time, Lawmakers Failed to Fix California’s Warning System for Teacher Misconduct appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/california-teacher-misconduct-database-bill-failed-al-muratsuchi",
-      "published": "2026-07-31T11:00:00+00:00",
       "featured": false
     },
     {
@@ -110,12 +101,12 @@
       "featured": false
     },
     {
-      "id": "acbc0e699627",
+      "id": "66e2642df08f",
       "source": "Al Jazeera",
-      "headline": "Trump pauses ‘massive attack’ on Iran, says new talks to begin",
-      "excerpt": "US President Trump says new talks with Iran will start Monday ‘in the form of a negotiation’ after calling off attack.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/3/trump-pauses-massive-attack-on-iran-says-new-talks-to-begin?traffic_source=rss",
-      "published": "2026-08-03T03:17:33+00:00",
+      "headline": "Dangerous summers: How heatwaves and wildfires change life across Europe",
+      "excerpt": "Climate change makes Europe's summers hotter, intensifying fires and droughts while threatening lives and economies.",
+      "link": "https://www.aljazeera.com/features/2026/8/3/new-summers-how-heatwaves-and-wildfires-change-life-across?traffic_source=rss",
+      "published": "2026-08-03T09:13:59+00:00",
       "featured": false
     },
     {
@@ -155,21 +146,30 @@
       "featured": false
     },
     {
+      "id": "3315d16a703c",
+      "source": "Rest of World",
+      "headline": "Can we train AI to choose safety over speed?",
+      "excerpt": "Delivery personnel from Swiggy navigate a flooded street amid heavy rainfall in Mumbai, India, on July 4, 2026.",
+      "link": "https://restofworld.org/2026/india-ai-extreme-weather/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "published": "2026-07-31T13:00:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "2a8770a43dcd",
+      "source": "ProPublica",
+      "headline": "For the Second Time, Lawmakers Failed to Fix California’s Warning System for Teacher Misconduct",
+      "excerpt": "The post For the Second Time, Lawmakers Failed to Fix California’s Warning System for Teacher Misconduct appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/california-teacher-misconduct-database-bill-failed-al-muratsuchi",
+      "published": "2026-07-31T11:00:00+00:00",
+      "featured": false
+    },
+    {
       "id": "471f11497193",
       "source": "OCCRP",
       "headline": "From Tehran to Texas: How a Convicted Iranian Pyramid Scheme Ringleader Built a New Life in the U.S.",
       "excerpt": "Mazyar Mahan, convicted in absentia in Iran in connection with a $25 million pyramid scheme that defrauded hundreds of people, obtained U.S. citizenship and went on to teach film at a Texas university.",
       "link": "https://www.occrp.org/en/investigation/from-tehran-to-texas-how-a-convicted-iranian-pyramid-scheme-ringleader-built-a-new-life-in-the-us",
       "published": "2026-07-31T10:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "95affc61e649",
-      "source": "ProPublica",
-      "headline": "As Trump’s Tariff War With Canada Drags On, This Border Community Suffers Without a Voice",
-      "excerpt": "The post As Trump’s Tariff War With Canada Drags On, This Border Community Suffers Without a Voice appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/trump-canada-tariffs-michigan-sault-ste-marie",
-      "published": "2026-07-31T09:00:00+00:00",
       "featured": false
     },
     {
@@ -191,24 +191,6 @@
       "featured": false
     },
     {
-      "id": "6b9dad7182f2",
-      "source": "Rest of World",
-      "headline": "With Moonshot’s free Kimi K3, China changes the sovereign AI playbook",
-      "excerpt": "Governments can now deploy top-tier AI locally, bypassing costly U.S. cloud rentals.",
-      "link": "https://restofworld.org/2026/china-moonshot-kimi-k3-free-sovereign-ai/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-      "published": "2026-07-30T10:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "78e93507b9c1",
-      "source": "ICIJ",
-      "headline": "Inside the Matrix: How models, influencers and engagement quotas power the Social Discovery Group’s dating machine and global profits",
-      "excerpt": "Women on four continents told ICIJ that global pay-per-action dating sites owned by a Russian businessman and self-styled philosopher left them financially broke and heartbroken.",
-      "link": "https://www.icij.org/news/2026/07/dating-app-scam-models-influencers-social-discovery-group/",
-      "published": "2026-07-23T15:11:47+00:00",
-      "featured": false
-    },
-    {
       "id": "caad1e0c6575",
       "source": "The Markup",
       "headline": "Kaiser Permanente nurses say technology is making their jobs — and patient care — worse",
@@ -218,12 +200,12 @@
       "featured": false
     },
     {
-      "id": "70972c06b7c5",
+      "id": "1736dc53840f",
       "source": "Al Jazeera",
-      "headline": "Brazil’s Lula launches reelection bid amid foreign interference concerns",
-      "excerpt": "Brazil's President Luiz Inácio Lula da Silva has officially launched his reelection campaign.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/3/brazils-lula-launches-reelection-bid-amid-foreign-interference-concerns?traffic_source=rss",
-      "published": "2026-08-03T02:54:25+00:00",
+      "headline": "‘He had a lot of profiles’: The rise of online drug-facilitated rape gangs",
+      "excerpt": "Cases across many countries point to a worrying trend of men gathering on the internet to carry out sexual abuse crimes.",
+      "link": "https://www.aljazeera.com/news/2026/8/3/he-had-a-lot-of-profiles-the-rise-of-online-drug-facilitated-rape-gangs?traffic_source=rss",
+      "published": "2026-08-03T09:12:14+00:00",
       "featured": false
     },
     {
@@ -254,6 +236,15 @@
       "featured": false
     },
     {
+      "id": "95affc61e649",
+      "source": "ProPublica",
+      "headline": "As Trump’s Tariff War With Canada Drags On, This Border Community Suffers Without a Voice",
+      "excerpt": "The post As Trump’s Tariff War With Canada Drags On, This Border Community Suffers Without a Voice appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/trump-canada-tariffs-michigan-sault-ste-marie",
+      "published": "2026-07-31T09:00:00+00:00",
+      "featured": false
+    },
+    {
       "id": "8b5852ff669e",
       "source": "OCCRP",
       "headline": "Ex-Chief of Staff for Malta’s Former Prime Minister Testifies Against Childhood Friend Accused of Ordering Journalist’s Murder",
@@ -272,21 +263,12 @@
       "featured": false
     },
     {
-      "id": "52ca1781b925",
-      "source": "ProPublica",
-      "headline": "Andy Beshear Set Out to Make Drug Treatment Widely Available in Kentucky. Fraud and Abuse Followed.",
-      "excerpt": "The post Andy Beshear Set Out to Make Drug Treatment Widely Available in Kentucky. Fraud and Abuse Followed. appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/andy-beshear-kentucky-opioid-drug-crisis-medicaid-spending-fraud",
-      "published": "2026-07-30T09:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "0cc45cefbd0b",
+      "id": "6b9dad7182f2",
       "source": "Rest of World",
-      "headline": "Anxious Chinese students are trusting AI to help pick colleges and majors",
-      "excerpt": "Students leave the gaokao exam in Nanjing in June under a banner that reads “Win top marks.”",
-      "link": "https://restofworld.org/2026/china-ai-bot-college-advice/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-      "published": "2026-07-29T10:00:00+00:00",
+      "headline": "With Moonshot’s free Kimi K3, China changes the sovereign AI playbook",
+      "excerpt": "Governments can now deploy top-tier AI locally, bypassing costly U.S. cloud rentals.",
+      "link": "https://restofworld.org/2026/china-moonshot-kimi-k3-free-sovereign-ai/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "published": "2026-07-30T10:00:00+00:00",
       "featured": false
     },
     {
@@ -308,21 +290,12 @@
       "featured": false
     },
     {
-      "id": "cfb311dc7126",
-      "source": "ICIJ",
-      "headline": "Canadian intelligence flags crypto-to-cash services as ‘knowingly facilitating money laundering,’ document shows",
-      "excerpt": "An internal report obtained says that crypto brokers are moving millions while dodging rules to guard against dirty money.",
-      "link": "https://www.icij.org/investigations/coin-laundry/canadian-intelligence-flags-crypto-to-cash-services-as-knowingly-facilitating-money-laundering-document-shows/",
-      "published": "2026-07-21T15:25:38+00:00",
-      "featured": false
-    },
-    {
-      "id": "276303d453b8",
+      "id": "fa5cdd244d0e",
       "source": "Al Jazeera",
-      "headline": "The battle for the Maasai Mara: Can Kenya’s most iconic ecosystem be saved?",
-      "excerpt": "Court cases over new lodges have raised questions about protecting one of Africa’s greatest wildlife spectacles.",
-      "link": "https://www.aljazeera.com/features/2026/8/3/the-battle-for-the-maasai-mara-can-kenyas-most-iconic-ecosystem-be-saved?traffic_source=rss",
-      "published": "2026-08-03T01:57:58+00:00",
+      "headline": "Myanmar releases first images of Aung San Suu Kyi since 2021 military coup",
+      "excerpt": "Myanmar releases first images of Aung San Suu Kyi since 2021 military coup.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/3/08-03-2026-aung-san-suu-kyi-pictures-sv?traffic_source=rss",
+      "published": "2026-08-03T09:05:04+00:00",
       "featured": false
     },
     {
@@ -362,12 +335,12 @@
       "featured": false
     },
     {
-      "id": "d8dafae21c1d",
+      "id": "52ca1781b925",
       "source": "ProPublica",
-      "headline": "Senators Push Federal Regulator to Prove School Bus Safety Data Is Accurate",
-      "excerpt": "The post Senators Push Federal Regulator to Prove School Bus Safety Data Is Accurate appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/transdev-senate-oversight-bus-crashes-public-transit",
-      "published": "2026-07-29T20:35:00+00:00",
+      "headline": "Andy Beshear Set Out to Make Drug Treatment Widely Available in Kentucky. Fraud and Abuse Followed.",
+      "excerpt": "The post Andy Beshear Set Out to Make Drug Treatment Widely Available in Kentucky. Fraud and Abuse Followed. appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/andy-beshear-kentucky-opioid-drug-crisis-medicaid-spending-fraud",
+      "published": "2026-07-30T09:00:00+00:00",
       "featured": false
     },
     {
@@ -380,21 +353,12 @@
       "featured": false
     },
     {
-      "id": "d4a1e6fedd41",
+      "id": "0cc45cefbd0b",
       "source": "Rest of World",
-      "headline": "Indian EV makers beat Tesla and BYD on energy efficiency",
-      "excerpt": "Tata Motors and Mahindra topped a global ranking of battery efficiency, showing India's strength in building frugal electric cars — even as they lag on charging speed and driving range.",
-      "link": "https://restofworld.org/2026/indian-evs-beat-tesla-byd-icct-efficiency-ranking/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-      "published": "2026-07-28T10:00:42+00:00",
-      "featured": false
-    },
-    {
-      "id": "9b5a8b13fb9a",
-      "source": "ICIJ",
-      "headline": "Swedbank fined $50 million by New York authorities over Panama Papers revelations",
-      "excerpt": "The Swedish bank and its New York subsidiary agreed to the penalty to settle final U.S. probe tied to money laundering case, officials say.",
-      "link": "https://www.icij.org/investigations/panama-papers/swedbank-fined-50-million-by-new-york-authorities-over-panama-papers-revelations/",
-      "published": "2026-07-17T21:24:52+00:00",
+      "headline": "Anxious Chinese students are trusting AI to help pick colleges and majors",
+      "excerpt": "Students leave the gaokao exam in Nanjing in June under a banner that reads “Win top marks.”",
+      "link": "https://restofworld.org/2026/china-ai-bot-college-advice/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "published": "2026-07-29T10:00:00+00:00",
       "featured": false
     },
     {
@@ -407,12 +371,12 @@
       "featured": false
     },
     {
-      "id": "d0fe5107ab4d",
+      "id": "3cf90d22059a",
       "source": "Al Jazeera",
-      "headline": "Japan and US confirm rare joint intervention to prop up yen",
-      "excerpt": "US President Donald Trump says helping to bolster the Japanese currency is a sign of friendship.",
-      "link": "https://www.aljazeera.com/economy/2026/8/3/japan-and-us-confirm-rare-joint-intervention-to-prop-up-yen?traffic_source=rss",
-      "published": "2026-08-03T01:34:19+00:00",
+      "headline": "Australia warns H5N1 likely to spread after first mass mortality episode",
+      "excerpt": "Agriculture minister ​says testing confirmed H5N1 bird flu in a group of 49 dead and 35 sick terns.",
+      "link": "https://www.aljazeera.com/news/2026/8/3/australia-warns-h5n1-likely-to-spread-after-first-mass-mortality-episode?traffic_source=rss",
+      "published": "2026-08-03T09:04:57+00:00",
       "featured": false
     },
     {
@@ -452,6 +416,15 @@
       "featured": false
     },
     {
+      "id": "d8dafae21c1d",
+      "source": "ProPublica",
+      "headline": "Senators Push Federal Regulator to Prove School Bus Safety Data Is Accurate",
+      "excerpt": "The post Senators Push Federal Regulator to Prove School Bus Safety Data Is Accurate appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/transdev-senate-oversight-bus-crashes-public-transit",
+      "published": "2026-07-29T20:35:00+00:00",
+      "featured": false
+    },
+    {
       "id": "e0c45b0574ae",
       "source": "Dropsite News",
       "headline": "U.S.-Saudi strikes kill 20 Iraqi fighters; Israeli settler attacks in West Bank “hitting an all-time high”; Cholera outbreak in Sudan",
@@ -461,30 +434,12 @@
       "featured": false
     },
     {
-      "id": "19047055938b",
-      "source": "ProPublica",
-      "headline": "Anthropic’s New AI Model Can Identify More Software Bugs Than Ever. Microsoft Is Struggling to Fix Them Fast Enough.",
-      "excerpt": "The post Anthropic’s New AI Model Can Identify More Software Bugs Than Ever. Microsoft Is Struggling to Fix Them Fast Enough. appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/anthropic-mythos-microsoft-software-vulnerabilities",
-      "published": "2026-07-29T09:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "9674a9bacf1d",
+      "id": "d4a1e6fedd41",
       "source": "Rest of World",
-      "headline": "In China, people are renting out their faces to AI",
-      "excerpt": "New platforms are paying people to license their likeness for AI-generated dramas and ads, creating a new marketplace for biometric identity.",
-      "link": "https://restofworld.org/2026/china-ai-microdramas-face-licensing/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-      "published": "2026-07-27T10:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "d9304df93d64",
-      "source": "ICIJ",
-      "headline": "How offshore firms helped a mafia-linked Italian druglord hide a $230m fortune",
-      "excerpt": "Leaked Pandora Papers records reveal that Giacomo Tamburello and his family, now facing prosecution, accumulated gold bars, luxury real estate and a $89 million stake in a bank with the help of unscrupulous financiers...",
-      "link": "https://www.icij.org/investigations/pandora-papers/how-offshore-firms-helped-a-mafia-linked-italian-druglord-hide-a-230m-fortune/",
-      "published": "2026-07-17T08:59:48+00:00",
+      "headline": "Indian EV makers beat Tesla and BYD on energy efficiency",
+      "excerpt": "Tata Motors and Mahindra topped a global ranking of battery efficiency, showing India's strength in building frugal electric cars — even as they lag on charging speed and driving range.",
+      "link": "https://restofworld.org/2026/indian-evs-beat-tesla-byd-icct-efficiency-ranking/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "published": "2026-07-28T10:00:42+00:00",
       "featured": false
     },
     {
@@ -497,12 +452,12 @@
       "featured": false
     },
     {
-      "id": "baf4b62a54ec",
+      "id": "6fe08db891b5",
       "source": "Al Jazeera",
-      "headline": "Suicide bombing kills at least 14 people in Pakistan’s Swat Valley",
-      "excerpt": "Footage shows blast victims hurried into a hospital in northwestern Pakistan, after a suicide bombing.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/3/suicide-bombing-kills-at-least-14-people-in-pakistans-swat-valley?traffic_source=rss",
-      "published": "2026-08-03T00:18:50+00:00",
+      "headline": "Who is Jordan Salinas, ‘hero’ bystander who confronted Idaho shooter?",
+      "excerpt": "Suspected attacker, identified as 24-year-old Chad Williams, killed at least three people in the US on Saturday.",
+      "link": "https://www.aljazeera.com/news/2026/8/3/who-is-jordan-salinas-hero-bystander-who-confronted-idaho-shooter?traffic_source=rss",
+      "published": "2026-08-03T09:01:15+00:00",
       "featured": false
     },
     {
@@ -539,6 +494,51 @@
       "excerpt": "Allowing the musician into Germany could “radicalise certain segments of the [German] population,” authorities warned. The post Free Speech Crackdown: Germany Deports Bob Vylan Frontman for Anti-Israel Chants appeared...",
       "link": "https://theintercept.com/2026/07/30/bob-vylan-germany-deport-palestine-israel/",
       "published": "2026-07-30T09:10:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "19047055938b",
+      "source": "ProPublica",
+      "headline": "Anthropic’s New AI Model Can Identify More Software Bugs Than Ever. Microsoft Is Struggling to Fix Them Fast Enough.",
+      "excerpt": "The post Anthropic’s New AI Model Can Identify More Software Bugs Than Ever. Microsoft Is Struggling to Fix Them Fast Enough. appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/anthropic-mythos-microsoft-software-vulnerabilities",
+      "published": "2026-07-29T09:00:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "e2c338525b0e",
+      "source": "Dropsite News",
+      "headline": "West Bank Settler Terrorism and India’s Gen Z Protest Movement",
+      "excerpt": "A recording from Drop Site News's live video",
+      "link": "https://www.dropsitenews.com/p/live-now-west-bank-settler-terrorism-d7d",
+      "published": "2026-07-28T22:22:31+00:00",
+      "featured": false
+    },
+    {
+      "id": "9674a9bacf1d",
+      "source": "Rest of World",
+      "headline": "In China, people are renting out their faces to AI",
+      "excerpt": "New platforms are paying people to license their likeness for AI-generated dramas and ads, creating a new marketplace for biometric identity.",
+      "link": "https://restofworld.org/2026/china-ai-microdramas-face-licensing/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "published": "2026-07-27T10:00:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "62cc55d2a13f",
+      "source": "Al Jazeera",
+      "headline": "‘US backs off from Iran before markets open on weekdays’",
+      "excerpt": "‘US backs off from Iran before markets open on weekdays’",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/3/us-backs-off-from-iran-before-markets-open-on?traffic_source=rss",
+      "published": "2026-08-03T08:55:13+00:00",
+      "featured": false
+    },
+    {
+      "id": "0fca1b183790",
+      "source": "The Lever",
+      "headline": "Who’s Screening Your Luggage?",
+      "excerpt": "Test your knowledge of private prisons, military funding, and other issues that really matter.",
+      "link": "https://www.levernews.com/whos-screening-your-luggage/",
+      "published": "2026-07-31T17:11:51+00:00",
       "featured": false
     }
   ]
