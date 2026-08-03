@@ -1,23 +1,50 @@
 {
-  "generated_at": "2026-08-03T15:17:00.951241+00:00",
+  "generated_at": "2026-08-03T19:58:44.298938+00:00",
   "articles": [
     {
-      "id": "8c2305355d5c",
+      "id": "721a0e617de8",
       "source": "Al Jazeera",
-      "headline": "Pentagon boosts Patriot, THAAD interceptor output amid stockpile strain",
-      "excerpt": "Defence giants Lockheed and Northrop see billion-dollar deals as Pentagon accelerates missile arsenal production",
-      "link": "https://www.aljazeera.com/economy/2026/8/3/pentagon-boosts-patriot-thaad-interceptor-output-amid-stockpile-strain?traffic_source=rss",
-      "published": "2026-08-03T14:47:20+00:00",
+      "headline": "Bomb disposal underway in Le Porge after wildfires unearth WWII shells",
+      "excerpt": "Bomb disposal operations are continuing in Le Porge, France, to enable residents to return to the village.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/3/aje-onl-nf_wildfire-reveals-wwii-shells-in-le-porge-france-030826?traffic_source=rss",
+      "published": "2026-08-03T18:55:25+00:00",
       "featured": true
     },
     {
-      "id": "fdc3bd4b98fc",
-      "source": "404 Media",
-      "headline": "Why a Flock Worker Quit: ‘They Lied’",
-      "excerpt": "Jonathan Paz’s job was to convince cities to buy Flock cameras. After initially being enthusiastic about the company, he started to get disillusioned.",
-      "link": "https://www.404media.co/why-a-flock-worker-quit-they-lied/",
-      "published": "2026-08-03T14:02:31+00:00",
+      "id": "b5214a108f1a",
+      "source": "OCCRP",
+      "headline": "US Fines UBS Record $125M for 'Willful' Anti-Money Laundering Violations",
+      "excerpt": "",
+      "link": "https://www.occrp.org/en/news/us-fines-ubs-record-125m-for-willful-anti-money-laundering-violations",
+      "published": "2026-08-03T17:55:00+00:00",
       "featured": true
+    },
+    {
+      "id": "56a270090345",
+      "source": "404 Media",
+      "headline": "‘Own the Narrative’: Leaked Flock Guide Shows How It Teaches Cops to Promote Its Tech",
+      "excerpt": "\"This document shows a coordinated effort from Flock Safety to compel law enforcement agencies to convince our elected leaders to represent their interests as a company rather than the interests of concerned citizens.\"",
+      "link": "https://www.404media.co/own-the-narrative-leaked-flock-guide-shows-how-it-teaches-cops-to-promote-its-tech/",
+      "published": "2026-08-03T17:13:24+00:00",
+      "featured": true
+    },
+    {
+      "id": "07c4734767d7",
+      "source": "The Lever",
+      "headline": "El-Sayed Challenges The “Electability” Attack",
+      "excerpt": "In an exclusive interview days before the Democratic primary, the Michigan Senate candidate says that his party is more concerned with him winning than losing.",
+      "link": "https://www.levernews.com/el-sayed-challenges-the-electability-attack/",
+      "published": "2026-08-03T15:45:12+00:00",
+      "featured": false
+    },
+    {
+      "id": "5f6731604cd7",
+      "source": "Dropsite News",
+      "headline": "Iran denies Trump’s claim of talks; Israeli strikes on Gaza kill over 30 since Friday “deal”; Cuba’s electricity collapses again",
+      "excerpt": "Drop Site Daily: August 3, 2026",
+      "link": "https://www.dropsitenews.com/p/iran-us-trump-talks-gaza-israel-strikes-deal-cuba-electricity-blackout",
+      "published": "2026-08-03T15:33:29+00:00",
+      "featured": false
     },
     {
       "id": "f6d9febadb2d",
@@ -26,15 +53,6 @@
       "excerpt": "Throwing paint on a statue at Columbia seems like a minor crime, but cops use tremendous resources when pro-Palestine protesters are in the crosshairs. The post NYPD Used High-Tech Surveillance to Find Gaza Paint...",
       "link": "https://theintercept.com/2026/08/03/nypd-surveillance-gaza-protest-columbia/",
       "published": "2026-08-03T13:59:46+00:00",
-      "featured": true
-    },
-    {
-      "id": "5cdd9e0f3d37",
-      "source": "OCCRP",
-      "headline": "Six Indicted in Czech $20M VAT Fraud Case",
-      "excerpt": "",
-      "link": "https://www.occrp.org/en/news/six-indicted-in-czech-20m-vat-fraud-case",
-      "published": "2026-08-03T11:18:00+00:00",
       "featured": false
     },
     {
@@ -53,24 +71,6 @@
       "excerpt": "Low-cost Chinese open-weight models are splitting tech executives and Washington over national security and competitiveness.",
       "link": "https://restofworld.org/2026/silicon-valley-debate-chinese-open-weight-ai-models/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "published": "2026-08-03T10:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "ae43e305b055",
-      "source": "The Lever",
-      "headline": "Haley Stevens’ New Campaign Ad Features Anti-LGBTQ Pastor",
-      "excerpt": "Bishop Christopher Martin, who has faced public scrutiny over his anti-LGBT comments in the past, said he’d been “working” with the campaign.",
-      "link": "https://www.levernews.com/haley-stevens-new-campaign-ad-features-anti-lgbtq-islamophobic-pastor/",
-      "published": "2026-08-02T23:01:47+00:00",
-      "featured": false
-    },
-    {
-      "id": "89e09568ece4",
-      "source": "Dropsite News",
-      "headline": "State Killings in Pakistan as Kashmir Protest Movement Grows",
-      "excerpt": "The Pakistani military has imposed a communications blackout as it conducts a violent siege aimed at crushing a movement for electoral reform in Azad Kashmir.",
-      "link": "https://www.dropsitenews.com/p/state-killings-in-pakistan-as-kashmir",
-      "published": "2026-08-01T19:08:49+00:00",
       "featured": false
     },
     {
@@ -110,21 +110,30 @@
       "featured": false
     },
     {
-      "id": "2911cd54cbfa",
+      "id": "c0b0d4a5a677",
       "source": "Al Jazeera",
-      "headline": "Trump slams Chevron CEO, demands immediate reduction in US fuel prices",
-      "excerpt": "Trump claims Chevron's success stems from his policies, calling for urgent reductions in US fuel prices for consumers.",
-      "link": "https://www.aljazeera.com/economy/2026/8/3/trump-slams-chevron-ceo-demands-immediate-reduction-in-us-fuel-prices?traffic_source=rss",
-      "published": "2026-08-03T14:33:33+00:00",
+      "headline": "US announces first two deaths from cyclospora outbreak",
+      "excerpt": "Authorities in the Midwestern state of Michigan say that two people who died had underlying conditions.",
+      "link": "https://www.aljazeera.com/news/2026/8/3/us-announces-first-two-deaths-from-cyclospora-outbreak?traffic_source=rss",
+      "published": "2026-08-03T18:35:09+00:00",
       "featured": false
     },
     {
-      "id": "3c912fe4781e",
+      "id": "39824f8658ea",
       "source": "OCCRP",
-      "headline": "The Rise and Fall of Kyrgyzstan’s Seemingly Untouchable Security Chief",
-      "excerpt": "For years, Kamchybek Tashiev was considered the co-ruler of Kyrgyzstan, transforming the country’s security agency into a shadowy empire with its own kindergartens, billions in seized assets, and a stifling grip on...",
-      "link": "https://www.occrp.org/en/feature/the-rise-and-fall-of-kyrgyzstans-seemingly-untouchable-security-chief",
-      "published": "2026-08-03T11:00:00+00:00",
+      "headline": "AI Fuels 55% of African Cybercrimes as Losses Top $480 Million, INTERPOL Warns",
+      "excerpt": "AI now powers more than half of reported cybercrimes across 26 African nations as phishing and mobile fraud transition into industrialized criminal enterprises, according to INTERPOL.",
+      "link": "https://www.occrp.org/en/news/ai-fuels-55-of-african-cybercrimes-as-losses-top-480-million-interpol-warns",
+      "published": "2026-08-03T16:03:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "fdc3bd4b98fc",
+      "source": "404 Media",
+      "headline": "Why a Flock Worker Quit: ‘They Lied’",
+      "excerpt": "Jonathan Paz’s job was to convince cities to buy Flock cameras. After initially being enthusiastic about the company, he started to get disillusioned.",
+      "link": "https://www.404media.co/why-a-flock-worker-quit-they-lied/",
+      "published": "2026-08-03T14:02:31+00:00",
       "featured": false
     },
     {
@@ -137,12 +146,21 @@
       "featured": false
     },
     {
-      "id": "3e61bb2bfee3",
+      "id": "ae43e305b055",
       "source": "The Lever",
-      "headline": "Lever Weekly: Location, Location, Deportation",
-      "excerpt": "Shady ICE developers, a health care war in Michigan, and more from The Lever this week.",
-      "link": "https://www.levernews.com/lever-weekly-location-location-deportation/",
-      "published": "2026-08-02T13:01:41+00:00",
+      "headline": "Haley Stevens’ New Campaign Ad Features Anti-LGBTQ Pastor",
+      "excerpt": "Bishop Christopher Martin, who has faced public scrutiny over his anti-LGBT comments in the past, said he’d been “working” with the campaign.",
+      "link": "https://www.levernews.com/haley-stevens-new-campaign-ad-features-anti-lgbtq-islamophobic-pastor/",
+      "published": "2026-08-02T23:01:47+00:00",
+      "featured": false
+    },
+    {
+      "id": "89e09568ece4",
+      "source": "Dropsite News",
+      "headline": "State Killings in Pakistan as Kashmir Protest Movement Grows",
+      "excerpt": "The Pakistani military has imposed a communications blackout as it conducts a violent siege aimed at crushing a movement for electoral reform in Azad Kashmir.",
+      "link": "https://www.dropsitenews.com/p/state-killings-in-pakistan-as-kashmir",
+      "published": "2026-08-01T19:08:49+00:00",
       "featured": false
     },
     {
@@ -152,24 +170,6 @@
       "excerpt": "Deutsche Behörden warnten, die Einreise des pro-palästinensischen Musikers könne zur „Radikalisierung einzelner Bevölkerungsgruppen“ beitragen. Er legte Widerspruch ein. The post Nach Abschiebung wegen...",
       "link": "https://theintercept.com/2026/08/01/bob-vylan-abschiebung-deutsches-israel/",
       "published": "2026-08-01T16:07:25+00:00",
-      "featured": false
-    },
-    {
-      "id": "73c01c356de8",
-      "source": "404 Media",
-      "headline": "We Need to Quarantine Aliens on the Moon, Scientists Propose",
-      "excerpt": "Researchers argue that a lunar biocontainment facility for extraterrestrial samples could prevent “the potential ecological devastation of an invasive extraterrestrial organism.”",
-      "link": "https://www.404media.co/we-need-to-quarantine-aliens-on-the-moon-scientists-propose/",
-      "published": "2026-08-01T10:00:47+00:00",
-      "featured": false
-    },
-    {
-      "id": "79bcaa33cb66",
-      "source": "Dropsite News",
-      "headline": "Gaza deal remains conditional on Israel; Earthquake-level explosions in Lebanon; 60,000 migrants cross from Morocco into Spanish territory",
-      "excerpt": "Drop Site Daily: July 31, 2026",
-      "link": "https://www.dropsitenews.com/p/gaza-deal-hamas-israel-lebanon-explosions-morocco-spain-migrants",
-      "published": "2026-07-31T15:41:50+00:00",
       "featured": false
     },
     {
@@ -218,21 +218,30 @@
       "featured": false
     },
     {
-      "id": "194ff76a0d04",
+      "id": "9da8d4ed888e",
       "source": "Al Jazeera",
-      "headline": "Pochettino agrees to new manager contract with US Soccer",
-      "excerpt": "Mauricio Pochettino inks a four-year head coach extension after Team USA finished in the last-16 at World Cup 2026.",
-      "link": "https://www.aljazeera.com/sports/2026/8/3/pochettino-agrees-to-new-us-coach-soccer-contract-through-to-2030-world-cup?traffic_source=rss",
-      "published": "2026-08-03T14:24:24+00:00",
+      "headline": "Can Netanyahu survive Israel’s most consequential election?",
+      "excerpt": "Israelis head to the polls in October for the country's first election since the war on Gaza began.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/3/can-netanyahu-survive-israels-most-consequential-election?traffic_source=rss",
+      "published": "2026-08-03T18:16:00+00:00",
       "featured": false
     },
     {
-      "id": "8a432546c9a3",
+      "id": "5cdd9e0f3d37",
+      "source": "OCCRP",
+      "headline": "Six Indicted in Czech $20M VAT Fraud Case",
+      "excerpt": "",
+      "link": "https://www.occrp.org/en/news/six-indicted-in-czech-20m-vat-fraud-case",
+      "published": "2026-08-03T11:18:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "3e61bb2bfee3",
       "source": "The Lever",
-      "headline": "Abdul El-Sayed On Fetterman: \"He's Also Just An Asshole\"",
-      "excerpt": "The U.S. Senate candidate weighs in on Democrats’ biggest liabilities, MAGA’s performative masculinity, and why AIPAC is out to get him.",
-      "link": "https://www.levernews.com/abdul-el-sayed-on-fetterman-hes-also-just-an-asshole/",
-      "published": "2026-08-01T16:07:19+00:00",
+      "headline": "Lever Weekly: Location, Location, Deportation",
+      "excerpt": "Shady ICE developers, a health care war in Michigan, and more from The Lever this week.",
+      "link": "https://www.levernews.com/lever-weekly-location-location-deportation/",
+      "published": "2026-08-02T13:01:41+00:00",
       "featured": false
     },
     {
@@ -245,21 +254,21 @@
       "featured": false
     },
     {
-      "id": "9b657b6bfabe",
+      "id": "73c01c356de8",
       "source": "404 Media",
-      "headline": "Behind the Blog: Silent Retreat",
-      "excerpt": "This week, we discuss going into the woods, a \"he admit it\" moment, and a tofu sandwich.",
-      "link": "https://www.404media.co/behind-the-blog-silent-retreat/",
-      "published": "2026-07-31T16:24:50+00:00",
+      "headline": "We Need to Quarantine Aliens on the Moon, Scientists Propose",
+      "excerpt": "Researchers argue that a lunar biocontainment facility for extraterrestrial samples could prevent “the potential ecological devastation of an invasive extraterrestrial organism.”",
+      "link": "https://www.404media.co/we-need-to-quarantine-aliens-on-the-moon-scientists-propose/",
+      "published": "2026-08-01T10:00:47+00:00",
       "featured": false
     },
     {
-      "id": "6880adc40ec6",
-      "source": "OCCRP",
-      "headline": "Slim Shady: Smugglers Eye Big Profits Running Weight Loss Drugs into Brazil",
-      "excerpt": "The weight loss drug tirzepatide has become a major black market commodity on the border between Paraguay and Brazil, fueling a rise in armed robberies and smuggling by criminal groups.",
-      "link": "https://www.occrp.org/en/feature/slim-shady-smugglers-eye-big-profits-running-weight-loss-drugs-into-brazil",
-      "published": "2026-07-31T14:50:00+00:00",
+      "id": "79bcaa33cb66",
+      "source": "Dropsite News",
+      "headline": "Gaza deal remains conditional on Israel; Earthquake-level explosions in Lebanon; 60,000 migrants cross from Morocco into Spanish territory",
+      "excerpt": "Drop Site Daily: July 31, 2026",
+      "link": "https://www.dropsitenews.com/p/gaza-deal-hamas-israel-lebanon-explosions-morocco-spain-migrants",
+      "published": "2026-07-31T15:41:50+00:00",
       "featured": false
     },
     {
@@ -269,15 +278,6 @@
       "excerpt": "The post For the Second Time, Lawmakers Failed to Fix California’s Warning System for Teacher Misconduct appeared first on ProPublica.",
       "link": "https://www.propublica.org/article/california-teacher-misconduct-database-bill-failed-al-muratsuchi",
       "published": "2026-07-31T11:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "3e5d236d14de",
-      "source": "Dropsite News",
-      "headline": "Trump and NYT Say There’s a Russian Spy Base in Cuba. Turns Out, It’s a School.",
-      "excerpt": "Belly of the Beast found no evidence of an active Russian intelligence base, much less the sort of extensive equipment described by the NYT.",
-      "link": "https://www.dropsitenews.com/p/trump-nyt-cuba-russian-spy-base-lourdes",
-      "published": "2026-07-30T19:22:01+00:00",
       "featured": false
     },
     {
@@ -317,21 +317,30 @@
       "featured": false
     },
     {
-      "id": "f59641cc4359",
+      "id": "fcb8d33ce7ff",
       "source": "Al Jazeera",
-      "headline": "More than 10 killed as Russia and Ukraine trade heavy attacks",
-      "excerpt": "Exchange of fire intensifies as the war, now in its fifth year, shows no signs of slowing down.",
-      "link": "https://www.aljazeera.com/news/2026/8/3/more-than-10-killed-as-russia-and-ukraine-trade-heavy-attacks?traffic_source=rss",
-      "published": "2026-08-03T14:23:07+00:00",
+      "headline": "Israel top court hears challenge to UNRWA ban",
+      "excerpt": "Israel's highest court heard a constitutional challenge to legislation banning UNRWA's operations in Israel.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/3/israel-top-court-hears-challenge-to-unrwa-ban?traffic_source=rss",
+      "published": "2026-08-03T18:13:43+00:00",
       "featured": false
     },
     {
-      "id": "eada0aabbaac",
+      "id": "3c912fe4781e",
+      "source": "OCCRP",
+      "headline": "The Rise and Fall of Kyrgyzstan’s Seemingly Untouchable Security Chief",
+      "excerpt": "For years, Kamchybek Tashiev was considered the co-ruler of Kyrgyzstan, transforming the country’s security agency into a shadowy empire with its own kindergartens, billions in seized assets, and a stifling grip on...",
+      "link": "https://www.occrp.org/en/feature/the-rise-and-fall-of-kyrgyzstans-seemingly-untouchable-security-chief",
+      "published": "2026-08-03T11:00:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "8a432546c9a3",
       "source": "The Lever",
-      "headline": "You Love To See It: Voting Unleashed",
-      "excerpt": "Elections run free, problem gamblers get help, the courts take care of careworkers, and dark money gets exposed.",
-      "link": "https://www.levernews.com/you-love-to-see-it-voting-unleashed/",
-      "published": "2026-08-01T13:04:35+00:00",
+      "headline": "Abdul El-Sayed On Fetterman: \"He's Also Just An Asshole\"",
+      "excerpt": "The U.S. Senate candidate weighs in on Democrats’ biggest liabilities, MAGA’s performative masculinity, and why AIPAC is out to get him.",
+      "link": "https://www.levernews.com/abdul-el-sayed-on-fetterman-hes-also-just-an-asshole/",
+      "published": "2026-08-01T16:07:19+00:00",
       "featured": false
     },
     {
@@ -344,21 +353,12 @@
       "featured": false
     },
     {
-      "id": "6c10c5e15f50",
+      "id": "9b657b6bfabe",
       "source": "404 Media",
-      "headline": "Google Earth’s New AI Lets Anyone Fabricate Completely Bullshit Satellite Images",
-      "excerpt": "\"Tonight I typed just one sentence into Google Earth and put refugees near the Mexican border. Then I planted a nuclear plant in Iran. Then I put a fatal crash on a street in Amsterdam.\"",
-      "link": "https://www.404media.co/google-earths-new-ai-lets-anyone-fabricate-completely-bullshit-satellite-images/",
-      "published": "2026-07-31T16:03:08+00:00",
-      "featured": false
-    },
-    {
-      "id": "471f11497193",
-      "source": "OCCRP",
-      "headline": "From Tehran to Texas: How a Convicted Iranian Pyramid Scheme Ringleader Built a New Life in the U.S.",
-      "excerpt": "Mazyar Mahan, convicted in absentia in Iran in connection with a $25 million pyramid scheme that defrauded hundreds of people, obtained U.S. citizenship and went on to teach film at a Texas university.",
-      "link": "https://www.occrp.org/en/investigation/from-tehran-to-texas-how-a-convicted-iranian-pyramid-scheme-ringleader-built-a-new-life-in-the-us",
-      "published": "2026-07-31T10:00:00+00:00",
+      "headline": "Behind the Blog: Silent Retreat",
+      "excerpt": "This week, we discuss going into the woods, a \"he admit it\" moment, and a tofu sandwich.",
+      "link": "https://www.404media.co/behind-the-blog-silent-retreat/",
+      "published": "2026-07-31T16:24:50+00:00",
       "featured": false
     },
     {
@@ -371,12 +371,12 @@
       "featured": false
     },
     {
-      "id": "6e966d1a116c",
+      "id": "3e5d236d14de",
       "source": "Dropsite News",
-      "headline": "Data Centers Divide Democrats in Michigan Primary",
-      "excerpt": "Senate candidates offer conflicting visions over the role of A.I. and corporate power.",
-      "link": "https://www.dropsitenews.com/p/data-centers-michigan-democrats-primary-el-sayed-stevens",
-      "published": "2026-07-29T17:51:03+00:00",
+      "headline": "Trump and NYT Say There’s a Russian Spy Base in Cuba. Turns Out, It’s a School.",
+      "excerpt": "Belly of the Beast found no evidence of an active Russian intelligence base, much less the sort of extensive equipment described by the NYT.",
+      "link": "https://www.dropsitenews.com/p/trump-nyt-cuba-russian-spy-base-lourdes",
+      "published": "2026-07-30T19:22:01+00:00",
       "featured": false
     },
     {
@@ -407,30 +407,39 @@
       "featured": false
     },
     {
-      "id": "ad3ce41645e4",
+      "id": "5a4f25d19757",
       "source": "Al Jazeera",
-      "headline": "FIFA’s Infantino sought Trump backing after World Cup selloff plan: Report",
-      "excerpt": "FIFA boss Gianni Infantino turned to Donald Trump to save his job amid revolt against World Cup privatisation plan.",
-      "link": "https://www.aljazeera.com/sports/2026/8/3/fifas-infantino-sought-trump-backing-after-failed-world-cup-stakes-sell-off-plan?traffic_source=rss",
-      "published": "2026-08-03T14:18:48+00:00",
+      "headline": "Drone slams into Russian beach, killing at least 7 people",
+      "excerpt": "Video shows the moment a drone struck a crowded beach near the Russian Black Sea resort of Gelendzhik.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/3/drone-slams-into-russian-beach-killing-at-least-7-people?traffic_source=rss",
+      "published": "2026-08-03T18:05:23+00:00",
       "featured": false
     },
     {
-      "id": "03450ef99bd6",
+      "id": "961cf1ec386f",
+      "source": "OCCRP",
+      "headline": "In Malta Courtroom, Murdered Journalist's Son Describes Last Day With His Mother",
+      "excerpt": "Matthew Caruana Galizia has testified about the assassination of his mother, a journalist who spent years investigating government corruption in Malta. Businessman Yorgen Fenech is alleged to have ordered the 2017...",
+      "link": "https://www.occrp.org/en/news/in-malta-courtroom-murdered-journalists-son-describes-last-day-with-his-mother",
+      "published": "2026-08-03T09:24:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "eada0aabbaac",
       "source": "The Lever",
-      "headline": "The Return Of The Kingmakers",
-      "excerpt": "Dick Cheney. Barack Obama. Donald Trump. The story of the all-powerful presidency continues this August.",
-      "link": "https://www.levernews.com/the-return-of-the-kingmakers-post/",
-      "published": "2026-07-31T19:18:15+00:00",
+      "headline": "You Love To See It: Voting Unleashed",
+      "excerpt": "Elections run free, problem gamblers get help, the courts take care of careworkers, and dark money gets exposed.",
+      "link": "https://www.levernews.com/you-love-to-see-it-voting-unleashed/",
+      "published": "2026-08-01T13:04:35+00:00",
       "featured": false
     },
     {
-      "id": "be779bdb0bfb",
+      "id": "6c10c5e15f50",
       "source": "404 Media",
-      "headline": "YouTube Bans Popular ASMR Artists, Accusing Them of Making 'Sexually Gratifying' Content",
-      "excerpt": "YouTube told ASMR artists including Bunnii, Slight Sounds, Rose, and others that their content broke the platform's sex and nudity policy. Creators say these bans are unfair and potentially life-altering.",
-      "link": "https://www.404media.co/youtube-asmr-ban-sex-and-nudity-policy/",
-      "published": "2026-07-31T14:25:01+00:00",
+      "headline": "Google Earth’s New AI Lets Anyone Fabricate Completely Bullshit Satellite Images",
+      "excerpt": "\"Tonight I typed just one sentence into Google Earth and put refugees near the Mexican border. Then I planted a nuclear plant in Iran. Then I put a fatal crash on a street in Amsterdam.\"",
+      "link": "https://www.404media.co/google-earths-new-ai-lets-anyone-fabricate-completely-bullshit-satellite-images/",
+      "published": "2026-07-31T16:03:08+00:00",
       "featured": false
     },
     {
@@ -443,15 +452,6 @@
       "featured": false
     },
     {
-      "id": "8b5852ff669e",
-      "source": "OCCRP",
-      "headline": "Ex-Chief of Staff for Malta’s Former Prime Minister Testifies Against Childhood Friend Accused of Ordering Journalist’s Murder",
-      "excerpt": "Keith Schembri served as chief of staff to Malta’s prime minister at the time investigative journalist Daphne Caruana Galizia was assassinated. He testified this week that the killing was commissioned by businessman...",
-      "link": "https://www.occrp.org/en/news/ex-chief-of-staff-for-maltas-former-prime-minister-testifies-against-childhood-friend-accused-of-ordering-journalists-murder",
-      "published": "2026-07-31T08:10:00+00:00",
-      "featured": false
-    },
-    {
       "id": "52ca1781b925",
       "source": "ProPublica",
       "headline": "Andy Beshear Set Out to Make Drug Treatment Widely Available in Kentucky. Fraud and Abuse Followed.",
@@ -461,12 +461,12 @@
       "featured": false
     },
     {
-      "id": "e0c45b0574ae",
+      "id": "6e966d1a116c",
       "source": "Dropsite News",
-      "headline": "U.S.-Saudi strikes kill 20 Iraqi fighters; Israeli settler attacks in West Bank “hitting an all-time high”; Cholera outbreak in Sudan",
-      "excerpt": "Drop Site Daily: July 29, 2026",
-      "link": "https://www.dropsitenews.com/p/us-saudi-strikes-iraq-israel-west-bank-settler-attacks-sudan-cholera",
-      "published": "2026-07-29T16:00:11+00:00",
+      "headline": "Data Centers Divide Democrats in Michigan Primary",
+      "excerpt": "Senate candidates offer conflicting visions over the role of A.I. and corporate power.",
+      "link": "https://www.dropsitenews.com/p/data-centers-michigan-democrats-primary-el-sayed-stevens",
+      "published": "2026-07-29T17:51:03+00:00",
       "featured": false
     },
     {
@@ -497,30 +497,39 @@
       "featured": false
     },
     {
-      "id": "09412aee5cb4",
+      "id": "d0639c0a3c78",
       "source": "Al Jazeera",
-      "headline": "Hilltop Youth: A group intent on taking over the West Bank by violence",
-      "excerpt": "The Hilltop Youth is a radical religious Zionist group devoted to seizing Palestinian land in the occupied West Bank.",
-      "link": "https://www.aljazeera.com/news/2026/8/3/hilltop-youth-a-group-intent-on-taking-over-the-west-bank-by-violence?traffic_source=rss",
-      "published": "2026-08-03T14:15:43+00:00",
+      "headline": "Republicans say they will back Blanche after US Justice Department order",
+      "excerpt": "Two Republican senators say they will end their opposition after order cancelling controversial $1.8bn fund.",
+      "link": "https://www.aljazeera.com/news/2026/8/3/republicans-say-they-will-back-blanche-after-us-justice-department-order?traffic_source=rss",
+      "published": "2026-08-03T17:39:38+00:00",
       "featured": false
     },
     {
-      "id": "38c734b57295",
+      "id": "03450ef99bd6",
       "source": "The Lever",
-      "headline": "Trump’s Homeland Security Chief Turned Conflicts Of Interest Into Tax Breaks",
-      "excerpt": "Markwayne Mullin sold millions in stocks to resolve potential conflicts with the agency he now leads — and received a special tax benefit on the proceeds.",
-      "link": "https://www.levernews.com/trumps-homeland-security-chief-turned-conflicts-of-interest-into-tax-breaks/",
-      "published": "2026-07-31T18:23:24+00:00",
+      "headline": "The Return Of The Kingmakers",
+      "excerpt": "Dick Cheney. Barack Obama. Donald Trump. The story of the all-powerful presidency continues this August.",
+      "link": "https://www.levernews.com/the-return-of-the-kingmakers-post/",
+      "published": "2026-07-31T19:18:15+00:00",
       "featured": false
     },
     {
-      "id": "588b1872b527",
+      "id": "6880adc40ec6",
+      "source": "OCCRP",
+      "headline": "Slim Shady: Smugglers Eye Big Profits Running Weight Loss Drugs into Brazil",
+      "excerpt": "The weight loss drug tirzepatide has become a major black market commodity on the border between Paraguay and Brazil, fueling a rise in armed robberies and smuggling by criminal groups.",
+      "link": "https://www.occrp.org/en/feature/slim-shady-smugglers-eye-big-profits-running-weight-loss-drugs-into-brazil",
+      "published": "2026-07-31T14:50:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "be779bdb0bfb",
       "source": "404 Media",
-      "headline": "Company Offering Printed Books to Train AI Stops After 404 Media Coverage",
-      "excerpt": "Citing backlash, ISBNdb removed its webpages about training AI, denied ever buying, scanning, or selling a book for AI training, and said the site was a \"test of market interest.\"",
-      "link": "https://www.404media.co/ai-company-training-scanning-books-database-isbndb/",
-      "published": "2026-07-31T14:04:26+00:00",
+      "headline": "YouTube Bans Popular ASMR Artists, Accusing Them of Making 'Sexually Gratifying' Content",
+      "excerpt": "YouTube told ASMR artists including Bunnii, Slight Sounds, Rose, and others that their content broke the platform's sex and nudity policy. Creators say these bans are unfair and potentially life-altering.",
+      "link": "https://www.404media.co/youtube-asmr-ban-sex-and-nudity-policy/",
+      "published": "2026-07-31T14:25:01+00:00",
       "featured": false
     },
     {
@@ -530,15 +539,6 @@
       "excerpt": "Trump officials are focused on immigrants, but the Department of Health and Human Services report on fraud doesn’t even mention them. The post Corporations, Not Immigrants, Are Responsible for Vast Majority of...",
       "link": "https://theintercept.com/2026/07/31/immigrants-healthcare-medicare-fraud-scam/",
       "published": "2026-07-31T08:54:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "f39155b42f2e",
-      "source": "OCCRP",
-      "headline": "Lithuania Reviews Belarusian Businessman After Report",
-      "excerpt": "Following an investigation by OCCRP and Buro into apps secretly sending data to Russia and Belarus, Lithuania is weighing the legal status of the Belarusian businessman behind them.",
-      "link": "https://www.occrp.org/en/news/lithuania-reviews-belarusian-businessman-after-report",
-      "published": "2026-07-30T16:05:00+00:00",
       "featured": false
     }
   ]
