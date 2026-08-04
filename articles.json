@@ -1,14 +1,41 @@
 {
-  "generated_at": "2026-08-04T09:08:35.155441+00:00",
+  "generated_at": "2026-08-04T11:34:07.992882+00:00",
   "articles": [
     {
-      "id": "03c79f66f1d3",
+      "id": "bcc3057e01db",
       "source": "Al Jazeera",
-      "headline": "US arrests suspect over Spokane wildfire as tens of thousands flee blaze",
-      "excerpt": "Authorities say about 65,000 people have been displaced by the fires in Washington state.",
-      "link": "https://www.aljazeera.com/news/2026/8/4/us-arrests-suspect-over-spokane-wildfire-as-tens-of-thousands-flee-blaze?traffic_source=rss",
-      "published": "2026-08-04T08:32:49+00:00",
+      "headline": "Why Israel’s economy hasn’t collapsed during a multi-front war",
+      "excerpt": "How has Israel’s economy defied the effects of war?",
+      "link": "https://www.aljazeera.com/video/money-works/2026/8/4/why-israels-economy-hasnt-collapsed-during-a-multi-front-war?traffic_source=rss",
+      "published": "2026-08-04T11:21:01+00:00",
       "featured": true
+    },
+    {
+      "id": "94e0bd6dbb18",
+      "source": "ProPublica",
+      "headline": "Greg Abbott Blasted Corpus Christi for Its Water Crisis. A River Authority He Has Power Over Is Falling Apart.",
+      "excerpt": "The post Greg Abbott Blasted Corpus Christi for Its Water Crisis. A River Authority He Has Power Over Is Falling Apart. appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/greg-abbott-nueces-river-authority",
+      "published": "2026-08-04T10:00:00+00:00",
+      "featured": true
+    },
+    {
+      "id": "12db91c03990",
+      "source": "Rest of World",
+      "headline": "The global grassroots gatherings trying to humanize the AI boom",
+      "excerpt": "Local tech groups in Kenya, India, and the U.S. are building communities and conversations around AI, but also face questions about privilege and reach.",
+      "link": "https://restofworld.org/2026/global-ai-salons-grassroots-silicon-valley/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "published": "2026-08-04T10:00:00+00:00",
+      "featured": true
+    },
+    {
+      "id": "3a82e01ac4b4",
+      "source": "The Intercept",
+      "headline": "The Pentagon Found a New Way to Undercount U.S. Casualties in Iran",
+      "excerpt": "U.S. troops killed or wounded since July 7 are now counted separately from casualties during the first months of the Iran war. The post The Pentagon Found a New Way to Undercount U.S. Casualties in Iran appeared first...",
+      "link": "https://theintercept.com/2026/08/04/us-military-casualties-count-iran-war/",
+      "published": "2026-08-04T09:54:00+00:00",
+      "featured": false
     },
     {
       "id": "1029e12d37e4",
@@ -17,16 +44,7 @@
       "excerpt": "The president who promised restraint quietly unleashes a new weapon of executive power.",
       "link": "https://www.levernews.com/the-kingmakers-ep-6-obamas-kill-list/",
       "published": "2026-08-04T08:30:07+00:00",
-      "featured": true
-    },
-    {
-      "id": "fdeccd1e4ebc",
-      "source": "The Intercept",
-      "headline": "Liberals Are Ceding Ground to the Far Right on Ceuta Border Crossings",
-      "excerpt": "From the New York Times to the EU, liberals defending Spain from far-right fearmongering are regurgitating the right’s anti-immigrant premise. The post Liberals Are Ceding Ground to the Far Right on Ceuta Border...",
-      "link": "https://theintercept.com/2026/08/03/ceuta-spain-morocco-refugee-border/",
-      "published": "2026-08-03T21:04:37+00:00",
-      "featured": true
+      "featured": false
     },
     {
       "id": "e7f9d1fa3217",
@@ -53,24 +71,6 @@
       "excerpt": "\"This document shows a coordinated effort from Flock Safety to compel law enforcement agencies to convince our elected leaders to represent their interests as a company rather than the interests of concerned citizens.\"",
       "link": "https://www.404media.co/own-the-narrative-leaked-flock-guide-shows-how-it-teaches-cops-to-promote-its-tech/",
       "published": "2026-08-03T17:13:24+00:00",
-      "featured": false
-    },
-    {
-      "id": "e141867b9bfc",
-      "source": "ProPublica",
-      "headline": "FCC Commissioners Face Ethics Complaints for Taking Luxury Gifts From Paramount",
-      "excerpt": "The post FCC Commissioners Face Ethics Complaints for Taking Luxury Gifts From Paramount appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/fcc-paramount-gifts-brendan-carr-ethics-complaint-warner-bros-merger",
-      "published": "2026-08-03T10:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "86b7056df1de",
-      "source": "Rest of World",
-      "headline": "Why Silicon Valley is divided over China’s powerful, cheap AI models",
-      "excerpt": "Low-cost Chinese open-weight models are splitting tech executives and Washington over national security and competitiveness.",
-      "link": "https://restofworld.org/2026/silicon-valley-debate-chinese-open-weight-ai-models/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-      "published": "2026-08-03T10:00:00+00:00",
       "featured": false
     },
     {
@@ -110,6 +110,24 @@
       "featured": false
     },
     {
+      "id": "e09af916e507",
+      "source": "Al Jazeera",
+      "headline": "Misread as passive, the Gulf is quietly ending fifty years of dependence",
+      "excerpt": "Iran’s attacks exposed the limits of external guarantees and the need for a Gulf-built security architecture.",
+      "link": "https://www.aljazeera.com/opinions/2026/8/4/the-gulf-can-no-longer-outsource-its-security?traffic_source=rss",
+      "published": "2026-08-04T11:05:58+00:00",
+      "featured": false
+    },
+    {
+      "id": "3a13a8c71d26",
+      "source": "ProPublica",
+      "headline": "The EPA Doesn’t Typically Retest Homes in the Country’s Largest Residential Lead Superfund Site. So We Did.",
+      "excerpt": "The post The EPA Doesn’t Typically Retest Homes in the Country’s Largest Residential Lead Superfund Site. So We Did. appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/omaha-nebraska-lead-testing-superfund-methodology",
+      "published": "2026-08-04T09:05:00+00:00",
+      "featured": false
+    },
+    {
       "id": "2d9433511fc3",
       "source": "The Lever",
       "headline": "THE KINGMAKERS, Ep. 5: State Of Emergency",
@@ -119,12 +137,12 @@
       "featured": false
     },
     {
-      "id": "05897396c0fb",
-      "source": "Al Jazeera",
-      "headline": "Nascimento: UFC fighter dead at 34 after apparent heart attack",
-      "excerpt": "The Brazilian fighter died in his sleep after a suspected heart attack, the UFC said.",
-      "link": "https://www.aljazeera.com/sports/2026/8/4/ufcs-allan-nascimento-dead-aged-34-after-apparent-heart-attack?traffic_source=rss",
-      "published": "2026-08-04T07:19:29+00:00",
+      "id": "fdeccd1e4ebc",
+      "source": "The Intercept",
+      "headline": "Liberals Are Ceding Ground to the Far Right on Ceuta Border Crossings",
+      "excerpt": "From the New York Times to the EU, liberals defending Spain from far-right fearmongering are regurgitating the right’s anti-immigrant premise. The post Liberals Are Ceding Ground to the Far Right on Ceuta Border...",
+      "link": "https://theintercept.com/2026/08/03/ceuta-spain-morocco-refugee-border/",
+      "published": "2026-08-03T21:04:37+00:00",
       "featured": false
     },
     {
@@ -155,30 +173,12 @@
       "featured": false
     },
     {
-      "id": "f6d9febadb2d",
-      "source": "The Intercept",
-      "headline": "NYPD Used High-Tech Surveillance to Find Gaza Paint Splatter Protester, Docs Show",
-      "excerpt": "Throwing paint on a statue at Columbia seems like a minor crime, but cops use tremendous resources when pro-Palestine protesters are in the crosshairs. The post NYPD Used High-Tech Surveillance to Find Gaza Paint...",
-      "link": "https://theintercept.com/2026/08/03/nypd-surveillance-gaza-protest-columbia/",
-      "published": "2026-08-03T13:59:46+00:00",
-      "featured": false
-    },
-    {
-      "id": "7a89736dd6b9",
-      "source": "ProPublica",
-      "headline": "Solar Developer Cancels Washington State Project on Sacred Indigenous Land",
-      "excerpt": "The post Solar Developer Cancels Washington State Project on Sacred Indigenous Land appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/washington-badger-mountain-solar-project-canceled-avangrid",
-      "published": "2026-08-03T09:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "3315d16a703c",
+      "id": "86b7056df1de",
       "source": "Rest of World",
-      "headline": "Can we train AI to choose safety over speed?",
-      "excerpt": "Delivery personnel from Swiggy navigate a flooded street amid heavy rainfall in Mumbai, India, on July 4, 2026.",
-      "link": "https://restofworld.org/2026/india-ai-extreme-weather/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-      "published": "2026-07-31T13:00:00+00:00",
+      "headline": "Why Silicon Valley is divided over China’s powerful, cheap AI models",
+      "excerpt": "Low-cost Chinese open-weight models are splitting tech executives and Washington over national security and competitiveness.",
+      "link": "https://restofworld.org/2026/silicon-valley-debate-chinese-open-weight-ai-models/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "published": "2026-08-03T10:00:00+00:00",
       "featured": false
     },
     {
@@ -218,12 +218,21 @@
       "featured": false
     },
     {
-      "id": "d78dac82f209",
+      "id": "a460c27ec97b",
       "source": "Al Jazeera",
-      "headline": "Palestine weekly: Israel kills dozens in Gaza after Hamas disarmament deal",
-      "excerpt": "Israeli strikes on Gaza only intensified in the days following a US-brokered agreement billed as a 'breakthrough'.",
-      "link": "https://www.aljazeera.com/news/2026/8/4/palestine-weekly-israel-kills-dozens-in-gaza-after-hamas-disarmament-deal?traffic_source=rss",
-      "published": "2026-08-04T06:00:10+00:00",
+      "headline": "Who is behind settler violence in the occupied West Bank?",
+      "excerpt": "A look at the main settler groups driving the escalation against Palestinians in the West Bank.",
+      "link": "https://www.aljazeera.com/news/2026/8/4/who-is-behind-settler-violence-in-the-occupied-west-bank?traffic_source=rss",
+      "published": "2026-08-04T11:04:03+00:00",
+      "featured": false
+    },
+    {
+      "id": "c1417562e42f",
+      "source": "ProPublica",
+      "headline": "The EPA Heralds Its Omaha Cleanup as a Success. But We Found Many Yards Still Have Toxic Levels of Lead.",
+      "excerpt": "The post The EPA Heralds Its Omaha Cleanup as a Success. But We Found Many Yards Still Have Toxic Levels of Lead. appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/lead-contamination-epa-superfund-omaha-nebraska-analysis",
+      "published": "2026-08-04T09:00:00+00:00",
       "featured": false
     },
     {
@@ -233,6 +242,15 @@
       "excerpt": "The fight between Abdul El-Sayed and Haley Stevens is about far more than one Senate seat. It's a battle over who controls the Democratic Party—and whose interests it serves.",
       "link": "https://www.levernews.com/what-you-need-to-know-about-the-democratic-reckoning-in-michigan/",
       "published": "2026-08-03T22:34:51+00:00",
+      "featured": false
+    },
+    {
+      "id": "f6d9febadb2d",
+      "source": "The Intercept",
+      "headline": "NYPD Used High-Tech Surveillance to Find Gaza Paint Splatter Protester, Docs Show",
+      "excerpt": "Throwing paint on a statue at Columbia seems like a minor crime, but cops use tremendous resources when pro-Palestine protesters are in the crosshairs. The post NYPD Used High-Tech Surveillance to Find Gaza Paint...",
+      "link": "https://theintercept.com/2026/08/03/nypd-surveillance-gaza-protest-columbia/",
+      "published": "2026-08-03T13:59:46+00:00",
       "featured": false
     },
     {
@@ -254,15 +272,6 @@
       "featured": false
     },
     {
-      "id": "db353bb42182",
-      "source": "The Intercept",
-      "headline": "Nach Abschiebung wegen Anti-Israel-Parole: Bob-Vylan-Frontmann wehrt sich erfolgreich gegen Einreiseverbot",
-      "excerpt": "Deutsche Behörden warnten, die Einreise des pro-palästinensischen Musikers könne zur „Radikalisierung einzelner Bevölkerungsgruppen“ beitragen. Er legte Widerspruch ein. The post Nach Abschiebung wegen...",
-      "link": "https://theintercept.com/2026/08/01/bob-vylan-abschiebung-deutsches-israel/",
-      "published": "2026-08-01T16:07:25+00:00",
-      "featured": false
-    },
-    {
       "id": "73c01c356de8",
       "source": "404 Media",
       "headline": "We Need to Quarantine Aliens on the Moon, Scientists Propose",
@@ -272,21 +281,12 @@
       "featured": false
     },
     {
-      "id": "2a8770a43dcd",
-      "source": "ProPublica",
-      "headline": "For the Second Time, Lawmakers Failed to Fix California’s Warning System for Teacher Misconduct",
-      "excerpt": "The post For the Second Time, Lawmakers Failed to Fix California’s Warning System for Teacher Misconduct appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/california-teacher-misconduct-database-bill-failed-al-muratsuchi",
-      "published": "2026-07-31T11:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "6b9dad7182f2",
+      "id": "3315d16a703c",
       "source": "Rest of World",
-      "headline": "With Moonshot’s free Kimi K3, China changes the sovereign AI playbook",
-      "excerpt": "Governments can now deploy top-tier AI locally, bypassing costly U.S. cloud rentals.",
-      "link": "https://restofworld.org/2026/china-moonshot-kimi-k3-free-sovereign-ai/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-      "published": "2026-07-30T10:00:00+00:00",
+      "headline": "Can we train AI to choose safety over speed?",
+      "excerpt": "Delivery personnel from Swiggy navigate a flooded street amid heavy rainfall in Mumbai, India, on July 4, 2026.",
+      "link": "https://restofworld.org/2026/india-ai-extreme-weather/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "published": "2026-07-31T13:00:00+00:00",
       "featured": false
     },
     {
@@ -317,12 +317,12 @@
       "featured": false
     },
     {
-      "id": "cb1ffa3a1069",
+      "id": "84d8bdbe02c8",
       "source": "Al Jazeera",
-      "headline": "Why are the Washington wildfires so severe? Spokane fires explained",
-      "excerpt": "Why Spokane's wildfires spread so fast, what caused them and why Washington is facing a major fire crisis.",
-      "link": "https://www.aljazeera.com/news/2026/8/4/why-are-the-washington-wildfires-so-severe-spokane-fires-explained?traffic_source=rss",
-      "published": "2026-08-04T05:03:44+00:00",
+      "headline": "‘One last chance’: The times Trump threatened Iran, said deal imminent",
+      "excerpt": "US president has claimed Iran 'desperate' to do a deal or given Tehran 'last chance' on multiple occasions.",
+      "link": "https://www.aljazeera.com/features/2026/8/4/one-last-chance-the-times-trump-threatened-iran-said-deal-imminent?traffic_source=rss",
+      "published": "2026-08-04T10:53:33+00:00",
       "featured": false
     },
     {
@@ -344,12 +344,21 @@
       "featured": false
     },
     {
-      "id": "b5ba5a03bdf1",
+      "id": "e141867b9bfc",
+      "source": "ProPublica",
+      "headline": "FCC Commissioners Face Ethics Complaints for Taking Luxury Gifts From Paramount",
+      "excerpt": "The post FCC Commissioners Face Ethics Complaints for Taking Luxury Gifts From Paramount appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/fcc-paramount-gifts-brendan-carr-ethics-complaint-warner-bros-merger",
+      "published": "2026-08-03T10:00:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "db353bb42182",
       "source": "The Intercept",
-      "headline": "Cori Bush Has No Regrets",
-      "excerpt": "Rep. Wesley Bell has AIPAC on his side, but the grassroots energy seems to be behind Bush. The post Cori Bush Has No Regrets appeared first on The Intercept.",
-      "link": "https://theintercept.com/2026/08/01/missouri-cori-bush-wesley-bell-primary-aipac/",
-      "published": "2026-08-01T13:06:00+00:00",
+      "headline": "Nach Abschiebung wegen Anti-Israel-Parole: Bob-Vylan-Frontmann wehrt sich erfolgreich gegen Einreiseverbot",
+      "excerpt": "Deutsche Behörden warnten, die Einreise des pro-palästinensischen Musikers könne zur „Radikalisierung einzelner Bevölkerungsgruppen“ beitragen. Er legte Widerspruch ein. The post Nach Abschiebung wegen...",
+      "link": "https://theintercept.com/2026/08/01/bob-vylan-abschiebung-deutsches-israel/",
+      "published": "2026-08-01T16:07:25+00:00",
       "featured": false
     },
     {
@@ -371,21 +380,12 @@
       "featured": false
     },
     {
-      "id": "95affc61e649",
-      "source": "ProPublica",
-      "headline": "As Trump’s Tariff War With Canada Drags On, This Border Community Suffers Without a Voice",
-      "excerpt": "The post As Trump’s Tariff War With Canada Drags On, This Border Community Suffers Without a Voice appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/trump-canada-tariffs-michigan-sault-ste-marie",
-      "published": "2026-07-31T09:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "0cc45cefbd0b",
+      "id": "6b9dad7182f2",
       "source": "Rest of World",
-      "headline": "Anxious Chinese students are trusting AI to help pick colleges and majors",
-      "excerpt": "Students leave the gaokao exam in Nanjing in June under a banner that reads “Win top marks.”",
-      "link": "https://restofworld.org/2026/china-ai-bot-college-advice/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-      "published": "2026-07-29T10:00:00+00:00",
+      "headline": "With Moonshot’s free Kimi K3, China changes the sovereign AI playbook",
+      "excerpt": "Governments can now deploy top-tier AI locally, bypassing costly U.S. cloud rentals.",
+      "link": "https://restofworld.org/2026/china-moonshot-kimi-k3-free-sovereign-ai/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "published": "2026-07-30T10:00:00+00:00",
       "featured": false
     },
     {
@@ -407,12 +407,12 @@
       "featured": false
     },
     {
-      "id": "fb4d7f1778e1",
+      "id": "fd0aa66c8e22",
       "source": "Al Jazeera",
-      "headline": "Bodycam video shows firefighters battling blaze in Spokane, US",
-      "excerpt": "Bodycam footage from firefighters shows the speed needed to put out the blaze sweeping through the northwestern US.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/4/bodycam-video-shows-firefighters-battling-blaze-in-spokane-us?traffic_source=rss",
-      "published": "2026-08-04T04:22:28+00:00",
+      "headline": "Italy suspends free movement with Spain: Is Schengen in crisis after Ceuta?",
+      "excerpt": "Italy's move to halt border-free travel with Spain after the deadly crossing is political, not practical, analysts say.",
+      "link": "https://www.aljazeera.com/news/2026/8/4/italy-suspends-free-movement-with-spain-is-schengen-in-crisis-after-ceuta?traffic_source=rss",
+      "published": "2026-08-04T10:40:08+00:00",
       "featured": false
     },
     {
@@ -425,6 +425,15 @@
       "featured": false
     },
     {
+      "id": "7a89736dd6b9",
+      "source": "ProPublica",
+      "headline": "Solar Developer Cancels Washington State Project on Sacred Indigenous Land",
+      "excerpt": "The post Solar Developer Cancels Washington State Project on Sacred Indigenous Land appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/washington-badger-mountain-solar-project-canceled-avangrid",
+      "published": "2026-08-03T09:00:00+00:00",
+      "featured": false
+    },
+    {
       "id": "ae43e305b055",
       "source": "The Lever",
       "headline": "Haley Stevens’ New Campaign Ad Features Anti-LGBTQ Pastor",
@@ -434,12 +443,12 @@
       "featured": false
     },
     {
-      "id": "9ebfdc962a52",
+      "id": "b5ba5a03bdf1",
       "source": "The Intercept",
-      "headline": "Trump’s Truth Social API Is a Blatantly Corrupt Favor to Wall Street",
-      "excerpt": "By selling off early access to his posts at a premium, the president is merging a public good with his own profit motives. The post Trump’s Truth Social API Is a Blatantly Corrupt Favor to Wall Street appeared first on...",
-      "link": "https://theintercept.com/2026/08/01/truth-social-api-trump-wall-street/",
-      "published": "2026-08-01T10:00:00+00:00",
+      "headline": "Cori Bush Has No Regrets",
+      "excerpt": "Rep. Wesley Bell has AIPAC on his side, but the grassroots energy seems to be behind Bush. The post Cori Bush Has No Regrets appeared first on The Intercept.",
+      "link": "https://theintercept.com/2026/08/01/missouri-cori-bush-wesley-bell-primary-aipac/",
+      "published": "2026-08-01T13:06:00+00:00",
       "featured": false
     },
     {
@@ -461,21 +470,12 @@
       "featured": false
     },
     {
-      "id": "52ca1781b925",
-      "source": "ProPublica",
-      "headline": "Andy Beshear Set Out to Make Drug Treatment Widely Available in Kentucky. Fraud and Abuse Followed.",
-      "excerpt": "The post Andy Beshear Set Out to Make Drug Treatment Widely Available in Kentucky. Fraud and Abuse Followed. appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/andy-beshear-kentucky-opioid-drug-crisis-medicaid-spending-fraud",
-      "published": "2026-07-30T09:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "d4a1e6fedd41",
+      "id": "0cc45cefbd0b",
       "source": "Rest of World",
-      "headline": "Indian EV makers beat Tesla and BYD on energy efficiency",
-      "excerpt": "Tata Motors and Mahindra topped a global ranking of battery efficiency, showing India's strength in building frugal electric cars — even as they lag on charging speed and driving range.",
-      "link": "https://restofworld.org/2026/indian-evs-beat-tesla-byd-icct-efficiency-ranking/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-      "published": "2026-07-28T10:00:42+00:00",
+      "headline": "Anxious Chinese students are trusting AI to help pick colleges and majors",
+      "excerpt": "Students leave the gaokao exam in Nanjing in June under a banner that reads “Win top marks.”",
+      "link": "https://restofworld.org/2026/china-ai-bot-college-advice/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "published": "2026-07-29T10:00:00+00:00",
       "featured": false
     },
     {
@@ -497,12 +497,12 @@
       "featured": false
     },
     {
-      "id": "84d58cff4b29",
+      "id": "3315583ba5e0",
       "source": "Al Jazeera",
-      "headline": "Colombia’s Petro repeats vote fraud claims days before handing over power",
-      "excerpt": "Petro accuses programmers of altering vote counts and claims metadata tied to election results was hidden from review.",
-      "link": "https://www.aljazeera.com/news/2026/8/4/colombias-petro-repeats-vote-fraud-claims-days-before-handing-over-power?traffic_source=rss",
-      "published": "2026-08-04T03:58:09+00:00",
+      "headline": "Tech giant Palantir posts ‘otherworldly’ growth despite criticism over Gaza",
+      "excerpt": "Second-quarter revenue jumped 93 percent but Palantir's ties to Israel and role in military technology are controversial",
+      "link": "https://www.aljazeera.com/news/2026/8/4/tech-giant-palantir-posts-otherworldly-growth-despite-criticism-over-gaza?traffic_source=rss",
+      "published": "2026-08-04T10:11:06+00:00",
       "featured": false
     },
     {
@@ -512,6 +512,15 @@
       "excerpt": "Shady ICE developers, a health care war in Michigan, and more from The Lever this week.",
       "link": "https://www.levernews.com/lever-weekly-location-location-deportation/",
       "published": "2026-08-02T13:01:41+00:00",
+      "featured": false
+    },
+    {
+      "id": "9ebfdc962a52",
+      "source": "The Intercept",
+      "headline": "Trump’s Truth Social API Is a Blatantly Corrupt Favor to Wall Street",
+      "excerpt": "By selling off early access to his posts at a premium, the president is merging a public good with his own profit motives. The post Trump’s Truth Social API Is a Blatantly Corrupt Favor to Wall Street appeared first on...",
+      "link": "https://theintercept.com/2026/08/01/truth-social-api-trump-wall-street/",
+      "published": "2026-08-01T10:00:00+00:00",
       "featured": false
     },
     {
@@ -530,15 +539,6 @@
       "excerpt": "YouTube told ASMR artists including Bunnii, Slight Sounds, Rose, and others that their content broke the platform's sex and nudity policy. Creators say these bans are unfair and potentially life-altering.",
       "link": "https://www.404media.co/youtube-asmr-ban-sex-and-nudity-policy/",
       "published": "2026-07-31T14:25:01+00:00",
-      "featured": false
-    },
-    {
-      "id": "bfe9d1f93b01",
-      "source": "The Intercept",
-      "headline": "Abdul El-Sayed on The Intercept Briefing",
-      "excerpt": "The Michigan Senate primary is the next biggest test for the direction of the Democratic Party. The post Abdul El-Sayed on The Intercept Briefing appeared first on The Intercept.",
-      "link": "https://theintercept.com/2026/07/31/democrats-michigan-el-sayed-stevens-left-moderate/",
-      "published": "2026-07-31T10:00:00+00:00",
       "featured": false
     }
   ]
