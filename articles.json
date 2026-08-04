@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-08-04T19:57:04.734873+00:00",
+  "generated_at": "2026-08-04T22:29:43.499456+00:00",
   "articles": [
+    {
+      "id": "e7df95ba74ae",
+      "source": "Al Jazeera",
+      "headline": "Elon Musk’s SpaceX reports losses but less than expected",
+      "excerpt": "Revenue was up more than 90 percent from the same period a year ago, beating analyst expectations.",
+      "link": "https://www.aljazeera.com/economy/2026/8/4/elon-musks-spacex-reports-reports-losses-but-less-than-expected?traffic_source=rss",
+      "published": "2026-08-04T22:02:09+00:00",
+      "featured": true
+    },
+    {
+      "id": "4417a39832a0",
+      "source": "Dropsite News",
+      "headline": "\"For Your Eyes Only\": Israel’s Mole Inside the United Nations",
+      "excerpt": "Hacked emails show Yahav Lichner, a UN official, repeatedly supplied Israeli diplomats with confidential UN reports and private briefings. He now directs UNICEF’s Washington office.",
+      "link": "https://www.dropsitenews.com/p/for-your-eyes-only-israels-mole-inside",
+      "published": "2026-08-04T21:27:52+00:00",
+      "featured": true
+    },
+    {
+      "id": "45dbc49705d5",
+      "source": "The Lever",
+      "headline": "Democrats’ Corporate Corruption Divide",
+      "excerpt": "The party’s establishment and populist factions are fighting over whether the affordability crisis is connected to money in politics.",
+      "link": "https://www.levernews.com/democrats-corporate-corruption-divide/",
+      "published": "2026-08-04T19:57:04+00:00",
+      "featured": true
+    },
+    {
+      "id": "b3505f55c652",
+      "source": "ICIJ",
+      "headline": "Companies once tied to Assad kept winning UN contracts under Syria’s new rulers",
+      "excerpt": "An ICIJ analysis found that at least 11 firms received roughly $10 million in 2025 after opaque deals and seizures reshaped their ownership.",
+      "link": "https://www.icij.org/investigations/damascus-dossier/companies-once-tied-to-assad-kept-winning-un-contracts-under-syrias-new-rulers/",
+      "published": "2026-08-04T19:54:07+00:00",
+      "featured": false
+    },
     {
       "id": "6ff22826092c",
       "source": "The Intercept",
@@ -8,25 +44,7 @@
       "excerpt": "The latest CBS News hire shows that the way to get ahead in journalism is to act as a tool for the powerful. The post Bari Weiss’s “60 Minutes” Hires Producer Who Downplayed Gaza Starvation, Justified Killing...",
       "link": "https://theintercept.com/2026/08/04/60-minutes-bari-weiss-cbs-news-israel-gaza/",
       "published": "2026-08-04T19:46:41+00:00",
-      "featured": true
-    },
-    {
-      "id": "3b7818644c9c",
-      "source": "Al Jazeera",
-      "headline": "Evacuations ordered as Guatemala volcano erupts",
-      "excerpt": "Guatemala’s Fuego volcano erupted Monday, triggering an orange alert and evacuations near the deadly 2018 eruption site.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/4/evacuations-ordered-as-guatemala-volcano-erupts?traffic_source=rss",
-      "published": "2026-08-04T19:41:17+00:00",
-      "featured": true
-    },
-    {
-      "id": "ae365fd4325d",
-      "source": "Dropsite News",
-      "headline": "The Gaza “Ceasefire” Farce and the Battle for Michigan",
-      "excerpt": "Sami Al-Arian joins Jeremy Scahill to discuss the latest on Hamas and the Board of Peace. Then, Jeremy and Ryan Grim discuss today's Michigan primary and potential 2028 candidates.",
-      "link": "https://www.dropsitenews.com/p/the-gaza-ceasefire-farce-and-the",
-      "published": "2026-08-04T19:12:57+00:00",
-      "featured": true
+      "featured": false
     },
     {
       "id": "3b8a2409b43e",
@@ -35,15 +53,6 @@
       "excerpt": "Mike Lee's SCREEN Act, which heads to Senate Commerce Committee for markup on Wednesday, would expand age verification requirements to a nearly limitless scope of websites, and is supported by the architects of Project...",
       "link": "https://www.404media.co/what-is-the-screen-act-age-verification-porn/",
       "published": "2026-08-04T17:41:56+00:00",
-      "featured": false
-    },
-    {
-      "id": "dd2fd2ce026e",
-      "source": "The Lever",
-      "headline": "Flock’s Surveillance Nation",
-      "excerpt": "Dozens of police officers have been accused of improperly accessing public safety cameras.",
-      "link": "https://www.levernews.com/flocks-surveillance-nation/",
-      "published": "2026-08-04T16:57:28+00:00",
       "featured": false
     },
     {
@@ -92,15 +101,6 @@
       "featured": false
     },
     {
-      "id": "d94afd76a70c",
-      "source": "ICIJ",
-      "headline": "Europe sanctioned crypto exchange HTX. Experts say the firm is deploying tactics that could blunt the impact.",
-      "excerpt": "The exchange is rapidly generating new accounts in a way that can confuse authorities and compliance officials, experts told ICIJ.",
-      "link": "https://www.icij.org/investigations/coin-laundry/europe-sanctioned-crypto-exchange-htx-experts-say-the-firm-is-deploying-tactics-that-could-blunt-the-impact/",
-      "published": "2026-07-31T14:55:36+00:00",
-      "featured": false
-    },
-    {
       "id": "e96660f2ff5b",
       "source": "The Markup",
       "headline": "Brazil gives parents social media controls for their kids. Should the US?",
@@ -110,12 +110,21 @@
       "featured": false
     },
     {
-      "id": "b29066cf494c",
+      "id": "1cda337e5f2b",
       "source": "Al Jazeera",
-      "headline": "Red Cross urges international aid as Sudan crisis deepens",
-      "excerpt": "Charity warns that shrinking humanitarian support could threaten efforts to support communities trying to rebuild lives.",
-      "link": "https://www.aljazeera.com/news/2026/8/4/red-cross-urges-international-aid-as-sudan-crisis-deepens?traffic_source=rss",
-      "published": "2026-08-04T19:39:58+00:00",
+      "headline": "How the far right weaponised the Ceuta crisis",
+      "excerpt": "More than 72 migrants died trying to reach Ceuta, but within hours the tragedy had become a political flashpoint.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/4/how-the-far-right-weaponised-the-ceuta-crisis?traffic_source=rss",
+      "published": "2026-08-04T21:32:41+00:00",
+      "featured": false
+    },
+    {
+      "id": "ae365fd4325d",
+      "source": "Dropsite News",
+      "headline": "The Gaza “Ceasefire” Farce and the Battle for Michigan",
+      "excerpt": "Sami Al-Arian joins Jeremy Scahill to discuss the latest on Hamas and the Board of Peace. Then, Jeremy and Ryan Grim discuss today's Michigan primary and potential 2028 candidates.",
+      "link": "https://www.dropsitenews.com/p/the-gaza-ceasefire-farce-and-the",
+      "published": "2026-08-04T19:12:57+00:00",
       "featured": false
     },
     {
@@ -128,21 +137,21 @@
       "featured": false
     },
     {
+      "id": "dd2fd2ce026e",
+      "source": "The Lever",
+      "headline": "Flock’s Surveillance Nation",
+      "excerpt": "Dozens of police officers have been accused of improperly accessing public safety cameras.",
+      "link": "https://www.levernews.com/flocks-surveillance-nation/",
+      "published": "2026-08-04T16:57:28+00:00",
+      "featured": false
+    },
+    {
       "id": "20952a3d3ce3",
       "source": "404 Media",
       "headline": "Microsoft Tells Engineers ‘Tokenmaxxing Is Not What We Are Optimizing For’",
       "excerpt": "Microsoft is introducing budget limits for AI use but says it still wants to be an ‘AI-first’ company.",
       "link": "https://www.404media.co/microsoft-tells-engineers-tokenmaxxing-is-not-what-we-are-optimizing-for/",
       "published": "2026-08-04T16:17:16+00:00",
-      "featured": false
-    },
-    {
-      "id": "06f571c1b0c5",
-      "source": "Dropsite News",
-      "headline": "U.S. crowdsources ideas on Iran; Gaza holds mass funeral for 112 killed in 2023; Board of Peace contradicts itself",
-      "excerpt": "Drop Site Daily: August 4, 2026",
-      "link": "https://www.dropsitenews.com/p/us-crowdsources-ideas-iran-gaza-mass-funeral-israel-hamas-board-peace",
-      "published": "2026-08-04T15:51:59+00:00",
       "featured": false
     },
     {
@@ -164,21 +173,21 @@
       "featured": false
     },
     {
-      "id": "1029e12d37e4",
-      "source": "The Lever",
-      "headline": "THE KINGMAKERS, Ep. 6: Obama's Kill List",
-      "excerpt": "The president who promised restraint quietly unleashes a new weapon of executive power.",
-      "link": "https://www.levernews.com/the-kingmakers-ep-6-obamas-kill-list/",
-      "published": "2026-08-04T08:30:07+00:00",
-      "featured": false
-    },
-    {
       "id": "86b7056df1de",
       "source": "Rest of World",
       "headline": "Why Silicon Valley is divided over China’s powerful, cheap AI models",
       "excerpt": "Low-cost Chinese open-weight models are splitting tech executives and Washington over national security and competitiveness.",
       "link": "https://restofworld.org/2026/silicon-valley-debate-chinese-open-weight-ai-models/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "published": "2026-08-03T10:00:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "d94afd76a70c",
+      "source": "ICIJ",
+      "headline": "Europe sanctioned crypto exchange HTX. Experts say the firm is deploying tactics that could blunt the impact.",
+      "excerpt": "The exchange is rapidly generating new accounts in a way that can confuse authorities and compliance officials, experts told ICIJ.",
+      "link": "https://www.icij.org/investigations/coin-laundry/europe-sanctioned-crypto-exchange-htx-experts-say-the-firm-is-deploying-tactics-that-could-blunt-the-impact/",
+      "published": "2026-07-31T14:55:36+00:00",
       "featured": false
     },
     {
@@ -200,15 +209,6 @@
       "featured": false
     },
     {
-      "id": "78e93507b9c1",
-      "source": "ICIJ",
-      "headline": "Inside the Matrix: How models, influencers and engagement quotas power the Social Discovery Group’s dating machine and global profits",
-      "excerpt": "Women on four continents told ICIJ that global pay-per-action dating sites owned by a Russian businessman and self-styled philosopher left them financially broke and heartbroken.",
-      "link": "https://www.icij.org/news/2026/07/dating-app-scam-models-influencers-social-discovery-group/",
-      "published": "2026-07-23T15:11:47+00:00",
-      "featured": false
-    },
-    {
       "id": "caad1e0c6575",
       "source": "The Markup",
       "headline": "Kaiser Permanente nurses say technology is making their jobs — and patient care — worse",
@@ -218,12 +218,21 @@
       "featured": false
     },
     {
-      "id": "0e3bd7ff7907",
+      "id": "4c8fa0ddbb67",
       "source": "Al Jazeera",
-      "headline": "Telegram says Apple suspension followed content norms violation by one user",
-      "excerpt": "Apple said its review found the content had violated guidelines prohibiting child sexual abuse material.",
-      "link": "https://www.aljazeera.com/economy/2026/8/4/telegram-says-apple-suspension-followed-content-norms-violation-by-one-user?traffic_source=rss",
-      "published": "2026-08-04T19:35:12+00:00",
+      "headline": "Funeral for family killed in US strike on Iran’s Qeshm Island",
+      "excerpt": "The funeral for a couple and their toddler took place after they were killed in the US strike on Iran's Qeshm Island.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/4/funeral-for-family-killed-in-us-strike-on-irans-qeshm-island?traffic_source=rss",
+      "published": "2026-08-04T21:11:50+00:00",
+      "featured": false
+    },
+    {
+      "id": "06f571c1b0c5",
+      "source": "Dropsite News",
+      "headline": "U.S. crowdsources ideas on Iran; Gaza holds mass funeral for 112 killed in 2023; Board of Peace contradicts itself",
+      "excerpt": "Drop Site Daily: August 4, 2026",
+      "link": "https://www.dropsitenews.com/p/us-crowdsources-ideas-iran-gaza-mass-funeral-israel-hamas-board-peace",
+      "published": "2026-08-04T15:51:59+00:00",
       "featured": false
     },
     {
@@ -254,21 +263,12 @@
       "featured": false
     },
     {
-      "id": "2d9433511fc3",
+      "id": "1029e12d37e4",
       "source": "The Lever",
-      "headline": "THE KINGMAKERS, Ep. 5: State Of Emergency",
-      "excerpt": "September 11, 2001 brought chaos and terror to the United States. It also brought an unprecedented opportunity.",
-      "link": "https://www.levernews.com/the-kingmakers-ep-5-state-of-emergency/",
-      "published": "2026-08-04T07:30:57+00:00",
-      "featured": false
-    },
-    {
-      "id": "e7f9d1fa3217",
-      "source": "Dropsite News",
-      "headline": "How a Squandered Democratic Trifecta Is Pushing Michigan Left",
-      "excerpt": "Anti-establishment candidates aim for a sweep across more than a dozen Michigan races in Tuesday's primary.",
-      "link": "https://www.dropsitenews.com/p/michigan-democratic-primary-left-candidates-races-watch",
-      "published": "2026-08-03T20:27:05+00:00",
+      "headline": "THE KINGMAKERS, Ep. 6: Obama's Kill List",
+      "excerpt": "The president who promised restraint quietly unleashes a new weapon of executive power.",
+      "link": "https://www.levernews.com/the-kingmakers-ep-6-obamas-kill-list/",
+      "published": "2026-08-04T08:30:07+00:00",
       "featured": false
     },
     {
@@ -308,21 +308,21 @@
       "featured": false
     },
     {
-      "id": "cfb311dc7126",
+      "id": "78e93507b9c1",
       "source": "ICIJ",
-      "headline": "Canadian intelligence flags crypto-to-cash services as ‘knowingly facilitating money laundering,’ document shows",
-      "excerpt": "An internal report obtained says that crypto brokers are moving millions while dodging rules to guard against dirty money.",
-      "link": "https://www.icij.org/investigations/coin-laundry/canadian-intelligence-flags-crypto-to-cash-services-as-knowingly-facilitating-money-laundering-document-shows/",
-      "published": "2026-07-21T15:25:38+00:00",
+      "headline": "Inside the Matrix: How models, influencers and engagement quotas power the Social Discovery Group’s dating machine and global profits",
+      "excerpt": "Women on four continents told ICIJ that global pay-per-action dating sites owned by a Russian businessman and self-styled philosopher left them financially broke and heartbroken.",
+      "link": "https://www.icij.org/news/2026/07/dating-app-scam-models-influencers-social-discovery-group/",
+      "published": "2026-07-23T15:11:47+00:00",
       "featured": false
     },
     {
-      "id": "d6c4cc6ffcd6",
+      "id": "32bd2de537be",
       "source": "Al Jazeera",
-      "headline": "Kazakhstan releases first tiger to restore extinct species",
-      "excerpt": "Kazakhstan has released the first Amur tiger in the wild in more than 70 years to help restore the extinct Caspian tiger",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/4/kazakhstan-releases-first-tiger-to-restore-extinct-species?traffic_source=rss",
-      "published": "2026-08-04T19:21:16+00:00",
+      "headline": "Death toll rises to 87 in India’s flood-stricken Assam",
+      "excerpt": "Flood victims in India’s Assam district are living in makeshift shelters after monsoon rains caused widespread flooding.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/4/aje-onl-nf_death-toll-rises-to-87-in-assam-040826?traffic_source=rss",
+      "published": "2026-08-04T21:03:17+00:00",
       "featured": false
     },
     {
@@ -335,12 +335,12 @@
       "featured": false
     },
     {
-      "id": "2fd8e24f9456",
+      "id": "2d9433511fc3",
       "source": "The Lever",
-      "headline": "What You Need To Know About The Democratic Reckoning In Michigan",
-      "excerpt": "The fight between Abdul El-Sayed and Haley Stevens is about far more than one Senate seat. It's a battle over who controls the Democratic Party—and whose interests it serves.",
-      "link": "https://www.levernews.com/what-you-need-to-know-about-the-democratic-reckoning-in-michigan/",
-      "published": "2026-08-03T22:34:51+00:00",
+      "headline": "THE KINGMAKERS, Ep. 5: State Of Emergency",
+      "excerpt": "September 11, 2001 brought chaos and terror to the United States. It also brought an unprecedented opportunity.",
+      "link": "https://www.levernews.com/the-kingmakers-ep-5-state-of-emergency/",
+      "published": "2026-08-04T07:30:57+00:00",
       "featured": false
     },
     {
@@ -353,21 +353,21 @@
       "featured": false
     },
     {
+      "id": "e7f9d1fa3217",
+      "source": "Dropsite News",
+      "headline": "How a Squandered Democratic Trifecta Is Pushing Michigan Left",
+      "excerpt": "Anti-establishment candidates aim for a sweep across more than a dozen Michigan races in Tuesday's primary.",
+      "link": "https://www.dropsitenews.com/p/michigan-democratic-primary-left-candidates-races-watch",
+      "published": "2026-08-03T20:27:05+00:00",
+      "featured": false
+    },
+    {
       "id": "39824f8658ea",
       "source": "OCCRP",
       "headline": "AI Fuels 55% of African Cybercrimes as Losses Top $480 Million, INTERPOL Warns",
       "excerpt": "AI now powers more than half of reported cybercrimes across 26 African nations as phishing and mobile fraud transition into industrialized criminal enterprises, according to INTERPOL.",
       "link": "https://www.occrp.org/en/news/ai-fuels-55-of-african-cybercrimes-as-losses-top-480-million-interpol-warns",
       "published": "2026-08-03T16:03:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "5f6731604cd7",
-      "source": "Dropsite News",
-      "headline": "Iran denies Trump’s claim of talks; Israeli strikes on Gaza kill over 30 since Friday “deal”; Cuba’s electricity collapses again",
-      "excerpt": "Drop Site Daily: August 3, 2026",
-      "link": "https://www.dropsitenews.com/p/iran-us-trump-talks-gaza-israel-strikes-deal-cuba-electricity-blackout",
-      "published": "2026-08-03T15:33:29+00:00",
       "featured": false
     },
     {
@@ -389,12 +389,12 @@
       "featured": false
     },
     {
-      "id": "9b5a8b13fb9a",
+      "id": "cfb311dc7126",
       "source": "ICIJ",
-      "headline": "Swedbank fined $50 million by New York authorities over Panama Papers revelations",
-      "excerpt": "The Swedish bank and its New York subsidiary agreed to the penalty to settle final U.S. probe tied to money laundering case, officials say.",
-      "link": "https://www.icij.org/investigations/panama-papers/swedbank-fined-50-million-by-new-york-authorities-over-panama-papers-revelations/",
-      "published": "2026-07-17T21:24:52+00:00",
+      "headline": "Canadian intelligence flags crypto-to-cash services as ‘knowingly facilitating money laundering,’ document shows",
+      "excerpt": "An internal report obtained says that crypto brokers are moving millions while dodging rules to guard against dirty money.",
+      "link": "https://www.icij.org/investigations/coin-laundry/canadian-intelligence-flags-crypto-to-cash-services-as-knowingly-facilitating-money-laundering-document-shows/",
+      "published": "2026-07-21T15:25:38+00:00",
       "featured": false
     },
     {
@@ -407,12 +407,21 @@
       "featured": false
     },
     {
-      "id": "c1601d7cc0b9",
+      "id": "af78ecde100d",
       "source": "Al Jazeera",
-      "headline": "White House to meet AI firms on advanced model safety",
-      "excerpt": "The White House confirmed Tuesday’s meeting to address advanced model safety amid recent high-profile hacking incidents.",
-      "link": "https://www.aljazeera.com/economy/2026/8/4/white-house-to-meet-ai-firms-on-advanced-model-safety?traffic_source=rss",
-      "published": "2026-08-04T19:04:18+00:00",
+      "headline": "Six years on, Beirut blast families still await justice",
+      "excerpt": "Families of victims of the Beirut port blast marked six years since the explosion by demanding truth and accountability.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/4/six-years-on-beirut-blast-families-still-await-justice?traffic_source=rss",
+      "published": "2026-08-04T21:03:15+00:00",
+      "featured": false
+    },
+    {
+      "id": "2fd8e24f9456",
+      "source": "The Lever",
+      "headline": "What You Need To Know About The Democratic Reckoning In Michigan",
+      "excerpt": "The fight between Abdul El-Sayed and Haley Stevens is about far more than one Senate seat. It's a battle over who controls the Democratic Party—and whose interests it serves.",
+      "link": "https://www.levernews.com/what-you-need-to-know-about-the-democratic-reckoning-in-michigan/",
+      "published": "2026-08-03T22:34:51+00:00",
       "featured": false
     },
     {
@@ -425,12 +434,12 @@
       "featured": false
     },
     {
-      "id": "07c4734767d7",
-      "source": "The Lever",
-      "headline": "El-Sayed Challenges The “Electability” Attack",
-      "excerpt": "In an exclusive interview days before the Democratic primary, the Michigan Senate candidate says that his party is more concerned with him winning than losing.",
-      "link": "https://www.levernews.com/el-sayed-challenges-the-electability-attack/",
-      "published": "2026-08-03T15:45:12+00:00",
+      "id": "5f6731604cd7",
+      "source": "Dropsite News",
+      "headline": "Iran denies Trump’s claim of talks; Israeli strikes on Gaza kill over 30 since Friday “deal”; Cuba’s electricity collapses again",
+      "excerpt": "Drop Site Daily: August 3, 2026",
+      "link": "https://www.dropsitenews.com/p/iran-us-trump-talks-gaza-israel-strikes-deal-cuba-electricity-blackout",
+      "published": "2026-08-03T15:33:29+00:00",
       "featured": false
     },
     {
@@ -461,15 +470,6 @@
       "featured": false
     },
     {
-      "id": "89e09568ece4",
-      "source": "Dropsite News",
-      "headline": "State Killings in Pakistan as Kashmir Protest Movement Grows",
-      "excerpt": "The Pakistani military has imposed a communications blackout as it conducts a violent siege aimed at crushing a movement for electoral reform in Azad Kashmir.",
-      "link": "https://www.dropsitenews.com/p/state-killings-in-pakistan-as-kashmir",
-      "published": "2026-08-01T19:08:49+00:00",
-      "featured": false
-    },
-    {
       "id": "0cc45cefbd0b",
       "source": "Rest of World",
       "headline": "Anxious Chinese students are trusting AI to help pick colleges and majors",
@@ -479,12 +479,12 @@
       "featured": false
     },
     {
-      "id": "d9304df93d64",
+      "id": "9b5a8b13fb9a",
       "source": "ICIJ",
-      "headline": "How offshore firms helped a mafia-linked Italian druglord hide a $230m fortune",
-      "excerpt": "Leaked Pandora Papers records reveal that Giacomo Tamburello and his family, now facing prosecution, accumulated gold bars, luxury real estate and a $89 million stake in a bank with the help of unscrupulous financiers...",
-      "link": "https://www.icij.org/investigations/pandora-papers/how-offshore-firms-helped-a-mafia-linked-italian-druglord-hide-a-230m-fortune/",
-      "published": "2026-07-17T08:59:48+00:00",
+      "headline": "Swedbank fined $50 million by New York authorities over Panama Papers revelations",
+      "excerpt": "The Swedish bank and its New York subsidiary agreed to the penalty to settle final U.S. probe tied to money laundering case, officials say.",
+      "link": "https://www.icij.org/investigations/panama-papers/swedbank-fined-50-million-by-new-york-authorities-over-panama-papers-revelations/",
+      "published": "2026-07-17T21:24:52+00:00",
       "featured": false
     },
     {
@@ -497,12 +497,21 @@
       "featured": false
     },
     {
-      "id": "bf1dce5f011d",
+      "id": "207f81891176",
       "source": "Al Jazeera",
-      "headline": "DOJ sends monitors to Michigan poll sites as lawmakers warn of partisan aim",
-      "excerpt": "While FBI poll monitoring not new, US lawmakers raise alarm amid Trump's years-long claims of election fraud.",
-      "link": "https://www.aljazeera.com/news/2026/8/4/doj-sends-monitors-to-michigan-poll-sites-as-lawmakers-warn-of-partisan-aim?traffic_source=rss",
-      "published": "2026-08-04T18:50:29+00:00",
+      "headline": "National Guard deployment to Washington, DC will cost US roughly $1.4bn",
+      "excerpt": "The figure offers a glimpse of how much taxpayer money will be spent on a deployment that has been widely criticised.",
+      "link": "https://www.aljazeera.com/news/2026/8/4/national-guard-deployment-to-washington-dc-will-cost-us-roughly-1-4bn?traffic_source=rss",
+      "published": "2026-08-04T20:59:33+00:00",
+      "featured": false
+    },
+    {
+      "id": "07c4734767d7",
+      "source": "The Lever",
+      "headline": "El-Sayed Challenges The “Electability” Attack",
+      "excerpt": "In an exclusive interview days before the Democratic primary, the Michigan Senate candidate says that his party is more concerned with him winning than losing.",
+      "link": "https://www.levernews.com/el-sayed-challenges-the-electability-attack/",
+      "published": "2026-08-03T15:45:12+00:00",
       "featured": false
     },
     {
@@ -524,21 +533,12 @@
       "featured": false
     },
     {
-      "id": "ae43e305b055",
-      "source": "The Lever",
-      "headline": "Haley Stevens’ New Campaign Ad Features Anti-LGBTQ Pastor",
-      "excerpt": "Bishop Christopher Martin, who has faced public scrutiny over his anti-LGBT comments in the past, said he’d been “working” with the campaign.",
-      "link": "https://www.levernews.com/haley-stevens-new-campaign-ad-features-anti-lgbtq-islamophobic-pastor/",
-      "published": "2026-08-02T23:01:47+00:00",
-      "featured": false
-    },
-    {
-      "id": "db353bb42182",
-      "source": "The Intercept",
-      "headline": "Nach Abschiebung wegen Anti-Israel-Parole: Bob-Vylan-Frontmann wehrt sich erfolgreich gegen Einreiseverbot",
-      "excerpt": "Deutsche Behörden warnten, die Einreise des pro-palästinensischen Musikers könne zur „Radikalisierung einzelner Bevölkerungsgruppen“ beitragen. Er legte Widerspruch ein. The post Nach Abschiebung wegen...",
-      "link": "https://theintercept.com/2026/08/01/bob-vylan-abschiebung-deutsches-israel/",
-      "published": "2026-08-01T16:07:25+00:00",
+      "id": "89e09568ece4",
+      "source": "Dropsite News",
+      "headline": "State Killings in Pakistan as Kashmir Protest Movement Grows",
+      "excerpt": "The Pakistani military has imposed a communications blackout as it conducts a violent siege aimed at crushing a movement for electoral reform in Azad Kashmir.",
+      "link": "https://www.dropsitenews.com/p/state-killings-in-pakistan-as-kashmir",
+      "published": "2026-08-01T19:08:49+00:00",
       "featured": false
     }
   ]
