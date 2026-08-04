@@ -1,13 +1,22 @@
 {
-  "generated_at": "2026-08-04T11:34:07.992882+00:00",
+  "generated_at": "2026-08-04T14:40:01.291692+00:00",
   "articles": [
     {
-      "id": "bcc3057e01db",
+      "id": "4f3f469405bb",
+      "source": "404 Media",
+      "headline": "‘DO NOT MENTION ALPR USAGE’: How Cops Are Trying to Hide Their Use of Flock",
+      "excerpt": "“DO NOT MENTION ALPR USAGE TO THE OCCUPANTS OF THE VEHICLE. DO NOT MENTION ALPR USAGE IN YOUR REPORT OR COMPLAINT.\"",
+      "link": "https://www.404media.co/do-not-mention-alpr-usage-how-cops-are-trying-to-hide-the-existence-of-flock/",
+      "published": "2026-08-04T14:23:54+00:00",
+      "featured": true
+    },
+    {
+      "id": "6c124a1b73e6",
       "source": "Al Jazeera",
-      "headline": "Why Israel’s economy hasn’t collapsed during a multi-front war",
-      "excerpt": "How has Israel’s economy defied the effects of war?",
-      "link": "https://www.aljazeera.com/video/money-works/2026/8/4/why-israels-economy-hasnt-collapsed-during-a-multi-front-war?traffic_source=rss",
-      "published": "2026-08-04T11:21:01+00:00",
+      "headline": "Why are oil companies posting record profits amid Iran war disruption?",
+      "excerpt": "Big Oil companies have bagged astronomical profits as the critical Strait of Hormuz remains closed.",
+      "link": "https://www.aljazeera.com/features/2026/8/4/why-are-oil-companies-posting-record-profits-amid-iran-war-disruption?traffic_source=rss",
+      "published": "2026-08-04T14:04:28+00:00",
       "featured": true
     },
     {
@@ -26,7 +35,7 @@
       "excerpt": "Local tech groups in Kenya, India, and the U.S. are building communities and conversations around AI, but also face questions about privilege and reach.",
       "link": "https://restofworld.org/2026/global-ai-salons-grassroots-silicon-valley/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "published": "2026-08-04T10:00:00+00:00",
-      "featured": true
+      "featured": false
     },
     {
       "id": "3a82e01ac4b4",
@@ -62,15 +71,6 @@
       "excerpt": "",
       "link": "https://www.occrp.org/en/news/us-fines-ubs-record-125m-for-willful-anti-money-laundering-violations",
       "published": "2026-08-03T17:55:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "56a270090345",
-      "source": "404 Media",
-      "headline": "‘Own the Narrative’: Leaked Flock Guide Shows How It Teaches Cops to Promote Its Tech",
-      "excerpt": "\"This document shows a coordinated effort from Flock Safety to compel law enforcement agencies to convince our elected leaders to represent their interests as a company rather than the interests of concerned citizens.\"",
-      "link": "https://www.404media.co/own-the-narrative-leaked-flock-guide-shows-how-it-teaches-cops-to-promote-its-tech/",
-      "published": "2026-08-03T17:13:24+00:00",
       "featured": false
     },
     {
@@ -110,12 +110,21 @@
       "featured": false
     },
     {
-      "id": "e09af916e507",
+      "id": "0ebd660041dc",
+      "source": "404 Media",
+      "headline": "The SEC Bought Airline Data to Monitor Flights Worldwide",
+      "excerpt": "The SEC bought access to worldwide airline ticketing records. Airlines including Delta, United, and American sold the data.",
+      "link": "https://www.404media.co/the-sec-bought-airline-data-to-monitor-flights-worldwide/",
+      "published": "2026-08-04T13:55:10+00:00",
+      "featured": false
+    },
+    {
+      "id": "4e30e3945491",
       "source": "Al Jazeera",
-      "headline": "Misread as passive, the Gulf is quietly ending fifty years of dependence",
-      "excerpt": "Iran’s attacks exposed the limits of external guarantees and the need for a Gulf-built security architecture.",
-      "link": "https://www.aljazeera.com/opinions/2026/8/4/the-gulf-can-no-longer-outsource-its-security?traffic_source=rss",
-      "published": "2026-08-04T11:05:58+00:00",
+      "headline": "Spanish PM Sanchez faces criticism as EU meets over Ceuta crossings",
+      "excerpt": "The vast majority of migrants have left the North African enclave and returned to Morocco.",
+      "link": "https://www.aljazeera.com/news/2026/8/4/spanish-pm-sanchez-faces-criticism-as-eu-meets-over-ceuta-crossings?traffic_source=rss",
+      "published": "2026-08-04T13:52:45+00:00",
       "featured": false
     },
     {
@@ -164,15 +173,6 @@
       "featured": false
     },
     {
-      "id": "fdc3bd4b98fc",
-      "source": "404 Media",
-      "headline": "Why a Flock Worker Quit: ‘They Lied’",
-      "excerpt": "Jonathan Paz’s job was to convince cities to buy Flock cameras. After initially being enthusiastic about the company, he started to get disillusioned.",
-      "link": "https://www.404media.co/why-a-flock-worker-quit-they-lied/",
-      "published": "2026-08-03T14:02:31+00:00",
-      "featured": false
-    },
-    {
       "id": "86b7056df1de",
       "source": "Rest of World",
       "headline": "Why Silicon Valley is divided over China’s powerful, cheap AI models",
@@ -218,12 +218,12 @@
       "featured": false
     },
     {
-      "id": "a460c27ec97b",
+      "id": "b2830d298ae9",
       "source": "Al Jazeera",
-      "headline": "Who is behind settler violence in the occupied West Bank?",
-      "excerpt": "A look at the main settler groups driving the escalation against Palestinians in the West Bank.",
-      "link": "https://www.aljazeera.com/news/2026/8/4/who-is-behind-settler-violence-in-the-occupied-west-bank?traffic_source=rss",
-      "published": "2026-08-04T11:04:03+00:00",
+      "headline": "Top Africa football leaders back Infantino after FIFA selloff scandal",
+      "excerpt": "Five influential African football leaders back Gianni Infantino amid World Cup private investment row.",
+      "link": "https://www.aljazeera.com/sports/2026/8/4/top-africa-football-leaders-back-infantino-after-fifa-selloff-scandal?traffic_source=rss",
+      "published": "2026-08-04T13:37:19+00:00",
       "featured": false
     },
     {
@@ -242,6 +242,15 @@
       "excerpt": "The fight between Abdul El-Sayed and Haley Stevens is about far more than one Senate seat. It's a battle over who controls the Democratic Party—and whose interests it serves.",
       "link": "https://www.levernews.com/what-you-need-to-know-about-the-democratic-reckoning-in-michigan/",
       "published": "2026-08-03T22:34:51+00:00",
+      "featured": false
+    },
+    {
+      "id": "56a270090345",
+      "source": "404 Media",
+      "headline": "‘Own the Narrative’: Leaked Flock Guide Shows How It Teaches Cops to Promote Its Tech",
+      "excerpt": "\"This document shows a coordinated effort from Flock Safety to compel law enforcement agencies to convince our elected leaders to represent their interests as a company rather than the interests of concerned citizens.\"",
+      "link": "https://www.404media.co/own-the-narrative-leaked-flock-guide-shows-how-it-teaches-cops-to-promote-its-tech/",
+      "published": "2026-08-03T17:13:24+00:00",
       "featured": false
     },
     {
@@ -269,15 +278,6 @@
       "excerpt": "The Pakistani military has imposed a communications blackout as it conducts a violent siege aimed at crushing a movement for electoral reform in Azad Kashmir.",
       "link": "https://www.dropsitenews.com/p/state-killings-in-pakistan-as-kashmir",
       "published": "2026-08-01T19:08:49+00:00",
-      "featured": false
-    },
-    {
-      "id": "73c01c356de8",
-      "source": "404 Media",
-      "headline": "We Need to Quarantine Aliens on the Moon, Scientists Propose",
-      "excerpt": "Researchers argue that a lunar biocontainment facility for extraterrestrial samples could prevent “the potential ecological devastation of an invasive extraterrestrial organism.”",
-      "link": "https://www.404media.co/we-need-to-quarantine-aliens-on-the-moon-scientists-propose/",
-      "published": "2026-08-01T10:00:47+00:00",
       "featured": false
     },
     {
@@ -317,12 +317,12 @@
       "featured": false
     },
     {
-      "id": "84d8bdbe02c8",
+      "id": "1d1c3c783b7f",
       "source": "Al Jazeera",
-      "headline": "‘One last chance’: The times Trump threatened Iran, said deal imminent",
-      "excerpt": "US president has claimed Iran 'desperate' to do a deal or given Tehran 'last chance' on multiple occasions.",
-      "link": "https://www.aljazeera.com/features/2026/8/4/one-last-chance-the-times-trump-threatened-iran-said-deal-imminent?traffic_source=rss",
-      "published": "2026-08-04T10:53:33+00:00",
+      "headline": "Hamas negotiator says deal to disarm was necessary to ‘save Gaza’",
+      "excerpt": "Hamas negotiator says deal to disarm was necessary to ‘save Gaza’",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/4/hamas-negotiator-says-deal-to-disarm-was-necessary-to-save?traffic_source=rss",
+      "published": "2026-08-04T13:34:43+00:00",
       "featured": false
     },
     {
@@ -332,6 +332,15 @@
       "excerpt": "In an exclusive interview days before the Democratic primary, the Michigan Senate candidate says that his party is more concerned with him winning than losing.",
       "link": "https://www.levernews.com/el-sayed-challenges-the-electability-attack/",
       "published": "2026-08-03T15:45:12+00:00",
+      "featured": false
+    },
+    {
+      "id": "fdc3bd4b98fc",
+      "source": "404 Media",
+      "headline": "Why a Flock Worker Quit: ‘They Lied’",
+      "excerpt": "Jonathan Paz’s job was to convince cities to buy Flock cameras. After initially being enthusiastic about the company, he started to get disillusioned.",
+      "link": "https://www.404media.co/why-a-flock-worker-quit-they-lied/",
+      "published": "2026-08-03T14:02:31+00:00",
       "featured": false
     },
     {
@@ -359,15 +368,6 @@
       "excerpt": "Deutsche Behörden warnten, die Einreise des pro-palästinensischen Musikers könne zur „Radikalisierung einzelner Bevölkerungsgruppen“ beitragen. Er legte Widerspruch ein. The post Nach Abschiebung wegen...",
       "link": "https://theintercept.com/2026/08/01/bob-vylan-abschiebung-deutsches-israel/",
       "published": "2026-08-01T16:07:25+00:00",
-      "featured": false
-    },
-    {
-      "id": "9b657b6bfabe",
-      "source": "404 Media",
-      "headline": "Behind the Blog: Silent Retreat",
-      "excerpt": "This week, we discuss going into the woods, a \"he admit it\" moment, and a tofu sandwich.",
-      "link": "https://www.404media.co/behind-the-blog-silent-retreat/",
-      "published": "2026-07-31T16:24:50+00:00",
       "featured": false
     },
     {
@@ -407,12 +407,12 @@
       "featured": false
     },
     {
-      "id": "fd0aa66c8e22",
+      "id": "286866b20359",
       "source": "Al Jazeera",
-      "headline": "Italy suspends free movement with Spain: Is Schengen in crisis after Ceuta?",
-      "excerpt": "Italy's move to halt border-free travel with Spain after the deadly crossing is political, not practical, analysts say.",
-      "link": "https://www.aljazeera.com/news/2026/8/4/italy-suspends-free-movement-with-spain-is-schengen-in-crisis-after-ceuta?traffic_source=rss",
-      "published": "2026-08-04T10:40:08+00:00",
+      "headline": "Typhoon Dolphin hurtles towards Japan: Tracker, updates and what to expect",
+      "excerpt": "The large storm is forecast to cause strong winds and rainfall in parts of Japan, China and Taiwan.",
+      "link": "https://www.aljazeera.com/news/2026/8/4/typhoon-dolphin-hurtles-towards-japan-tracker-updates-and-what-to-expect?traffic_source=rss",
+      "published": "2026-08-04T13:26:43+00:00",
       "featured": false
     },
     {
@@ -452,12 +452,12 @@
       "featured": false
     },
     {
-      "id": "6c10c5e15f50",
+      "id": "73c01c356de8",
       "source": "404 Media",
-      "headline": "Google Earth’s New AI Lets Anyone Fabricate Completely Bullshit Satellite Images",
-      "excerpt": "\"Tonight I typed just one sentence into Google Earth and put refugees near the Mexican border. Then I planted a nuclear plant in Iran. Then I put a fatal crash on a street in Amsterdam.\"",
-      "link": "https://www.404media.co/google-earths-new-ai-lets-anyone-fabricate-completely-bullshit-satellite-images/",
-      "published": "2026-07-31T16:03:08+00:00",
+      "headline": "We Need to Quarantine Aliens on the Moon, Scientists Propose",
+      "excerpt": "Researchers argue that a lunar biocontainment facility for extraterrestrial samples could prevent “the potential ecological devastation of an invasive extraterrestrial organism.”",
+      "link": "https://www.404media.co/we-need-to-quarantine-aliens-on-the-moon-scientists-propose/",
+      "published": "2026-08-01T10:00:47+00:00",
       "featured": false
     },
     {
@@ -497,12 +497,12 @@
       "featured": false
     },
     {
-      "id": "3315583ba5e0",
+      "id": "064394c5cd49",
       "source": "Al Jazeera",
-      "headline": "Tech giant Palantir posts ‘otherworldly’ growth despite criticism over Gaza",
-      "excerpt": "Second-quarter revenue jumped 93 percent but Palantir's ties to Israel and role in military technology are controversial",
-      "link": "https://www.aljazeera.com/news/2026/8/4/tech-giant-palantir-posts-otherworldly-growth-despite-criticism-over-gaza?traffic_source=rss",
-      "published": "2026-08-04T10:11:06+00:00",
+      "headline": "Twelve years after ISIL’s massacres, thousands of Yazidis seek justice",
+      "excerpt": "Iraq’s Yazidi community marked 12 years since ISIL’s assault on Sinjar, which the UN recognised as genocide.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/4/twelve-years-after-isils-massacres-thousands-of-yazidis-seek-justice?traffic_source=rss",
+      "published": "2026-08-04T12:58:09+00:00",
       "featured": false
     },
     {
@@ -524,21 +524,21 @@
       "featured": false
     },
     {
+      "id": "9b657b6bfabe",
+      "source": "404 Media",
+      "headline": "Behind the Blog: Silent Retreat",
+      "excerpt": "This week, we discuss going into the woods, a \"he admit it\" moment, and a tofu sandwich.",
+      "link": "https://www.404media.co/behind-the-blog-silent-retreat/",
+      "published": "2026-07-31T16:24:50+00:00",
+      "featured": false
+    },
+    {
       "id": "6880adc40ec6",
       "source": "OCCRP",
       "headline": "Slim Shady: Smugglers Eye Big Profits Running Weight Loss Drugs into Brazil",
       "excerpt": "The weight loss drug tirzepatide has become a major black market commodity on the border between Paraguay and Brazil, fueling a rise in armed robberies and smuggling by criminal groups.",
       "link": "https://www.occrp.org/en/feature/slim-shady-smugglers-eye-big-profits-running-weight-loss-drugs-into-brazil",
       "published": "2026-07-31T14:50:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "be779bdb0bfb",
-      "source": "404 Media",
-      "headline": "YouTube Bans Popular ASMR Artists, Accusing Them of Making 'Sexually Gratifying' Content",
-      "excerpt": "YouTube told ASMR artists including Bunnii, Slight Sounds, Rose, and others that their content broke the platform's sex and nudity policy. Creators say these bans are unfair and potentially life-altering.",
-      "link": "https://www.404media.co/youtube-asmr-ban-sex-and-nudity-policy/",
-      "published": "2026-07-31T14:25:01+00:00",
       "featured": false
     }
   ]
