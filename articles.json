@@ -1,13 +1,31 @@
 {
-  "generated_at": "2026-08-05T09:06:17.949229+00:00",
+  "generated_at": "2026-08-05T11:29:44.127623+00:00",
   "articles": [
     {
-      "id": "b026b5d956b5",
+      "id": "bb262ab0fcff",
       "source": "Al Jazeera",
-      "headline": "Inside the Air India Phuket-Delhi flight that dropped 300 feet mid-air",
-      "excerpt": "Seventeen people were injured when an Air India flight from Phuket to Delhi encountered severe turbulence.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/inside-the-air-india-phuket-delhi-flight-that-dropped-300-feet-mid-air?traffic_source=rss",
-      "published": "2026-08-05T08:41:36+00:00",
+      "headline": "Lebanon and Israel still split over disarming Hezbollah at Rome talks",
+      "excerpt": "Disagreements remain in second day of resumed talks over disarming Hezbollah and Israeli withdrawal from South Lebanon.",
+      "link": "https://www.aljazeera.com/news/2026/8/5/lebanon-and-israel-still-split-over-disarming-hezbollah-at-rome-talks?traffic_source=rss",
+      "published": "2026-08-05T11:01:32+00:00",
+      "featured": true
+    },
+    {
+      "id": "68e5d9f3acf8",
+      "source": "ProPublica",
+      "headline": "James Talarico Accused Ken Paxton of Voter Fraud. His Own Voter Registration Is Raising Questions.",
+      "excerpt": "The post James Talarico Accused Ken Paxton of Voter Fraud. His Own Voter Registration Is Raising Questions. appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/james-talarico-texas-election-law-ken-paxton",
+      "published": "2026-08-05T10:00:00+00:00",
+      "featured": true
+    },
+    {
+      "id": "0a54c3383910",
+      "source": "Rest of World",
+      "headline": "Growth without work: The human cost of the AI revolution",
+      "excerpt": "An archival photo of a computer lab in the Herbert V. Manning Library on the campus of Claflin University",
+      "link": "https://restofworld.org/2026/ai-jobs-economy-impact/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "published": "2026-08-05T10:00:00+00:00",
       "featured": true
     },
     {
@@ -17,7 +35,7 @@
       "excerpt": "The moderate Democrat easily won the rematch in Missouri’s primary against an outspoken critic of Israel. The post Wesley Bell Again Defeats Cori Bush — With Plenty of Help From AIPAC appeared first on The Intercept.",
       "link": "https://theintercept.com/2026/08/04/wesley-bell-cori-bush-missouri-aipac/",
       "published": "2026-08-05T01:55:33+00:00",
-      "featured": true
+      "featured": false
     },
     {
       "id": "4417a39832a0",
@@ -26,7 +44,7 @@
       "excerpt": "Hacked emails show Yahav Lichner, a UN official, repeatedly supplied Israeli diplomats with confidential UN reports and private briefings. He now directs UNICEF’s Washington office.",
       "link": "https://www.dropsitenews.com/p/for-your-eyes-only-israels-mole-inside",
       "published": "2026-08-04T21:27:52+00:00",
-      "featured": true
+      "featured": false
     },
     {
       "id": "45dbc49705d5",
@@ -65,24 +83,6 @@
       "featured": false
     },
     {
-      "id": "94e0bd6dbb18",
-      "source": "ProPublica",
-      "headline": "Greg Abbott Blasted Corpus Christi for Its Water Crisis. A River Authority He Has Power Over Is Falling Apart.",
-      "excerpt": "The post Greg Abbott Blasted Corpus Christi for Its Water Crisis. A River Authority He Has Power Over Is Falling Apart. appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/greg-abbott-nueces-river-authority",
-      "published": "2026-08-04T10:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "12db91c03990",
-      "source": "Rest of World",
-      "headline": "The global grassroots gatherings trying to humanize the AI boom",
-      "excerpt": "Local tech groups in Kenya, India, and the U.S. are building communities and conversations around AI, but also face questions about privilege and reach.",
-      "link": "https://restofworld.org/2026/global-ai-salons-grassroots-silicon-valley/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-      "published": "2026-08-04T10:00:00+00:00",
-      "featured": false
-    },
-    {
       "id": "fde6a5053370",
       "source": "Bellingcat",
       "headline": "Welcome to Dubai: Kinahan Cartel’s Visas Revealed",
@@ -110,12 +110,21 @@
       "featured": false
     },
     {
-      "id": "d06f97964c09",
+      "id": "5265c311d430",
       "source": "Al Jazeera",
-      "headline": "Japan tests US-Tomahawk missile as it moves away from Post-WWII status",
-      "excerpt": "Japan tested a US-Tomahawk cruise missile, launching from their Chokai warship in the Pacific Ocean on July 29.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/japan-tests-us-tomahawk-missile-as-it-moves-away-from-post-wwii-status?traffic_source=rss",
-      "published": "2026-08-05T08:37:04+00:00",
+      "headline": "Vozinha moves on from World Cup, says ‘Colo-Colo is the best moment’",
+      "excerpt": "Cape Verde's World Cup goalkeeper Vozinha has been officially unveiled as the newest signing for Chilean club Colo-Colo.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/vozinha-moves-on-from-world-cup-says-colo-colo-is-the-best?traffic_source=rss",
+      "published": "2026-08-05T10:50:34+00:00",
+      "featured": false
+    },
+    {
+      "id": "686e9668ea5f",
+      "source": "ProPublica",
+      "headline": "Lead Contamination Is Still a Problem in Omaha. Why Is the City Cleaning Up Some Yards and Not Others?",
+      "excerpt": "The post Lead Contamination Is Still a Problem in Omaha. Why Is the City Cleaning Up Some Yards and Not Others? appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/omaha-nebraska-lead-superfund-epa-retesting",
+      "published": "2026-08-05T09:00:00+00:00",
       "featured": false
     },
     {
@@ -164,21 +173,12 @@
       "featured": false
     },
     {
-      "id": "3a13a8c71d26",
-      "source": "ProPublica",
-      "headline": "The EPA Doesn’t Typically Retest Homes in the Country’s Largest Residential Lead Superfund Site. So We Did.",
-      "excerpt": "The post The EPA Doesn’t Typically Retest Homes in the Country’s Largest Residential Lead Superfund Site. So We Did. appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/omaha-nebraska-lead-testing-superfund-methodology",
-      "published": "2026-08-04T09:05:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "86b7056df1de",
+      "id": "12db91c03990",
       "source": "Rest of World",
-      "headline": "Why Silicon Valley is divided over China’s powerful, cheap AI models",
-      "excerpt": "Low-cost Chinese open-weight models are splitting tech executives and Washington over national security and competitiveness.",
-      "link": "https://restofworld.org/2026/silicon-valley-debate-chinese-open-weight-ai-models/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-      "published": "2026-08-03T10:00:00+00:00",
+      "headline": "The global grassroots gatherings trying to humanize the AI boom",
+      "excerpt": "Local tech groups in Kenya, India, and the U.S. are building communities and conversations around AI, but also face questions about privilege and reach.",
+      "link": "https://restofworld.org/2026/global-ai-salons-grassroots-silicon-valley/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "published": "2026-08-04T10:00:00+00:00",
       "featured": false
     },
     {
@@ -218,12 +218,12 @@
       "featured": false
     },
     {
-      "id": "35a28be7197e",
+      "id": "4e03176c97f0",
       "source": "Al Jazeera",
-      "headline": "Fuego volcano in Guatemala spews more ash and mud, 1,700 evacuated",
-      "excerpt": "Officials warn the next three days are critical, as forecast rain threatens to trigger more mudflows from the volcano.",
-      "link": "https://www.aljazeera.com/news/2026/8/5/fuego-volcano-in-guatemala-spews-more-ash-and-mud-1700-evacuated?traffic_source=rss",
-      "published": "2026-08-05T08:35:22+00:00",
+      "headline": "Israeli raid deepens fears across West Bank refugee camps",
+      "excerpt": "Israeli raid deepens fears across West Bank refugee camps",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/israeli-raid-deepens-fears-across-west-bank-refugee-camps?traffic_source=rss",
+      "published": "2026-08-05T10:30:17+00:00",
       "featured": false
     },
     {
@@ -254,12 +254,12 @@
       "featured": false
     },
     {
-      "id": "c1417562e42f",
+      "id": "94e0bd6dbb18",
       "source": "ProPublica",
-      "headline": "The EPA Heralds Its Omaha Cleanup as a Success. But We Found Many Yards Still Have Toxic Levels of Lead.",
-      "excerpt": "The post The EPA Heralds Its Omaha Cleanup as a Success. But We Found Many Yards Still Have Toxic Levels of Lead. appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/lead-contamination-epa-superfund-omaha-nebraska-analysis",
-      "published": "2026-08-04T09:00:00+00:00",
+      "headline": "Greg Abbott Blasted Corpus Christi for Its Water Crisis. A River Authority He Has Power Over Is Falling Apart.",
+      "excerpt": "The post Greg Abbott Blasted Corpus Christi for Its Water Crisis. A River Authority He Has Power Over Is Falling Apart. appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/greg-abbott-nueces-river-authority",
+      "published": "2026-08-04T10:00:00+00:00",
       "featured": false
     },
     {
@@ -281,12 +281,12 @@
       "featured": false
     },
     {
-      "id": "3315d16a703c",
+      "id": "86b7056df1de",
       "source": "Rest of World",
-      "headline": "Can we train AI to choose safety over speed?",
-      "excerpt": "Delivery personnel from Swiggy navigate a flooded street amid heavy rainfall in Mumbai, India, on July 4, 2026.",
-      "link": "https://restofworld.org/2026/india-ai-extreme-weather/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-      "published": "2026-07-31T13:00:00+00:00",
+      "headline": "Why Silicon Valley is divided over China’s powerful, cheap AI models",
+      "excerpt": "Low-cost Chinese open-weight models are splitting tech executives and Washington over national security and competitiveness.",
+      "link": "https://restofworld.org/2026/silicon-valley-debate-chinese-open-weight-ai-models/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "published": "2026-08-03T10:00:00+00:00",
       "featured": false
     },
     {
@@ -317,12 +317,12 @@
       "featured": false
     },
     {
-      "id": "67b4c70f17a8",
+      "id": "3505d17a6afb",
       "source": "Al Jazeera",
-      "headline": "FIFA’s Infantino set for crunch meeting after World Cup selloff crisis",
-      "excerpt": "Gianni Infantino under increasing pressure before Wednesday's FIFA talks after president's failed World Cup selloff.",
-      "link": "https://www.aljazeera.com/sports/2026/8/5/fifas-infantino-set-for-crunch-meeting-after-world-cup-selloff-crisis?traffic_source=rss",
-      "published": "2026-08-05T08:35:13+00:00",
+      "headline": "India’s severe monsoon season causes more than 100 deaths since July",
+      "excerpt": "Monsoon downpours cause floods and landslides as climate change and El Nino disrupt rainfall patterns.",
+      "link": "https://www.aljazeera.com/news/2026/8/5/indias-severe-monsoon-season-causes-more-than-100-deaths-since-july?traffic_source=rss",
+      "published": "2026-08-05T10:10:07+00:00",
       "featured": false
     },
     {
@@ -341,6 +341,15 @@
       "excerpt": "U.S. troops killed or wounded since July 7 are now counted separately from casualties during the first months of the Iran war. The post The Pentagon Found a New Way to Undercount U.S. Casualties in Iran appeared first...",
       "link": "https://theintercept.com/2026/08/04/us-military-casualties-count-iran-war/",
       "published": "2026-08-04T09:54:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "3a13a8c71d26",
+      "source": "ProPublica",
+      "headline": "The EPA Doesn’t Typically Retest Homes in the Country’s Largest Residential Lead Superfund Site. So We Did.",
+      "excerpt": "The post The EPA Doesn’t Typically Retest Homes in the Country’s Largest Residential Lead Superfund Site. So We Did. appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/omaha-nebraska-lead-testing-superfund-methodology",
+      "published": "2026-08-04T09:05:00+00:00",
       "featured": false
     },
     {
@@ -371,21 +380,12 @@
       "featured": false
     },
     {
-      "id": "e141867b9bfc",
-      "source": "ProPublica",
-      "headline": "FCC Commissioners Face Ethics Complaints for Taking Luxury Gifts From Paramount",
-      "excerpt": "The post FCC Commissioners Face Ethics Complaints for Taking Luxury Gifts From Paramount appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/fcc-paramount-gifts-brendan-carr-ethics-complaint-warner-bros-merger",
-      "published": "2026-08-03T10:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "6b9dad7182f2",
+      "id": "3315d16a703c",
       "source": "Rest of World",
-      "headline": "With Moonshot’s free Kimi K3, China changes the sovereign AI playbook",
-      "excerpt": "Governments can now deploy top-tier AI locally, bypassing costly U.S. cloud rentals.",
-      "link": "https://restofworld.org/2026/china-moonshot-kimi-k3-free-sovereign-ai/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-      "published": "2026-07-30T10:00:00+00:00",
+      "headline": "Can we train AI to choose safety over speed?",
+      "excerpt": "Delivery personnel from Swiggy navigate a flooded street amid heavy rainfall in Mumbai, India, on July 4, 2026.",
+      "link": "https://restofworld.org/2026/india-ai-extreme-weather/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "published": "2026-07-31T13:00:00+00:00",
       "featured": false
     },
     {
@@ -407,12 +407,21 @@
       "featured": false
     },
     {
-      "id": "0b2269da1afa",
+      "id": "2f682125f58f",
       "source": "Al Jazeera",
-      "headline": "Piece of SpaceX rocket the size of a school bus crashes into the Moon",
-      "excerpt": "Scientists will track stray rocket part striking the Moon to study crater formation and lunar dust from cosmic impacts.",
-      "link": "https://www.aljazeera.com/news/2026/8/5/piece-of-spacex-rocket-the-size-of-a-school-bus-crashes-into-the-moon?traffic_source=rss",
-      "published": "2026-08-05T08:17:03+00:00",
+      "headline": "How Israeli restrictions on Palestinians’ movement break up the West Bank",
+      "excerpt": "While barriers to free movement make the lives of Palestinians extremely difficult, they do not make Israel more secure.",
+      "link": "https://www.aljazeera.com/opinions/2026/8/5/how-israeli-restrictions-on-palestinians-movement-break-up-the-west-bank?traffic_source=rss",
+      "published": "2026-08-05T10:09:22+00:00",
+      "featured": false
+    },
+    {
+      "id": "c1417562e42f",
+      "source": "ProPublica",
+      "headline": "The EPA Heralds Its Omaha Cleanup as a Success. But We Found Many Yards Still Have Toxic Levels of Lead.",
+      "excerpt": "The post The EPA Heralds Its Omaha Cleanup as a Success. But We Found Many Yards Still Have Toxic Levels of Lead. appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/lead-contamination-epa-superfund-omaha-nebraska-analysis",
+      "published": "2026-08-04T09:00:00+00:00",
       "featured": false
     },
     {
@@ -461,21 +470,12 @@
       "featured": false
     },
     {
-      "id": "7a89736dd6b9",
-      "source": "ProPublica",
-      "headline": "Solar Developer Cancels Washington State Project on Sacred Indigenous Land",
-      "excerpt": "The post Solar Developer Cancels Washington State Project on Sacred Indigenous Land appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/washington-badger-mountain-solar-project-canceled-avangrid",
-      "published": "2026-08-03T09:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "0cc45cefbd0b",
+      "id": "6b9dad7182f2",
       "source": "Rest of World",
-      "headline": "Anxious Chinese students are trusting AI to help pick colleges and majors",
-      "excerpt": "Students leave the gaokao exam in Nanjing in June under a banner that reads “Win top marks.”",
-      "link": "https://restofworld.org/2026/china-ai-bot-college-advice/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-      "published": "2026-07-29T10:00:00+00:00",
+      "headline": "With Moonshot’s free Kimi K3, China changes the sovereign AI playbook",
+      "excerpt": "Governments can now deploy top-tier AI locally, bypassing costly U.S. cloud rentals.",
+      "link": "https://restofworld.org/2026/china-moonshot-kimi-k3-free-sovereign-ai/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "published": "2026-07-30T10:00:00+00:00",
       "featured": false
     },
     {
@@ -497,12 +497,12 @@
       "featured": false
     },
     {
-      "id": "76121d449383",
+      "id": "4f7fce998617",
       "source": "Al Jazeera",
-      "headline": "AI models attempted ‘unsanctioned’ cyberattacks in tests, watchdog says",
-      "excerpt": "AI Security Institute says Mythos 5 attempted to insert malicious code into open-source project without human direction.",
-      "link": "https://www.aljazeera.com/economy/2026/8/5/ai-models-attempted-unsanctioned-cyberattacks-in-tests-watchdog-says?traffic_source=rss",
-      "published": "2026-08-05T08:14:54+00:00",
+      "headline": "Reform UK plan to return asylum seekers using navy ‘dangerous in practice’",
+      "excerpt": "Nigel Farage's party says 'Operation Fortress' would stop migrants 'invading', but experts slam proposal as unrealistic.",
+      "link": "https://www.aljazeera.com/news/2026/8/5/reform-uk-plan-to-return-asylum-seekers-using-navy-dangerous-in-practice?traffic_source=rss",
+      "published": "2026-08-05T10:07:20+00:00",
       "featured": false
     },
     {
