@@ -1,32 +1,41 @@
 {
-  "generated_at": "2026-08-05T19:55:38.601107+00:00",
+  "generated_at": "2026-08-05T22:27:48.207295+00:00",
   "articles": [
     {
-      "id": "2fc624ba0484",
+      "id": "3f18219785be",
       "source": "Al Jazeera",
-      "headline": "Brazil’s Flavio Bolsonaro names Alfredo Gaspar as running mate",
-      "excerpt": "The announcement comes as Lula warns of foreign interference and polls show a tightening presidential race.",
-      "link": "https://www.aljazeera.com/news/2026/8/5/brazils-flavio-bolsonaro-names-alfredo-gaspar-as-running-mate?traffic_source=rss",
-      "published": "2026-08-05T19:22:06+00:00",
+      "headline": "Israeli occupation destroys farmland and lives in southern Syria",
+      "excerpt": "Israeli occupation destroys farmland and lives in southern Syria",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/israeli-occupation-destroys-farmland-and-lives-in-southern-syria?traffic_source=rss",
+      "published": "2026-08-05T22:01:33+00:00",
       "featured": true
     },
     {
-      "id": "4fedbb63d547",
+      "id": "756b2ce1da33",
       "source": "The Intercept",
-      "headline": "When a President Promises a Massacre",
-      "excerpt": "Harkening back to colonial massacres, Trump abandons the premise of proportionality for butchery in Iran and beyond. The post When a President Promises a Massacre appeared first on The Intercept.",
-      "link": "https://theintercept.com/2026/08/05/trump-colonial-extermination-asymmetric-warfare/",
-      "published": "2026-08-05T17:21:03+00:00",
+      "headline": "There’s No Time for Centrists to Be Doomers About El-Sayed’s Victory",
+      "excerpt": "The public health official faced down AIPAC — and the entire Democratic Party establishment — to beat Haley Stevens. That’s well worth celebrating. The post There’s No Time for Centrists to Be Doomers About El-Sayed’s...",
+      "link": "https://theintercept.com/2026/08/05/abdul-el-sayed-michigan-democratic-senate-primary/",
+      "published": "2026-08-05T21:02:18+00:00",
       "featured": true
     },
     {
-      "id": "1b47ce07fd5f",
+      "id": "ba58d15494a4",
       "source": "The Lever",
-      "headline": "Midterm Madness: El-Sayed Wins, Overcomes $62 Million Corporate Spending Spree",
-      "excerpt": "The longtime backer of Medicare for All bested a 9-to-1 spending deficit to defeat Rep. Haley Stevens (D-Mich.), who was endorsed by the party establishment.",
-      "link": "https://www.levernews.com/midterm-madness-el-sayed-wins-overcomes-62-million-spending-spree/",
-      "published": "2026-08-05T17:04:44+00:00",
+      "headline": "Trump’s Iran Oil Giveaway",
+      "excerpt": "As war with Iran drove oil prices higher, Trump gave politically connected oil companies — not taxpayers — the chance to cash in on publicly owned oil.",
+      "link": "https://www.levernews.com/trumps-iran-oil-giveaway/",
+      "published": "2026-08-05T20:41:30+00:00",
       "featured": true
+    },
+    {
+      "id": "69684180d7b9",
+      "source": "ICIJ",
+      "headline": "After cancer drug counterfeiting scandal, India imposes new tracing requirements",
+      "excerpt": "Reporting by ICIJ and The Indian Express illustrated how Indian counterfeiters exploited the high price of the lifesaving cancer drug Keytruda and the desperation of patients seeking it.",
+      "link": "https://www.icij.org/investigations/cancer-calculus/after-cancer-drug-counterfeiting-scandal-india-imposes-new-tracing-requirements/",
+      "published": "2026-08-05T19:30:24+00:00",
+      "featured": false
     },
     {
       "id": "f5b873407527",
@@ -74,15 +83,6 @@
       "featured": false
     },
     {
-      "id": "b3505f55c652",
-      "source": "ICIJ",
-      "headline": "Companies once tied to Assad kept winning UN contracts under Syria’s new rulers",
-      "excerpt": "An ICIJ analysis found that at least 11 firms received roughly $10 million in 2025 after opaque deals and seizures reshaped their ownership.",
-      "link": "https://www.icij.org/investigations/damascus-dossier/companies-once-tied-to-assad-kept-winning-un-contracts-under-syrias-new-rulers/",
-      "published": "2026-08-04T19:54:07+00:00",
-      "featured": false
-    },
-    {
       "id": "fde6a5053370",
       "source": "Bellingcat",
       "headline": "Welcome to Dubai: Kinahan Cartel’s Visas Revealed",
@@ -110,12 +110,30 @@
       "featured": false
     },
     {
-      "id": "aabfada8ca44",
+      "id": "627a7acabc60",
       "source": "Al Jazeera",
-      "headline": "Malaysia vows not to return Rohingya refugees to Myanmar if lives at risk",
-      "excerpt": "Authorities are screening 5,000 refugees as rights groups warn they remain at risk of persecution in Myanmar.",
-      "link": "https://www.aljazeera.com/news/2026/8/5/malaysia-will-not-return-rohingya-refugees-to-myanmar-if-lives-are-at-risk?traffic_source=rss",
-      "published": "2026-08-05T18:40:06+00:00",
+      "headline": "US officials push back on reports of dangerously low munitions supplies",
+      "excerpt": "Experts warn that low stockpiles of air defence interceptors as a result of the war on Iran leave the US vulnerable.",
+      "link": "https://www.aljazeera.com/news/2026/8/5/us-officials-push-back-on-reports-of-dangerously-low-munitions-supplies?traffic_source=rss",
+      "published": "2026-08-05T22:00:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "4fedbb63d547",
+      "source": "The Intercept",
+      "headline": "When a President Promises a Massacre",
+      "excerpt": "Harkening back to colonial massacres, Trump abandons the premise of proportionality for butchery in Iran and beyond. The post When a President Promises a Massacre appeared first on The Intercept.",
+      "link": "https://theintercept.com/2026/08/05/trump-colonial-extermination-asymmetric-warfare/",
+      "published": "2026-08-05T17:21:03+00:00",
+      "featured": false
+    },
+    {
+      "id": "1b47ce07fd5f",
+      "source": "The Lever",
+      "headline": "Midterm Madness: El-Sayed Wins, Overcomes $62 Million Corporate Spending Spree",
+      "excerpt": "The longtime backer of Medicare for All bested a 9-to-1 spending deficit to defeat Rep. Haley Stevens (D-Mich.), who was endorsed by the party establishment.",
+      "link": "https://www.levernews.com/midterm-madness-el-sayed-wins-overcomes-62-million-spending-spree/",
+      "published": "2026-08-05T17:04:44+00:00",
       "featured": false
     },
     {
@@ -125,15 +143,6 @@
       "excerpt": "The case of Samuel Tunick allegedly wiping a phone before DHS could search it; inside an AI-powered TIkTok Shop; and Google Earth's dumb AI tool.",
       "link": "https://www.404media.co/podcast-this-man-might-go-to-prison-for-wiping-his-phone/",
       "published": "2026-08-05T14:23:24+00:00",
-      "featured": false
-    },
-    {
-      "id": "e12f4703a94e",
-      "source": "The Intercept",
-      "headline": "Abdul El-Sayed Beats the Democratic Establishment and AIPAC in Michigan",
-      "excerpt": "Abdul El-Sayed narrowly defeated Rep. Haley Stevens — despite a record-setting $60 million in outside spending in her favor. The post Abdul El-Sayed Beats the Democratic Establishment and AIPAC in Michigan appeared...",
-      "link": "https://theintercept.com/2026/08/05/michigan-primary-results-el-sayed-stevens-aipac/",
-      "published": "2026-08-05T14:03:00+00:00",
       "featured": false
     },
     {
@@ -155,12 +164,12 @@
       "featured": false
     },
     {
-      "id": "45dbc49705d5",
-      "source": "The Lever",
-      "headline": "Democrats’ Corporate Corruption Divide",
-      "excerpt": "The party’s establishment and populist factions are fighting over whether the affordability crisis is connected to money in politics.",
-      "link": "https://www.levernews.com/democrats-corporate-corruption-divide/",
-      "published": "2026-08-04T19:57:04+00:00",
+      "id": "b3505f55c652",
+      "source": "ICIJ",
+      "headline": "Companies once tied to Assad kept winning UN contracts under Syria’s new rulers",
+      "excerpt": "An ICIJ analysis found that at least 11 firms received roughly $10 million in 2025 after opaque deals and seizures reshaped their ownership.",
+      "link": "https://www.icij.org/investigations/damascus-dossier/companies-once-tied-to-assad-kept-winning-un-contracts-under-syrias-new-rulers/",
+      "published": "2026-08-04T19:54:07+00:00",
       "featured": false
     },
     {
@@ -179,15 +188,6 @@
       "excerpt": "Local tech groups in Kenya, India, and the U.S. are building communities and conversations around AI, but also face questions about privilege and reach.",
       "link": "https://restofworld.org/2026/global-ai-salons-grassroots-silicon-valley/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "published": "2026-08-04T10:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "d94afd76a70c",
-      "source": "ICIJ",
-      "headline": "Europe sanctioned crypto exchange HTX. Experts say the firm is deploying tactics that could blunt the impact.",
-      "excerpt": "The exchange is rapidly generating new accounts in a way that can confuse authorities and compliance officials, experts told ICIJ.",
-      "link": "https://www.icij.org/investigations/coin-laundry/europe-sanctioned-crypto-exchange-htx-experts-say-the-firm-is-deploying-tactics-that-could-blunt-the-impact/",
-      "published": "2026-07-31T14:55:36+00:00",
       "featured": false
     },
     {
@@ -218,12 +218,21 @@
       "featured": false
     },
     {
-      "id": "5c5fdf0974b3",
+      "id": "a14351f9e85b",
       "source": "Al Jazeera",
-      "headline": "US authorities report deadly mass shooting in Prospect Hill, North Carolina",
-      "excerpt": "This is a breaking news story.",
-      "link": "https://www.aljazeera.com/news/2026/8/5/us-law-enforcement-reports-deadly-mass-shooting-in-north-carolina?traffic_source=rss",
-      "published": "2026-08-05T18:25:07+00:00",
+      "headline": "US man arrested at Trump’s golf course charged with multiple felonies",
+      "excerpt": "Ex-Marine denies charges after arrest at Los Angeles golf course, with weapons, badge and 'concerning' notebooks found.",
+      "link": "https://www.aljazeera.com/news/2026/8/5/us-man-arrested-at-trumps-golf-course-charged-with-multiple-felonies?traffic_source=rss",
+      "published": "2026-08-05T21:35:13+00:00",
+      "featured": false
+    },
+    {
+      "id": "e12f4703a94e",
+      "source": "The Intercept",
+      "headline": "Abdul El-Sayed Beats the Democratic Establishment and AIPAC in Michigan",
+      "excerpt": "Abdul El-Sayed narrowly defeated Rep. Haley Stevens — despite a record-setting $60 million in outside spending in her favor. The post Abdul El-Sayed Beats the Democratic Establishment and AIPAC in Michigan appeared...",
+      "link": "https://theintercept.com/2026/08/05/michigan-primary-results-el-sayed-stevens-aipac/",
+      "published": "2026-08-05T14:03:00+00:00",
       "featured": false
     },
     {
@@ -236,12 +245,12 @@
       "featured": false
     },
     {
-      "id": "cef8d6f5f055",
-      "source": "The Intercept",
-      "headline": "Wesley Bell Again Defeats Cori Bush — With Plenty of Help From AIPAC",
-      "excerpt": "The moderate Democrat easily won the rematch in Missouri’s primary against an outspoken critic of Israel. The post Wesley Bell Again Defeats Cori Bush — With Plenty of Help From AIPAC appeared first on The Intercept.",
-      "link": "https://theintercept.com/2026/08/04/wesley-bell-cori-bush-missouri-aipac/",
-      "published": "2026-08-05T01:55:33+00:00",
+      "id": "45dbc49705d5",
+      "source": "The Lever",
+      "headline": "Democrats’ Corporate Corruption Divide",
+      "excerpt": "The party’s establishment and populist factions are fighting over whether the affordability crisis is connected to money in politics.",
+      "link": "https://www.levernews.com/democrats-corporate-corruption-divide/",
+      "published": "2026-08-04T19:57:04+00:00",
       "featured": false
     },
     {
@@ -251,15 +260,6 @@
       "excerpt": "Sami Al-Arian joins Jeremy Scahill to discuss the latest on Hamas and the Board of Peace. Then, Jeremy and Ryan Grim discuss today's Michigan primary and potential 2028 candidates.",
       "link": "https://www.dropsitenews.com/p/the-gaza-ceasefire-farce-and-the",
       "published": "2026-08-04T19:12:57+00:00",
-      "featured": false
-    },
-    {
-      "id": "dd2fd2ce026e",
-      "source": "The Lever",
-      "headline": "Flock’s Surveillance Nation",
-      "excerpt": "Dozens of police officers have been accused of improperly accessing public safety cameras.",
-      "link": "https://www.levernews.com/flocks-surveillance-nation/",
-      "published": "2026-08-04T16:57:28+00:00",
       "featured": false
     },
     {
@@ -290,6 +290,15 @@
       "featured": false
     },
     {
+      "id": "d94afd76a70c",
+      "source": "ICIJ",
+      "headline": "Europe sanctioned crypto exchange HTX. Experts say the firm is deploying tactics that could blunt the impact.",
+      "excerpt": "The exchange is rapidly generating new accounts in a way that can confuse authorities and compliance officials, experts told ICIJ.",
+      "link": "https://www.icij.org/investigations/coin-laundry/europe-sanctioned-crypto-exchange-htx-experts-say-the-firm-is-deploying-tactics-that-could-blunt-the-impact/",
+      "published": "2026-07-31T14:55:36+00:00",
+      "featured": false
+    },
+    {
       "id": "3c375951e03d",
       "source": "More Perfect Union",
       "headline": "Why Latino Trump Voters Are At A Breaking Point",
@@ -308,30 +317,21 @@
       "featured": false
     },
     {
-      "id": "78e93507b9c1",
-      "source": "ICIJ",
-      "headline": "Inside the Matrix: How models, influencers and engagement quotas power the Social Discovery Group’s dating machine and global profits",
-      "excerpt": "Women on four continents told ICIJ that global pay-per-action dating sites owned by a Russian businessman and self-styled philosopher left them financially broke and heartbroken.",
-      "link": "https://www.icij.org/news/2026/07/dating-app-scam-models-influencers-social-discovery-group/",
-      "published": "2026-07-23T15:11:47+00:00",
-      "featured": false
-    },
-    {
-      "id": "78fe8367f51b",
+      "id": "25f2142171a8",
       "source": "Al Jazeera",
-      "headline": "Is the conflict between Russia and Ukraine deepening?",
-      "excerpt": "The war sees a surge in attacks by both sides with little diplomatic movement.",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/8/5/is-the-conflict-between-russia-and-ukraine-deepening?traffic_source=rss",
-      "published": "2026-08-05T18:16:03+00:00",
+      "headline": "Israeli forces raid camp in occupied West Bank",
+      "excerpt": "Israeli forces have launched a large-scale military operation in Qalandiya refugee camp in the occupied West Bank.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/israeli-forces-raid-camp-in-occupied-west-bank-2?traffic_source=rss",
+      "published": "2026-08-05T21:31:55+00:00",
       "featured": false
     },
     {
-      "id": "6ff22826092c",
+      "id": "cef8d6f5f055",
       "source": "The Intercept",
-      "headline": "Bari Weiss’s “60 Minutes” Hires Producer Who Downplayed Gaza Starvation, Justified Killing Journalists",
-      "excerpt": "The latest CBS News hire shows that the way to get ahead in journalism is to act as a tool for the powerful. The post Bari Weiss’s “60 Minutes” Hires Producer Who Downplayed Gaza Starvation, Justified Killing...",
-      "link": "https://theintercept.com/2026/08/04/60-minutes-bari-weiss-cbs-news-israel-gaza/",
-      "published": "2026-08-04T19:46:41+00:00",
+      "headline": "Wesley Bell Again Defeats Cori Bush — With Plenty of Help From AIPAC",
+      "excerpt": "The moderate Democrat easily won the rematch in Missouri’s primary against an outspoken critic of Israel. The post Wesley Bell Again Defeats Cori Bush — With Plenty of Help From AIPAC appeared first on The Intercept.",
+      "link": "https://theintercept.com/2026/08/04/wesley-bell-cori-bush-missouri-aipac/",
+      "published": "2026-08-05T01:55:33+00:00",
       "featured": false
     },
     {
@@ -341,6 +341,15 @@
       "excerpt": "Mike Lee's SCREEN Act, which heads to Senate Commerce Committee for markup on Wednesday, would expand age verification requirements to a nearly limitless scope of websites, and is supported by the architects of Project...",
       "link": "https://www.404media.co/what-is-the-screen-act-age-verification-porn/",
       "published": "2026-08-04T17:41:56+00:00",
+      "featured": false
+    },
+    {
+      "id": "dd2fd2ce026e",
+      "source": "The Lever",
+      "headline": "Flock’s Surveillance Nation",
+      "excerpt": "Dozens of police officers have been accused of improperly accessing public safety cameras.",
+      "link": "https://www.levernews.com/flocks-surveillance-nation/",
+      "published": "2026-08-04T16:57:28+00:00",
       "featured": false
     },
     {
@@ -362,15 +371,6 @@
       "featured": false
     },
     {
-      "id": "1029e12d37e4",
-      "source": "The Lever",
-      "headline": "THE KINGMAKERS, Ep. 6: Obama's Kill List",
-      "excerpt": "The president who promised restraint quietly unleashes a new weapon of executive power.",
-      "link": "https://www.levernews.com/the-kingmakers-ep-6-obamas-kill-list/",
-      "published": "2026-08-04T08:30:07+00:00",
-      "featured": false
-    },
-    {
       "id": "b5214a108f1a",
       "source": "OCCRP",
       "headline": "US Fines UBS Record $125M for 'Willful' Anti-Money Laundering Violations",
@@ -389,12 +389,12 @@
       "featured": false
     },
     {
-      "id": "cfb311dc7126",
+      "id": "78e93507b9c1",
       "source": "ICIJ",
-      "headline": "Canadian intelligence flags crypto-to-cash services as ‘knowingly facilitating money laundering,’ document shows",
-      "excerpt": "An internal report obtained says that crypto brokers are moving millions while dodging rules to guard against dirty money.",
-      "link": "https://www.icij.org/investigations/coin-laundry/canadian-intelligence-flags-crypto-to-cash-services-as-knowingly-facilitating-money-laundering-document-shows/",
-      "published": "2026-07-21T15:25:38+00:00",
+      "headline": "Inside the Matrix: How models, influencers and engagement quotas power the Social Discovery Group’s dating machine and global profits",
+      "excerpt": "Women on four continents told ICIJ that global pay-per-action dating sites owned by a Russian businessman and self-styled philosopher left them financially broke and heartbroken.",
+      "link": "https://www.icij.org/news/2026/07/dating-app-scam-models-influencers-social-discovery-group/",
+      "published": "2026-07-23T15:11:47+00:00",
       "featured": false
     },
     {
@@ -407,21 +407,21 @@
       "featured": false
     },
     {
-      "id": "7620da05e1ed",
+      "id": "481127ea4648",
       "source": "Al Jazeera",
-      "headline": "Photos: Israeli forces raid occupied West Bank’s Qalandiya refugee camp",
-      "excerpt": "Eight Palestinian people injured after Israeli forces enter homes, shops in Qalandiya, issuing demolition threats.",
-      "link": "https://www.aljazeera.com/gallery/2026/8/5/photos-israeli-forces-raid-occupied-west-banks-qalandiya-refugee-camp?traffic_source=rss",
-      "published": "2026-08-05T17:41:24+00:00",
+      "headline": "Clashes on anniversary of Imran Khan imprisonment",
+      "excerpt": "Pakistan police fired tear gas at supporters of jailed former Prime Minister Imran Khan in Rawalpindi.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/5-8-clip-teargas-ik-protests-pk?traffic_source=rss",
+      "published": "2026-08-05T21:28:14+00:00",
       "featured": false
     },
     {
-      "id": "2c61b6ce9539",
+      "id": "6ff22826092c",
       "source": "The Intercept",
-      "headline": "BLM Protester Transferred Thousands of Miles Away After They Organized Against Their Solitary Confinement",
-      "excerpt": "A misconduct report before the transfer noted that Malik Muhammad, a Black Lives Matter protester, was critical of Israel in communications from prison. The post BLM Protester Transferred Thousands of Miles Away After...",
-      "link": "https://theintercept.com/2026/08/04/malik-muhammad-black-lives-matter-prison-transfer/",
-      "published": "2026-08-04T18:34:20+00:00",
+      "headline": "Bari Weiss’s “60 Minutes” Hires Producer Who Downplayed Gaza Starvation, Justified Killing Journalists",
+      "excerpt": "The latest CBS News hire shows that the way to get ahead in journalism is to act as a tool for the powerful. The post Bari Weiss’s “60 Minutes” Hires Producer Who Downplayed Gaza Starvation, Justified Killing...",
+      "link": "https://theintercept.com/2026/08/04/60-minutes-bari-weiss-cbs-news-israel-gaza/",
+      "published": "2026-08-04T19:46:41+00:00",
       "featured": false
     },
     {
@@ -443,12 +443,12 @@
       "featured": false
     },
     {
-      "id": "2d9433511fc3",
+      "id": "1029e12d37e4",
       "source": "The Lever",
-      "headline": "THE KINGMAKERS, Ep. 5: State Of Emergency",
-      "excerpt": "September 11, 2001 brought chaos and terror to the United States. It also brought an unprecedented opportunity.",
-      "link": "https://www.levernews.com/the-kingmakers-ep-5-state-of-emergency/",
-      "published": "2026-08-04T07:30:57+00:00",
+      "headline": "THE KINGMAKERS, Ep. 6: Obama's Kill List",
+      "excerpt": "The president who promised restraint quietly unleashes a new weapon of executive power.",
+      "link": "https://www.levernews.com/the-kingmakers-ep-6-obamas-kill-list/",
+      "published": "2026-08-04T08:30:07+00:00",
       "featured": false
     },
     {
@@ -479,30 +479,30 @@
       "featured": false
     },
     {
-      "id": "9b5a8b13fb9a",
+      "id": "cfb311dc7126",
       "source": "ICIJ",
-      "headline": "Swedbank fined $50 million by New York authorities over Panama Papers revelations",
-      "excerpt": "The Swedish bank and its New York subsidiary agreed to the penalty to settle final U.S. probe tied to money laundering case, officials say.",
-      "link": "https://www.icij.org/investigations/panama-papers/swedbank-fined-50-million-by-new-york-authorities-over-panama-papers-revelations/",
-      "published": "2026-07-17T21:24:52+00:00",
+      "headline": "Canadian intelligence flags crypto-to-cash services as ‘knowingly facilitating money laundering,’ document shows",
+      "excerpt": "An internal report obtained says that crypto brokers are moving millions while dodging rules to guard against dirty money.",
+      "link": "https://www.icij.org/investigations/coin-laundry/canadian-intelligence-flags-crypto-to-cash-services-as-knowingly-facilitating-money-laundering-document-shows/",
+      "published": "2026-07-21T15:25:38+00:00",
       "featured": false
     },
     {
-      "id": "fdc5c549ba49",
-      "source": "Bellingcat",
-      "headline": "Between Graves and Uncertainty: The Management of the Dead After Venezuela’s Earthquake",
-      "excerpt": "Bellingcat has geolocated footage circulating on social media that appears to show coffins placed in newly dug trenches following the recent deadly earthquakes in Venezuela. The site identified extends over two hectares...",
-      "link": "https://www.bellingcat.com/news/2026/07/06/between-graves-and-uncertainty-the-management-of-the-dead-after-venezuelas-earthquake/",
-      "published": "2026-07-06T22:19:31+00:00",
-      "featured": false
-    },
-    {
-      "id": "9ea8486e7170",
+      "id": "31c91966ccf7",
       "source": "Al Jazeera",
       "headline": "El-Sayed wins Michigan Democratic Senate primary",
-      "excerpt": "Abdul El-Sayed won Michigan's Democratic primary for US Senate, narrowly defeating Rep. Haley Stevens.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/el-sayed-wins-michigan-democratic-senate-primary?traffic_source=rss",
-      "published": "2026-08-05T17:40:03+00:00",
+      "excerpt": "Abdul el-Sayed has won Michigan’s Democratic senate primary",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/el-sayed-wins-michigan-democratic-senate-primary-2?traffic_source=rss",
+      "published": "2026-08-05T21:15:35+00:00",
+      "featured": false
+    },
+    {
+      "id": "2c61b6ce9539",
+      "source": "The Intercept",
+      "headline": "BLM Protester Transferred Thousands of Miles Away After They Organized Against Their Solitary Confinement",
+      "excerpt": "A misconduct report before the transfer noted that Malik Muhammad, a Black Lives Matter protester, was critical of Israel in communications from prison. The post BLM Protester Transferred Thousands of Miles Away After...",
+      "link": "https://theintercept.com/2026/08/04/malik-muhammad-black-lives-matter-prison-transfer/",
+      "published": "2026-08-04T18:34:20+00:00",
       "featured": false
     },
     {
@@ -515,21 +515,12 @@
       "featured": false
     },
     {
-      "id": "3a82e01ac4b4",
-      "source": "The Intercept",
-      "headline": "The Pentagon Found a New Way to Undercount U.S. Casualties in Iran",
-      "excerpt": "U.S. troops killed or wounded since July 7 are now counted separately from casualties during the first months of the Iran war. The post The Pentagon Found a New Way to Undercount U.S. Casualties in Iran appeared first...",
-      "link": "https://theintercept.com/2026/08/04/us-military-casualties-count-iran-war/",
-      "published": "2026-08-04T09:54:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "2fd8e24f9456",
+      "id": "2d9433511fc3",
       "source": "The Lever",
-      "headline": "What You Need To Know About The Democratic Reckoning In Michigan",
-      "excerpt": "The fight between Abdul El-Sayed and Haley Stevens is about far more than one Senate seat. It's a battle over who controls the Democratic Party—and whose interests it serves.",
-      "link": "https://www.levernews.com/what-you-need-to-know-about-the-democratic-reckoning-in-michigan/",
-      "published": "2026-08-03T22:34:51+00:00",
+      "headline": "THE KINGMAKERS, Ep. 5: State Of Emergency",
+      "excerpt": "September 11, 2001 brought chaos and terror to the United States. It also brought an unprecedented opportunity.",
+      "link": "https://www.levernews.com/the-kingmakers-ep-5-state-of-emergency/",
+      "published": "2026-08-04T07:30:57+00:00",
       "featured": false
     },
     {
@@ -539,6 +530,15 @@
       "excerpt": "Drop Site Daily: August 3, 2026",
       "link": "https://www.dropsitenews.com/p/iran-us-trump-talks-gaza-israel-strikes-deal-cuba-electricity-blackout",
       "published": "2026-08-03T15:33:29+00:00",
+      "featured": false
+    },
+    {
+      "id": "5cdd9e0f3d37",
+      "source": "OCCRP",
+      "headline": "Six Indicted in Czech $20M VAT Fraud Case",
+      "excerpt": "",
+      "link": "https://www.occrp.org/en/news/six-indicted-in-czech-20m-vat-fraud-case",
+      "published": "2026-08-03T11:18:00+00:00",
       "featured": false
     }
   ]
