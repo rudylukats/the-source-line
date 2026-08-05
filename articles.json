@@ -1,13 +1,22 @@
 {
-  "generated_at": "2026-08-04T22:29:43.499456+00:00",
+  "generated_at": "2026-08-05T03:33:18.869676+00:00",
   "articles": [
     {
-      "id": "e7df95ba74ae",
+      "id": "229030434b77",
       "source": "Al Jazeera",
-      "headline": "Elon Musk’s SpaceX reports losses but less than expected",
-      "excerpt": "Revenue was up more than 90 percent from the same period a year ago, beating analyst expectations.",
-      "link": "https://www.aljazeera.com/economy/2026/8/4/elon-musks-spacex-reports-reports-losses-but-less-than-expected?traffic_source=rss",
-      "published": "2026-08-04T22:02:09+00:00",
+      "headline": "US stock market hits record high amid hopes for Strait of Hormuz reopening",
+      "excerpt": "Oil prices fall as US officials tout progress in talks to reopen critical waterway.",
+      "link": "https://www.aljazeera.com/economy/2026/8/5/us-stock-market-hits-record-high-amid-hopes-for-strait-of-hormuz-reopening?traffic_source=rss",
+      "published": "2026-08-05T02:09:06+00:00",
+      "featured": true
+    },
+    {
+      "id": "cef8d6f5f055",
+      "source": "The Intercept",
+      "headline": "Wesley Bell Again Defeats Cori Bush — With Plenty of Help From AIPAC",
+      "excerpt": "The moderate Democrat easily won the rematch in Missouri’s primary against an outspoken critic of Israel. The post Wesley Bell Again Defeats Cori Bush — With Plenty of Help From AIPAC appeared first on The Intercept.",
+      "link": "https://theintercept.com/2026/08/04/wesley-bell-cori-bush-missouri-aipac/",
+      "published": "2026-08-05T01:55:33+00:00",
       "featured": true
     },
     {
@@ -26,7 +35,7 @@
       "excerpt": "The party’s establishment and populist factions are fighting over whether the affordability crisis is connected to money in politics.",
       "link": "https://www.levernews.com/democrats-corporate-corruption-divide/",
       "published": "2026-08-04T19:57:04+00:00",
-      "featured": true
+      "featured": false
     },
     {
       "id": "b3505f55c652",
@@ -35,15 +44,6 @@
       "excerpt": "An ICIJ analysis found that at least 11 firms received roughly $10 million in 2025 after opaque deals and seizures reshaped their ownership.",
       "link": "https://www.icij.org/investigations/damascus-dossier/companies-once-tied-to-assad-kept-winning-un-contracts-under-syrias-new-rulers/",
       "published": "2026-08-04T19:54:07+00:00",
-      "featured": false
-    },
-    {
-      "id": "6ff22826092c",
-      "source": "The Intercept",
-      "headline": "Bari Weiss’s “60 Minutes” Hires Producer Who Downplayed Gaza Starvation, Justified Killing Journalists",
-      "excerpt": "The latest CBS News hire shows that the way to get ahead in journalism is to act as a tool for the powerful. The post Bari Weiss’s “60 Minutes” Hires Producer Who Downplayed Gaza Starvation, Justified Killing...",
-      "link": "https://theintercept.com/2026/08/04/60-minutes-bari-weiss-cbs-news-israel-gaza/",
-      "published": "2026-08-04T19:46:41+00:00",
       "featured": false
     },
     {
@@ -110,12 +110,21 @@
       "featured": false
     },
     {
-      "id": "1cda337e5f2b",
+      "id": "7e85cc34cf4e",
       "source": "Al Jazeera",
-      "headline": "How the far right weaponised the Ceuta crisis",
-      "excerpt": "More than 72 migrants died trying to reach Ceuta, but within hours the tragedy had become a political flashpoint.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/4/how-the-far-right-weaponised-the-ceuta-crisis?traffic_source=rss",
-      "published": "2026-08-04T21:32:41+00:00",
+      "headline": "Armed man arrested at Trump’s LA golf course ahead of president’s visit",
+      "excerpt": "Loaded pistol and rifle among items found in suspect's pocket, car and home following arrest, police say.",
+      "link": "https://www.aljazeera.com/news/2026/8/5/armed-man-arrested-at-trumps-la-golf-course-ahead-of-presidents-visit?traffic_source=rss",
+      "published": "2026-08-05T01:29:01+00:00",
+      "featured": false
+    },
+    {
+      "id": "6ff22826092c",
+      "source": "The Intercept",
+      "headline": "Bari Weiss’s “60 Minutes” Hires Producer Who Downplayed Gaza Starvation, Justified Killing Journalists",
+      "excerpt": "The latest CBS News hire shows that the way to get ahead in journalism is to act as a tool for the powerful. The post Bari Weiss’s “60 Minutes” Hires Producer Who Downplayed Gaza Starvation, Justified Killing...",
+      "link": "https://theintercept.com/2026/08/04/60-minutes-bari-weiss-cbs-news-israel-gaza/",
+      "published": "2026-08-04T19:46:41+00:00",
       "featured": false
     },
     {
@@ -125,15 +134,6 @@
       "excerpt": "Sami Al-Arian joins Jeremy Scahill to discuss the latest on Hamas and the Board of Peace. Then, Jeremy and Ryan Grim discuss today's Michigan primary and potential 2028 candidates.",
       "link": "https://www.dropsitenews.com/p/the-gaza-ceasefire-farce-and-the",
       "published": "2026-08-04T19:12:57+00:00",
-      "featured": false
-    },
-    {
-      "id": "2c61b6ce9539",
-      "source": "The Intercept",
-      "headline": "BLM Protester Transferred Thousands of Miles Away After They Organized Against Their Solitary Confinement",
-      "excerpt": "A misconduct report before the transfer noted that Malik Muhammad, a Black Lives Matter protester, was critical of Israel in communications from prison. The post BLM Protester Transferred Thousands of Miles Away After...",
-      "link": "https://theintercept.com/2026/08/04/malik-muhammad-black-lives-matter-prison-transfer/",
-      "published": "2026-08-04T18:34:20+00:00",
       "featured": false
     },
     {
@@ -218,12 +218,21 @@
       "featured": false
     },
     {
-      "id": "4c8fa0ddbb67",
+      "id": "9f370393bf0a",
       "source": "Al Jazeera",
-      "headline": "Funeral for family killed in US strike on Iran’s Qeshm Island",
-      "excerpt": "The funeral for a couple and their toddler took place after they were killed in the US strike on Iran's Qeshm Island.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/4/funeral-for-family-killed-in-us-strike-on-irans-qeshm-island?traffic_source=rss",
-      "published": "2026-08-04T21:11:50+00:00",
+      "headline": "Ceuta and Melilla: Why Europe’s African border remains a flashpoint",
+      "excerpt": "The two Spanish enclaves in North Africa remain at the centre of a diplomatic standoff between Spain and Morocco.",
+      "link": "https://www.aljazeera.com/news/2026/8/5/ceuta-and-melilla-why-europes-african-border-remains-a-flashpoint?traffic_source=rss",
+      "published": "2026-08-05T01:21:16+00:00",
+      "featured": false
+    },
+    {
+      "id": "2c61b6ce9539",
+      "source": "The Intercept",
+      "headline": "BLM Protester Transferred Thousands of Miles Away After They Organized Against Their Solitary Confinement",
+      "excerpt": "A misconduct report before the transfer noted that Malik Muhammad, a Black Lives Matter protester, was critical of Israel in communications from prison. The post BLM Protester Transferred Thousands of Miles Away After...",
+      "link": "https://theintercept.com/2026/08/04/malik-muhammad-black-lives-matter-prison-transfer/",
+      "published": "2026-08-04T18:34:20+00:00",
       "featured": false
     },
     {
@@ -242,15 +251,6 @@
       "excerpt": "“DO NOT MENTION ALPR USAGE TO THE OCCUPANTS OF THE VEHICLE. DO NOT MENTION ALPR USAGE IN YOUR REPORT OR COMPLAINT.\"",
       "link": "https://www.404media.co/do-not-mention-alpr-usage-how-cops-are-trying-to-hide-the-existence-of-flock/",
       "published": "2026-08-04T14:23:54+00:00",
-      "featured": false
-    },
-    {
-      "id": "3a82e01ac4b4",
-      "source": "The Intercept",
-      "headline": "The Pentagon Found a New Way to Undercount U.S. Casualties in Iran",
-      "excerpt": "U.S. troops killed or wounded since July 7 are now counted separately from casualties during the first months of the Iran war. The post The Pentagon Found a New Way to Undercount U.S. Casualties in Iran appeared first...",
-      "link": "https://theintercept.com/2026/08/04/us-military-casualties-count-iran-war/",
-      "published": "2026-08-04T09:54:00+00:00",
       "featured": false
     },
     {
@@ -317,12 +317,12 @@
       "featured": false
     },
     {
-      "id": "32bd2de537be",
+      "id": "23d3eb44ffb9",
       "source": "Al Jazeera",
-      "headline": "Death toll rises to 87 in India’s flood-stricken Assam",
-      "excerpt": "Flood victims in India’s Assam district are living in makeshift shelters after monsoon rains caused widespread flooding.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/4/aje-onl-nf_death-toll-rises-to-87-in-assam-040826?traffic_source=rss",
-      "published": "2026-08-04T21:03:17+00:00",
+      "headline": "Ukrainian man chased by exploding drone recounts his terror",
+      "excerpt": "A Ukrainian man has relived the moment a suspected Russian drone chased him before it blew up.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/ukrainian-man-chased-by-exploding-drone-recounts-his-terror?traffic_source=rss",
+      "published": "2026-08-05T00:56:23+00:00",
       "featured": false
     },
     {
@@ -335,21 +335,21 @@
       "featured": false
     },
     {
+      "id": "3a82e01ac4b4",
+      "source": "The Intercept",
+      "headline": "The Pentagon Found a New Way to Undercount U.S. Casualties in Iran",
+      "excerpt": "U.S. troops killed or wounded since July 7 are now counted separately from casualties during the first months of the Iran war. The post The Pentagon Found a New Way to Undercount U.S. Casualties in Iran appeared first...",
+      "link": "https://theintercept.com/2026/08/04/us-military-casualties-count-iran-war/",
+      "published": "2026-08-04T09:54:00+00:00",
+      "featured": false
+    },
+    {
       "id": "2d9433511fc3",
       "source": "The Lever",
       "headline": "THE KINGMAKERS, Ep. 5: State Of Emergency",
       "excerpt": "September 11, 2001 brought chaos and terror to the United States. It also brought an unprecedented opportunity.",
       "link": "https://www.levernews.com/the-kingmakers-ep-5-state-of-emergency/",
       "published": "2026-08-04T07:30:57+00:00",
-      "featured": false
-    },
-    {
-      "id": "fdeccd1e4ebc",
-      "source": "The Intercept",
-      "headline": "Liberals Are Ceding Ground to the Far Right on Ceuta Border Crossings",
-      "excerpt": "From the New York Times to the EU, liberals defending Spain from far-right fearmongering are regurgitating the right’s anti-immigrant premise. The post Liberals Are Ceding Ground to the Far Right on Ceuta Border...",
-      "link": "https://theintercept.com/2026/08/03/ceuta-spain-morocco-refugee-border/",
-      "published": "2026-08-03T21:04:37+00:00",
       "featured": false
     },
     {
@@ -407,12 +407,12 @@
       "featured": false
     },
     {
-      "id": "af78ecde100d",
+      "id": "f62663f0eaf5",
       "source": "Al Jazeera",
-      "headline": "Six years on, Beirut blast families still await justice",
-      "excerpt": "Families of victims of the Beirut port blast marked six years since the explosion by demanding truth and accountability.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/4/six-years-on-beirut-blast-families-still-await-justice?traffic_source=rss",
-      "published": "2026-08-04T21:03:15+00:00",
+      "headline": "Iran war live: Tehran-Oman talks on Hormuz ‘positive’; ship hit in Red Sea",
+      "excerpt": "Iran says talks with Oman are proceeding 'positively' as US officials say a deal could be possible soon.",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/8/5/iran-war-live-tehran-oman-talks-on-hormuz-positive-ship-hit-in-red-sea?traffic_source=rss",
+      "published": "2026-08-05T00:00:00+00:00",
       "featured": false
     },
     {
@@ -422,6 +422,15 @@
       "excerpt": "The fight between Abdul El-Sayed and Haley Stevens is about far more than one Senate seat. It's a battle over who controls the Democratic Party—and whose interests it serves.",
       "link": "https://www.levernews.com/what-you-need-to-know-about-the-democratic-reckoning-in-michigan/",
       "published": "2026-08-03T22:34:51+00:00",
+      "featured": false
+    },
+    {
+      "id": "fdeccd1e4ebc",
+      "source": "The Intercept",
+      "headline": "Liberals Are Ceding Ground to the Far Right on Ceuta Border Crossings",
+      "excerpt": "From the New York Times to the EU, liberals defending Spain from far-right fearmongering are regurgitating the right’s anti-immigrant premise. The post Liberals Are Ceding Ground to the Far Right on Ceuta Border...",
+      "link": "https://theintercept.com/2026/08/03/ceuta-spain-morocco-refugee-border/",
+      "published": "2026-08-03T21:04:37+00:00",
       "featured": false
     },
     {
@@ -440,15 +449,6 @@
       "excerpt": "Drop Site Daily: August 3, 2026",
       "link": "https://www.dropsitenews.com/p/iran-us-trump-talks-gaza-israel-strikes-deal-cuba-electricity-blackout",
       "published": "2026-08-03T15:33:29+00:00",
-      "featured": false
-    },
-    {
-      "id": "f6d9febadb2d",
-      "source": "The Intercept",
-      "headline": "NYPD Used High-Tech Surveillance to Find Gaza Paint Splatter Protester, Docs Show",
-      "excerpt": "Throwing paint on a statue at Columbia seems like a minor crime, but cops use tremendous resources when pro-Palestine protesters are in the crosshairs. The post NYPD Used High-Tech Surveillance to Find Gaza Paint...",
-      "link": "https://theintercept.com/2026/08/03/nypd-surveillance-gaza-protest-columbia/",
-      "published": "2026-08-03T13:59:46+00:00",
       "featured": false
     },
     {
@@ -497,12 +497,12 @@
       "featured": false
     },
     {
-      "id": "207f81891176",
+      "id": "d6fc6cd5b12a",
       "source": "Al Jazeera",
-      "headline": "National Guard deployment to Washington, DC will cost US roughly $1.4bn",
-      "excerpt": "The figure offers a glimpse of how much taxpayer money will be spent on a deployment that has been widely criticised.",
-      "link": "https://www.aljazeera.com/news/2026/8/4/national-guard-deployment-to-washington-dc-will-cost-us-roughly-1-4bn?traffic_source=rss",
-      "published": "2026-08-04T20:59:33+00:00",
+      "headline": "US revokes visa of Brazilian ambassador amid deepening diplomatic spat",
+      "excerpt": "An official has indicated that the visa revocation does not mean Brazil's ambassador will be expelled from the US.",
+      "link": "https://www.aljazeera.com/news/2026/8/4/us-revokes-visa-of-brazilian-ambassador-amid-deepening-diplomatic-spat?traffic_source=rss",
+      "published": "2026-08-04T23:41:27+00:00",
       "featured": false
     },
     {
@@ -524,21 +524,21 @@
       "featured": false
     },
     {
+      "id": "f6d9febadb2d",
+      "source": "The Intercept",
+      "headline": "NYPD Used High-Tech Surveillance to Find Gaza Paint Splatter Protester, Docs Show",
+      "excerpt": "Throwing paint on a statue at Columbia seems like a minor crime, but cops use tremendous resources when pro-Palestine protesters are in the crosshairs. The post NYPD Used High-Tech Surveillance to Find Gaza Paint...",
+      "link": "https://theintercept.com/2026/08/03/nypd-surveillance-gaza-protest-columbia/",
+      "published": "2026-08-03T13:59:46+00:00",
+      "featured": false
+    },
+    {
       "id": "3c912fe4781e",
       "source": "OCCRP",
       "headline": "The Rise and Fall of Kyrgyzstan’s Seemingly Untouchable Security Chief",
       "excerpt": "For years, Kamchybek Tashiev was considered the co-ruler of Kyrgyzstan, transforming the country’s security agency into a shadowy empire with its own kindergartens, billions in seized assets, and a stifling grip on...",
       "link": "https://www.occrp.org/en/feature/the-rise-and-fall-of-kyrgyzstans-seemingly-untouchable-security-chief",
       "published": "2026-08-03T11:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "89e09568ece4",
-      "source": "Dropsite News",
-      "headline": "State Killings in Pakistan as Kashmir Protest Movement Grows",
-      "excerpt": "The Pakistani military has imposed a communications blackout as it conducts a violent siege aimed at crushing a movement for electoral reform in Azad Kashmir.",
-      "link": "https://www.dropsitenews.com/p/state-killings-in-pakistan-as-kashmir",
-      "published": "2026-08-01T19:08:49+00:00",
       "featured": false
     }
   ]
