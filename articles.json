@@ -1,13 +1,22 @@
 {
-  "generated_at": "2026-08-07T00:16:21.294629+00:00",
+  "generated_at": "2026-08-07T05:02:46.775403+00:00",
   "articles": [
     {
-      "id": "71229ba5da61",
+      "id": "ca1371fd8bf8",
       "source": "Al Jazeera",
-      "headline": "After the floods, hunger: Mozambique’s second disaster",
-      "excerpt": "Lost harvests and disrupted supply routes have pushed many families deeper into food insecurity.",
-      "link": "https://www.aljazeera.com/news/2026/8/7/after-the-floods-hunger-mozambiques-second-disaster?traffic_source=rss",
-      "published": "2026-08-07T00:12:16+00:00",
+      "headline": "Turkiye’s Erdogan visits Saudi Arabia: What to expect",
+      "excerpt": "Erdogan will meet with Saudi Crown Prince Mohammed bin Salman and Pakistani PM Shehbaz Sharif, his office says.",
+      "link": "https://www.aljazeera.com/news/2026/8/7/turkiyes-erdogan-to-visit-saudi-arabia-what-to-expect?traffic_source=rss",
+      "published": "2026-08-07T04:43:43+00:00",
+      "featured": true
+    },
+    {
+      "id": "bb66f2d39528",
+      "source": "ICIJ",
+      "headline": "The $200 billion company you can’t look inside",
+      "excerpt": "Its USDT crypto token underpins a trillion-dollar market, but cryptocurrency giant Tether won’t answer questions about its ownership.",
+      "link": "https://www.icij.org/investigations/coin-laundry/the-200-billion-company-you-cant-look-inside/",
+      "published": "2026-08-07T04:01:59+00:00",
       "featured": true
     },
     {
@@ -26,7 +35,7 @@
       "excerpt": "SAP says it needs to “be disciplined in how we spend.” That includes still freezing hires and travel. Unless it's to do with AI, of course.",
       "link": "https://www.404media.co/software-giant-sap-stops-most-travel-and-hiring-because-of-ais-soaring-cost/",
       "published": "2026-08-06T19:13:34+00:00",
-      "featured": true
+      "featured": false
     },
     {
       "id": "4320a6670ca7",
@@ -83,15 +92,6 @@
       "featured": false
     },
     {
-      "id": "69684180d7b9",
-      "source": "ICIJ",
-      "headline": "After cancer drug counterfeiting scandal, India imposes new tracing requirements",
-      "excerpt": "Reporting by ICIJ and The Indian Express illustrated how Indian counterfeiters exploited the high price of the lifesaving cancer drug Keytruda and the desperation of patients seeking it.",
-      "link": "https://www.icij.org/investigations/cancer-calculus/after-cancer-drug-counterfeiting-scandal-india-imposes-new-tracing-requirements/",
-      "published": "2026-08-05T19:30:24+00:00",
-      "featured": false
-    },
-    {
       "id": "fde6a5053370",
       "source": "Bellingcat",
       "headline": "Welcome to Dubai: Kinahan Cartel’s Visas Revealed",
@@ -110,12 +110,12 @@
       "featured": false
     },
     {
-      "id": "7ece7c89dc94",
+      "id": "7910a9fb588e",
       "source": "Al Jazeera",
-      "headline": "Trump says war can’t ‘go much longer’, Hormuz deal close",
-      "excerpt": "The US, Iran, and Oman are close to a temporary deal to reopen the Strait of Hormuz",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/8/7/trump-says-war-cant-go-much-longer-hormuz-deal-close?traffic_source=rss",
-      "published": "2026-08-07T00:00:00+00:00",
+      "headline": "One killed, four injured in Thailand school shooting, officials say",
+      "excerpt": "Authorities say the gunman, a student, killed a teacher before taking his own life at a school northwest of Bangkok.",
+      "link": "https://www.aljazeera.com/news/2026/8/7/one-killed-four-injured-in-thailand-school-shooting-officials-say?traffic_source=rss",
+      "published": "2026-08-07T04:23:52+00:00",
       "featured": false
     },
     {
@@ -164,6 +164,15 @@
       "featured": false
     },
     {
+      "id": "69684180d7b9",
+      "source": "ICIJ",
+      "headline": "After cancer drug counterfeiting scandal, India imposes new tracing requirements",
+      "excerpt": "Reporting by ICIJ and The Indian Express illustrated how Indian counterfeiters exploited the high price of the lifesaving cancer drug Keytruda and the desperation of patients seeking it.",
+      "link": "https://www.icij.org/investigations/cancer-calculus/after-cancer-drug-counterfeiting-scandal-india-imposes-new-tracing-requirements/",
+      "published": "2026-08-05T19:30:24+00:00",
+      "featured": false
+    },
+    {
       "id": "68e5d9f3acf8",
       "source": "ProPublica",
       "headline": "James Talarico Accused Ken Paxton of Voter Fraud. His Own Voter Registration Is Raising Questions.",
@@ -179,15 +188,6 @@
       "excerpt": "An archival photo of a computer lab in the Herbert V. Manning Library on the campus of Claflin University",
       "link": "https://restofworld.org/2026/ai-jobs-economy-impact/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "published": "2026-08-05T10:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "b3505f55c652",
-      "source": "ICIJ",
-      "headline": "Companies once tied to Assad kept winning UN contracts under Syria’s new rulers",
-      "excerpt": "An ICIJ analysis found that at least 11 firms received roughly $10 million in 2025 after opaque deals and seizures reshaped their ownership.",
-      "link": "https://www.icij.org/investigations/damascus-dossier/companies-once-tied-to-assad-kept-winning-un-contracts-under-syrias-new-rulers/",
-      "published": "2026-08-04T19:54:07+00:00",
       "featured": false
     },
     {
@@ -218,12 +218,12 @@
       "featured": false
     },
     {
-      "id": "1afc6306df02",
+      "id": "575999b0322a",
       "source": "Al Jazeera",
-      "headline": "Travel restrictions – from Israel and Europe – trap students in Gaza",
-      "excerpt": "Blockades and bureaucracy turn education into an uphill journey for talented Gaza students seeking a brighter future.",
-      "link": "https://www.aljazeera.com/features/2026/8/6/travel-restrictions-from-israel-and-europe-trap-students-in-gaza?traffic_source=rss",
-      "published": "2026-08-06T23:49:21+00:00",
+      "headline": "Anti-Muslim US Congressman Andy Ogles loses Republican primary",
+      "excerpt": "Trump's endorsement fails to save Tennessee legislator who recently said 'Muslims don't belong in American society'.",
+      "link": "https://www.aljazeera.com/news/2026/8/7/anti-muslim-us-congressman-andy-ogles-loses-congressional-primary?traffic_source=rss",
+      "published": "2026-08-07T04:04:45+00:00",
       "featured": false
     },
     {
@@ -281,21 +281,21 @@
       "featured": false
     },
     {
+      "id": "b3505f55c652",
+      "source": "ICIJ",
+      "headline": "Companies once tied to Assad kept winning UN contracts under Syria’s new rulers",
+      "excerpt": "An ICIJ analysis found that at least 11 firms received roughly $10 million in 2025 after opaque deals and seizures reshaped their ownership.",
+      "link": "https://www.icij.org/investigations/damascus-dossier/companies-once-tied-to-assad-kept-winning-un-contracts-under-syrias-new-rulers/",
+      "published": "2026-08-04T19:54:07+00:00",
+      "featured": false
+    },
+    {
       "id": "12db91c03990",
       "source": "Rest of World",
       "headline": "The global grassroots gatherings trying to humanize the AI boom",
       "excerpt": "Local tech groups in Kenya, India, and the U.S. are building communities and conversations around AI, but also face questions about privilege and reach.",
       "link": "https://restofworld.org/2026/global-ai-salons-grassroots-silicon-valley/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "published": "2026-08-04T10:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "d94afd76a70c",
-      "source": "ICIJ",
-      "headline": "Europe sanctioned crypto exchange HTX. Experts say the firm is deploying tactics that could blunt the impact.",
-      "excerpt": "The exchange is rapidly generating new accounts in a way that can confuse authorities and compliance officials, experts told ICIJ.",
-      "link": "https://www.icij.org/investigations/coin-laundry/europe-sanctioned-crypto-exchange-htx-experts-say-the-firm-is-deploying-tactics-that-could-blunt-the-impact/",
-      "published": "2026-07-31T14:55:36+00:00",
       "featured": false
     },
     {
@@ -317,12 +317,12 @@
       "featured": false
     },
     {
-      "id": "52e0ec73d1ba",
+      "id": "2d5c7597802b",
       "source": "Al Jazeera",
-      "headline": "‘No red line’: South Lebanon residents outraged as Israel resumes strikes",
-      "excerpt": "People in South Lebanon question their government's approach as Israel launches more attacks and displacement orders.",
-      "link": "https://www.aljazeera.com/news/2026/8/6/south-lebanon-people-speak-out-as-israel-launches-attacks-ceasefire?traffic_source=rss",
-      "published": "2026-08-06T23:46:37+00:00",
+      "headline": "AI used to create viruses not found in nature for first time",
+      "excerpt": "US researchers say they created 16 viruses using AI, prompting hopes for medical advances and concerns about misuse.",
+      "link": "https://www.aljazeera.com/economy/2026/8/7/ai-used-to-create-viruses-not-found-in-nature-for-first-time?traffic_source=rss",
+      "published": "2026-08-07T03:48:22+00:00",
       "featured": false
     },
     {
@@ -389,21 +389,21 @@
       "featured": false
     },
     {
+      "id": "d94afd76a70c",
+      "source": "ICIJ",
+      "headline": "Europe sanctioned crypto exchange HTX. Experts say the firm is deploying tactics that could blunt the impact.",
+      "excerpt": "The exchange is rapidly generating new accounts in a way that can confuse authorities and compliance officials, experts told ICIJ.",
+      "link": "https://www.icij.org/investigations/coin-laundry/europe-sanctioned-crypto-exchange-htx-experts-say-the-firm-is-deploying-tactics-that-could-blunt-the-impact/",
+      "published": "2026-07-31T14:55:36+00:00",
+      "featured": false
+    },
+    {
       "id": "3c375951e03d",
       "source": "More Perfect Union",
       "headline": "Why Latino Trump Voters Are At A Breaking Point",
       "excerpt": "Latino voters in South Texas’s reddest district are turning on Trump. Now a Democrat could win them back.",
       "link": "https://substack.perfectunion.us/p/why-latino-trump-voters-are-at-a",
       "published": "2026-07-28T19:37:51+00:00",
-      "featured": false
-    },
-    {
-      "id": "78e93507b9c1",
-      "source": "ICIJ",
-      "headline": "Inside the Matrix: How models, influencers and engagement quotas power the Social Discovery Group’s dating machine and global profits",
-      "excerpt": "Women on four continents told ICIJ that global pay-per-action dating sites owned by a Russian businessman and self-styled philosopher left them financially broke and heartbroken.",
-      "link": "https://www.icij.org/news/2026/07/dating-app-scam-models-influencers-social-discovery-group/",
-      "published": "2026-07-23T15:11:47+00:00",
       "featured": false
     },
     {
@@ -416,12 +416,12 @@
       "featured": false
     },
     {
-      "id": "34706e30822d",
+      "id": "c7be37bc1531",
       "source": "Al Jazeera",
-      "headline": "Trump signs executive orders banning so-called ‘birth tourism’",
-      "excerpt": "US President Donald Trump signed two executive orders to further limit who is eligible for birthright citizenship.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/6/trump-signs-executive-orders-banning-so-called-birth?traffic_source=rss",
-      "published": "2026-08-06T23:42:47+00:00",
+      "headline": "More than one million affected by floods in India’s Assam state",
+      "excerpt": "Thousands of people in India have been displaced since July after monsoon rains triggered severe flooding.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/7/more-than-one-million-affected-by-floods-in-indias-assam-state?traffic_source=rss",
+      "published": "2026-08-07T02:53:19+00:00",
       "featured": false
     },
     {
@@ -488,21 +488,21 @@
       "featured": false
     },
     {
-      "id": "cfb311dc7126",
+      "id": "78e93507b9c1",
       "source": "ICIJ",
-      "headline": "Canadian intelligence flags crypto-to-cash services as ‘knowingly facilitating money laundering,’ document shows",
-      "excerpt": "An internal report obtained says that crypto brokers are moving millions while dodging rules to guard against dirty money.",
-      "link": "https://www.icij.org/investigations/coin-laundry/canadian-intelligence-flags-crypto-to-cash-services-as-knowingly-facilitating-money-laundering-document-shows/",
-      "published": "2026-07-21T15:25:38+00:00",
+      "headline": "Inside the Matrix: How models, influencers and engagement quotas power the Social Discovery Group’s dating machine and global profits",
+      "excerpt": "Women on four continents told ICIJ that global pay-per-action dating sites owned by a Russian businessman and self-styled philosopher left them financially broke and heartbroken.",
+      "link": "https://www.icij.org/news/2026/07/dating-app-scam-models-influencers-social-discovery-group/",
+      "published": "2026-07-23T15:11:47+00:00",
       "featured": false
     },
     {
-      "id": "6d3b8d7729e8",
+      "id": "d4b16ef89db9",
       "source": "Al Jazeera",
-      "headline": "Iran’s Ghalibaf accuses Trump of conducting show diplomacy ‘on loop’",
-      "excerpt": "US president says he is involved in talks and war will end 'pretty soon', claiming that Iran cannot 'go much longer'.",
-      "link": "https://www.aljazeera.com/news/2026/8/6/irans-ghalibaf-accuses-trump-of-conducting-show-diplomacy-on-loop?traffic_source=rss",
-      "published": "2026-08-06T23:34:47+00:00",
+      "headline": "Exclusive report with the 308 people rescued by Nigerian forces",
+      "excerpt": "Nigerian security forces have rescued 308 people abducted in separate attacks in northern Niger and Kwara states.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/7/exclusive-report-with-the-308-people-rescued-by-nigerian-forces?traffic_source=rss",
+      "published": "2026-08-07T02:30:23+00:00",
       "featured": false
     },
     {
