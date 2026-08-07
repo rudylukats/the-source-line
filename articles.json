@@ -1,14 +1,50 @@
 {
-  "generated_at": "2026-08-07T13:40:06.974064+00:00",
+  "generated_at": "2026-08-07T16:09:10.650325+00:00",
   "articles": [
     {
-      "id": "ec35dcca7ec8",
-      "source": "Al Jazeera",
-      "headline": "Russia drops record number of glide bombs on Ukraine as casualties pile up",
-      "excerpt": "Moscow's troops suffer high rate of losses as Zelenskyy renews air campaign against Russia.",
-      "link": "https://www.aljazeera.com/news/2026/8/7/russia-hits-record-43000-casualties-in-july-as-its-armies-retreat-ukraine?traffic_source=rss",
-      "published": "2026-08-07T13:12:52+00:00",
+      "id": "07beef20a714",
+      "source": "The Intercept",
+      "headline": "State Department Wants Palantir’s Advice on Free Speech and “Countering Digital Surveillance”",
+      "excerpt": "Founded by Trump ally and right-wing billionaire Peter Thiel, Palantir has attacked the press and works in the digital surveillance space. The post State Department Wants Palantir’s Advice on Free Speech and “Countering...",
+      "link": "https://theintercept.com/2026/08/07/state-department-palantir-free-speech-surveillance/",
+      "published": "2026-08-07T16:02:04+00:00",
       "featured": true
+    },
+    {
+      "id": "a3b23c081f32",
+      "source": "Dropsite News",
+      "headline": "Dozens reported killed in Ansarallah attacks; Saudi Arabia, Turkey, and Pakistan sign defense deal; Trump targets birthright citizenship",
+      "excerpt": "Drop Site Daily: August 7, 2026",
+      "link": "https://www.dropsitenews.com/p/ansarallah-yemen-saudi-turkey-pakistan-defense-pact-trump-birthright-citizenship",
+      "published": "2026-08-07T15:34:32+00:00",
+      "featured": true
+    },
+    {
+      "id": "f5d0d5fcccfb",
+      "source": "404 Media",
+      "headline": "Behind the Blog: Rare Books and Baseball Brain",
+      "excerpt": "This week, we discuss Flock blogging, \"rare\" books, and Jesus Christ.",
+      "link": "https://www.404media.co/behind-the-blog-rare-books-and-baseball-brain/",
+      "published": "2026-08-07T15:27:49+00:00",
+      "featured": true
+    },
+    {
+      "id": "04bd11b794be",
+      "source": "Al Jazeera",
+      "headline": "Sri Lanka prisoners riot leaving 3 dead, 23 injured in chaos",
+      "excerpt": "Authorities suspect narcotics dealers and gang rivalries are behind prison violence at facilities in Sri Lanka.",
+      "link": "https://www.aljazeera.com/news/2026/8/7/sri-lanka-prisoners-riot-leaving-3-dead-23-injured-in-chaos?traffic_source=rss",
+      "published": "2026-08-07T15:10:22+00:00",
+      "featured": false
+    },
+    {
+      "id": "84840b31b271",
+      "source": "OCCRP",
+      "headline": "Spanish-Led Operation Busts Violent Mediterranean Smuggling Ring",
+      "excerpt": "",
+      "link": "https://www.occrp.org/en/news/spanish-led-operation-busts-violent-mediterranean-smuggling-ring",
+      "published": "2026-08-07T13:49:00+00:00",
+      "featured": false
     },
     {
       "id": "2a6f43b19eb7",
@@ -17,24 +53,6 @@
       "excerpt": "The Taiwan Semiconductor Manufacturing Company (TSMC) fabrication plant in Phoenix, Arizona.",
       "link": "https://restofworld.org/2026/tsmc-arizona-investors/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "published": "2026-08-07T13:00:00+00:00",
-      "featured": true
-    },
-    {
-      "id": "5f7075086e9d",
-      "source": "404 Media",
-      "headline": "Flock Pitched a Plan To Turn Uber and Lyft Drivers Into Roaming Surveillance Vehicles",
-      "excerpt": "A Flock presentation shows the company planned to use around 350,000 Uber, Lyft, and delivery drivers to collect license plate data for its surveillance system.",
-      "link": "https://www.404media.co/flock-pitched-a-plan-to-turn-uber-and-lyft-drivers-into-roaming-surveillance-vehicles/",
-      "published": "2026-08-07T12:00:26+00:00",
-      "featured": true
-    },
-    {
-      "id": "a20df9ebc9b0",
-      "source": "The Intercept",
-      "headline": "Congress Might Give ICE the Power to Go After Shoplifters",
-      "excerpt": "A bill intended to halt the supposed threat of “organized retail crime” would put ICE in charge of the federal response. The post Congress Might Give ICE the Power to Go After Shoplifters appeared first on The Intercept.",
-      "link": "https://theintercept.com/2026/08/07/congress-ice-shoplifting-theft-surveillance/",
-      "published": "2026-08-07T11:17:00+00:00",
       "featured": false
     },
     {
@@ -74,24 +92,6 @@
       "featured": false
     },
     {
-      "id": "74efb35cdeae",
-      "source": "Dropsite News",
-      "headline": "Trump denies munitions shortages, vows to jail leakers; Israeli settler charged with killing Palestinian; Senate holds Fauci in contempt",
-      "excerpt": "Drop Site Daily: August 6, 2026",
-      "link": "https://www.dropsitenews.com/p/trump-munitions-shortages-iran-israel-west-bank-settler-senate-fauci",
-      "published": "2026-08-06T15:54:08+00:00",
-      "featured": false
-    },
-    {
-      "id": "cce357269019",
-      "source": "OCCRP",
-      "headline": "US Charges NFT Founder in Alleged $10M Investor Fraud",
-      "excerpt": "U.S. prosecutors allege Taj Tarsha diverted investor funds meant for a new digital marketplace to pay for online gambling, a Miami condo and his DJ hobby. Tarsha’s attorneys claim he is innocent.",
-      "link": "https://www.occrp.org/en/news/us-charges-nft-founder-in-10m-investor-fraud",
-      "published": "2026-08-06T14:57:00+00:00",
-      "featured": false
-    },
-    {
       "id": "fde6a5053370",
       "source": "Bellingcat",
       "headline": "Welcome to Dubai: Kinahan Cartel’s Visas Revealed",
@@ -110,12 +110,30 @@
       "featured": false
     },
     {
-      "id": "0b2e99faf2ba",
+      "id": "fab8d41c8cac",
+      "source": "404 Media",
+      "headline": "City That Arrested Person for Clapping at Data Center Meeting Moves to Virtual Meetings for 'Public Safety'",
+      "excerpt": "A small town in Kansas took its city meetings virtual and ended public comment after city leaders received a wave of death threats.",
+      "link": "https://www.404media.co/city-that-arrested-person-for-clapping-at-data-center-meeting-moves-to-virtual-townhalls-for-public-safety/",
+      "published": "2026-08-07T14:55:33+00:00",
+      "featured": false
+    },
+    {
+      "id": "b03c007481f1",
       "source": "Al Jazeera",
-      "headline": "Armenian Apostolic Church leader faces trial as feud with PM deepens",
-      "excerpt": "Catholicos Karekin II and six other clerics are accused of failing to reinstate a bishop who was defrocked.",
-      "link": "https://www.aljazeera.com/news/2026/8/7/armenian-apostolic-church-leader-faces-trial-as-feud-with-pm-deepens?traffic_source=rss",
-      "published": "2026-08-07T13:03:54+00:00",
+      "headline": "Two civilians killed in Houthi strike on Marib, says Yemen’s government",
+      "excerpt": "Health Minister Qassem Bahaibah says 14 injured, accuses group of targeting residential areas and displacement camps.",
+      "link": "https://www.aljazeera.com/news/2026/8/7/two-civilians-killed-in-houthi-strike-on-marib-says-yemens-government?traffic_source=rss",
+      "published": "2026-08-07T14:22:24+00:00",
+      "featured": false
+    },
+    {
+      "id": "a20df9ebc9b0",
+      "source": "The Intercept",
+      "headline": "Congress Might Give ICE the Power to Go After Shoplifters",
+      "excerpt": "A bill intended to halt the supposed threat of “organized retail crime” would put ICE in charge of the federal response. The post Congress Might Give ICE the Power to Go After Shoplifters appeared first on The Intercept.",
+      "link": "https://theintercept.com/2026/08/07/congress-ice-shoplifting-theft-surveillance/",
+      "published": "2026-08-07T11:17:00+00:00",
       "featured": false
     },
     {
@@ -128,15 +146,6 @@
       "featured": false
     },
     {
-      "id": "eb3d4f15a5a6",
-      "source": "404 Media",
-      "headline": "Software Giant SAP Stops Most Travel and Hiring Because of AI’s Soaring Cost",
-      "excerpt": "SAP says it needs to “be disciplined in how we spend.” That includes still freezing hires and travel. Unless it's to do with AI, of course.",
-      "link": "https://www.404media.co/software-giant-sap-stops-most-travel-and-hiring-because-of-ais-soaring-cost/",
-      "published": "2026-08-06T19:13:34+00:00",
-      "featured": false
-    },
-    {
       "id": "3ab8570d74f9",
       "source": "The Lever",
       "headline": "Here Comes Hurricane Trump",
@@ -146,30 +155,21 @@
       "featured": false
     },
     {
-      "id": "2b6b60c0e966",
+      "id": "74efb35cdeae",
       "source": "Dropsite News",
-      "headline": "As the Board of Peace Cosplays Diplomacy, Israel Once Again Ramps Up Killing in Gaza",
-      "excerpt": "After Hamas agreed to a roadmap for implementing the next phases of the Gaza “ceasefire,” Israel escalated its assault on Gaza and the Board of Peace backtracked.",
-      "link": "https://www.dropsitenews.com/p/gaza-board-of-peace-israel-disarmament-escalated-attacks",
-      "published": "2026-08-06T12:59:43+00:00",
+      "headline": "Trump denies munitions shortages, vows to jail leakers; Israeli settler charged with killing Palestinian; Senate holds Fauci in contempt",
+      "excerpt": "Drop Site Daily: August 6, 2026",
+      "link": "https://www.dropsitenews.com/p/trump-munitions-shortages-iran-israel-west-bank-settler-senate-fauci",
+      "published": "2026-08-06T15:54:08+00:00",
       "featured": false
     },
     {
-      "id": "8dc983c3917a",
+      "id": "cce357269019",
       "source": "OCCRP",
-      "headline": "Spain and Ecuador Bust International Drug Ring, Seize 21 Tonnes of Cocaine",
-      "excerpt": "",
-      "link": "https://www.occrp.org/en/news/spain-and-ecuador-bust-international-drug-ring-seize-21-tons-of-cocaine",
-      "published": "2026-08-06T12:08:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "220115728897",
-      "source": "The Intercept",
-      "headline": "The Pentagon Is Posting Cryptic Biblical Messages on Social Media",
-      "excerpt": "Defense Department accounts posted the biblical quote “SEND ME.” The Pentagon won’t say if its proselytizing is a message about the Iran war. The post The Pentagon Is Posting Cryptic Biblical Messages on Social Media...",
-      "link": "https://theintercept.com/2026/08/06/pentagon-department-defense-isaiah-6-8-send-me-iran-war/",
-      "published": "2026-08-06T10:06:00+00:00",
+      "headline": "US Charges NFT Founder in Alleged $10M Investor Fraud",
+      "excerpt": "U.S. prosecutors allege Taj Tarsha diverted investor funds meant for a new digital marketplace to pay for online gambling, a Miami condo and his DJ hobby. Tarsha’s attorneys claim he is innocent.",
+      "link": "https://www.occrp.org/en/news/us-charges-nft-founder-in-10m-investor-fraud",
+      "published": "2026-08-06T14:57:00+00:00",
       "featured": false
     },
     {
@@ -218,21 +218,48 @@
       "featured": false
     },
     {
-      "id": "64b7523e88a5",
+      "id": "2bafe626805d",
       "source": "Al Jazeera",
-      "headline": "Saudi Arabia, Turkiye and Pakistan sign joint defence pact",
-      "excerpt": "The Saudi crown prince, Turkish president and Pakistani prime minister have signed a joint defence agreement in Mecca.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/7/saudi-arabia-turkiye-and-pakistan-sign-joint-defence-pact?traffic_source=rss",
-      "published": "2026-08-07T12:44:41+00:00",
+      "headline": "Imade",
+      "excerpt": "A young deaf migrant in Spain prepares for an emotional reunion with his family in Morocco after years apart.",
+      "link": "https://www.aljazeera.com/video/witness/2026/8/7/imade?traffic_source=rss",
+      "published": "2026-08-07T14:18:53+00:00",
       "featured": false
     },
     {
-      "id": "d8aefe71aec0",
+      "id": "5f7075086e9d",
       "source": "404 Media",
-      "headline": "Scientists Designed a Virtual Alien Lifeform to Hunt for Extraterrestrials",
-      "excerpt": "A model of a microbe cell revealed that methane-producing organisms could potentially emerge on a wide variety of exoplanets, which can inform the search for extraterrestrial life.",
-      "link": "https://www.404media.co/scientists-designed-a-virtual-alien-lifeform-to-hunt-for-extraterrestrials/",
-      "published": "2026-08-06T16:49:49+00:00",
+      "headline": "Flock Pitched a Plan To Turn Uber and Lyft Drivers Into Roaming Surveillance Vehicles",
+      "excerpt": "A Flock presentation shows the company planned to use around 350,000 Uber, Lyft, and delivery drivers to collect license plate data for its surveillance system.",
+      "link": "https://www.404media.co/flock-pitched-a-plan-to-turn-uber-and-lyft-drivers-into-roaming-surveillance-vehicles/",
+      "published": "2026-08-07T12:00:26+00:00",
+      "featured": false
+    },
+    {
+      "id": "2b6b60c0e966",
+      "source": "Dropsite News",
+      "headline": "As the Board of Peace Cosplays Diplomacy, Israel Once Again Ramps Up Killing in Gaza",
+      "excerpt": "After Hamas agreed to a roadmap for implementing the next phases of the Gaza “ceasefire,” Israel escalated its assault on Gaza and the Board of Peace backtracked.",
+      "link": "https://www.dropsitenews.com/p/gaza-board-of-peace-israel-disarmament-escalated-attacks",
+      "published": "2026-08-06T12:59:43+00:00",
+      "featured": false
+    },
+    {
+      "id": "8dc983c3917a",
+      "source": "OCCRP",
+      "headline": "Spain and Ecuador Bust International Drug Ring, Seize 21 Tonnes of Cocaine",
+      "excerpt": "",
+      "link": "https://www.occrp.org/en/news/spain-and-ecuador-bust-international-drug-ring-seize-21-tons-of-cocaine",
+      "published": "2026-08-06T12:08:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "220115728897",
+      "source": "The Intercept",
+      "headline": "The Pentagon Is Posting Cryptic Biblical Messages on Social Media",
+      "excerpt": "Defense Department accounts posted the biblical quote “SEND ME.” The Pentagon won’t say if its proselytizing is a message about the Iran war. The post The Pentagon Is Posting Cryptic Biblical Messages on Social Media...",
+      "link": "https://theintercept.com/2026/08/06/pentagon-department-defense-isaiah-6-8-send-me-iran-war/",
+      "published": "2026-08-06T10:06:00+00:00",
       "featured": false
     },
     {
@@ -245,39 +272,12 @@
       "featured": false
     },
     {
-      "id": "1fb366499f21",
-      "source": "The Intercept",
-      "headline": "Black Residents Warned of Abusive Cops for Years. Then Police Shot and Killed a Toddler.",
-      "excerpt": "In the Mississippi town where Kohen Wiley died, community members had urged leaders to rein in the police. Are they listening now? The post Black Residents Warned of Abusive Cops for Years. Then Police Shot and Killed a...",
-      "link": "https://theintercept.com/2026/08/06/kohen-wiley-senatobia-mississippi-police-shooting/",
-      "published": "2026-08-06T09:00:00+00:00",
-      "featured": false
-    },
-    {
       "id": "ba58d15494a4",
       "source": "The Lever",
       "headline": "Trump’s Iran Oil Giveaway",
       "excerpt": "As war with Iran drove oil prices higher, Trump gave politically connected oil companies — not taxpayers — the chance to cash in on publicly owned oil.",
       "link": "https://www.levernews.com/trumps-iran-oil-giveaway/",
       "published": "2026-08-05T20:41:30+00:00",
-      "featured": false
-    },
-    {
-      "id": "f5b873407527",
-      "source": "Dropsite News",
-      "headline": "Abdul El-Sayed leads anti-war sweep in Michigan; Israel raids Qalandia refugee camp; Russian strikes kill 17 in Kyiv",
-      "excerpt": "Drop Site Daily: August 5, 2026",
-      "link": "https://www.dropsitenews.com/p/abdul-sayed-michigan-primary-israel-west-bank-qalandia-russia-ukraine-kyiv",
-      "published": "2026-08-05T16:32:28+00:00",
-      "featured": false
-    },
-    {
-      "id": "5bcb23dd01bd",
-      "source": "OCCRP",
-      "headline": "From Headlines to Impact: Connecting Journalism and Civil Society to Drive Accountability in Ukraine",
-      "excerpt": "",
-      "link": "https://www.occrp.org/en/feature/from-headlines-to-impact-connecting-journalism-and-civil-society-to-drive-accountability-in-ukraine",
-      "published": "2026-08-05T13:23:00+00:00",
       "featured": false
     },
     {
@@ -317,30 +317,30 @@
       "featured": false
     },
     {
-      "id": "f25e86bc29ef",
+      "id": "e9f3c8c4d2ac",
       "source": "Al Jazeera",
-      "headline": "UN chief condemns both Ukraine and Russia amid escalation in war",
-      "excerpt": "UN chief Guterres calls for de-escalation and a ceasefire as Russia-Ukraine attacks intensify.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/7/un-chief-condemns-both-ukraine-and-russia-amid-escalation-in-war?traffic_source=rss",
-      "published": "2026-08-07T12:34:13+00:00",
+      "headline": "Diego Maradona bloated, bedridden and resigned before death, says masseur",
+      "excerpt": "Seven healthcare professionals have been on trial since mid-April in Argentina for possible negligence.",
+      "link": "https://www.aljazeera.com/sports/2026/8/7/diego-maradona-bloated-bedridden-and-resigned-before-death-says-masseur?traffic_source=rss",
+      "published": "2026-08-07T13:30:43+00:00",
       "featured": false
     },
     {
-      "id": "feb088728987",
+      "id": "eb3d4f15a5a6",
       "source": "404 Media",
-      "headline": "Cities Are Ditching Flock, Immediately Replacing It With Axon License Plate Readers",
-      "excerpt": "Rather than get rid of ALPR cameras entirely, many cities and towns are switching to Axon, whose cameras can be mounted to an existing streetlamp, helping them blend into their surroundings.",
-      "link": "https://www.404media.co/cities-are-ditching-flock-immediately-replacing-it-with-axon-license-plate-readers/",
-      "published": "2026-08-06T13:14:07+00:00",
+      "headline": "Software Giant SAP Stops Most Travel and Hiring Because of AI’s Soaring Cost",
+      "excerpt": "SAP says it needs to “be disciplined in how we spend.” That includes still freezing hires and travel. Unless it's to do with AI, of course.",
+      "link": "https://www.404media.co/software-giant-sap-stops-most-travel-and-hiring-because-of-ais-soaring-cost/",
+      "published": "2026-08-06T19:13:34+00:00",
       "featured": false
     },
     {
-      "id": "3d4ba038c0fd",
+      "id": "1fb366499f21",
       "source": "The Intercept",
-      "headline": "The Most Expensive Democratic Senate Primary Has a Winner",
-      "excerpt": "Intercept reporters break down progressives’ wins and losses in Michigan and Missouri. The post The Most Expensive Democratic Senate Primary Has a Winner appeared first on The Intercept.",
-      "link": "https://theintercept.com/2026/08/05/michigan-missouri-primary-results-el-sayed/",
-      "published": "2026-08-05T23:00:00+00:00",
+      "headline": "Black Residents Warned of Abusive Cops for Years. Then Police Shot and Killed a Toddler.",
+      "excerpt": "In the Mississippi town where Kohen Wiley died, community members had urged leaders to rein in the police. Are they listening now? The post Black Residents Warned of Abusive Cops for Years. Then Police Shot and Killed a...",
+      "link": "https://theintercept.com/2026/08/06/kohen-wiley-senatobia-mississippi-police-shooting/",
+      "published": "2026-08-06T09:00:00+00:00",
       "featured": false
     },
     {
@@ -353,30 +353,30 @@
       "featured": false
     },
     {
+      "id": "f5b873407527",
+      "source": "Dropsite News",
+      "headline": "Abdul El-Sayed leads anti-war sweep in Michigan; Israel raids Qalandia refugee camp; Russian strikes kill 17 in Kyiv",
+      "excerpt": "Drop Site Daily: August 5, 2026",
+      "link": "https://www.dropsitenews.com/p/abdul-sayed-michigan-primary-israel-west-bank-qalandia-russia-ukraine-kyiv",
+      "published": "2026-08-05T16:32:28+00:00",
+      "featured": false
+    },
+    {
+      "id": "5bcb23dd01bd",
+      "source": "OCCRP",
+      "headline": "From Headlines to Impact: Connecting Journalism and Civil Society to Drive Accountability in Ukraine",
+      "excerpt": "",
+      "link": "https://www.occrp.org/en/feature/from-headlines-to-impact-connecting-journalism-and-civil-society-to-drive-accountability-in-ukraine",
+      "published": "2026-08-05T13:23:00+00:00",
+      "featured": false
+    },
+    {
       "id": "68e5d9f3acf8",
       "source": "ProPublica",
       "headline": "James Talarico Accused Ken Paxton of Voter Fraud. His Own Voter Registration Is Raising Questions.",
       "excerpt": "The post James Talarico Accused Ken Paxton of Voter Fraud. His Own Voter Registration Is Raising Questions. appeared first on ProPublica.",
       "link": "https://www.propublica.org/article/james-talarico-texas-election-law-ken-paxton",
       "published": "2026-08-05T10:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "4aa454b72b9d",
-      "source": "OCCRP",
-      "headline": "‘I terminated this channel’: Inside the Fake Copyright Racket Silencing News Outlets",
-      "excerpt": "Hired hands in an underground takedown market are charging up to $5,000 to scrub reporting from social media by filing fake copyright claims.",
-      "link": "https://www.occrp.org/en/news/i-terminated-this-channel-inside-the-fake-copyright-racket-silencing-news-outlets",
-      "published": "2026-08-05T05:11:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "4417a39832a0",
-      "source": "Dropsite News",
-      "headline": "\"For Your Eyes Only\": Israel’s Mole Inside the United Nations",
-      "excerpt": "Hacked emails show Yahav Lichner, a UN official, repeatedly supplied Israeli diplomats with confidential UN reports and private briefings. He now directs UNICEF’s Washington office.",
-      "link": "https://www.dropsitenews.com/p/for-your-eyes-only-israels-mole-inside",
-      "published": "2026-08-04T21:27:52+00:00",
       "featured": false
     },
     {
@@ -416,30 +416,30 @@
       "featured": false
     },
     {
-      "id": "5e618533bb9d",
+      "id": "6981a1f8141e",
       "source": "Al Jazeera",
-      "headline": "Iran’s grip on trade is a potent weapon, but it has an expiry date",
-      "excerpt": "Iran can exploit dependence on Hormuz today, but prolonged disruption will erode that leverage",
-      "link": "https://www.aljazeera.com/opinions/2026/8/7/irans-grip-on-trade-is-a-potent-weapon-but-it-has-an-expiry-date?traffic_source=rss",
-      "published": "2026-08-07T12:28:52+00:00",
+      "headline": "Turkiye, Saudi Arabia, Pakistan sign joint defence agreement: What’s in it?",
+      "excerpt": "Pact will 'reshape security architecture' of the region, experts say.",
+      "link": "https://www.aljazeera.com/news/2026/8/7/turkiye-saudi-arabi-pakistan-sign-joint-defence-agreement-whats-in-it?traffic_source=rss",
+      "published": "2026-08-07T13:28:40+00:00",
       "featured": false
     },
     {
-      "id": "756b2ce1da33",
-      "source": "The Intercept",
-      "headline": "There’s No Time for Centrists to Be Doomers About El-Sayed’s Victory",
-      "excerpt": "The public health official faced down AIPAC — and the entire Democratic Party establishment — to beat Haley Stevens. That’s well worth celebrating. The post There’s No Time for Centrists to Be Doomers About El-Sayed’s...",
-      "link": "https://theintercept.com/2026/08/05/abdul-el-sayed-michigan-democratic-senate-primary/",
-      "published": "2026-08-05T21:02:18+00:00",
-      "featured": false
-    },
-    {
-      "id": "3643f266e5bf",
+      "id": "d8aefe71aec0",
       "source": "404 Media",
-      "headline": "Cops Used Flock to Track a Man Across State Lines to Create Pretext to Search His Car for Weed",
-      "excerpt": "\"The vehicle travels to Michigan frequently which is a known source state for marijuana as it is legal there,\" a probable cause justification reads.",
-      "link": "https://www.404media.co/cops-used-flock-to-track-a-man-across-state-lines-to-create-pretext-to-search-his-car-for-weed/",
-      "published": "2026-08-05T14:50:49+00:00",
+      "headline": "Scientists Designed a Virtual Alien Lifeform to Hunt for Extraterrestrials",
+      "excerpt": "A model of a microbe cell revealed that methane-producing organisms could potentially emerge on a wide variety of exoplanets, which can inform the search for extraterrestrial life.",
+      "link": "https://www.404media.co/scientists-designed-a-virtual-alien-lifeform-to-hunt-for-extraterrestrials/",
+      "published": "2026-08-06T16:49:49+00:00",
+      "featured": false
+    },
+    {
+      "id": "3d4ba038c0fd",
+      "source": "The Intercept",
+      "headline": "The Most Expensive Democratic Senate Primary Has a Winner",
+      "excerpt": "Intercept reporters break down progressives’ wins and losses in Michigan and Missouri. The post The Most Expensive Democratic Senate Primary Has a Winner appeared first on The Intercept.",
+      "link": "https://theintercept.com/2026/08/05/michigan-missouri-primary-results-el-sayed/",
+      "published": "2026-08-05T23:00:00+00:00",
       "featured": false
     },
     {
@@ -452,30 +452,30 @@
       "featured": false
     },
     {
+      "id": "4aa454b72b9d",
+      "source": "OCCRP",
+      "headline": "‘I terminated this channel’: Inside the Fake Copyright Racket Silencing News Outlets",
+      "excerpt": "Hired hands in an underground takedown market are charging up to $5,000 to scrub reporting from social media by filing fake copyright claims.",
+      "link": "https://www.occrp.org/en/news/i-terminated-this-channel-inside-the-fake-copyright-racket-silencing-news-outlets",
+      "published": "2026-08-05T05:11:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "4417a39832a0",
+      "source": "Dropsite News",
+      "headline": "\"For Your Eyes Only\": Israel’s Mole Inside the United Nations",
+      "excerpt": "Hacked emails show Yahav Lichner, a UN official, repeatedly supplied Israeli diplomats with confidential UN reports and private briefings. He now directs UNICEF’s Washington office.",
+      "link": "https://www.dropsitenews.com/p/for-your-eyes-only-israels-mole-inside",
+      "published": "2026-08-04T21:27:52+00:00",
+      "featured": false
+    },
+    {
       "id": "45dbc49705d5",
       "source": "The Lever",
       "headline": "Democrats’ Corporate Corruption Divide",
       "excerpt": "The party’s establishment and populist factions are fighting over whether the affordability crisis is connected to money in politics.",
       "link": "https://www.levernews.com/democrats-corporate-corruption-divide/",
       "published": "2026-08-04T19:57:04+00:00",
-      "featured": false
-    },
-    {
-      "id": "ae365fd4325d",
-      "source": "Dropsite News",
-      "headline": "The Gaza “Ceasefire” Farce and the Battle for Michigan",
-      "excerpt": "Sami Al-Arian joins Jeremy Scahill to discuss the latest on Hamas and the Board of Peace. Then, Jeremy and Ryan Grim discuss today's Michigan primary and potential 2028 candidates.",
-      "link": "https://www.dropsitenews.com/p/the-gaza-ceasefire-farce-and-the",
-      "published": "2026-08-04T19:12:57+00:00",
-      "featured": false
-    },
-    {
-      "id": "9ef70e2f3740",
-      "source": "OCCRP",
-      "headline": "Six Years On, Victims of Beirut Port Blast Still Waiting For Justice",
-      "excerpt": "Lebanon has yet to indict those allegedly responsible for the deadly blast in Beirut's port six years ago, amid fears from victims groups that the long-stalled investigation has not gone far enough to answer fundamental...",
-      "link": "https://www.occrp.org/en/news/six-years-on-victims-of-beirut-port-explosion-still-waiting-for-justice",
-      "published": "2026-08-04T15:12:00+00:00",
       "featured": false
     },
     {
@@ -497,30 +497,39 @@
       "featured": false
     },
     {
-      "id": "ad01201df6b5",
+      "id": "ec35dcca7ec8",
       "source": "Al Jazeera",
-      "headline": "Argentina and Mexico join Africa in backing FIFA’s Infantino: What to know",
-      "excerpt": "How does FIFA presidency stand? Norway wants resignation, but Argentina and Mexico join Africa in Gianni Infantino camp.",
-      "link": "https://www.aljazeera.com/sports/2026/8/7/fifas-infantino-backed-by-argentina-and-mexico-deepening-world-cup-divide?traffic_source=rss",
-      "published": "2026-08-07T12:23:03+00:00",
+      "headline": "Russia drops record number of glide bombs on Ukraine as casualties pile up",
+      "excerpt": "Moscow's troops suffer high rate of losses as Zelenskyy renews air campaign against Russia.",
+      "link": "https://www.aljazeera.com/news/2026/8/7/russia-hits-record-43000-casualties-in-july-as-its-armies-retreat-ukraine?traffic_source=rss",
+      "published": "2026-08-07T13:12:52+00:00",
       "featured": false
     },
     {
-      "id": "4fedbb63d547",
-      "source": "The Intercept",
-      "headline": "When a President Promises a Massacre",
-      "excerpt": "Harkening back to colonial massacres, Trump abandons the premise of proportionality for butchery in Iran and beyond. The post When a President Promises a Massacre appeared first on The Intercept.",
-      "link": "https://theintercept.com/2026/08/05/trump-colonial-extermination-asymmetric-warfare/",
-      "published": "2026-08-05T17:21:03+00:00",
-      "featured": false
-    },
-    {
-      "id": "96266feca56e",
+      "id": "feb088728987",
       "source": "404 Media",
-      "headline": "Podcast: This Man Might Go to Prison for Wiping His Phone",
-      "excerpt": "The case of Samuel Tunick allegedly wiping a phone before DHS could search it; inside an AI-powered TIkTok Shop; and Google Earth's dumb AI tool.",
-      "link": "https://www.404media.co/podcast-this-man-might-go-to-prison-for-wiping-his-phone/",
-      "published": "2026-08-05T14:23:24+00:00",
+      "headline": "Cities Are Ditching Flock, Immediately Replacing It With Axon License Plate Readers",
+      "excerpt": "Rather than get rid of ALPR cameras entirely, many cities and towns are switching to Axon, whose cameras can be mounted to an existing streetlamp, helping them blend into their surroundings.",
+      "link": "https://www.404media.co/cities-are-ditching-flock-immediately-replacing-it-with-axon-license-plate-readers/",
+      "published": "2026-08-06T13:14:07+00:00",
+      "featured": false
+    },
+    {
+      "id": "756b2ce1da33",
+      "source": "The Intercept",
+      "headline": "There’s No Time for Centrists to Be Doomers About El-Sayed’s Victory",
+      "excerpt": "The public health official faced down AIPAC — and the entire Democratic Party establishment — to beat Haley Stevens. That’s well worth celebrating. The post There’s No Time for Centrists to Be Doomers About El-Sayed’s...",
+      "link": "https://theintercept.com/2026/08/05/abdul-el-sayed-michigan-democratic-senate-primary/",
+      "published": "2026-08-05T21:02:18+00:00",
+      "featured": false
+    },
+    {
+      "id": "ae365fd4325d",
+      "source": "Dropsite News",
+      "headline": "The Gaza “Ceasefire” Farce and the Battle for Michigan",
+      "excerpt": "Sami Al-Arian joins Jeremy Scahill to discuss the latest on Hamas and the Board of Peace. Then, Jeremy and Ryan Grim discuss today's Michigan primary and potential 2028 candidates.",
+      "link": "https://www.dropsitenews.com/p/the-gaza-ceasefire-farce-and-the",
+      "published": "2026-08-04T19:12:57+00:00",
       "featured": false
     },
     {
@@ -530,15 +539,6 @@
       "excerpt": "Dozens of police officers have been accused of improperly accessing public safety cameras.",
       "link": "https://www.levernews.com/flocks-surveillance-nation/",
       "published": "2026-08-04T16:57:28+00:00",
-      "featured": false
-    },
-    {
-      "id": "06f571c1b0c5",
-      "source": "Dropsite News",
-      "headline": "U.S. crowdsources ideas on Iran; Gaza holds mass funeral for 112 killed in 2023; Board of Peace contradicts itself",
-      "excerpt": "Drop Site Daily: August 4, 2026",
-      "link": "https://www.dropsitenews.com/p/us-crowdsources-ideas-iran-gaza-mass-funeral-israel-hamas-board-peace",
-      "published": "2026-08-04T15:51:59+00:00",
       "featured": false
     }
   ]
