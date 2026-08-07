@@ -1,6 +1,33 @@
 {
-  "generated_at": "2026-08-07T16:09:10.650325+00:00",
+  "generated_at": "2026-08-07T19:15:49.081282+00:00",
   "articles": [
+    {
+      "id": "f45b2f55402f",
+      "source": "Al Jazeera",
+      "headline": "Several killed in attacks on Ukraine as Kyiv hits Russian e-commerce giant",
+      "excerpt": "Ukraine continues to strike warehouses and logistics hubs run by Wildberries, which it says aid Moscow's war efforts.",
+      "link": "https://www.aljazeera.com/news/2026/8/7/several-killed-in-attacks-on-ukraine-as-kyiv-hits-russian-e-commerce-giant?traffic_source=rss",
+      "published": "2026-08-07T18:54:55+00:00",
+      "featured": true
+    },
+    {
+      "id": "b75177fdf0a4",
+      "source": "The Lever",
+      "headline": "Is AI Snitching On Big Tech?",
+      "excerpt": "Test your knowledge of Michigan’s elections, the surveillance state, and other issues that really matter.",
+      "link": "https://www.levernews.com/is-ai-snitching-on-big-tech/",
+      "published": "2026-08-07T18:40:10+00:00",
+      "featured": true
+    },
+    {
+      "id": "e6456d51c61c",
+      "source": "Dropsite News",
+      "headline": "AIPAC-Linked Super PACs, Pro-Israel Donors Flood Primary to Succeed Angie Craig With More Than $3 Million",
+      "excerpt": "Progressive Matt Little is getting hit from both sides as a flurry of PACs intervene in three-way Democratic primary.",
+      "link": "https://www.dropsitenews.com/p/minnesota-primary-aipac-dmfi-super-pacs-matt-little",
+      "published": "2026-08-07T18:05:50+00:00",
+      "featured": true
+    },
     {
       "id": "07beef20a714",
       "source": "The Intercept",
@@ -8,16 +35,7 @@
       "excerpt": "Founded by Trump ally and right-wing billionaire Peter Thiel, Palantir has attacked the press and works in the digital surveillance space. The post State Department Wants Palantir’s Advice on Free Speech and “Countering...",
       "link": "https://theintercept.com/2026/08/07/state-department-palantir-free-speech-surveillance/",
       "published": "2026-08-07T16:02:04+00:00",
-      "featured": true
-    },
-    {
-      "id": "a3b23c081f32",
-      "source": "Dropsite News",
-      "headline": "Dozens reported killed in Ansarallah attacks; Saudi Arabia, Turkey, and Pakistan sign defense deal; Trump targets birthright citizenship",
-      "excerpt": "Drop Site Daily: August 7, 2026",
-      "link": "https://www.dropsitenews.com/p/ansarallah-yemen-saudi-turkey-pakistan-defense-pact-trump-birthright-citizenship",
-      "published": "2026-08-07T15:34:32+00:00",
-      "featured": true
+      "featured": false
     },
     {
       "id": "f5d0d5fcccfb",
@@ -26,15 +44,6 @@
       "excerpt": "This week, we discuss Flock blogging, \"rare\" books, and Jesus Christ.",
       "link": "https://www.404media.co/behind-the-blog-rare-books-and-baseball-brain/",
       "published": "2026-08-07T15:27:49+00:00",
-      "featured": true
-    },
-    {
-      "id": "04bd11b794be",
-      "source": "Al Jazeera",
-      "headline": "Sri Lanka prisoners riot leaving 3 dead, 23 injured in chaos",
-      "excerpt": "Authorities suspect narcotics dealers and gang rivalries are behind prison violence at facilities in Sri Lanka.",
-      "link": "https://www.aljazeera.com/news/2026/8/7/sri-lanka-prisoners-riot-leaving-3-dead-23-injured-in-chaos?traffic_source=rss",
-      "published": "2026-08-07T15:10:22+00:00",
       "featured": false
     },
     {
@@ -74,15 +83,6 @@
       "featured": false
     },
     {
-      "id": "cb5f3590e44a",
-      "source": "The Lever",
-      "headline": "Big Money Lost To Abdul El-Sayed. Where Will It Go Next?",
-      "excerpt": "The pop-up PACs, paid influencers, and new political playbooks reshaping the 2026 midterms.",
-      "link": "https://www.levernews.com/big-money-lost-to-abdul-el-sayed-where-will-it-go-next/",
-      "published": "2026-08-06T22:15:25+00:00",
-      "featured": false
-    },
-    {
       "id": "4320a6670ca7",
       "source": "More Perfect Union",
       "headline": "The Most Powerful Tech Billionaire You've Never Heard Of",
@@ -110,21 +110,30 @@
       "featured": false
     },
     {
+      "id": "20f3f2aff04c",
+      "source": "Al Jazeera",
+      "headline": "Inside the results: How redistricting shaped Tennessee’s primary election",
+      "excerpt": "Tennessee's party primaries saw incumbent Representative Andy Ogles ousted and set up a heated race for District 9.",
+      "link": "https://www.aljazeera.com/news/2026/8/7/inside-the-results-how-redistricting-shaped-tennessees-primary-election?traffic_source=rss",
+      "published": "2026-08-07T18:00:05+00:00",
+      "featured": false
+    },
+    {
+      "id": "0b4c8bc16a8e",
+      "source": "Dropsite News",
+      "headline": "Pro-Israel Pressure Group Honest Reporting Received Grant from Knight Foundation",
+      "excerpt": "Despite a record of endangering Palestinian journalists, Honest Reporting received a $100,000 “emergency grant” from the Knight Foundation.",
+      "link": "https://www.dropsitenews.com/p/honest-reporting-knight-foundation-israel-gaza",
+      "published": "2026-08-07T16:47:17+00:00",
+      "featured": false
+    },
+    {
       "id": "fab8d41c8cac",
       "source": "404 Media",
       "headline": "City That Arrested Person for Clapping at Data Center Meeting Moves to Virtual Meetings for 'Public Safety'",
       "excerpt": "A small town in Kansas took its city meetings virtual and ended public comment after city leaders received a wave of death threats.",
       "link": "https://www.404media.co/city-that-arrested-person-for-clapping-at-data-center-meeting-moves-to-virtual-townhalls-for-public-safety/",
       "published": "2026-08-07T14:55:33+00:00",
-      "featured": false
-    },
-    {
-      "id": "b03c007481f1",
-      "source": "Al Jazeera",
-      "headline": "Two civilians killed in Houthi strike on Marib, says Yemen’s government",
-      "excerpt": "Health Minister Qassem Bahaibah says 14 injured, accuses group of targeting residential areas and displacement camps.",
-      "link": "https://www.aljazeera.com/news/2026/8/7/two-civilians-killed-in-houthi-strike-on-marib-says-yemens-government?traffic_source=rss",
-      "published": "2026-08-07T14:22:24+00:00",
       "featured": false
     },
     {
@@ -146,21 +155,12 @@
       "featured": false
     },
     {
-      "id": "3ab8570d74f9",
+      "id": "cb5f3590e44a",
       "source": "The Lever",
-      "headline": "Here Comes Hurricane Trump",
-      "excerpt": "Brain drain and workforce cuts at the Federal Emergency Management Agency have left the department high and dry.",
-      "link": "https://www.levernews.com/here-comes-hurricane-trump/",
-      "published": "2026-08-06T16:04:09+00:00",
-      "featured": false
-    },
-    {
-      "id": "74efb35cdeae",
-      "source": "Dropsite News",
-      "headline": "Trump denies munitions shortages, vows to jail leakers; Israeli settler charged with killing Palestinian; Senate holds Fauci in contempt",
-      "excerpt": "Drop Site Daily: August 6, 2026",
-      "link": "https://www.dropsitenews.com/p/trump-munitions-shortages-iran-israel-west-bank-settler-senate-fauci",
-      "published": "2026-08-06T15:54:08+00:00",
+      "headline": "Big Money Lost To Abdul El-Sayed. Where Will It Go Next?",
+      "excerpt": "The pop-up PACs, paid influencers, and new political playbooks reshaping the 2026 midterms.",
+      "link": "https://www.levernews.com/big-money-lost-to-abdul-el-sayed-where-will-it-go-next/",
+      "published": "2026-08-06T22:15:25+00:00",
       "featured": false
     },
     {
@@ -218,12 +218,21 @@
       "featured": false
     },
     {
-      "id": "2bafe626805d",
+      "id": "3f37e742053b",
       "source": "Al Jazeera",
-      "headline": "Imade",
-      "excerpt": "A young deaf migrant in Spain prepares for an emotional reunion with his family in Morocco after years apart.",
-      "link": "https://www.aljazeera.com/video/witness/2026/8/7/imade?traffic_source=rss",
-      "published": "2026-08-07T14:18:53+00:00",
+      "headline": "New Delhi on red alert as heavy rains pound the city",
+      "excerpt": "Heavy rains have pounded New Delhi and its surrounding towns, disrupting traffic and leaving commuters stranded.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/7/new-delhi-on-red-alert-as-heavy-rains-pound-the-city?traffic_source=rss",
+      "published": "2026-08-07T17:19:06+00:00",
+      "featured": false
+    },
+    {
+      "id": "a3b23c081f32",
+      "source": "Dropsite News",
+      "headline": "Dozens reported killed in Ansarallah attacks; Saudi Arabia, Turkey, and Pakistan sign defense deal; Trump targets birthright citizenship",
+      "excerpt": "Drop Site Daily: August 7, 2026",
+      "link": "https://www.dropsitenews.com/p/ansarallah-yemen-saudi-turkey-pakistan-defense-pact-trump-birthright-citizenship",
+      "published": "2026-08-07T15:34:32+00:00",
       "featured": false
     },
     {
@@ -236,12 +245,12 @@
       "featured": false
     },
     {
-      "id": "2b6b60c0e966",
-      "source": "Dropsite News",
-      "headline": "As the Board of Peace Cosplays Diplomacy, Israel Once Again Ramps Up Killing in Gaza",
-      "excerpt": "After Hamas agreed to a roadmap for implementing the next phases of the Gaza “ceasefire,” Israel escalated its assault on Gaza and the Board of Peace backtracked.",
-      "link": "https://www.dropsitenews.com/p/gaza-board-of-peace-israel-disarmament-escalated-attacks",
-      "published": "2026-08-06T12:59:43+00:00",
+      "id": "3ab8570d74f9",
+      "source": "The Lever",
+      "headline": "Here Comes Hurricane Trump",
+      "excerpt": "Brain drain and workforce cuts at the Federal Emergency Management Agency have left the department high and dry.",
+      "link": "https://www.levernews.com/here-comes-hurricane-trump/",
+      "published": "2026-08-06T16:04:09+00:00",
       "featured": false
     },
     {
@@ -269,15 +278,6 @@
       "excerpt": "The post He’s Eligible for Up to $480,000 After Being Wrongly Imprisoned for 42 Years. The State Says No. appeared first on ProPublica.",
       "link": "https://www.propublica.org/article/louisiana-wrongful-conviction-compensation-liz-murrill-elvis-brooks",
       "published": "2026-08-06T09:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "ba58d15494a4",
-      "source": "The Lever",
-      "headline": "Trump’s Iran Oil Giveaway",
-      "excerpt": "As war with Iran drove oil prices higher, Trump gave politically connected oil companies — not taxpayers — the chance to cash in on publicly owned oil.",
-      "link": "https://www.levernews.com/trumps-iran-oil-giveaway/",
-      "published": "2026-08-05T20:41:30+00:00",
       "featured": false
     },
     {
@@ -317,12 +317,12 @@
       "featured": false
     },
     {
-      "id": "e9f3c8c4d2ac",
+      "id": "b140c1be1a7d",
       "source": "Al Jazeera",
-      "headline": "Diego Maradona bloated, bedridden and resigned before death, says masseur",
-      "excerpt": "Seven healthcare professionals have been on trial since mid-April in Argentina for possible negligence.",
-      "link": "https://www.aljazeera.com/sports/2026/8/7/diego-maradona-bloated-bedridden-and-resigned-before-death-says-masseur?traffic_source=rss",
-      "published": "2026-08-07T13:30:43+00:00",
+      "headline": "Mediterranean smuggling network ‘dismantled’ in Spain-led raid, 78 arrested",
+      "excerpt": "Authorities say they broke up one of the largest criminal networks running migrant smuggling in Western Mediterranean.",
+      "link": "https://www.aljazeera.com/news/2026/8/7/mediterranean-smuggling-network-dismantled-in-spain-led-raid-78-arrested?traffic_source=rss",
+      "published": "2026-08-07T17:07:29+00:00",
       "featured": false
     },
     {
@@ -335,6 +335,15 @@
       "featured": false
     },
     {
+      "id": "74efb35cdeae",
+      "source": "Dropsite News",
+      "headline": "Trump denies munitions shortages, vows to jail leakers; Israeli settler charged with killing Palestinian; Senate holds Fauci in contempt",
+      "excerpt": "Drop Site Daily: August 6, 2026",
+      "link": "https://www.dropsitenews.com/p/trump-munitions-shortages-iran-israel-west-bank-settler-senate-fauci",
+      "published": "2026-08-06T15:54:08+00:00",
+      "featured": false
+    },
+    {
       "id": "1fb366499f21",
       "source": "The Intercept",
       "headline": "Black Residents Warned of Abusive Cops for Years. Then Police Shot and Killed a Toddler.",
@@ -344,21 +353,12 @@
       "featured": false
     },
     {
-      "id": "1b47ce07fd5f",
+      "id": "ba58d15494a4",
       "source": "The Lever",
-      "headline": "Midterm Madness: El-Sayed Wins, Overcomes $62 Million Corporate Spending Spree",
-      "excerpt": "The longtime backer of Medicare for All bested a 9-to-1 spending deficit to defeat Rep. Haley Stevens (D-Mich.), who was endorsed by the party establishment.",
-      "link": "https://www.levernews.com/midterm-madness-el-sayed-wins-overcomes-62-million-spending-spree/",
-      "published": "2026-08-05T17:04:44+00:00",
-      "featured": false
-    },
-    {
-      "id": "f5b873407527",
-      "source": "Dropsite News",
-      "headline": "Abdul El-Sayed leads anti-war sweep in Michigan; Israel raids Qalandia refugee camp; Russian strikes kill 17 in Kyiv",
-      "excerpt": "Drop Site Daily: August 5, 2026",
-      "link": "https://www.dropsitenews.com/p/abdul-sayed-michigan-primary-israel-west-bank-qalandia-russia-ukraine-kyiv",
-      "published": "2026-08-05T16:32:28+00:00",
+      "headline": "Trump’s Iran Oil Giveaway",
+      "excerpt": "As war with Iran drove oil prices higher, Trump gave politically connected oil companies — not taxpayers — the chance to cash in on publicly owned oil.",
+      "link": "https://www.levernews.com/trumps-iran-oil-giveaway/",
+      "published": "2026-08-05T20:41:30+00:00",
       "featured": false
     },
     {
@@ -416,12 +416,12 @@
       "featured": false
     },
     {
-      "id": "6981a1f8141e",
+      "id": "580d57881edb",
       "source": "Al Jazeera",
-      "headline": "Turkiye, Saudi Arabia, Pakistan sign joint defence agreement: What’s in it?",
-      "excerpt": "Pact will 'reshape security architecture' of the region, experts say.",
-      "link": "https://www.aljazeera.com/news/2026/8/7/turkiye-saudi-arabi-pakistan-sign-joint-defence-agreement-whats-in-it?traffic_source=rss",
-      "published": "2026-08-07T13:28:40+00:00",
+      "headline": "Hun Manet is refining Cambodia’s authoritarian model",
+      "excerpt": "The PM has made repression less visible and more sophisticated, strengthening the authoritarian system he inherited.",
+      "link": "https://www.aljazeera.com/opinions/2026/8/7/hun-manet-is-refining-cambodias-authoritarian-model?traffic_source=rss",
+      "published": "2026-08-07T16:47:33+00:00",
       "featured": false
     },
     {
@@ -434,12 +434,30 @@
       "featured": false
     },
     {
+      "id": "2b6b60c0e966",
+      "source": "Dropsite News",
+      "headline": "As the Board of Peace Cosplays Diplomacy, Israel Once Again Ramps Up Killing in Gaza",
+      "excerpt": "After Hamas agreed to a roadmap for implementing the next phases of the Gaza “ceasefire,” Israel escalated its assault on Gaza and the Board of Peace backtracked.",
+      "link": "https://www.dropsitenews.com/p/gaza-board-of-peace-israel-disarmament-escalated-attacks",
+      "published": "2026-08-06T12:59:43+00:00",
+      "featured": false
+    },
+    {
       "id": "3d4ba038c0fd",
       "source": "The Intercept",
       "headline": "The Most Expensive Democratic Senate Primary Has a Winner",
       "excerpt": "Intercept reporters break down progressives’ wins and losses in Michigan and Missouri. The post The Most Expensive Democratic Senate Primary Has a Winner appeared first on The Intercept.",
       "link": "https://theintercept.com/2026/08/05/michigan-missouri-primary-results-el-sayed/",
       "published": "2026-08-05T23:00:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "1b47ce07fd5f",
+      "source": "The Lever",
+      "headline": "Midterm Madness: El-Sayed Wins, Overcomes $62 Million Corporate Spending Spree",
+      "excerpt": "The longtime backer of Medicare for All bested a 9-to-1 spending deficit to defeat Rep. Haley Stevens (D-Mich.), who was endorsed by the party establishment.",
+      "link": "https://www.levernews.com/midterm-madness-el-sayed-wins-overcomes-62-million-spending-spree/",
+      "published": "2026-08-05T17:04:44+00:00",
       "featured": false
     },
     {
@@ -461,24 +479,6 @@
       "featured": false
     },
     {
-      "id": "4417a39832a0",
-      "source": "Dropsite News",
-      "headline": "\"For Your Eyes Only\": Israel’s Mole Inside the United Nations",
-      "excerpt": "Hacked emails show Yahav Lichner, a UN official, repeatedly supplied Israeli diplomats with confidential UN reports and private briefings. He now directs UNICEF’s Washington office.",
-      "link": "https://www.dropsitenews.com/p/for-your-eyes-only-israels-mole-inside",
-      "published": "2026-08-04T21:27:52+00:00",
-      "featured": false
-    },
-    {
-      "id": "45dbc49705d5",
-      "source": "The Lever",
-      "headline": "Democrats’ Corporate Corruption Divide",
-      "excerpt": "The party’s establishment and populist factions are fighting over whether the affordability crisis is connected to money in politics.",
-      "link": "https://www.levernews.com/democrats-corporate-corruption-divide/",
-      "published": "2026-08-04T19:57:04+00:00",
-      "featured": false
-    },
-    {
       "id": "86b7056df1de",
       "source": "Rest of World",
       "headline": "Why Silicon Valley is divided over China’s powerful, cheap AI models",
@@ -497,12 +497,12 @@
       "featured": false
     },
     {
-      "id": "ec35dcca7ec8",
+      "id": "13d5e5637a13",
       "source": "Al Jazeera",
-      "headline": "Russia drops record number of glide bombs on Ukraine as casualties pile up",
-      "excerpt": "Moscow's troops suffer high rate of losses as Zelenskyy renews air campaign against Russia.",
-      "link": "https://www.aljazeera.com/news/2026/8/7/russia-hits-record-43000-casualties-in-july-as-its-armies-retreat-ukraine?traffic_source=rss",
-      "published": "2026-08-07T13:12:52+00:00",
+      "headline": "War on Iran: Saudi Arabia, Turkiye and Pakistan sign defence pact",
+      "excerpt": "Saudi Arabia, Turkiye and Pakistan have signed a trilateral defence pact in Mecca aimed at deterring aggression.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/7/war-on-iran-saudi-arabia-turkiye-and-pakistan-sign-defence-pact?traffic_source=rss",
+      "published": "2026-08-07T16:42:35+00:00",
       "featured": false
     },
     {
@@ -524,21 +524,21 @@
       "featured": false
     },
     {
-      "id": "ae365fd4325d",
+      "id": "f5b873407527",
       "source": "Dropsite News",
-      "headline": "The Gaza “Ceasefire” Farce and the Battle for Michigan",
-      "excerpt": "Sami Al-Arian joins Jeremy Scahill to discuss the latest on Hamas and the Board of Peace. Then, Jeremy and Ryan Grim discuss today's Michigan primary and potential 2028 candidates.",
-      "link": "https://www.dropsitenews.com/p/the-gaza-ceasefire-farce-and-the",
-      "published": "2026-08-04T19:12:57+00:00",
+      "headline": "Abdul El-Sayed leads anti-war sweep in Michigan; Israel raids Qalandia refugee camp; Russian strikes kill 17 in Kyiv",
+      "excerpt": "Drop Site Daily: August 5, 2026",
+      "link": "https://www.dropsitenews.com/p/abdul-sayed-michigan-primary-israel-west-bank-qalandia-russia-ukraine-kyiv",
+      "published": "2026-08-05T16:32:28+00:00",
       "featured": false
     },
     {
-      "id": "dd2fd2ce026e",
+      "id": "45dbc49705d5",
       "source": "The Lever",
-      "headline": "Flock’s Surveillance Nation",
-      "excerpt": "Dozens of police officers have been accused of improperly accessing public safety cameras.",
-      "link": "https://www.levernews.com/flocks-surveillance-nation/",
-      "published": "2026-08-04T16:57:28+00:00",
+      "headline": "Democrats’ Corporate Corruption Divide",
+      "excerpt": "The party’s establishment and populist factions are fighting over whether the affordability crisis is connected to money in politics.",
+      "link": "https://www.levernews.com/democrats-corporate-corruption-divide/",
+      "published": "2026-08-04T19:57:04+00:00",
       "featured": false
     }
   ]
