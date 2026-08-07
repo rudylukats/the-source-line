@@ -1,13 +1,22 @@
 {
-  "generated_at": "2026-08-07T07:41:53.662575+00:00",
+  "generated_at": "2026-08-07T10:11:07.185266+00:00",
   "articles": [
     {
-      "id": "b78222a358a7",
+      "id": "a9e312eca449",
       "source": "Al Jazeera",
-      "headline": "‘Still searching for truth’: Daughter of Sikh activist killed 30 years ago",
-      "excerpt": "Jaswant Singh Khalra's daughter Navkiran reflects on slain father's life and legacy, which also inspired a recent film.",
-      "link": "https://www.aljazeera.com/news/2026/8/7/still-searching-for-truth-daughter-of-sikh-activist-killed-30-years-ago?traffic_source=rss",
-      "published": "2026-08-07T06:29:40+00:00",
+      "headline": "Several killed after student opens fire inside Thailand school",
+      "excerpt": "At least eight people were killed and 15 others injured after a student opened fire inside a school in Thailand.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/7/several-killed-after-student-opens-fire-inside-thailand-school?traffic_source=rss",
+      "published": "2026-08-07T09:13:48+00:00",
+      "featured": true
+    },
+    {
+      "id": "4d0ca7074e07",
+      "source": "ProPublica",
+      "headline": "What Is the Trump Administration Doing With Foreign Aid Money?",
+      "excerpt": "The post What Is the Trump Administration Doing With Foreign Aid Money? appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/trump-administration-afrikaner-south-africa-money",
+      "published": "2026-08-07T09:00:00+00:00",
       "featured": true
     },
     {
@@ -26,7 +35,7 @@
       "excerpt": "The pop-up PACs, paid influencers, and new political playbooks reshaping the 2026 midterms.",
       "link": "https://www.levernews.com/big-money-lost-to-abdul-el-sayed-where-will-it-go-next/",
       "published": "2026-08-06T22:15:25+00:00",
-      "featured": true
+      "featured": false
     },
     {
       "id": "eb3d4f15a5a6",
@@ -83,15 +92,6 @@
       "featured": false
     },
     {
-      "id": "a013c53d631b",
-      "source": "ProPublica",
-      "headline": "He’s Eligible for Up to $480,000 After Being Wrongly Imprisoned for 42 Years. The State Says No.",
-      "excerpt": "The post He’s Eligible for Up to $480,000 After Being Wrongly Imprisoned for 42 Years. The State Says No. appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/louisiana-wrongful-conviction-compensation-liz-murrill-elvis-brooks",
-      "published": "2026-08-06T09:00:00+00:00",
-      "featured": false
-    },
-    {
       "id": "fde6a5053370",
       "source": "Bellingcat",
       "headline": "Welcome to Dubai: Kinahan Cartel’s Visas Revealed",
@@ -110,12 +110,12 @@
       "featured": false
     },
     {
-      "id": "0bffda0185d7",
+      "id": "1591d19e3e2b",
       "source": "Al Jazeera",
-      "headline": "Bodies of climbers killed in avalanche retrieved from Broad Peak",
-      "excerpt": "A search team has retrieved the remains of renowned climber Nirmal Purja and several members of his team.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/7/bodies-of-climbers-killed-in-avalanche-retrieved-from-broad-peak?traffic_source=rss",
-      "published": "2026-08-07T05:49:22+00:00",
+      "headline": "The other classroom: Returning to sacred knowledge",
+      "excerpt": "Why doctors, lawyers and other professionals are turning to Darul Qasim in Chicago to rediscover Islamic scholarship.",
+      "link": "https://www.aljazeera.com/features/longform/2026/8/7/the-other-classroom-returning-to-sacred-knowledge?traffic_source=rss",
+      "published": "2026-08-07T08:41:06+00:00",
       "featured": false
     },
     {
@@ -155,6 +155,15 @@
       "featured": false
     },
     {
+      "id": "a013c53d631b",
+      "source": "ProPublica",
+      "headline": "He’s Eligible for Up to $480,000 After Being Wrongly Imprisoned for 42 Years. The State Says No.",
+      "excerpt": "The post He’s Eligible for Up to $480,000 After Being Wrongly Imprisoned for 42 Years. The State Says No. appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/louisiana-wrongful-conviction-compensation-liz-murrill-elvis-brooks",
+      "published": "2026-08-06T09:00:00+00:00",
+      "featured": false
+    },
+    {
       "id": "1fb366499f21",
       "source": "The Intercept",
       "headline": "Black Residents Warned of Abusive Cops for Years. Then Police Shot and Killed a Toddler.",
@@ -170,15 +179,6 @@
       "excerpt": "Reporting by ICIJ and The Indian Express illustrated how Indian counterfeiters exploited the high price of the lifesaving cancer drug Keytruda and the desperation of patients seeking it.",
       "link": "https://www.icij.org/investigations/cancer-calculus/after-cancer-drug-counterfeiting-scandal-india-imposes-new-tracing-requirements/",
       "published": "2026-08-05T19:30:24+00:00",
-      "featured": false
-    },
-    {
-      "id": "68e5d9f3acf8",
-      "source": "ProPublica",
-      "headline": "James Talarico Accused Ken Paxton of Voter Fraud. His Own Voter Registration Is Raising Questions.",
-      "excerpt": "The post James Talarico Accused Ken Paxton of Voter Fraud. His Own Voter Registration Is Raising Questions. appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/james-talarico-texas-election-law-ken-paxton",
-      "published": "2026-08-05T10:00:00+00:00",
       "featured": false
     },
     {
@@ -218,12 +218,12 @@
       "featured": false
     },
     {
-      "id": "68f80f997301",
+      "id": "525f06655428",
       "source": "Al Jazeera",
-      "headline": "Mexico deploys troops to secure avocado region after US halts imports",
-      "excerpt": "Mexico deployed more than 1,500 troops to its main avocado-producing state after the US suspended export inspections.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/7/mexico-deploys-troops-to-secure-avocado-region-after-us-halts-imports?traffic_source=rss",
-      "published": "2026-08-07T05:25:56+00:00",
+      "headline": "Africa backs Infantino as CAF unanimously votes in FIFA president’s favour",
+      "excerpt": "CAF president Patrice Motsepe calls for good governance, as Africa throws weight behind FIFA's Gianni Infantino.",
+      "link": "https://www.aljazeera.com/sports/2026/8/7/africa-backs-infantino-as-caf-unanimously-votes-if-fifa-presidents-favour?traffic_source=rss",
+      "published": "2026-08-07T07:44:06+00:00",
       "featured": false
     },
     {
@@ -272,12 +272,12 @@
       "featured": false
     },
     {
-      "id": "686e9668ea5f",
+      "id": "68e5d9f3acf8",
       "source": "ProPublica",
-      "headline": "Lead Contamination Is Still a Problem in Omaha. Why Is the City Cleaning Up Some Yards and Not Others?",
-      "excerpt": "The post Lead Contamination Is Still a Problem in Omaha. Why Is the City Cleaning Up Some Yards and Not Others? appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/omaha-nebraska-lead-superfund-epa-retesting",
-      "published": "2026-08-05T09:00:00+00:00",
+      "headline": "James Talarico Accused Ken Paxton of Voter Fraud. His Own Voter Registration Is Raising Questions.",
+      "excerpt": "The post James Talarico Accused Ken Paxton of Voter Fraud. His Own Voter Registration Is Raising Questions. appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/james-talarico-texas-election-law-ken-paxton",
+      "published": "2026-08-05T10:00:00+00:00",
       "featured": false
     },
     {
@@ -317,12 +317,12 @@
       "featured": false
     },
     {
-      "id": "37e6b52e9fcf",
+      "id": "5258538094d8",
       "source": "Al Jazeera",
-      "headline": "Record-high heat soars through South Korea",
-      "excerpt": "A record-high heatwave is sweeping through the Korean Peninsula, sending temperatures skyrocketing, reaching 42.5C.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/7/record-high-heat-soars-through-south-korea?traffic_source=rss",
-      "published": "2026-08-07T05:00:48+00:00",
+      "headline": "Earthquake strikes as doctors perform surgery",
+      "excerpt": "A viral video shows medical staff protecting a patient as an earthquake struck Japan during surgery.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/7/earthquake-strikes-as-doctors-perform-surgery?traffic_source=rss",
+      "published": "2026-08-07T07:43:05+00:00",
       "featured": false
     },
     {
@@ -353,6 +353,15 @@
       "featured": false
     },
     {
+      "id": "686e9668ea5f",
+      "source": "ProPublica",
+      "headline": "Lead Contamination Is Still a Problem in Omaha. Why Is the City Cleaning Up Some Yards and Not Others?",
+      "excerpt": "The post Lead Contamination Is Still a Problem in Omaha. Why Is the City Cleaning Up Some Yards and Not Others? appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/omaha-nebraska-lead-superfund-epa-retesting",
+      "published": "2026-08-05T09:00:00+00:00",
+      "featured": false
+    },
+    {
       "id": "4aa454b72b9d",
       "source": "OCCRP",
       "headline": "‘I terminated this channel’: Inside the Fake Copyright Racket Silencing News Outlets",
@@ -368,15 +377,6 @@
       "excerpt": "Hacked emails show Yahav Lichner, a UN official, repeatedly supplied Israeli diplomats with confidential UN reports and private briefings. He now directs UNICEF’s Washington office.",
       "link": "https://www.dropsitenews.com/p/for-your-eyes-only-israels-mole-inside",
       "published": "2026-08-04T21:27:52+00:00",
-      "featured": false
-    },
-    {
-      "id": "94e0bd6dbb18",
-      "source": "ProPublica",
-      "headline": "Greg Abbott Blasted Corpus Christi for Its Water Crisis. A River Authority He Has Power Over Is Falling Apart.",
-      "excerpt": "The post Greg Abbott Blasted Corpus Christi for Its Water Crisis. A River Authority He Has Power Over Is Falling Apart. appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/greg-abbott-nueces-river-authority",
-      "published": "2026-08-04T10:00:00+00:00",
       "featured": false
     },
     {
@@ -416,12 +416,12 @@
       "featured": false
     },
     {
-      "id": "ca1371fd8bf8",
+      "id": "b78222a358a7",
       "source": "Al Jazeera",
-      "headline": "Turkiye’s Erdogan visits Saudi Arabia: What to expect",
-      "excerpt": "Erdogan will meet with Saudi Crown Prince Mohammed bin Salman and Pakistani PM Shehbaz Sharif, his office says.",
-      "link": "https://www.aljazeera.com/news/2026/8/7/turkiyes-erdogan-to-visit-saudi-arabia-what-to-expect?traffic_source=rss",
-      "published": "2026-08-07T04:43:43+00:00",
+      "headline": "‘Still searching for truth’: Daughter of Sikh activist killed 30 years ago",
+      "excerpt": "Jaswant Singh Khalra's daughter Navkiran reflects on slain father's life and legacy, which also inspired a recent film.",
+      "link": "https://www.aljazeera.com/news/2026/8/7/still-searching-for-truth-daughter-of-sikh-activist-killed-30-years-ago?traffic_source=rss",
+      "published": "2026-08-07T06:29:40+00:00",
       "featured": false
     },
     {
@@ -470,12 +470,12 @@
       "featured": false
     },
     {
-      "id": "3a13a8c71d26",
+      "id": "94e0bd6dbb18",
       "source": "ProPublica",
-      "headline": "The EPA Doesn’t Typically Retest Homes in the Country’s Largest Residential Lead Superfund Site. So We Did.",
-      "excerpt": "The post The EPA Doesn’t Typically Retest Homes in the Country’s Largest Residential Lead Superfund Site. So We Did. appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/omaha-nebraska-lead-testing-superfund-methodology",
-      "published": "2026-08-04T09:05:00+00:00",
+      "headline": "Greg Abbott Blasted Corpus Christi for Its Water Crisis. A River Authority He Has Power Over Is Falling Apart.",
+      "excerpt": "The post Greg Abbott Blasted Corpus Christi for Its Water Crisis. A River Authority He Has Power Over Is Falling Apart. appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/greg-abbott-nueces-river-authority",
+      "published": "2026-08-04T10:00:00+00:00",
       "featured": false
     },
     {
@@ -497,12 +497,12 @@
       "featured": false
     },
     {
-      "id": "7910a9fb588e",
+      "id": "0bffda0185d7",
       "source": "Al Jazeera",
-      "headline": "At least six killed, 15 wounded in Thailand school shooting, police say",
-      "excerpt": "Authorities say suspected gunman also found dead after shooting at a school northwest of Bangkok.",
-      "link": "https://www.aljazeera.com/news/2026/8/7/one-killed-four-injured-in-thailand-school-shooting-officials-say?traffic_source=rss",
-      "published": "2026-08-07T04:23:52+00:00",
+      "headline": "Bodies of climbers killed in avalanche retrieved from Broad Peak",
+      "excerpt": "A search team has retrieved the remains of renowned climber Nirmal Purja and several members of his team.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/7/bodies-of-climbers-killed-in-avalanche-retrieved-from-broad-peak?traffic_source=rss",
+      "published": "2026-08-07T05:49:22+00:00",
       "featured": false
     },
     {
