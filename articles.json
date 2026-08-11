@@ -1,6 +1,33 @@
 {
-  "generated_at": "2026-08-11T13:43:19.415212+00:00",
+  "generated_at": "2026-08-11T16:10:50.518458+00:00",
   "articles": [
+    {
+      "id": "40be5ada92ad",
+      "source": "Al Jazeera",
+      "headline": "Hungary elects supreme court judge ousted by Orban as new president",
+      "excerpt": "Baka replaces Orban appointee Tamas Sulyok, ousted weeks ago during Tisza’s campaign against Orban-era power structures.",
+      "link": "https://www.aljazeera.com/news/2026/8/11/hungary-elects-supreme-court-judge-ousted-by-orban-as-new-president?traffic_source=rss",
+      "published": "2026-08-11T15:50:51+00:00",
+      "featured": true
+    },
+    {
+      "id": "415399617ede",
+      "source": "The Lever",
+      "headline": "How A Hedge Fund Billionaire Became The Democrats’ New Kingmaker",
+      "excerpt": "Stephen Mandel is bankrolling a new political apparatus built to “redefine” the Democratic Party — but what does he actually want?",
+      "link": "https://www.levernews.com/how-a-hedge-fund-billionaire-became-the-democrats-new-kingmaker/",
+      "published": "2026-08-11T15:18:30+00:00",
+      "featured": true
+    },
+    {
+      "id": "1c89173c7837",
+      "source": "More Perfect Union",
+      "headline": "He Was a Blackwater Mercenary. Here’s Why He’s Worried about the Board of Peace.",
+      "excerpt": "Jared Kushner has a scheme to profit off world peace — and Gaza is the testing ground.",
+      "link": "https://substack.perfectunion.us/p/he-was-a-blackwater-mercenary-heres",
+      "published": "2026-08-11T14:50:26+00:00",
+      "featured": true
+    },
     {
       "id": "b67bc1a6d9e0",
       "source": "404 Media",
@@ -8,16 +35,7 @@
       "excerpt": "Research Gold's team of human methodologists are either AI generated or using the identity of real people without their permission",
       "link": "https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai/",
       "published": "2026-08-11T13:38:28+00:00",
-      "featured": true
-    },
-    {
-      "id": "c9e7e83afebf",
-      "source": "Al Jazeera",
-      "headline": "Hunter Biden defends Tucker Carlson over Netanyahu comments",
-      "excerpt": "Hunter Biden defends Tucker Carlson over Netanyahu comments",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/hunter-biden-defends-tucker-carlson-over-netanyahu-comments?traffic_source=rss",
-      "published": "2026-08-11T13:10:49+00:00",
-      "featured": true
+      "featured": false
     },
     {
       "id": "22674d473413",
@@ -26,7 +44,7 @@
       "excerpt": "Today’s Democratic gubernatorial primary in Wisconsin has featured increasingly desperate attacks against the frontrunner. The post Francesca Hong’s “Thanksgiving-Gate” Shows Her Detractors Are Totally Out of Ideas...",
       "link": "https://theintercept.com/2026/08/11/francesca-hong-thanksgiving-wisconsin-governor/",
       "published": "2026-08-11T12:03:27+00:00",
-      "featured": true
+      "featured": false
     },
     {
       "id": "5604889e11b6",
@@ -56,15 +74,6 @@
       "featured": false
     },
     {
-      "id": "769fead26de5",
-      "source": "The Lever",
-      "headline": "THE KINGMAKERS, Ep. 7: The King's Man",
-      "excerpt": "Russell Vought rewires the government for a no-limits president.",
-      "link": "https://www.levernews.com/rdoyle-levernews-com/",
-      "published": "2026-08-11T08:15:07+00:00",
-      "featured": false
-    },
-    {
       "id": "5b3f4d69ea45",
       "source": "ICIJ",
       "headline": "Alleged cartel boss Daniel Kinahan charged in Ireland following high security extradition",
@@ -80,15 +89,6 @@
       "excerpt": "Drop Site Daily: August 10, 2026",
       "link": "https://www.dropsitenews.com/p/trump-iran-hormuz-netanyahu-gaza-board-peace-ukraine-russia-refinery",
       "published": "2026-08-10T15:31:41+00:00",
-      "featured": false
-    },
-    {
-      "id": "4320a6670ca7",
-      "source": "More Perfect Union",
-      "headline": "The Most Powerful Tech Billionaire You've Never Heard Of",
-      "excerpt": "The biggest midterm spender warns against “playing God” while profiting from surveillance.",
-      "link": "https://substack.perfectunion.us/p/the-most-powerful-tech-billionaire",
-      "published": "2026-08-06T18:19:24+00:00",
       "featured": false
     },
     {
@@ -110,12 +110,21 @@
       "featured": false
     },
     {
-      "id": "ff34ed6d90bf",
+      "id": "eca53e83418e",
       "source": "Al Jazeera",
-      "headline": "Somali denied World Cup ‘proud’ to referee PSG vs Villa in UEFA Super Cup",
-      "excerpt": "Omar Artan was turned away on arrival at Miami International Airport before World Cup 2026 where he was to officiate.",
-      "link": "https://www.aljazeera.com/sports/2026/8/11/somali-referee-denied-world-cup-proud-to-oversee-uefa-super-cup?traffic_source=rss",
-      "published": "2026-08-11T13:09:21+00:00",
+      "headline": "Rwanda: The genocide against the Tutsi",
+      "excerpt": "How colonial identity, extremist politics and 'hate radio' helped turn Rwanda’s genocide into organised mass murder.",
+      "link": "https://www.aljazeera.com/video/aljazeerauntangles/2026/8/11/rwanda-the-genocide-against-the-tutsi?traffic_source=rss",
+      "published": "2026-08-11T15:49:09+00:00",
+      "featured": false
+    },
+    {
+      "id": "769fead26de5",
+      "source": "The Lever",
+      "headline": "THE KINGMAKERS, Ep. 7: The King's Man",
+      "excerpt": "Russell Vought rewires the government for a no-limits president.",
+      "link": "https://www.levernews.com/rdoyle-levernews-com/",
+      "published": "2026-08-11T08:15:07+00:00",
       "featured": false
     },
     {
@@ -134,15 +143,6 @@
       "excerpt": "LexisNexis sells a massive amount of data to law enforcement, including ICE. New records indicate ICE wants to feed that data into a Palantir system.",
       "link": "https://www.404media.co/ice-to-pay-lexisnexis-millions-for-data-to-feed-to-palantir/",
       "published": "2026-08-10T23:25:58+00:00",
-      "featured": false
-    },
-    {
-      "id": "d91b9bb7d4be",
-      "source": "The Lever",
-      "headline": "Democrats Declare War On Their Own Voters",
-      "excerpt": "Third Way is spending $15 million to crush the Democratic left. Its campaign could produce exactly the insurgency it fears.",
-      "link": "https://www.levernews.com/democrats-declare-war-on-their-own-voters/",
-      "published": "2026-08-10T20:27:55+00:00",
       "featured": false
     },
     {
@@ -191,12 +191,12 @@
       "featured": false
     },
     {
-      "id": "4e0c3f7f18bc",
+      "id": "4320a6670ca7",
       "source": "More Perfect Union",
-      "headline": "The DHS Ditched its Warehouse Plan for Prisons Conversions",
-      "excerpt": "GEO Group’s liabilities are now profit engines for Trump and his allies",
-      "link": "https://substack.perfectunion.us/p/the-dhs-ditched-its-warehouse-plan",
-      "published": "2026-07-31T15:09:00+00:00",
+      "headline": "The Most Powerful Tech Billionaire You've Never Heard Of",
+      "excerpt": "The biggest midterm spender warns against “playing God” while profiting from surveillance.",
+      "link": "https://substack.perfectunion.us/p/the-most-powerful-tech-billionaire",
+      "published": "2026-08-06T18:19:24+00:00",
       "featured": false
     },
     {
@@ -209,12 +209,21 @@
       "featured": false
     },
     {
-      "id": "fba9fc45bd5a",
+      "id": "5405f4d0f2f0",
       "source": "Al Jazeera",
-      "headline": "What to know about the US primary election in Minnesota",
-      "excerpt": "Immigration is at the centre of another closely watched Democratic Senate race.",
-      "link": "https://www.aljazeera.com/news/2026/8/11/what-to-know-about-us-primary-election-in-minnesota?traffic_source=rss",
-      "published": "2026-08-11T12:56:41+00:00",
+      "headline": "Lebanon parliament votes to end death penalty, 1st in Middle East to do so",
+      "excerpt": "Death sentences will be replaced with life imprisonment with aggravated hard labour.",
+      "link": "https://www.aljazeera.com/news/2026/8/11/lebanons-parliament-votes-to-end-death-penalty-first-in-middle-east-to-so?traffic_source=rss",
+      "published": "2026-08-11T15:20:38+00:00",
+      "featured": false
+    },
+    {
+      "id": "d91b9bb7d4be",
+      "source": "The Lever",
+      "headline": "Democrats Declare War On Their Own Voters",
+      "excerpt": "Third Way is spending $15 million to crush the Democratic left. Its campaign could produce exactly the insurgency it fears.",
+      "link": "https://www.levernews.com/democrats-declare-war-on-their-own-voters/",
+      "published": "2026-08-10T20:27:55+00:00",
       "featured": false
     },
     {
@@ -224,15 +233,6 @@
       "excerpt": "The alleged leader of a major Irish organized crime group was extradited from Dubai and charged with directing a criminal organization. Appearing without a lawyer, he told the court: “I think we know I won’t be getting...",
       "link": "https://www.occrp.org/en/news/alleged-irish-crime-boss-charged-after-uae-extradition",
       "published": "2026-08-10T16:24:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "352158e69fef",
-      "source": "The Lever",
-      "headline": "ICE Is Amassing A DNA Bank",
-      "excerpt": "Under Trump, Immigration and Customs Enforcement is rapidly increasing the agency’s collection of genetic material.",
-      "link": "https://www.levernews.com/ice-is-amassing-a-dna-bank/",
-      "published": "2026-08-10T16:20:49+00:00",
       "featured": false
     },
     {
@@ -290,12 +290,12 @@
       "featured": false
     },
     {
-      "id": "4cb97a0a9800",
+      "id": "4e0c3f7f18bc",
       "source": "More Perfect Union",
-      "headline": "Why Political Elites Are Terrified Of This Candidate",
-      "excerpt": "Watch now | The media claims Abdul El-Sayed can’t win in November. But is that narrative borne out on the ground?",
-      "link": "https://substack.perfectunion.us/p/why-political-elites-are-terrified",
-      "published": "2026-07-30T21:01:22+00:00",
+      "headline": "The DHS Ditched its Warehouse Plan for Prisons Conversions",
+      "excerpt": "GEO Group’s liabilities are now profit engines for Trump and his allies",
+      "link": "https://substack.perfectunion.us/p/the-dhs-ditched-its-warehouse-plan",
+      "published": "2026-07-31T15:09:00+00:00",
       "featured": false
     },
     {
@@ -308,12 +308,21 @@
       "featured": false
     },
     {
-      "id": "d2f87ab9ba51",
+      "id": "7ab5993bb375",
       "source": "Al Jazeera",
-      "headline": "Philippines sailors say they will work despite wartime risks",
-      "excerpt": "Philippines sailors say they will work despite wartime risks",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/philippines-sailors-say-they-will-work-despite-wartime-risks-2?traffic_source=rss",
-      "published": "2026-08-11T12:40:11+00:00",
+      "headline": "DC residents debate safety gains a year into Trump’s Guard deployment",
+      "excerpt": "Mixed reactions persist in Washington, DC, a year after Trump deployed the National Guard to address crime concerns.",
+      "link": "https://www.aljazeera.com/news/2026/8/11/dc-residents-debate-safety-gains-a-year-into-trumps-guard-deployment?traffic_source=rss",
+      "published": "2026-08-11T15:07:50+00:00",
+      "featured": false
+    },
+    {
+      "id": "352158e69fef",
+      "source": "The Lever",
+      "headline": "ICE Is Amassing A DNA Bank",
+      "excerpt": "Under Trump, Immigration and Customs Enforcement is rapidly increasing the agency’s collection of genetic material.",
+      "link": "https://www.levernews.com/ice-is-amassing-a-dna-bank/",
+      "published": "2026-08-10T16:20:49+00:00",
       "featured": false
     },
     {
@@ -323,15 +332,6 @@
       "excerpt": "\"The future is for everyone,\" Zuckerberg says, describing future that is primarily good for Meta.",
       "link": "https://www.404media.co/mark-zuckerberg-posts-deranged-6-500-word-essay-about-giving-everyone-ai-superintelligence/",
       "published": "2026-08-10T14:13:30+00:00",
-      "featured": false
-    },
-    {
-      "id": "35dcba8a632c",
-      "source": "The Lever",
-      "headline": "Lever Weekly: It’s Gonna Cost You",
-      "excerpt": "Trump’s oil giveaway, airlines lobbying for smaller font sizes, FEMA cuts, and more from The Lever this week.",
-      "link": "https://www.levernews.com/lever-weekly-its-gonna-cost-you/",
-      "published": "2026-08-09T13:03:08+00:00",
       "featured": false
     },
     {
@@ -389,12 +389,12 @@
       "featured": false
     },
     {
-      "id": "3c375951e03d",
+      "id": "4cb97a0a9800",
       "source": "More Perfect Union",
-      "headline": "Why Latino Trump Voters Are At A Breaking Point",
-      "excerpt": "Latino voters in South Texas’s reddest district are turning on Trump. Now a Democrat could win them back.",
-      "link": "https://substack.perfectunion.us/p/why-latino-trump-voters-are-at-a",
-      "published": "2026-07-28T19:37:51+00:00",
+      "headline": "Why Political Elites Are Terrified Of This Candidate",
+      "excerpt": "Watch now | The media claims Abdul El-Sayed can’t win in November. But is that narrative borne out on the ground?",
+      "link": "https://substack.perfectunion.us/p/why-political-elites-are-terrified",
+      "published": "2026-07-30T21:01:22+00:00",
       "featured": false
     },
     {
@@ -407,12 +407,12 @@
       "featured": false
     },
     {
-      "id": "81fa664cdc3f",
+      "id": "c9ad014f153f",
       "source": "Al Jazeera",
-      "headline": "Late snow blankets parts of southern Africa as winter nears its end",
-      "excerpt": "Late-season snow hits South Africa and Lesotho as the Northern Hemisphere swelters in heat and wildfires.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/late-snow-blankets-parts-of-southern-africa-as-winter-nears-its-end?traffic_source=rss",
-      "published": "2026-08-11T12:36:37+00:00",
+      "headline": "Total solar eclipse 2026: Where, when and how to watch on Wednesday?",
+      "excerpt": "Millions will see the sun disappear as the eclipse sweeps from the Arctic to Europe, bringing two minutes of totality.",
+      "link": "https://www.aljazeera.com/news/2026/8/11/total-solar-eclipse-2026-where-when-and-how-to-watch-on-wednesday?traffic_source=rss",
+      "published": "2026-08-11T14:56:06+00:00",
       "featured": false
     },
     {
@@ -425,12 +425,12 @@
       "featured": false
     },
     {
-      "id": "f90b9d057c87",
+      "id": "35dcba8a632c",
       "source": "The Lever",
-      "headline": "You Love To See It: Keeping The Great Lakes Great",
-      "excerpt": "Abdul El-Sayed battles a pipeline, Eli Lilly goes under the knife, Virginia makes suffrage cool again, and Illinois feasts.",
-      "link": "https://www.levernews.com/you-love-to-see-it-keeping-the-great-lakes-great/",
-      "published": "2026-08-08T13:01:38+00:00",
+      "headline": "Lever Weekly: It’s Gonna Cost You",
+      "excerpt": "Trump’s oil giveaway, airlines lobbying for smaller font sizes, FEMA cuts, and more from The Lever this week.",
+      "link": "https://www.levernews.com/lever-weekly-its-gonna-cost-you/",
+      "published": "2026-08-09T13:03:08+00:00",
       "featured": false
     },
     {
@@ -488,12 +488,30 @@
       "featured": false
     },
     {
-      "id": "bc48b79acfb1",
+      "id": "3c375951e03d",
+      "source": "More Perfect Union",
+      "headline": "Why Latino Trump Voters Are At A Breaking Point",
+      "excerpt": "Latino voters in South Texas’s reddest district are turning on Trump. Now a Democrat could win them back.",
+      "link": "https://substack.perfectunion.us/p/why-latino-trump-voters-are-at-a",
+      "published": "2026-07-28T19:37:51+00:00",
+      "featured": false
+    },
+    {
+      "id": "2417a8fd5117",
       "source": "Al Jazeera",
-      "headline": "Hockey World Cup 2026: Full match schedule, groups, India vs Pakistan",
-      "excerpt": "Pools, format, match schedule, timings, India vs Pakistan history and more before 2026 FIH Hockey World Cup.",
-      "link": "https://www.aljazeera.com/sports/2026/8/11/hockey-world-cup-2026-full-match-schedule-groups-india-vs-pakistan?traffic_source=rss",
-      "published": "2026-08-11T12:31:49+00:00",
+      "headline": "Ten police and 17 “bandits” killed in firefight in northwestern Nigeria",
+      "excerpt": "Police say 17 suspected gang members and two civilians were also killed in Kebbi State.",
+      "link": "https://www.aljazeera.com/news/2026/8/11/dozens-killed-in-firefight-between-nigerian-armed-group-and-police?traffic_source=rss",
+      "published": "2026-08-11T14:44:10+00:00",
+      "featured": false
+    },
+    {
+      "id": "f90b9d057c87",
+      "source": "The Lever",
+      "headline": "You Love To See It: Keeping The Great Lakes Great",
+      "excerpt": "Abdul El-Sayed battles a pipeline, Eli Lilly goes under the knife, Virginia makes suffrage cool again, and Illinois feasts.",
+      "link": "https://www.levernews.com/you-love-to-see-it-keeping-the-great-lakes-great/",
+      "published": "2026-08-08T13:01:38+00:00",
       "featured": false
     },
     {
@@ -503,15 +521,6 @@
       "excerpt": "Scientists discovered a crab that had spent months at sea stuck in a bottle, subsisting on algae and fish that wandered into its plastic lair. The lonely mariner offers a warning about the impacts of human pollution on...",
       "link": "https://www.404media.co/crab-odyssey-crustacean-wandered-the-seas-in-a-bottle-for-months-scientists-find/",
       "published": "2026-08-08T10:00:26+00:00",
-      "featured": false
-    },
-    {
-      "id": "ab56e629f947",
-      "source": "The Lever",
-      "headline": "Airlines Are Lobbying To Change Airfare Font Sizes. It’s Gonna Cost You.",
-      "excerpt": "Advertisers trick consumers into paying more by changing the font size of fees. Major airlines want in on the action.",
-      "link": "https://www.levernews.com/airlines-are-lobbying-to-change-airfare-font-sizes-its-gonna-cost-you/",
-      "published": "2026-08-07T19:25:27+00:00",
       "featured": false
     },
     {
@@ -530,15 +539,6 @@
       "excerpt": "A bill intended to halt the supposed threat of “organized retail crime” would put ICE in charge of the federal response. The post Congress Might Give ICE the Power to Go After Shoplifters appeared first on The Intercept.",
       "link": "https://theintercept.com/2026/08/07/congress-ice-shoplifting-theft-surveillance/",
       "published": "2026-08-07T11:17:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "cce357269019",
-      "source": "OCCRP",
-      "headline": "US Charges NFT Founder in Alleged $10M Investor Fraud",
-      "excerpt": "U.S. prosecutors allege Taj Tarsha diverted investor funds meant for a new digital marketplace to pay for online gambling, a Miami condo and his DJ hobby. Tarsha’s attorneys claim he is innocent.",
-      "link": "https://www.occrp.org/en/news/us-charges-nft-founder-in-10m-investor-fraud",
-      "published": "2026-08-06T14:57:00+00:00",
       "featured": false
     }
   ]
