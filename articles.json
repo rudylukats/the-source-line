@@ -1,13 +1,31 @@
 {
-  "generated_at": "2026-08-10T21:58:45.718340+00:00",
+  "generated_at": "2026-08-11T02:28:07.362343+00:00",
   "articles": [
     {
-      "id": "eb755c910845",
+      "id": "6e0bcaf0a58d",
       "source": "Al Jazeera",
-      "headline": "Europe braces for another heatwave after record-breaking temperatures",
-      "excerpt": "Extreme heat warnings issued in Britain and France with temperatures forecasted to reach mid-30s Celsius this week.",
-      "link": "https://www.aljazeera.com/news/2026/8/10/europe-braces-for-another-heatwave-after-record-breaking-temperatures?traffic_source=rss",
-      "published": "2026-08-10T21:29:32+00:00",
+      "headline": "Soldiers take cover as Colombia quake flattens military barracks",
+      "excerpt": "Video shows soldiers running from buildings at a military base in Cali as a magnitude 7.4 earthquake",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/soldiers-take-cover-as-colombia-quake-flattens-military-barracks?traffic_source=rss",
+      "published": "2026-08-11T01:06:36+00:00",
+      "featured": true
+    },
+    {
+      "id": "cb6591852d8b",
+      "source": "404 Media",
+      "headline": "ICE to Pay LexisNexis Millions for Data to Feed to Palantir",
+      "excerpt": "LexisNexis sells a massive amount of data to law enforcement, including ICE. New records indicate ICE wants to feed that data into a Palantir system.",
+      "link": "https://www.404media.co/ice-to-pay-lexisnexis-millions-for-data-to-feed-to-palantir/",
+      "published": "2026-08-10T23:25:58+00:00",
+      "featured": true
+    },
+    {
+      "id": "5b3f4d69ea45",
+      "source": "ICIJ",
+      "headline": "Alleged cartel boss Daniel Kinahan charged in Ireland following high security extradition",
+      "excerpt": "Kinahan was taken from Dubai to a Dublin court under armed escort and ordered to remain in prison while he awaits trial for his alleged part in running a global drug smuggling empire.",
+      "link": "https://www.icij.org/news/2026/08/alleged-cartel-boss-daniel-kinahan-charged-in-ireland-following-high-security-extradition/",
+      "published": "2026-08-10T22:44:19+00:00",
       "featured": true
     },
     {
@@ -17,7 +35,7 @@
       "excerpt": "Third Way is spending $15 million to crush the Democratic left. Its campaign could produce exactly the insurgency it fears.",
       "link": "https://www.levernews.com/democrats-declare-war-on-their-own-voters/",
       "published": "2026-08-10T20:27:55+00:00",
-      "featured": true
+      "featured": false
     },
     {
       "id": "1f7a7e769ff3",
@@ -26,7 +44,7 @@
       "excerpt": "The alleged leader of a major Irish organized crime group was extradited from Dubai and charged with directing a criminal organization. Appearing without a lawyer, he told the court: “I think we know I won’t be getting...",
       "link": "https://www.occrp.org/en/news/alleged-irish-crime-boss-charged-after-uae-extradition",
       "published": "2026-08-10T16:24:00+00:00",
-      "featured": true
+      "featured": false
     },
     {
       "id": "024176ebc397",
@@ -35,15 +53,6 @@
       "excerpt": "Drop Site Daily: August 10, 2026",
       "link": "https://www.dropsitenews.com/p/trump-iran-hormuz-netanyahu-gaza-board-peace-ukraine-russia-refinery",
       "published": "2026-08-10T15:31:41+00:00",
-      "featured": false
-    },
-    {
-      "id": "3a72349274a9",
-      "source": "404 Media",
-      "headline": "The Mayor Who Said 'No' When Flock Came to Town",
-      "excerpt": "“I guess all crime could be eliminated if you put cameras everywhere, surveillance everywhere, and had drones patrolling the skies [...] but what life are we living then?”",
-      "link": "https://www.404media.co/the-mayor-who-said-no-when-flock-came-to-town/",
-      "published": "2026-08-10T14:41:22+00:00",
       "featured": false
     },
     {
@@ -74,15 +83,6 @@
       "featured": false
     },
     {
-      "id": "bb66f2d39528",
-      "source": "ICIJ",
-      "headline": "The $200 billion company you can’t look inside",
-      "excerpt": "Its USDT crypto token underpins a trillion-dollar market, but cryptocurrency giant Tether won’t answer questions about its ownership.",
-      "link": "https://www.icij.org/investigations/coin-laundry/the-200-billion-company-you-cant-look-inside/",
-      "published": "2026-08-07T04:01:59+00:00",
-      "featured": false
-    },
-    {
       "id": "4320a6670ca7",
       "source": "More Perfect Union",
       "headline": "The Most Powerful Tech Billionaire You've Never Heard Of",
@@ -110,12 +110,12 @@
       "featured": false
     },
     {
-      "id": "431061cc1e85",
+      "id": "ee9ee893b9b3",
       "source": "Al Jazeera",
-      "headline": "Wildfires burn across Indonesia as officials cite El Nino as a cause",
-      "excerpt": "Thousands of firefighters and dozens of helicopters battle growing wildfires across Indonesia.",
-      "link": "https://www.aljazeera.com/news/2026/8/10/wildfires-burn-across-indonesia-as-officials-cite-el-nino-as-a-cause?traffic_source=rss",
-      "published": "2026-08-10T21:15:41+00:00",
+      "headline": "Turkiye passes law giving thousands of PKK members chance at amnesty",
+      "excerpt": "Turkiye passes law setting terms for thousands of PKK members to rejoin society if the group fully disarms.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/08-11-2026-turkiye-pkk-bill-sv-mp4?traffic_source=rss",
+      "published": "2026-08-11T00:55:09+00:00",
       "featured": false
     },
     {
@@ -128,21 +128,21 @@
       "featured": false
     },
     {
+      "id": "3a72349274a9",
+      "source": "404 Media",
+      "headline": "The Mayor Who Said 'No' When Flock Came to Town",
+      "excerpt": "“I guess all crime could be eliminated if you put cameras everywhere, surveillance everywhere, and had drones patrolling the skies [...] but what life are we living then?”",
+      "link": "https://www.404media.co/the-mayor-who-said-no-when-flock-came-to-town/",
+      "published": "2026-08-10T14:41:22+00:00",
+      "featured": false
+    },
+    {
       "id": "ec4caf81303e",
       "source": "Dropsite News",
       "headline": "Live Wednesday: Israel's Lobby with Eli Clifton and Ian Lustick",
       "excerpt": "Join us Wednesday, August 12 at 7PM ET, exclusive for paid subscribers",
       "link": "https://www.dropsitenews.com/p/live-wednesday-israels-lobby-with",
       "published": "2026-08-10T14:23:44+00:00",
-      "featured": false
-    },
-    {
-      "id": "b0caa2188c4d",
-      "source": "404 Media",
-      "headline": "Mark Zuckerberg Posts Deranged 6,500-Word Essay About Giving Everyone AI Superintelligence",
-      "excerpt": "\"The future is for everyone,\" Zuckerberg says, describing future that is primarily good for Meta.",
-      "link": "https://www.404media.co/mark-zuckerberg-posts-deranged-6-500-word-essay-about-giving-everyone-ai-superintelligence/",
-      "published": "2026-08-10T14:13:30+00:00",
       "featured": false
     },
     {
@@ -182,12 +182,12 @@
       "featured": false
     },
     {
-      "id": "69684180d7b9",
+      "id": "bb66f2d39528",
       "source": "ICIJ",
-      "headline": "After cancer drug counterfeiting scandal, India imposes new tracing requirements",
-      "excerpt": "Reporting by ICIJ and The Indian Express illustrated how Indian counterfeiters exploited the high price of the lifesaving cancer drug Keytruda and the desperation of patients seeking it.",
-      "link": "https://www.icij.org/investigations/cancer-calculus/after-cancer-drug-counterfeiting-scandal-india-imposes-new-tracing-requirements/",
-      "published": "2026-08-05T19:30:24+00:00",
+      "headline": "The $200 billion company you can’t look inside",
+      "excerpt": "Its USDT crypto token underpins a trillion-dollar market, but cryptocurrency giant Tether won’t answer questions about its ownership.",
+      "link": "https://www.icij.org/investigations/coin-laundry/the-200-billion-company-you-cant-look-inside/",
+      "published": "2026-08-07T04:01:59+00:00",
       "featured": false
     },
     {
@@ -209,21 +209,21 @@
       "featured": false
     },
     {
-      "id": "8a0ee321d741",
+      "id": "c97461e7c82d",
       "source": "Al Jazeera",
-      "headline": "Turkiye approves pardon-like bill for thousands of PKK fighters",
-      "excerpt": "Text envisages a return to civilian life for some of the Kurdistan Workers’ Party fighters who lay down their weapons.",
-      "link": "https://www.aljazeera.com/news/2026/8/10/turkiye-approves-pardon-like-bill-for-thousands-of-pkk-fighters?traffic_source=rss",
-      "published": "2026-08-10T21:14:16+00:00",
+      "headline": "Seventy years after South Africa’s women’s march, the struggle is not over",
+      "excerpt": "Women helped defeat apartheid’s pass laws, but many still face violence, poverty and unemployment.",
+      "link": "https://www.aljazeera.com/features/2026/8/11/seventy-years-after-south-africas-womens-march-the-struggle-is-not-over?traffic_source=rss",
+      "published": "2026-08-11T00:26:02+00:00",
       "featured": false
     },
     {
-      "id": "2b1d4d2b9a9e",
+      "id": "b0caa2188c4d",
       "source": "404 Media",
-      "headline": "The Roboguard Revolution is Short-Circuiting",
-      "excerpt": "Knightscope and other robotics companies are rethinking automated security following canceled contracts. One pivot? Human guards.",
-      "link": "https://www.404media.co/the-roboguard-revolution-is-short-circuiting/",
-      "published": "2026-08-10T13:00:43+00:00",
+      "headline": "Mark Zuckerberg Posts Deranged 6,500-Word Essay About Giving Everyone AI Superintelligence",
+      "excerpt": "\"The future is for everyone,\" Zuckerberg says, describing future that is primarily good for Meta.",
+      "link": "https://www.404media.co/mark-zuckerberg-posts-deranged-6-500-word-essay-about-giving-everyone-ai-superintelligence/",
+      "published": "2026-08-10T14:13:30+00:00",
       "featured": false
     },
     {
@@ -281,12 +281,12 @@
       "featured": false
     },
     {
-      "id": "b3505f55c652",
+      "id": "69684180d7b9",
       "source": "ICIJ",
-      "headline": "Companies once tied to Assad kept winning UN contracts under Syria’s new rulers",
-      "excerpt": "An ICIJ analysis found that at least 11 firms received roughly $10 million in 2025 after opaque deals and seizures reshaped their ownership.",
-      "link": "https://www.icij.org/investigations/damascus-dossier/companies-once-tied-to-assad-kept-winning-un-contracts-under-syrias-new-rulers/",
-      "published": "2026-08-04T19:54:07+00:00",
+      "headline": "After cancer drug counterfeiting scandal, India imposes new tracing requirements",
+      "excerpt": "Reporting by ICIJ and The Indian Express illustrated how Indian counterfeiters exploited the high price of the lifesaving cancer drug Keytruda and the desperation of patients seeking it.",
+      "link": "https://www.icij.org/investigations/cancer-calculus/after-cancer-drug-counterfeiting-scandal-india-imposes-new-tracing-requirements/",
+      "published": "2026-08-05T19:30:24+00:00",
       "featured": false
     },
     {
@@ -308,12 +308,21 @@
       "featured": false
     },
     {
-      "id": "feef4048cf26",
+      "id": "c6729ac748ca",
       "source": "Al Jazeera",
-      "headline": "Trump says relationship is good even as Netanyahu rejects Gaza peace plan",
-      "excerpt": "US President Donald Trump maintains that his relationship with Israel's PM Benjamin Netanyahu is still good.",
-      "link": "https://www.aljazeera.com/news/2026/8/10/trump-says-relationship-is-good-even-as-netanyahu-rejects-gaza-peace-plan?traffic_source=rss",
-      "published": "2026-08-10T21:03:53+00:00",
+      "headline": "Can Netanyahu defy Trump on his Gaza peace plan?",
+      "excerpt": "Can Netanyahu risk continuing to defy Trump?",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/8/11/can-netanyahu-defy-trump-on-his-gaza-peace-plan?traffic_source=rss",
+      "published": "2026-08-11T00:00:19+00:00",
+      "featured": false
+    },
+    {
+      "id": "2b1d4d2b9a9e",
+      "source": "404 Media",
+      "headline": "The Roboguard Revolution is Short-Circuiting",
+      "excerpt": "Knightscope and other robotics companies are rethinking automated security following canceled contracts. One pivot? Human guards.",
+      "link": "https://www.404media.co/the-roboguard-revolution-is-short-circuiting/",
+      "published": "2026-08-10T13:00:43+00:00",
       "featured": false
     },
     {
@@ -323,15 +332,6 @@
       "excerpt": "Abdul El-Sayed battles a pipeline, Eli Lilly goes under the knife, Virginia makes suffrage cool again, and Illinois feasts.",
       "link": "https://www.levernews.com/you-love-to-see-it-keeping-the-great-lakes-great/",
       "published": "2026-08-08T13:01:38+00:00",
-      "featured": false
-    },
-    {
-      "id": "905f32037b4f",
-      "source": "404 Media",
-      "headline": "Crab Odyssey: Crustacean Wandered the Seas in a Bottle for Months, Scientists Find",
-      "excerpt": "Scientists discovered a crab that had spent months at sea stuck in a bottle, subsisting on algae and fish that wandered into its plastic lair. The lonely mariner offers a warning about the impacts of human pollution on...",
-      "link": "https://www.404media.co/crab-odyssey-crustacean-wandered-the-seas-in-a-bottle-for-months-scientists-find/",
-      "published": "2026-08-08T10:00:26+00:00",
       "featured": false
     },
     {
@@ -380,12 +380,12 @@
       "featured": false
     },
     {
-      "id": "d94afd76a70c",
+      "id": "b3505f55c652",
       "source": "ICIJ",
-      "headline": "Europe sanctioned crypto exchange HTX. Experts say the firm is deploying tactics that could blunt the impact.",
-      "excerpt": "The exchange is rapidly generating new accounts in a way that can confuse authorities and compliance officials, experts told ICIJ.",
-      "link": "https://www.icij.org/investigations/coin-laundry/europe-sanctioned-crypto-exchange-htx-experts-say-the-firm-is-deploying-tactics-that-could-blunt-the-impact/",
-      "published": "2026-07-31T14:55:36+00:00",
+      "headline": "Companies once tied to Assad kept winning UN contracts under Syria’s new rulers",
+      "excerpt": "An ICIJ analysis found that at least 11 firms received roughly $10 million in 2025 after opaque deals and seizures reshaped their ownership.",
+      "link": "https://www.icij.org/investigations/damascus-dossier/companies-once-tied-to-assad-kept-winning-un-contracts-under-syrias-new-rulers/",
+      "published": "2026-08-04T19:54:07+00:00",
       "featured": false
     },
     {
@@ -407,12 +407,21 @@
       "featured": false
     },
     {
-      "id": "cd4f5b5d51e2",
+      "id": "816e48902267",
       "source": "Al Jazeera",
-      "headline": "US appeals court says social media addiction lawsuits can proceed",
-      "excerpt": "US court rules Meta, Google and TikTok will face addiction lawsuits as Meta heads to trial this week over child safety",
-      "link": "https://www.aljazeera.com/news/2026/8/10/us-appeals-court-says-social-media-addiction-lawsuits-can-proceed?traffic_source=rss",
-      "published": "2026-08-10T21:02:06+00:00",
+      "headline": "Iran war live: Trump claims Hormuz Strait open, seeks Iranian compensation",
+      "excerpt": "US President Donald Trump said he will seek compensation from Iran for casualties in the war.",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/8/11/iran-war-live-trump-claims-the-strait-is-open-seeks-iranian-compensation?traffic_source=rss",
+      "published": "2026-08-11T00:00:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "905f32037b4f",
+      "source": "404 Media",
+      "headline": "Crab Odyssey: Crustacean Wandered the Seas in a Bottle for Months, Scientists Find",
+      "excerpt": "Scientists discovered a crab that had spent months at sea stuck in a bottle, subsisting on algae and fish that wandered into its plastic lair. The lonely mariner offers a warning about the impacts of human pollution on...",
+      "link": "https://www.404media.co/crab-odyssey-crustacean-wandered-the-seas-in-a-bottle-for-months-scientists-find/",
+      "published": "2026-08-08T10:00:26+00:00",
       "featured": false
     },
     {
@@ -431,15 +440,6 @@
       "excerpt": "Despite a record of endangering Palestinian journalists, Honest Reporting received a $100,000 “emergency grant” from the Knight Foundation.",
       "link": "https://www.dropsitenews.com/p/honest-reporting-knight-foundation-israel-gaza",
       "published": "2026-08-07T16:47:17+00:00",
-      "featured": false
-    },
-    {
-      "id": "f5d0d5fcccfb",
-      "source": "404 Media",
-      "headline": "Behind the Blog: Rare Books and Baseball Brain",
-      "excerpt": "This week, we discuss Flock blogging, \"rare\" books, and Jesus Christ.",
-      "link": "https://www.404media.co/behind-the-blog-rare-books-and-baseball-brain/",
-      "published": "2026-08-07T15:27:49+00:00",
       "featured": false
     },
     {
@@ -479,21 +479,21 @@
       "featured": false
     },
     {
-      "id": "78e93507b9c1",
+      "id": "d94afd76a70c",
       "source": "ICIJ",
-      "headline": "Inside the Matrix: How models, influencers and engagement quotas power the Social Discovery Group’s dating machine and global profits",
-      "excerpt": "Women on four continents told ICIJ that global pay-per-action dating sites owned by a Russian businessman and self-styled philosopher left them financially broke and heartbroken.",
-      "link": "https://www.icij.org/news/2026/07/dating-app-scam-models-influencers-social-discovery-group/",
-      "published": "2026-07-23T15:11:47+00:00",
+      "headline": "Europe sanctioned crypto exchange HTX. Experts say the firm is deploying tactics that could blunt the impact.",
+      "excerpt": "The exchange is rapidly generating new accounts in a way that can confuse authorities and compliance officials, experts told ICIJ.",
+      "link": "https://www.icij.org/investigations/coin-laundry/europe-sanctioned-crypto-exchange-htx-experts-say-the-firm-is-deploying-tactics-that-could-blunt-the-impact/",
+      "published": "2026-07-31T14:55:36+00:00",
       "featured": false
     },
     {
-      "id": "940901a7eda4",
+      "id": "e8850b9b47e6",
       "source": "Al Jazeera",
-      "headline": "Trump to demand compensation for Tehran’s ‘conflicts’",
-      "excerpt": "President Donald Trump says he’ll demand compensation from Iran for people killed or wounded in the US war on Iran.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/10/trump-to-demand-compensation-for-tehrans?traffic_source=rss",
-      "published": "2026-08-10T20:55:21+00:00",
+      "headline": "Inside a secret launch site for Ukraine’s deep-strike drones",
+      "excerpt": "AJ's Audrey MacAlpine reports from a secret launch site in eastern Ukraine, where soldiers prepare long-range drones.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/10/aje-onl-nf_secret-launch-site-for-ukraines-deep-strike-drone-100826?traffic_source=rss",
+      "published": "2026-08-10T23:18:53+00:00",
       "featured": false
     },
     {
@@ -515,12 +515,12 @@
       "featured": false
     },
     {
-      "id": "fab8d41c8cac",
+      "id": "f5d0d5fcccfb",
       "source": "404 Media",
-      "headline": "City That Arrested Person for Clapping at Data Center Meeting Moves to Virtual Meetings for 'Public Safety'",
-      "excerpt": "A small town in Kansas took its city meetings virtual and ended public comment after city leaders received a wave of death threats.",
-      "link": "https://www.404media.co/city-that-arrested-person-for-clapping-at-data-center-meeting-moves-to-virtual-townhalls-for-public-safety/",
-      "published": "2026-08-07T14:55:33+00:00",
+      "headline": "Behind the Blog: Rare Books and Baseball Brain",
+      "excerpt": "This week, we discuss Flock blogging, \"rare\" books, and Jesus Christ.",
+      "link": "https://www.404media.co/behind-the-blog-rare-books-and-baseball-brain/",
+      "published": "2026-08-07T15:27:49+00:00",
       "featured": false
     },
     {
