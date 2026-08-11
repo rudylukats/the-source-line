@@ -1,13 +1,22 @@
 {
-  "generated_at": "2026-08-11T19:20:53.809828+00:00",
+  "generated_at": "2026-08-11T22:05:18.156332+00:00",
   "articles": [
     {
-      "id": "838dce7d7ad1",
+      "id": "d2b27ac2b3f6",
+      "source": "The Intercept",
+      "headline": "No, AOC: “Woke” Wasn’t “Crazy” the Way You Say It Was",
+      "excerpt": "Protesting George Floyd’s murder wasn’t the \"crazy\" part. Centrist Dems selling out was. The post No, AOC: “Woke” Wasn’t “Crazy” the Way You Say It Was appeared first on The Intercept.",
+      "link": "https://theintercept.com/2026/08/11/alexandria-ocasio-cortex-woke-one-crazy/",
+      "published": "2026-08-11T21:24:42+00:00",
+      "featured": true
+    },
+    {
+      "id": "3b0a2ddc578f",
       "source": "Al Jazeera",
-      "headline": "UNESCO says 2.4 million Afghan girls denied access to further education",
-      "excerpt": "UNESCO says the figure could reach four million by 2030 unless Taliban reverses policy.",
-      "link": "https://www.aljazeera.com/news/2026/8/11/unesco-says-2-4-million-afghan-girls-denied-access-to-further-education?traffic_source=rss",
-      "published": "2026-08-11T18:59:42+00:00",
+      "headline": "Father and sons forced to manually clear rubble in Gaza",
+      "excerpt": "Forced to rely on basic tools, a father and his sons are clearing the rubble of their destroyed home in Gaza.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/father-and-sons-forced-to-manually-clear-rubble-in-gaza?traffic_source=rss",
+      "published": "2026-08-11T21:24:34+00:00",
       "featured": true
     },
     {
@@ -26,7 +35,7 @@
       "excerpt": "A 2,000-year-old canal system in Colombia visible from space was long assumed to be built at the direction of powerful rulers. New evidence is turning that assumption on its head.",
       "link": "https://www.404media.co/no-bosses-ancient-engineering-marvel-was-built-without-rulers-study-suggests/",
       "published": "2026-08-11T17:55:52+00:00",
-      "featured": true
+      "featured": false
     },
     {
       "id": "6ff20614dd01",
@@ -53,15 +62,6 @@
       "excerpt": "Jared Kushner has a scheme to profit off world peace — and Gaza is the testing ground.",
       "link": "https://substack.perfectunion.us/p/he-was-a-blackwater-mercenary-heres",
       "published": "2026-08-11T14:50:26+00:00",
-      "featured": false
-    },
-    {
-      "id": "22674d473413",
-      "source": "The Intercept",
-      "headline": "Francesca Hong’s “Thanksgiving-Gate” Shows Her Detractors Are Totally Out of Ideas",
-      "excerpt": "Today’s Democratic gubernatorial primary in Wisconsin has featured increasingly desperate attacks against the frontrunner. The post Francesca Hong’s “Thanksgiving-Gate” Shows Her Detractors Are Totally Out of Ideas...",
-      "link": "https://theintercept.com/2026/08/11/francesca-hong-thanksgiving-wisconsin-governor/",
-      "published": "2026-08-11T12:03:27+00:00",
       "featured": false
     },
     {
@@ -110,12 +110,21 @@
       "featured": false
     },
     {
-      "id": "ead10882e4cd",
+      "id": "daac550b3920",
       "source": "Al Jazeera",
-      "headline": "Venezuela and Israel restore consular ties as relations warm",
-      "excerpt": "Despite cutting diplomatic ties with Israel in 2009, Caracas has shifted alignment in wake of Maduro abduction.",
-      "link": "https://www.aljazeera.com/news/2026/8/11/venezuela-and-israel-restore-consular-ties-as-relations-warm?traffic_source=rss",
-      "published": "2026-08-11T18:58:33+00:00",
+      "headline": "Relatives mourn victims of Pakistan avalanche",
+      "excerpt": "Relatives gathered to mourn the three Nepali mountaineers, Kili Pemba Sherpa, Gyalu Sherpa, and Nima Sherpa.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/relatives-mourn-victims-of-pakistan-avalanche?traffic_source=rss",
+      "published": "2026-08-11T20:56:30+00:00",
+      "featured": false
+    },
+    {
+      "id": "1f4b327fe7cb",
+      "source": "The Intercept",
+      "headline": "“Total Whitewash”: New Pentagon Report Claims U.S. Killed No Civilians in Boat Strikes",
+      "excerpt": "Government officials told The Intercept the War Department’s latest civilian casualty report was “sickening” and a “joke.” The post “Total Whitewash”: New Pentagon Report Claims U.S. Killed No Civilians in Boat Strikes...",
+      "link": "https://theintercept.com/2026/08/11/war-department-civilian-casualties-boat-strikes-yemen/",
+      "published": "2026-08-11T19:51:08+00:00",
       "featured": false
     },
     {
@@ -164,15 +173,6 @@
       "featured": false
     },
     {
-      "id": "93ca6f042dd5",
-      "source": "The Intercept",
-      "headline": "The Pentagon’s Obsession With China Puts Hawai‘i at Risk",
-      "excerpt": "To prepare for a possible war with China, the U.S. military has put Hawai’i on the front lines of a potential nuclear conflict. The post The Pentagon’s Obsession With China Puts Hawai‘i at Risk appeared first on The...",
-      "link": "https://theintercept.com/2026/08/10/china-war-hawaii-military-cost-nuclear/",
-      "published": "2026-08-10T10:00:00+00:00",
-      "featured": false
-    },
-    {
       "id": "47b35d69037e",
       "source": "ProPublica",
       "headline": "More Than Half the Homes in East Omaha Have Unsafe Lead Levels. That Doesn’t Mean the EPA Will Clean Them Up.",
@@ -209,20 +209,29 @@
       "featured": false
     },
     {
-      "id": "a49441db0336",
+      "id": "09dc6c024d5d",
       "source": "Al Jazeera",
-      "headline": "Tightened blockade on Gaza causes prices to soar",
-      "excerpt": "As Israel tightens its blockade on Gaza, both lighters and fans have become the backbone of energy in the strip.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/tightened-blockade-on-gaza-causes-prices-to-soar?traffic_source=rss",
-      "published": "2026-08-11T18:45:26+00:00",
+      "headline": "Pakistan interior minister in Tehran amid talks to reopen Hormuz",
+      "excerpt": "Pakistan’s interior minister Mohsin Naqvi has held talks with Iranian Foreign Minister Abbas Araghchi in Tehran.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/pakistan-interior-minister-in-tehran-amid-talks-to-reopen-hormuz?traffic_source=rss",
+      "published": "2026-08-11T20:35:50+00:00",
       "featured": false
     },
     {
-      "id": "769fead26de5",
+      "id": "22674d473413",
+      "source": "The Intercept",
+      "headline": "Francesca Hong’s “Thanksgiving-Gate” Shows Her Detractors Are Totally Out of Ideas",
+      "excerpt": "Today’s Democratic gubernatorial primary in Wisconsin has featured increasingly desperate attacks against the frontrunner. The post Francesca Hong’s “Thanksgiving-Gate” Shows Her Detractors Are Totally Out of Ideas...",
+      "link": "https://theintercept.com/2026/08/11/francesca-hong-thanksgiving-wisconsin-governor/",
+      "published": "2026-08-11T12:03:27+00:00",
+      "featured": false
+    },
+    {
+      "id": "c4940c77fed1",
       "source": "The Lever",
       "headline": "THE KINGMAKERS, Ep. 7: The King's Man",
       "excerpt": "Russell Vought rewires the government for a no-limits president.",
-      "link": "https://www.levernews.com/rdoyle-levernews-com/",
+      "link": "https://www.levernews.com/the-kingmakers-ep-7-the-kings-man/",
       "published": "2026-08-11T08:15:07+00:00",
       "featured": false
     },
@@ -251,15 +260,6 @@
       "excerpt": "Drop Site Daily: August 10, 2026",
       "link": "https://www.dropsitenews.com/p/trump-iran-hormuz-netanyahu-gaza-board-peace-ukraine-russia-refinery",
       "published": "2026-08-10T15:31:41+00:00",
-      "featured": false
-    },
-    {
-      "id": "d600ec0a9073",
-      "source": "The Intercept",
-      "headline": "Sophie Cunningham Is the Anti-Trans Right's New White Woman Mascot",
-      "excerpt": "The WNBA star has become the latest symbol in the right’s campaign to define which women deserve protecting—and which do not. The post Sophie Cunningham Is the Anti-Trans Right’s New White Woman Mascot appeared first on...",
-      "link": "https://theintercept.com/2026/08/09/sophie-cunningham-wnba-trans-athletes/",
-      "published": "2026-08-09T21:10:56+00:00",
       "featured": false
     },
     {
@@ -308,12 +308,12 @@
       "featured": false
     },
     {
-      "id": "7490fbb5ba3b",
+      "id": "7045c0fdbde6",
       "source": "Al Jazeera",
-      "headline": "Paramount CEO may remove operations from California over stalled merger",
-      "excerpt": "Paramount's CEO David Ellison warns of a California exit if the US state does not agree to talks, according to reports.",
-      "link": "https://www.aljazeera.com/economy/2026/8/11/paramount-ceo-may-remove-operations-from-california-over-stalled-merger?traffic_source=rss",
-      "published": "2026-08-11T18:34:31+00:00",
+      "headline": "In Gaza’s tents, widows face war’s harshest realities alone",
+      "excerpt": "Widows in Gaza struggle alone under displacement, burdened by loss, insecurity, and daily battles for survival.",
+      "link": "https://www.aljazeera.com/news/2026/8/11/in-gazas-tents-widows-face-wars-harshest-realities-alone?traffic_source=rss",
+      "published": "2026-08-11T20:30:11+00:00",
       "featured": false
     },
     {
@@ -353,12 +353,12 @@
       "featured": false
     },
     {
-      "id": "a4c08d1ca558",
+      "id": "93ca6f042dd5",
       "source": "The Intercept",
-      "headline": "Rubio Is Trying to Keep Leftists Out of U.S. by Banning Supporters of “Economic Sabotage”",
-      "excerpt": "A new State Department policy about “far-left terrorism” could spark a crackdown on Boycott, Divestment, and Sanctions activists. The post Rubio Is Trying to Keep Leftists Out of U.S. by Banning Supporters of “Economic...",
-      "link": "https://theintercept.com/2026/08/08/state-department-rubio-leftists-visas-terrorism/",
-      "published": "2026-08-08T10:06:00+00:00",
+      "headline": "The Pentagon’s Obsession With China Puts Hawai‘i at Risk",
+      "excerpt": "To prepare for a possible war with China, the U.S. military has put Hawai’i on the front lines of a potential nuclear conflict. The post The Pentagon’s Obsession With China Puts Hawai‘i at Risk appeared first on The...",
+      "link": "https://theintercept.com/2026/08/10/china-war-hawaii-military-cost-nuclear/",
+      "published": "2026-08-10T10:00:00+00:00",
       "featured": false
     },
     {
@@ -407,12 +407,12 @@
       "featured": false
     },
     {
-      "id": "191dc797d807",
+      "id": "eec45af8ceca",
       "source": "Al Jazeera",
-      "headline": "‘Justice at last’: Syrians react to Assad death sentence",
-      "excerpt": "Syrians gathered to celebrate after a court sentenced ousted President Bashar al-Assad to death in absentia.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/justice-at-last-syrians-react-to-assad-death-sentence?traffic_source=rss",
-      "published": "2026-08-11T18:32:42+00:00",
+      "headline": "Fishermen face deadly dangers as Yemen’s Red Sea becomes a warzone",
+      "excerpt": "Many Yemeni fishermen have abandoned the trade, seeking safer livelihoods as Red Sea becomes too dangerous.",
+      "link": "https://www.aljazeera.com/features/2026/8/11/yemen-red-sea-fishermen?traffic_source=rss",
+      "published": "2026-08-11T20:29:34+00:00",
       "featured": false
     },
     {
@@ -434,6 +434,15 @@
       "featured": false
     },
     {
+      "id": "d600ec0a9073",
+      "source": "The Intercept",
+      "headline": "Sophie Cunningham Is the Anti-Trans Right's New White Woman Mascot",
+      "excerpt": "The WNBA star has become the latest symbol in the right’s campaign to define which women deserve protecting—and which do not. The post Sophie Cunningham Is the Anti-Trans Right’s New White Woman Mascot appeared first on...",
+      "link": "https://theintercept.com/2026/08/09/sophie-cunningham-wnba-trans-athletes/",
+      "published": "2026-08-09T21:10:56+00:00",
+      "featured": false
+    },
+    {
       "id": "397ba458dacf",
       "source": "Dropsite News",
       "headline": "Israel's Brutal Retaliation Against Imprisoned Palestinian Doctors Seeking Legal Appeals",
@@ -449,15 +458,6 @@
       "excerpt": "A U.S. federal indictment against Prince Group Chairman Chen Zhi anonymized his alleged co-conspirators, but personal details in the document identify one of them as Chen Sokly. U.S. authorities allege Chen Sokly was a...",
       "link": "https://www.occrp.org/en/scoop/alleged-enforcer-in-prince-group-scam-network-identified",
       "published": "2026-08-07T22:01:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "07beef20a714",
-      "source": "The Intercept",
-      "headline": "State Department Wants Palantir’s Advice on Free Speech and “Countering Digital Surveillance”",
-      "excerpt": "Founded by Trump ally and right-wing billionaire Peter Thiel, Palantir has attacked the press and works in the digital surveillance space. The post State Department Wants Palantir’s Advice on Free Speech and “Countering...",
-      "link": "https://theintercept.com/2026/08/07/state-department-palantir-free-speech-surveillance/",
-      "published": "2026-08-07T16:02:04+00:00",
       "featured": false
     },
     {
@@ -497,12 +497,12 @@
       "featured": false
     },
     {
-      "id": "7dc92e41acca",
+      "id": "a56cb7be6632",
       "source": "Al Jazeera",
-      "headline": "South Africa mine collapse kills 14 suspected illegal miners",
-      "excerpt": "At least 14 suspected illegal miners were killed and eight injured when a mine dump collapsed in South Africa.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/south-africa-mine-collapse-kills-14-suspected-illegal-miners?traffic_source=rss",
-      "published": "2026-08-11T18:31:54+00:00",
+      "headline": "Israel demolishes home of Palestinian killed during settler attack",
+      "excerpt": "Video shows the moment Israeli forces blow up the home of Farouk Ramadan, a Palestinian man who was killed in July.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/israel-demolishes-home-of-palestinian-killed-during-settler-attack?traffic_source=rss",
+      "published": "2026-08-11T20:18:51+00:00",
       "featured": false
     },
     {
@@ -524,21 +524,21 @@
       "featured": false
     },
     {
+      "id": "a4c08d1ca558",
+      "source": "The Intercept",
+      "headline": "Rubio Is Trying to Keep Leftists Out of U.S. by Banning Supporters of “Economic Sabotage”",
+      "excerpt": "A new State Department policy about “far-left terrorism” could spark a crackdown on Boycott, Divestment, and Sanctions activists. The post Rubio Is Trying to Keep Leftists Out of U.S. by Banning Supporters of “Economic...",
+      "link": "https://theintercept.com/2026/08/08/state-department-rubio-leftists-visas-terrorism/",
+      "published": "2026-08-08T10:06:00+00:00",
+      "featured": false
+    },
+    {
       "id": "e6456d51c61c",
       "source": "Dropsite News",
       "headline": "AIPAC-Linked Super PACs, Pro-Israel Donors Flood Primary to Succeed Angie Craig With More Than $3 Million",
       "excerpt": "Progressive Matt Little is getting hit by a flurry of PACs intervening in a three-way Democratic primary.",
       "link": "https://www.dropsitenews.com/p/minnesota-primary-aipac-dmfi-super-pacs-matt-little",
       "published": "2026-08-07T18:05:50+00:00",
-      "featured": false
-    },
-    {
-      "id": "84840b31b271",
-      "source": "OCCRP",
-      "headline": "Spanish-Led Operation Busts Violent Mediterranean Smuggling Ring",
-      "excerpt": "",
-      "link": "https://www.occrp.org/en/news/spanish-led-operation-busts-violent-mediterranean-smuggling-ring",
-      "published": "2026-08-07T13:49:00+00:00",
       "featured": false
     }
   ]
