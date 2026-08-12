@@ -1,13 +1,31 @@
 {
-  "generated_at": "2026-08-12T07:53:18.626495+00:00",
+  "generated_at": "2026-08-12T10:19:57.785936+00:00",
   "articles": [
     {
-      "id": "327aa131ed1e",
+      "id": "4bef45dceec0",
+      "source": "ProPublica",
+      "headline": "Fiasco in the Factory: Taxpayers Funded a $533 Million Artillery Plant That Made Nothing",
+      "excerpt": "The post Fiasco in the Factory: Taxpayers Funded a $533 Million Artillery Plant That Made Nothing appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/general-dynamics-artillery-factory-failed",
+      "published": "2026-08-12T10:00:00+00:00",
+      "featured": true
+    },
+    {
+      "id": "e8b5ad073155",
+      "source": "Rest of World",
+      "headline": "Why we should all be worried about AI in elections",
+      "excerpt": "Deepfakes dominate headlines, but the real danger lies in opaque AI systems that make up election infrastructure.",
+      "link": "https://restofworld.org/2026/ai-elections-deepfake-voter-chatbot/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "published": "2026-08-12T10:00:00+00:00",
+      "featured": true
+    },
+    {
+      "id": "6ca6ab623403",
       "source": "Al Jazeera",
-      "headline": "Trump says his decoy plane faced ‘greater risk’ in secret flight change",
-      "excerpt": "Air Force One was still carrying journalists and top aides, who remained at apparent risk of an Iranian strike.",
-      "link": "https://www.aljazeera.com/news/2026/8/12/trump-says-his-decoy-plane-faced-greater-risk-in-secret-flight-change?traffic_source=rss",
-      "published": "2026-08-12T07:31:15+00:00",
+      "headline": "More than 100 passengers rescued after Indonesia ferry fire",
+      "excerpt": "More than 100 passengers rescued after Indonesia ferry fire",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/more-than-100-passengers-rescued-after-indonesia-ferry-fire?traffic_source=rss",
+      "published": "2026-08-12T09:26:45+00:00",
       "featured": true
     },
     {
@@ -17,7 +35,7 @@
       "excerpt": "Protesting George Floyd’s murder wasn’t the \"crazy\" part. Centrist Dems selling out was. The post No, AOC: “Woke” Wasn’t “Crazy” the Way You Say It Was appeared first on The Intercept.",
       "link": "https://theintercept.com/2026/08/11/alexandria-ocasio-cortex-woke-one-crazy/",
       "published": "2026-08-11T21:24:42+00:00",
-      "featured": true
+      "featured": false
     },
     {
       "id": "8495521114f2",
@@ -26,7 +44,7 @@
       "excerpt": "Financial expert Brett Erickson joins Drop Site's Murtaza Hussain and Ryan Grim followed by Sharif Abdel Kouddous and Palestinian journalist Abubaker Abed.",
       "link": "https://www.dropsitenews.com/p/hormuz-at-breaking-point-and-remembering",
       "published": "2026-08-11T18:10:40+00:00",
-      "featured": true
+      "featured": false
     },
     {
       "id": "ff759d7c824a",
@@ -65,24 +83,6 @@
       "featured": false
     },
     {
-      "id": "616472f4369d",
-      "source": "Rest of World",
-      "headline": "How one VC burns through hundreds of millions of tokens a day to find the next unicorn",
-      "excerpt": "The investor behind a $75-million AI-focused fund explains why reading research papers and testing frontier models has become part of his job.",
-      "link": "https://restofworld.org/2026/activate-interview-vc-sovereign-ai/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-      "published": "2026-08-11T10:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "eef7c3230f45",
-      "source": "ProPublica",
-      "headline": "Is There Anyone Who Can Respond to My FOIA Requests? Anyone?",
-      "excerpt": "The post Is There Anyone Who Can Respond to My FOIA Requests? Anyone? appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/foia-requests-responses",
-      "published": "2026-08-11T09:00:00+00:00",
-      "featured": false
-    },
-    {
       "id": "5b3f4d69ea45",
       "source": "ICIJ",
       "headline": "Alleged cartel boss Daniel Kinahan charged in Ireland following high security extradition",
@@ -110,12 +110,21 @@
       "featured": false
     },
     {
-      "id": "dcf422ef4fe0",
+      "id": "542db50eab72",
       "source": "Al Jazeera",
-      "headline": "Israeli government accused of complicity as settlers demolish Jericho homes",
-      "excerpt": "Israeli settlers demolish homes in village, leaving rubble and fear among displaced Palestinian families in Jericho.",
-      "link": "https://www.aljazeera.com/news/2026/8/12/israeli-government-accused-of-complicity-as-settlers-demolish-jericho-homes?traffic_source=rss",
-      "published": "2026-08-12T07:28:48+00:00",
+      "headline": "Pogba suffers new injury setback with Monaco future now in doubt",
+      "excerpt": "Former France and Manchester United star Paul Pogba suffers latest injury setback, sparking rumours about Monaco future.",
+      "link": "https://www.aljazeera.com/sports/2026/8/12/pogba-suffers-new-injury-setback-with-monaco-future-now-in-doubt?traffic_source=rss",
+      "published": "2026-08-12T09:24:59+00:00",
+      "featured": false
+    },
+    {
+      "id": "250d7ba37f46",
+      "source": "ProPublica",
+      "headline": "“They’re Putting Kids’ Lives at Risk”: How Abuse in a Tennessee Businessman’s Juvenile Prisons Remained Under Wraps",
+      "excerpt": "The post “They’re Putting Kids’ Lives at Risk”: How Abuse in a Tennessee Businessman’s Juvenile Prisons Remained Under Wraps appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/wayne-halfway-house-jason-crews-tennessee",
+      "published": "2026-08-12T09:00:00+00:00",
       "featured": false
     },
     {
@@ -164,21 +173,12 @@
       "featured": false
     },
     {
-      "id": "90ae1cc1854f",
+      "id": "616472f4369d",
       "source": "Rest of World",
-      "headline": "Beijing is forcing a mass breakup with AI lovers",
-      "excerpt": "Beijing is pioneering regulations that could shape how governments around the world govern emotionally intelligent chatbots.",
-      "link": "https://restofworld.org/2026/china-ai-boyfriend-ban-bytedance-doubao/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-      "published": "2026-08-10T10:00:17+00:00",
-      "featured": false
-    },
-    {
-      "id": "47b35d69037e",
-      "source": "ProPublica",
-      "headline": "More Than Half the Homes in East Omaha Have Unsafe Lead Levels. That Doesn’t Mean the EPA Will Clean Them Up.",
-      "excerpt": "The post More Than Half the Homes in East Omaha Have Unsafe Lead Levels. That Doesn’t Mean the EPA Will Clean Them Up. appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/lead-remediation-epa-standards-omaha-nebraska",
-      "published": "2026-08-10T09:00:00+00:00",
+      "headline": "How one VC burns through hundreds of millions of tokens a day to find the next unicorn",
+      "excerpt": "The investor behind a $75-million AI-focused fund explains why reading research papers and testing frontier models has become part of his job.",
+      "link": "https://restofworld.org/2026/activate-interview-vc-sovereign-ai/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "published": "2026-08-11T10:00:00+00:00",
       "featured": false
     },
     {
@@ -209,12 +209,12 @@
       "featured": false
     },
     {
-      "id": "60962abdd727",
+      "id": "6350339f4fc9",
       "source": "Al Jazeera",
-      "headline": "Autism and war: Gaza families grapple with destruction and loss",
-      "excerpt": "Continuous bombing disrupts routines, causing sensory shocks and behavioural relapses in Gaza's autistic children.",
-      "link": "https://www.aljazeera.com/features/2026/8/12/autism-and-war-gaza-families-grapple-with-destruction-and-loss?traffic_source=rss",
-      "published": "2026-08-12T07:27:42+00:00",
+      "headline": "Zambia’s president rallies for second term ahead of election",
+      "excerpt": "Zambia's president rallies for second term ahead of election",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/zambias-president-rallies-for-second-term-ahead-of-election?traffic_source=rss",
+      "published": "2026-08-12T09:16:22+00:00",
       "featured": false
     },
     {
@@ -224,6 +224,15 @@
       "excerpt": "Today’s Democratic gubernatorial primary in Wisconsin has featured increasingly desperate attacks against the frontrunner. The post Francesca Hong’s “Thanksgiving-Gate” Shows Her Detractors Are Totally Out of Ideas...",
       "link": "https://theintercept.com/2026/08/11/francesca-hong-thanksgiving-wisconsin-governor/",
       "published": "2026-08-11T12:03:27+00:00",
+      "featured": false
+    },
+    {
+      "id": "eef7c3230f45",
+      "source": "ProPublica",
+      "headline": "Is There Anyone Who Can Respond to My FOIA Requests? Anyone?",
+      "excerpt": "The post Is There Anyone Who Can Respond to My FOIA Requests? Anyone? appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/foia-requests-responses",
+      "published": "2026-08-11T09:00:00+00:00",
       "featured": false
     },
     {
@@ -263,21 +272,12 @@
       "featured": false
     },
     {
-      "id": "2a6f43b19eb7",
+      "id": "90ae1cc1854f",
       "source": "Rest of World",
-      "headline": "Arizona wants Taiwan’s investors to think beyond chips",
-      "excerpt": "The Taiwan Semiconductor Manufacturing Company (TSMC) fabrication plant in Phoenix, Arizona.",
-      "link": "https://restofworld.org/2026/tsmc-arizona-investors/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-      "published": "2026-08-07T13:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "bb8b20918c9a",
-      "source": "ProPublica",
-      "headline": "House Democrats Demand Answers From Trump’s VA on Vets Struggling to Access Mental Healthcare",
-      "excerpt": "The post House Democrats Demand Answers From Trump’s VA on Vets Struggling to Access Mental Healthcare appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/democrats-veterans-affairs-doug-collins-letter-mental-health",
-      "published": "2026-08-07T10:00:00+00:00",
+      "headline": "Beijing is forcing a mass breakup with AI lovers",
+      "excerpt": "Beijing is pioneering regulations that could shape how governments around the world govern emotionally intelligent chatbots.",
+      "link": "https://restofworld.org/2026/china-ai-boyfriend-ban-bytedance-doubao/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "published": "2026-08-10T10:00:17+00:00",
       "featured": false
     },
     {
@@ -308,12 +308,12 @@
       "featured": false
     },
     {
-      "id": "b9e5f881d0a7",
+      "id": "3000fc6f5132",
       "source": "Al Jazeera",
-      "headline": "Cristiano Ronaldo announces marriage to Georgina Rodriguez in Portugal",
-      "excerpt": "Football's most famous current player wed his long-term partner Georgina Rodriguez after a decade together.",
-      "link": "https://www.aljazeera.com/sports/2026/8/12/cristiano-ronaldo-announces-marriage-to-georgina-rodriguez-in-portugal?traffic_source=rss",
-      "published": "2026-08-12T07:11:19+00:00",
+      "headline": "A hydrogen-powered vehicle sets new land speed record",
+      "excerpt": "A hydrogen-powered vehicle sets new land speed record",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/a-hydrogen-powered-vehicle-sets-new-land-speed-record?traffic_source=rss",
+      "published": "2026-08-12T09:10:40+00:00",
       "featured": false
     },
     {
@@ -362,21 +362,21 @@
       "featured": false
     },
     {
-      "id": "4d0ca7074e07",
+      "id": "47b35d69037e",
       "source": "ProPublica",
-      "headline": "What Is the Trump Administration Doing With Foreign Aid Money?",
-      "excerpt": "The post What Is the Trump Administration Doing With Foreign Aid Money? appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/trump-administration-afrikaner-south-africa-money",
-      "published": "2026-08-07T09:00:00+00:00",
+      "headline": "More Than Half the Homes in East Omaha Have Unsafe Lead Levels. That Doesn’t Mean the EPA Will Clean Them Up.",
+      "excerpt": "The post More Than Half the Homes in East Omaha Have Unsafe Lead Levels. That Doesn’t Mean the EPA Will Clean Them Up. appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/lead-remediation-epa-standards-omaha-nebraska",
+      "published": "2026-08-10T09:00:00+00:00",
       "featured": false
     },
     {
-      "id": "5a69011d983a",
+      "id": "2a6f43b19eb7",
       "source": "Rest of World",
-      "headline": "The offline messaging apps challenging internet shutdowns",
-      "excerpt": "Demonstrators take part in a protest rally organised by the Cockroach Janta Party and various Left student organisations against the NEET paper leak, demanding the resignation of Education Minister Dharmendra Pradhan in...",
-      "link": "https://restofworld.org/2026/india-github-geoblock-jack-dorsey-bitchat/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-      "published": "2026-08-06T10:00:00+00:00",
+      "headline": "Arizona wants Taiwan’s investors to think beyond chips",
+      "excerpt": "The Taiwan Semiconductor Manufacturing Company (TSMC) fabrication plant in Phoenix, Arizona.",
+      "link": "https://restofworld.org/2026/tsmc-arizona-investors/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "published": "2026-08-07T13:00:00+00:00",
       "featured": false
     },
     {
@@ -407,12 +407,12 @@
       "featured": false
     },
     {
-      "id": "fa91e0540562",
+      "id": "32eb28b7baca",
       "source": "Al Jazeera",
-      "headline": "At least 15 dead, dozens missing as ferry capsizes in Zimbabwe",
-      "excerpt": "Zimbabwe’s Civil Protection Unit says the ferry was carrying more than its capacity of 90 people when it capsized.",
-      "link": "https://www.aljazeera.com/news/2026/8/12/at-least-15-dead-dozens-missing-as-ferry-capsizes-in-zimbabwe?traffic_source=rss",
-      "published": "2026-08-12T06:29:37+00:00",
+      "headline": "Rybakina defeats Osaka, advances to Canadian Open semifinals to play Gauff",
+      "excerpt": "Elena Rybakina stages a huge comeback to beat Naomi Osaka and will now play Coco Gauff for a place in the final.",
+      "link": "https://www.aljazeera.com/sports/2026/8/12/rybakina-defeats-osaka-advances-to-canadian-open-semifinals-to-play-gauff?traffic_source=rss",
+      "published": "2026-08-12T08:45:46+00:00",
       "featured": false
     },
     {
@@ -461,21 +461,21 @@
       "featured": false
     },
     {
-      "id": "a013c53d631b",
+      "id": "bb8b20918c9a",
       "source": "ProPublica",
-      "headline": "He’s Eligible for Up to $480,000 After Being Wrongly Imprisoned for 42 Years. The State Says No.",
-      "excerpt": "The post He’s Eligible for Up to $480,000 After Being Wrongly Imprisoned for 42 Years. The State Says No. appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/louisiana-wrongful-conviction-compensation-liz-murrill-elvis-brooks",
-      "published": "2026-08-06T09:00:00+00:00",
+      "headline": "House Democrats Demand Answers From Trump’s VA on Vets Struggling to Access Mental Healthcare",
+      "excerpt": "The post House Democrats Demand Answers From Trump’s VA on Vets Struggling to Access Mental Healthcare appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/democrats-veterans-affairs-doug-collins-letter-mental-health",
+      "published": "2026-08-07T10:00:00+00:00",
       "featured": false
     },
     {
-      "id": "0a54c3383910",
+      "id": "5a69011d983a",
       "source": "Rest of World",
-      "headline": "Growth without work: The human cost of the AI revolution",
-      "excerpt": "An archival photo of a computer lab in the Herbert V. Manning Library on the campus of Claflin University",
-      "link": "https://restofworld.org/2026/ai-jobs-economy-impact/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-      "published": "2026-08-05T10:00:00+00:00",
+      "headline": "The offline messaging apps challenging internet shutdowns",
+      "excerpt": "Demonstrators take part in a protest rally organised by the Cockroach Janta Party and various Left student organisations against the NEET paper leak, demanding the resignation of Education Minister Dharmendra Pradhan in...",
+      "link": "https://restofworld.org/2026/india-github-geoblock-jack-dorsey-bitchat/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "published": "2026-08-06T10:00:00+00:00",
       "featured": false
     },
     {
@@ -497,12 +497,12 @@
       "featured": false
     },
     {
-      "id": "0aed0ec2d082",
+      "id": "5e7fa519bbf7",
       "source": "Al Jazeera",
-      "headline": "Why have several nations raised red flags over Indian farm exports?",
-      "excerpt": "As Tokyo turns back mangoes, Beijing blocks rice, and European inspectors flag spices, Indian growers ask what's wrong.",
-      "link": "https://www.aljazeera.com/news/2026/8/12/why-have-several-nations-raised-red-flags-over-indian-farm-exports?traffic_source=rss",
-      "published": "2026-08-12T05:34:14+00:00",
+      "headline": "Wisconsin race tight: Key takeaways from US primary election results",
+      "excerpt": "Trump-backed candidates both win and lose: Results from Wisconsin, Minnesota, South Carolina and Alabama.",
+      "link": "https://www.aljazeera.com/news/2026/8/12/wisconsin-race-tight-key-takeaways-from-us-primary-election-results?traffic_source=rss",
+      "published": "2026-08-12T08:45:00+00:00",
       "featured": false
     },
     {
