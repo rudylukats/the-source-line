@@ -1,14 +1,50 @@
 {
-  "generated_at": "2026-08-12T16:09:36.526604+00:00",
+  "generated_at": "2026-08-12T19:26:49.403956+00:00",
   "articles": [
     {
-      "id": "a7f770d3cc3a",
+      "id": "f52fba1380c5",
       "source": "Al Jazeera",
-      "headline": "Europe prepares for first total solar eclipse in 27 years",
-      "excerpt": "Europe is gearing up for its first total solar eclipse in 27 years.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/europe-prepares-for-first-total-solar-eclipse-in-27-years?traffic_source=rss",
-      "published": "2026-08-12T15:40:24+00:00",
+      "headline": "Brazil orders Discord to suspend livestreams after teen’s death",
+      "excerpt": "Regulator says Discord failed to protect minors from violence, self-harm, and suicide content.",
+      "link": "https://www.aljazeera.com/news/2026/8/12/brazil-orders-discord-to-suspend-livestreams-after-teens-death?traffic_source=rss",
+      "published": "2026-08-12T19:21:11+00:00",
       "featured": true
+    },
+    {
+      "id": "debc0c50a2e8",
+      "source": "The Lever",
+      "headline": "Meet The Billionaire Behind Connecticut’s “Insurgent” Victory",
+      "excerpt": "Luke Bronin toppled an incumbent in the name of generational change. Behind his rise is a hedge fund billionaire building a new Democratic political machine.",
+      "link": "https://www.levernews.com/meet-the-billionaire-behind-connecticuts-insurgent-victory/",
+      "published": "2026-08-12T19:16:19+00:00",
+      "featured": true
+    },
+    {
+      "id": "c50200be0ced",
+      "source": "404 Media",
+      "headline": "Twitch is Mining Peoples' Streams to Train Amazon's AI",
+      "excerpt": "Here's how to opt out of Twitch's new generative AI training setting.",
+      "link": "https://www.404media.co/twitch-training-amazon-ai-models-how-to-opt-out-setting/",
+      "published": "2026-08-12T17:58:48+00:00",
+      "featured": true
+    },
+    {
+      "id": "b17c32300c8b",
+      "source": "Dropsite News",
+      "headline": "In West Bank Village, a New Israeli Order Enables Settler Attacks While Claiming to Prevent Them",
+      "excerpt": "The Israeli military declared the Palestinian village of Taybeh a closed military zone to \"maintain order\" but residents say settlers are still allowed to raid the area.",
+      "link": "https://www.dropsitenews.com/p/taybeh-west-bank-closed-military-zone-settlers",
+      "published": "2026-08-12T17:24:18+00:00",
+      "featured": false
+    },
+    {
+      "id": "dbe5ec037f58",
+      "source": "OCCRP",
+      "headline": "Dutch Court Hears Case against Whistleblower’s Murder Suspect",
+      "excerpt": "A Dutch court heard how police intercepted a key suspect in a vehicle loaded with hidden firearms and stolen plates—only to release him days before Turkish whistleblower Cemil Önal was gunned down in the Netherlands.",
+      "link": "https://www.occrp.org/en/news/dutch-court-hears-case-against-whistleblowers-murder-suspect",
+      "published": "2026-08-12T16:43:00+00:00",
+      "featured": false
     },
     {
       "id": "783379b2d9f1",
@@ -17,33 +53,6 @@
       "excerpt": "A lawsuit filed with the Freedom of the Press Foundation argues the president is restricting First Amendment-protected information in a scheme to enrich himself. The post The Intercept Sues Trump for Selling Premium...",
       "link": "https://theintercept.com/2026/08/12/trump-media-truthsocial-premium-first-amendment/",
       "published": "2026-08-12T14:48:01+00:00",
-      "featured": true
-    },
-    {
-      "id": "6b79c1e5586a",
-      "source": "Dropsite News",
-      "headline": "Tonight at 7PM ET: Inside Israel's Lobby",
-      "excerpt": "Join us tonight at 7PM ET, paid subscribers get the link",
-      "link": "https://www.dropsitenews.com/p/tonight-at-7pm-et-inside-israels",
-      "published": "2026-08-12T14:18:18+00:00",
-      "featured": true
-    },
-    {
-      "id": "3e43012545ad",
-      "source": "404 Media",
-      "headline": "Researchers Show How Meta's 'Pervert Glasses' Are Used to Harass Women",
-      "excerpt": "A new study shows how pickup artist influencers use smart glasses to create content, and the connection between covert recording and harm.",
-      "link": "https://www.404media.co/meta-ray-ban-smart-glasses-pov-instagram-pickup-artists/",
-      "published": "2026-08-12T14:05:24+00:00",
-      "featured": false
-    },
-    {
-      "id": "568f454765dc",
-      "source": "OCCRP",
-      "headline": "Treasury Rolls Back Ownership Reporting Obligations for U.S. Companies",
-      "excerpt": "",
-      "link": "https://www.occrp.org/en/news/treasury-rolls-back-ownership-reporting-obligations-for-us-companies",
-      "published": "2026-08-12T13:55:00+00:00",
       "featured": false
     },
     {
@@ -62,15 +71,6 @@
       "excerpt": "Deepfakes dominate headlines, but the real danger lies in opaque AI systems that make up election infrastructure.",
       "link": "https://restofworld.org/2026/ai-elections-deepfake-voter-chatbot/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "published": "2026-08-12T10:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "d59ae39ac1a9",
-      "source": "The Lever",
-      "headline": "ICE’s $2.2 Billion Prison Buy-Up",
-      "excerpt": "Amid a spike in detention center deaths, taxpayers gave billions of dollars to private prisons so that Immigration and Customs Enforcement may escape oversight.",
-      "link": "https://www.levernews.com/ices-2-2-billion-prison-spending-spree/",
-      "published": "2026-08-11T16:44:49+00:00",
       "featured": false
     },
     {
@@ -110,30 +110,48 @@
       "featured": false
     },
     {
-      "id": "36d2e888b713",
+      "id": "0f16901a8de4",
       "source": "Al Jazeera",
-      "headline": "Colombia declares three days of mourning after deadly earthquake",
-      "excerpt": "Hundreds are dead as rescuers race to find survivors of the magnitude 7.4 quake.",
-      "link": "https://www.aljazeera.com/news/2026/8/12/colombia-declares-three-days-of-mourning-after-deadly-earthquake?traffic_source=rss",
-      "published": "2026-08-12T15:39:37+00:00",
+      "headline": "Iraq says September 30 withdrawal deadline for US-led coalition ‘final’",
+      "excerpt": "A US official confirmed that the United States expects to complete its pullout by September 30.",
+      "link": "https://www.aljazeera.com/news/2026/8/12/iraq-says-sept-30-deadline-to-end-us-led-military-coalition-final?traffic_source=rss",
+      "published": "2026-08-12T19:11:03+00:00",
       "featured": false
     },
     {
-      "id": "553550f02146",
+      "id": "1cd2923de229",
+      "source": "The Lever",
+      "headline": "Midterm Madness: Bernie Saw This Coming",
+      "excerpt": "Francesca Hong lost her Democratic primary for Wisconsin governor after progressive leaders declined to back her campaign.",
+      "link": "https://www.levernews.com/midterm-madness-democratic-socialism-loses-in-wisconsin/",
+      "published": "2026-08-12T16:31:20+00:00",
+      "featured": false
+    },
+    {
+      "id": "62f3f58332d1",
+      "source": "Dropsite News",
+      "headline": "Israel detains Palestinian journalist Mohamed Awad; Russia threatens retaliatory European ship seizures; Hong loses in tight primary for Wisconsin governor",
+      "excerpt": "Drop Site Daily: August 12, 2026",
+      "link": "https://www.dropsitenews.com/p/israel-palestinian-journalist-awad-russia-europe-ship-seizures-wisconsin-primary-hong-crowley",
+      "published": "2026-08-12T16:19:53+00:00",
+      "featured": false
+    },
+    {
+      "id": "85c2f0554415",
       "source": "404 Media",
-      "headline": "AI Generated 3D Models Flood Market, But Almost No One Is Buying Them",
-      "excerpt": "The number of AI generated uploads to CGTrader would suggest AI is taking over the platform, but buyers are refusing to pay for AI generated models.",
-      "link": "https://www.404media.co/ai-generated-3d-models-flood-market-but-almost-no-one-is-buying-them/",
-      "published": "2026-08-12T13:36:41+00:00",
+      "headline": "Podcast: Mark Zuckerberg’s 'Superintelligent' AI Future That No One Wants",
+      "excerpt": "Zuckerberg's anti-social future; a company offering human writing that is actually just AI; and the big switch from Flock to Axon.",
+      "link": "https://www.404media.co/podcast-mark-zuckerbergs-superintelligent-ai-future-that-no-one-wants/",
+      "published": "2026-08-12T14:15:44+00:00",
       "featured": false
     },
     {
-      "id": "39d40ad7d314",
+      "id": "568f454765dc",
       "source": "OCCRP",
-      "headline": "Iraq PM’s Anti-Corruption Campaign Rumbles On",
-      "excerpt": "Iraqi Prime Minister Ali al-Zaidi declares “there are no red lines in pursuing the corrupt” after arrest warrants issued for a key leader in his political coalition.",
-      "link": "https://www.occrp.org/en/news/iraq-pms-anti-corruption-campaign-rumbles-on",
-      "published": "2026-08-12T13:32:00+00:00",
+      "headline": "Treasury Rolls Back Ownership Reporting Obligations for U.S. Companies",
+      "excerpt": "",
+      "link": "https://www.occrp.org/en/news/treasury-rolls-back-ownership-reporting-obligations-for-us-companies",
+      "published": "2026-08-12T13:55:00+00:00",
       "featured": false
     },
     {
@@ -152,24 +170,6 @@
       "excerpt": "Protesting George Floyd’s murder wasn’t the “crazy” part. Centrist Dems selling out was. The post No, AOC: “Woke” Wasn’t “Crazy” the Way You Say It Was appeared first on The Intercept.",
       "link": "https://theintercept.com/2026/08/11/alexandria-ocasio-cortex-woke-one-crazy/",
       "published": "2026-08-11T21:24:42+00:00",
-      "featured": false
-    },
-    {
-      "id": "8495521114f2",
-      "source": "Dropsite News",
-      "headline": "Hormuz at Breaking Point and Remembering Journalists Killed in Gaza",
-      "excerpt": "Financial expert Brett Erickson joins Drop Site's Murtaza Hussain and Ryan Grim followed by Sharif Abdel Kouddous and Palestinian journalist Abubaker Abed.",
-      "link": "https://www.dropsitenews.com/p/hormuz-at-breaking-point-and-remembering",
-      "published": "2026-08-11T18:10:40+00:00",
-      "featured": false
-    },
-    {
-      "id": "415399617ede",
-      "source": "The Lever",
-      "headline": "How A Hedge Fund Billionaire Became The Democrats’ New Kingmaker",
-      "excerpt": "Stephen Mandel is bankrolling a new political apparatus built to “redefine” the Democratic Party — but what does he actually want?",
-      "link": "https://www.levernews.com/how-a-hedge-fund-billionaire-became-the-democrats-new-kingmaker/",
-      "published": "2026-08-11T15:18:30+00:00",
       "featured": false
     },
     {
@@ -209,21 +209,39 @@
       "featured": false
     },
     {
-      "id": "b35cbb065493",
+      "id": "6424e37aac5c",
       "source": "Al Jazeera",
-      "headline": "Is Russia’s economy cracking despite the Iran war windfall?",
-      "excerpt": "A widening deficit and Ukrainian strikes are testing Russia's economy, even as war in the Middle East lifts oil revenue.",
-      "link": "https://www.aljazeera.com/video/counting-the-cost/2026/8/12/is-russias-economy-cracking-despite-the-iran-war-windfall?traffic_source=rss",
-      "published": "2026-08-12T15:36:33+00:00",
+      "headline": "Thousands flee drought in Somalia amid sharp aid decline",
+      "excerpt": "Thousands of hunger-stricken families have lost their livestock and farms due to a yearslong drought in Somalia.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/thousands-flee-drought-in-somalia-amid-sharp-aid-decline?traffic_source=rss",
+      "published": "2026-08-12T19:06:23+00:00",
       "featured": false
     },
     {
-      "id": "1daf2b427c07",
+      "id": "6b79c1e5586a",
+      "source": "Dropsite News",
+      "headline": "Tonight at 7PM ET: Inside Israel's Lobby",
+      "excerpt": "Join us tonight at 7PM ET, paid subscribers get the link",
+      "link": "https://www.dropsitenews.com/p/tonight-at-7pm-et-inside-israels",
+      "published": "2026-08-12T14:18:18+00:00",
+      "featured": false
+    },
+    {
+      "id": "3e43012545ad",
       "source": "404 Media",
-      "headline": "The Government is Monitoring Anti-Flock TikTok and Instagram Accounts",
-      "excerpt": "Documents from law enforcement spy centers show the government is warning cops of \"extensive and ongoing chatter on social media\" about methods to \"physically destroy Flock LPR cameras.\"",
-      "link": "https://www.404media.co/the-government-is-monitoring-anti-flock-tiktok-and-instagram-accounts/",
-      "published": "2026-08-12T13:35:46+00:00",
+      "headline": "Researchers Show How Meta's 'Pervert Glasses' Are Used to Harass Women",
+      "excerpt": "A new study shows how pickup artist influencers use smart glasses to create content, and the connection between covert recording and harm.",
+      "link": "https://www.404media.co/meta-ray-ban-smart-glasses-pov-instagram-pickup-artists/",
+      "published": "2026-08-12T14:05:24+00:00",
+      "featured": false
+    },
+    {
+      "id": "39d40ad7d314",
+      "source": "OCCRP",
+      "headline": "Iraq PM’s Anti-Corruption Campaign Rumbles On",
+      "excerpt": "Iraqi Prime Minister Ali al-Zaidi declares “there are no red lines in pursuing the corrupt” after arrest warrants issued for a key leader in his political coalition.",
+      "link": "https://www.occrp.org/en/news/iraq-pms-anti-corruption-campaign-rumbles-on",
+      "published": "2026-08-12T13:32:00+00:00",
       "featured": false
     },
     {
@@ -236,21 +254,12 @@
       "featured": false
     },
     {
-      "id": "6ff20614dd01",
-      "source": "OCCRP",
-      "headline": "Lebanon Issues New Charges Against Former Central Bank Chief Riad Salame",
-      "excerpt": "Prosecutors launch fresh proceedings against Riad Salameh and former Bank Audi head Samir Hanna as the country's central bank pursues legal action to recover billions lost in the 2019 financial crash.",
-      "link": "https://www.occrp.org/en/news/lebanon-issues-new-charges-against-former-central-bank-chief-riad-salame",
-      "published": "2026-08-11T17:52:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "07d0470dec32",
-      "source": "Dropsite News",
-      "headline": "Primaries in six states, including Wisc. and Minn.; Escalated Israeli assault on West Bank with 504 attacks in one week; Multiple attacks on Libya refinery",
-      "excerpt": "Drop Site Daily: August 11, 2026",
-      "link": "https://www.dropsitenews.com/p/primaries-wisconsin-minnesota-israel-west-bank-attacks-libya-refinery",
-      "published": "2026-08-11T16:13:25+00:00",
+      "id": "d59ae39ac1a9",
+      "source": "The Lever",
+      "headline": "ICE’s $2.2 Billion Prison Buy-Up",
+      "excerpt": "Amid a spike in detention center deaths, taxpayers gave billions of dollars to private prisons so that Immigration and Customs Enforcement may escape oversight.",
+      "link": "https://www.levernews.com/ices-2-2-billion-prison-spending-spree/",
+      "published": "2026-08-11T16:44:49+00:00",
       "featured": false
     },
     {
@@ -260,15 +269,6 @@
       "excerpt": "The post Is There Anyone Who Can Respond to My FOIA Requests? Anyone? appeared first on ProPublica.",
       "link": "https://www.propublica.org/article/foia-requests-responses",
       "published": "2026-08-11T09:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "c4940c77fed1",
-      "source": "The Lever",
-      "headline": "THE KINGMAKERS, Ep. 7: The King's Man",
-      "excerpt": "Russell Vought rewires the government for a no-limits president.",
-      "link": "https://www.levernews.com/the-kingmakers-ep-7-the-kings-man/",
-      "published": "2026-08-11T08:15:07+00:00",
       "featured": false
     },
     {
@@ -308,21 +308,48 @@
       "featured": false
     },
     {
-      "id": "21523ca3bd5a",
+      "id": "6400960d6351",
       "source": "Al Jazeera",
-      "headline": "WHO chief says Trump vaccine push goes against ‘decades of evidence’",
-      "excerpt": "The US health secretary has spent years saying the MMR vaccine caused autism despite no medical evidence.",
-      "link": "https://www.aljazeera.com/news/2026/8/12/who-chief-says-trump-vaccine-push-goes-against-decades-of-evidence?traffic_source=rss",
-      "published": "2026-08-12T15:30:18+00:00",
+      "headline": "Paramount Skydance mulls CNN sale amid antitrust merger challenge",
+      "excerpt": "Paramount’s legal officer hints at CNN sale as 12 states, led by California, file lawsuit to block merger with WBD.",
+      "link": "https://www.aljazeera.com/economy/2026/8/12/paramount-skydance-mulls-cnn-sale-amid-antitrust-merger-challenge?traffic_source=rss",
+      "published": "2026-08-12T18:23:59+00:00",
       "featured": false
     },
     {
-      "id": "21b23944b448",
+      "id": "553550f02146",
       "source": "404 Media",
-      "headline": "This Tool Unmasks the Shadowy World of Ads that Track Your Location",
-      "excerpt": "It's usually very difficult to investigate the advertising industry. A new tool called DecryptAds aims to make it much easier with a massive dataset anyone can query.",
-      "link": "https://www.404media.co/this-tool-unmasks-the-shadowy-world-of-ads-that-track-your-location/",
-      "published": "2026-08-12T12:49:12+00:00",
+      "headline": "AI Generated 3D Models Flood Market, But Almost No One Is Buying Them",
+      "excerpt": "The number of AI generated uploads to CGTrader would suggest AI is taking over the platform, but buyers are refusing to pay for AI generated models.",
+      "link": "https://www.404media.co/ai-generated-3d-models-flood-market-but-almost-no-one-is-buying-them/",
+      "published": "2026-08-12T13:36:41+00:00",
+      "featured": false
+    },
+    {
+      "id": "8495521114f2",
+      "source": "Dropsite News",
+      "headline": "Hormuz at Breaking Point and Remembering Journalists Killed in Gaza",
+      "excerpt": "Financial expert Brett Erickson joins Drop Site's Murtaza Hussain and Ryan Grim followed by Sharif Abdel Kouddous and Palestinian journalist Abubaker Abed.",
+      "link": "https://www.dropsitenews.com/p/hormuz-at-breaking-point-and-remembering",
+      "published": "2026-08-11T18:10:40+00:00",
+      "featured": false
+    },
+    {
+      "id": "6ff20614dd01",
+      "source": "OCCRP",
+      "headline": "Lebanon Issues New Charges Against Former Central Bank Chief Riad Salame",
+      "excerpt": "Prosecutors launch fresh proceedings against Riad Salameh and former Bank Audi head Samir Hanna as the country's central bank pursues legal action to recover billions lost in the 2019 financial crash.",
+      "link": "https://www.occrp.org/en/news/lebanon-issues-new-charges-against-former-central-bank-chief-riad-salame",
+      "published": "2026-08-11T17:52:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "415399617ede",
+      "source": "The Lever",
+      "headline": "How A Hedge Fund Billionaire Became The Democrats’ New Kingmaker",
+      "excerpt": "Stephen Mandel is bankrolling a new political apparatus built to “redefine” the Democratic Party — but what does he actually want?",
+      "link": "https://www.levernews.com/how-a-hedge-fund-billionaire-became-the-democrats-new-kingmaker/",
+      "published": "2026-08-11T15:18:30+00:00",
       "featured": false
     },
     {
@@ -332,33 +359,6 @@
       "excerpt": "Today’s Democratic gubernatorial primary in Wisconsin has featured increasingly desperate attacks against the frontrunner. The post Francesca Hong’s “Thanksgiving-Gate” Shows Her Detractors Are Totally Out of Ideas...",
       "link": "https://theintercept.com/2026/08/11/francesca-hong-thanksgiving-wisconsin-governor/",
       "published": "2026-08-11T12:03:27+00:00",
-      "featured": false
-    },
-    {
-      "id": "5604889e11b6",
-      "source": "OCCRP",
-      "headline": "French Prosecution Says Alleged 'DZ Mafia' Gang Leader Arrested in Algeria",
-      "excerpt": "Algerian authorities have placed a suspected senior member of the DZ Mafia under judicial supervision in connection with a French operation launched in March to crack down on the criminal syndicate and dismantle its...",
-      "link": "https://www.occrp.org/en/news/french-prosecution-says-alleged-dz-mafia-gang-leader-arrested-in-algeria",
-      "published": "2026-08-11T11:28:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "d91b9bb7d4be",
-      "source": "The Lever",
-      "headline": "Democrats Declare War On Their Own Voters",
-      "excerpt": "Third Way is spending $15 million to crush the Democratic left. Its campaign could produce exactly the insurgency it fears.",
-      "link": "https://www.levernews.com/democrats-declare-war-on-their-own-voters/",
-      "published": "2026-08-10T20:27:55+00:00",
-      "featured": false
-    },
-    {
-      "id": "024176ebc397",
-      "source": "Dropsite News",
-      "headline": "Trump “low-keys” Iran; Netanyahu rejects BoP plan for Gaza; Ukraine kills 13 in strike targeting Russian refinery",
-      "excerpt": "Drop Site Daily: August 10, 2026",
-      "link": "https://www.dropsitenews.com/p/trump-iran-hormuz-netanyahu-gaza-board-peace-ukraine-russia-refinery",
-      "published": "2026-08-10T15:31:41+00:00",
       "featured": false
     },
     {
@@ -407,48 +407,48 @@
       "featured": false
     },
     {
-      "id": "8409c761c2fe",
+      "id": "96f00c197e2f",
       "source": "Al Jazeera",
-      "headline": "Iran remains defiant as it vows to fight US until demands met",
-      "excerpt": "IRGC advisers say Iran has replaced more missiles and drones than it used, and cite falling US munition stocks.",
-      "link": "https://www.aljazeera.com/news/2026/8/12/iran-remains-defiant-as-it-vows-to-fight-us-until-demands-met?traffic_source=rss",
-      "published": "2026-08-12T15:29:20+00:00",
+      "headline": "DR Congo Ebola outbreak set to become deadliest on record, WHO warns",
+      "excerpt": "Outbreak to eclipse West Africa's Ebola outbreak of 2014 to 2016 if it continues at current pace, WHO chief says.",
+      "link": "https://www.aljazeera.com/news/2026/8/12/dr-congo-ebola-outbreak-set-to-become-deadliest-on-record-who-warns?traffic_source=rss",
+      "published": "2026-08-12T18:23:25+00:00",
       "featured": false
     },
     {
-      "id": "ff759d7c824a",
+      "id": "1daf2b427c07",
       "source": "404 Media",
-      "headline": "No Bosses: Ancient Engineering Marvel Was Built Without Rulers, Study Suggests",
-      "excerpt": "A 2,000-year-old canal system in Colombia visible from space was long assumed to be built at the direction of powerful rulers. New evidence is turning that assumption on its head.",
-      "link": "https://www.404media.co/no-bosses-ancient-engineering-marvel-was-built-without-rulers-study-suggests/",
-      "published": "2026-08-11T17:55:52+00:00",
+      "headline": "The Government is Monitoring Anti-Flock TikTok and Instagram Accounts",
+      "excerpt": "Documents from law enforcement spy centers show the government is warning cops of \"extensive and ongoing chatter on social media\" about methods to \"physically destroy Flock LPR cameras.\"",
+      "link": "https://www.404media.co/the-government-is-monitoring-anti-flock-tiktok-and-instagram-accounts/",
+      "published": "2026-08-12T13:35:46+00:00",
       "featured": false
     },
     {
-      "id": "46a6d5f66b55",
-      "source": "OCCRP",
-      "headline": "Albania's Cheerful 'AI Minister' Is the Product of a Government Agency Under Investigation for Massive Corruption",
-      "excerpt": "Prosecutors are investigating the agency that developed Albania’s AI-minister ‘Diella’ in a case that involves alleged rigged tenders, a kidnapping, and tens of millions in seized assets. The affair deepens doubts about...",
-      "link": "https://www.occrp.org/en/feature/albanias-cheerful-ai-minister-is-the-product-of-a-government-agency-under-investigation-for-massive-corruption",
-      "published": "2026-08-11T08:15:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "352158e69fef",
-      "source": "The Lever",
-      "headline": "ICE Is Amassing A DNA Bank",
-      "excerpt": "Under Trump, Immigration and Customs Enforcement is rapidly increasing the agency’s collection of genetic material.",
-      "link": "https://www.levernews.com/ice-is-amassing-a-dna-bank/",
-      "published": "2026-08-10T16:20:49+00:00",
-      "featured": false
-    },
-    {
-      "id": "ec4caf81303e",
+      "id": "07d0470dec32",
       "source": "Dropsite News",
-      "headline": "Live Wednesday: Israel's Lobby with Eli Clifton and Ian Lustick",
-      "excerpt": "Join us Wednesday, August 12 at 7PM ET, exclusive for paid subscribers",
-      "link": "https://www.dropsitenews.com/p/live-wednesday-israels-lobby-with",
-      "published": "2026-08-10T14:23:44+00:00",
+      "headline": "Primaries in six states, including Wisc. and Minn.; Escalated Israeli assault on West Bank with 504 attacks in one week; Multiple attacks on Libya refinery",
+      "excerpt": "Drop Site Daily: August 11, 2026",
+      "link": "https://www.dropsitenews.com/p/primaries-wisconsin-minnesota-israel-west-bank-attacks-libya-refinery",
+      "published": "2026-08-11T16:13:25+00:00",
+      "featured": false
+    },
+    {
+      "id": "5604889e11b6",
+      "source": "OCCRP",
+      "headline": "French Prosecution Says Alleged 'DZ Mafia' Gang Leader Arrested in Algeria",
+      "excerpt": "Algerian authorities have placed a suspected senior member of the DZ Mafia under judicial supervision in connection with a French operation launched in March to crack down on the criminal syndicate and dismantle its...",
+      "link": "https://www.occrp.org/en/news/french-prosecution-says-alleged-dz-mafia-gang-leader-arrested-in-algeria",
+      "published": "2026-08-11T11:28:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "c4940c77fed1",
+      "source": "The Lever",
+      "headline": "THE KINGMAKERS, Ep. 7: The King's Man",
+      "excerpt": "Russell Vought rewires the government for a no-limits president.",
+      "link": "https://www.levernews.com/the-kingmakers-ep-7-the-kings-man/",
+      "published": "2026-08-11T08:15:07+00:00",
       "featured": false
     },
     {
@@ -497,48 +497,48 @@
       "featured": false
     },
     {
-      "id": "d60bdb496039",
+      "id": "3c4e25d3e037",
       "source": "Al Jazeera",
-      "headline": "US consumer inflation slows in July as energy prices briefly retreat",
-      "excerpt": "Energy prices declined 1.5 percent in July but remain 14.7 percent higher compared with a year ago.",
-      "link": "https://www.aljazeera.com/economy/2026/8/12/us-consumer-inflation-slows-in-july-as-energy-prices-briefly-retreat?traffic_source=rss",
-      "published": "2026-08-12T15:08:31+00:00",
+      "headline": "Lebanese families demand release of detainees held by Israel",
+      "excerpt": "Lebanese families rallied in Beirut demanding answers about relatives detained by Israel.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/lebanese-families-demand-release-of-detainees-held-by-israel?traffic_source=rss",
+      "published": "2026-08-12T18:15:03+00:00",
       "featured": false
     },
     {
-      "id": "b67bc1a6d9e0",
+      "id": "21b23944b448",
       "source": "404 Media",
-      "headline": "Company Offering ‘100% Human-Written, Never AI’ Medical Research Is Entirely AI",
-      "excerpt": "Research Gold's team of human methodologists are either AI generated or using the identity of real people without their permission",
-      "link": "https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai/",
-      "published": "2026-08-11T13:38:28+00:00",
+      "headline": "This Tool Unmasks the Shadowy World of Ads that Track Your Location",
+      "excerpt": "It's usually very difficult to investigate the advertising industry. A new tool called DecryptAds aims to make it much easier with a massive dataset anyone can query.",
+      "link": "https://www.404media.co/this-tool-unmasks-the-shadowy-world-of-ads-that-track-your-location/",
+      "published": "2026-08-12T12:49:12+00:00",
       "featured": false
     },
     {
-      "id": "1f7a7e769ff3",
+      "id": "46a6d5f66b55",
       "source": "OCCRP",
-      "headline": "Alleged Irish Crime Boss Charged After UAE Extradition",
-      "excerpt": "The alleged leader of a major Irish organized crime group was extradited from Dubai and charged with directing a criminal organization. Appearing without a lawyer, he told the court: “I think we know I won’t be getting...",
-      "link": "https://www.occrp.org/en/news/alleged-irish-crime-boss-charged-after-uae-extradition",
-      "published": "2026-08-10T16:24:00+00:00",
+      "headline": "Albania's Cheerful 'AI Minister' Is the Product of a Government Agency Under Investigation for Massive Corruption",
+      "excerpt": "Prosecutors are investigating the agency that developed Albania’s AI-minister ‘Diella’ in a case that involves alleged rigged tenders, a kidnapping, and tens of millions in seized assets. The affair deepens doubts about...",
+      "link": "https://www.occrp.org/en/feature/albanias-cheerful-ai-minister-is-the-product-of-a-government-agency-under-investigation-for-massive-corruption",
+      "published": "2026-08-11T08:15:00+00:00",
       "featured": false
     },
     {
-      "id": "d600ec0a9073",
-      "source": "The Intercept",
-      "headline": "Sophie Cunningham Is the Anti-Trans Right's New White Woman Mascot",
-      "excerpt": "The WNBA star has become the latest symbol in the right’s campaign to define which women deserve protecting—and which do not. The post Sophie Cunningham Is the Anti-Trans Right’s New White Woman Mascot appeared first on...",
-      "link": "https://theintercept.com/2026/08/09/sophie-cunningham-wnba-trans-athletes/",
-      "published": "2026-08-09T21:10:56+00:00",
-      "featured": false
-    },
-    {
-      "id": "35dcba8a632c",
+      "id": "d91b9bb7d4be",
       "source": "The Lever",
-      "headline": "Lever Weekly: It’s Gonna Cost You",
-      "excerpt": "Trump’s oil giveaway, airlines lobbying for smaller font sizes, FEMA cuts, and more from The Lever this week.",
-      "link": "https://www.levernews.com/lever-weekly-its-gonna-cost-you/",
-      "published": "2026-08-09T13:03:08+00:00",
+      "headline": "Democrats Declare War On Their Own Voters",
+      "excerpt": "Third Way is spending $15 million to crush the Democratic left. Its campaign could produce exactly the insurgency it fears.",
+      "link": "https://www.levernews.com/democrats-declare-war-on-their-own-voters/",
+      "published": "2026-08-10T20:27:55+00:00",
+      "featured": false
+    },
+    {
+      "id": "024176ebc397",
+      "source": "Dropsite News",
+      "headline": "Trump “low-keys” Iran; Netanyahu rejects BoP plan for Gaza; Ukraine kills 13 in strike targeting Russian refinery",
+      "excerpt": "Drop Site Daily: August 10, 2026",
+      "link": "https://www.dropsitenews.com/p/trump-iran-hormuz-netanyahu-gaza-board-peace-ukraine-russia-refinery",
+      "published": "2026-08-10T15:31:41+00:00",
       "featured": false
     }
   ]
