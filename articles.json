@@ -1,6 +1,33 @@
 {
-  "generated_at": "2026-08-12T10:19:57.785936+00:00",
+  "generated_at": "2026-08-12T13:47:48.030452+00:00",
   "articles": [
+    {
+      "id": "553550f02146",
+      "source": "404 Media",
+      "headline": "AI Generated 3D Models Flood Market, But Almost No One Is Buying Them",
+      "excerpt": "The number of AI generated uploads to CGTrader would suggest AI is taking over the platform, but buyers are refusing to pay for AI generated models.",
+      "link": "https://www.404media.co/ai-generated-3d-models-flood-market-but-almost-no-one-is-buying-them/",
+      "published": "2026-08-12T13:36:41+00:00",
+      "featured": true
+    },
+    {
+      "id": "39d40ad7d314",
+      "source": "OCCRP",
+      "headline": "Iraq PM’s Anti-Corruption Campaign Rumbles On",
+      "excerpt": "Iraqi Prime Minister Ali al-Zaidi declares “there are no red lines in pursuing the corrupt” after arrest warrants issued for a key leader in his political coalition.",
+      "link": "https://www.occrp.org/en/news/iraq-pms-anti-corruption-campaign-rumbles-on",
+      "published": "2026-08-12T13:32:00+00:00",
+      "featured": true
+    },
+    {
+      "id": "ed1d3ed20494",
+      "source": "Al Jazeera",
+      "headline": "Why has North Korea fired a missile ahead of US-South Korea drills?",
+      "excerpt": "Pyongyang has repeatedly condemned US–South Korea military drills, claiming they are a 'rehearsal for invasion'.",
+      "link": "https://www.aljazeera.com/news/2026/8/12/why-has-north-korea-fired-a-missile-ahead-of-us-south-korea-drills?traffic_source=rss",
+      "published": "2026-08-12T13:10:14+00:00",
+      "featured": true
+    },
     {
       "id": "4bef45dceec0",
       "source": "ProPublica",
@@ -8,7 +35,7 @@
       "excerpt": "The post Fiasco in the Factory: Taxpayers Funded a $533 Million Artillery Plant That Made Nothing appeared first on ProPublica.",
       "link": "https://www.propublica.org/article/general-dynamics-artillery-factory-failed",
       "published": "2026-08-12T10:00:00+00:00",
-      "featured": true
+      "featured": false
     },
     {
       "id": "e8b5ad073155",
@@ -17,16 +44,7 @@
       "excerpt": "Deepfakes dominate headlines, but the real danger lies in opaque AI systems that make up election infrastructure.",
       "link": "https://restofworld.org/2026/ai-elections-deepfake-voter-chatbot/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "published": "2026-08-12T10:00:00+00:00",
-      "featured": true
-    },
-    {
-      "id": "6ca6ab623403",
-      "source": "Al Jazeera",
-      "headline": "More than 100 passengers rescued after Indonesia ferry fire",
-      "excerpt": "More than 100 passengers rescued after Indonesia ferry fire",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/more-than-100-passengers-rescued-after-indonesia-ferry-fire?traffic_source=rss",
-      "published": "2026-08-12T09:26:45+00:00",
-      "featured": true
+      "featured": false
     },
     {
       "id": "d2b27ac2b3f6",
@@ -44,24 +62,6 @@
       "excerpt": "Financial expert Brett Erickson joins Drop Site's Murtaza Hussain and Ryan Grim followed by Sharif Abdel Kouddous and Palestinian journalist Abubaker Abed.",
       "link": "https://www.dropsitenews.com/p/hormuz-at-breaking-point-and-remembering",
       "published": "2026-08-11T18:10:40+00:00",
-      "featured": false
-    },
-    {
-      "id": "ff759d7c824a",
-      "source": "404 Media",
-      "headline": "No Bosses: Ancient Engineering Marvel Was Built Without Rulers, Study Suggests",
-      "excerpt": "A 2,000-year-old canal system in Colombia visible from space was long assumed to be built at the direction of powerful rulers. New evidence is turning that assumption on its head.",
-      "link": "https://www.404media.co/no-bosses-ancient-engineering-marvel-was-built-without-rulers-study-suggests/",
-      "published": "2026-08-11T17:55:52+00:00",
-      "featured": false
-    },
-    {
-      "id": "6ff20614dd01",
-      "source": "OCCRP",
-      "headline": "Lebanon Issues New Charges Against Former Central Bank Chief Riad Salame",
-      "excerpt": "Prosecutors launch fresh proceedings against Riad Salameh and former Bank Audi head Samir Hanna as the country's central bank pursues legal action to recover billions lost in the 2019 financial crash.",
-      "link": "https://www.occrp.org/en/news/lebanon-issues-new-charges-against-former-central-bank-chief-riad-salame",
-      "published": "2026-08-11T17:52:00+00:00",
       "featured": false
     },
     {
@@ -110,12 +110,21 @@
       "featured": false
     },
     {
-      "id": "542db50eab72",
+      "id": "1daf2b427c07",
+      "source": "404 Media",
+      "headline": "The Government is Monitoring Anti-Flock TikTok and Instagram Accounts",
+      "excerpt": "Documents from law enforcement spy centers show the government is warning cops of \"extensive and ongoing chatter on social media\" about methods to \"physically destroy Flock LPR cameras.\"",
+      "link": "https://www.404media.co/the-government-is-monitoring-anti-flock-tiktok-and-instagram-accounts/",
+      "published": "2026-08-12T13:35:46+00:00",
+      "featured": false
+    },
+    {
+      "id": "33a2831dcf5b",
       "source": "Al Jazeera",
-      "headline": "Pogba suffers new injury setback with Monaco future now in doubt",
-      "excerpt": "Former France and Manchester United star Paul Pogba suffers latest injury setback, sparking rumours about Monaco future.",
-      "link": "https://www.aljazeera.com/sports/2026/8/12/pogba-suffers-new-injury-setback-with-monaco-future-now-in-doubt?traffic_source=rss",
-      "published": "2026-08-12T09:24:59+00:00",
+      "headline": "Egyptian student livestreams his kidnapping",
+      "excerpt": "Egyptian student livestreams his kidnapping",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/egyptian-student-livestreams-his-kidnapping?traffic_source=rss",
+      "published": "2026-08-12T12:36:01+00:00",
       "featured": false
     },
     {
@@ -137,6 +146,15 @@
       "featured": false
     },
     {
+      "id": "6ff20614dd01",
+      "source": "OCCRP",
+      "headline": "Lebanon Issues New Charges Against Former Central Bank Chief Riad Salame",
+      "excerpt": "Prosecutors launch fresh proceedings against Riad Salameh and former Bank Audi head Samir Hanna as the country's central bank pursues legal action to recover billions lost in the 2019 financial crash.",
+      "link": "https://www.occrp.org/en/news/lebanon-issues-new-charges-against-former-central-bank-chief-riad-salame",
+      "published": "2026-08-11T17:52:00+00:00",
+      "featured": false
+    },
+    {
       "id": "07d0470dec32",
       "source": "Dropsite News",
       "headline": "Primaries in six states, including Wisc. and Minn.; Escalated Israeli assault on West Bank with 504 attacks in one week; Multiple attacks on Libya refinery",
@@ -152,24 +170,6 @@
       "excerpt": "Stephen Mandel is bankrolling a new political apparatus built to “redefine” the Democratic Party — but what does he actually want?",
       "link": "https://www.levernews.com/how-a-hedge-fund-billionaire-became-the-democrats-new-kingmaker/",
       "published": "2026-08-11T15:18:30+00:00",
-      "featured": false
-    },
-    {
-      "id": "b67bc1a6d9e0",
-      "source": "404 Media",
-      "headline": "Company Offering ‘100% Human-Written, Never AI’ Medical Research Is Entirely AI",
-      "excerpt": "Research Gold's team of human methodologists are either AI generated or using the identity of real people without their permission",
-      "link": "https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai/",
-      "published": "2026-08-11T13:38:28+00:00",
-      "featured": false
-    },
-    {
-      "id": "5604889e11b6",
-      "source": "OCCRP",
-      "headline": "French Prosecution Says Alleged 'DZ Mafia' Gang Leader Arrested in Algeria",
-      "excerpt": "Algerian authorities have placed a suspected senior member of the DZ Mafia under judicial supervision in connection with a French operation launched in March to crack down on the criminal syndicate and dismantle its...",
-      "link": "https://www.occrp.org/en/news/french-prosecution-says-alleged-dz-mafia-gang-leader-arrested-in-algeria",
-      "published": "2026-08-11T11:28:00+00:00",
       "featured": false
     },
     {
@@ -209,12 +209,21 @@
       "featured": false
     },
     {
-      "id": "6350339f4fc9",
+      "id": "21b23944b448",
+      "source": "404 Media",
+      "headline": "This Tool Unmasks the Shadowy World of Ads that Track Your Location",
+      "excerpt": "It's usually very difficult to investigate the advertising industry. A new tool called DecryptAds aims to make it much easier with a massive dataset anyone can query.",
+      "link": "https://www.404media.co/this-tool-unmasks-the-shadowy-world-of-ads-that-track-your-location/",
+      "published": "2026-08-12T12:49:12+00:00",
+      "featured": false
+    },
+    {
+      "id": "3e1753833da0",
       "source": "Al Jazeera",
-      "headline": "Zambia’s president rallies for second term ahead of election",
-      "excerpt": "Zambia's president rallies for second term ahead of election",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/zambias-president-rallies-for-second-term-ahead-of-election?traffic_source=rss",
-      "published": "2026-08-12T09:16:22+00:00",
+      "headline": "Top Iranian commander visited Iraq to discuss disarmament plan: Source",
+      "excerpt": "Esmail Qaani held meetings over Iraqi government's plan to disarm armed groups and bring weapons under state control.",
+      "link": "https://www.aljazeera.com/news/2026/8/12/top-iranian-commander-visited-iraq-to-discuss-disarmament-plan-source?traffic_source=rss",
+      "published": "2026-08-12T12:34:50+00:00",
       "featured": false
     },
     {
@@ -224,6 +233,15 @@
       "excerpt": "Today’s Democratic gubernatorial primary in Wisconsin has featured increasingly desperate attacks against the frontrunner. The post Francesca Hong’s “Thanksgiving-Gate” Shows Her Detractors Are Totally Out of Ideas...",
       "link": "https://theintercept.com/2026/08/11/francesca-hong-thanksgiving-wisconsin-governor/",
       "published": "2026-08-11T12:03:27+00:00",
+      "featured": false
+    },
+    {
+      "id": "5604889e11b6",
+      "source": "OCCRP",
+      "headline": "French Prosecution Says Alleged 'DZ Mafia' Gang Leader Arrested in Algeria",
+      "excerpt": "Algerian authorities have placed a suspected senior member of the DZ Mafia under judicial supervision in connection with a French operation launched in March to crack down on the criminal syndicate and dismantle its...",
+      "link": "https://www.occrp.org/en/news/french-prosecution-says-alleged-dz-mafia-gang-leader-arrested-in-algeria",
+      "published": "2026-08-11T11:28:00+00:00",
       "featured": false
     },
     {
@@ -242,24 +260,6 @@
       "excerpt": "Russell Vought rewires the government for a no-limits president.",
       "link": "https://www.levernews.com/the-kingmakers-ep-7-the-kings-man/",
       "published": "2026-08-11T08:15:07+00:00",
-      "featured": false
-    },
-    {
-      "id": "46a6d5f66b55",
-      "source": "OCCRP",
-      "headline": "Albania's Cheerful 'AI Minister' Is the Product of a Government Agency Under Investigation for Massive Corruption",
-      "excerpt": "Prosecutors are investigating the agency that developed Albania’s AI-minister ‘Diella’ in a case that involves alleged rigged tenders, a kidnapping, and tens of millions in seized assets. The affair deepens doubts about...",
-      "link": "https://www.occrp.org/en/feature/albanias-cheerful-ai-minister-is-the-product-of-a-government-agency-under-investigation-for-massive-corruption",
-      "published": "2026-08-11T08:15:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "cb6591852d8b",
-      "source": "404 Media",
-      "headline": "ICE to Pay LexisNexis Millions for Data to Feed to Palantir",
-      "excerpt": "LexisNexis sells a massive amount of data to law enforcement, including ICE. New records indicate ICE wants to feed that data into a Palantir system.",
-      "link": "https://www.404media.co/ice-to-pay-lexisnexis-millions-for-data-to-feed-to-palantir/",
-      "published": "2026-08-10T23:25:58+00:00",
       "featured": false
     },
     {
@@ -308,12 +308,30 @@
       "featured": false
     },
     {
-      "id": "3000fc6f5132",
+      "id": "0355bfe8a89e",
       "source": "Al Jazeera",
-      "headline": "A hydrogen-powered vehicle sets new land speed record",
-      "excerpt": "A hydrogen-powered vehicle sets new land speed record",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/a-hydrogen-powered-vehicle-sets-new-land-speed-record?traffic_source=rss",
-      "published": "2026-08-12T09:10:40+00:00",
+      "headline": "Rare solar eclipse to sweep across Europe and the Arctic",
+      "excerpt": "Rare solar eclipse to sweep across Europe and the Arctic",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/rare-solar-eclipse-to-sweep-across-europe-and-the-arctic?traffic_source=rss",
+      "published": "2026-08-12T12:33:09+00:00",
+      "featured": false
+    },
+    {
+      "id": "ff759d7c824a",
+      "source": "404 Media",
+      "headline": "No Bosses: Ancient Engineering Marvel Was Built Without Rulers, Study Suggests",
+      "excerpt": "A 2,000-year-old canal system in Colombia visible from space was long assumed to be built at the direction of powerful rulers. New evidence is turning that assumption on its head.",
+      "link": "https://www.404media.co/no-bosses-ancient-engineering-marvel-was-built-without-rulers-study-suggests/",
+      "published": "2026-08-11T17:55:52+00:00",
+      "featured": false
+    },
+    {
+      "id": "46a6d5f66b55",
+      "source": "OCCRP",
+      "headline": "Albania's Cheerful 'AI Minister' Is the Product of a Government Agency Under Investigation for Massive Corruption",
+      "excerpt": "Prosecutors are investigating the agency that developed Albania’s AI-minister ‘Diella’ in a case that involves alleged rigged tenders, a kidnapping, and tens of millions in seized assets. The affair deepens doubts about...",
+      "link": "https://www.occrp.org/en/feature/albanias-cheerful-ai-minister-is-the-product-of-a-government-agency-under-investigation-for-massive-corruption",
+      "published": "2026-08-11T08:15:00+00:00",
       "featured": false
     },
     {
@@ -323,24 +341,6 @@
       "excerpt": "Third Way is spending $15 million to crush the Democratic left. Its campaign could produce exactly the insurgency it fears.",
       "link": "https://www.levernews.com/democrats-declare-war-on-their-own-voters/",
       "published": "2026-08-10T20:27:55+00:00",
-      "featured": false
-    },
-    {
-      "id": "1f7a7e769ff3",
-      "source": "OCCRP",
-      "headline": "Alleged Irish Crime Boss Charged After UAE Extradition",
-      "excerpt": "The alleged leader of a major Irish organized crime group was extradited from Dubai and charged with directing a criminal organization. Appearing without a lawyer, he told the court: “I think we know I won’t be getting...",
-      "link": "https://www.occrp.org/en/news/alleged-irish-crime-boss-charged-after-uae-extradition",
-      "published": "2026-08-10T16:24:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "3a72349274a9",
-      "source": "404 Media",
-      "headline": "The Mayor Who Said 'No' When Flock Came to Town",
-      "excerpt": "“I guess all crime could be eliminated if you put cameras everywhere, surveillance everywhere, and had drones patrolling the skies [...] but what life are we living then?”",
-      "link": "https://www.404media.co/the-mayor-who-said-no-when-flock-came-to-town/",
-      "published": "2026-08-10T14:41:22+00:00",
       "featured": false
     },
     {
@@ -407,12 +407,30 @@
       "featured": false
     },
     {
-      "id": "32eb28b7baca",
+      "id": "1c33b08cf1f2",
       "source": "Al Jazeera",
-      "headline": "Rybakina defeats Osaka, advances to Canadian Open semifinals to play Gauff",
-      "excerpt": "Elena Rybakina stages a huge comeback to beat Naomi Osaka and will now play Coco Gauff for a place in the final.",
-      "link": "https://www.aljazeera.com/sports/2026/8/12/rybakina-defeats-osaka-advances-to-canadian-open-semifinals-to-play-gauff?traffic_source=rss",
-      "published": "2026-08-12T08:45:46+00:00",
+      "headline": "Putin warns of tit-for-tat seizures of European vessels",
+      "excerpt": "If European states seize vessels with Russian cargo, Moscow will respond in kind 'wherever necessary', says Putin.",
+      "link": "https://www.aljazeera.com/news/2026/8/12/putin-warns-of-tit-for-tat-seizures-of-european-vessels?traffic_source=rss",
+      "published": "2026-08-12T11:11:26+00:00",
+      "featured": false
+    },
+    {
+      "id": "b67bc1a6d9e0",
+      "source": "404 Media",
+      "headline": "Company Offering ‘100% Human-Written, Never AI’ Medical Research Is Entirely AI",
+      "excerpt": "Research Gold's team of human methodologists are either AI generated or using the identity of real people without their permission",
+      "link": "https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai/",
+      "published": "2026-08-11T13:38:28+00:00",
+      "featured": false
+    },
+    {
+      "id": "1f7a7e769ff3",
+      "source": "OCCRP",
+      "headline": "Alleged Irish Crime Boss Charged After UAE Extradition",
+      "excerpt": "The alleged leader of a major Irish organized crime group was extradited from Dubai and charged with directing a criminal organization. Appearing without a lawyer, he told the court: “I think we know I won’t be getting...",
+      "link": "https://www.occrp.org/en/news/alleged-irish-crime-boss-charged-after-uae-extradition",
+      "published": "2026-08-10T16:24:00+00:00",
       "featured": false
     },
     {
@@ -422,15 +440,6 @@
       "excerpt": "Under Trump, Immigration and Customs Enforcement is rapidly increasing the agency’s collection of genetic material.",
       "link": "https://www.levernews.com/ice-is-amassing-a-dna-bank/",
       "published": "2026-08-10T16:20:49+00:00",
-      "featured": false
-    },
-    {
-      "id": "b0caa2188c4d",
-      "source": "404 Media",
-      "headline": "Mark Zuckerberg Posts Deranged 6,500-Word Essay About Giving Everyone AI Superintelligence",
-      "excerpt": "\"The future is for everyone,\" Zuckerberg says, describing future that is primarily good for Meta.",
-      "link": "https://www.404media.co/mark-zuckerberg-posts-deranged-6-500-word-essay-about-giving-everyone-ai-superintelligence/",
-      "published": "2026-08-10T14:13:30+00:00",
       "featured": false
     },
     {
@@ -449,15 +458,6 @@
       "excerpt": "The escalated abuse against Dr. Hussam Abu Safiya following a legal challenge to his detention has sent a chilling message to the families of detained medical workers in Gaza.",
       "link": "https://www.dropsitenews.com/p/doctor-hussam-abu-safiya-prison-abuse-medical-gaza",
       "published": "2026-08-08T12:01:13+00:00",
-      "featured": false
-    },
-    {
-      "id": "76953a95d761",
-      "source": "OCCRP",
-      "headline": "Alleged ‘Enforcer’ in Prince Group Scam Network Identified",
-      "excerpt": "A U.S. federal indictment against Prince Group Chairman Chen Zhi anonymized his alleged co-conspirators, but personal details in the document identify one of them as Chen Sokly. U.S. authorities allege Chen Sokly was a...",
-      "link": "https://www.occrp.org/en/scoop/alleged-enforcer-in-prince-group-scam-network-identified",
-      "published": "2026-08-07T22:01:00+00:00",
       "featured": false
     },
     {
@@ -497,21 +497,21 @@
       "featured": false
     },
     {
-      "id": "5e7fa519bbf7",
+      "id": "d06b1a44f0ee",
       "source": "Al Jazeera",
-      "headline": "Wisconsin race tight: Key takeaways from US primary election results",
-      "excerpt": "Trump-backed candidates both win and lose: Results from Wisconsin, Minnesota, South Carolina and Alabama.",
-      "link": "https://www.aljazeera.com/news/2026/8/12/wisconsin-race-tight-key-takeaways-from-us-primary-election-results?traffic_source=rss",
-      "published": "2026-08-12T08:45:00+00:00",
+      "headline": "Lebanon ends executions: Where does the death penalty still exist in 2026?",
+      "excerpt": "Three-quarters of the world has abolished the death penalty in law or in practice, according to Amnesty International.",
+      "link": "https://www.aljazeera.com/news/2026/8/12/lebanon-ends-executions-where-does-the-death-penalty-still-exist-in-2026?traffic_source=rss",
+      "published": "2026-08-12T10:40:57+00:00",
       "featured": false
     },
     {
-      "id": "2b1d4d2b9a9e",
+      "id": "cb6591852d8b",
       "source": "404 Media",
-      "headline": "The Roboguard Revolution is Short-Circuiting",
-      "excerpt": "Knightscope and other robotics companies are rethinking automated security following canceled contracts. One pivot? Human guards.",
-      "link": "https://www.404media.co/the-roboguard-revolution-is-short-circuiting/",
-      "published": "2026-08-10T13:00:43+00:00",
+      "headline": "ICE to Pay LexisNexis Millions for Data to Feed to Palantir",
+      "excerpt": "LexisNexis sells a massive amount of data to law enforcement, including ICE. New records indicate ICE wants to feed that data into a Palantir system.",
+      "link": "https://www.404media.co/ice-to-pay-lexisnexis-millions-for-data-to-feed-to-palantir/",
+      "published": "2026-08-10T23:25:58+00:00",
       "featured": false
     },
     {
@@ -533,12 +533,12 @@
       "featured": false
     },
     {
-      "id": "e6456d51c61c",
-      "source": "Dropsite News",
-      "headline": "AIPAC-Linked Super PACs, Pro-Israel Donors Flood Primary to Succeed Angie Craig With More Than $3 Million",
-      "excerpt": "Progressive Matt Little is getting hit by a flurry of PACs intervening in a three-way Democratic primary.",
-      "link": "https://www.dropsitenews.com/p/minnesota-primary-aipac-dmfi-super-pacs-matt-little",
-      "published": "2026-08-07T18:05:50+00:00",
+      "id": "76953a95d761",
+      "source": "OCCRP",
+      "headline": "Alleged ‘Enforcer’ in Prince Group Scam Network Identified",
+      "excerpt": "A U.S. federal indictment against Prince Group Chairman Chen Zhi anonymized his alleged co-conspirators, but personal details in the document identify one of them as Chen Sokly. U.S. authorities allege Chen Sokly was a...",
+      "link": "https://www.occrp.org/en/scoop/alleged-enforcer-in-prince-group-scam-network-identified",
+      "published": "2026-08-07T22:01:00+00:00",
       "featured": false
     }
   ]
