@@ -1,14 +1,41 @@
 {
-  "generated_at": "2026-08-12T19:26:49.403956+00:00",
+  "generated_at": "2026-08-12T22:02:57.954269+00:00",
   "articles": [
     {
-      "id": "f52fba1380c5",
+      "id": "bc61f6c4c84c",
       "source": "Al Jazeera",
-      "headline": "Brazil orders Discord to suspend livestreams after teen’s death",
-      "excerpt": "Regulator says Discord failed to protect minors from violence, self-harm, and suicide content.",
-      "link": "https://www.aljazeera.com/news/2026/8/12/brazil-orders-discord-to-suspend-livestreams-after-teens-death?traffic_source=rss",
-      "published": "2026-08-12T19:21:11+00:00",
+      "headline": "PSG win back-to-back UEFA Super Cups with victory over Aston Villa",
+      "excerpt": "Kvaratskhelia and Doue earn a win for Paris Saint-Germain as 17-year-old Brian Madjo's goal is in vain for Aston Villa.",
+      "link": "https://www.aljazeera.com/sports/2026/8/12/psg-win-back-to-back-uefa-super-cups-with-victory-over-aston-villa?traffic_source=rss",
+      "published": "2026-08-12T21:50:27+00:00",
       "featured": true
+    },
+    {
+      "id": "7aaa7448ee9a",
+      "source": "The Intercept",
+      "headline": "Francesca Hong’s Loss in Wisconsin is a Win for AI Data Centers — for Now",
+      "excerpt": "Though the democratic socialist was defeated, the fight against the data centers she opposed isn’t going anywhere. The post Francesca Hong’s Loss in Wisconsin is a Win for AI Data Centers — for Now appeared first on The...",
+      "link": "https://theintercept.com/2026/08/12/francesca-hong-wisconsin-governor-data-centers/",
+      "published": "2026-08-12T21:25:10+00:00",
+      "featured": true
+    },
+    {
+      "id": "cd9cf5906c40",
+      "source": "More Perfect Union",
+      "headline": "Everyone Is Fighting About The Wrong Data Center Water Numbers",
+      "excerpt": "We went to the drought-stricken West, where farmers now have to fight AI oligarchs for water.",
+      "link": "https://substack.perfectunion.us/p/everyone-is-fighting-about-the-wrong",
+      "published": "2026-08-12T20:42:54+00:00",
+      "featured": true
+    },
+    {
+      "id": "a8fbf20d00e1",
+      "source": "404 Media",
+      "headline": "Here's the Manual for ICE's Electric Shock Gloves",
+      "excerpt": "ICE plans to spends tens of millions of dollars on the gloves, which are supposed to incapacitate people. A manual 404 Media found says the gloves may even contribute to “sudden death.”",
+      "link": "https://www.404media.co/heres-the-manual-for-ices-electric-shock-gloves/",
+      "published": "2026-08-12T20:39:23+00:00",
+      "featured": false
     },
     {
       "id": "debc0c50a2e8",
@@ -17,16 +44,7 @@
       "excerpt": "Luke Bronin toppled an incumbent in the name of generational change. Behind his rise is a hedge fund billionaire building a new Democratic political machine.",
       "link": "https://www.levernews.com/meet-the-billionaire-behind-connecticuts-insurgent-victory/",
       "published": "2026-08-12T19:16:19+00:00",
-      "featured": true
-    },
-    {
-      "id": "c50200be0ced",
-      "source": "404 Media",
-      "headline": "Twitch is Mining Peoples' Streams to Train Amazon's AI",
-      "excerpt": "Here's how to opt out of Twitch's new generative AI training setting.",
-      "link": "https://www.404media.co/twitch-training-amazon-ai-models-how-to-opt-out-setting/",
-      "published": "2026-08-12T17:58:48+00:00",
-      "featured": true
+      "featured": false
     },
     {
       "id": "b17c32300c8b",
@@ -47,15 +65,6 @@
       "featured": false
     },
     {
-      "id": "783379b2d9f1",
-      "source": "The Intercept",
-      "headline": "The Intercept Sues Trump for Selling Premium Access to Truth Social Announcements",
-      "excerpt": "A lawsuit filed with the Freedom of the Press Foundation argues the president is restricting First Amendment-protected information in a scheme to enrich himself. The post The Intercept Sues Trump for Selling Premium...",
-      "link": "https://theintercept.com/2026/08/12/trump-media-truthsocial-premium-first-amendment/",
-      "published": "2026-08-12T14:48:01+00:00",
-      "featured": false
-    },
-    {
       "id": "4bef45dceec0",
       "source": "ProPublica",
       "headline": "Fiasco in the Factory: Taxpayers Funded a $533 Million Artillery Plant That Made Nothing",
@@ -71,15 +80,6 @@
       "excerpt": "Deepfakes dominate headlines, but the real danger lies in opaque AI systems that make up election infrastructure.",
       "link": "https://restofworld.org/2026/ai-elections-deepfake-voter-chatbot/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "published": "2026-08-12T10:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "1c89173c7837",
-      "source": "More Perfect Union",
-      "headline": "He Was a Blackwater Mercenary. Here’s Why He’s Worried about the Board of Peace.",
-      "excerpt": "Jared Kushner has a scheme to profit off world peace — and Gaza is the testing ground.",
-      "link": "https://substack.perfectunion.us/p/he-was-a-blackwater-mercenary-heres",
-      "published": "2026-08-11T14:50:26+00:00",
       "featured": false
     },
     {
@@ -110,12 +110,21 @@
       "featured": false
     },
     {
-      "id": "0f16901a8de4",
+      "id": "13e90363d0da",
       "source": "Al Jazeera",
-      "headline": "Iraq says September 30 withdrawal deadline for US-led coalition ‘final’",
-      "excerpt": "A US official confirmed that the United States expects to complete its pullout by September 30.",
-      "link": "https://www.aljazeera.com/news/2026/8/12/iraq-says-sept-30-deadline-to-end-us-led-military-coalition-final?traffic_source=rss",
-      "published": "2026-08-12T19:11:03+00:00",
+      "headline": "Thousands missing after Colombia quake as rescue continues",
+      "excerpt": "Thousands missing after Colombia quake as rescue continues",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/thousands-missing-after-colombia-quake-as-rescue-continues?traffic_source=rss",
+      "published": "2026-08-12T21:25:08+00:00",
+      "featured": false
+    },
+    {
+      "id": "c50200be0ced",
+      "source": "404 Media",
+      "headline": "Twitch is Mining Peoples' Streams to Train Amazon's AI",
+      "excerpt": "Here's how to opt out of Twitch's new generative AI training setting.",
+      "link": "https://www.404media.co/twitch-training-amazon-ai-models-how-to-opt-out-setting/",
+      "published": "2026-08-12T17:58:48+00:00",
       "featured": false
     },
     {
@@ -137,12 +146,12 @@
       "featured": false
     },
     {
-      "id": "85c2f0554415",
-      "source": "404 Media",
-      "headline": "Podcast: Mark Zuckerberg’s 'Superintelligent' AI Future That No One Wants",
-      "excerpt": "Zuckerberg's anti-social future; a company offering human writing that is actually just AI; and the big switch from Flock to Axon.",
-      "link": "https://www.404media.co/podcast-mark-zuckerbergs-superintelligent-ai-future-that-no-one-wants/",
-      "published": "2026-08-12T14:15:44+00:00",
+      "id": "783379b2d9f1",
+      "source": "The Intercept",
+      "headline": "The Intercept Sues Trump for Selling Premium Access to Truth Social Announcements",
+      "excerpt": "A lawsuit filed with the Freedom of the Press Foundation argues the president is restricting First Amendment-protected information in a scheme to enrich himself. The post The Intercept Sues Trump for Selling Premium...",
+      "link": "https://theintercept.com/2026/08/12/trump-media-truthsocial-premium-first-amendment/",
+      "published": "2026-08-12T14:48:01+00:00",
       "featured": false
     },
     {
@@ -164,12 +173,12 @@
       "featured": false
     },
     {
-      "id": "d2b27ac2b3f6",
-      "source": "The Intercept",
-      "headline": "No, AOC: “Woke” Wasn’t “Crazy” the Way You Say It Was",
-      "excerpt": "Protesting George Floyd’s murder wasn’t the “crazy” part. Centrist Dems selling out was. The post No, AOC: “Woke” Wasn’t “Crazy” the Way You Say It Was appeared first on The Intercept.",
-      "link": "https://theintercept.com/2026/08/11/alexandria-ocasio-cortex-woke-one-crazy/",
-      "published": "2026-08-11T21:24:42+00:00",
+      "id": "1c89173c7837",
+      "source": "More Perfect Union",
+      "headline": "He Was a Blackwater Mercenary. Here’s Why He’s Worried about the Board of Peace.",
+      "excerpt": "Jared Kushner has a scheme to profit off world peace — and Gaza is the testing ground.",
+      "link": "https://substack.perfectunion.us/p/he-was-a-blackwater-mercenary-heres",
+      "published": "2026-08-11T14:50:26+00:00",
       "featured": false
     },
     {
@@ -191,15 +200,6 @@
       "featured": false
     },
     {
-      "id": "4320a6670ca7",
-      "source": "More Perfect Union",
-      "headline": "The Most Powerful Tech Billionaire You've Never Heard Of",
-      "excerpt": "The biggest midterm spender warns against “playing God” while profiting from surveillance.",
-      "link": "https://substack.perfectunion.us/p/the-most-powerful-tech-billionaire",
-      "published": "2026-08-06T18:19:24+00:00",
-      "featured": false
-    },
-    {
       "id": "5f1f128e4a58",
       "source": "Bellingcat",
       "headline": "Will Ronaldo Cry​? World Cup Fans Bet Billions Through Prediction Markets",
@@ -209,12 +209,12 @@
       "featured": false
     },
     {
-      "id": "6424e37aac5c",
+      "id": "79ef5171d4ef",
       "source": "Al Jazeera",
-      "headline": "Thousands flee drought in Somalia amid sharp aid decline",
-      "excerpt": "Thousands of hunger-stricken families have lost their livestock and farms due to a yearslong drought in Somalia.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/thousands-flee-drought-in-somalia-amid-sharp-aid-decline?traffic_source=rss",
-      "published": "2026-08-12T19:06:23+00:00",
+      "headline": "Morocco says working to prevent potential new Ceuta crossings surge",
+      "excerpt": "Morocco Interior Ministry says it has increased security along its borders with the Spanish exclaves Ceuta and Melilla.",
+      "link": "https://www.aljazeera.com/news/2026/8/12/morocco-says-working-to-prevent-potential-new-ceuta-crossings-surge?traffic_source=rss",
+      "published": "2026-08-12T21:07:12+00:00",
       "featured": false
     },
     {
@@ -227,12 +227,12 @@
       "featured": false
     },
     {
-      "id": "3e43012545ad",
+      "id": "85c2f0554415",
       "source": "404 Media",
-      "headline": "Researchers Show How Meta's 'Pervert Glasses' Are Used to Harass Women",
-      "excerpt": "A new study shows how pickup artist influencers use smart glasses to create content, and the connection between covert recording and harm.",
-      "link": "https://www.404media.co/meta-ray-ban-smart-glasses-pov-instagram-pickup-artists/",
-      "published": "2026-08-12T14:05:24+00:00",
+      "headline": "Podcast: Mark Zuckerberg’s 'Superintelligent' AI Future That No One Wants",
+      "excerpt": "Zuckerberg's anti-social future; a company offering human writing that is actually just AI; and the big switch from Flock to Axon.",
+      "link": "https://www.404media.co/podcast-mark-zuckerbergs-superintelligent-ai-future-that-no-one-wants/",
+      "published": "2026-08-12T14:15:44+00:00",
       "featured": false
     },
     {
@@ -245,12 +245,12 @@
       "featured": false
     },
     {
-      "id": "1f4b327fe7cb",
+      "id": "d2b27ac2b3f6",
       "source": "The Intercept",
-      "headline": "“Total Whitewash”: New Pentagon Report Claims U.S. Killed No Civilians in Boat Strikes",
-      "excerpt": "Government officials told The Intercept the War Department’s latest civilian casualty report was “sickening” and a “joke.” The post “Total Whitewash”: New Pentagon Report Claims U.S. Killed No Civilians in Boat Strikes...",
-      "link": "https://theintercept.com/2026/08/11/war-department-civilian-casualties-boat-strikes-yemen/",
-      "published": "2026-08-11T19:51:08+00:00",
+      "headline": "No, AOC: “Woke” Wasn’t “Crazy” the Way You Say It Was",
+      "excerpt": "Protesting George Floyd’s murder wasn’t the “crazy” part. Centrist Dems selling out was. The post No, AOC: “Woke” Wasn’t “Crazy” the Way You Say It Was appeared first on The Intercept.",
+      "link": "https://theintercept.com/2026/08/11/alexandria-ocasio-cortex-woke-one-crazy/",
+      "published": "2026-08-11T21:24:42+00:00",
       "featured": false
     },
     {
@@ -281,21 +281,21 @@
       "featured": false
     },
     {
+      "id": "4320a6670ca7",
+      "source": "More Perfect Union",
+      "headline": "The Most Powerful Tech Billionaire You've Never Heard Of",
+      "excerpt": "The biggest midterm spender warns against “playing God” while profiting from surveillance.",
+      "link": "https://substack.perfectunion.us/p/the-most-powerful-tech-billionaire",
+      "published": "2026-08-06T18:19:24+00:00",
+      "featured": false
+    },
+    {
       "id": "69684180d7b9",
       "source": "ICIJ",
       "headline": "After cancer drug counterfeiting scandal, India imposes new tracing requirements",
       "excerpt": "Reporting by ICIJ and The Indian Express illustrated how Indian counterfeiters exploited the high price of the lifesaving cancer drug Keytruda and the desperation of patients seeking it.",
       "link": "https://www.icij.org/investigations/cancer-calculus/after-cancer-drug-counterfeiting-scandal-india-imposes-new-tracing-requirements/",
       "published": "2026-08-05T19:30:24+00:00",
-      "featured": false
-    },
-    {
-      "id": "4e0c3f7f18bc",
-      "source": "More Perfect Union",
-      "headline": "The DHS Ditched its Warehouse Plan for Prisons Conversions",
-      "excerpt": "GEO Group’s liabilities are now profit engines for Trump and his allies",
-      "link": "https://substack.perfectunion.us/p/the-dhs-ditched-its-warehouse-plan",
-      "published": "2026-07-31T15:09:00+00:00",
       "featured": false
     },
     {
@@ -308,21 +308,30 @@
       "featured": false
     },
     {
-      "id": "6400960d6351",
+      "id": "e32121818871",
       "source": "Al Jazeera",
-      "headline": "Paramount Skydance mulls CNN sale amid antitrust merger challenge",
-      "excerpt": "Paramount’s legal officer hints at CNN sale as 12 states, led by California, file lawsuit to block merger with WBD.",
-      "link": "https://www.aljazeera.com/economy/2026/8/12/paramount-skydance-mulls-cnn-sale-amid-antitrust-merger-challenge?traffic_source=rss",
-      "published": "2026-08-12T18:23:59+00:00",
+      "headline": "11-year-old boy shot by Israeli forces in Gaza",
+      "excerpt": "The father of an 11-year-old boy says Israeli forces shot his son in the head and leg in Khan Younis.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/11-year-old-boy-shot-by-israeli-forces-in-gaza?traffic_source=rss",
+      "published": "2026-08-12T21:06:12+00:00",
       "featured": false
     },
     {
-      "id": "553550f02146",
+      "id": "3e43012545ad",
       "source": "404 Media",
-      "headline": "AI Generated 3D Models Flood Market, But Almost No One Is Buying Them",
-      "excerpt": "The number of AI generated uploads to CGTrader would suggest AI is taking over the platform, but buyers are refusing to pay for AI generated models.",
-      "link": "https://www.404media.co/ai-generated-3d-models-flood-market-but-almost-no-one-is-buying-them/",
-      "published": "2026-08-12T13:36:41+00:00",
+      "headline": "Researchers Show How Meta's 'Pervert Glasses' Are Used to Harass Women",
+      "excerpt": "A new study shows how pickup artist influencers use smart glasses to create content, and the connection between covert recording and harm.",
+      "link": "https://www.404media.co/meta-ray-ban-smart-glasses-pov-instagram-pickup-artists/",
+      "published": "2026-08-12T14:05:24+00:00",
+      "featured": false
+    },
+    {
+      "id": "1f4b327fe7cb",
+      "source": "The Intercept",
+      "headline": "“Total Whitewash”: New Pentagon Report Claims U.S. Killed No Civilians in Boat Strikes",
+      "excerpt": "Government officials told The Intercept the War Department’s latest civilian casualty report was “sickening” and a “joke.” The post “Total Whitewash”: New Pentagon Report Claims U.S. Killed No Civilians in Boat Strikes...",
+      "link": "https://theintercept.com/2026/08/11/war-department-civilian-casualties-boat-strikes-yemen/",
+      "published": "2026-08-11T19:51:08+00:00",
       "featured": false
     },
     {
@@ -353,15 +362,6 @@
       "featured": false
     },
     {
-      "id": "22674d473413",
-      "source": "The Intercept",
-      "headline": "Francesca Hong’s “Thanksgiving-Gate” Shows Her Detractors Are Totally Out of Ideas",
-      "excerpt": "Today’s Democratic gubernatorial primary in Wisconsin has featured increasingly desperate attacks against the frontrunner. The post Francesca Hong’s “Thanksgiving-Gate” Shows Her Detractors Are Totally Out of Ideas...",
-      "link": "https://theintercept.com/2026/08/11/francesca-hong-thanksgiving-wisconsin-governor/",
-      "published": "2026-08-11T12:03:27+00:00",
-      "featured": false
-    },
-    {
       "id": "47b35d69037e",
       "source": "ProPublica",
       "headline": "More Than Half the Homes in East Omaha Have Unsafe Lead Levels. That Doesn’t Mean the EPA Will Clean Them Up.",
@@ -389,12 +389,12 @@
       "featured": false
     },
     {
-      "id": "4cb97a0a9800",
+      "id": "4e0c3f7f18bc",
       "source": "More Perfect Union",
-      "headline": "Why Political Elites Are Terrified Of This Candidate",
-      "excerpt": "Watch now | The media claims Abdul El-Sayed can’t win in November. But is that narrative borne out on the ground?",
-      "link": "https://substack.perfectunion.us/p/why-political-elites-are-terrified",
-      "published": "2026-07-30T21:01:22+00:00",
+      "headline": "The DHS Ditched its Warehouse Plan for Prisons Conversions",
+      "excerpt": "GEO Group’s liabilities are now profit engines for Trump and his allies",
+      "link": "https://substack.perfectunion.us/p/the-dhs-ditched-its-warehouse-plan",
+      "published": "2026-07-31T15:09:00+00:00",
       "featured": false
     },
     {
@@ -407,21 +407,21 @@
       "featured": false
     },
     {
-      "id": "96f00c197e2f",
+      "id": "19bdffd8ed61",
       "source": "Al Jazeera",
-      "headline": "DR Congo Ebola outbreak set to become deadliest on record, WHO warns",
-      "excerpt": "Outbreak to eclipse West Africa's Ebola outbreak of 2014 to 2016 if it continues at current pace, WHO chief says.",
-      "link": "https://www.aljazeera.com/news/2026/8/12/dr-congo-ebola-outbreak-set-to-become-deadliest-on-record-who-warns?traffic_source=rss",
-      "published": "2026-08-12T18:23:25+00:00",
+      "headline": "Drone attacks on energy infrastructure deepen Libya’s energy crisis",
+      "excerpt": "Repeated drone strikes on oil and power infrastructure are deepening Libya's energy crisis.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/drone-attacks-on-energy-infrastructure-deepen-libyas-energy-crisis?traffic_source=rss",
+      "published": "2026-08-12T20:59:52+00:00",
       "featured": false
     },
     {
-      "id": "1daf2b427c07",
+      "id": "553550f02146",
       "source": "404 Media",
-      "headline": "The Government is Monitoring Anti-Flock TikTok and Instagram Accounts",
-      "excerpt": "Documents from law enforcement spy centers show the government is warning cops of \"extensive and ongoing chatter on social media\" about methods to \"physically destroy Flock LPR cameras.\"",
-      "link": "https://www.404media.co/the-government-is-monitoring-anti-flock-tiktok-and-instagram-accounts/",
-      "published": "2026-08-12T13:35:46+00:00",
+      "headline": "AI Generated 3D Models Flood Market, But Almost No One Is Buying Them",
+      "excerpt": "The number of AI generated uploads to CGTrader would suggest AI is taking over the platform, but buyers are refusing to pay for AI generated models.",
+      "link": "https://www.404media.co/ai-generated-3d-models-flood-market-but-almost-no-one-is-buying-them/",
+      "published": "2026-08-12T13:36:41+00:00",
       "featured": false
     },
     {
@@ -431,6 +431,15 @@
       "excerpt": "Drop Site Daily: August 11, 2026",
       "link": "https://www.dropsitenews.com/p/primaries-wisconsin-minnesota-israel-west-bank-attacks-libya-refinery",
       "published": "2026-08-11T16:13:25+00:00",
+      "featured": false
+    },
+    {
+      "id": "22674d473413",
+      "source": "The Intercept",
+      "headline": "Francesca Hong’s “Thanksgiving-Gate” Shows Her Detractors Are Totally Out of Ideas",
+      "excerpt": "Today’s Democratic gubernatorial primary in Wisconsin has featured increasingly desperate attacks against the frontrunner. The post Francesca Hong’s “Thanksgiving-Gate” Shows Her Detractors Are Totally Out of Ideas...",
+      "link": "https://theintercept.com/2026/08/11/francesca-hong-thanksgiving-wisconsin-governor/",
+      "published": "2026-08-11T12:03:27+00:00",
       "featured": false
     },
     {
@@ -449,15 +458,6 @@
       "excerpt": "Russell Vought rewires the government for a no-limits president.",
       "link": "https://www.levernews.com/the-kingmakers-ep-7-the-kings-man/",
       "published": "2026-08-11T08:15:07+00:00",
-      "featured": false
-    },
-    {
-      "id": "93ca6f042dd5",
-      "source": "The Intercept",
-      "headline": "The Pentagon’s Obsession With China Puts Hawai‘i at Risk",
-      "excerpt": "To prepare for a possible war with China, the U.S. military has put Hawai’i on the front lines of a potential nuclear conflict. The post The Pentagon’s Obsession With China Puts Hawai‘i at Risk appeared first on The...",
-      "link": "https://theintercept.com/2026/08/10/china-war-hawaii-military-cost-nuclear/",
-      "published": "2026-08-10T10:00:00+00:00",
       "featured": false
     },
     {
@@ -488,30 +488,30 @@
       "featured": false
     },
     {
-      "id": "3c375951e03d",
+      "id": "4cb97a0a9800",
       "source": "More Perfect Union",
-      "headline": "Why Latino Trump Voters Are At A Breaking Point",
-      "excerpt": "Latino voters in South Texas’s reddest district are turning on Trump. Now a Democrat could win them back.",
-      "link": "https://substack.perfectunion.us/p/why-latino-trump-voters-are-at-a",
-      "published": "2026-07-28T19:37:51+00:00",
+      "headline": "Why Political Elites Are Terrified Of This Candidate",
+      "excerpt": "Watch now | The media claims Abdul El-Sayed can’t win in November. But is that narrative borne out on the ground?",
+      "link": "https://substack.perfectunion.us/p/why-political-elites-are-terrified",
+      "published": "2026-07-30T21:01:22+00:00",
       "featured": false
     },
     {
-      "id": "3c4e25d3e037",
+      "id": "ef9cb9f1871a",
       "source": "Al Jazeera",
-      "headline": "Lebanese families demand release of detainees held by Israel",
-      "excerpt": "Lebanese families rallied in Beirut demanding answers about relatives detained by Israel.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/lebanese-families-demand-release-of-detainees-held-by-israel?traffic_source=rss",
-      "published": "2026-08-12T18:15:03+00:00",
+      "headline": "Israeli air strike kills one in northern Gaza",
+      "excerpt": "Strike on a tuk-tuk in Beit Lahiya kills one, wounds five in first Israeli aerial bombardment in a week",
+      "link": "https://www.aljazeera.com/news/2026/8/12/israeli-air-strike-kills-one-in-northern-gaza?traffic_source=rss",
+      "published": "2026-08-12T20:58:42+00:00",
       "featured": false
     },
     {
-      "id": "21b23944b448",
+      "id": "1daf2b427c07",
       "source": "404 Media",
-      "headline": "This Tool Unmasks the Shadowy World of Ads that Track Your Location",
-      "excerpt": "It's usually very difficult to investigate the advertising industry. A new tool called DecryptAds aims to make it much easier with a massive dataset anyone can query.",
-      "link": "https://www.404media.co/this-tool-unmasks-the-shadowy-world-of-ads-that-track-your-location/",
-      "published": "2026-08-12T12:49:12+00:00",
+      "headline": "The Government is Monitoring Anti-Flock TikTok and Instagram Accounts",
+      "excerpt": "Documents from law enforcement spy centers show the government is warning cops of \"extensive and ongoing chatter on social media\" about methods to \"physically destroy Flock LPR cameras.\"",
+      "link": "https://www.404media.co/the-government-is-monitoring-anti-flock-tiktok-and-instagram-accounts/",
+      "published": "2026-08-12T13:35:46+00:00",
       "featured": false
     },
     {
