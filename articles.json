@@ -1,13 +1,31 @@
 {
-  "generated_at": "2026-08-14T07:50:57.002180+00:00",
+  "generated_at": "2026-08-14T10:16:54.333561+00:00",
   "articles": [
     {
-      "id": "8dd189645d17",
+      "id": "76c1d96f1f1d",
+      "source": "The Intercept",
+      "headline": "Has the Left Really Met Its Limit?",
+      "excerpt": "David Sirota on Francesca Hong’s defeat, what it means for the insurgent left, and how the American presidency has consolidated king-like power. The post Has the Left Really Met Its Limit? appeared first on The...",
+      "link": "https://theintercept.com/2026/08/14/david-sirota-democratic-establishment/",
+      "published": "2026-08-14T10:00:00+00:00",
+      "featured": true
+    },
+    {
+      "id": "7f019c194600",
       "source": "Al Jazeera",
-      "headline": "Prichard Colon dies from boxing injury that resulted in 221-day coma",
-      "excerpt": "Prichard Colon suffered neurological damage that required emergency surgery following a boxing bout in 2015.",
-      "link": "https://www.aljazeera.com/sports/2026/8/14/boxer-prichard-colon-dies-from-brain-injury-that-resulted-in-221-day-coma?traffic_source=rss",
-      "published": "2026-08-14T07:11:26+00:00",
+      "headline": "New Zealand break ranks with Oceania as FIFA’s Infantino divide grows",
+      "excerpt": "Oceania have offered support to Gianni Infantino, but New Zealand have gone against their own confederation in FIFA row.",
+      "link": "https://www.aljazeera.com/sports/2026/8/14/new-zealand-break-ranks-with-oceania-as-fifas-infantino-divide-grows?traffic_source=rss",
+      "published": "2026-08-14T09:35:06+00:00",
+      "featured": true
+    },
+    {
+      "id": "e91762428f1b",
+      "source": "ProPublica",
+      "headline": "Wall Street’s Nonprofits Use Selective, Opaque Logic to Defund Charities",
+      "excerpt": "The post Wall Street’s Nonprofits Use Selective, Opaque Logic to Defund Charities appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/donor-advised-funds-charity-contributions",
+      "published": "2026-08-14T09:00:00+00:00",
       "featured": true
     },
     {
@@ -17,7 +35,7 @@
       "excerpt": "The allegations, which are at the heart of a confidential arbitration, signal an aggressive new stance by the Central Asian country toward longstanding international partners.",
       "link": "https://www.icij.org/investigations/caspian-cabals/kazakhstan-alleges-big-oil-corruption-tainted-10-7-billion-in-contracts-delayed-key-oil-project/",
       "published": "2026-08-14T05:08:39+00:00",
-      "featured": true
+      "featured": false
     },
     {
       "id": "38dd0c080fd0",
@@ -26,7 +44,7 @@
       "excerpt": "Democrats keep losing Florida. DSA-endorsed Oliver Larkin believes he knows why — and that his insurgent campaign against Rep. Jared Moskowitz can turn the tide.",
       "link": "https://www.levernews.com/this-bernie-organizer-is-coming-for-a-desantis-democrat/",
       "published": "2026-08-13T21:56:19+00:00",
-      "featured": true
+      "featured": false
     },
     {
       "id": "c23c7e956d1e",
@@ -65,24 +83,6 @@
       "featured": false
     },
     {
-      "id": "5c9408dbb792",
-      "source": "The Intercept",
-      "headline": "Israel Justified Its Wars by Calling Enemies “Crazy.” Now, the Warning Signs All Apply to Israel.",
-      "excerpt": "Benjamin Netanyahu shocked the world with violence in Gaza — then took an unhinged Israel to the mainstream. The post Israel Justified Its Wars by Calling Enemies “Crazy.” Now, the Warning Signs All Apply to Israel....",
-      "link": "https://theintercept.com/2026/08/13/israel-palestine-benjamin-netanyahu-likud-crazy/",
-      "published": "2026-08-13T09:57:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "ca1c3f31a8f1",
-      "source": "ProPublica",
-      "headline": "A Youth Sports Giant Promised Reforms to Protect Kids From Sexual Abuse. Most Never Happened.",
-      "excerpt": "The post A Youth Sports Giant Promised Reforms to Protect Kids From Sexual Abuse. Most Never Happened. appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/aau-youth-sports-sexual-abuse-failure-amateur-athletic-union",
-      "published": "2026-08-13T09:00:00+00:00",
-      "featured": false
-    },
-    {
       "id": "d6ff7788bec9",
       "source": "More Perfect Union",
       "headline": "The Data Center Secret in Trump’s Financial Disclosures",
@@ -110,12 +110,21 @@
       "featured": false
     },
     {
-      "id": "386c5dbe44ac",
+      "id": "498b6d8d2817",
       "source": "Al Jazeera",
-      "headline": "Nigel Farage defeats Count Binface to reclaim UK parliamentary seat",
-      "excerpt": "The Reform UK leader received 22,239 votes in the Clacton by-election, compared with 9,455 for Binface.",
-      "link": "https://www.aljazeera.com/news/2026/8/14/nigel-farage-defeats-count-binface-to-reclaim-uk-parliamentary-seat?traffic_source=rss",
-      "published": "2026-08-14T07:07:42+00:00",
+      "headline": "Russia says hit Ukrainian railway and port facilities in new strikes",
+      "excerpt": "Kyiv targets Baltic oil hub and warehouse near Moscow with drones.",
+      "link": "https://www.aljazeera.com/news/2026/8/14/russia-says-hit-ukrainian-railway-and-port-facilities-in-new-strikes?traffic_source=rss",
+      "published": "2026-08-14T09:28:03+00:00",
+      "featured": false
+    },
+    {
+      "id": "1a9d61f4c8de",
+      "source": "The Intercept",
+      "headline": "Cornell to Pro-Palestine Students Targeted by ICE: Come Back to the U.S. or Lose Funding",
+      "excerpt": "Momodou Taal and Amandla Thomas-Johnson were finishing their graduate degrees abroad because of targeting by the Trump administration. Cornell is ordering them back to campus. The post Cornell to Pro-Palestine Students...",
+      "link": "https://theintercept.com/2026/08/14/cornell-pro-palestine-student-targeting-ice/",
+      "published": "2026-08-14T09:00:00+00:00",
       "featured": false
     },
     {
@@ -155,12 +164,12 @@
       "featured": false
     },
     {
-      "id": "47d11a1bff8b",
-      "source": "The Intercept",
-      "headline": "Tennessee Plans Another Execution Despite Its Brutal Recent Mistakes",
-      "excerpt": "Despite a record of botched executions, three states including Tennessee plan to kill by lethal injection on Thursday. The post Tennessee Plans Another Execution Despite Its Brutal Recent Mistakes appeared first on The...",
-      "link": "https://theintercept.com/2026/08/12/tennessee-oklahoma-alabama-executions-anthony-darrell-hines-carlos-cuesta-rodriguez-jeremy-williams/",
-      "published": "2026-08-13T00:09:09+00:00",
+      "id": "ca1c3f31a8f1",
+      "source": "ProPublica",
+      "headline": "A Youth Sports Giant Promised Reforms to Protect Kids From Sexual Abuse. Most Never Happened.",
+      "excerpt": "The post A Youth Sports Giant Promised Reforms to Protect Kids From Sexual Abuse. Most Never Happened. appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/aau-youth-sports-sexual-abuse-failure-amateur-athletic-union",
+      "published": "2026-08-13T09:00:00+00:00",
       "featured": false
     },
     {
@@ -170,15 +179,6 @@
       "excerpt": "We went to the drought-stricken West, where farmers now have to fight AI oligarchs for water.",
       "link": "https://substack.perfectunion.us/p/everyone-is-fighting-about-the-wrong",
       "published": "2026-08-12T20:42:54+00:00",
-      "featured": false
-    },
-    {
-      "id": "4bef45dceec0",
-      "source": "ProPublica",
-      "headline": "Fiasco in the Factory: Taxpayers Funded a $533 Million Artillery Plant That Made Nothing",
-      "excerpt": "The post Fiasco in the Factory: Taxpayers Funded a $533 Million Artillery Plant That Made Nothing appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/general-dynamics-artillery-factory-failed",
-      "published": "2026-08-12T10:00:00+00:00",
       "featured": false
     },
     {
@@ -209,12 +209,12 @@
       "featured": false
     },
     {
-      "id": "daa48d0e69bc",
+      "id": "703bc37bcf83",
       "source": "Al Jazeera",
-      "headline": "Flock adds safeguards to licence-plate readers after wave of stalking cases",
-      "excerpt": "US firm tightens oversight of automatic licence-plate readers after reports of misuse by police officers.",
-      "link": "https://www.aljazeera.com/news/2026/8/14/flock-adds-safeguards-to-licence-plate-readers-after-wave-of-stalking-cases?traffic_source=rss",
-      "published": "2026-08-14T06:22:41+00:00",
+      "headline": "Swiatek defeats Rybakina to claim Canadian Open title​",
+      "excerpt": "Six-time Grand Slam champion Iga Swiatek defeats Elena Rybakina in Toronto to claim the WTA Canadian Open title.",
+      "link": "https://www.aljazeera.com/sports/2026/8/14/swiatek-defeats-rybakina-to-claim-canadian-open?traffic_source=rss",
+      "published": "2026-08-14T09:26:54+00:00",
       "featured": false
     },
     {
@@ -227,12 +227,12 @@
       "featured": false
     },
     {
-      "id": "7aaa7448ee9a",
+      "id": "5c9408dbb792",
       "source": "The Intercept",
-      "headline": "Francesca Hong’s Loss in Wisconsin is a Win for AI Data Centers — for Now",
-      "excerpt": "Though the democratic socialist was defeated, the fight against the data centers she opposed isn’t going anywhere. The post Francesca Hong’s Loss in Wisconsin is a Win for AI Data Centers — for Now appeared first on The...",
-      "link": "https://theintercept.com/2026/08/12/francesca-hong-wisconsin-governor-data-centers/",
-      "published": "2026-08-12T21:25:10+00:00",
+      "headline": "Israel Justified Its Wars by Calling Enemies “Crazy.” Now, the Warning Signs All Apply to Israel.",
+      "excerpt": "Benjamin Netanyahu shocked the world with violence in Gaza — then took an unhinged Israel to the mainstream. The post Israel Justified Its Wars by Calling Enemies “Crazy.” Now, the Warning Signs All Apply to Israel....",
+      "link": "https://theintercept.com/2026/08/13/israel-palestine-benjamin-netanyahu-likud-crazy/",
+      "published": "2026-08-13T09:57:00+00:00",
       "featured": false
     },
     {
@@ -263,12 +263,12 @@
       "featured": false
     },
     {
-      "id": "250d7ba37f46",
+      "id": "4bef45dceec0",
       "source": "ProPublica",
-      "headline": "“They’re Putting Kids’ Lives at Risk”: How Abuse in a Tennessee Businessman’s Juvenile Prisons Remained Under Wraps",
-      "excerpt": "The post “They’re Putting Kids’ Lives at Risk”: How Abuse in a Tennessee Businessman’s Juvenile Prisons Remained Under Wraps appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/wayne-halfway-house-jason-crews-tennessee",
-      "published": "2026-08-12T09:00:00+00:00",
+      "headline": "Fiasco in the Factory: Taxpayers Funded a $533 Million Artillery Plant That Made Nothing",
+      "excerpt": "The post Fiasco in the Factory: Taxpayers Funded a $533 Million Artillery Plant That Made Nothing appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/general-dynamics-artillery-factory-failed",
+      "published": "2026-08-12T10:00:00+00:00",
       "featured": false
     },
     {
@@ -308,12 +308,21 @@
       "featured": false
     },
     {
-      "id": "288a2313f817",
+      "id": "e1cb11fd53d8",
       "source": "Al Jazeera",
-      "headline": "North Korea fumes over upcoming US-South Korea military drills",
-      "excerpt": "Pyongyang has accused the US of pushing the world 'to the brink of nuclear war'.",
-      "link": "https://www.aljazeera.com/news/2026/8/14/north-korea-fumes-over-upcoming-us-south-korea-military-drills?traffic_source=rss",
-      "published": "2026-08-14T05:40:45+00:00",
+      "headline": "UK far-right leader Farage re-elected in boycotted by-election",
+      "excerpt": "Nigel Farage re-elected in Clacton by-election after resigning amid scrutiny over his finances.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/14/uk-far-right-leader-farage-re-elected-in-boycotted-by-election?traffic_source=rss",
+      "published": "2026-08-14T09:24:24+00:00",
+      "featured": false
+    },
+    {
+      "id": "47d11a1bff8b",
+      "source": "The Intercept",
+      "headline": "Tennessee Plans Another Execution Despite Its Brutal Recent Mistakes",
+      "excerpt": "Despite a record of botched executions, three states including Tennessee plan to kill by lethal injection on Thursday. The post Tennessee Plans Another Execution Despite Its Brutal Recent Mistakes appeared first on The...",
+      "link": "https://theintercept.com/2026/08/12/tennessee-oklahoma-alabama-executions-anthony-darrell-hines-carlos-cuesta-rodriguez-jeremy-williams/",
+      "published": "2026-08-13T00:09:09+00:00",
       "featured": false
     },
     {
@@ -353,21 +362,12 @@
       "featured": false
     },
     {
-      "id": "783379b2d9f1",
-      "source": "The Intercept",
-      "headline": "The Intercept Sues Trump for Selling Premium Access to Truth Social Announcements",
-      "excerpt": "A lawsuit filed with the Freedom of the Press Foundation argues the president is restricting First Amendment-protected information in a scheme to enrich himself. The post The Intercept Sues Trump for Selling Premium...",
-      "link": "https://theintercept.com/2026/08/12/trump-media-truthsocial-premium-first-amendment/",
-      "published": "2026-08-12T14:48:01+00:00",
-      "featured": false
-    },
-    {
-      "id": "eef7c3230f45",
+      "id": "250d7ba37f46",
       "source": "ProPublica",
-      "headline": "Is There Anyone Who Can Respond to My FOIA Requests? Anyone?",
-      "excerpt": "The post Is There Anyone Who Can Respond to My FOIA Requests? Anyone? appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/foia-requests-responses",
-      "published": "2026-08-11T09:00:00+00:00",
+      "headline": "“They’re Putting Kids’ Lives at Risk”: How Abuse in a Tennessee Businessman’s Juvenile Prisons Remained Under Wraps",
+      "excerpt": "The post “They’re Putting Kids’ Lives at Risk”: How Abuse in a Tennessee Businessman’s Juvenile Prisons Remained Under Wraps appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/wayne-halfway-house-jason-crews-tennessee",
+      "published": "2026-08-12T09:00:00+00:00",
       "featured": false
     },
     {
@@ -407,12 +407,21 @@
       "featured": false
     },
     {
-      "id": "a48cb1514406",
+      "id": "e8605dbe41f1",
       "source": "Al Jazeera",
-      "headline": "Fear and attacks grip Taybeh, the last all-Christian town in the West Bank",
-      "excerpt": "Historic Taybeh, a Palestinian Christian town in the occupied West Bank, targeted by settlers in coordinated attacks.",
-      "link": "https://www.aljazeera.com/features/2026/8/14/fear-and-attacks-grip-taybeh-the-last-all-christian-town-in-the-west-bank?traffic_source=rss",
-      "published": "2026-08-14T05:08:32+00:00",
+      "headline": "La Liga: Barcelona key talking points heading into new 2026-27 season",
+      "excerpt": "Barcelona will aim to become the first club to three-peat in the Spain Primera Division since 2008-11 Pep Guardiola era.",
+      "link": "https://www.aljazeera.com/sports/2026/8/14/la-liga-barcelona-key-talking-points-heading-into-new-2026-27-season?traffic_source=rss",
+      "published": "2026-08-14T09:20:37+00:00",
+      "featured": false
+    },
+    {
+      "id": "7aaa7448ee9a",
+      "source": "The Intercept",
+      "headline": "Francesca Hong’s Loss in Wisconsin is a Win for AI Data Centers — for Now",
+      "excerpt": "Though the democratic socialist was defeated, the fight against the data centers she opposed isn’t going anywhere. The post Francesca Hong’s Loss in Wisconsin is a Win for AI Data Centers — for Now appeared first on The...",
+      "link": "https://theintercept.com/2026/08/12/francesca-hong-wisconsin-governor-data-centers/",
+      "published": "2026-08-12T21:25:10+00:00",
       "featured": false
     },
     {
@@ -443,15 +452,6 @@
       "featured": false
     },
     {
-      "id": "d2b27ac2b3f6",
-      "source": "The Intercept",
-      "headline": "No, AOC: “Woke” Wasn’t “Crazy” the Way You Say It Was",
-      "excerpt": "Protesting George Floyd’s murder wasn’t the “crazy” part. Centrist Dems selling out was. The post No, AOC: “Woke” Wasn’t “Crazy” the Way You Say It Was appeared first on The Intercept.",
-      "link": "https://theintercept.com/2026/08/11/alexandria-ocasio-cortex-woke-one-crazy/",
-      "published": "2026-08-11T21:24:42+00:00",
-      "featured": false
-    },
-    {
       "id": "d59ae39ac1a9",
       "source": "The Lever",
       "headline": "ICE’s $2.2 Billion Prison Buy-Up",
@@ -461,12 +461,12 @@
       "featured": false
     },
     {
-      "id": "47b35d69037e",
+      "id": "eef7c3230f45",
       "source": "ProPublica",
-      "headline": "More Than Half the Homes in East Omaha Have Unsafe Lead Levels. That Doesn’t Mean the EPA Will Clean Them Up.",
-      "excerpt": "The post More Than Half the Homes in East Omaha Have Unsafe Lead Levels. That Doesn’t Mean the EPA Will Clean Them Up. appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/lead-remediation-epa-standards-omaha-nebraska",
-      "published": "2026-08-10T09:00:00+00:00",
+      "headline": "Is There Anyone Who Can Respond to My FOIA Requests? Anyone?",
+      "excerpt": "The post Is There Anyone Who Can Respond to My FOIA Requests? Anyone? appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/foia-requests-responses",
+      "published": "2026-08-11T09:00:00+00:00",
       "featured": false
     },
     {
@@ -497,12 +497,21 @@
       "featured": false
     },
     {
-      "id": "39fc5625f372",
+      "id": "fa3870fe77e3",
       "source": "Al Jazeera",
-      "headline": "Record rainfall leaves four dead, thousands stranded in Japan",
-      "excerpt": "Record rainfall in Chiba claims lives as more than 22,000 households without power on busy Bon Buddhist holiday week.",
-      "link": "https://www.aljazeera.com/news/2026/8/14/record-rainfall-leaves-four-dead-thousands-stranded-in-japan?traffic_source=rss",
-      "published": "2026-08-14T05:02:19+00:00",
+      "headline": "A year after student protests that shook Valjevo: Serbia at a crossroads",
+      "excerpt": "Protests that erupted after railway station canopy collapsed, killing 16, have grown into a broad social movement.",
+      "link": "https://www.aljazeera.com/news/2026/8/14/a-year-after-the-violence-in-serbias-valjevo-at-a-crossroads?traffic_source=rss",
+      "published": "2026-08-14T09:18:25+00:00",
+      "featured": false
+    },
+    {
+      "id": "783379b2d9f1",
+      "source": "The Intercept",
+      "headline": "The Intercept Sues Trump for Selling Premium Access to Truth Social Announcements",
+      "excerpt": "A lawsuit filed with the Freedom of the Press Foundation argues the president is restricting First Amendment-protected information in a scheme to enrich himself. The post The Intercept Sues Trump for Selling Premium...",
+      "link": "https://theintercept.com/2026/08/12/trump-media-truthsocial-premium-first-amendment/",
+      "published": "2026-08-12T14:48:01+00:00",
       "featured": false
     },
     {
@@ -521,15 +530,6 @@
       "excerpt": "Iraqi Prime Minister Ali al-Zaidi declares “there are no red lines in pursuing the corrupt” after arrest warrants issued for a key leader in his political coalition.",
       "link": "https://www.occrp.org/en/news/iraq-pms-anti-corruption-campaign-rumbles-on",
       "published": "2026-08-12T13:32:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "1f4b327fe7cb",
-      "source": "The Intercept",
-      "headline": "“Total Whitewash”: New Pentagon Report Claims U.S. Killed No Civilians in Boat Strikes",
-      "excerpt": "Government officials told The Intercept the War Department’s latest civilian casualty report was “sickening” and a “joke.” The post “Total Whitewash”: New Pentagon Report Claims U.S. Killed No Civilians in Boat Strikes...",
-      "link": "https://theintercept.com/2026/08/11/war-department-civilian-casualties-boat-strikes-yemen/",
-      "published": "2026-08-11T19:51:08+00:00",
       "featured": false
     },
     {
