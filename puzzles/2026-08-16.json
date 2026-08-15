@@ -1,0 +1,1290 @@
+{
+  "generated_at": "2026-08-15T21:12:26.565932+00:00",
+  "date": "2026-08-16",
+  "theme": "Sports Arena",
+  "word_search": {
+    "size": 14,
+    "grid": [
+      [
+        "A",
+        "L",
+        "Y",
+        "V",
+        "D",
+        "D",
+        "B",
+        "F",
+        "P",
+        "W",
+        "V",
+        "R",
+        "Y",
+        "G"
+      ],
+      [
+        "R",
+        "U",
+        "T",
+        "D",
+        "D",
+        "R",
+        "A",
+        "O",
+        "B",
+        "E",
+        "R",
+        "O",
+        "C",
+        "S"
+      ],
+      [
+        "S",
+        "T",
+        "R",
+        "O",
+        "P",
+        "H",
+        "Y",
+        "K",
+        "M",
+        "P",
+        "A",
+        "Q",
+        "T",
+        "K"
+      ],
+      [
+        "N",
+        "S",
+        "B",
+        "L",
+        "E",
+        "A",
+        "C",
+        "H",
+        "E",
+        "R",
+        "S",
+        "A",
+        "W",
+        "H"
+      ],
+      [
+        "Q",
+        "R",
+        "Y",
+        "L",
+        "X",
+        "J",
+        "H",
+        "E",
+        "B",
+        "H",
+        "D",
+        "Q",
+        "A",
+        "M"
+      ],
+      [
+        "S",
+        "V",
+        "M",
+        "U",
+        "I",
+        "D",
+        "A",
+        "T",
+        "S",
+        "I",
+        "P",
+        "L",
+        "K",
+        "M"
+      ],
+      [
+        "O",
+        "K",
+        "J",
+        "I",
+        "X",
+        "A",
+        "W",
+        "U",
+        "U",
+        "J",
+        "F",
+        "R",
+        "N",
+        "M"
+      ],
+      [
+        "E",
+        "O",
+        "V",
+        "E",
+        "R",
+        "T",
+        "I",
+        "M",
+        "E",
+        "T",
+        "W",
+        "E",
+        "A",
+        "A"
+      ],
+      [
+        "S",
+        "E",
+        "C",
+        "S",
+        "M",
+        "H",
+        "L",
+        "Y",
+        "I",
+        "Y",
+        "J",
+        "S",
+        "S",
+        "M"
+      ],
+      [
+        "N",
+        "H",
+        "R",
+        "R",
+        "M",
+        "I",
+        "E",
+        "M",
+        "E",
+        "Z",
+        "C",
+        "N",
+        "K",
+        "Q"
+      ],
+      [
+        "E",
+        "T",
+        "I",
+        "E",
+        "G",
+        "C",
+        "E",
+        "S",
+        "R",
+        "O",
+        "A",
+        "E",
+        "O",
+        "H"
+      ],
+      [
+        "F",
+        "G",
+        "D",
+        "H",
+        "F",
+        "P",
+        "R",
+        "L",
+        "T",
+        "E",
+        "J",
+        "F",
+        "Z",
+        "G"
+      ],
+      [
+        "E",
+        "Z",
+        "T",
+        "K",
+        "L",
+        "E",
+        "Y",
+        "X",
+        "T",
+        "A",
+        "K",
+        "F",
+        "P",
+        "C"
+      ],
+      [
+        "D",
+        "S",
+        "U",
+        "W",
+        "J",
+        "E",
+        "R",
+        "Q",
+        "H",
+        "S",
+        "O",
+        "O",
+        "R",
+        "J"
+      ]
+    ],
+    "words": [
+      "STADIUMLIGHTS",
+      "SCOREBOARD",
+      "BLEACHERS",
+      "OVERTIME",
+      "HALFTIME",
+      "DEFENSE",
+      "OFFENSE",
+      "STADIUM",
+      "REFEREE",
+      "JERSEY",
+      "TROPHY",
+      "MASCOT"
+    ]
+  },
+  "crossword": {
+    "width": 21,
+    "height": 23,
+    "grid": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "letter": "T",
+          "number": 1
+        },
+        {
+          "letter": "R",
+          "number": 2
+        },
+        {
+          "letter": "O",
+          "number": null
+        },
+        {
+          "letter": "P",
+          "number": null
+        },
+        {
+          "letter": "H",
+          "number": null
+        },
+        {
+          "letter": "Y",
+          "number": null
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "letter": "E",
+          "number": null
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "letter": "D",
+          "number": 3
+        },
+        {
+          "letter": "E",
+          "number": null
+        },
+        {
+          "letter": "F",
+          "number": null
+        },
+        {
+          "letter": "E",
+          "number": null
+        },
+        {
+          "letter": "N",
+          "number": null
+        },
+        {
+          "letter": "S",
+          "number": 4
+        },
+        {
+          "letter": "E",
+          "number": null
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "letter": "E",
+          "number": null
+        },
+        null,
+        null,
+        {
+          "letter": "T",
+          "number": null
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "letter": "R",
+          "number": null
+        },
+        null,
+        null,
+        {
+          "letter": "A",
+          "number": null
+        },
+        null,
+        null,
+        {
+          "letter": "T",
+          "number": 5
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        {
+          "letter": "S",
+          "number": 6
+        },
+        null,
+        null,
+        {
+          "letter": "E",
+          "number": null
+        },
+        null,
+        null,
+        {
+          "letter": "D",
+          "number": null
+        },
+        null,
+        null,
+        {
+          "letter": "I",
+          "number": null
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        {
+          "letter": "O",
+          "number": 7
+        },
+        {
+          "letter": "V",
+          "number": null
+        },
+        {
+          "letter": "E",
+          "number": null
+        },
+        {
+          "letter": "R",
+          "number": null
+        },
+        {
+          "letter": "T",
+          "number": null
+        },
+        {
+          "letter": "I",
+          "number": null
+        },
+        {
+          "letter": "M",
+          "number": null
+        },
+        {
+          "letter": "E",
+          "number": null
+        },
+        null,
+        null,
+        {
+          "letter": "I",
+          "number": null
+        },
+        null,
+        null,
+        {
+          "letter": "M",
+          "number": null
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        {
+          "letter": "A",
+          "number": null
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "letter": "U",
+          "number": null
+        },
+        null,
+        null,
+        {
+          "letter": "E",
+          "number": null
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        {
+          "letter": "N",
+          "number": null
+        },
+        null,
+        null,
+        {
+          "letter": "C",
+          "number": 8
+        },
+        {
+          "letter": "H",
+          "number": 9
+        },
+        {
+          "letter": "A",
+          "number": null
+        },
+        {
+          "letter": "M",
+          "number": null
+        },
+        {
+          "letter": "P",
+          "number": null
+        },
+        {
+          "letter": "I",
+          "number": null
+        },
+        {
+          "letter": "O",
+          "number": null
+        },
+        {
+          "letter": "N",
+          "number": null
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        {
+          "letter": "D",
+          "number": null
+        },
+        null,
+        null,
+        null,
+        {
+          "letter": "A",
+          "number": null
+        },
+        null,
+        null,
+        null,
+        null,
+        {
+          "letter": "U",
+          "number": null
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        {
+          "letter": "I",
+          "number": null
+        },
+        null,
+        {
+          "letter": "P",
+          "number": 10
+        },
+        null,
+        {
+          "letter": "L",
+          "number": null
+        },
+        null,
+        null,
+        null,
+        null,
+        {
+          "letter": "T",
+          "number": null
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        {
+          "letter": "O",
+          "number": 11
+        },
+        {
+          "letter": "F",
+          "number": null
+        },
+        {
+          "letter": "F",
+          "number": null
+        },
+        {
+          "letter": "E",
+          "number": null
+        },
+        {
+          "letter": "N",
+          "number": null
+        },
+        {
+          "letter": "S",
+          "number": null
+        },
+        {
+          "letter": "E",
+          "number": null
+        },
+        null,
+        {
+          "letter": "F",
+          "number": null
+        },
+        null,
+        null,
+        null,
+        {
+          "letter": "T",
+          "number": 12
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        {
+          "letter": "G",
+          "number": null
+        },
+        null,
+        {
+          "letter": "N",
+          "number": null
+        },
+        null,
+        {
+          "letter": "T",
+          "number": null
+        },
+        null,
+        null,
+        null,
+        {
+          "letter": "A",
+          "number": null
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        {
+          "letter": "S",
+          "number": 13
+        },
+        {
+          "letter": "T",
+          "number": null
+        },
+        {
+          "letter": "A",
+          "number": null
+        },
+        {
+          "letter": "D",
+          "number": null
+        },
+        {
+          "letter": "I",
+          "number": null
+        },
+        {
+          "letter": "U",
+          "number": null
+        },
+        {
+          "letter": "M",
+          "number": null
+        },
+        {
+          "letter": "L",
+          "number": null
+        },
+        {
+          "letter": "I",
+          "number": null
+        },
+        {
+          "letter": "G",
+          "number": null
+        },
+        {
+          "letter": "H",
+          "number": null
+        },
+        {
+          "letter": "T",
+          "number": null
+        },
+        {
+          "letter": "S",
+          "number": 14
+        },
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "letter": "L",
+          "number": null
+        },
+        null,
+        {
+          "letter": "M",
+          "number": null
+        },
+        null,
+        null,
+        null,
+        {
+          "letter": "L",
+          "number": null
+        },
+        null,
+        null,
+        null,
+        {
+          "letter": "C",
+          "number": null
+        },
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        {
+          "letter": "W",
+          "number": 15
+        },
+        {
+          "letter": "H",
+          "number": null
+        },
+        {
+          "letter": "I",
+          "number": null
+        },
+        {
+          "letter": "S",
+          "number": null
+        },
+        {
+          "letter": "T",
+          "number": null
+        },
+        {
+          "letter": "L",
+          "number": null
+        },
+        {
+          "letter": "E",
+          "number": null
+        },
+        null,
+        null,
+        null,
+        {
+          "letter": "G",
+          "number": null
+        },
+        null,
+        null,
+        null,
+        {
+          "letter": "O",
+          "number": null
+        },
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "letter": "Y",
+          "number": null
+        },
+        null,
+        null,
+        {
+          "letter": "B",
+          "number": 16
+        },
+        {
+          "letter": "L",
+          "number": null
+        },
+        {
+          "letter": "E",
+          "number": null
+        },
+        {
+          "letter": "A",
+          "number": null
+        },
+        {
+          "letter": "C",
+          "number": null
+        },
+        {
+          "letter": "H",
+          "number": null
+        },
+        {
+          "letter": "E",
+          "number": null
+        },
+        {
+          "letter": "R",
+          "number": null
+        },
+        {
+          "letter": "S",
+          "number": null
+        },
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "letter": "T",
+          "number": null
+        },
+        null,
+        null,
+        null,
+        {
+          "letter": "E",
+          "number": null
+        },
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "letter": "J",
+          "number": 17
+        },
+        {
+          "letter": "E",
+          "number": null
+        },
+        {
+          "letter": "R",
+          "number": null
+        },
+        {
+          "letter": "S",
+          "number": null
+        },
+        {
+          "letter": "E",
+          "number": null
+        },
+        {
+          "letter": "Y",
+          "number": null
+        },
+        null,
+        null,
+        {
+          "letter": "B",
+          "number": null
+        },
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "letter": "O",
+          "number": null
+        },
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "letter": "M",
+          "number": 18
+        },
+        {
+          "letter": "A",
+          "number": null
+        },
+        {
+          "letter": "S",
+          "number": null
+        },
+        {
+          "letter": "C",
+          "number": null
+        },
+        {
+          "letter": "O",
+          "number": null
+        },
+        {
+          "letter": "T",
+          "number": null
+        }
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "letter": "R",
+          "number": null
+        },
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "letter": "D",
+          "number": null
+        },
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "across": [
+      {
+        "number": 1,
+        "clue": "Prize for the winner",
+        "answer": "TROPHY",
+        "row": 0,
+        "col": 6,
+        "length": 6
+      },
+      {
+        "number": 3,
+        "clue": "Side trying to stop scoring",
+        "answer": "DEFENSE",
+        "row": 2,
+        "col": 5,
+        "length": 7
+      },
+      {
+        "number": 7,
+        "clue": "Extra play to break a tie",
+        "answer": "OVERTIME",
+        "row": 6,
+        "col": 0,
+        "length": 8
+      },
+      {
+        "number": 8,
+        "clue": "The top competitor",
+        "answer": "CHAMPION",
+        "row": 8,
+        "col": 7,
+        "length": 8
+      },
+      {
+        "number": 11,
+        "clue": "Side trying to score",
+        "answer": "OFFENSE",
+        "row": 11,
+        "col": 0,
+        "length": 7
+      },
+      {
+        "number": 13,
+        "clue": "Bright lamps over the field",
+        "answer": "STADIUMLIGHTS",
+        "row": 13,
+        "col": 4,
+        "length": 13
+      },
+      {
+        "number": 15,
+        "clue": "Sound that stops play",
+        "answer": "WHISTLE",
+        "row": 15,
+        "col": 2,
+        "length": 7
+      },
+      {
+        "number": 16,
+        "clue": "Tiered seats for fans",
+        "answer": "BLEACHERS",
+        "row": 16,
+        "col": 9,
+        "length": 9
+      },
+      {
+        "number": 17,
+        "clue": "Shirt worn by a player",
+        "answer": "JERSEY",
+        "row": 18,
+        "col": 8,
+        "length": 6
+      },
+      {
+        "number": 18,
+        "clue": "Costumed team symbol",
+        "answer": "MASCOT",
+        "row": 20,
+        "col": 15,
+        "length": 6
+      }
+    ],
+    "down": [
+      {
+        "number": 2,
+        "clue": "Official who calls the game",
+        "answer": "REFEREE",
+        "row": 0,
+        "col": 7,
+        "length": 7
+      },
+      {
+        "number": 4,
+        "clue": "Large venue for games",
+        "answer": "STADIUM",
+        "row": 2,
+        "col": 10,
+        "length": 7
+      },
+      {
+        "number": 5,
+        "clue": "A short pause in play",
+        "answer": "TIMEOUT",
+        "row": 4,
+        "col": 13,
+        "length": 7
+      },
+      {
+        "number": 6,
+        "clue": "Ranking of the teams",
+        "answer": "STANDINGS",
+        "row": 5,
+        "col": 4,
+        "length": 9
+      },
+      {
+        "number": 9,
+        "clue": "Break in the middle of a game",
+        "answer": "HALFTIME",
+        "row": 8,
+        "col": 8,
+        "length": 8
+      },
+      {
+        "number": 10,
+        "clue": "Punishment for breaking a rule",
+        "answer": "PENALTY",
+        "row": 10,
+        "col": 6,
+        "length": 7
+      },
+      {
+        "number": 12,
+        "clue": "Party in a stadium lot",
+        "answer": "TAILGATE",
+        "row": 11,
+        "col": 12,
+        "length": 8
+      },
+      {
+        "number": 14,
+        "clue": "Display of the game's score",
+        "answer": "SCOREBOARD",
+        "row": 13,
+        "col": 16,
+        "length": 10
+      }
+    ],
+    "placed_count": 18,
+    "skipped": []
+  }
+}
