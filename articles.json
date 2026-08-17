@@ -1,6 +1,33 @@
 {
-  "generated_at": "2026-08-17T15:41:04.587260+00:00",
+  "generated_at": "2026-08-17T18:58:04.331286+00:00",
   "articles": [
+    {
+      "id": "a528eff4cade",
+      "source": "Al Jazeera",
+      "headline": "Russian politician sentenced to 11 years for opposing war in Ukraine",
+      "excerpt": "Lev Shlosberg, a senior member of the Yabloko party, was sentenced to 11 years and one month in prison on Monday.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/russian-politician-sentenced-to-11-years-for-opposing-war-in-ukraine?traffic_source=rss",
+      "published": "2026-08-17T18:53:06+00:00",
+      "featured": true
+    },
+    {
+      "id": "1d17dc223f98",
+      "source": "The Lever",
+      "headline": "Consumers Frozen Out Of Tariff Refund Bonanza",
+      "excerpt": "Refunds from Trump’s Liberation Day tariffs are boosting corporate quarterly earnings, while Consumers who paid the tariffs are shut out.",
+      "link": "https://www.levernews.com/consumers-frozen-out-of-tariff-refund-bonanza/",
+      "published": "2026-08-17T17:43:15+00:00",
+      "featured": true
+    },
+    {
+      "id": "3c09aeb3efb2",
+      "source": "OCCRP",
+      "headline": "Fiji Hands Over a Man Suspected of Ponzi-style Crypto Investment Schemes to US",
+      "excerpt": "Following regulatory crackdowns in the U.S. and an arrest in the Netherlands, Edward Zimbardi was handed over to American authorities to face scrutiny over his alleged digital asset frauds.",
+      "link": "https://www.occrp.org/en/news/fiji-hands-over-a-man-suspected-of-ponzi-style-crypto-investment-schemes-to-us",
+      "published": "2026-08-17T16:33:00+00:00",
+      "featured": true
+    },
     {
       "id": "410926238f3b",
       "source": "Dropsite News",
@@ -8,16 +35,7 @@
       "excerpt": "Drop Site Daily: August 17, 2026",
       "link": "https://www.dropsitenews.com/p/us-iran-memorandum-expires-israel-lebanon-strikes-democrats-ice-abolish",
       "published": "2026-08-17T15:14:51+00:00",
-      "featured": true
-    },
-    {
-      "id": "b697ce24e023",
-      "source": "Al Jazeera",
-      "headline": "Police execute controlled World War II–era Mine explosion",
-      "excerpt": "Video footage released by police on Sunday shows Slovak bomb disposal experts executing a mine detonation.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/police-execute-controlled-world-war-ii-era-mine?traffic_source=rss",
-      "published": "2026-08-17T15:08:17+00:00",
-      "featured": true
+      "featured": false
     },
     {
       "id": "b25d96757340",
@@ -26,7 +44,7 @@
       "excerpt": "ChatGPT prompts show how an expert witness report was created in a $61 million lawsuit over an explosion that killed three people.",
       "link": "https://www.404media.co/show-how-3m-is-0-at-fault-expert-witness-used-chatgpt-to-write-report-defending-company-in-deadly-explosion-lawsuit/",
       "published": "2026-08-17T14:56:24+00:00",
-      "featured": true
+      "featured": false
     },
     {
       "id": "904375728bfa",
@@ -56,15 +74,6 @@
       "featured": false
     },
     {
-      "id": "54037e6c9df0",
-      "source": "The Lever",
-      "headline": "Hakeem Jeffries’ Betrayal Shows Why Democratic Voters Are So Enraged",
-      "excerpt": "House Dems’ leader declared his opposition to Medicare For All on the same day a new poll shows almost all Democratic voters support it.",
-      "link": "https://www.levernews.com/hakeem-jeffries-betrayal-shows-why-democratic-voters-are-so-enraged/",
-      "published": "2026-08-17T07:01:16+00:00",
-      "featured": false
-    },
-    {
       "id": "c05386da40a0",
       "source": "More Perfect Union",
       "headline": "We Uncovered Where Your Insurance Payments Are Really Going",
@@ -80,15 +89,6 @@
       "excerpt": "The allegations, which are at the heart of a confidential arbitration, signal an aggressive new stance by the Central Asian country toward longstanding international partners.",
       "link": "https://www.icij.org/investigations/caspian-cabals/kazakhstan-alleges-big-oil-corruption-tainted-10-7-billion-in-contracts-delayed-key-oil-project/",
       "published": "2026-08-14T05:08:39+00:00",
-      "featured": false
-    },
-    {
-      "id": "c23c7e956d1e",
-      "source": "OCCRP",
-      "headline": "Former U.S. Banker Jailed for Laundering Medicare Funds",
-      "excerpt": "A former Brooklyn bank manager was sentenced to 18 months in prison for helping a transnational criminal organization launder more than $8 million obtained through health care fraud.",
-      "link": "https://www.occrp.org/en/news/former-us-banker-jailed-for-laundering-medicare-funds",
-      "published": "2026-08-13T21:40:00+00:00",
       "featured": false
     },
     {
@@ -110,12 +110,21 @@
       "featured": false
     },
     {
-      "id": "d9d7ce057a13",
+      "id": "f4ae8cc92b8c",
       "source": "Al Jazeera",
-      "headline": "Trump demands Iran ‘put up the white flag of surrender’ as MoU expires",
-      "excerpt": "President also claims US is in direct contact with IRGC, denies a rush to end conflict ahead of November's US midterms.",
-      "link": "https://www.aljazeera.com/news/2026/8/17/trump-demands-iran-put-up-the-white-flag-of-surrender-as-mou-expires?traffic_source=rss",
-      "published": "2026-08-17T15:06:14+00:00",
+      "headline": "Russia maintains election ban on opposition Yabloko, jails deputy head",
+      "excerpt": "Supreme Court ruling supports Kremlin's clampdown on the political party ahead of September's parliamentary vote.",
+      "link": "https://www.aljazeera.com/news/2026/8/17/russia-maintains-election-ban-on-opposition-yabloko-jails-deputy-head?traffic_source=rss",
+      "published": "2026-08-17T18:46:12+00:00",
+      "featured": false
+    },
+    {
+      "id": "fa09fb7e2d3b",
+      "source": "OCCRP",
+      "headline": "Spain Seizes 13 Tonnes of Nitrous Oxide in Tenerife",
+      "excerpt": "",
+      "link": "https://www.occrp.org/en/news/spain-seizes-13-tonnes-of-nitrous-oxide-in-tenerife",
+      "published": "2026-08-17T16:15:00+00:00",
       "featured": false
     },
     {
@@ -128,12 +137,12 @@
       "featured": false
     },
     {
-      "id": "d383cee96f88",
+      "id": "54037e6c9df0",
       "source": "The Lever",
-      "headline": "Lever Weekly: The Establishment Strikes Back",
-      "excerpt": "Socialists hit a speed bump, moderates declare war, a Connecticut billionaire pulls electoral strings, and more from The Lever this week.",
-      "link": "https://www.levernews.com/lever-weekly-the-establishment-strikes-back/",
-      "published": "2026-08-16T13:01:54+00:00",
+      "headline": "Hakeem Jeffries’ Betrayal Shows Why Democratic Voters Are So Enraged",
+      "excerpt": "House Dems’ leader declared his opposition to Medicare For All on the same day a new poll shows almost all Democratic voters support it.",
+      "link": "https://www.levernews.com/hakeem-jeffries-betrayal-shows-why-democratic-voters-are-so-enraged/",
+      "published": "2026-08-17T07:01:16+00:00",
       "featured": false
     },
     {
@@ -173,15 +182,6 @@
       "featured": false
     },
     {
-      "id": "06cd80862bda",
-      "source": "OCCRP",
-      "headline": "FAQ: What to Know About Ireland’s Probe Into Our Reporting on Its Alumina Exports to Russia",
-      "excerpt": "Following an investigation by OCCRP and partners, the Irish government launched its own probe into whether the country’s alumina exports have been feeding into the supply chains of sanctioned Russian arms makers. Here...",
-      "link": "https://www.occrp.org/en/feature/faq-what-to-know-about-irelands-probe-into-our-reporting-on-its-alumina-exports-to-russia",
-      "published": "2026-08-13T15:52:00+00:00",
-      "featured": false
-    },
-    {
       "id": "d6ff7788bec9",
       "source": "More Perfect Union",
       "headline": "The Data Center Secret in Trump’s Financial Disclosures",
@@ -209,12 +209,12 @@
       "featured": false
     },
     {
-      "id": "8d42d8cbbc22",
+      "id": "673adaa4616f",
       "source": "Al Jazeera",
-      "headline": "Iran signals readiness for ‘US ground operations’ as MoU expires",
-      "excerpt": "Iran's more offensive posture follows Trump's comment that the US would soon make the Strait of Hormuz its territory.",
-      "link": "https://www.aljazeera.com/news/2026/8/17/iran-signals-readiness-for-us-ground-operations-as-mou-expires?traffic_source=rss",
-      "published": "2026-08-17T14:15:17+00:00",
+      "headline": "CAIR slams Texas governor’s ‘anti-Muslim stunt’ on airport washing stations",
+      "excerpt": "Abbott accuses airports of religious discrimination over wudu stations, calls for federal investigation.",
+      "link": "https://www.aljazeera.com/news/2026/8/17/cair-slams-texas-governors-anti-muslim-stunt-on-airport-washing-stations?traffic_source=rss",
+      "published": "2026-08-17T18:02:15+00:00",
       "featured": false
     },
     {
@@ -227,21 +227,21 @@
       "featured": false
     },
     {
+      "id": "d383cee96f88",
+      "source": "The Lever",
+      "headline": "Lever Weekly: The Establishment Strikes Back",
+      "excerpt": "Socialists hit a speed bump, moderates declare war, a Connecticut billionaire pulls electoral strings, and more from The Lever this week.",
+      "link": "https://www.levernews.com/lever-weekly-the-establishment-strikes-back/",
+      "published": "2026-08-16T13:01:54+00:00",
+      "featured": false
+    },
+    {
       "id": "148d2984d0ce",
       "source": "The Intercept",
       "headline": "Secret ICE Agent Tried to “Entice” Minneapolis Activists Into Confrontational Tactics",
       "excerpt": "Documents from ICE’s investigation into the Sunrise Movement show an agent volunteered to build tools for “direct-action” protests. The post Secret ICE Agent Tried to “Entice” Minneapolis Activists Into Confrontational...",
       "link": "https://theintercept.com/2026/08/15/undercover-ice-agents-minneapolis-sunrise-movement/",
       "published": "2026-08-15T22:38:25+00:00",
-      "featured": false
-    },
-    {
-      "id": "8de3a34e3cbb",
-      "source": "The Lever",
-      "headline": "You Love To See It: Those Meddling Kids",
-      "excerpt": "Meta’s billion-dollar disturbance, a sanctions regime topples, voters vote to win, and clean energy cleans up.",
-      "link": "https://www.levernews.com/you-love-to-see-it-those-meddling-kids/",
-      "published": "2026-08-15T13:01:45+00:00",
       "featured": false
     },
     {
@@ -254,21 +254,21 @@
       "featured": false
     },
     {
+      "id": "c23c7e956d1e",
+      "source": "OCCRP",
+      "headline": "Former U.S. Banker Jailed for Laundering Medicare Funds",
+      "excerpt": "A former Brooklyn bank manager was sentenced to 18 months in prison for helping a transnational criminal organization launder more than $8 million obtained through health care fraud.",
+      "link": "https://www.occrp.org/en/news/former-us-banker-jailed-for-laundering-medicare-funds",
+      "published": "2026-08-13T21:40:00+00:00",
+      "featured": false
+    },
+    {
       "id": "a834d9234f9b",
       "source": "Dropsite News",
       "headline": "U.S. Infrastructure Strikes Have Left Iranians in the South Without Livelihoods",
       "excerpt": "U.S. airstrikes last month in southern Iran targeted civilian infrastructure, including fishing ports, bridges, telecommunications networks, power plants, hospitals, and transportation corridors.",
       "link": "https://www.dropsitenews.com/p/southern-iran-us-airstrikes-civilian-infrastructure",
       "published": "2026-08-13T17:02:51+00:00",
-      "featured": false
-    },
-    {
-      "id": "e457e34755e6",
-      "source": "OCCRP",
-      "headline": "Tapes Hidden in an Ice Cream Box Lay Bare a Maltese Journalist’s Assassination",
-      "excerpt": "In the trial of business magnate Yorgen Fenech, a middleman’s secret recordings and auto-deleting texts exposed the chilling mechanics behind the 2017 car bombing—and the political leaks that shielded the killers.",
-      "link": "https://www.occrp.org/en/news/tapes-hidden-in-an-ice-cream-box-lay-bare-a-maltese-journalists-assassination",
-      "published": "2026-08-13T15:51:00+00:00",
       "featured": false
     },
     {
@@ -308,12 +308,21 @@
       "featured": false
     },
     {
-      "id": "d7f160c780ab",
+      "id": "b0f5753973ed",
       "source": "Al Jazeera",
-      "headline": "Boat sets sail from Bristol, aiming to break Israel’s siege of Gaza",
-      "excerpt": "Twelve people including the captain are on board 'Kate', the latest vessel attempting to deliver aid.",
-      "link": "https://www.aljazeera.com/news/2026/8/17/boat-sets-sail-from-bristol-aiming-to-break-israels-siege-of-gaza?traffic_source=rss",
-      "published": "2026-08-17T14:12:08+00:00",
+      "headline": "Clashes between government and opposition fighters in Somalia’s Baidoa",
+      "excerpt": "Heavy clashes broke out in Baidoa, Somalia between federal troops and armed opposition groups.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/clashes-between-government-and-opposition-fighters-in-somalias-baidoa?traffic_source=rss",
+      "published": "2026-08-17T17:42:02+00:00",
+      "featured": false
+    },
+    {
+      "id": "8de3a34e3cbb",
+      "source": "The Lever",
+      "headline": "You Love To See It: Those Meddling Kids",
+      "excerpt": "Meta’s billion-dollar disturbance, a sanctions regime topples, voters vote to win, and clean energy cleans up.",
+      "link": "https://www.levernews.com/you-love-to-see-it-those-meddling-kids/",
+      "published": "2026-08-15T13:01:45+00:00",
       "featured": false
     },
     {
@@ -326,21 +335,21 @@
       "featured": false
     },
     {
-      "id": "958597c3b79b",
-      "source": "The Lever",
-      "headline": "EXCLUSIVE: Elon Musk’s Banking Empire Just Got Gov. Hochul’s Blessing",
-      "excerpt": "Despite lawmakers’ warnings about Musk, New York gave the world’s first trillionaire a critical approval in his plan to turn X into an “everything app.”",
-      "link": "https://www.levernews.com/exclusive-elon-musks-banking-empire-just-got-gov-hochuls-blessing/",
-      "published": "2026-08-14T23:24:13+00:00",
-      "featured": false
-    },
-    {
       "id": "76c1d96f1f1d",
       "source": "The Intercept",
       "headline": "Has the Left Really Met Its Limit?",
       "excerpt": "David Sirota on Francesca Hong’s defeat, what it means for the insurgent left, and how the American presidency has consolidated king-like power. The post Has the Left Really Met Its Limit? appeared first on The...",
       "link": "https://theintercept.com/2026/08/14/david-sirota-democratic-establishment/",
       "published": "2026-08-14T10:00:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "06cd80862bda",
+      "source": "OCCRP",
+      "headline": "FAQ: What to Know About Ireland’s Probe Into Our Reporting on Its Alumina Exports to Russia",
+      "excerpt": "Following an investigation by OCCRP and partners, the Irish government launched its own probe into whether the country’s alumina exports have been feeding into the supply chains of sanctioned Russian arms makers. Here...",
+      "link": "https://www.occrp.org/en/feature/faq-what-to-know-about-irelands-probe-into-our-reporting-on-its-alumina-exports-to-russia",
+      "published": "2026-08-13T15:52:00+00:00",
       "featured": false
     },
     {
@@ -359,15 +368,6 @@
       "excerpt": "The post A Youth Sports Giant Promised Reforms to Protect Kids From Sexual Abuse. Most Never Happened. appeared first on ProPublica.",
       "link": "https://www.propublica.org/article/aau-youth-sports-sexual-abuse-failure-amateur-athletic-union",
       "published": "2026-08-13T09:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "dbe5ec037f58",
-      "source": "OCCRP",
-      "headline": "Dutch Court Hears Case against Whistleblower’s Murder Suspect",
-      "excerpt": "A Dutch court heard how police intercepted a key suspect in a vehicle loaded with hidden firearms and stolen plates—only to release him days before Turkish whistleblower Cemil Önal was gunned down in the Netherlands.",
-      "link": "https://www.occrp.org/en/news/dutch-court-hears-case-against-whistleblowers-murder-suspect",
-      "published": "2026-08-12T16:43:00+00:00",
       "featured": false
     },
     {
@@ -398,21 +398,21 @@
       "featured": false
     },
     {
-      "id": "fa58425dbbe7",
+      "id": "213e8e46fd31",
       "source": "Al Jazeera",
-      "headline": "Lula and Bolsonaro’s son launch rival bids for Brazil presidency",
-      "excerpt": "Brazil’s presidential race is officially underway.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/lula-and-bolsonaros-son-launch-rival-bids-for-brazil-presidency?traffic_source=rss",
-      "published": "2026-08-17T14:03:26+00:00",
+      "headline": "Syria launches probe into death of ‘White Helmet’ rescuer in police custody",
+      "excerpt": "Family members allege security officers ignored warnings about the man's hemophilia and subjected him to severe abuse.",
+      "link": "https://www.aljazeera.com/news/2026/8/17/syria-launches-probe-into-death-of-man-in-police-custody?traffic_source=rss",
+      "published": "2026-08-17T17:37:31+00:00",
       "featured": false
     },
     {
-      "id": "3ae99a11c01d",
+      "id": "958597c3b79b",
       "source": "The Lever",
-      "headline": "Who’s Buying The Democratic Party?",
-      "excerpt": "Test your knowledge of the socialist backlash, Democratic donors, and other issues that really matter.",
-      "link": "https://www.levernews.com/whos-buying-the-democratic-party/",
-      "published": "2026-08-14T17:13:24+00:00",
+      "headline": "EXCLUSIVE: Elon Musk’s Banking Empire Just Got Gov. Hochul’s Blessing",
+      "excerpt": "Despite lawmakers’ warnings about Musk, New York gave the world’s first trillionaire a critical approval in his plan to turn X into an “everything app.”",
+      "link": "https://www.levernews.com/exclusive-elon-musks-banking-empire-just-got-gov-hochuls-blessing/",
+      "published": "2026-08-14T23:24:13+00:00",
       "featured": false
     },
     {
@@ -434,21 +434,21 @@
       "featured": false
     },
     {
+      "id": "e457e34755e6",
+      "source": "OCCRP",
+      "headline": "Tapes Hidden in an Ice Cream Box Lay Bare a Maltese Journalist’s Assassination",
+      "excerpt": "In the trial of business magnate Yorgen Fenech, a middleman’s secret recordings and auto-deleting texts exposed the chilling mechanics behind the 2017 car bombing—and the political leaks that shielded the killers.",
+      "link": "https://www.occrp.org/en/news/tapes-hidden-in-an-ice-cream-box-lay-bare-a-maltese-journalists-assassination",
+      "published": "2026-08-13T15:51:00+00:00",
+      "featured": false
+    },
+    {
       "id": "b17c32300c8b",
       "source": "Dropsite News",
       "headline": "In West Bank Village, a New Israeli Order Enables Settler Attacks While Claiming to Prevent Them",
       "excerpt": "The Israeli military declared the Palestinian village of Taybeh a closed military zone to \"maintain order\" but residents say settlers are still allowed to raid the area.",
       "link": "https://www.dropsitenews.com/p/taybeh-west-bank-closed-military-zone-settlers",
       "published": "2026-08-12T17:24:18+00:00",
-      "featured": false
-    },
-    {
-      "id": "568f454765dc",
-      "source": "OCCRP",
-      "headline": "Treasury Rolls Back Ownership Reporting Obligations for U.S. Companies",
-      "excerpt": "",
-      "link": "https://www.occrp.org/en/news/treasury-rolls-back-ownership-reporting-obligations-for-us-companies",
-      "published": "2026-08-12T13:55:00+00:00",
       "featured": false
     },
     {
@@ -488,12 +488,21 @@
       "featured": false
     },
     {
-      "id": "44d35b3c59b6",
+      "id": "21a46f661bae",
       "source": "Al Jazeera",
-      "headline": "Global condemnation of Israeli settler violence against Palestinians",
-      "excerpt": "Global condemnation of Israeli settler violence against Palestinians",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/global-condemnation-of-israeli-settler-violence-against-palestinians?traffic_source=rss",
-      "published": "2026-08-17T14:01:51+00:00",
+      "headline": "Explosion reported at school in Afghan capital Kabul",
+      "excerpt": "The cause of the blast and the number of casualties have not been confirmed, with the Taliban government yet to comment.",
+      "link": "https://www.aljazeera.com/news/2026/8/17/explosion-reported-at-school-in-afghan-capital-kabul?traffic_source=rss",
+      "published": "2026-08-17T17:30:11+00:00",
+      "featured": false
+    },
+    {
+      "id": "3ae99a11c01d",
+      "source": "The Lever",
+      "headline": "Who’s Buying The Democratic Party?",
+      "excerpt": "Test your knowledge of the socialist backlash, Democratic donors, and other issues that really matter.",
+      "link": "https://www.levernews.com/whos-buying-the-democratic-party/",
+      "published": "2026-08-14T17:13:24+00:00",
       "featured": false
     },
     {
@@ -506,15 +515,6 @@
       "featured": false
     },
     {
-      "id": "38dd0c080fd0",
-      "source": "The Lever",
-      "headline": "This Bernie Organizer Is Coming For A “DeSantis Democrat”",
-      "excerpt": "Democrats keep losing Florida. DSA-endorsed Oliver Larkin believes he knows why — and that his insurgent campaign against Rep. Jared Moskowitz can turn the tide.",
-      "link": "https://www.levernews.com/this-bernie-organizer-is-coming-for-a-desantis-democrat/",
-      "published": "2026-08-13T21:56:19+00:00",
-      "featured": false
-    },
-    {
       "id": "5c9408dbb792",
       "source": "The Intercept",
       "headline": "Israel Justified Its Wars by Calling Enemies “Crazy.” Now, the Warning Signs All Apply to Israel.",
@@ -524,21 +524,21 @@
       "featured": false
     },
     {
+      "id": "dbe5ec037f58",
+      "source": "OCCRP",
+      "headline": "Dutch Court Hears Case against Whistleblower’s Murder Suspect",
+      "excerpt": "A Dutch court heard how police intercepted a key suspect in a vehicle loaded with hidden firearms and stolen plates—only to release him days before Turkish whistleblower Cemil Önal was gunned down in the Netherlands.",
+      "link": "https://www.occrp.org/en/news/dutch-court-hears-case-against-whistleblowers-murder-suspect",
+      "published": "2026-08-12T16:43:00+00:00",
+      "featured": false
+    },
+    {
       "id": "62f3f58332d1",
       "source": "Dropsite News",
       "headline": "Israel detains Palestinian journalist Mohamed Awad; Russia threatens retaliatory European ship seizures; Hong loses in tight primary for Wisconsin governor",
       "excerpt": "Drop Site Daily: August 12, 2026",
       "link": "https://www.dropsitenews.com/p/israel-palestinian-journalist-awad-russia-europe-ship-seizures-wisconsin-primary-hong-crowley",
       "published": "2026-08-12T16:19:53+00:00",
-      "featured": false
-    },
-    {
-      "id": "39d40ad7d314",
-      "source": "OCCRP",
-      "headline": "Iraq PM’s Anti-Corruption Campaign Rumbles On",
-      "excerpt": "Iraqi Prime Minister Ali al-Zaidi declares “there are no red lines in pursuing the corrupt” after arrest warrants issued for a key leader in his political coalition.",
-      "link": "https://www.occrp.org/en/news/iraq-pms-anti-corruption-campaign-rumbles-on",
-      "published": "2026-08-12T13:32:00+00:00",
       "featured": false
     }
   ]
