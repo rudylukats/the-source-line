@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-08-17T07:16:47.920396+00:00",
+  "generated_at": "2026-08-17T09:57:59.622921+00:00",
   "articles": [
+    {
+      "id": "468b34385a6b",
+      "source": "Al Jazeera",
+      "headline": "Inside the UK’s ‘stressful’ cost of living crisis Burnham hopes to tackle",
+      "excerpt": "Britain's new premier has promised to ease the suffering of millions of families unable to afford basic items.",
+      "link": "https://www.aljazeera.com/news/2026/8/17/who-can-live-on-340-a-month-inside-the-uks-cost-of-living-crisis?traffic_source=rss",
+      "published": "2026-08-17T09:41:19+00:00",
+      "featured": true
+    },
+    {
+      "id": "c686b1b8855e",
+      "source": "ProPublica",
+      "headline": "At “Quasi-Public” Private Schools, 100% of Students Get Tuition Vouchers. There’s Almost No Accountability.",
+      "excerpt": "The post At “Quasi-Public” Private Schools, 100% of Students Get Tuition Vouchers. There’s Almost No Accountability. appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/private-schools-vouchers-wisconsin-atlas-preparatory",
+      "published": "2026-08-17T09:00:00+00:00",
+      "featured": true
+    },
     {
       "id": "54037e6c9df0",
       "source": "The Lever",
@@ -11,22 +29,13 @@
       "featured": true
     },
     {
-      "id": "493ac24d7462",
-      "source": "Al Jazeera",
-      "headline": "Rodri headed to Barcelona after Man City accepts transfer bid",
-      "excerpt": "Spain’s World Cup-winning captain Rodri is returning to his homeland after Man City agree transfer to Barcelona.",
-      "link": "https://www.aljazeera.com/sports/2026/8/17/rodri-headed-to-barcelona-after-man-city-accepts-transfer-bid?traffic_source=rss",
-      "published": "2026-08-17T06:28:05+00:00",
-      "featured": true
-    },
-    {
       "id": "57d4f7fbeace",
       "source": "The Intercept",
       "headline": "ICE Shot a Journalist and Threw Him in Detention. He’s Approaching 300 Days Behind Bars With a Festering Wound.",
       "excerpt": "With the case of Carlitos Ricardo Parias, the U.S. has broken its own record for holding a journalist in custody. The post ICE Shot a Journalist and Threw Him in Detention. He’s Approaching 300 Days Behind Bars With a...",
       "link": "https://theintercept.com/2026/08/16/ricardo-parias-ice-detention-journalist-los-angeles/",
       "published": "2026-08-16T10:00:00+00:00",
-      "featured": true
+      "featured": false
     },
     {
       "id": "1539d55a046d",
@@ -62,15 +71,6 @@
       "excerpt": "On South Korea’s “dopamine sites,” the pleasure comes from aspirational shopping rituals like browsing, curating, and tracking — not from a delivery.",
       "link": "https://restofworld.org/2026/south-korea-shopping-trend/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "published": "2026-08-14T13:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "ee252fcf423f",
-      "source": "ProPublica",
-      "headline": "Inside Trump’s Failed Hunt for Noncitizen Voters",
-      "excerpt": "The post Inside Trump’s Failed Hunt for Noncitizen Voters appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/noncitizen-voting-trump-homeland-security-investigations",
-      "published": "2026-08-14T10:00:00+00:00",
       "featured": false
     },
     {
@@ -110,12 +110,12 @@
       "featured": false
     },
     {
-      "id": "50aa17988d96",
+      "id": "07024d912897",
       "source": "Al Jazeera",
-      "headline": "Japan’s economy slows, missing growth forecasts",
-      "excerpt": "GDP rises 0.3 percent in the second quarter as consumption and capital spending sag.",
-      "link": "https://www.aljazeera.com/economy/2026/8/17/japans-economy-slows-missing-growth-forecasts?traffic_source=rss",
-      "published": "2026-08-17T06:14:39+00:00",
+      "headline": "Will India’s ‘Cockroach’ movement force Modi’s BJP to rethink its politics?",
+      "excerpt": "Modi's BJP once controlled media narratives in India, but this might be changing with the 'Cockroach' movement.",
+      "link": "https://www.aljazeera.com/news/2026/8/17/has-indias-cockroach-movement-forced-modis-bjp-to-recalibrate-agenda?traffic_source=rss",
+      "published": "2026-08-17T09:03:57+00:00",
       "featured": false
     },
     {
@@ -146,12 +146,12 @@
       "featured": false
     },
     {
-      "id": "e91762428f1b",
+      "id": "ee252fcf423f",
       "source": "ProPublica",
-      "headline": "Wall Street’s Nonprofits Use Selective, Opaque Logic to Defund Charities",
-      "excerpt": "The post Wall Street’s Nonprofits Use Selective, Opaque Logic to Defund Charities appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/donor-advised-funds-charity-contributions",
-      "published": "2026-08-14T09:00:00+00:00",
+      "headline": "Inside Trump’s Failed Hunt for Noncitizen Voters",
+      "excerpt": "The post Inside Trump’s Failed Hunt for Noncitizen Voters appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/noncitizen-voting-trump-homeland-security-investigations",
+      "published": "2026-08-14T10:00:00+00:00",
       "featured": false
     },
     {
@@ -209,12 +209,12 @@
       "featured": false
     },
     {
-      "id": "03769acb3cf8",
+      "id": "43f597aefd23",
       "source": "Al Jazeera",
-      "headline": "Cameroon dominate Malawi to win first Women’s Africa Cup of Nations title",
-      "excerpt": "The Indomitable Lionesses outshine their opponents to claim first final victory on their fourth attempt in Morocco.",
-      "link": "https://www.aljazeera.com/sports/2026/8/17/cameroon-dominates-malawi-to-win-first-womens-africa-cup-of-nations-title?traffic_source=rss",
-      "published": "2026-08-17T06:02:02+00:00",
+      "headline": "Photos: Rising energy prices disrupt education on Cambodia’s Tonle Sap lake",
+      "excerpt": "Children on Tonle Sap sacrifice education, with many working to help their families cover increasing fuel costs.",
+      "link": "https://www.aljazeera.com/gallery/2026/8/17/photos-rising-energy-prices-disrupt-education-on-cambodias-tonle-sap-lake?traffic_source=rss",
+      "published": "2026-08-17T09:01:52+00:00",
       "featured": false
     },
     {
@@ -245,6 +245,15 @@
       "featured": false
     },
     {
+      "id": "e91762428f1b",
+      "source": "ProPublica",
+      "headline": "Wall Street’s Nonprofits Use Selective, Opaque Logic to Defund Charities",
+      "excerpt": "The post Wall Street’s Nonprofits Use Selective, Opaque Logic to Defund Charities appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/donor-advised-funds-charity-contributions",
+      "published": "2026-08-14T09:00:00+00:00",
+      "featured": false
+    },
+    {
       "id": "e457e34755e6",
       "source": "OCCRP",
       "headline": "Tapes Hidden in an Ice Cream Box Lay Bare a Maltese Journalist’s Assassination",
@@ -260,15 +269,6 @@
       "excerpt": "Drop Site Daily: August 13, 2026",
       "link": "https://www.dropsitenews.com/p/uss-abraham-lincoln-overboard-newark-ice-detention-israel-lebanon-wildfires",
       "published": "2026-08-13T15:19:39+00:00",
-      "featured": false
-    },
-    {
-      "id": "ca1c3f31a8f1",
-      "source": "ProPublica",
-      "headline": "A Youth Sports Giant Promised Reforms to Protect Kids From Sexual Abuse. Most Never Happened.",
-      "excerpt": "The post A Youth Sports Giant Promised Reforms to Protect Kids From Sexual Abuse. Most Never Happened. appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/aau-youth-sports-sexual-abuse-failure-amateur-athletic-union",
-      "published": "2026-08-13T09:00:00+00:00",
       "featured": false
     },
     {
@@ -308,12 +308,12 @@
       "featured": false
     },
     {
-      "id": "f039381d6fa0",
+      "id": "95a183c99441",
       "source": "Al Jazeera",
-      "headline": "At least seven dead in ‘stampede-like’ incident at India temple",
-      "excerpt": "The fatal incident reportedly took place amid a rush of devotees at a temple in India's Bihar state.",
-      "link": "https://www.aljazeera.com/news/2026/8/17/at-least-six-dead-in-stampede-like-incident-at-india-temple?traffic_source=rss",
-      "published": "2026-08-17T05:32:33+00:00",
+      "headline": "Scottie Scheffler wins St Jude Championship by eight shots",
+      "excerpt": "Scheffler's 21st career PGA Tour title earns the American $3.6m for his resounding victory at TPC Southwind.",
+      "link": "https://www.aljazeera.com/sports/2026/8/17/scottie-scheffler-wins-st-jude-championship-by-eight-shots?traffic_source=rss",
+      "published": "2026-08-17T08:43:09+00:00",
       "featured": false
     },
     {
@@ -344,6 +344,15 @@
       "featured": false
     },
     {
+      "id": "ca1c3f31a8f1",
+      "source": "ProPublica",
+      "headline": "A Youth Sports Giant Promised Reforms to Protect Kids From Sexual Abuse. Most Never Happened.",
+      "excerpt": "The post A Youth Sports Giant Promised Reforms to Protect Kids From Sexual Abuse. Most Never Happened. appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/aau-youth-sports-sexual-abuse-failure-amateur-athletic-union",
+      "published": "2026-08-13T09:00:00+00:00",
+      "featured": false
+    },
+    {
       "id": "b17c32300c8b",
       "source": "Dropsite News",
       "headline": "In West Bank Village, a New Israeli Order Enables Settler Attacks While Claiming to Prevent Them",
@@ -359,15 +368,6 @@
       "excerpt": "A Dutch court heard how police intercepted a key suspect in a vehicle loaded with hidden firearms and stolen plates—only to release him days before Turkish whistleblower Cemil Önal was gunned down in the Netherlands.",
       "link": "https://www.occrp.org/en/news/dutch-court-hears-case-against-whistleblowers-murder-suspect",
       "published": "2026-08-12T16:43:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "4bef45dceec0",
-      "source": "ProPublica",
-      "headline": "Fiasco in the Factory: Taxpayers Funded a $533 Million Artillery Plant That Made Nothing",
-      "excerpt": "The post Fiasco in the Factory: Taxpayers Funded a $533 Million Artillery Plant That Made Nothing appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/general-dynamics-artillery-factory-failed",
-      "published": "2026-08-12T10:00:00+00:00",
       "featured": false
     },
     {
@@ -398,12 +398,12 @@
       "featured": false
     },
     {
-      "id": "580e3a4996b3",
+      "id": "aa224daf2ad4",
       "source": "Al Jazeera",
-      "headline": "Iran’s top negotiator declares victory in war against the US and Israel",
-      "excerpt": "Iran’s Parliament speaker and negotiator Mohammad Bagher Ghalibaf has declared both a military and political victory",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/irans-top-negotiator-declares-victory-in-war-against-the-us-and-israel?traffic_source=rss",
-      "published": "2026-08-17T05:16:18+00:00",
+      "headline": "Cincinnati Open: Sabalenka takes six match points to defeat Gibson",
+      "excerpt": "Top-ranked Aryna Sabalenka escapes with a nail-biting win while Felix Auger-Aliassime downs ex-champ Stefanos Tsitsipas.",
+      "link": "https://www.aljazeera.com/sports/2026/8/17/cincinnati-open-sabalenka-takes-six-match-points-to-defeat-gibson?traffic_source=rss",
+      "published": "2026-08-17T08:18:25+00:00",
       "featured": false
     },
     {
@@ -452,12 +452,12 @@
       "featured": false
     },
     {
-      "id": "250d7ba37f46",
+      "id": "4bef45dceec0",
       "source": "ProPublica",
-      "headline": "“They’re Putting Kids’ Lives at Risk”: How Abuse in a Tennessee Businessman’s Juvenile Prisons Remained Under Wraps",
-      "excerpt": "The post “They’re Putting Kids’ Lives at Risk”: How Abuse in a Tennessee Businessman’s Juvenile Prisons Remained Under Wraps appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/wayne-halfway-house-jason-crews-tennessee",
-      "published": "2026-08-12T09:00:00+00:00",
+      "headline": "Fiasco in the Factory: Taxpayers Funded a $533 Million Artillery Plant That Made Nothing",
+      "excerpt": "The post Fiasco in the Factory: Taxpayers Funded a $533 Million Artillery Plant That Made Nothing appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/general-dynamics-artillery-factory-failed",
+      "published": "2026-08-12T10:00:00+00:00",
       "featured": false
     },
     {
@@ -488,12 +488,12 @@
       "featured": false
     },
     {
-      "id": "b759020b29f2",
+      "id": "c0cdc9ce18c4",
       "source": "Al Jazeera",
-      "headline": "Lawyer says Israel’s targeting of Palestinian women is a form of genocide",
-      "excerpt": "Palestinian lawyer Ahmad Ibsais argues Israeli attacks on women is a genocide overlooked by international law.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/08-14-2026-gaza-femigenocide-sv-mp4?traffic_source=rss",
-      "published": "2026-08-17T04:58:47+00:00",
+      "headline": "Outrage as Colombia’s president hands out footballs as residents await aid",
+      "excerpt": "Outrage as Colombian president hands out footballs in earthquake-hit city where residents say they await urgent aid.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/outrage-as-colombias-president-hands-out-footballs-as-residents-await-aid?traffic_source=rss",
+      "published": "2026-08-17T08:18:05+00:00",
       "featured": false
     },
     {
