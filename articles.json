@@ -1,13 +1,22 @@
 {
-  "generated_at": "2026-08-17T18:58:04.331286+00:00",
+  "generated_at": "2026-08-17T21:41:52.477383+00:00",
   "articles": [
     {
-      "id": "a528eff4cade",
+      "id": "7bcc5e57f8d4",
+      "source": "404 Media",
+      "headline": "Pornhub's Parent Company to Pay $120 Million to Settle Child Sexual Abuse Lawsuits",
+      "excerpt": "The deal settles class action lawsuits claiming Mindgeek's sites hosted and profited from abuse videos of minors.",
+      "link": "https://www.404media.co/pornhubs-parent-company-to-pay-120-million-to-settle-child-sexual-abuse-lawsuits/",
+      "published": "2026-08-17T21:04:53+00:00",
+      "featured": true
+    },
+    {
+      "id": "9f817e23a058",
       "source": "Al Jazeera",
-      "headline": "Russian politician sentenced to 11 years for opposing war in Ukraine",
-      "excerpt": "Lev Shlosberg, a senior member of the Yabloko party, was sentenced to 11 years and one month in prison on Monday.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/russian-politician-sentenced-to-11-years-for-opposing-war-in-ukraine?traffic_source=rss",
-      "published": "2026-08-17T18:53:06+00:00",
+      "headline": "Palestinian American reunites with family under siege in West Bank",
+      "excerpt": "Videos show the first moments Palestinian-American Loui Ridi arrived at his home in Qusra.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/palestinian-american-reunites-with-family-under-siege-in-west-bank?traffic_source=rss",
+      "published": "2026-08-17T20:57:19+00:00",
       "featured": true
     },
     {
@@ -26,7 +35,7 @@
       "excerpt": "Following regulatory crackdowns in the U.S. and an arrest in the Netherlands, Edward Zimbardi was handed over to American authorities to face scrutiny over his alleged digital asset frauds.",
       "link": "https://www.occrp.org/en/news/fiji-hands-over-a-man-suspected-of-ponzi-style-crypto-investment-schemes-to-us",
       "published": "2026-08-17T16:33:00+00:00",
-      "featured": true
+      "featured": false
     },
     {
       "id": "410926238f3b",
@@ -35,15 +44,6 @@
       "excerpt": "Drop Site Daily: August 17, 2026",
       "link": "https://www.dropsitenews.com/p/us-iran-memorandum-expires-israel-lebanon-strikes-democrats-ice-abolish",
       "published": "2026-08-17T15:14:51+00:00",
-      "featured": false
-    },
-    {
-      "id": "b25d96757340",
-      "source": "404 Media",
-      "headline": "‘Show How 3M Is 0% at Fault:’ Expert Witness Used ChatGPT to Write Report Defending Company in Deadly Explosion Lawsuit",
-      "excerpt": "ChatGPT prompts show how an expert witness report was created in a $61 million lawsuit over an explosion that killed three people.",
-      "link": "https://www.404media.co/show-how-3m-is-0-at-fault-expert-witness-used-chatgpt-to-write-report-defending-company-in-deadly-explosion-lawsuit/",
-      "published": "2026-08-17T14:56:24+00:00",
       "featured": false
     },
     {
@@ -110,12 +110,12 @@
       "featured": false
     },
     {
-      "id": "f4ae8cc92b8c",
+      "id": "e84bd51cd76b",
       "source": "Al Jazeera",
-      "headline": "Russia maintains election ban on opposition Yabloko, jails deputy head",
-      "excerpt": "Supreme Court ruling supports Kremlin's clampdown on the political party ahead of September's parliamentary vote.",
-      "link": "https://www.aljazeera.com/news/2026/8/17/russia-maintains-election-ban-on-opposition-yabloko-jails-deputy-head?traffic_source=rss",
-      "published": "2026-08-17T18:46:12+00:00",
+      "headline": "Civilians paying price as Israeli military raises stakes in Lebanon: UNIFIL",
+      "excerpt": "UN peacekeeping force recorded an average of 137 projectiles fired daily in the region over the last two weeks.",
+      "link": "https://www.aljazeera.com/news/2026/8/17/civilians-pay-price-as-israeli-military-activity-rises-in-lebanon-unifil?traffic_source=rss",
+      "published": "2026-08-17T20:54:03+00:00",
       "featured": false
     },
     {
@@ -128,12 +128,12 @@
       "featured": false
     },
     {
-      "id": "5c6f6f558f94",
+      "id": "b25d96757340",
       "source": "404 Media",
-      "headline": "The Future of Deepfakes and the Decline of Reality (With Hany Farid)",
-      "excerpt": "The past, present, and future of deepfakes, as seen by the world’s leading expert on synthetic media.",
-      "link": "https://www.404media.co/the-future-of-deepfakes-and-the-decline-of-reality-with-hany-farid/",
-      "published": "2026-08-17T14:19:26+00:00",
+      "headline": "‘Show How 3M Is 0% at Fault:’ Expert Witness Used ChatGPT to Write Report Defending Company in Deadly Explosion Lawsuit",
+      "excerpt": "ChatGPT prompts show how an expert witness report was created in a $61 million lawsuit over an explosion that killed three people.",
+      "link": "https://www.404media.co/show-how-3m-is-0-at-fault-expert-witness-used-chatgpt-to-write-report-defending-company-in-deadly-explosion-lawsuit/",
+      "published": "2026-08-17T14:56:24+00:00",
       "featured": false
     },
     {
@@ -209,21 +209,21 @@
       "featured": false
     },
     {
-      "id": "673adaa4616f",
+      "id": "21b0262faf11",
       "source": "Al Jazeera",
-      "headline": "CAIR slams Texas governor’s ‘anti-Muslim stunt’ on airport washing stations",
-      "excerpt": "Abbott accuses airports of religious discrimination over wudu stations, calls for federal investigation.",
-      "link": "https://www.aljazeera.com/news/2026/8/17/cair-slams-texas-governors-anti-muslim-stunt-on-airport-washing-stations?traffic_source=rss",
-      "published": "2026-08-17T18:02:15+00:00",
+      "headline": "Trump says Iran will not make the deal he believes is necessary",
+      "excerpt": "Trump says Iran will not make the deal he believes is necessary",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/trump-says-iran-will-not-make-the-deal-he-believes-is-necessary?traffic_source=rss",
+      "published": "2026-08-17T20:49:30+00:00",
       "featured": false
     },
     {
-      "id": "c61aba5f082a",
+      "id": "5c6f6f558f94",
       "source": "404 Media",
-      "headline": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility",
-      "excerpt": "We placed a tracking device in a shipment of rare books to see which AI company was buying it, and found an Amazon facility where Amazon scans and destroys books.",
-      "link": "https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility/",
-      "published": "2026-08-17T13:16:09+00:00",
+      "headline": "The Future of Deepfakes and the Decline of Reality (With Hany Farid)",
+      "excerpt": "The past, present, and future of deepfakes, as seen by the world’s leading expert on synthetic media.",
+      "link": "https://www.404media.co/the-future-of-deepfakes-and-the-decline-of-reality-with-hany-farid/",
+      "published": "2026-08-17T14:19:26+00:00",
       "featured": false
     },
     {
@@ -308,12 +308,21 @@
       "featured": false
     },
     {
-      "id": "b0f5753973ed",
+      "id": "c4afe6d1fe2c",
       "source": "Al Jazeera",
-      "headline": "Clashes between government and opposition fighters in Somalia’s Baidoa",
-      "excerpt": "Heavy clashes broke out in Baidoa, Somalia between federal troops and armed opposition groups.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/clashes-between-government-and-opposition-fighters-in-somalias-baidoa?traffic_source=rss",
-      "published": "2026-08-17T17:42:02+00:00",
+      "headline": "Trump loses second Supreme Court bid over E Jean Carroll sex abuse case",
+      "excerpt": "E Jean Carroll secures another legal victory as US Supreme Court refuses Donald Trump’s appeal over 1996 abuse claims.",
+      "link": "https://www.aljazeera.com/news/2026/8/17/trump-loses-second-supreme-court-bid-over-e-jean-carroll-sex-abuse-case?traffic_source=rss",
+      "published": "2026-08-17T20:46:34+00:00",
+      "featured": false
+    },
+    {
+      "id": "c61aba5f082a",
+      "source": "404 Media",
+      "headline": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility",
+      "excerpt": "We placed a tracking device in a shipment of rare books to see which AI company was buying it, and found an Amazon facility where Amazon scans and destroys books.",
+      "link": "https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility/",
+      "published": "2026-08-17T13:16:09+00:00",
       "featured": false
     },
     {
@@ -323,15 +332,6 @@
       "excerpt": "Meta’s billion-dollar disturbance, a sanctions regime topples, voters vote to win, and clean energy cleans up.",
       "link": "https://www.levernews.com/you-love-to-see-it-those-meddling-kids/",
       "published": "2026-08-15T13:01:45+00:00",
-      "featured": false
-    },
-    {
-      "id": "1539d55a046d",
-      "source": "404 Media",
-      "headline": "Memories Mysteriously Survive After Brain Shutdown, And Scientists Don’t Know Why",
-      "excerpt": "Mice can access memories after hibernation, a state that largely shuts their brains off and reduces synapses, suggesting that memories are stored across shifting neural systems.",
-      "link": "https://www.404media.co/memories-mysteriously-survive-after-brain-shutdown-and-scientists-dont-know-why/",
-      "published": "2026-08-15T10:00:42+00:00",
       "featured": false
     },
     {
@@ -398,12 +398,21 @@
       "featured": false
     },
     {
-      "id": "213e8e46fd31",
+      "id": "335c5c8459a5",
       "source": "Al Jazeera",
-      "headline": "Syria launches probe into death of ‘White Helmet’ rescuer in police custody",
-      "excerpt": "Family members allege security officers ignored warnings about the man's hemophilia and subjected him to severe abuse.",
-      "link": "https://www.aljazeera.com/news/2026/8/17/syria-launches-probe-into-death-of-man-in-police-custody?traffic_source=rss",
-      "published": "2026-08-17T17:37:31+00:00",
+      "headline": "Torrential rains flood homes and roads across Lima, Peru",
+      "excerpt": "Heavy rains have flooded oads in Lima, while river overflows, landslides, and road closures continue to affect Peru.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/torrential-rains-flood-homes-and-roads-across-lima-peru?traffic_source=rss",
+      "published": "2026-08-17T20:41:39+00:00",
+      "featured": false
+    },
+    {
+      "id": "1539d55a046d",
+      "source": "404 Media",
+      "headline": "Memories Mysteriously Survive After Brain Shutdown, And Scientists Don’t Know Why",
+      "excerpt": "Mice can access memories after hibernation, a state that largely shuts their brains off and reduces synapses, suggesting that memories are stored across shifting neural systems.",
+      "link": "https://www.404media.co/memories-mysteriously-survive-after-brain-shutdown-and-scientists-dont-know-why/",
+      "published": "2026-08-15T10:00:42+00:00",
       "featured": false
     },
     {
@@ -413,15 +422,6 @@
       "excerpt": "Despite lawmakers’ warnings about Musk, New York gave the world’s first trillionaire a critical approval in his plan to turn X into an “everything app.”",
       "link": "https://www.levernews.com/exclusive-elon-musks-banking-empire-just-got-gov-hochuls-blessing/",
       "published": "2026-08-14T23:24:13+00:00",
-      "featured": false
-    },
-    {
-      "id": "21b5c18940cd",
-      "source": "404 Media",
-      "headline": "Behind the Blog: Endless Scam Parade",
-      "excerpt": "This week, we discuss the mainstreaming of Flock, media appearances, and Spotify's AI move.",
-      "link": "https://www.404media.co/behind-the-blog-endless-scam-parade/",
-      "published": "2026-08-14T16:21:39+00:00",
       "featured": false
     },
     {
@@ -488,12 +488,12 @@
       "featured": false
     },
     {
-      "id": "21a46f661bae",
+      "id": "645c02e66c7d",
       "source": "Al Jazeera",
-      "headline": "Explosion reported at school in Afghan capital Kabul",
-      "excerpt": "The cause of the blast and the number of casualties have not been confirmed, with the Taliban government yet to comment.",
-      "link": "https://www.aljazeera.com/news/2026/8/17/explosion-reported-at-school-in-afghan-capital-kabul?traffic_source=rss",
-      "published": "2026-08-17T17:30:11+00:00",
+      "headline": "Trump’s approval rating sinks to new low",
+      "excerpt": "New poll found a majority of US citizens concerned about the US war on Iran.",
+      "link": "https://www.aljazeera.com/economy/2026/8/17/trumps-approval-rating-sinks-to-new-low?traffic_source=rss",
+      "published": "2026-08-17T20:41:31+00:00",
       "featured": false
     },
     {
@@ -506,12 +506,12 @@
       "featured": false
     },
     {
-      "id": "eaf59fb59fdf",
+      "id": "21b5c18940cd",
       "source": "404 Media",
-      "headline": "Meta Patents AI Glasses to Use Facial Recognition to Identify People, Make Highlight Reels of Your Dinner Party",
-      "excerpt": "A new Meta patent published Thursday says a system, like its AI glasses, would use facial recognition to identify people, create a series of video clips, then provide you with a highlight reel of your night.",
-      "link": "https://www.404media.co/meta-patents-ai-glasses-to-use-facial-recognition-to-identify-people-make-highlight-reels-of-your-dinner-party/",
-      "published": "2026-08-14T14:17:43+00:00",
+      "headline": "Behind the Blog: Endless Scam Parade",
+      "excerpt": "This week, we discuss the mainstreaming of Flock, media appearances, and Spotify's AI move.",
+      "link": "https://www.404media.co/behind-the-blog-endless-scam-parade/",
+      "published": "2026-08-14T16:21:39+00:00",
       "featured": false
     },
     {
