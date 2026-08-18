@@ -1,13 +1,31 @@
 {
-  "generated_at": "2026-08-18T09:48:29.454099+00:00",
+  "generated_at": "2026-08-18T13:08:18.208346+00:00",
   "articles": [
     {
-      "id": "c830759b9b10",
+      "id": "d0a7e29b07c5",
       "source": "Al Jazeera",
-      "headline": "Videos show deadly school shooting in Philippines",
-      "excerpt": "A ninth-grade student opened fire at a high school in Zamboanga, Philippines, killing a fellow student and himself.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/videos-show-deadly-school-shooting-in-philippines?traffic_source=rss",
-      "published": "2026-08-18T09:31:56+00:00",
+      "headline": "Japanese activist keeps protesting against Israel’s genocide in Gaza",
+      "excerpt": "Japanese activist keeps protesting against Israel’s genocide in Gaza",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/japanese-activist-keeps-protesting-against-israels-genocide-in-gaza?traffic_source=rss",
+      "published": "2026-08-18T12:47:41+00:00",
+      "featured": true
+    },
+    {
+      "id": "38be56bd5a8e",
+      "source": "The Intercept",
+      "headline": "The Short Life of a Newborn During the Iran War",
+      "excerpt": "“What crime had my 20-day-old grandchild committed?” The post The Short Life of a Newborn During the Iran War appeared first on The Intercept.",
+      "link": "https://theintercept.com/2026/08/18/iran-war-civilian-deaths-families-infant/",
+      "published": "2026-08-18T10:00:00+00:00",
+      "featured": true
+    },
+    {
+      "id": "85dda370dfda",
+      "source": "Rest of World",
+      "headline": "Chinese carmakers now sell one EV abroad for every two at home",
+      "excerpt": "Dwindling sales at home are pushing the cars toward Brazil, Thailand, and the Gulf.",
+      "link": "https://restofworld.org/2026/china-ev-exports-overcapacity-global-markets/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "published": "2026-08-18T10:00:00+00:00",
       "featured": true
     },
     {
@@ -17,16 +35,7 @@
       "excerpt": "The post Measles Used to Be in Our Rearview Mirror. Now Cases Are Reaching Record Highs. appeared first on ProPublica.",
       "link": "https://www.propublica.org/article/measles-cases-vaccines",
       "published": "2026-08-18T09:00:00+00:00",
-      "featured": true
-    },
-    {
-      "id": "85326b87cd86",
-      "source": "The Intercept",
-      "headline": "ICE Worked With Iranian Regime to Set Up Deportation Flights as Trump Laid Plans for War",
-      "excerpt": "Internal emails indicate immigration agents complied with an Iranian request to hand over specific nationals — and accidentally sent the wrong person to Iran. The post ICE Worked With Iranian Regime to Set Up...",
-      "link": "https://theintercept.com/2026/08/18/iran-trump-deportation-flights-ice/",
-      "published": "2026-08-18T09:00:00+00:00",
-      "featured": true
+      "featured": false
     },
     {
       "id": "23b84336974c",
@@ -62,15 +71,6 @@
       "excerpt": "Following regulatory crackdowns in the U.S. and an arrest in the Netherlands, Edward Zimbardi was handed over to American authorities to face scrutiny over his alleged digital asset frauds.",
       "link": "https://www.occrp.org/en/news/fiji-hands-over-a-man-suspected-of-ponzi-style-crypto-investment-schemes-to-us",
       "published": "2026-08-17T16:33:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "7550ff3c843c",
-      "source": "Rest of World",
-      "headline": "Ban on Chinese robots leaves U.S. startups stranded",
-      "excerpt": "Three Unitree G1 humanoid robots are pictured at robotics company Unitree's first retail store in Beijing.",
-      "link": "https://restofworld.org/2026/china-robot-ban-silicon-valley/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-      "published": "2026-08-17T10:00:00+00:00",
       "featured": false
     },
     {
@@ -110,12 +110,21 @@
       "featured": false
     },
     {
-      "id": "b278c3c509c8",
+      "id": "044e9d96d128",
       "source": "Al Jazeera",
-      "headline": "Drone video shows drought-hit fields in England after driest July on record",
-      "excerpt": "Drone video shows drought-hit fields in England after driest July on record",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/drone-video-shows-drought-hit-fields-in-england-after-driest-july-on-record?traffic_source=rss",
-      "published": "2026-08-18T09:29:30+00:00",
+      "headline": "Bashar al-Assad’s cousin Wassim sentenced to death in Syria",
+      "excerpt": "A Syrian court has sentenced Wassim al-Assad, cousin of Bashar al-Assad, to death for murder, torture and war crimes.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/bashar-al-assads-cousin-wassim-sentenced-to-death-in-syria?traffic_source=rss",
+      "published": "2026-08-18T12:41:33+00:00",
+      "featured": false
+    },
+    {
+      "id": "85326b87cd86",
+      "source": "The Intercept",
+      "headline": "ICE Worked With Iranian Regime to Set Up Deportation Flights as Trump Laid Plans for War",
+      "excerpt": "Internal emails indicate immigration agents complied with an Iranian request to hand over specific nationals — and accidentally sent the wrong person to Iran. The post ICE Worked With Iranian Regime to Set Up...",
+      "link": "https://theintercept.com/2026/08/18/iran-trump-deportation-flights-ice/",
+      "published": "2026-08-18T09:00:00+00:00",
       "featured": false
     },
     {
@@ -155,12 +164,12 @@
       "featured": false
     },
     {
-      "id": "904375728bfa",
-      "source": "The Intercept",
-      "headline": "A Democratic Socialist Aims to Oust a Top AIPAC Beneficiary in Florida",
-      "excerpt": "Oliver Larkin is trying to unseat Rep. Jared Moskowitz, who is backed by AIPAC donors and an artificial intelligence super PAC. The post A Democratic Socialist Aims to Oust a Top AIPAC Beneficiary in Florida appeared...",
-      "link": "https://theintercept.com/2026/08/17/florida-congress-oliver-larkin-jared-moskowitz-aipac/",
-      "published": "2026-08-17T14:01:56+00:00",
+      "id": "7550ff3c843c",
+      "source": "Rest of World",
+      "headline": "Ban on Chinese robots leaves U.S. startups stranded",
+      "excerpt": "Three Unitree G1 humanoid robots are pictured at robotics company Unitree's first retail store in Beijing.",
+      "link": "https://restofworld.org/2026/china-robot-ban-silicon-valley/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "published": "2026-08-17T10:00:00+00:00",
       "featured": false
     },
     {
@@ -170,15 +179,6 @@
       "excerpt": "The post At “Quasi-Public” Private Schools, 100% of Students Get Tuition Vouchers. There’s Almost No Accountability. appeared first on ProPublica.",
       "link": "https://www.propublica.org/article/private-schools-vouchers-wisconsin-atlas-preparatory",
       "published": "2026-08-17T09:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "7dccc529e0af",
-      "source": "Rest of World",
-      "headline": "The online shopping trend where you buy nothing",
-      "excerpt": "On South Korea’s “dopamine sites,” the pleasure comes from aspirational shopping rituals like browsing, curating, and tracking — not from a delivery.",
-      "link": "https://restofworld.org/2026/south-korea-shopping-trend/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-      "published": "2026-08-14T13:00:00+00:00",
       "featured": false
     },
     {
@@ -209,12 +209,12 @@
       "featured": false
     },
     {
-      "id": "d9770a96756e",
+      "id": "4f59be4a284f",
       "source": "Al Jazeera",
-      "headline": "Pakistan top court orders Imran Khan’s hospital transfer amid access battle",
-      "excerpt": "Supreme Court grants jailed ex-PM Imran Khan transfer to hospital for a month after concerns raised over blood pressure.",
-      "link": "https://www.aljazeera.com/news/2026/8/18/pakistan-top-court-orders-imran-khans-hospital-transfer-amid-access-battle?traffic_source=rss",
-      "published": "2026-08-18T09:15:03+00:00",
+      "headline": "Qatar rejects Iran’s ‘false’ claims about missing pilots",
+      "excerpt": "Majed al-Ansari says the Iranian planes 'violated Qatar’s sovereignty' and were dealt with in accordance with the law.",
+      "link": "https://www.aljazeera.com/news/2026/8/18/qatar-rejects-irans-false-claims-about-missing-pilots?traffic_source=rss",
+      "published": "2026-08-18T12:39:43+00:00",
       "featured": false
     },
     {
@@ -227,6 +227,15 @@
       "featured": false
     },
     {
+      "id": "904375728bfa",
+      "source": "The Intercept",
+      "headline": "A Democratic Socialist Aims to Oust a Top AIPAC Beneficiary in Florida",
+      "excerpt": "Oliver Larkin is trying to unseat Rep. Jared Moskowitz, who is backed by AIPAC donors and an artificial intelligence super PAC. The post A Democratic Socialist Aims to Oust a Top AIPAC Beneficiary in Florida appeared...",
+      "link": "https://theintercept.com/2026/08/17/florida-congress-oliver-larkin-jared-moskowitz-aipac/",
+      "published": "2026-08-17T14:01:56+00:00",
+      "featured": false
+    },
+    {
       "id": "54037e6c9df0",
       "source": "The Lever",
       "headline": "Hakeem Jeffries’ Betrayal Shows Why Democratic Voters Are So Enraged",
@@ -236,21 +245,21 @@
       "featured": false
     },
     {
-      "id": "57d4f7fbeace",
-      "source": "The Intercept",
-      "headline": "ICE Shot a Journalist and Threw Him in Detention. He’s Approaching 300 Days Behind Bars With a Festering Wound.",
-      "excerpt": "With the case of Carlitos Ricardo Parias, the U.S. has broken its own record for holding a journalist in custody. The post ICE Shot a Journalist and Threw Him in Detention. He’s Approaching 300 Days Behind Bars With a...",
-      "link": "https://theintercept.com/2026/08/16/ricardo-parias-ice-detention-journalist-los-angeles/",
-      "published": "2026-08-16T10:00:00+00:00",
-      "featured": false
-    },
-    {
       "id": "9f461c5b2192",
       "source": "Dropsite News",
       "headline": "Hormuz grinds to a halt again; Gaza’s cancer patients dying at 2-3 times prewar rate; DHS surveilled left-wing groups in Minnesota",
       "excerpt": "Drop Site Daily: August 14, 2026",
       "link": "https://www.dropsitenews.com/p/hormuz-iran-us-gaza-cancer-israel-dhs-left-minnesota",
       "published": "2026-08-14T16:17:45+00:00",
+      "featured": false
+    },
+    {
+      "id": "7dccc529e0af",
+      "source": "Rest of World",
+      "headline": "The online shopping trend where you buy nothing",
+      "excerpt": "On South Korea’s “dopamine sites,” the pleasure comes from aspirational shopping rituals like browsing, curating, and tracking — not from a delivery.",
+      "link": "https://restofworld.org/2026/south-korea-shopping-trend/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "published": "2026-08-14T13:00:00+00:00",
       "featured": false
     },
     {
@@ -269,15 +278,6 @@
       "excerpt": "A former Brooklyn bank manager was sentenced to 18 months in prison for helping a transnational criminal organization launder more than $8 million obtained through health care fraud.",
       "link": "https://www.occrp.org/en/news/former-us-banker-jailed-for-laundering-medicare-funds",
       "published": "2026-08-13T21:40:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "7184318e7e5f",
-      "source": "Rest of World",
-      "headline": "Mozilla’s CTO thinks AI should be built like the internet",
-      "excerpt": "Raffi Krikorian explains that while consumers flock to ChatGPT and Claude, companies are increasingly turning to open models that they can customize and control.",
-      "link": "https://restofworld.org/2026/open-source-ai-infrastructure-mozilla/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-      "published": "2026-08-13T10:00:00+00:00",
       "featured": false
     },
     {
@@ -308,12 +308,12 @@
       "featured": false
     },
     {
-      "id": "3d199a155865",
+      "id": "04617596e65a",
       "source": "Al Jazeera",
-      "headline": "Cincinnati Open: Williams sisters fall in doubles while Zverev advances",
-      "excerpt": "Alexander Zverev survives third-round scare versus Terrance Atmane while Venus, Serena Williams lose in doubles return.",
-      "link": "https://www.aljazeera.com/sports/2026/8/18/cincinnati-open-williams-sisters-fall-in-doubles-while-zverev-advances?traffic_source=rss",
-      "published": "2026-08-18T08:56:14+00:00",
+      "headline": "Myanmar: The Architecture of Statelessness",
+      "excerpt": "How Myanmar stripped the Rohingya of citizenship, leading to mass expulsions and a genocide case at the ICJ.",
+      "link": "https://www.aljazeera.com/video/aljazeerauntangles/2026/8/18/myanmar-the-architecture-of-statelessness?traffic_source=rss",
+      "published": "2026-08-18T12:25:40+00:00",
       "featured": false
     },
     {
@@ -335,12 +335,12 @@
       "featured": false
     },
     {
-      "id": "148d2984d0ce",
+      "id": "57d4f7fbeace",
       "source": "The Intercept",
-      "headline": "Secret ICE Agent Tried to “Entice” Minneapolis Activists Into Confrontational Tactics",
-      "excerpt": "Documents from ICE’s investigation into the Sunrise Movement show an agent volunteered to build tools for “direct-action” protests. The post Secret ICE Agent Tried to “Entice” Minneapolis Activists Into Confrontational...",
-      "link": "https://theintercept.com/2026/08/15/undercover-ice-agents-minneapolis-sunrise-movement/",
-      "published": "2026-08-15T22:38:25+00:00",
+      "headline": "ICE Shot a Journalist and Threw Him in Detention. He’s Approaching 300 Days Behind Bars With a Festering Wound.",
+      "excerpt": "With the case of Carlitos Ricardo Parias, the U.S. has broken its own record for holding a journalist in custody. The post ICE Shot a Journalist and Threw Him in Detention. He’s Approaching 300 Days Behind Bars With a...",
+      "link": "https://theintercept.com/2026/08/16/ricardo-parias-ice-detention-journalist-los-angeles/",
+      "published": "2026-08-16T10:00:00+00:00",
       "featured": false
     },
     {
@@ -371,12 +371,12 @@
       "featured": false
     },
     {
-      "id": "e8b5ad073155",
+      "id": "7184318e7e5f",
       "source": "Rest of World",
-      "headline": "Why we should all be worried about AI in elections",
-      "excerpt": "Deepfakes dominate headlines, but the real danger lies in opaque AI systems that make up election infrastructure.",
-      "link": "https://restofworld.org/2026/ai-elections-deepfake-voter-chatbot/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-      "published": "2026-08-12T10:00:00+00:00",
+      "headline": "Mozilla’s CTO thinks AI should be built like the internet",
+      "excerpt": "Raffi Krikorian explains that while consumers flock to ChatGPT and Claude, companies are increasingly turning to open models that they can customize and control.",
+      "link": "https://restofworld.org/2026/open-source-ai-infrastructure-mozilla/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "published": "2026-08-13T10:00:00+00:00",
       "featured": false
     },
     {
@@ -398,12 +398,21 @@
       "featured": false
     },
     {
-      "id": "8449fc503d58",
+      "id": "d7cd961f5e63",
       "source": "Al Jazeera",
-      "headline": "Trump lashes out at CNN reporter over South Korea question",
-      "excerpt": "Trump lashes out at CNN reporter over South Korea question",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/trump-lashes-out-at-cnn-reporter-over-south-korea-question?traffic_source=rss",
-      "published": "2026-08-18T08:33:46+00:00",
+      "headline": "Russia protests Japan PM’s comments after Putin’s Kuril visit",
+      "excerpt": "Russia summons Japan's ambassador to Moscow over Prime Minister Sanae ⁠Takaichi's 'anti-Russian' remarks.",
+      "link": "https://www.aljazeera.com/news/2026/8/18/russia-protests-japan-pms-comments-after-putins-kuril-visit?traffic_source=rss",
+      "published": "2026-08-18T11:39:34+00:00",
+      "featured": false
+    },
+    {
+      "id": "148d2984d0ce",
+      "source": "The Intercept",
+      "headline": "Secret ICE Agent Tried to “Entice” Minneapolis Activists Into Confrontational Tactics",
+      "excerpt": "Documents from ICE’s investigation into the Sunrise Movement show an agent volunteered to build tools for “direct-action” protests. The post Secret ICE Agent Tried to “Entice” Minneapolis Activists Into Confrontational...",
+      "link": "https://theintercept.com/2026/08/15/undercover-ice-agents-minneapolis-sunrise-movement/",
+      "published": "2026-08-15T22:38:25+00:00",
       "featured": false
     },
     {
@@ -422,15 +431,6 @@
       "excerpt": "Mice can access memories after hibernation, a state that largely shuts their brains off and reduces synapses, suggesting that memories are stored across shifting neural systems.",
       "link": "https://www.404media.co/memories-mysteriously-survive-after-brain-shutdown-and-scientists-dont-know-why/",
       "published": "2026-08-15T10:00:42+00:00",
-      "featured": false
-    },
-    {
-      "id": "76c1d96f1f1d",
-      "source": "The Intercept",
-      "headline": "Has the Left Really Met Its Limit?",
-      "excerpt": "David Sirota on Francesca Hong’s defeat, what it means for the insurgent left, and how the American presidency has consolidated king-like power. The post Has the Left Really Met Its Limit? appeared first on The...",
-      "link": "https://theintercept.com/2026/08/14/david-sirota-democratic-establishment/",
-      "published": "2026-08-14T10:00:00+00:00",
       "featured": false
     },
     {
@@ -461,12 +461,12 @@
       "featured": false
     },
     {
-      "id": "616472f4369d",
+      "id": "e8b5ad073155",
       "source": "Rest of World",
-      "headline": "How one VC burns through hundreds of millions of tokens a day to find the next unicorn",
-      "excerpt": "The investor behind a $75-million AI-focused fund explains why reading research papers and testing frontier models has become part of his job.",
-      "link": "https://restofworld.org/2026/activate-interview-vc-sovereign-ai/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-      "published": "2026-08-11T10:00:00+00:00",
+      "headline": "Why we should all be worried about AI in elections",
+      "excerpt": "Deepfakes dominate headlines, but the real danger lies in opaque AI systems that make up election infrastructure.",
+      "link": "https://restofworld.org/2026/ai-elections-deepfake-voter-chatbot/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "published": "2026-08-12T10:00:00+00:00",
       "featured": false
     },
     {
@@ -488,12 +488,12 @@
       "featured": false
     },
     {
-      "id": "ad12051fd924",
+      "id": "6cffb2755854",
       "source": "Al Jazeera",
-      "headline": "Syrian court sentences Wassim al-Assad to death",
-      "excerpt": "Cousin of Bashar al-Assad and former regime figure found guilty of crimes including premeditated murder and torture",
-      "link": "https://www.aljazeera.com/news/2026/8/18/syrian-court-sentences-wassim-al-assad-to?traffic_source=rss",
-      "published": "2026-08-18T08:23:59+00:00",
+      "headline": "Why has Trump threatened to bomb Oman – for a second time?",
+      "excerpt": "The US president threatened to bomb Oman over Hormuz, with US-Iran peace negotiations in a deadlock.",
+      "link": "https://www.aljazeera.com/news/2026/8/18/why-has-trump-threatened-to-bomb-oman-for-a-second-time?traffic_source=rss",
+      "published": "2026-08-18T11:33:15+00:00",
       "featured": false
     },
     {
@@ -515,12 +515,12 @@
       "featured": false
     },
     {
-      "id": "1a9d61f4c8de",
+      "id": "76c1d96f1f1d",
       "source": "The Intercept",
-      "headline": "Cornell to Pro-Palestine Students Targeted by ICE: Come Back to the U.S. or Lose Funding",
-      "excerpt": "Momodou Taal and Amandla Thomas-Johnson were finishing their graduate degrees abroad because of targeting by the Trump administration. Cornell is ordering them back to campus. The post Cornell to Pro-Palestine Students...",
-      "link": "https://theintercept.com/2026/08/14/cornell-pro-palestine-student-targeting-ice/",
-      "published": "2026-08-14T09:00:00+00:00",
+      "headline": "Has the Left Really Met Its Limit?",
+      "excerpt": "David Sirota on Francesca Hong’s defeat, what it means for the insurgent left, and how the American presidency has consolidated king-like power. The post Has the Left Really Met Its Limit? appeared first on The...",
+      "link": "https://theintercept.com/2026/08/14/david-sirota-democratic-establishment/",
+      "published": "2026-08-14T10:00:00+00:00",
       "featured": false
     },
     {
