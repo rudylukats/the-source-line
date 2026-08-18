@@ -1,40 +1,49 @@
 {
-  "generated_at": "2026-08-18T15:46:38.280933+00:00",
+  "generated_at": "2026-08-18T18:56:57.483106+00:00",
   "articles": [
     {
-      "id": "498b3f1fc5d9",
-      "source": "Dropsite News",
-      "headline": "Primaries in Florida, Alaska, California; Israel strikes Syrian air base; Congo’s Ebola outbreak",
-      "excerpt": "Drop Site Daily: August 18, 2026",
-      "link": "https://www.dropsitenews.com/p/primaries-florida-alaska-california-israel-syria-air-base-congo-ebola-outbreak",
-      "published": "2026-08-18T15:25:10+00:00",
-      "featured": true
-    },
-    {
-      "id": "f0d5ecba517b",
+      "id": "58d449652797",
       "source": "Al Jazeera",
-      "headline": "Iran clubs face Qatar and UAE sides at neutral venues in Champions League",
-      "excerpt": "Following the start of the US-Israel war on Iran, the first match of the Iranian league was played last week.",
-      "link": "https://www.aljazeera.com/sports/2026/8/18/iran-clubs-to-play-qatar-and-uae-champions-league-games-at-neutral-venues?traffic_source=rss",
-      "published": "2026-08-18T15:14:17+00:00",
+      "headline": "Landmark trial on Meta’s impact on children’s mental health begins in US",
+      "excerpt": "Case follows whistleblower’s 2021 claims about Meta’s profit-driven disregard for young people’s mental health and user safety.",
+      "link": "https://www.aljazeera.com/economy/2026/8/18/landmark-trial-on-metas-impact-on-childrens-mental-health-begins-in-us?traffic_source=rss",
+      "published": "2026-08-18T18:33:11+00:00",
       "featured": true
     },
     {
-      "id": "03e23e0ca46e",
-      "source": "OCCRP",
-      "headline": "A Key Food Source Collapsed Off West Africa’s Coast as Chinese Ships Ground the Species Into Fishmeal",
-      "excerpt": "A Guinea-Bissau fisheries assessment obtained by OCCRP shows that the sardinella — an important food source — has been decimated in the years since two Chinese fishmeal-production vessels set up shop offshore. After the...",
-      "link": "https://www.occrp.org/en/feature/a-key-food-source-collapsed-off-west-africas-coast-as-chinese-ships-ground-the-species-into-fishmeal",
-      "published": "2026-08-18T15:12:00+00:00",
+      "id": "9c4bf1c2b5f5",
+      "source": "Dropsite News",
+      "headline": "Gaza's Teachers Struggle to Fill the Void of a School System Decimated by Israel",
+      "excerpt": "With few resources and little funding, makeshift educational facilities established over the past several months are working to provide some schooling to children in Gaza.",
+      "link": "https://www.dropsitenews.com/p/gaza-community-educational-schools-trauma-remote",
+      "published": "2026-08-18T17:57:00+00:00",
       "featured": true
     },
     {
-      "id": "3988c8486eb0",
+      "id": "be3f0fac247f",
+      "source": "The Lever",
+      "headline": "All The President’s Millionaires",
+      "excerpt": "The Trump administration is stacked with 57 “ultra-millionaires.”",
+      "link": "https://www.levernews.com/all-the-presidents-millionaires/",
+      "published": "2026-08-18T16:35:36+00:00",
+      "featured": true
+    },
+    {
+      "id": "0e4bf500c5b9",
       "source": "404 Media",
-      "headline": "X's Algorithm Feeds Off Ragebait and Impacts Democrats More, Study Finds",
-      "excerpt": "X is driving engagement by making users fight in the replies.",
-      "link": "https://www.404media.co/xs-algorithm-feeds-off-ragebait-and-impacts-democrats-more-study-finds/",
-      "published": "2026-08-18T13:27:22+00:00",
+      "headline": "Anthropic’s Text Watermarking Proves AI Companies Do Not Care at All About Writing",
+      "excerpt": "AI companies see words as interchangeable and have zero clue how to judge the “quality” of writing.",
+      "link": "https://www.404media.co/anthropics-text-watermarking-proves-ai-companies-do-not-care-at-all-about-writing/",
+      "published": "2026-08-18T15:54:15+00:00",
+      "featured": false
+    },
+    {
+      "id": "145519d76730",
+      "source": "OCCRP",
+      "headline": "Iran Moves to Outlaw All Contact With \"Hostile\" Foreign Media",
+      "excerpt": "International watchdogs warn that a proposed law imposing prison sentences for communications with “hostile” foreign media aims to keep evidence of state repression hidden.",
+      "link": "https://www.occrp.org/en/news/iran-moves-to-outlaw-all-contact-with-hostile-foreign-media",
+      "published": "2026-08-18T15:29:00+00:00",
       "featured": false
     },
     {
@@ -62,15 +71,6 @@
       "excerpt": "The post Measles Used to Be in Our Rearview Mirror. Now Cases Are Reaching Record Highs. appeared first on ProPublica.",
       "link": "https://www.propublica.org/article/measles-cases-vaccines",
       "published": "2026-08-18T09:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "23b84336974c",
-      "source": "The Lever",
-      "headline": "The Senate Candidate Who Could Get Rich Off Data Centers",
-      "excerpt": "Michigan Republican Mike Rogers holds millions in AI-related investments while backing Donald Trump’s push to fast-track the infrastructure fueling the industry.",
-      "link": "https://www.levernews.com/the-senate-candidate-with-an-ai-investment-problem/",
-      "published": "2026-08-18T00:15:23+00:00",
       "featured": false
     },
     {
@@ -110,30 +110,39 @@
       "featured": false
     },
     {
-      "id": "e735c27f17f8",
+      "id": "8aa4c8424b99",
       "source": "Al Jazeera",
-      "headline": "US cites India on voter IDs, but are elections under Modi clean?",
-      "excerpt": "Trump highlights India's voter ID rules to bolster his case for stricter US election laws.",
-      "link": "https://www.aljazeera.com/news/2026/8/18/us-cites-india-on-voter-ids-but-are-elections-under-modi-clean?traffic_source=rss",
-      "published": "2026-08-18T15:04:24+00:00",
+      "headline": "Israeli strike on Gaza City cafe kills six, including child",
+      "excerpt": "An Israeli strike hit a cafe in the port area west of Gaza City, killing six Palestinians, including a child.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/israeli-strike-on-gaza-city-cafe-kills-six-including-child?traffic_source=rss",
+      "published": "2026-08-18T18:32:24+00:00",
       "featured": false
     },
     {
-      "id": "99dfe20e73a8",
+      "id": "498b3f1fc5d9",
+      "source": "Dropsite News",
+      "headline": "Primaries in Florida, Alaska, California; Israel strikes Syrian air base; Congo’s Ebola outbreak",
+      "excerpt": "Drop Site Daily: August 18, 2026",
+      "link": "https://www.dropsitenews.com/p/primaries-florida-alaska-california-israel-syria-air-base-congo-ebola-outbreak",
+      "published": "2026-08-18T15:25:10+00:00",
+      "featured": false
+    },
+    {
+      "id": "03e23e0ca46e",
       "source": "OCCRP",
-      "headline": "US Unseals 25-Count Indictment in $165M Crypto Case",
-      "excerpt": "U.S. prosecutors accused Edward Zimbardi of defrauding thousands of investors, days he had been returned from Fiji to the United States.",
-      "link": "https://www.occrp.org/en/news/us-unseals-25-count-indictment-in-165m-crypto-case",
-      "published": "2026-08-18T13:53:00+00:00",
+      "headline": "A Key Food Source Collapsed Off West Africa’s Coast as Chinese Ships Ground the Species Into Fishmeal",
+      "excerpt": "A Guinea-Bissau fisheries assessment obtained by OCCRP shows that the sardinella — an important food source — has been decimated in the years since two Chinese fishmeal-production vessels set up shop offshore. After the...",
+      "link": "https://www.occrp.org/en/feature/a-key-food-source-collapsed-off-west-africas-coast-as-chinese-ships-ground-the-species-into-fishmeal",
+      "published": "2026-08-18T15:12:00+00:00",
       "featured": false
     },
     {
-      "id": "d06c386273fd",
+      "id": "3988c8486eb0",
       "source": "404 Media",
-      "headline": "The National Park Service Is Using Flock. Rangers Are Pissed",
-      "excerpt": "“I fear for the day when a visitor's National Park experience is interrupted by being pulled over and held at gunpoint because a license plate reader misread their plate.”",
-      "link": "https://www.404media.co/the-national-park-service-is-using-flock-rangers-are-pissed/",
-      "published": "2026-08-18T13:21:29+00:00",
+      "headline": "X's Algorithm Feeds Off Ragebait and Impacts Democrats More, Study Finds",
+      "excerpt": "X is driving engagement by making users fight in the replies.",
+      "link": "https://www.404media.co/xs-algorithm-feeds-off-ragebait-and-impacts-democrats-more-study-finds/",
+      "published": "2026-08-18T13:27:22+00:00",
       "featured": false
     },
     {
@@ -146,21 +155,12 @@
       "featured": false
     },
     {
-      "id": "84de8650ba4f",
-      "source": "Dropsite News",
-      "headline": "Judge Throws Out “Political Prosecution” of Pro-Palestinian University of Michigan Student",
-      "excerpt": "The student, Hiab Teshome, is also a graduate student union leader in tense contract negotiations with the school.",
-      "link": "https://www.dropsitenews.com/p/university-michigan-eli-savit-student-pro-palestine-felony-charges-thrown-out",
-      "published": "2026-08-17T23:53:11+00:00",
-      "featured": false
-    },
-    {
-      "id": "1d17dc223f98",
+      "id": "23b84336974c",
       "source": "The Lever",
-      "headline": "Consumers Frozen Out Of Tariff Refund Bonanza",
-      "excerpt": "Refunds from Trump’s Liberation Day tariffs are boosting corporate quarterly earnings, while Consumers who paid the tariffs are shut out.",
-      "link": "https://www.levernews.com/consumers-frozen-out-of-tariff-refund-bonanza/",
-      "published": "2026-08-17T17:43:15+00:00",
+      "headline": "The Senate Candidate Who Could Get Rich Off Data Centers",
+      "excerpt": "Michigan Republican Mike Rogers holds millions in AI-related investments while backing Donald Trump’s push to fast-track the infrastructure fueling the industry.",
+      "link": "https://www.levernews.com/the-senate-candidate-with-an-ai-investment-problem/",
+      "published": "2026-08-18T00:15:23+00:00",
       "featured": false
     },
     {
@@ -209,39 +209,48 @@
       "featured": false
     },
     {
-      "id": "dcfcc7c19d91",
+      "id": "6b48b850932e",
       "source": "Al Jazeera",
-      "headline": "Why is Russia threatening UK with ‘consequences’ over Ukraine drones?",
-      "excerpt": "Russia is suffering attacks inside its own territory as long-range drones strike its strategic assets.",
-      "link": "https://www.aljazeera.com/news/2026/8/18/why-is-russia-threatening-uk-with-consequences-over-ukraine-drones?traffic_source=rss",
-      "published": "2026-08-18T14:49:56+00:00",
+      "headline": "Police attack Indonesian student protesters, arresting at least 21",
+      "excerpt": "Hundreds of university students in Indonesia took to the streets of Jakarta on Tuesday.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/police-attack-indonesian-student-protesters-arresting-at-least-21?traffic_source=rss",
+      "published": "2026-08-18T18:17:35+00:00",
       "featured": false
     },
     {
-      "id": "7bcc5e57f8d4",
-      "source": "404 Media",
-      "headline": "Pornhub's Parent Company to Pay $120 Million to Settle Child Sexual Abuse Lawsuits",
-      "excerpt": "The deal settles class action lawsuits claiming Mindgeek's sites hosted and profited from abuse videos of minors.",
-      "link": "https://www.404media.co/pornhubs-parent-company-to-pay-120-million-to-settle-child-sexual-abuse-lawsuits/",
-      "published": "2026-08-17T21:04:53+00:00",
-      "featured": false
-    },
-    {
-      "id": "3c09aeb3efb2",
+      "id": "99dfe20e73a8",
       "source": "OCCRP",
-      "headline": "Fiji Hands Over a Man Suspected of Ponzi-style Crypto Investment Schemes to US",
-      "excerpt": "Following regulatory crackdowns in the U.S. and an arrest in the Netherlands, Edward Zimbardi was handed over to American authorities to face scrutiny over his alleged digital asset frauds.",
-      "link": "https://www.occrp.org/en/news/fiji-hands-over-a-man-suspected-of-ponzi-style-crypto-investment-schemes-to-us",
-      "published": "2026-08-17T16:33:00+00:00",
+      "headline": "US Unseals 25-Count Indictment in $165M Crypto Case",
+      "excerpt": "U.S. prosecutors accused Edward Zimbardi of defrauding thousands of investors, days he had been returned from Fiji to the United States.",
+      "link": "https://www.occrp.org/en/news/us-unseals-25-count-indictment-in-165m-crypto-case",
+      "published": "2026-08-18T13:53:00+00:00",
       "featured": false
     },
     {
-      "id": "410926238f3b",
+      "id": "d06c386273fd",
+      "source": "404 Media",
+      "headline": "The National Park Service Is Using Flock. Rangers Are Pissed",
+      "excerpt": "“I fear for the day when a visitor's National Park experience is interrupted by being pulled over and held at gunpoint because a license plate reader misread their plate.”",
+      "link": "https://www.404media.co/the-national-park-service-is-using-flock-rangers-are-pissed/",
+      "published": "2026-08-18T13:21:29+00:00",
+      "featured": false
+    },
+    {
+      "id": "84de8650ba4f",
       "source": "Dropsite News",
-      "headline": "U.S.-Iran MOU expires without agreement; Israeli strikes kill 11 in Lebanon; DNC votes to abolish ICE",
-      "excerpt": "Drop Site Daily: August 17, 2026",
-      "link": "https://www.dropsitenews.com/p/us-iran-memorandum-expires-israel-lebanon-strikes-democrats-ice-abolish",
-      "published": "2026-08-17T15:14:51+00:00",
+      "headline": "Judge Throws Out “Political Prosecution” of Pro-Palestinian University of Michigan Student",
+      "excerpt": "The student, Hiab Teshome, is also a graduate student union leader in tense contract negotiations with the school.",
+      "link": "https://www.dropsitenews.com/p/university-michigan-eli-savit-student-pro-palestine-felony-charges-thrown-out",
+      "published": "2026-08-17T23:53:11+00:00",
+      "featured": false
+    },
+    {
+      "id": "1d17dc223f98",
+      "source": "The Lever",
+      "headline": "Consumers Frozen Out Of Tariff Refund Bonanza",
+      "excerpt": "Refunds from Trump’s Liberation Day tariffs are boosting corporate quarterly earnings, while Consumers who paid the tariffs are shut out.",
+      "link": "https://www.levernews.com/consumers-frozen-out-of-tariff-refund-bonanza/",
+      "published": "2026-08-17T17:43:15+00:00",
       "featured": false
     },
     {
@@ -251,15 +260,6 @@
       "excerpt": "Oliver Larkin is trying to unseat Rep. Jared Moskowitz, who is backed by AIPAC donors and an artificial intelligence super PAC. The post A Democratic Socialist Aims to Oust a Top AIPAC Beneficiary in Florida appeared...",
       "link": "https://theintercept.com/2026/08/17/florida-congress-oliver-larkin-jared-moskowitz-aipac/",
       "published": "2026-08-17T14:01:56+00:00",
-      "featured": false
-    },
-    {
-      "id": "54037e6c9df0",
-      "source": "The Lever",
-      "headline": "Hakeem Jeffries’ Betrayal Shows Why Democratic Voters Are So Enraged",
-      "excerpt": "House Dems’ leader declared his opposition to Medicare For All on the same day a new poll shows almost all Democratic voters support it.",
-      "link": "https://www.levernews.com/hakeem-jeffries-betrayal-shows-why-democratic-voters-are-so-enraged/",
-      "published": "2026-08-17T07:01:16+00:00",
       "featured": false
     },
     {
@@ -308,39 +308,48 @@
       "featured": false
     },
     {
-      "id": "15d8ca52cb04",
+      "id": "47ecf671727e",
       "source": "Al Jazeera",
-      "headline": "Patrick Vieira appointed Senegal head coach with AFCON qualifiers looming",
-      "excerpt": "Former France, Arsenal and Manchester City midfielder Patrick Vieira replaces Pape Thiaw as Senegal coach.",
-      "link": "https://www.aljazeera.com/sports/2026/8/18/patrick-vieira-appointed-senegal-head-coach-with-afcon-qualifiers-looming?traffic_source=rss",
-      "published": "2026-08-18T14:46:59+00:00",
+      "headline": "Barcelona seal deal for World Cup winner Rodri from Manchester City",
+      "excerpt": "Rodri won the player of the World Cup award while helping Spain beat Argentina, and now completes his Barcelona move.",
+      "link": "https://www.aljazeera.com/sports/2026/8/18/barcelona-seal-deal-for-world-cup-winner-rodri-from-manchester-city?traffic_source=rss",
+      "published": "2026-08-18T18:01:12+00:00",
       "featured": false
     },
     {
-      "id": "3a56b8fffe53",
-      "source": "OCCRP",
-      "headline": "Iraqi Electricity Official Arrested With Millions in Cash as Anti-Graft Campaign Expands",
-      "excerpt": "The arrest of Undersecretary Khalid Ghazay Atiya marks a major escalation in Prime Minister Ali al-Zaidi’s sweeping anti-corruption drive, bringing Iraq's deeply troubled electricity sector under unprecedented scrutiny.",
-      "link": "https://www.occrp.org/en/news/iraq-seizes-millions-in-cash-and-gold-from-homes-of-electricity-ministry-official-amid-calls-to-probe-sector",
-      "published": "2026-08-17T16:20:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "b25d96757340",
+      "id": "7bcc5e57f8d4",
       "source": "404 Media",
-      "headline": "‘Show How 3M Is 0% at Fault:’ Expert Witness Used ChatGPT to Write Report Defending Company in Deadly Explosion Lawsuit",
-      "excerpt": "ChatGPT prompts show how an expert witness report was created in a $61 million lawsuit over an explosion that killed three people.",
-      "link": "https://www.404media.co/show-how-3m-is-0-at-fault-expert-witness-used-chatgpt-to-write-report-defending-company-in-deadly-explosion-lawsuit/",
-      "published": "2026-08-17T14:56:24+00:00",
+      "headline": "Pornhub's Parent Company to Pay $120 Million to Settle Child Sexual Abuse Lawsuits",
+      "excerpt": "The deal settles class action lawsuits claiming Mindgeek's sites hosted and profited from abuse videos of minors.",
+      "link": "https://www.404media.co/pornhubs-parent-company-to-pay-120-million-to-settle-child-sexual-abuse-lawsuits/",
+      "published": "2026-08-17T21:04:53+00:00",
       "featured": false
     },
     {
-      "id": "d383cee96f88",
+      "id": "3c09aeb3efb2",
+      "source": "OCCRP",
+      "headline": "Fiji Hands Over a Man Suspected of Ponzi-style Crypto Investment Schemes to US",
+      "excerpt": "Following regulatory crackdowns in the U.S. and an arrest in the Netherlands, Edward Zimbardi was handed over to American authorities to face scrutiny over his alleged digital asset frauds.",
+      "link": "https://www.occrp.org/en/news/fiji-hands-over-a-man-suspected-of-ponzi-style-crypto-investment-schemes-to-us",
+      "published": "2026-08-17T16:33:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "410926238f3b",
+      "source": "Dropsite News",
+      "headline": "U.S.-Iran MOU expires without agreement; Israeli strikes kill 11 in Lebanon; DNC votes to abolish ICE",
+      "excerpt": "Drop Site Daily: August 17, 2026",
+      "link": "https://www.dropsitenews.com/p/us-iran-memorandum-expires-israel-lebanon-strikes-democrats-ice-abolish",
+      "published": "2026-08-17T15:14:51+00:00",
+      "featured": false
+    },
+    {
+      "id": "54037e6c9df0",
       "source": "The Lever",
-      "headline": "Lever Weekly: The Establishment Strikes Back",
-      "excerpt": "Socialists hit a speed bump, moderates declare war, a Connecticut billionaire pulls electoral strings, and more from The Lever this week.",
-      "link": "https://www.levernews.com/lever-weekly-the-establishment-strikes-back/",
-      "published": "2026-08-16T13:01:54+00:00",
+      "headline": "Hakeem Jeffries’ Betrayal Shows Why Democratic Voters Are So Enraged",
+      "excerpt": "House Dems’ leader declared his opposition to Medicare For All on the same day a new poll shows almost all Democratic voters support it.",
+      "link": "https://www.levernews.com/hakeem-jeffries-betrayal-shows-why-democratic-voters-are-so-enraged/",
+      "published": "2026-08-17T07:01:16+00:00",
       "featured": false
     },
     {
@@ -350,15 +359,6 @@
       "excerpt": "With the case of Carlitos Ricardo Parias, the U.S. has broken its own record for holding a journalist in custody. The post ICE Shot a Journalist and Threw Him in Detention. He’s Approaching 300 Days Behind Bars With a...",
       "link": "https://theintercept.com/2026/08/16/ricardo-parias-ice-detention-journalist-los-angeles/",
       "published": "2026-08-16T10:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "9f461c5b2192",
-      "source": "Dropsite News",
-      "headline": "Hormuz grinds to a halt again; Gaza’s cancer patients dying at 2-3 times prewar rate; DHS surveilled left-wing groups in Minnesota",
-      "excerpt": "Drop Site Daily: August 14, 2026",
-      "link": "https://www.dropsitenews.com/p/hormuz-iran-us-gaza-cancer-israel-dhs-left-minnesota",
-      "published": "2026-08-14T16:17:45+00:00",
       "featured": false
     },
     {
@@ -398,30 +398,39 @@
       "featured": false
     },
     {
-      "id": "c0d2b5af6f78",
+      "id": "abc3df443643",
       "source": "Al Jazeera",
-      "headline": "What to watch in the Alaska and Wyoming primary elections",
-      "excerpt": "Republican-led states face leadership shuffling.",
-      "link": "https://www.aljazeera.com/news/2026/8/18/what-to-watch-in-the-alaska-and-wyoming-primary-elections?traffic_source=rss",
-      "published": "2026-08-18T14:29:11+00:00",
+      "headline": "Nigeria hospital collapses after rain washed away its foundations",
+      "excerpt": "A hospital in Nigeria has collapsed after rainwater triggered a landslide, washing away the foundational infrastructure.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/nigeria-hospital-collapses-after-rain-washed-away-its-foundations?traffic_source=rss",
+      "published": "2026-08-18T17:55:26+00:00",
       "featured": false
     },
     {
-      "id": "fa09fb7e2d3b",
+      "id": "3a56b8fffe53",
       "source": "OCCRP",
-      "headline": "Spain Seizes 13 Tonnes of Nitrous Oxide in Tenerife",
-      "excerpt": "",
-      "link": "https://www.occrp.org/en/news/spain-seizes-13-tonnes-of-nitrous-oxide-in-tenerife",
-      "published": "2026-08-17T16:15:00+00:00",
+      "headline": "Iraqi Electricity Official Arrested With Millions in Cash as Anti-Graft Campaign Expands",
+      "excerpt": "The arrest of Undersecretary Khalid Ghazay Atiya marks a major escalation in Prime Minister Ali al-Zaidi’s sweeping anti-corruption drive, bringing Iraq's deeply troubled electricity sector under unprecedented scrutiny.",
+      "link": "https://www.occrp.org/en/news/iraq-seizes-millions-in-cash-and-gold-from-homes-of-electricity-ministry-official-amid-calls-to-probe-sector",
+      "published": "2026-08-17T16:20:00+00:00",
       "featured": false
     },
     {
-      "id": "5c6f6f558f94",
+      "id": "b25d96757340",
       "source": "404 Media",
-      "headline": "The Future of Deepfakes and the Decline of Reality (With Hany Farid)",
-      "excerpt": "The past, present, and future of deepfakes, as seen by the world’s leading expert on synthetic media.",
-      "link": "https://www.404media.co/the-future-of-deepfakes-and-the-decline-of-reality-with-hany-farid/",
-      "published": "2026-08-17T14:19:26+00:00",
+      "headline": "‘Show How 3M Is 0% at Fault:’ Expert Witness Used ChatGPT to Write Report Defending Company in Deadly Explosion Lawsuit",
+      "excerpt": "ChatGPT prompts show how an expert witness report was created in a $61 million lawsuit over an explosion that killed three people.",
+      "link": "https://www.404media.co/show-how-3m-is-0-at-fault-expert-witness-used-chatgpt-to-write-report-defending-company-in-deadly-explosion-lawsuit/",
+      "published": "2026-08-17T14:56:24+00:00",
+      "featured": false
+    },
+    {
+      "id": "d383cee96f88",
+      "source": "The Lever",
+      "headline": "Lever Weekly: The Establishment Strikes Back",
+      "excerpt": "Socialists hit a speed bump, moderates declare war, a Connecticut billionaire pulls electoral strings, and more from The Lever this week.",
+      "link": "https://www.levernews.com/lever-weekly-the-establishment-strikes-back/",
+      "published": "2026-08-16T13:01:54+00:00",
       "featured": false
     },
     {
@@ -434,21 +443,12 @@
       "featured": false
     },
     {
-      "id": "8de3a34e3cbb",
-      "source": "The Lever",
-      "headline": "You Love To See It: Those Meddling Kids",
-      "excerpt": "Meta’s billion-dollar disturbance, a sanctions regime topples, voters vote to win, and clean energy cleans up.",
-      "link": "https://www.levernews.com/you-love-to-see-it-those-meddling-kids/",
-      "published": "2026-08-15T13:01:45+00:00",
-      "featured": false
-    },
-    {
-      "id": "a834d9234f9b",
+      "id": "9f461c5b2192",
       "source": "Dropsite News",
-      "headline": "U.S. Infrastructure Strikes Have Left Iranians in the South Without Livelihoods",
-      "excerpt": "U.S. airstrikes last month in southern Iran targeted civilian infrastructure, including fishing ports, bridges, telecommunications networks, power plants, hospitals, and transportation corridors.",
-      "link": "https://www.dropsitenews.com/p/southern-iran-us-airstrikes-civilian-infrastructure",
-      "published": "2026-08-13T17:02:51+00:00",
+      "headline": "Hormuz grinds to a halt again; Gaza’s cancer patients dying at 2-3 times prewar rate; DHS surveilled left-wing groups in Minnesota",
+      "excerpt": "Drop Site Daily: August 14, 2026",
+      "link": "https://www.dropsitenews.com/p/hormuz-iran-us-gaza-cancer-israel-dhs-left-minnesota",
+      "published": "2026-08-14T16:17:45+00:00",
       "featured": false
     },
     {
@@ -488,30 +488,39 @@
       "featured": false
     },
     {
-      "id": "0295317f0eea",
+      "id": "91753c0bd74f",
       "source": "Al Jazeera",
-      "headline": "Hichilema re-elected as Zambia president amid opposition concerns over vote",
-      "excerpt": "Hakainde Hichilema’s second term will test whether economic recovery can deliver real change for Zambians.",
-      "link": "https://www.aljazeera.com/news/2026/8/18/hichilema-re-elected-as-zambia-president-amid-opposition-concerns-over-vote?traffic_source=rss",
-      "published": "2026-08-18T14:01:47+00:00",
+      "headline": "Analysis: Syrian airbase attack is an Israeli message to Damascus, Ankara",
+      "excerpt": "Analysts say the attack on Abu al-Duhur was likely an Israeli message warning to not rebuild Syria's air force.",
+      "link": "https://www.aljazeera.com/features/2026/8/18/analysis-syrian-airbase-attack-is-an-israeli-message-to-damascus-ankara?traffic_source=rss",
+      "published": "2026-08-18T17:51:46+00:00",
       "featured": false
     },
     {
-      "id": "c61aba5f082a",
+      "id": "fa09fb7e2d3b",
+      "source": "OCCRP",
+      "headline": "Spain Seizes 13 Tonnes of Nitrous Oxide in Tenerife",
+      "excerpt": "",
+      "link": "https://www.occrp.org/en/news/spain-seizes-13-tonnes-of-nitrous-oxide-in-tenerife",
+      "published": "2026-08-17T16:15:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "5c6f6f558f94",
       "source": "404 Media",
-      "headline": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility",
-      "excerpt": "We placed a tracking device in a shipment of rare books to see which AI company was buying it, and found an Amazon facility where Amazon scans and destroys books.",
-      "link": "https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility/",
-      "published": "2026-08-17T13:16:09+00:00",
+      "headline": "The Future of Deepfakes and the Decline of Reality (With Hany Farid)",
+      "excerpt": "The past, present, and future of deepfakes, as seen by the world’s leading expert on synthetic media.",
+      "link": "https://www.404media.co/the-future-of-deepfakes-and-the-decline-of-reality-with-hany-farid/",
+      "published": "2026-08-17T14:19:26+00:00",
       "featured": false
     },
     {
-      "id": "958597c3b79b",
+      "id": "8de3a34e3cbb",
       "source": "The Lever",
-      "headline": "Elon Musk’s Banking Empire Just Got Gov. Hochul’s Blessing",
-      "excerpt": "Despite lawmakers’ warnings about Musk, New York gave the world’s first trillionaire a critical approval in his plan to turn X into an “everything app.”",
-      "link": "https://www.levernews.com/exclusive-elon-musks-banking-empire-just-got-gov-hochuls-blessing/",
-      "published": "2026-08-14T23:24:13+00:00",
+      "headline": "You Love To See It: Those Meddling Kids",
+      "excerpt": "Meta’s billion-dollar disturbance, a sanctions regime topples, voters vote to win, and clean energy cleans up.",
+      "link": "https://www.levernews.com/you-love-to-see-it-those-meddling-kids/",
+      "published": "2026-08-15T13:01:45+00:00",
       "featured": false
     },
     {
@@ -524,21 +533,12 @@
       "featured": false
     },
     {
-      "id": "c23c7e956d1e",
-      "source": "OCCRP",
-      "headline": "Former U.S. Banker Jailed for Laundering Medicare Funds",
-      "excerpt": "A former Brooklyn bank manager was sentenced to 18 months in prison for helping a transnational criminal organization launder more than $8 million obtained through health care fraud.",
-      "link": "https://www.occrp.org/en/news/former-us-banker-jailed-for-laundering-medicare-funds",
-      "published": "2026-08-13T21:40:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "e885dc737559",
+      "id": "a834d9234f9b",
       "source": "Dropsite News",
-      "headline": "USS Abraham Lincoln sailors try to jump overboard after 250 days at sea; Third person dies after Newark ICE facility detention; Israel sets wildfires in Lebanon",
-      "excerpt": "Drop Site Daily: August 13, 2026",
-      "link": "https://www.dropsitenews.com/p/uss-abraham-lincoln-overboard-newark-ice-detention-israel-lebanon-wildfires",
-      "published": "2026-08-13T15:19:39+00:00",
+      "headline": "U.S. Infrastructure Strikes Have Left Iranians in the South Without Livelihoods",
+      "excerpt": "U.S. airstrikes last month in southern Iran targeted civilian infrastructure, including fishing ports, bridges, telecommunications networks, power plants, hospitals, and transportation corridors.",
+      "link": "https://www.dropsitenews.com/p/southern-iran-us-airstrikes-civilian-infrastructure",
+      "published": "2026-08-13T17:02:51+00:00",
       "featured": false
     }
   ]
