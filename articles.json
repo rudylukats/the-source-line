@@ -1,6 +1,33 @@
 {
-  "generated_at": "2026-08-17T21:41:52.477383+00:00",
+  "generated_at": "2026-08-18T01:50:58.672484+00:00",
   "articles": [
+    {
+      "id": "b620f6564987",
+      "source": "Al Jazeera",
+      "headline": "Vigil held in central London for late Cambridge professor Jason Arday",
+      "excerpt": "Thousands mourned Jason Arday in central London, and voiced anger over the Cambridge professor’s media treatment.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/08-18-26-arday-vigil-london-sv-mp4?traffic_source=rss",
+      "published": "2026-08-18T01:26:31+00:00",
+      "featured": true
+    },
+    {
+      "id": "23b84336974c",
+      "source": "The Lever",
+      "headline": "The Senate Candidate Who Could Get Rich Off Data Centers",
+      "excerpt": "Michigan Republican Mike Rogers holds millions in AI-related investments while backing Donald Trump’s push to fast-track the infrastructure fueling the industry.",
+      "link": "https://www.levernews.com/the-senate-candidate-with-an-ai-investment-problem/",
+      "published": "2026-08-18T00:15:23+00:00",
+      "featured": true
+    },
+    {
+      "id": "84de8650ba4f",
+      "source": "Dropsite News",
+      "headline": "Judge Throws Out “Political Prosecution” of Pro-Palestinian University of Michigan Student",
+      "excerpt": "The student, Hiab Teshome, is also a graduate student union leader in tense contract negotiations with the school.",
+      "link": "https://www.dropsitenews.com/p/university-michigan-eli-savit-student-pro-palestine-felony-charges-thrown-out",
+      "published": "2026-08-17T23:53:11+00:00",
+      "featured": true
+    },
     {
       "id": "7bcc5e57f8d4",
       "source": "404 Media",
@@ -8,25 +35,7 @@
       "excerpt": "The deal settles class action lawsuits claiming Mindgeek's sites hosted and profited from abuse videos of minors.",
       "link": "https://www.404media.co/pornhubs-parent-company-to-pay-120-million-to-settle-child-sexual-abuse-lawsuits/",
       "published": "2026-08-17T21:04:53+00:00",
-      "featured": true
-    },
-    {
-      "id": "9f817e23a058",
-      "source": "Al Jazeera",
-      "headline": "Palestinian American reunites with family under siege in West Bank",
-      "excerpt": "Videos show the first moments Palestinian-American Loui Ridi arrived at his home in Qusra.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/palestinian-american-reunites-with-family-under-siege-in-west-bank?traffic_source=rss",
-      "published": "2026-08-17T20:57:19+00:00",
-      "featured": true
-    },
-    {
-      "id": "1d17dc223f98",
-      "source": "The Lever",
-      "headline": "Consumers Frozen Out Of Tariff Refund Bonanza",
-      "excerpt": "Refunds from Trump’s Liberation Day tariffs are boosting corporate quarterly earnings, while Consumers who paid the tariffs are shut out.",
-      "link": "https://www.levernews.com/consumers-frozen-out-of-tariff-refund-bonanza/",
-      "published": "2026-08-17T17:43:15+00:00",
-      "featured": true
+      "featured": false
     },
     {
       "id": "3c09aeb3efb2",
@@ -35,15 +44,6 @@
       "excerpt": "Following regulatory crackdowns in the U.S. and an arrest in the Netherlands, Edward Zimbardi was handed over to American authorities to face scrutiny over his alleged digital asset frauds.",
       "link": "https://www.occrp.org/en/news/fiji-hands-over-a-man-suspected-of-ponzi-style-crypto-investment-schemes-to-us",
       "published": "2026-08-17T16:33:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "410926238f3b",
-      "source": "Dropsite News",
-      "headline": "U.S.-Iran MOU expires without agreement; Israeli strikes kill 11 in Lebanon; DNC votes to abolish ICE",
-      "excerpt": "Drop Site Daily: August 17, 2026",
-      "link": "https://www.dropsitenews.com/p/us-iran-memorandum-expires-israel-lebanon-strikes-democrats-ice-abolish",
-      "published": "2026-08-17T15:14:51+00:00",
       "featured": false
     },
     {
@@ -110,12 +110,21 @@
       "featured": false
     },
     {
-      "id": "e84bd51cd76b",
+      "id": "af509f50c7be",
       "source": "Al Jazeera",
-      "headline": "Civilians paying price as Israeli military raises stakes in Lebanon: UNIFIL",
-      "excerpt": "UN peacekeeping force recorded an average of 137 projectiles fired daily in the region over the last two weeks.",
-      "link": "https://www.aljazeera.com/news/2026/8/17/civilians-pay-price-as-israeli-military-activity-rises-in-lebanon-unifil?traffic_source=rss",
-      "published": "2026-08-17T20:54:03+00:00",
+      "headline": "Zambia’s Hichilema wins second term as president",
+      "excerpt": "Official results show Hichilema receiving about 60 percent of votes, compared with ⁠38 percent for his main challenger.",
+      "link": "https://www.aljazeera.com/news/2026/8/18/zambias-hichilema-wins-second-term-as-president?traffic_source=rss",
+      "published": "2026-08-18T01:17:50+00:00",
+      "featured": false
+    },
+    {
+      "id": "1d17dc223f98",
+      "source": "The Lever",
+      "headline": "Consumers Frozen Out Of Tariff Refund Bonanza",
+      "excerpt": "Refunds from Trump’s Liberation Day tariffs are boosting corporate quarterly earnings, while Consumers who paid the tariffs are shut out.",
+      "link": "https://www.levernews.com/consumers-frozen-out-of-tariff-refund-bonanza/",
+      "published": "2026-08-17T17:43:15+00:00",
       "featured": false
     },
     {
@@ -128,6 +137,15 @@
       "featured": false
     },
     {
+      "id": "410926238f3b",
+      "source": "Dropsite News",
+      "headline": "U.S.-Iran MOU expires without agreement; Israeli strikes kill 11 in Lebanon; DNC votes to abolish ICE",
+      "excerpt": "Drop Site Daily: August 17, 2026",
+      "link": "https://www.dropsitenews.com/p/us-iran-memorandum-expires-israel-lebanon-strikes-democrats-ice-abolish",
+      "published": "2026-08-17T15:14:51+00:00",
+      "featured": false
+    },
+    {
       "id": "b25d96757340",
       "source": "404 Media",
       "headline": "‘Show How 3M Is 0% at Fault:’ Expert Witness Used ChatGPT to Write Report Defending Company in Deadly Explosion Lawsuit",
@@ -137,30 +155,12 @@
       "featured": false
     },
     {
-      "id": "54037e6c9df0",
-      "source": "The Lever",
-      "headline": "Hakeem Jeffries’ Betrayal Shows Why Democratic Voters Are So Enraged",
-      "excerpt": "House Dems’ leader declared his opposition to Medicare For All on the same day a new poll shows almost all Democratic voters support it.",
-      "link": "https://www.levernews.com/hakeem-jeffries-betrayal-shows-why-democratic-voters-are-so-enraged/",
-      "published": "2026-08-17T07:01:16+00:00",
-      "featured": false
-    },
-    {
       "id": "57d4f7fbeace",
       "source": "The Intercept",
       "headline": "ICE Shot a Journalist and Threw Him in Detention. He’s Approaching 300 Days Behind Bars With a Festering Wound.",
       "excerpt": "With the case of Carlitos Ricardo Parias, the U.S. has broken its own record for holding a journalist in custody. The post ICE Shot a Journalist and Threw Him in Detention. He’s Approaching 300 Days Behind Bars With a...",
       "link": "https://theintercept.com/2026/08/16/ricardo-parias-ice-detention-journalist-los-angeles/",
       "published": "2026-08-16T10:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "9f461c5b2192",
-      "source": "Dropsite News",
-      "headline": "Hormuz grinds to a halt again; Gaza’s cancer patients dying at 2-3 times prewar rate; DHS surveilled left-wing groups in Minnesota",
-      "excerpt": "Drop Site Daily: August 14, 2026",
-      "link": "https://www.dropsitenews.com/p/hormuz-iran-us-gaza-cancer-israel-dhs-left-minnesota",
-      "published": "2026-08-14T16:17:45+00:00",
       "featured": false
     },
     {
@@ -209,12 +209,12 @@
       "featured": false
     },
     {
-      "id": "21b0262faf11",
+      "id": "9baf3d6609b7",
       "source": "Al Jazeera",
-      "headline": "Trump says Iran will not make the deal he believes is necessary",
-      "excerpt": "Trump says Iran will not make the deal he believes is necessary",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/trump-says-iran-will-not-make-the-deal-he-believes-is-necessary?traffic_source=rss",
-      "published": "2026-08-17T20:49:30+00:00",
+      "headline": "Iran war live: Trump rejects MoU extension as US claims control of Hormuz",
+      "excerpt": "US president says Iran should 'put up the white flag of surrender' as the two nations’ MoU expired on Monday.",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/8/18/iran-war-live-trump-rejects-mou-extension-as-us-claims-control-of-hormuz?traffic_source=rss",
+      "published": "2026-08-18T00:00:00+00:00",
       "featured": false
     },
     {
@@ -227,12 +227,12 @@
       "featured": false
     },
     {
-      "id": "d383cee96f88",
+      "id": "54037e6c9df0",
       "source": "The Lever",
-      "headline": "Lever Weekly: The Establishment Strikes Back",
-      "excerpt": "Socialists hit a speed bump, moderates declare war, a Connecticut billionaire pulls electoral strings, and more from The Lever this week.",
-      "link": "https://www.levernews.com/lever-weekly-the-establishment-strikes-back/",
-      "published": "2026-08-16T13:01:54+00:00",
+      "headline": "Hakeem Jeffries’ Betrayal Shows Why Democratic Voters Are So Enraged",
+      "excerpt": "House Dems’ leader declared his opposition to Medicare For All on the same day a new poll shows almost all Democratic voters support it.",
+      "link": "https://www.levernews.com/hakeem-jeffries-betrayal-shows-why-democratic-voters-are-so-enraged/",
+      "published": "2026-08-17T07:01:16+00:00",
       "featured": false
     },
     {
@@ -242,6 +242,15 @@
       "excerpt": "Documents from ICE’s investigation into the Sunrise Movement show an agent volunteered to build tools for “direct-action” protests. The post Secret ICE Agent Tried to “Entice” Minneapolis Activists Into Confrontational...",
       "link": "https://theintercept.com/2026/08/15/undercover-ice-agents-minneapolis-sunrise-movement/",
       "published": "2026-08-15T22:38:25+00:00",
+      "featured": false
+    },
+    {
+      "id": "9f461c5b2192",
+      "source": "Dropsite News",
+      "headline": "Hormuz grinds to a halt again; Gaza’s cancer patients dying at 2-3 times prewar rate; DHS surveilled left-wing groups in Minnesota",
+      "excerpt": "Drop Site Daily: August 14, 2026",
+      "link": "https://www.dropsitenews.com/p/hormuz-iran-us-gaza-cancer-israel-dhs-left-minnesota",
+      "published": "2026-08-14T16:17:45+00:00",
       "featured": false
     },
     {
@@ -260,15 +269,6 @@
       "excerpt": "A former Brooklyn bank manager was sentenced to 18 months in prison for helping a transnational criminal organization launder more than $8 million obtained through health care fraud.",
       "link": "https://www.occrp.org/en/news/former-us-banker-jailed-for-laundering-medicare-funds",
       "published": "2026-08-13T21:40:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "a834d9234f9b",
-      "source": "Dropsite News",
-      "headline": "U.S. Infrastructure Strikes Have Left Iranians in the South Without Livelihoods",
-      "excerpt": "U.S. airstrikes last month in southern Iran targeted civilian infrastructure, including fishing ports, bridges, telecommunications networks, power plants, hospitals, and transportation corridors.",
-      "link": "https://www.dropsitenews.com/p/southern-iran-us-airstrikes-civilian-infrastructure",
-      "published": "2026-08-13T17:02:51+00:00",
       "featured": false
     },
     {
@@ -308,12 +308,12 @@
       "featured": false
     },
     {
-      "id": "c4afe6d1fe2c",
+      "id": "554d4db04a2c",
       "source": "Al Jazeera",
-      "headline": "Trump loses second Supreme Court bid over E Jean Carroll sex abuse case",
-      "excerpt": "E Jean Carroll secures another legal victory as US Supreme Court refuses Donald Trump’s appeal over 1996 abuse claims.",
-      "link": "https://www.aljazeera.com/news/2026/8/17/trump-loses-second-supreme-court-bid-over-e-jean-carroll-sex-abuse-case?traffic_source=rss",
-      "published": "2026-08-17T20:46:34+00:00",
+      "headline": "‘We will not allow Gaza to be rebuilt’ until Hamas disarms, Kushner says",
+      "excerpt": "Trump's son-in-law and envoy says US will not 'restrict Israel's right to defend itself' as strikes on Gaza continue.",
+      "link": "https://www.aljazeera.com/news/2026/8/17/we-will-not-allow-gaza-to-be-rebuilt-until-hamas-disarms-kushner-says?traffic_source=rss",
+      "published": "2026-08-17T23:25:17+00:00",
       "featured": false
     },
     {
@@ -326,12 +326,12 @@
       "featured": false
     },
     {
-      "id": "8de3a34e3cbb",
+      "id": "d383cee96f88",
       "source": "The Lever",
-      "headline": "You Love To See It: Those Meddling Kids",
-      "excerpt": "Meta’s billion-dollar disturbance, a sanctions regime topples, voters vote to win, and clean energy cleans up.",
-      "link": "https://www.levernews.com/you-love-to-see-it-those-meddling-kids/",
-      "published": "2026-08-15T13:01:45+00:00",
+      "headline": "Lever Weekly: The Establishment Strikes Back",
+      "excerpt": "Socialists hit a speed bump, moderates declare war, a Connecticut billionaire pulls electoral strings, and more from The Lever this week.",
+      "link": "https://www.levernews.com/lever-weekly-the-establishment-strikes-back/",
+      "published": "2026-08-16T13:01:54+00:00",
       "featured": false
     },
     {
@@ -344,21 +344,21 @@
       "featured": false
     },
     {
+      "id": "a834d9234f9b",
+      "source": "Dropsite News",
+      "headline": "U.S. Infrastructure Strikes Have Left Iranians in the South Without Livelihoods",
+      "excerpt": "U.S. airstrikes last month in southern Iran targeted civilian infrastructure, including fishing ports, bridges, telecommunications networks, power plants, hospitals, and transportation corridors.",
+      "link": "https://www.dropsitenews.com/p/southern-iran-us-airstrikes-civilian-infrastructure",
+      "published": "2026-08-13T17:02:51+00:00",
+      "featured": false
+    },
+    {
       "id": "06cd80862bda",
       "source": "OCCRP",
       "headline": "FAQ: What to Know About Ireland’s Probe Into Our Reporting on Its Alumina Exports to Russia",
       "excerpt": "Following an investigation by OCCRP and partners, the Irish government launched its own probe into whether the country’s alumina exports have been feeding into the supply chains of sanctioned Russian arms makers. Here...",
       "link": "https://www.occrp.org/en/feature/faq-what-to-know-about-irelands-probe-into-our-reporting-on-its-alumina-exports-to-russia",
       "published": "2026-08-13T15:52:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "e885dc737559",
-      "source": "Dropsite News",
-      "headline": "USS Abraham Lincoln sailors try to jump overboard after 250 days at sea; Third person dies after Newark ICE facility detention; Israel sets wildfires in Lebanon",
-      "excerpt": "Drop Site Daily: August 13, 2026",
-      "link": "https://www.dropsitenews.com/p/uss-abraham-lincoln-overboard-newark-ice-detention-israel-lebanon-wildfires",
-      "published": "2026-08-13T15:19:39+00:00",
       "featured": false
     },
     {
@@ -398,12 +398,21 @@
       "featured": false
     },
     {
-      "id": "335c5c8459a5",
+      "id": "e266700816ec",
       "source": "Al Jazeera",
-      "headline": "Torrential rains flood homes and roads across Lima, Peru",
-      "excerpt": "Heavy rains have flooded oads in Lima, while river overflows, landslides, and road closures continue to affect Peru.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/torrential-rains-flood-homes-and-roads-across-lima-peru?traffic_source=rss",
-      "published": "2026-08-17T20:41:39+00:00",
+      "headline": "As rubble clears, Colombia begins focusing on recovery after the earthquake",
+      "excerpt": "A week after a deadly quake, Colombia turns from rescue efforts to shelter, aid and rebuilding.",
+      "link": "https://www.aljazeera.com/news/2026/8/17/as-rubble-clears-colombia-begins-focusing-on-recovery-after-the-earthquake?traffic_source=rss",
+      "published": "2026-08-17T22:26:12+00:00",
+      "featured": false
+    },
+    {
+      "id": "8de3a34e3cbb",
+      "source": "The Lever",
+      "headline": "You Love To See It: Those Meddling Kids",
+      "excerpt": "Meta’s billion-dollar disturbance, a sanctions regime topples, voters vote to win, and clean energy cleans up.",
+      "link": "https://www.levernews.com/you-love-to-see-it-those-meddling-kids/",
+      "published": "2026-08-15T13:01:45+00:00",
       "featured": false
     },
     {
@@ -413,15 +422,6 @@
       "excerpt": "Mice can access memories after hibernation, a state that largely shuts their brains off and reduces synapses, suggesting that memories are stored across shifting neural systems.",
       "link": "https://www.404media.co/memories-mysteriously-survive-after-brain-shutdown-and-scientists-dont-know-why/",
       "published": "2026-08-15T10:00:42+00:00",
-      "featured": false
-    },
-    {
-      "id": "958597c3b79b",
-      "source": "The Lever",
-      "headline": "EXCLUSIVE: Elon Musk’s Banking Empire Just Got Gov. Hochul’s Blessing",
-      "excerpt": "Despite lawmakers’ warnings about Musk, New York gave the world’s first trillionaire a critical approval in his plan to turn X into an “everything app.”",
-      "link": "https://www.levernews.com/exclusive-elon-musks-banking-empire-just-got-gov-hochuls-blessing/",
-      "published": "2026-08-14T23:24:13+00:00",
       "featured": false
     },
     {
@@ -443,12 +443,12 @@
       "featured": false
     },
     {
-      "id": "b17c32300c8b",
+      "id": "e885dc737559",
       "source": "Dropsite News",
-      "headline": "In West Bank Village, a New Israeli Order Enables Settler Attacks While Claiming to Prevent Them",
-      "excerpt": "The Israeli military declared the Palestinian village of Taybeh a closed military zone to \"maintain order\" but residents say settlers are still allowed to raid the area.",
-      "link": "https://www.dropsitenews.com/p/taybeh-west-bank-closed-military-zone-settlers",
-      "published": "2026-08-12T17:24:18+00:00",
+      "headline": "USS Abraham Lincoln sailors try to jump overboard after 250 days at sea; Third person dies after Newark ICE facility detention; Israel sets wildfires in Lebanon",
+      "excerpt": "Drop Site Daily: August 13, 2026",
+      "link": "https://www.dropsitenews.com/p/uss-abraham-lincoln-overboard-newark-ice-detention-israel-lebanon-wildfires",
+      "published": "2026-08-13T15:19:39+00:00",
       "featured": false
     },
     {
@@ -488,21 +488,21 @@
       "featured": false
     },
     {
-      "id": "645c02e66c7d",
+      "id": "a368e4a36e3d",
       "source": "Al Jazeera",
-      "headline": "Trump’s approval rating sinks to new low",
-      "excerpt": "New poll found a majority of US citizens concerned about the US war on Iran.",
-      "link": "https://www.aljazeera.com/economy/2026/8/17/trumps-approval-rating-sinks-to-new-low?traffic_source=rss",
-      "published": "2026-08-17T20:41:31+00:00",
+      "headline": "‘Truth or fiction’: US trial of Tupac Shakur’s accused killer begins",
+      "excerpt": "Prosecutors claim Duane Davis was ‘on-site commander’ in murder of Shakur, who died after drive-by shooting in 1996.",
+      "link": "https://www.aljazeera.com/news/2026/8/17/truth-or-fiction-us-trial-of-tupac-shakurs-accused-killer-begins?traffic_source=rss",
+      "published": "2026-08-17T21:39:22+00:00",
       "featured": false
     },
     {
-      "id": "3ae99a11c01d",
+      "id": "958597c3b79b",
       "source": "The Lever",
-      "headline": "Who’s Buying The Democratic Party?",
-      "excerpt": "Test your knowledge of the socialist backlash, Democratic donors, and other issues that really matter.",
-      "link": "https://www.levernews.com/whos-buying-the-democratic-party/",
-      "published": "2026-08-14T17:13:24+00:00",
+      "headline": "Elon Musk’s Banking Empire Just Got Gov. Hochul’s Blessing",
+      "excerpt": "Despite lawmakers’ warnings about Musk, New York gave the world’s first trillionaire a critical approval in his plan to turn X into an “everything app.”",
+      "link": "https://www.levernews.com/exclusive-elon-musks-banking-empire-just-got-gov-hochuls-blessing/",
+      "published": "2026-08-14T23:24:13+00:00",
       "featured": false
     },
     {
@@ -524,21 +524,21 @@
       "featured": false
     },
     {
+      "id": "b17c32300c8b",
+      "source": "Dropsite News",
+      "headline": "In West Bank Village, a New Israeli Order Enables Settler Attacks While Claiming to Prevent Them",
+      "excerpt": "The Israeli military declared the Palestinian village of Taybeh a closed military zone to \"maintain order\" but residents say settlers are still allowed to raid the area.",
+      "link": "https://www.dropsitenews.com/p/taybeh-west-bank-closed-military-zone-settlers",
+      "published": "2026-08-12T17:24:18+00:00",
+      "featured": false
+    },
+    {
       "id": "dbe5ec037f58",
       "source": "OCCRP",
       "headline": "Dutch Court Hears Case against Whistleblower’s Murder Suspect",
       "excerpt": "A Dutch court heard how police intercepted a key suspect in a vehicle loaded with hidden firearms and stolen plates—only to release him days before Turkish whistleblower Cemil Önal was gunned down in the Netherlands.",
       "link": "https://www.occrp.org/en/news/dutch-court-hears-case-against-whistleblowers-murder-suspect",
       "published": "2026-08-12T16:43:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "62f3f58332d1",
-      "source": "Dropsite News",
-      "headline": "Israel detains Palestinian journalist Mohamed Awad; Russia threatens retaliatory European ship seizures; Hong loses in tight primary for Wisconsin governor",
-      "excerpt": "Drop Site Daily: August 12, 2026",
-      "link": "https://www.dropsitenews.com/p/israel-palestinian-journalist-awad-russia-europe-ship-seizures-wisconsin-primary-hong-crowley",
-      "published": "2026-08-12T16:19:53+00:00",
       "featured": false
     }
   ]
