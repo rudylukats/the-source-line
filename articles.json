@@ -1,14 +1,41 @@
 {
-  "generated_at": "2026-08-19T15:46:43.934477+00:00",
+  "generated_at": "2026-08-19T18:53:29.715932+00:00",
   "articles": [
     {
-      "id": "d746bfb041c1",
+      "id": "16d571673573",
       "source": "Al Jazeera",
-      "headline": "Palestinian refugee and two relatives drown off English coast",
-      "excerpt": "A girl is taken to hospital in critical condition in what PM Burnham calls a 'terrible family tragedy'.",
-      "link": "https://www.aljazeera.com/news/2026/8/19/three-people-from-palestinian-british-family-drown-off-uks-sussex-coast?traffic_source=rss",
-      "published": "2026-08-19T14:52:39+00:00",
+      "headline": "Zambian opposition leader to challenge election result in ⁠court",
+      "excerpt": "Opposition leader claims 'serious irregularities' in the vote that handed President Hakainde Hichilema a second term.",
+      "link": "https://www.aljazeera.com/news/2026/8/19/zambian-opposition-leader-to-challenge-election-result-in-%e2%81%a0court?traffic_source=rss",
+      "published": "2026-08-19T18:43:28+00:00",
       "featured": true
+    },
+    {
+      "id": "5e9eba34cf6e",
+      "source": "404 Media",
+      "headline": "Lifeforms Can Survive on ‘Significant’ Regions of the Moon, Study Finds",
+      "excerpt": "The Moon was long thought to be inhospitable to life, but scientists have discovered that common Earth microbes could survive for up to a week in shadowed regions of the lunar south pole, a region targeted for future...",
+      "link": "https://www.404media.co/lifeforms-can-survive-on-significant-regions-of-the-moon-study-finds/",
+      "published": "2026-08-19T18:00:10+00:00",
+      "featured": true
+    },
+    {
+      "id": "b5d2351b2d4b",
+      "source": "Dropsite News",
+      "headline": "U.S.-Registered Drone Detected at Site of Suspected CIA Boat Strike",
+      "excerpt": "A drone registered to U.S. defense contractor Shield AI flew within 500 meters of Ecuadorian fishing boat hours after attack, according to flight data.",
+      "link": "https://www.dropsitenews.com/p/drone-boat-strike-cia-ecuador-shield-ai",
+      "published": "2026-08-19T17:10:54+00:00",
+      "featured": true
+    },
+    {
+      "id": "367311ee2f84",
+      "source": "The Lever",
+      "headline": "Midterm Madness: Socialism Smashes Expectations In Florida",
+      "excerpt": "Democratic socialist Angie Nixon won the Sunshine State’s Senate primary yesterday after being out-fundraised roughly 16 times over.",
+      "link": "https://www.levernews.com/midterm-madness-socialism-smashes-expectations-in-florida/",
+      "published": "2026-08-19T16:56:07+00:00",
+      "featured": false
     },
     {
       "id": "105807f6c318",
@@ -17,7 +44,7 @@
       "excerpt": "",
       "link": "https://www.occrp.org/en/news/us-charges-eight-more-iranians-in-global-hacking-case",
       "published": "2026-08-19T12:29:00+00:00",
-      "featured": true
+      "featured": false
     },
     {
       "id": "2b45a35f7174",
@@ -26,7 +53,7 @@
       "excerpt": "The post Senators Criticize Trump Administration’s Demands to Access Health Data as a Condition for Lifesaving Aid appeared first on ProPublica.",
       "link": "https://www.propublica.org/article/senators-letter-health-data-africa-humanitarian-aid",
       "published": "2026-08-19T10:00:00+00:00",
-      "featured": true
+      "featured": false
     },
     {
       "id": "82fca316717b",
@@ -35,33 +62,6 @@
       "excerpt": "Book recommendations old and new, fiction and nonfiction, from staffers. The post What The Intercept Is Reading appeared first on The Intercept.",
       "link": "https://theintercept.com/2026/08/19/book-reading-recommendations/",
       "published": "2026-08-19T10:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "6cc184bb6822",
-      "source": "Dropsite News",
-      "headline": "Gaza Talks, Florida Primaries, and ICE Detention",
-      "excerpt": "Human rights lawyer Diana Buttu joins Sharif Abdel Kouddous, followed by Julian Andreone with FL primary candidates: Elijah Manley & Oliver Larkin, then lawyers for Maryam Tahmasebi in ICE detention.",
-      "link": "https://www.dropsitenews.com/p/gaza-talks-florida-primaries-and",
-      "published": "2026-08-18T19:12:22+00:00",
-      "featured": false
-    },
-    {
-      "id": "be3f0fac247f",
-      "source": "The Lever",
-      "headline": "All The President’s Millionaires",
-      "excerpt": "The Trump administration is stacked with 57 “ultra-millionaires.”",
-      "link": "https://www.levernews.com/all-the-presidents-millionaires/",
-      "published": "2026-08-18T16:35:36+00:00",
-      "featured": false
-    },
-    {
-      "id": "0e4bf500c5b9",
-      "source": "404 Media",
-      "headline": "Anthropic’s Text Watermarking Proves AI Companies Do Not Care at All About Writing",
-      "excerpt": "AI companies see words as interchangeable and have zero clue how to judge the “quality” of writing.",
-      "link": "https://www.404media.co/anthropics-text-watermarking-proves-ai-companies-do-not-care-at-all-about-writing/",
-      "published": "2026-08-18T15:54:15+00:00",
       "featured": false
     },
     {
@@ -110,12 +110,30 @@
       "featured": false
     },
     {
-      "id": "e550438dd6c8",
+      "id": "7cf725fb8a57",
       "source": "Al Jazeera",
-      "headline": "Israel numbers Palestinian detainee foreheads: What we know",
-      "excerpt": "Palestinian news outlets reported a man with the number ‘44’ written on his forehead following a raid in Qabatiya.",
-      "link": "https://www.aljazeera.com/news/2026/8/19/israel-numbers-palestinian-detainee-foreheads-what-we-know?traffic_source=rss",
-      "published": "2026-08-19T14:48:55+00:00",
+      "headline": "Iran’s hardline parliament raises concerns with ‘foreign infiltration’ plan",
+      "excerpt": "Citizens and entities would have to seek authorisation to contact universities or talk to foreign media.",
+      "link": "https://www.aljazeera.com/news/2026/8/19/irans-hardline-parliament-raises-concerns-with-foreign-infiltration-plan?traffic_source=rss",
+      "published": "2026-08-19T18:21:37+00:00",
+      "featured": false
+    },
+    {
+      "id": "83221cffc70c",
+      "source": "404 Media",
+      "headline": "'I Saw a Shiny Thing': Cop Explains Why He Used License Plate Reader to Stalk Woman",
+      "excerpt": "Body camera footage shows police surveillance abuse is common: \"We’ve told them over and over again: 'You see a hot chick, you don’t look them up in a database.'\"",
+      "link": "https://www.404media.co/i-saw-a-shiny-thing-cop-explains-why-he-used-license-plate-reader-to-stalk-woman/",
+      "published": "2026-08-19T17:14:58+00:00",
+      "featured": false
+    },
+    {
+      "id": "3fcdb39d79ea",
+      "source": "Dropsite News",
+      "headline": "Israeli strikes on Gaza kill 17 Palestinians; Tuesday’s primary results; Liberia to take 1,200 deportees from the U.S.",
+      "excerpt": "Drop Site Daily: August 19, 2026",
+      "link": "https://www.dropsitenews.com/p/israel-gaza-strikes-tuesday-primary-florida-liberia-us-deportees",
+      "published": "2026-08-19T15:52:18+00:00",
       "featured": false
     },
     {
@@ -137,21 +155,12 @@
       "featured": false
     },
     {
-      "id": "9c4bf1c2b5f5",
-      "source": "Dropsite News",
-      "headline": "Gaza's Teachers Struggle to Fill the Void of a School System Decimated by Israel",
-      "excerpt": "With few resources and little funding, makeshift educational facilities established over the past several months are working to provide some schooling to children in Gaza.",
-      "link": "https://www.dropsitenews.com/p/gaza-community-educational-schools-trauma-remote",
-      "published": "2026-08-18T17:57:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "3988c8486eb0",
-      "source": "404 Media",
-      "headline": "X's Algorithm Feeds Off Ragebait and Impacts Democrats More, Study Finds",
-      "excerpt": "X is driving engagement by making users fight in the replies.",
-      "link": "https://www.404media.co/xs-algorithm-feeds-off-ragebait-and-impacts-democrats-more-study-finds/",
-      "published": "2026-08-18T13:27:22+00:00",
+      "id": "be3f0fac247f",
+      "source": "The Lever",
+      "headline": "All The President’s Millionaires",
+      "excerpt": "The Trump administration is stacked with 57 “ultra-millionaires.”",
+      "link": "https://www.levernews.com/all-the-presidents-millionaires/",
+      "published": "2026-08-18T16:35:36+00:00",
       "featured": false
     },
     {
@@ -161,15 +170,6 @@
       "excerpt": "“What crime had my 20-day-old grandchild committed?” The post The Short Life of a Newborn During the Iran War appeared first on The Intercept.",
       "link": "https://theintercept.com/2026/08/18/iran-war-civilian-deaths-families-infant/",
       "published": "2026-08-18T10:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "23b84336974c",
-      "source": "The Lever",
-      "headline": "The Senate Candidate Who Could Get Rich Off Data Centers",
-      "excerpt": "Michigan Republican Mike Rogers holds millions in AI-related investments while backing Donald Trump’s push to fast-track the infrastructure fueling the industry.",
-      "link": "https://www.levernews.com/the-senate-candidate-with-an-ai-investment-problem/",
-      "published": "2026-08-18T00:15:23+00:00",
       "featured": false
     },
     {
@@ -209,12 +209,12 @@
       "featured": false
     },
     {
-      "id": "4c4a7dfb2eb8",
+      "id": "b0985c4c9f66",
       "source": "Al Jazeera",
-      "headline": "Second Ukrainian national arrested over 2022 Nord Stream pipeline blast",
-      "excerpt": "The suspect was arrested in Croatia a year after another, an ex-army officer, was held and transferred to Germany.",
-      "link": "https://www.aljazeera.com/news/2026/8/19/second-ukrainian-national-arrested-over-2022-nord-stream-pipeline-blast?traffic_source=rss",
-      "published": "2026-08-19T14:44:09+00:00",
+      "headline": "Canada pledges $50m aid to Lebanon and condemns Israeli ‘unlawful invasion’",
+      "excerpt": "Canada official condemns Israel's 'invasion' of Lebanon, calls for sovereignty as aid pledged to the crisis-hit nation.",
+      "link": "https://www.aljazeera.com/news/2026/8/19/canada-pledges-50m-aid-to-lebanon-and-condemns-israeli-unlawful-invasion?traffic_source=rss",
+      "published": "2026-08-19T18:08:09+00:00",
       "featured": false
     },
     {
@@ -227,30 +227,30 @@
       "featured": false
     },
     {
+      "id": "6cc184bb6822",
+      "source": "Dropsite News",
+      "headline": "Gaza Talks, Florida Primaries, and ICE Detention",
+      "excerpt": "Human rights lawyer Diana Buttu joins Sharif Abdel Kouddous, followed by Julian Andreone with FL primary candidates: Elijah Manley & Oliver Larkin, then lawyers for Maryam Tahmasebi in ICE detention.",
+      "link": "https://www.dropsitenews.com/p/gaza-talks-florida-primaries-and",
+      "published": "2026-08-18T19:12:22+00:00",
+      "featured": false
+    },
+    {
+      "id": "0e4bf500c5b9",
+      "source": "404 Media",
+      "headline": "Anthropic’s Text Watermarking Proves AI Companies Do Not Care at All About Writing",
+      "excerpt": "AI companies see words as interchangeable and have zero clue how to judge the “quality” of writing.",
+      "link": "https://www.404media.co/anthropics-text-watermarking-proves-ai-companies-do-not-care-at-all-about-writing/",
+      "published": "2026-08-18T15:54:15+00:00",
+      "featured": false
+    },
+    {
       "id": "145519d76730",
       "source": "OCCRP",
       "headline": "Iran Moves to Outlaw All Contact With \"Hostile\" Foreign Media",
       "excerpt": "International watchdogs warn that a proposed law imposing prison sentences for communications with “hostile” foreign media aims to keep evidence of state repression hidden.",
       "link": "https://www.occrp.org/en/news/iran-moves-to-outlaw-all-contact-with-hostile-foreign-media",
       "published": "2026-08-18T15:29:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "498b3f1fc5d9",
-      "source": "Dropsite News",
-      "headline": "Primaries in Florida, Alaska, California; Israel strikes Syrian air base; Congo’s Ebola outbreak",
-      "excerpt": "Drop Site Daily: August 18, 2026",
-      "link": "https://www.dropsitenews.com/p/primaries-florida-alaska-california-israel-syria-air-base-congo-ebola-outbreak",
-      "published": "2026-08-18T15:25:10+00:00",
-      "featured": false
-    },
-    {
-      "id": "d06c386273fd",
-      "source": "404 Media",
-      "headline": "The National Park Service Is Using Flock. Rangers Are Pissed",
-      "excerpt": "“I fear for the day when a visitor's National Park experience is interrupted by being pulled over and held at gunpoint because a license plate reader misread their plate.”",
-      "link": "https://www.404media.co/the-national-park-service-is-using-flock-rangers-are-pissed/",
-      "published": "2026-08-18T13:21:29+00:00",
       "featured": false
     },
     {
@@ -263,12 +263,12 @@
       "featured": false
     },
     {
-      "id": "1d17dc223f98",
+      "id": "23b84336974c",
       "source": "The Lever",
-      "headline": "Consumers Frozen Out Of Tariff Refund Bonanza",
-      "excerpt": "Refunds from Trump’s Liberation Day tariffs are boosting corporate quarterly earnings, while Consumers who paid the tariffs are shut out.",
-      "link": "https://www.levernews.com/consumers-frozen-out-of-tariff-refund-bonanza/",
-      "published": "2026-08-17T17:43:15+00:00",
+      "headline": "The Senate Candidate Who Could Get Rich Off Data Centers",
+      "excerpt": "Michigan Republican Mike Rogers holds millions in AI-related investments while backing Donald Trump’s push to fast-track the infrastructure fueling the industry.",
+      "link": "https://www.levernews.com/the-senate-candidate-with-an-ai-investment-problem/",
+      "published": "2026-08-18T00:15:23+00:00",
       "featured": false
     },
     {
@@ -308,12 +308,21 @@
       "featured": false
     },
     {
-      "id": "05eaa82c5096",
+      "id": "912f45a0bf9b",
       "source": "Al Jazeera",
-      "headline": "Premier League 2026-27 form guide: Title race, prediction, players to watch",
-      "excerpt": "Will Arsenal repeat, could Man Utd win, what about Liverpool? Breaking down the top clubs’ chances for 2026-27 season.",
-      "link": "https://www.aljazeera.com/sports/2026/8/19/premier-league-2026-27-form-guide-title-race-prediction-players-to-watch?traffic_source=rss",
-      "published": "2026-08-19T14:37:13+00:00",
+      "headline": "Kennedy Center board says it won’t try to immediately restore Trump’s name",
+      "excerpt": "Opponents argue the venue seems 'intent on defying' a court order to remove the president's name from the building.",
+      "link": "https://www.aljazeera.com/news/2026/8/19/kennedy-center-board-says-it-wont-try-to-immediately-restore-trumps-name?traffic_source=rss",
+      "published": "2026-08-19T18:06:55+00:00",
+      "featured": false
+    },
+    {
+      "id": "9c4bf1c2b5f5",
+      "source": "Dropsite News",
+      "headline": "Gaza's Teachers Struggle to Fill the Void of a School System Decimated by Israel",
+      "excerpt": "With few resources and little funding, makeshift educational facilities established over the past several months are working to provide some schooling to children in Gaza.",
+      "link": "https://www.dropsitenews.com/p/gaza-community-educational-schools-trauma-remote",
+      "published": "2026-08-18T17:57:00+00:00",
       "featured": false
     },
     {
@@ -326,6 +335,15 @@
       "featured": false
     },
     {
+      "id": "3988c8486eb0",
+      "source": "404 Media",
+      "headline": "X's Algorithm Feeds Off Ragebait and Impacts Democrats More, Study Finds",
+      "excerpt": "X is driving engagement by making users fight in the replies.",
+      "link": "https://www.404media.co/xs-algorithm-feeds-off-ragebait-and-impacts-democrats-more-study-finds/",
+      "published": "2026-08-18T13:27:22+00:00",
+      "featured": false
+    },
+    {
       "id": "deb657d03dbc",
       "source": "ProPublica",
       "headline": "Measles Used to Be in Our Rearview Mirror. Now Cases Are Reaching Record Highs.",
@@ -335,21 +353,12 @@
       "featured": false
     },
     {
-      "id": "84de8650ba4f",
-      "source": "Dropsite News",
-      "headline": "Judge Throws Out “Political Prosecution” of Pro-Palestinian University of Michigan Student",
-      "excerpt": "The student, Hiab Teshome, is also a graduate student union leader in tense contract negotiations with the school.",
-      "link": "https://www.dropsitenews.com/p/university-michigan-eli-savit-student-pro-palestine-felony-charges-thrown-out",
-      "published": "2026-08-17T23:53:11+00:00",
-      "featured": false
-    },
-    {
-      "id": "7bcc5e57f8d4",
-      "source": "404 Media",
-      "headline": "Pornhub's Parent Company to Pay $120 Million to Settle Child Sexual Abuse Lawsuits",
-      "excerpt": "The deal settles class action lawsuits claiming Mindgeek's sites hosted and profited from abuse videos of minors.",
-      "link": "https://www.404media.co/pornhubs-parent-company-to-pay-120-million-to-settle-child-sexual-abuse-lawsuits/",
-      "published": "2026-08-17T21:04:53+00:00",
+      "id": "1d17dc223f98",
+      "source": "The Lever",
+      "headline": "Consumers Frozen Out Of Tariff Refund Bonanza",
+      "excerpt": "Refunds from Trump’s Liberation Day tariffs are boosting corporate quarterly earnings, while Consumers who paid the tariffs are shut out.",
+      "link": "https://www.levernews.com/consumers-frozen-out-of-tariff-refund-bonanza/",
+      "published": "2026-08-17T17:43:15+00:00",
       "featured": false
     },
     {
@@ -359,15 +368,6 @@
       "excerpt": "Oliver Larkin is trying to unseat Rep. Jared Moskowitz, who is backed by AIPAC donors and an artificial intelligence super PAC. The post A Democratic Socialist Aims to Oust a Top AIPAC Beneficiary in Florida appeared...",
       "link": "https://theintercept.com/2026/08/17/florida-congress-oliver-larkin-jared-moskowitz-aipac/",
       "published": "2026-08-17T14:01:56+00:00",
-      "featured": false
-    },
-    {
-      "id": "54037e6c9df0",
-      "source": "The Lever",
-      "headline": "Hakeem Jeffries’ Betrayal Shows Why Democratic Voters Are So Enraged",
-      "excerpt": "House Dems’ leader declared his opposition to Medicare For All on the same day a new poll shows almost all Democratic voters support it.",
-      "link": "https://www.levernews.com/hakeem-jeffries-betrayal-shows-why-democratic-voters-are-so-enraged/",
-      "published": "2026-08-17T07:01:16+00:00",
       "featured": false
     },
     {
@@ -398,12 +398,21 @@
       "featured": false
     },
     {
-      "id": "6aaff0f81a98",
+      "id": "9158d7e7ee60",
       "source": "Al Jazeera",
-      "headline": "Mourinho fires Real Madrid shot at Barcelona saying he ‘didn’t need’ Rodri",
-      "excerpt": "Jose Mourinho is back for a second spell at Real Madrid who, he says, didn't need Barcelona's new signing Rodri.",
-      "link": "https://www.aljazeera.com/sports/2026/8/19/mourinho-fires-real-madrid-shot-at-barcelona-saying-he-didnt-need-rodri?traffic_source=rss",
-      "published": "2026-08-19T13:24:34+00:00",
+      "headline": "Brazil bus crash kills at least 23 and injures five in Parana state",
+      "excerpt": "The bus was travelling to hospitals near Curitiba when the accident occurred.",
+      "link": "https://www.aljazeera.com/news/2026/8/19/brazil-bus-crash-kills-at-least-23-and-injures-five-in-parana-state?traffic_source=rss",
+      "published": "2026-08-19T17:54:37+00:00",
+      "featured": false
+    },
+    {
+      "id": "498b3f1fc5d9",
+      "source": "Dropsite News",
+      "headline": "Primaries in Florida, Alaska, California; Israel strikes Syrian air base; Congo’s Ebola outbreak",
+      "excerpt": "Drop Site Daily: August 18, 2026",
+      "link": "https://www.dropsitenews.com/p/primaries-florida-alaska-california-israel-syria-air-base-congo-ebola-outbreak",
+      "published": "2026-08-18T15:25:10+00:00",
       "featured": false
     },
     {
@@ -416,21 +425,12 @@
       "featured": false
     },
     {
-      "id": "410926238f3b",
-      "source": "Dropsite News",
-      "headline": "U.S.-Iran MOU expires without agreement; Israeli strikes kill 11 in Lebanon; DNC votes to abolish ICE",
-      "excerpt": "Drop Site Daily: August 17, 2026",
-      "link": "https://www.dropsitenews.com/p/us-iran-memorandum-expires-israel-lebanon-strikes-democrats-ice-abolish",
-      "published": "2026-08-17T15:14:51+00:00",
-      "featured": false
-    },
-    {
-      "id": "b25d96757340",
+      "id": "d06c386273fd",
       "source": "404 Media",
-      "headline": "‘Show How 3M Is 0% at Fault:’ Expert Witness Used ChatGPT to Write Report Defending Company in Deadly Explosion Lawsuit",
-      "excerpt": "ChatGPT prompts show how an expert witness report was created in a $61 million lawsuit over an explosion that killed three people.",
-      "link": "https://www.404media.co/show-how-3m-is-0-at-fault-expert-witness-used-chatgpt-to-write-report-defending-company-in-deadly-explosion-lawsuit/",
-      "published": "2026-08-17T14:56:24+00:00",
+      "headline": "The National Park Service Is Using Flock. Rangers Are Pissed",
+      "excerpt": "“I fear for the day when a visitor's National Park experience is interrupted by being pulled over and held at gunpoint because a license plate reader misread their plate.”",
+      "link": "https://www.404media.co/the-national-park-service-is-using-flock-rangers-are-pissed/",
+      "published": "2026-08-18T13:21:29+00:00",
       "featured": false
     },
     {
@@ -443,12 +443,12 @@
       "featured": false
     },
     {
-      "id": "d383cee96f88",
+      "id": "54037e6c9df0",
       "source": "The Lever",
-      "headline": "Lever Weekly: The Establishment Strikes Back",
-      "excerpt": "Socialists hit a speed bump, moderates declare war, a Connecticut billionaire pulls electoral strings, and more from The Lever this week.",
-      "link": "https://www.levernews.com/lever-weekly-the-establishment-strikes-back/",
-      "published": "2026-08-16T13:01:54+00:00",
+      "headline": "Hakeem Jeffries’ Betrayal Shows Why Democratic Voters Are So Enraged",
+      "excerpt": "House Dems’ leader declared his opposition to Medicare For All on the same day a new poll shows almost all Democratic voters support it.",
+      "link": "https://www.levernews.com/hakeem-jeffries-betrayal-shows-why-democratic-voters-are-so-enraged/",
+      "published": "2026-08-17T07:01:16+00:00",
       "featured": false
     },
     {
@@ -488,12 +488,30 @@
       "featured": false
     },
     {
-      "id": "8d4f8a0e3c18",
+      "id": "31622b9b2a3a",
       "source": "Al Jazeera",
-      "headline": "Israeli forces mark Palestinians with numbers amid mass arrests",
-      "excerpt": "Palestinian detainees were marked with numbers during a mass Israeli arrest campaign in Qabatiya.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/israeli-forces-mark-palestinians-with-numbers-amid-mass-arrests?traffic_source=rss",
-      "published": "2026-08-19T13:20:08+00:00",
+      "headline": "NATO ‘prepared’ to defend allies amid report of Iranian strike plans",
+      "excerpt": "NATO says it will 'do what is necessary' amid media report Iran considered strikes against US targets in Europe.",
+      "link": "https://www.aljazeera.com/news/2026/8/19/nato-prepared-to-defend-allies-amid-report-of-iranian-strike-plans?traffic_source=rss",
+      "published": "2026-08-19T17:50:50+00:00",
+      "featured": false
+    },
+    {
+      "id": "84de8650ba4f",
+      "source": "Dropsite News",
+      "headline": "Judge Throws Out “Political Prosecution” of Pro-Palestinian University of Michigan Student",
+      "excerpt": "The student, Hiab Teshome, is also a graduate student union leader in tense contract negotiations with the school.",
+      "link": "https://www.dropsitenews.com/p/university-michigan-eli-savit-student-pro-palestine-felony-charges-thrown-out",
+      "published": "2026-08-17T23:53:11+00:00",
+      "featured": false
+    },
+    {
+      "id": "7bcc5e57f8d4",
+      "source": "404 Media",
+      "headline": "Pornhub's Parent Company to Pay $120 Million to Settle Child Sexual Abuse Lawsuits",
+      "excerpt": "The deal settles class action lawsuits claiming Mindgeek's sites hosted and profited from abuse videos of minors.",
+      "link": "https://www.404media.co/pornhubs-parent-company-to-pay-120-million-to-settle-child-sexual-abuse-lawsuits/",
+      "published": "2026-08-17T21:04:53+00:00",
       "featured": false
     },
     {
@@ -506,12 +524,12 @@
       "featured": false
     },
     {
-      "id": "5c6f6f558f94",
-      "source": "404 Media",
-      "headline": "The Future of Deepfakes and the Decline of Reality (With Hany Farid)",
-      "excerpt": "The past, present, and future of deepfakes, as seen by the world’s leading expert on synthetic media.",
-      "link": "https://www.404media.co/the-future-of-deepfakes-and-the-decline-of-reality-with-hany-farid/",
-      "published": "2026-08-17T14:19:26+00:00",
+      "id": "d383cee96f88",
+      "source": "The Lever",
+      "headline": "Lever Weekly: The Establishment Strikes Back",
+      "excerpt": "Socialists hit a speed bump, moderates declare war, a Connecticut billionaire pulls electoral strings, and more from The Lever this week.",
+      "link": "https://www.levernews.com/lever-weekly-the-establishment-strikes-back/",
+      "published": "2026-08-16T13:01:54+00:00",
       "featured": false
     },
     {
@@ -521,24 +539,6 @@
       "excerpt": "Documents from ICE’s investigation into the Sunrise Movement show an agent volunteered to build tools for “direct-action” protests. The post Secret ICE Agent Tried to “Entice” Minneapolis Activists Into Confrontational...",
       "link": "https://theintercept.com/2026/08/15/undercover-ice-agents-minneapolis-sunrise-movement/",
       "published": "2026-08-15T22:38:25+00:00",
-      "featured": false
-    },
-    {
-      "id": "8de3a34e3cbb",
-      "source": "The Lever",
-      "headline": "You Love To See It: Those Meddling Kids",
-      "excerpt": "Meta’s billion-dollar disturbance, a sanctions regime topples, voters vote to win, and clean energy cleans up.",
-      "link": "https://www.levernews.com/you-love-to-see-it-those-meddling-kids/",
-      "published": "2026-08-15T13:01:45+00:00",
-      "featured": false
-    },
-    {
-      "id": "9f461c5b2192",
-      "source": "Dropsite News",
-      "headline": "Hormuz grinds to a halt again; Gaza’s cancer patients dying at 2-3 times prewar rate; DHS surveilled left-wing groups in Minnesota",
-      "excerpt": "Drop Site Daily: August 14, 2026",
-      "link": "https://www.dropsitenews.com/p/hormuz-iran-us-gaza-cancer-israel-dhs-left-minnesota",
-      "published": "2026-08-14T16:17:45+00:00",
       "featured": false
     }
   ]
