@@ -1,23 +1,41 @@
 {
-  "generated_at": "2026-08-19T09:49:57.511473+00:00",
+  "generated_at": "2026-08-19T13:09:14.571977+00:00",
   "articles": [
     {
-      "id": "1aebf047941a",
-      "source": "Al Jazeera",
-      "headline": "At least five killed in Russian air attacks on Ukraine",
-      "excerpt": "Russia's Defence Ministry says 453 Ukrainian drones were downed overnight in various regions.",
-      "link": "https://www.aljazeera.com/news/2026/8/19/at-least-five-killed-in-russian-air-attacks-on-ukraine?traffic_source=rss",
-      "published": "2026-08-19T09:34:38+00:00",
+      "id": "105807f6c318",
+      "source": "OCCRP",
+      "headline": "US Charges Eight More Iranians in Global Hacking Case",
+      "excerpt": "",
+      "link": "https://www.occrp.org/en/news/us-charges-eight-more-iranians-in-global-hacking-case",
+      "published": "2026-08-19T12:29:00+00:00",
       "featured": true
     },
     {
-      "id": "7767b1f0f971",
-      "source": "ProPublica",
-      "headline": "The $1 Trillion Black Box",
-      "excerpt": "The post The $1 Trillion Black Box appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/military-defense-spending-budget-series",
-      "published": "2026-08-19T09:00:00+00:00",
+      "id": "cc721510dbc5",
+      "source": "Al Jazeera",
+      "headline": "In Ukraine, forcible military recruitment efforts escalate into violence",
+      "excerpt": "'Busification', the term describing being captured on the street, is engulfed by abuse and corruption.",
+      "link": "https://www.aljazeera.com/news/2026/8/19/in-ukraine-forcible-military-recruitment-efforts-escalate-into-violence?traffic_source=rss",
+      "published": "2026-08-19T11:47:44+00:00",
       "featured": true
+    },
+    {
+      "id": "2b45a35f7174",
+      "source": "ProPublica",
+      "headline": "Senators Criticize Trump Administration’s Demands to Access Health Data as a Condition for Lifesaving Aid",
+      "excerpt": "The post Senators Criticize Trump Administration’s Demands to Access Health Data as a Condition for Lifesaving Aid appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/senators-letter-health-data-africa-humanitarian-aid",
+      "published": "2026-08-19T10:00:00+00:00",
+      "featured": true
+    },
+    {
+      "id": "82fca316717b",
+      "source": "The Intercept",
+      "headline": "What The Intercept Is Reading",
+      "excerpt": "Book recommendations old and new, fiction and nonfiction, from staffers. The post What The Intercept Is Reading appeared first on The Intercept.",
+      "link": "https://theintercept.com/2026/08/19/book-reading-recommendations/",
+      "published": "2026-08-19T10:00:00+00:00",
+      "featured": false
     },
     {
       "id": "6cc184bb6822",
@@ -26,7 +44,7 @@
       "excerpt": "Human rights lawyer Diana Buttu joins Sharif Abdel Kouddous, followed by Julian Andreone with FL primary candidates: Elijah Manley & Oliver Larkin, then lawyers for Maryam Tahmasebi in ICE detention.",
       "link": "https://www.dropsitenews.com/p/gaza-talks-florida-primaries-and",
       "published": "2026-08-18T19:12:22+00:00",
-      "featured": true
+      "featured": false
     },
     {
       "id": "be3f0fac247f",
@@ -44,24 +62,6 @@
       "excerpt": "AI companies see words as interchangeable and have zero clue how to judge the “quality” of writing.",
       "link": "https://www.404media.co/anthropics-text-watermarking-proves-ai-companies-do-not-care-at-all-about-writing/",
       "published": "2026-08-18T15:54:15+00:00",
-      "featured": false
-    },
-    {
-      "id": "145519d76730",
-      "source": "OCCRP",
-      "headline": "Iran Moves to Outlaw All Contact With \"Hostile\" Foreign Media",
-      "excerpt": "International watchdogs warn that a proposed law imposing prison sentences for communications with “hostile” foreign media aims to keep evidence of state repression hidden.",
-      "link": "https://www.occrp.org/en/news/iran-moves-to-outlaw-all-contact-with-hostile-foreign-media",
-      "published": "2026-08-18T15:29:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "38be56bd5a8e",
-      "source": "The Intercept",
-      "headline": "The Short Life of a Newborn During the Iran War",
-      "excerpt": "“What crime had my 20-day-old grandchild committed?” The post The Short Life of a Newborn During the Iran War appeared first on The Intercept.",
-      "link": "https://theintercept.com/2026/08/18/iran-war-civilian-deaths-families-infant/",
-      "published": "2026-08-18T10:00:00+00:00",
       "featured": false
     },
     {
@@ -110,20 +110,29 @@
       "featured": false
     },
     {
-      "id": "7074c151bd8c",
-      "source": "Al Jazeera",
-      "headline": "Nick Kyrgios provisionally suspended after positive test for cocaine",
-      "excerpt": "The Australian said he made no excuses but admitted to struggling with the twilight of his career.",
-      "link": "https://www.aljazeera.com/sports/2026/8/19/nick-kyrgios-provisionally-suspended-after-positive-test-for-cocaine?traffic_source=rss",
-      "published": "2026-08-19T09:29:41+00:00",
+      "id": "cf2bead4ed95",
+      "source": "OCCRP",
+      "headline": "Indonesia Seizes Record 2.6 Tons of Meth in Major Bust, 10 Arrested",
+      "excerpt": "",
+      "link": "https://www.occrp.org/en/news/indonesia-seizes-record-26-tons-of-meth-in-major-bust-10-arrested",
+      "published": "2026-08-19T12:25:00+00:00",
       "featured": false
     },
     {
-      "id": "b10f100b10b3",
+      "id": "a8fe3ee9e996",
+      "source": "Al Jazeera",
+      "headline": "Pakistan challenges top court order to move Imran Khan to private hospital",
+      "excerpt": "Government files a review of Supreme Court order, arguing that the jailed ex-PM should be examined at a public hospital.",
+      "link": "https://www.aljazeera.com/news/2026/8/19/pakistan-challenges-top-court-order-to-move-imran-khan-to-private-hospital?traffic_source=rss",
+      "published": "2026-08-19T11:47:35+00:00",
+      "featured": false
+    },
+    {
+      "id": "7767b1f0f971",
       "source": "ProPublica",
-      "headline": "Do You Know About U.S. Military Spending? Help ProPublica Understand Where the Money Goes.",
-      "excerpt": "The post Do You Know About U.S. Military Spending? Help ProPublica Understand Where the Money Goes. appeared first on ProPublica.",
-      "link": "https://www.propublica.org/getinvolved/share-military-defense-spending-tips",
+      "headline": "The $1 Trillion Black Box",
+      "excerpt": "The post The $1 Trillion Black Box appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/military-defense-spending-budget-series",
       "published": "2026-08-19T09:00:00+00:00",
       "featured": false
     },
@@ -137,15 +146,6 @@
       "featured": false
     },
     {
-      "id": "03e23e0ca46e",
-      "source": "OCCRP",
-      "headline": "A Key Food Source Collapsed Off West Africa’s Coast as Chinese Ships Ground the Species Into Fishmeal",
-      "excerpt": "A Guinea-Bissau fisheries assessment obtained by OCCRP shows that the sardinella — an important food source — has been decimated in the years since two Chinese fishmeal-production vessels set up shop offshore. After the...",
-      "link": "https://www.occrp.org/en/feature/a-key-food-source-collapsed-off-west-africas-coast-as-chinese-ships-ground-the-species-into-fishmeal",
-      "published": "2026-08-18T15:12:00+00:00",
-      "featured": false
-    },
-    {
       "id": "3988c8486eb0",
       "source": "404 Media",
       "headline": "X's Algorithm Feeds Off Ragebait and Impacts Democrats More, Study Finds",
@@ -155,12 +155,12 @@
       "featured": false
     },
     {
-      "id": "85326b87cd86",
+      "id": "38be56bd5a8e",
       "source": "The Intercept",
-      "headline": "ICE Worked With Iranian Regime to Set Up Deportation Flights as Trump Laid Plans for War",
-      "excerpt": "Internal emails indicate immigration agents complied with an Iranian request to hand over specific nationals — and accidentally sent the wrong person to Iran. The post ICE Worked With Iranian Regime to Set Up...",
-      "link": "https://theintercept.com/2026/08/18/iran-trump-deportation-flights-ice/",
-      "published": "2026-08-18T09:00:00+00:00",
+      "headline": "The Short Life of a Newborn During the Iran War",
+      "excerpt": "“What crime had my 20-day-old grandchild committed?” The post The Short Life of a Newborn During the Iran War appeared first on The Intercept.",
+      "link": "https://theintercept.com/2026/08/18/iran-war-civilian-deaths-families-infant/",
+      "published": "2026-08-18T10:00:00+00:00",
       "featured": false
     },
     {
@@ -209,12 +209,30 @@
       "featured": false
     },
     {
-      "id": "f393ec5ce799",
+      "id": "369fb9cdc10d",
       "source": "Al Jazeera",
-      "headline": "Anti-Muslim protesters call for ‘Christian Crusade’ in Dearborn, US",
-      "excerpt": "Far-right protesters clashed with police at an anti-Muslim rally in the US city of Dearborn.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/anti-muslim-protesters-call-for-christian-crusade-in-dearborn-us?traffic_source=rss",
-      "published": "2026-08-19T09:26:16+00:00",
+      "headline": "Palestinians condemn Israeli step to advance illegal E1 settlement plan",
+      "excerpt": "Israeli government issues tender for more than 1,200 housing units as part of illegal E1 settlement project.",
+      "link": "https://www.aljazeera.com/news/2026/8/19/palestinians-condemn-israeli-step-to-advance-illegal-e1-settlement-plan?traffic_source=rss",
+      "published": "2026-08-19T11:45:21+00:00",
+      "featured": false
+    },
+    {
+      "id": "b10f100b10b3",
+      "source": "ProPublica",
+      "headline": "Do You Know About U.S. Military Spending? Help ProPublica Understand Where the Money Goes.",
+      "excerpt": "The post Do You Know About U.S. Military Spending? Help ProPublica Understand Where the Money Goes. appeared first on ProPublica.",
+      "link": "https://www.propublica.org/getinvolved/share-military-defense-spending-tips",
+      "published": "2026-08-19T09:00:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "145519d76730",
+      "source": "OCCRP",
+      "headline": "Iran Moves to Outlaw All Contact With \"Hostile\" Foreign Media",
+      "excerpt": "International watchdogs warn that a proposed law imposing prison sentences for communications with “hostile” foreign media aims to keep evidence of state repression hidden.",
+      "link": "https://www.occrp.org/en/news/iran-moves-to-outlaw-all-contact-with-hostile-foreign-media",
+      "published": "2026-08-18T15:29:00+00:00",
       "featured": false
     },
     {
@@ -227,15 +245,6 @@
       "featured": false
     },
     {
-      "id": "99dfe20e73a8",
-      "source": "OCCRP",
-      "headline": "US Unseals 25-Count Indictment in $165M Crypto Case",
-      "excerpt": "U.S. prosecutors accused Edward Zimbardi of defrauding thousands of investors, days after he had been returned from Fiji to the United States.",
-      "link": "https://www.occrp.org/en/news/us-unseals-25-count-indictment-in-165m-crypto-case",
-      "published": "2026-08-18T13:53:00+00:00",
-      "featured": false
-    },
-    {
       "id": "d06c386273fd",
       "source": "404 Media",
       "headline": "The National Park Service Is Using Flock. Rangers Are Pissed",
@@ -245,11 +254,11 @@
       "featured": false
     },
     {
-      "id": "deb657d03dbc",
-      "source": "ProPublica",
-      "headline": "Measles Used to Be in Our Rearview Mirror. Now Cases Are Reaching Record Highs.",
-      "excerpt": "The post Measles Used to Be in Our Rearview Mirror. Now Cases Are Reaching Record Highs. appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/measles-cases-vaccines",
+      "id": "85326b87cd86",
+      "source": "The Intercept",
+      "headline": "ICE Worked With Iranian Regime to Set Up Deportation Flights as Trump Laid Plans for War",
+      "excerpt": "Internal emails indicate immigration agents complied with an Iranian request to hand over specific nationals — and accidentally sent the wrong person to Iran. The post ICE Worked With Iranian Regime to Set Up...",
+      "link": "https://theintercept.com/2026/08/18/iran-trump-deportation-flights-ice/",
       "published": "2026-08-18T09:00:00+00:00",
       "featured": false
     },
@@ -260,15 +269,6 @@
       "excerpt": "Refunds from Trump’s Liberation Day tariffs are boosting corporate quarterly earnings, while Consumers who paid the tariffs are shut out.",
       "link": "https://www.levernews.com/consumers-frozen-out-of-tariff-refund-bonanza/",
       "published": "2026-08-17T17:43:15+00:00",
-      "featured": false
-    },
-    {
-      "id": "904375728bfa",
-      "source": "The Intercept",
-      "headline": "A Democratic Socialist Aims to Oust a Top AIPAC Beneficiary in Florida",
-      "excerpt": "Oliver Larkin is trying to unseat Rep. Jared Moskowitz, who is backed by AIPAC donors and an artificial intelligence super PAC. The post A Democratic Socialist Aims to Oust a Top AIPAC Beneficiary in Florida appeared...",
-      "link": "https://theintercept.com/2026/08/17/florida-congress-oliver-larkin-jared-moskowitz-aipac/",
-      "published": "2026-08-17T14:01:56+00:00",
       "featured": false
     },
     {
@@ -308,12 +308,30 @@
       "featured": false
     },
     {
-      "id": "4a8b5a2e583e",
+      "id": "953da5e48e43",
       "source": "Al Jazeera",
-      "headline": "Diego Maradona’s doctors missed renal red flag, Argentinian court told",
-      "excerpt": "Second trial claims Diego Maradona's doctors missed crucial warning signs before Argentina football icon's 2020 passing.",
-      "link": "https://www.aljazeera.com/sports/2026/8/19/maradonas-doctors-missed-renal-red-flag-court-in-argentina-told?traffic_source=rss",
-      "published": "2026-08-19T09:23:17+00:00",
+      "headline": "China’s Unitree soars in market debut as investors bet on humanoid robots",
+      "excerpt": "Unitree shares surge as much as 620 percent amid enthusiasm for burgeoning field of human-like robots.",
+      "link": "https://www.aljazeera.com/economy/2026/8/19/chinas-unitree-soars-in-market-debut-as-investors-bet-on-humanoid-robots?traffic_source=rss",
+      "published": "2026-08-19T11:40:52+00:00",
+      "featured": false
+    },
+    {
+      "id": "03e23e0ca46e",
+      "source": "OCCRP",
+      "headline": "A Key Food Source Collapsed Off West Africa’s Coast as Chinese Ships Ground the Species Into Fishmeal",
+      "excerpt": "A Guinea-Bissau fisheries assessment obtained by OCCRP shows that the sardinella — an important food source — has been decimated in the years since two Chinese fishmeal-production vessels set up shop offshore. After the...",
+      "link": "https://www.occrp.org/en/feature/a-key-food-source-collapsed-off-west-africas-coast-as-chinese-ships-ground-the-species-into-fishmeal",
+      "published": "2026-08-18T15:12:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "deb657d03dbc",
+      "source": "ProPublica",
+      "headline": "Measles Used to Be in Our Rearview Mirror. Now Cases Are Reaching Record Highs.",
+      "excerpt": "The post Measles Used to Be in Our Rearview Mirror. Now Cases Are Reaching Record Highs. appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/measles-cases-vaccines",
+      "published": "2026-08-18T09:00:00+00:00",
       "featured": false
     },
     {
@@ -335,21 +353,12 @@
       "featured": false
     },
     {
-      "id": "3c09aeb3efb2",
-      "source": "OCCRP",
-      "headline": "Fiji Hands Over a Man Suspected of Ponzi-style Crypto Investment Schemes to US",
-      "excerpt": "Following regulatory crackdowns in the U.S. and an arrest in the Netherlands, Edward Zimbardi was handed over to American authorities to face scrutiny over his alleged digital asset frauds.",
-      "link": "https://www.occrp.org/en/news/fiji-hands-over-a-man-suspected-of-ponzi-style-crypto-investment-schemes-to-us",
-      "published": "2026-08-17T16:33:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "c686b1b8855e",
-      "source": "ProPublica",
-      "headline": "At “Quasi-Public” Private Schools, 100% of Students Get Tuition Vouchers. There’s Almost No Accountability.",
-      "excerpt": "The post At “Quasi-Public” Private Schools, 100% of Students Get Tuition Vouchers. There’s Almost No Accountability. appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/private-schools-vouchers-wisconsin-atlas-preparatory",
-      "published": "2026-08-17T09:00:00+00:00",
+      "id": "904375728bfa",
+      "source": "The Intercept",
+      "headline": "A Democratic Socialist Aims to Oust a Top AIPAC Beneficiary in Florida",
+      "excerpt": "Oliver Larkin is trying to unseat Rep. Jared Moskowitz, who is backed by AIPAC donors and an artificial intelligence super PAC. The post A Democratic Socialist Aims to Oust a Top AIPAC Beneficiary in Florida appeared...",
+      "link": "https://theintercept.com/2026/08/17/florida-congress-oliver-larkin-jared-moskowitz-aipac/",
+      "published": "2026-08-17T14:01:56+00:00",
       "featured": false
     },
     {
@@ -359,15 +368,6 @@
       "excerpt": "House Dems’ leader declared his opposition to Medicare For All on the same day a new poll shows almost all Democratic voters support it.",
       "link": "https://www.levernews.com/hakeem-jeffries-betrayal-shows-why-democratic-voters-are-so-enraged/",
       "published": "2026-08-17T07:01:16+00:00",
-      "featured": false
-    },
-    {
-      "id": "57d4f7fbeace",
-      "source": "The Intercept",
-      "headline": "ICE Shot a Journalist and Threw Him in Detention. He’s Approaching 300 Days Behind Bars With a Festering Wound.",
-      "excerpt": "With the case of Carlitos Ricardo Parias, the U.S. has broken its own record for holding a journalist in custody. The post ICE Shot a Journalist and Threw Him in Detention. He’s Approaching 300 Days Behind Bars With a...",
-      "link": "https://theintercept.com/2026/08/16/ricardo-parias-ice-detention-journalist-los-angeles/",
-      "published": "2026-08-16T10:00:00+00:00",
       "featured": false
     },
     {
@@ -398,21 +398,21 @@
       "featured": false
     },
     {
-      "id": "78e4dd66958f",
+      "id": "44374fbc0b4d",
       "source": "Al Jazeera",
-      "headline": "Cars swept downhill as flash floods hit northern Chile",
-      "excerpt": "Cars were swept downhill as floodwaters and mudslides tore through northern Chile.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/cars-swept-downhill-as-flash-floods-hit-northern-chile?traffic_source=rss",
-      "published": "2026-08-19T09:22:30+00:00",
+      "headline": "Angelique Kidjo makes history with Hollywood walk of fame star",
+      "excerpt": "Angelique Kidjo makes history with Hollywood walk of fame star",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/angelique-kidjo-makes-history-with-hollywood-walk-of-fame-star?traffic_source=rss",
+      "published": "2026-08-19T11:36:54+00:00",
       "featured": false
     },
     {
-      "id": "3a56b8fffe53",
+      "id": "99dfe20e73a8",
       "source": "OCCRP",
-      "headline": "Iraqi Electricity Official Arrested With Millions in Cash as Anti-Graft Campaign Expands",
-      "excerpt": "The arrest of Undersecretary Khalid Ghazay Atiya marks a major escalation in Prime Minister Ali al-Zaidi’s sweeping anti-corruption drive, bringing Iraq's deeply troubled electricity sector under unprecedented scrutiny.",
-      "link": "https://www.occrp.org/en/news/iraq-seizes-millions-in-cash-and-gold-from-homes-of-electricity-ministry-official-amid-calls-to-probe-sector",
-      "published": "2026-08-17T16:20:00+00:00",
+      "headline": "US Unseals 25-Count Indictment in $165M Crypto Case",
+      "excerpt": "U.S. prosecutors accused Edward Zimbardi of defrauding thousands of investors, days after he had been returned from Fiji to the United States.",
+      "link": "https://www.occrp.org/en/news/us-unseals-25-count-indictment-in-165m-crypto-case",
+      "published": "2026-08-18T13:53:00+00:00",
       "featured": false
     },
     {
@@ -434,6 +434,15 @@
       "featured": false
     },
     {
+      "id": "c686b1b8855e",
+      "source": "ProPublica",
+      "headline": "At “Quasi-Public” Private Schools, 100% of Students Get Tuition Vouchers. There’s Almost No Accountability.",
+      "excerpt": "The post At “Quasi-Public” Private Schools, 100% of Students Get Tuition Vouchers. There’s Almost No Accountability. appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/private-schools-vouchers-wisconsin-atlas-preparatory",
+      "published": "2026-08-17T09:00:00+00:00",
+      "featured": false
+    },
+    {
       "id": "d383cee96f88",
       "source": "The Lever",
       "headline": "Lever Weekly: The Establishment Strikes Back",
@@ -443,21 +452,12 @@
       "featured": false
     },
     {
-      "id": "148d2984d0ce",
+      "id": "57d4f7fbeace",
       "source": "The Intercept",
-      "headline": "Secret ICE Agent Tried to “Entice” Minneapolis Activists Into Confrontational Tactics",
-      "excerpt": "Documents from ICE’s investigation into the Sunrise Movement show an agent volunteered to build tools for “direct-action” protests. The post Secret ICE Agent Tried to “Entice” Minneapolis Activists Into Confrontational...",
-      "link": "https://theintercept.com/2026/08/15/undercover-ice-agents-minneapolis-sunrise-movement/",
-      "published": "2026-08-15T22:38:25+00:00",
-      "featured": false
-    },
-    {
-      "id": "ee252fcf423f",
-      "source": "ProPublica",
-      "headline": "Inside Trump’s Failed Hunt for Noncitizen Voters",
-      "excerpt": "The post Inside Trump’s Failed Hunt for Noncitizen Voters appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/noncitizen-voting-trump-homeland-security-investigations",
-      "published": "2026-08-14T10:00:00+00:00",
+      "headline": "ICE Shot a Journalist and Threw Him in Detention. He’s Approaching 300 Days Behind Bars With a Festering Wound.",
+      "excerpt": "With the case of Carlitos Ricardo Parias, the U.S. has broken its own record for holding a journalist in custody. The post ICE Shot a Journalist and Threw Him in Detention. He’s Approaching 300 Days Behind Bars With a...",
+      "link": "https://theintercept.com/2026/08/16/ricardo-parias-ice-detention-journalist-los-angeles/",
+      "published": "2026-08-16T10:00:00+00:00",
       "featured": false
     },
     {
@@ -488,21 +488,21 @@
       "featured": false
     },
     {
-      "id": "20641ca58d3c",
+      "id": "baa3595559f8",
       "source": "Al Jazeera",
-      "headline": "US pilot lands jet without front wheels after landing gear failure",
-      "excerpt": "US pilot lands jet without front wheels after landing gear failure",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/us-pilot-lands-jet-without-front-wheels-after-landing-gear-failure?traffic_source=rss",
-      "published": "2026-08-19T09:06:08+00:00",
+      "headline": "Humanitarianism is not collapsing. It is being traded and compromised",
+      "excerpt": "This is endangering the lives of humanitarian workers and the vulnerable communities they serve.",
+      "link": "https://www.aljazeera.com/opinions/2026/8/19/humanitarianism-is-not-collapsing-it-is-being-traded-and-compromised?traffic_source=rss",
+      "published": "2026-08-19T10:59:09+00:00",
       "featured": false
     },
     {
-      "id": "fa09fb7e2d3b",
+      "id": "3c09aeb3efb2",
       "source": "OCCRP",
-      "headline": "Spain Seizes 13 Tonnes of Nitrous Oxide in Tenerife",
-      "excerpt": "",
-      "link": "https://www.occrp.org/en/news/spain-seizes-13-tonnes-of-nitrous-oxide-in-tenerife",
-      "published": "2026-08-17T16:15:00+00:00",
+      "headline": "Fiji Hands Over a Man Suspected of Ponzi-style Crypto Investment Schemes to US",
+      "excerpt": "Following regulatory crackdowns in the U.S. and an arrest in the Netherlands, Edward Zimbardi was handed over to American authorities to face scrutiny over his alleged digital asset frauds.",
+      "link": "https://www.occrp.org/en/news/fiji-hands-over-a-man-suspected-of-ponzi-style-crypto-investment-schemes-to-us",
+      "published": "2026-08-17T16:33:00+00:00",
       "featured": false
     },
     {
@@ -512,6 +512,15 @@
       "excerpt": "The past, present, and future of deepfakes, as seen by the world’s leading expert on synthetic media.",
       "link": "https://www.404media.co/the-future-of-deepfakes-and-the-decline-of-reality-with-hany-farid/",
       "published": "2026-08-17T14:19:26+00:00",
+      "featured": false
+    },
+    {
+      "id": "148d2984d0ce",
+      "source": "The Intercept",
+      "headline": "Secret ICE Agent Tried to “Entice” Minneapolis Activists Into Confrontational Tactics",
+      "excerpt": "Documents from ICE’s investigation into the Sunrise Movement show an agent volunteered to build tools for “direct-action” protests. The post Secret ICE Agent Tried to “Entice” Minneapolis Activists Into Confrontational...",
+      "link": "https://theintercept.com/2026/08/15/undercover-ice-agents-minneapolis-sunrise-movement/",
+      "published": "2026-08-15T22:38:25+00:00",
       "featured": false
     },
     {
@@ -530,15 +539,6 @@
       "excerpt": "Drop Site Daily: August 14, 2026",
       "link": "https://www.dropsitenews.com/p/hormuz-iran-us-gaza-cancer-israel-dhs-left-minnesota",
       "published": "2026-08-14T16:17:45+00:00",
-      "featured": false
-    },
-    {
-      "id": "76c1d96f1f1d",
-      "source": "The Intercept",
-      "headline": "Has the Left Really Met Its Limit?",
-      "excerpt": "David Sirota on Francesca Hong’s defeat, what it means for the insurgent left, and how the American presidency has consolidated king-like power. The post Has the Left Really Met Its Limit? appeared first on The...",
-      "link": "https://theintercept.com/2026/08/14/david-sirota-democratic-establishment/",
-      "published": "2026-08-14T10:00:00+00:00",
       "featured": false
     }
   ]
