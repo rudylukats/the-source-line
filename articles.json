@@ -1,13 +1,31 @@
 {
-  "generated_at": "2026-08-20T07:07:02.420833+00:00",
+  "generated_at": "2026-08-20T09:50:31.939330+00:00",
   "articles": [
     {
-      "id": "90edd41003a9",
+      "id": "e7fbec87f790",
       "source": "Al Jazeera",
-      "headline": "Bangladesh holds presidential election in first contested vote in 35 years",
-      "excerpt": "BNP's Mirza Fakhrul Islam Alamgir is pitted against ex-army officer Oli Ahmed, nominee of Jamaat-led 11-party alliance.",
-      "link": "https://www.aljazeera.com/news/2026/8/20/bangladesh-holds-presidential-election-in-first-contested-vote-in-35-years?traffic_source=rss",
-      "published": "2026-08-20T06:38:39+00:00",
+      "headline": "How conflict is making life more expensive for Iranians",
+      "excerpt": "How conflict is making life more expensive for Iranians",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/how-conflict-is-making-life-more-expensive-for-iranians?traffic_source=rss",
+      "published": "2026-08-20T09:20:17+00:00",
+      "featured": true
+    },
+    {
+      "id": "0840fc3d4ca4",
+      "source": "ProPublica",
+      "headline": "This Coach Is Banned From Working With Kids. Why Is He Still Coaching?",
+      "excerpt": "The post This Coach Is Banned From Working With Kids. Why Is He Still Coaching? appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/ryan-richardson-pharr-texas-usa-volleyball-safesport-abuse-teens",
+      "published": "2026-08-20T09:00:00+00:00",
+      "featured": true
+    },
+    {
+      "id": "511a376eac13",
+      "source": "OCCRP",
+      "headline": "French Authorities Investigate Widespread Government Data Breaches",
+      "excerpt": "",
+      "link": "https://www.occrp.org/en/news/french-authorities-investigate-widespread-government-data-breaches",
+      "published": "2026-08-20T08:15:00+00:00",
       "featured": true
     },
     {
@@ -17,7 +35,7 @@
       "excerpt": "Mike Rogers took thousands from AT&T, pushed to let telecoms share private customer data without a warrant, then joined the company as a security adviser.",
       "link": "https://www.levernews.com/this-senate-candidate-tried-to-let-his-future-employer-spy-on-you/",
       "published": "2026-08-19T21:24:04+00:00",
-      "featured": true
+      "featured": false
     },
     {
       "id": "ad1c0560301f",
@@ -26,7 +44,7 @@
       "excerpt": "Amazon buying and destroying rare books to train AI; a bunch of wild AI use in the courts; and Meta's new patent for its AI smart glasses.",
       "link": "https://www.404media.co/podcast-amazon-is-destroying-rare-books-to-train-ai/",
       "published": "2026-08-19T20:06:22+00:00",
-      "featured": true
+      "featured": false
     },
     {
       "id": "b5d2351b2d4b",
@@ -35,24 +53,6 @@
       "excerpt": "A drone registered to U.S. defense contractor Shield AI flew within 500 meters of Ecuadorian fishing boat hours after attack, according to flight data.",
       "link": "https://www.dropsitenews.com/p/drone-boat-strike-cia-ecuador-shield-ai",
       "published": "2026-08-19T17:10:54+00:00",
-      "featured": false
-    },
-    {
-      "id": "105807f6c318",
-      "source": "OCCRP",
-      "headline": "US Charges Eight More Iranians in Global Hacking Case",
-      "excerpt": "",
-      "link": "https://www.occrp.org/en/news/us-charges-eight-more-iranians-in-global-hacking-case",
-      "published": "2026-08-19T12:29:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "2b45a35f7174",
-      "source": "ProPublica",
-      "headline": "Senators Criticize Trump Administration’s Demands to Access Health Data as a Condition for Lifesaving Aid",
-      "excerpt": "The post Senators Criticize Trump Administration’s Demands to Access Health Data as a Condition for Lifesaving Aid appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/senators-letter-health-data-africa-humanitarian-aid",
-      "published": "2026-08-19T10:00:00+00:00",
       "featured": false
     },
     {
@@ -110,12 +110,30 @@
       "featured": false
     },
     {
-      "id": "f910346be34d",
+      "id": "1c5f68829b62",
       "source": "Al Jazeera",
-      "headline": "Australian anger as Israel drops World Central Kitchen deaths case",
-      "excerpt": "Australia has summoned the Israeli ambassador in anger over the country’s decision not to pursue criminal proceedings.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/australian-anger-as-israel-drops-world-central-kitchen-deaths-case?traffic_source=rss",
-      "published": "2026-08-20T05:43:01+00:00",
+      "headline": "State-backed Israeli settler violence forces West Bank displacement: HRW",
+      "excerpt": "HRW calls for sanctions and suspension of military aid as dozens of Palestinian communities are at risk of erasure.",
+      "link": "https://www.aljazeera.com/news/2026/8/20/state-backed-israeli-settler-violence-forces-west-bank-displacement-hrw?traffic_source=rss",
+      "published": "2026-08-20T09:08:58+00:00",
+      "featured": false
+    },
+    {
+      "id": "98fdd90484df",
+      "source": "ProPublica",
+      "headline": "What Parents Need to Know About Sexual Abuse in Youth Sports",
+      "excerpt": "The post What Parents Need to Know About Sexual Abuse in Youth Sports appeared first on ProPublica.",
+      "link": "https://www.propublica.org/getinvolved/what-parents-should-know-sexual-abuse-youth-sports-aau-safesport",
+      "published": "2026-08-20T08:55:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "1ad2c20802cf",
+      "source": "OCCRP",
+      "headline": "Interrogation Tapes Reveal Journalist Murder Suspect Pointing to Highest Levels of Maltese Power",
+      "excerpt": "Police interviews played for a Maltese jury show Yorgen Fenech accusing the prime minister’s chief of staff of ordering the 2017 car bombing of Daphne Caruana Galizia, while insisting his payments to the plot's...",
+      "link": "https://www.occrp.org/en/news/interrogation-tapes-reveal-journalist-murder-suspect-pointing-to-highest-levels-of-maltese-power",
+      "published": "2026-08-19T21:23:00+00:00",
       "featured": false
     },
     {
@@ -143,24 +161,6 @@
       "excerpt": "Drop Site Daily: August 19, 2026",
       "link": "https://www.dropsitenews.com/p/israel-gaza-strikes-tuesday-primary-florida-liberia-us-deportees",
       "published": "2026-08-19T15:52:18+00:00",
-      "featured": false
-    },
-    {
-      "id": "cf2bead4ed95",
-      "source": "OCCRP",
-      "headline": "Indonesia Seizes Record 2.6 Tons of Meth in Major Bust, 10 Arrested",
-      "excerpt": "",
-      "link": "https://www.occrp.org/en/news/indonesia-seizes-record-26-tons-of-meth-in-major-bust-10-arrested",
-      "published": "2026-08-19T12:25:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "7767b1f0f971",
-      "source": "ProPublica",
-      "headline": "The $1 Trillion Black Box",
-      "excerpt": "The post The $1 Trillion Black Box appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/military-defense-spending-budget-series",
-      "published": "2026-08-19T09:00:00+00:00",
       "featured": false
     },
     {
@@ -209,12 +209,12 @@
       "featured": false
     },
     {
-      "id": "bc164e0b5f1d",
+      "id": "9673e6c31004",
       "source": "Al Jazeera",
-      "headline": "Exclusive: Pentagon sends ‘political loyalty’ survey to US allies",
-      "excerpt": "In a questionnaire, the Pentagon presented a list of questions to 31 NATO allies to determine ‘loyalty’ to the US.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/exclusive-pentagon-sends-political-loyalty-survey-to-us-allies?traffic_source=rss",
-      "published": "2026-08-20T05:06:23+00:00",
+      "headline": "Are Hormuz ships more willing to defy Iran or the US? What the data shows",
+      "excerpt": "Most ships are trying to mask identities while trying to cross the strait. But more seem scared of Iran than of the US.",
+      "link": "https://www.aljazeera.com/news/2026/8/20/are-hormuz-ships-more-willing-to-defy-iran-or-the-us-what-data-shows?traffic_source=rss",
+      "published": "2026-08-20T08:43:17+00:00",
       "featured": false
     },
     {
@@ -227,12 +227,21 @@
       "featured": false
     },
     {
-      "id": "b10f100b10b3",
+      "id": "105807f6c318",
+      "source": "OCCRP",
+      "headline": "US Charges Eight More Iranians in Global Hacking Case",
+      "excerpt": "",
+      "link": "https://www.occrp.org/en/news/us-charges-eight-more-iranians-in-global-hacking-case",
+      "published": "2026-08-19T12:29:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "2b45a35f7174",
       "source": "ProPublica",
-      "headline": "Do You Know About U.S. Military Spending? Help ProPublica Understand Where the Money Goes.",
-      "excerpt": "The post Do You Know About U.S. Military Spending? Help ProPublica Understand Where the Money Goes. appeared first on ProPublica.",
-      "link": "https://www.propublica.org/getinvolved/share-military-defense-spending-tips",
-      "published": "2026-08-19T09:00:00+00:00",
+      "headline": "Senators Criticize Trump Administration’s Demands to Access Health Data as a Condition for Lifesaving Aid",
+      "excerpt": "The post Senators Criticize Trump Administration’s Demands to Access Health Data as a Condition for Lifesaving Aid appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/senators-letter-health-data-africa-humanitarian-aid",
+      "published": "2026-08-19T10:00:00+00:00",
       "featured": false
     },
     {
@@ -251,15 +260,6 @@
       "excerpt": "The Trump administration is stacked with 57 “ultra-millionaires.”",
       "link": "https://www.levernews.com/all-the-presidents-millionaires/",
       "published": "2026-08-18T16:35:36+00:00",
-      "featured": false
-    },
-    {
-      "id": "145519d76730",
-      "source": "OCCRP",
-      "headline": "Iran Moves to Outlaw All Contact With \"Hostile\" Foreign Media",
-      "excerpt": "International watchdogs warn that a proposed law imposing prison sentences for communications with “hostile” foreign media aims to keep evidence of state repression hidden.",
-      "link": "https://www.occrp.org/en/news/iran-moves-to-outlaw-all-contact-with-hostile-foreign-media",
-      "published": "2026-08-18T15:29:00+00:00",
       "featured": false
     },
     {
@@ -308,12 +308,30 @@
       "featured": false
     },
     {
-      "id": "fa6eb65d0799",
+      "id": "9cdc01e6d656",
       "source": "Al Jazeera",
-      "headline": "At least 6 killed in multiple Russian missile strikes across Ukraine",
-      "excerpt": "Russian ballistic missiles killed at least six people and ⁠injured over two dozen more in Kyiv early on Thursday.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/at-least-6-killed-in-multiple-russian-missile-strikes-across-ukraine?traffic_source=rss",
-      "published": "2026-08-20T04:59:22+00:00",
+      "headline": "Max Verstappen signs new F1 contract with Red Bull until 2030",
+      "excerpt": "Four-time F1 World Drivers' Champion's new deal puts to rest rumours that he would exit the team at the end of 2028.",
+      "link": "https://www.aljazeera.com/sports/2026/8/20/verstappen-signs-new-red-bull-contract-until-2030?traffic_source=rss",
+      "published": "2026-08-20T08:27:55+00:00",
+      "featured": false
+    },
+    {
+      "id": "cf2bead4ed95",
+      "source": "OCCRP",
+      "headline": "Indonesia Seizes Record 2.6 Tons of Meth in Major Bust, 10 Arrested",
+      "excerpt": "",
+      "link": "https://www.occrp.org/en/news/indonesia-seizes-record-26-tons-of-meth-in-major-bust-10-arrested",
+      "published": "2026-08-19T12:25:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "7767b1f0f971",
+      "source": "ProPublica",
+      "headline": "The $1 Trillion Black Box",
+      "excerpt": "The post The $1 Trillion Black Box appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/military-defense-spending-budget-series",
+      "published": "2026-08-19T09:00:00+00:00",
       "featured": false
     },
     {
@@ -332,24 +350,6 @@
       "excerpt": "AI companies see words as interchangeable and have zero clue how to judge the “quality” of writing.",
       "link": "https://www.404media.co/anthropics-text-watermarking-proves-ai-companies-do-not-care-at-all-about-writing/",
       "published": "2026-08-18T15:54:15+00:00",
-      "featured": false
-    },
-    {
-      "id": "03e23e0ca46e",
-      "source": "OCCRP",
-      "headline": "A Key Food Source Collapsed Off West Africa’s Coast as Chinese Ships Ground the Species Into Fishmeal",
-      "excerpt": "A Guinea-Bissau fisheries assessment obtained by OCCRP shows that the sardinella — an important food source — has been decimated in the years since two Chinese fishmeal-production vessels set up shop offshore. After the...",
-      "link": "https://www.occrp.org/en/feature/a-key-food-source-collapsed-off-west-africas-coast-as-chinese-ships-ground-the-species-into-fishmeal",
-      "published": "2026-08-18T15:12:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "deb657d03dbc",
-      "source": "ProPublica",
-      "headline": "Measles Used to Be in Our Rearview Mirror. Now Cases Are Reaching Record Highs.",
-      "excerpt": "The post Measles Used to Be in Our Rearview Mirror. Now Cases Are Reaching Record Highs. appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/measles-cases-vaccines",
-      "published": "2026-08-18T09:00:00+00:00",
       "featured": false
     },
     {
@@ -398,12 +398,30 @@
       "featured": false
     },
     {
-      "id": "b7b1722026b4",
+      "id": "b291689169e0",
       "source": "Al Jazeera",
-      "headline": "Trump vows ‘economic warfare’ on countries helping Iran",
-      "excerpt": "US President Donald Trump has threatened ‘economic D-Day’ on any countries that help or do business with Iran.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/trump-vows-economic-warfare-on-countries-helping-iran?traffic_source=rss",
-      "published": "2026-08-20T04:31:10+00:00",
+      "headline": "Heatwaves and energy crunch: Can Europe withstand a double shock?",
+      "excerpt": "Heatwaves are squeezing growth and productivity while the Iran war drives up Europe's energy costs.",
+      "link": "https://www.aljazeera.com/video/counting-the-cost/2026/8/20/heatwaves-and-energy-crunch-can-europe-withstand-a-double-shock?traffic_source=rss",
+      "published": "2026-08-20T08:24:04+00:00",
+      "featured": false
+    },
+    {
+      "id": "b10f100b10b3",
+      "source": "ProPublica",
+      "headline": "Do You Know About U.S. Military Spending? Help ProPublica Understand Where the Money Goes.",
+      "excerpt": "The post Do You Know About U.S. Military Spending? Help ProPublica Understand Where the Money Goes. appeared first on ProPublica.",
+      "link": "https://www.propublica.org/getinvolved/share-military-defense-spending-tips",
+      "published": "2026-08-19T09:00:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "145519d76730",
+      "source": "OCCRP",
+      "headline": "Iran Moves to Outlaw All Contact With \"Hostile\" Foreign Media",
+      "excerpt": "International watchdogs warn that a proposed law imposing prison sentences for communications with “hostile” foreign media aims to keep evidence of state repression hidden.",
+      "link": "https://www.occrp.org/en/news/iran-moves-to-outlaw-all-contact-with-hostile-foreign-media",
+      "published": "2026-08-18T15:29:00+00:00",
       "featured": false
     },
     {
@@ -413,15 +431,6 @@
       "excerpt": "Drop Site Daily: August 18, 2026",
       "link": "https://www.dropsitenews.com/p/primaries-florida-alaska-california-israel-syria-air-base-congo-ebola-outbreak",
       "published": "2026-08-18T15:25:10+00:00",
-      "featured": false
-    },
-    {
-      "id": "99dfe20e73a8",
-      "source": "OCCRP",
-      "headline": "US Unseals 25-Count Indictment in $165M Crypto Case",
-      "excerpt": "U.S. prosecutors accused Edward Zimbardi of defrauding thousands of investors, days after he had been returned from Fiji to the United States.",
-      "link": "https://www.occrp.org/en/news/us-unseals-25-count-indictment-in-165m-crypto-case",
-      "published": "2026-08-18T13:53:00+00:00",
       "featured": false
     },
     {
@@ -440,15 +449,6 @@
       "excerpt": "Refunds from Trump’s Liberation Day tariffs are boosting corporate quarterly earnings, while Consumers who paid the tariffs are shut out.",
       "link": "https://www.levernews.com/consumers-frozen-out-of-tariff-refund-bonanza/",
       "published": "2026-08-17T17:43:15+00:00",
-      "featured": false
-    },
-    {
-      "id": "c686b1b8855e",
-      "source": "ProPublica",
-      "headline": "At “Quasi-Public” Private Schools, 100% of Students Get Tuition Vouchers. There’s Almost No Accountability.",
-      "excerpt": "The post At “Quasi-Public” Private Schools, 100% of Students Get Tuition Vouchers. There’s Almost No Accountability. appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/private-schools-vouchers-wisconsin-atlas-preparatory",
-      "published": "2026-08-17T09:00:00+00:00",
       "featured": false
     },
     {
@@ -488,12 +488,21 @@
       "featured": false
     },
     {
-      "id": "cbd00cf51c42",
+      "id": "2a27bd2e9711",
       "source": "Al Jazeera",
-      "headline": "Russian forces kill 9 in Ukraine as Zelenskyy faces pressure over elections",
-      "excerpt": "Russian ballistic missile attacks hit at least three districts in Kyiv, collapsing buildings and causing fires.",
-      "link": "https://www.aljazeera.com/news/2026/8/20/russian-strike-kills-3-in-ukraine-as-zelenskyy-faces-pressure-at-home?traffic_source=rss",
-      "published": "2026-08-20T02:50:17+00:00",
+      "headline": "Video shows Russian missile strike on Ukrainian capital",
+      "excerpt": "Ukrainian officials say at least 12 people were killed and dozens injured after Russian ballistic missiles struck Kyiv.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/video-shows-russian-missile-strike-on-ukrainian-capital?traffic_source=rss",
+      "published": "2026-08-20T08:18:15+00:00",
+      "featured": false
+    },
+    {
+      "id": "03e23e0ca46e",
+      "source": "OCCRP",
+      "headline": "A Key Food Source Collapsed Off West Africa’s Coast as Chinese Ships Ground the Species Into Fishmeal",
+      "excerpt": "A Guinea-Bissau fisheries assessment obtained by OCCRP shows that the sardinella — an important food source — has been decimated in the years since two Chinese fishmeal-production vessels set up shop offshore. After the...",
+      "link": "https://www.occrp.org/en/feature/a-key-food-source-collapsed-off-west-africas-coast-as-chinese-ships-ground-the-species-into-fishmeal",
+      "published": "2026-08-18T15:12:00+00:00",
       "featured": false
     },
     {
@@ -506,6 +515,15 @@
       "featured": false
     },
     {
+      "id": "deb657d03dbc",
+      "source": "ProPublica",
+      "headline": "Measles Used to Be in Our Rearview Mirror. Now Cases Are Reaching Record Highs.",
+      "excerpt": "The post Measles Used to Be in Our Rearview Mirror. Now Cases Are Reaching Record Highs. appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/measles-cases-vaccines",
+      "published": "2026-08-18T09:00:00+00:00",
+      "featured": false
+    },
+    {
       "id": "84de8650ba4f",
       "source": "Dropsite News",
       "headline": "Judge Throws Out “Political Prosecution” of Pro-Palestinian University of Michigan Student",
@@ -515,30 +533,12 @@
       "featured": false
     },
     {
-      "id": "3c09aeb3efb2",
-      "source": "OCCRP",
-      "headline": "Fiji Hands Over a Man Suspected of Ponzi-style Crypto Investment Schemes to US",
-      "excerpt": "Following regulatory crackdowns in the U.S. and an arrest in the Netherlands, Edward Zimbardi was handed over to American authorities to face scrutiny over his alleged digital asset frauds.",
-      "link": "https://www.occrp.org/en/news/fiji-hands-over-a-man-suspected-of-ponzi-style-crypto-investment-schemes-to-us",
-      "published": "2026-08-17T16:33:00+00:00",
-      "featured": false
-    },
-    {
       "id": "54037e6c9df0",
       "source": "The Lever",
       "headline": "Hakeem Jeffries’ Betrayal Shows Why Democratic Voters Are So Enraged",
       "excerpt": "House Dems’ leader declared his opposition to Medicare For All on the same day a new poll shows almost all Democratic voters support it.",
       "link": "https://www.levernews.com/hakeem-jeffries-betrayal-shows-why-democratic-voters-are-so-enraged/",
       "published": "2026-08-17T07:01:16+00:00",
-      "featured": false
-    },
-    {
-      "id": "148d2984d0ce",
-      "source": "The Intercept",
-      "headline": "Secret ICE Agent Tried to “Entice” Minneapolis Activists Into Confrontational Tactics",
-      "excerpt": "Documents from ICE’s investigation into the Sunrise Movement show an agent volunteered to build tools for “direct-action” protests. The post Secret ICE Agent Tried to “Entice” Minneapolis Activists Into Confrontational...",
-      "link": "https://theintercept.com/2026/08/15/undercover-ice-agents-minneapolis-sunrise-movement/",
-      "published": "2026-08-15T22:38:25+00:00",
       "featured": false
     }
   ]
