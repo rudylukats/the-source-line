@@ -1,14 +1,41 @@
 {
-  "generated_at": "2026-08-20T09:50:31.939330+00:00",
+  "generated_at": "2026-08-20T13:11:44.127827+00:00",
   "articles": [
     {
-      "id": "e7fbec87f790",
+      "id": "ac6349d8abb9",
       "source": "Al Jazeera",
-      "headline": "How conflict is making life more expensive for Iranians",
-      "excerpt": "How conflict is making life more expensive for Iranians",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/how-conflict-is-making-life-more-expensive-for-iranians?traffic_source=rss",
-      "published": "2026-08-20T09:20:17+00:00",
+      "headline": "Alarms blare in South Korea during annual air raid defence drill",
+      "excerpt": "South Korea has held a nationwide drill simulating an air raid to coincide with joint military exercises with the US.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/alarms-blare-in-south-korea-during-annual-air-raid-defence-drill?traffic_source=rss",
+      "published": "2026-08-20T12:46:35+00:00",
       "featured": true
+    },
+    {
+      "id": "20326a28e45c",
+      "source": "ICIJ",
+      "headline": "Despite years of confiscations, the Met still holds hundreds of pieces linked to alleged trafficking and looting figures",
+      "excerpt": "Museum says it wants no stolen artwork and that it has initiated an expedited review of hundreds of works tied to specific dealers.",
+      "link": "https://www.icij.org/investigations/hidden-treasures/despite-years-of-confiscations-the-met-still-holds-hundreds-of-pieces-linked-to-alleged-trafficking-and-looting-figures/",
+      "published": "2026-08-20T11:54:56+00:00",
+      "featured": true
+    },
+    {
+      "id": "a466576f2774",
+      "source": "The Lever",
+      "headline": "The Democratic Primary Operative With A Wall Street Side Gig",
+      "excerpt": "Peter Kauffmann helps lead a billionaire-funded network intervening in Democratic primaries — while representing a front group fighting to keep your credit fees high.",
+      "link": "https://www.levernews.com/the-democratic-primary-operative-with-a-wall-street-side-gig/",
+      "published": "2026-08-20T11:30:22+00:00",
+      "featured": true
+    },
+    {
+      "id": "d17657aec8c4",
+      "source": "Rest of World",
+      "headline": "“It’s laughable”: Global AI experts challenge Zuckerberg’s “AI for everyone”",
+      "excerpt": "Observers scrutinize Meta founder’s argument about AI’s potential as an equalizer and enabler.",
+      "link": "https://restofworld.org/2026/mark-zuckerberg-meta-ai-for-everyone-manifesto-global-critique/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "published": "2026-08-20T10:00:00+00:00",
+      "featured": false
     },
     {
       "id": "0840fc3d4ca4",
@@ -17,7 +44,7 @@
       "excerpt": "The post This Coach Is Banned From Working With Kids. Why Is He Still Coaching? appeared first on ProPublica.",
       "link": "https://www.propublica.org/article/ryan-richardson-pharr-texas-usa-volleyball-safesport-abuse-teens",
       "published": "2026-08-20T09:00:00+00:00",
-      "featured": true
+      "featured": false
     },
     {
       "id": "511a376eac13",
@@ -26,15 +53,6 @@
       "excerpt": "",
       "link": "https://www.occrp.org/en/news/french-authorities-investigate-widespread-government-data-breaches",
       "published": "2026-08-20T08:15:00+00:00",
-      "featured": true
-    },
-    {
-      "id": "d7b220637814",
-      "source": "The Lever",
-      "headline": "This Senate Candidate Tried To Let His Future Employer Spy On You",
-      "excerpt": "Mike Rogers took thousands from AT&T, pushed to let telecoms share private customer data without a warrant, then joined the company as a security adviser.",
-      "link": "https://www.levernews.com/this-senate-candidate-tried-to-let-his-future-employer-spy-on-you/",
-      "published": "2026-08-19T21:24:04+00:00",
       "featured": false
     },
     {
@@ -65,30 +83,12 @@
       "featured": false
     },
     {
-      "id": "85dda370dfda",
-      "source": "Rest of World",
-      "headline": "Chinese carmakers now sell one EV abroad for every two at home",
-      "excerpt": "Dwindling sales at home are pushing the cars toward Brazil, Thailand, and the Gulf.",
-      "link": "https://restofworld.org/2026/china-ev-exports-overcapacity-global-markets/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-      "published": "2026-08-18T10:00:00+00:00",
-      "featured": false
-    },
-    {
       "id": "c05386da40a0",
       "source": "More Perfect Union",
       "headline": "We Uncovered Where Your Insurance Payments Are Really Going",
       "excerpt": "Insurance companies claim higher prices are justified by higher risks, but we found they are keeping more of our premium dollars than ever.",
       "link": "https://substack.perfectunion.us/p/we-uncovered-where-your-insurance",
       "published": "2026-08-14T20:47:37+00:00",
-      "featured": false
-    },
-    {
-      "id": "bae449c52e51",
-      "source": "ICIJ",
-      "headline": "Kazakhstan alleges Big Oil corruption tainted $10.7 billion in contracts, delayed key oil project",
-      "excerpt": "The allegations, which are at the heart of a confidential arbitration, signal an aggressive new stance by the Central Asian country toward longstanding international partners.",
-      "link": "https://www.icij.org/investigations/caspian-cabals/kazakhstan-alleges-big-oil-corruption-tainted-10-7-billion-in-contracts-delayed-key-oil-project/",
-      "published": "2026-08-14T05:08:39+00:00",
       "featured": false
     },
     {
@@ -110,12 +110,12 @@
       "featured": false
     },
     {
-      "id": "1c5f68829b62",
+      "id": "c309d657c33a",
       "source": "Al Jazeera",
-      "headline": "State-backed Israeli settler violence forces West Bank displacement: HRW",
-      "excerpt": "HRW calls for sanctions and suspension of military aid as dozens of Palestinian communities are at risk of erasure.",
-      "link": "https://www.aljazeera.com/news/2026/8/20/state-backed-israeli-settler-violence-forces-west-bank-displacement-hrw?traffic_source=rss",
-      "published": "2026-08-20T09:08:58+00:00",
+      "headline": "Bangladesh’s government under pressure as youth demand jobs",
+      "excerpt": "Six months into Prime Minister Tariq Rahman’s term, Bangladesh faces an energy crisis and rising prices.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/20-08-reported-tanvir-chowdhury-bangladesh-bn?traffic_source=rss",
+      "published": "2026-08-20T11:49:36+00:00",
       "featured": false
     },
     {
@@ -125,6 +125,15 @@
       "excerpt": "The post What Parents Need to Know About Sexual Abuse in Youth Sports appeared first on ProPublica.",
       "link": "https://www.propublica.org/getinvolved/what-parents-should-know-sexual-abuse-youth-sports-aau-safesport",
       "published": "2026-08-20T08:55:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "d7b220637814",
+      "source": "The Lever",
+      "headline": "This Senate Candidate Tried To Let His Future Employer Spy On You",
+      "excerpt": "Mike Rogers took thousands from AT&T, pushed to let telecoms share private customer data without a warrant, then joined the company as a security adviser.",
+      "link": "https://www.levernews.com/this-senate-candidate-tried-to-let-his-future-employer-spy-on-you/",
+      "published": "2026-08-19T21:24:04+00:00",
       "featured": false
     },
     {
@@ -146,15 +155,6 @@
       "featured": false
     },
     {
-      "id": "367311ee2f84",
-      "source": "The Lever",
-      "headline": "Midterm Madness: Socialism Smashes Expectations In Florida",
-      "excerpt": "Democratic socialist Angie Nixon won the Sunshine State’s Senate primary yesterday after being out-fundraised roughly 16 times over.",
-      "link": "https://www.levernews.com/midterm-madness-socialism-smashes-expectations-in-florida/",
-      "published": "2026-08-19T16:56:07+00:00",
-      "featured": false
-    },
-    {
       "id": "3fcdb39d79ea",
       "source": "Dropsite News",
       "headline": "Israeli strikes on Gaza kill 17 Palestinians; Tuesday’s primary results; Liberia to take 1,200 deportees from the U.S.",
@@ -173,12 +173,21 @@
       "featured": false
     },
     {
-      "id": "7550ff3c843c",
+      "id": "85dda370dfda",
       "source": "Rest of World",
-      "headline": "Ban on Chinese robots leaves U.S. startups stranded",
-      "excerpt": "Three Unitree G1 humanoid robots are pictured at robotics company Unitree's first retail store in Beijing.",
-      "link": "https://restofworld.org/2026/china-robot-ban-silicon-valley/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-      "published": "2026-08-17T10:00:00+00:00",
+      "headline": "Chinese carmakers now sell one EV abroad for every two at home",
+      "excerpt": "Dwindling sales at home are pushing the cars toward Brazil, Thailand, and the Gulf.",
+      "link": "https://restofworld.org/2026/china-ev-exports-overcapacity-global-markets/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "published": "2026-08-18T10:00:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "bae449c52e51",
+      "source": "ICIJ",
+      "headline": "Kazakhstan alleges Big Oil corruption tainted $10.7 billion in contracts, delayed key oil project",
+      "excerpt": "The allegations, which are at the heart of a confidential arbitration, signal an aggressive new stance by the Central Asian country toward longstanding international partners.",
+      "link": "https://www.icij.org/investigations/caspian-cabals/kazakhstan-alleges-big-oil-corruption-tainted-10-7-billion-in-contracts-delayed-key-oil-project/",
+      "published": "2026-08-14T05:08:39+00:00",
       "featured": false
     },
     {
@@ -191,15 +200,6 @@
       "featured": false
     },
     {
-      "id": "5b3f4d69ea45",
-      "source": "ICIJ",
-      "headline": "Alleged cartel boss Daniel Kinahan charged in Ireland following high security extradition",
-      "excerpt": "Kinahan was taken from Dubai to a Dublin court under armed escort and ordered to remain in prison while he awaits trial for his alleged part in running a global drug smuggling empire.",
-      "link": "https://www.icij.org/news/2026/08/alleged-cartel-boss-daniel-kinahan-charged-in-ireland-following-high-security-extradition/",
-      "published": "2026-08-10T22:44:19+00:00",
-      "featured": false
-    },
-    {
       "id": "5f1f128e4a58",
       "source": "Bellingcat",
       "headline": "Will Ronaldo Cry​? World Cup Fans Bet Billions Through Prediction Markets",
@@ -209,12 +209,12 @@
       "featured": false
     },
     {
-      "id": "9673e6c31004",
+      "id": "18c1c65ab681",
       "source": "Al Jazeera",
-      "headline": "Are Hormuz ships more willing to defy Iran or the US? What the data shows",
-      "excerpt": "Most ships are trying to mask identities while trying to cross the strait. But more seem scared of Iran than of the US.",
-      "link": "https://www.aljazeera.com/news/2026/8/20/are-hormuz-ships-more-willing-to-defy-iran-or-the-us-what-data-shows?traffic_source=rss",
-      "published": "2026-08-20T08:43:17+00:00",
+      "headline": "Who was Hind Rajab and why is Israel investigating her killing?",
+      "excerpt": "After two years of denial, Israel admits firing on the 5-year-old's car. But her family and others don't expect justice.",
+      "link": "https://www.aljazeera.com/news/2026/8/20/who-was-hind-rajab-and-why-is-israel-investigating-her-killing?traffic_source=rss",
+      "published": "2026-08-20T11:48:18+00:00",
       "featured": false
     },
     {
@@ -224,6 +224,15 @@
       "excerpt": "Body camera footage shows police surveillance abuse is common: \"We’ve told them over and over again: 'You see a hot chick, you don’t look them up in a database.'\"",
       "link": "https://www.404media.co/i-saw-a-shiny-thing-cop-explains-why-he-used-license-plate-reader-to-stalk-woman/",
       "published": "2026-08-19T17:14:58+00:00",
+      "featured": false
+    },
+    {
+      "id": "367311ee2f84",
+      "source": "The Lever",
+      "headline": "Midterm Madness: Socialism Smashes Expectations In Florida",
+      "excerpt": "Democratic socialist Angie Nixon won the Sunshine State’s Senate primary yesterday after being out-fundraised roughly 16 times over.",
+      "link": "https://www.levernews.com/midterm-madness-socialism-smashes-expectations-in-florida/",
+      "published": "2026-08-19T16:56:07+00:00",
       "featured": false
     },
     {
@@ -254,15 +263,6 @@
       "featured": false
     },
     {
-      "id": "be3f0fac247f",
-      "source": "The Lever",
-      "headline": "All The President’s Millionaires",
-      "excerpt": "The Trump administration is stacked with 57 “ultra-millionaires.”",
-      "link": "https://www.levernews.com/all-the-presidents-millionaires/",
-      "published": "2026-08-18T16:35:36+00:00",
-      "featured": false
-    },
-    {
       "id": "85326b87cd86",
       "source": "The Intercept",
       "headline": "ICE Worked With Iranian Regime to Set Up Deportation Flights as Trump Laid Plans for War",
@@ -272,12 +272,12 @@
       "featured": false
     },
     {
-      "id": "7dccc529e0af",
+      "id": "7550ff3c843c",
       "source": "Rest of World",
-      "headline": "The online shopping trend where you buy nothing",
-      "excerpt": "On South Korea’s “dopamine sites,” the pleasure comes from aspirational shopping rituals like browsing, curating, and tracking — not from a delivery.",
-      "link": "https://restofworld.org/2026/south-korea-shopping-trend/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-      "published": "2026-08-14T13:00:00+00:00",
+      "headline": "Ban on Chinese robots leaves U.S. startups stranded",
+      "excerpt": "Three Unitree G1 humanoid robots are pictured at robotics company Unitree's first retail store in Beijing.",
+      "link": "https://restofworld.org/2026/china-robot-ban-silicon-valley/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "published": "2026-08-17T10:00:00+00:00",
       "featured": false
     },
     {
@@ -290,12 +290,12 @@
       "featured": false
     },
     {
-      "id": "bb66f2d39528",
+      "id": "5b3f4d69ea45",
       "source": "ICIJ",
-      "headline": "The $200 billion company you can’t look inside",
-      "excerpt": "Its USDT crypto token underpins a trillion-dollar market, but cryptocurrency giant Tether won’t answer questions about its ownership.",
-      "link": "https://www.icij.org/investigations/coin-laundry/the-200-billion-company-you-cant-look-inside/",
-      "published": "2026-08-07T04:01:59+00:00",
+      "headline": "Alleged cartel boss Daniel Kinahan charged in Ireland following high security extradition",
+      "excerpt": "Kinahan was taken from Dubai to a Dublin court under armed escort and ordered to remain in prison while he awaits trial for his alleged part in running a global drug smuggling empire.",
+      "link": "https://www.icij.org/news/2026/08/alleged-cartel-boss-daniel-kinahan-charged-in-ireland-following-high-security-extradition/",
+      "published": "2026-08-10T22:44:19+00:00",
       "featured": false
     },
     {
@@ -308,12 +308,12 @@
       "featured": false
     },
     {
-      "id": "9cdc01e6d656",
+      "id": "df15dad93dbb",
       "source": "Al Jazeera",
-      "headline": "Max Verstappen signs new F1 contract with Red Bull until 2030",
-      "excerpt": "Four-time F1 World Drivers' Champion's new deal puts to rest rumours that he would exit the team at the end of 2028.",
-      "link": "https://www.aljazeera.com/sports/2026/8/20/verstappen-signs-new-red-bull-contract-until-2030?traffic_source=rss",
-      "published": "2026-08-20T08:27:55+00:00",
+      "headline": "Israel is betting on Islamophobia to save its standing in the West",
+      "excerpt": "Netanyahu’s government is using anti-Muslim fear to rally a Western right increasingly receptive to its message.",
+      "link": "https://www.aljazeera.com/opinions/2026/8/20/israel-is-betting-on-islamophobia-to-save-its-standing-in-the-west?traffic_source=rss",
+      "published": "2026-08-20T11:44:15+00:00",
       "featured": false
     },
     {
@@ -344,21 +344,21 @@
       "featured": false
     },
     {
+      "id": "be3f0fac247f",
+      "source": "The Lever",
+      "headline": "All The President’s Millionaires",
+      "excerpt": "The Trump administration is stacked with 57 “ultra-millionaires.”",
+      "link": "https://www.levernews.com/all-the-presidents-millionaires/",
+      "published": "2026-08-18T16:35:36+00:00",
+      "featured": false
+    },
+    {
       "id": "0e4bf500c5b9",
       "source": "404 Media",
       "headline": "Anthropic’s Text Watermarking Proves AI Companies Do Not Care at All About Writing",
       "excerpt": "AI companies see words as interchangeable and have zero clue how to judge the “quality” of writing.",
       "link": "https://www.404media.co/anthropics-text-watermarking-proves-ai-companies-do-not-care-at-all-about-writing/",
       "published": "2026-08-18T15:54:15+00:00",
-      "featured": false
-    },
-    {
-      "id": "23b84336974c",
-      "source": "The Lever",
-      "headline": "The Senate Candidate Who Could Get Rich Off Data Centers",
-      "excerpt": "Michigan Republican Mike Rogers holds millions in AI-related investments while backing Donald Trump’s push to fast-track the infrastructure fueling the industry.",
-      "link": "https://www.levernews.com/the-senate-candidate-with-an-ai-investment-problem/",
-      "published": "2026-08-18T00:15:23+00:00",
       "featured": false
     },
     {
@@ -371,12 +371,12 @@
       "featured": false
     },
     {
-      "id": "7184318e7e5f",
+      "id": "7dccc529e0af",
       "source": "Rest of World",
-      "headline": "Mozilla’s CTO thinks AI should be built like the internet",
-      "excerpt": "Raffi Krikorian explains that while consumers flock to ChatGPT and Claude, companies are increasingly turning to open models that they can customize and control.",
-      "link": "https://restofworld.org/2026/open-source-ai-infrastructure-mozilla/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-      "published": "2026-08-13T10:00:00+00:00",
+      "headline": "The online shopping trend where you buy nothing",
+      "excerpt": "On South Korea’s “dopamine sites,” the pleasure comes from aspirational shopping rituals like browsing, curating, and tracking — not from a delivery.",
+      "link": "https://restofworld.org/2026/south-korea-shopping-trend/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "published": "2026-08-14T13:00:00+00:00",
       "featured": false
     },
     {
@@ -389,21 +389,21 @@
       "featured": false
     },
     {
-      "id": "69684180d7b9",
+      "id": "bb66f2d39528",
       "source": "ICIJ",
-      "headline": "After cancer drug counterfeiting scandal, India imposes new tracing requirements",
-      "excerpt": "Reporting by ICIJ and The Indian Express illustrated how Indian counterfeiters exploited the high price of the lifesaving cancer drug Keytruda and the desperation of patients seeking it.",
-      "link": "https://www.icij.org/investigations/cancer-calculus/after-cancer-drug-counterfeiting-scandal-india-imposes-new-tracing-requirements/",
-      "published": "2026-08-05T19:30:24+00:00",
+      "headline": "The $200 billion company you can’t look inside",
+      "excerpt": "Its USDT crypto token underpins a trillion-dollar market, but cryptocurrency giant Tether won’t answer questions about its ownership.",
+      "link": "https://www.icij.org/investigations/coin-laundry/the-200-billion-company-you-cant-look-inside/",
+      "published": "2026-08-07T04:01:59+00:00",
       "featured": false
     },
     {
-      "id": "b291689169e0",
+      "id": "51d509f1e391",
       "source": "Al Jazeera",
-      "headline": "Heatwaves and energy crunch: Can Europe withstand a double shock?",
-      "excerpt": "Heatwaves are squeezing growth and productivity while the Iran war drives up Europe's energy costs.",
-      "link": "https://www.aljazeera.com/video/counting-the-cost/2026/8/20/heatwaves-and-energy-crunch-can-europe-withstand-a-double-shock?traffic_source=rss",
-      "published": "2026-08-20T08:24:04+00:00",
+      "headline": "PSG forced to move opening league match as heatwave in France damages pitch",
+      "excerpt": "Paris Saint-Germain moves its opening league game to Rennes after heatwave causes damage to pitch at Parc des Princes.",
+      "link": "https://www.aljazeera.com/sports/2026/8/20/psg-forced-to-move-opening-league-match-as-heatwave-in-france-damages-pitch?traffic_source=rss",
+      "published": "2026-08-20T11:21:50+00:00",
       "featured": false
     },
     {
@@ -443,12 +443,12 @@
       "featured": false
     },
     {
-      "id": "1d17dc223f98",
+      "id": "23b84336974c",
       "source": "The Lever",
-      "headline": "Consumers Frozen Out Of Tariff Refund Bonanza",
-      "excerpt": "Refunds from Trump’s Liberation Day tariffs are boosting corporate quarterly earnings, while Consumers who paid the tariffs are shut out.",
-      "link": "https://www.levernews.com/consumers-frozen-out-of-tariff-refund-bonanza/",
-      "published": "2026-08-17T17:43:15+00:00",
+      "headline": "The Senate Candidate Who Could Get Rich Off Data Centers",
+      "excerpt": "Michigan Republican Mike Rogers holds millions in AI-related investments while backing Donald Trump’s push to fast-track the infrastructure fueling the industry.",
+      "link": "https://www.levernews.com/the-senate-candidate-with-an-ai-investment-problem/",
+      "published": "2026-08-18T00:15:23+00:00",
       "featured": false
     },
     {
@@ -461,12 +461,12 @@
       "featured": false
     },
     {
-      "id": "e8b5ad073155",
+      "id": "7184318e7e5f",
       "source": "Rest of World",
-      "headline": "Why we should all be worried about AI in elections",
-      "excerpt": "Deepfakes dominate headlines, but the real danger lies in opaque AI systems that make up election infrastructure.",
-      "link": "https://restofworld.org/2026/ai-elections-deepfake-voter-chatbot/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-      "published": "2026-08-12T10:00:00+00:00",
+      "headline": "Mozilla’s CTO thinks AI should be built like the internet",
+      "excerpt": "Raffi Krikorian explains that while consumers flock to ChatGPT and Claude, companies are increasingly turning to open models that they can customize and control.",
+      "link": "https://restofworld.org/2026/open-source-ai-infrastructure-mozilla/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "published": "2026-08-13T10:00:00+00:00",
       "featured": false
     },
     {
@@ -479,21 +479,21 @@
       "featured": false
     },
     {
-      "id": "b3505f55c652",
+      "id": "69684180d7b9",
       "source": "ICIJ",
-      "headline": "Companies once tied to Assad kept winning UN contracts under Syria’s new rulers",
-      "excerpt": "An ICIJ analysis found that at least 11 firms received roughly $10 million in 2025 after opaque deals and seizures reshaped their ownership.",
-      "link": "https://www.icij.org/investigations/damascus-dossier/companies-once-tied-to-assad-kept-winning-un-contracts-under-syrias-new-rulers/",
-      "published": "2026-08-04T19:54:07+00:00",
+      "headline": "After cancer drug counterfeiting scandal, India imposes new tracing requirements",
+      "excerpt": "Reporting by ICIJ and The Indian Express illustrated how Indian counterfeiters exploited the high price of the lifesaving cancer drug Keytruda and the desperation of patients seeking it.",
+      "link": "https://www.icij.org/investigations/cancer-calculus/after-cancer-drug-counterfeiting-scandal-india-imposes-new-tracing-requirements/",
+      "published": "2026-08-05T19:30:24+00:00",
       "featured": false
     },
     {
-      "id": "2a27bd2e9711",
+      "id": "925f4a96dc04",
       "source": "Al Jazeera",
-      "headline": "Video shows Russian missile strike on Ukrainian capital",
-      "excerpt": "Ukrainian officials say at least 12 people were killed and dozens injured after Russian ballistic missiles struck Kyiv.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/video-shows-russian-missile-strike-on-ukrainian-capital?traffic_source=rss",
-      "published": "2026-08-20T08:18:15+00:00",
+      "headline": "How Myanmar’s war drives the Rohingya crisis",
+      "excerpt": "Al Jazeera exposes atrocities committed against the Rohingya ethnic minority group during Myanmar’s civil war.",
+      "link": "https://www.aljazeera.com/video/investigations/2026/8/20/how-myanmars-war-drives-the-rohingya-crisis?traffic_source=rss",
+      "published": "2026-08-20T11:00:00+00:00",
       "featured": false
     },
     {
@@ -533,12 +533,12 @@
       "featured": false
     },
     {
-      "id": "54037e6c9df0",
+      "id": "1d17dc223f98",
       "source": "The Lever",
-      "headline": "Hakeem Jeffries’ Betrayal Shows Why Democratic Voters Are So Enraged",
-      "excerpt": "House Dems’ leader declared his opposition to Medicare For All on the same day a new poll shows almost all Democratic voters support it.",
-      "link": "https://www.levernews.com/hakeem-jeffries-betrayal-shows-why-democratic-voters-are-so-enraged/",
-      "published": "2026-08-17T07:01:16+00:00",
+      "headline": "Consumers Frozen Out Of Tariff Refund Bonanza",
+      "excerpt": "Refunds from Trump’s Liberation Day tariffs are boosting corporate quarterly earnings, while Consumers who paid the tariffs are shut out.",
+      "link": "https://www.levernews.com/consumers-frozen-out-of-tariff-refund-bonanza/",
+      "published": "2026-08-17T17:43:15+00:00",
       "featured": false
     }
   ]
