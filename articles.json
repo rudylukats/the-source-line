@@ -1,14 +1,50 @@
 {
-  "generated_at": "2026-08-20T13:11:44.127827+00:00",
+  "generated_at": "2026-08-20T15:49:17.241041+00:00",
   "articles": [
     {
-      "id": "ac6349d8abb9",
-      "source": "Al Jazeera",
-      "headline": "Alarms blare in South Korea during annual air raid defence drill",
-      "excerpt": "South Korea has held a nationwide drill simulating an air raid to coincide with joint military exercises with the US.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/alarms-blare-in-south-korea-during-annual-air-raid-defence-drill?traffic_source=rss",
-      "published": "2026-08-20T12:46:35+00:00",
+      "id": "8fce3b6d7e9f",
+      "source": "Dropsite News",
+      "headline": "U.S. national debt tops $40 trillion; Russian strikes kill 16 in Ukraine; Ecuador’s intelligence chief killed in Kenya helicopter crash",
+      "excerpt": "Drop Site Daily: August 20, 2026",
+      "link": "https://www.dropsitenews.com/p/us-national-debt-russia-ukraine-kyiv-ecuador-intelligence-chief-helicopter-crash",
+      "published": "2026-08-20T15:21:11+00:00",
       "featured": true
+    },
+    {
+      "id": "a96740bb8ed2",
+      "source": "Al Jazeera",
+      "headline": "Landslide kills 13 at illegal gold mine in Colombia’s southwest",
+      "excerpt": "Mining activity caused a deadly slope collapse in Narino, claiming 13 lives and injuring seven others.",
+      "link": "https://www.aljazeera.com/news/2026/8/20/13-workers-killed-in-colombia-mine-landslide-local-official?traffic_source=rss",
+      "published": "2026-08-20T15:08:16+00:00",
+      "featured": true
+    },
+    {
+      "id": "1f331a4b2c10",
+      "source": "OCCRP",
+      "headline": "Liberia Charges Ex-Vice President in Transnational Drug Probe",
+      "excerpt": "Former Vice President Jewel Howard-Taylor faces drug trafficking and money laundering charges tied to a record $317 million cocaine seizure.",
+      "link": "https://www.occrp.org/en/news/liberia-charges-ex-vice-president-in-transnational-drug-probe",
+      "published": "2026-08-20T13:58:00+00:00",
+      "featured": true
+    },
+    {
+      "id": "00bb6424dca0",
+      "source": "The Intercept",
+      "headline": "Immigrant Wants to Pay $368,000 in Fines, but Broken Payment System Won’t Let Him",
+      "excerpt": "The fines, for not “willfully” leaving the country, can accrue interest and harm people in immigration proceedings. The post Immigrant Wants to Pay $368,000 in Fines, but Broken Payment System Won’t Let Him appeared...",
+      "link": "https://theintercept.com/2026/08/20/trump-immigration-civil-fines-deport/",
+      "published": "2026-08-20T13:47:09+00:00",
+      "featured": false
+    },
+    {
+      "id": "15542bd92742",
+      "source": "404 Media",
+      "headline": "Subtlefakes: Slightly Altered Nonconsensual AI Images Are Taking Over X",
+      "excerpt": "Nonconsensual AI images are getting much harder to spot.",
+      "link": "https://www.404media.co/subtlefakes-slightly-altered-nonconsensual-ai-images-are-taking-over-x/",
+      "published": "2026-08-20T13:34:23+00:00",
+      "featured": false
     },
     {
       "id": "20326a28e45c",
@@ -17,7 +53,7 @@
       "excerpt": "Museum says it wants no stolen artwork and that it has initiated an expedited review of hundreds of works tied to specific dealers.",
       "link": "https://www.icij.org/investigations/hidden-treasures/despite-years-of-confiscations-the-met-still-holds-hundreds-of-pieces-linked-to-alleged-trafficking-and-looting-figures/",
       "published": "2026-08-20T11:54:56+00:00",
-      "featured": true
+      "featured": false
     },
     {
       "id": "a466576f2774",
@@ -26,7 +62,7 @@
       "excerpt": "Peter Kauffmann helps lead a billionaire-funded network intervening in Democratic primaries — while representing a front group fighting to keep your credit fees high.",
       "link": "https://www.levernews.com/the-democratic-primary-operative-with-a-wall-street-side-gig/",
       "published": "2026-08-20T11:30:22+00:00",
-      "featured": true
+      "featured": false
     },
     {
       "id": "d17657aec8c4",
@@ -44,42 +80,6 @@
       "excerpt": "The post This Coach Is Banned From Working With Kids. Why Is He Still Coaching? appeared first on ProPublica.",
       "link": "https://www.propublica.org/article/ryan-richardson-pharr-texas-usa-volleyball-safesport-abuse-teens",
       "published": "2026-08-20T09:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "511a376eac13",
-      "source": "OCCRP",
-      "headline": "French Authorities Investigate Widespread Government Data Breaches",
-      "excerpt": "",
-      "link": "https://www.occrp.org/en/news/french-authorities-investigate-widespread-government-data-breaches",
-      "published": "2026-08-20T08:15:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "ad1c0560301f",
-      "source": "404 Media",
-      "headline": "Podcast: Amazon is Destroying Rare Books to Train AI",
-      "excerpt": "Amazon buying and destroying rare books to train AI; a bunch of wild AI use in the courts; and Meta's new patent for its AI smart glasses.",
-      "link": "https://www.404media.co/podcast-amazon-is-destroying-rare-books-to-train-ai/",
-      "published": "2026-08-19T20:06:22+00:00",
-      "featured": false
-    },
-    {
-      "id": "b5d2351b2d4b",
-      "source": "Dropsite News",
-      "headline": "U.S.-Registered Drone Detected at Site of Suspected CIA Boat Strike",
-      "excerpt": "A drone registered to U.S. defense contractor Shield AI flew within 500 meters of Ecuadorian fishing boat hours after attack, according to flight data.",
-      "link": "https://www.dropsitenews.com/p/drone-boat-strike-cia-ecuador-shield-ai",
-      "published": "2026-08-19T17:10:54+00:00",
-      "featured": false
-    },
-    {
-      "id": "82fca316717b",
-      "source": "The Intercept",
-      "headline": "What The Intercept Is Reading",
-      "excerpt": "Book recommendations old and new, fiction and nonfiction, from staffers. The post What The Intercept Is Reading appeared first on The Intercept.",
-      "link": "https://theintercept.com/2026/08/19/book-reading-recommendations/",
-      "published": "2026-08-19T10:00:00+00:00",
       "featured": false
     },
     {
@@ -110,12 +110,30 @@
       "featured": false
     },
     {
-      "id": "c309d657c33a",
+      "id": "d94ad932442f",
       "source": "Al Jazeera",
-      "headline": "Bangladesh’s government under pressure as youth demand jobs",
-      "excerpt": "Six months into Prime Minister Tariq Rahman’s term, Bangladesh faces an energy crisis and rising prices.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/20-08-reported-tanvir-chowdhury-bangladesh-bn?traffic_source=rss",
-      "published": "2026-08-20T11:49:36+00:00",
+      "headline": "Man Utd preview: Five key talking points for 2026-27 Premier League season",
+      "excerpt": "From Bruno Fernandes's future to a Champions League return, all to know about Manchester United before the new season.",
+      "link": "https://www.aljazeera.com/sports/2026/8/20/man-utd-preview-five-key-talking-points-for-2026-27-premier-league-season?traffic_source=rss",
+      "published": "2026-08-20T15:00:43+00:00",
+      "featured": false
+    },
+    {
+      "id": "14139ae548b7",
+      "source": "OCCRP",
+      "headline": "Zelenskyy Dismisses Senior Aide Suspected in $3.3 Million Money Laundering Case",
+      "excerpt": "Ukrainian investigators say senior officials and lawmakers used a state-owned bank and shell companies to launder criminal proceeds intended as bail in a separate corruption case. Iryna Mudra says investigators’...",
+      "link": "https://www.occrp.org/en/news/zelenskyy-dismisses-senior-aide-suspected-in-33-million-money-laundering-case",
+      "published": "2026-08-20T13:53:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "8aca504099ad",
+      "source": "404 Media",
+      "headline": "Township Fights Nuclear Weapons Data Center By Passing a Moratorium on Electrical Infrastructure",
+      "excerpt": "The six month moratorium on major electrical infrastructure projects is the latest tactic meant to delay the massive data center meant to support America’s nuclear weapons.",
+      "link": "https://www.404media.co/township-fights-nuclear-weapons-data-center-by-passing-a-moratorium-on-electrical-infrastructure/",
+      "published": "2026-08-20T13:12:03+00:00",
       "featured": false
     },
     {
@@ -137,39 +155,21 @@
       "featured": false
     },
     {
-      "id": "1ad2c20802cf",
-      "source": "OCCRP",
-      "headline": "Interrogation Tapes Reveal Journalist Murder Suspect Pointing to Highest Levels of Maltese Power",
-      "excerpt": "Police interviews played for a Maltese jury show Yorgen Fenech accusing the prime minister’s chief of staff of ordering the 2017 car bombing of Daphne Caruana Galizia, while insisting his payments to the plot's...",
-      "link": "https://www.occrp.org/en/news/interrogation-tapes-reveal-journalist-murder-suspect-pointing-to-highest-levels-of-maltese-power",
-      "published": "2026-08-19T21:23:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "5e9eba34cf6e",
-      "source": "404 Media",
-      "headline": "Lifeforms Can Survive on ‘Significant’ Regions of the Moon, Study Finds",
-      "excerpt": "The Moon was long thought to be inhospitable to life, but scientists have discovered that common Earth microbes could survive for up to a week in shadowed regions of the lunar south pole, a region targeted for future...",
-      "link": "https://www.404media.co/lifeforms-can-survive-on-significant-regions-of-the-moon-study-finds/",
-      "published": "2026-08-19T18:00:10+00:00",
-      "featured": false
-    },
-    {
-      "id": "3fcdb39d79ea",
+      "id": "b5d2351b2d4b",
       "source": "Dropsite News",
-      "headline": "Israeli strikes on Gaza kill 17 Palestinians; Tuesday’s primary results; Liberia to take 1,200 deportees from the U.S.",
-      "excerpt": "Drop Site Daily: August 19, 2026",
-      "link": "https://www.dropsitenews.com/p/israel-gaza-strikes-tuesday-primary-florida-liberia-us-deportees",
-      "published": "2026-08-19T15:52:18+00:00",
+      "headline": "U.S.-Registered Drone Detected at Site of Suspected CIA Boat Strike",
+      "excerpt": "A drone registered to U.S. defense contractor Shield AI flew within 500 meters of Ecuadorian fishing boat hours after attack, according to flight data.",
+      "link": "https://www.dropsitenews.com/p/drone-boat-strike-cia-ecuador-shield-ai",
+      "published": "2026-08-19T17:10:54+00:00",
       "featured": false
     },
     {
-      "id": "38be56bd5a8e",
+      "id": "82fca316717b",
       "source": "The Intercept",
-      "headline": "The Short Life of a Newborn During the Iran War",
-      "excerpt": "“What crime had my 20-day-old grandchild committed?” The post The Short Life of a Newborn During the Iran War appeared first on The Intercept.",
-      "link": "https://theintercept.com/2026/08/18/iran-war-civilian-deaths-families-infant/",
-      "published": "2026-08-18T10:00:00+00:00",
+      "headline": "What The Intercept Is Reading",
+      "excerpt": "Book recommendations old and new, fiction and nonfiction, from staffers. The post What The Intercept Is Reading appeared first on The Intercept.",
+      "link": "https://theintercept.com/2026/08/19/book-reading-recommendations/",
+      "published": "2026-08-19T10:00:00+00:00",
       "featured": false
     },
     {
@@ -209,21 +209,30 @@
       "featured": false
     },
     {
-      "id": "18c1c65ab681",
+      "id": "2493ae91f899",
       "source": "Al Jazeera",
-      "headline": "Who was Hind Rajab and why is Israel investigating her killing?",
-      "excerpt": "After two years of denial, Israel admits firing on the 5-year-old's car. But her family and others don't expect justice.",
-      "link": "https://www.aljazeera.com/news/2026/8/20/who-was-hind-rajab-and-why-is-israel-investigating-her-killing?traffic_source=rss",
-      "published": "2026-08-20T11:48:18+00:00",
+      "headline": "How China and Russia could hobble Trump’s plans to isolate Iran",
+      "excerpt": "Iran's deep trade ties with Beijing and Moscow could prove difficult for the US to disrupt, say analysts.",
+      "link": "https://www.aljazeera.com/news/2026/8/20/how-china-and-russia-could-hobble-trumps-plans-to-isolate-iran?traffic_source=rss",
+      "published": "2026-08-20T14:55:47+00:00",
       "featured": false
     },
     {
-      "id": "83221cffc70c",
+      "id": "511a376eac13",
+      "source": "OCCRP",
+      "headline": "French Authorities Investigate Widespread Government Data Breaches",
+      "excerpt": "",
+      "link": "https://www.occrp.org/en/news/french-authorities-investigate-widespread-government-data-breaches",
+      "published": "2026-08-20T08:15:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "ad1c0560301f",
       "source": "404 Media",
-      "headline": "'I Saw a Shiny Thing': Cop Explains Why He Used License Plate Reader to Stalk Woman",
-      "excerpt": "Body camera footage shows police surveillance abuse is common: \"We’ve told them over and over again: 'You see a hot chick, you don’t look them up in a database.'\"",
-      "link": "https://www.404media.co/i-saw-a-shiny-thing-cop-explains-why-he-used-license-plate-reader-to-stalk-woman/",
-      "published": "2026-08-19T17:14:58+00:00",
+      "headline": "Podcast: Amazon is Destroying Rare Books to Train AI",
+      "excerpt": "Amazon buying and destroying rare books to train AI; a bunch of wild AI use in the courts; and Meta's new patent for its AI smart glasses.",
+      "link": "https://www.404media.co/podcast-amazon-is-destroying-rare-books-to-train-ai/",
+      "published": "2026-08-19T20:06:22+00:00",
       "featured": false
     },
     {
@@ -236,12 +245,12 @@
       "featured": false
     },
     {
-      "id": "105807f6c318",
-      "source": "OCCRP",
-      "headline": "US Charges Eight More Iranians in Global Hacking Case",
-      "excerpt": "",
-      "link": "https://www.occrp.org/en/news/us-charges-eight-more-iranians-in-global-hacking-case",
-      "published": "2026-08-19T12:29:00+00:00",
+      "id": "3fcdb39d79ea",
+      "source": "Dropsite News",
+      "headline": "Israeli strikes on Gaza kill 17 Palestinians; Tuesday’s primary results; Liberia to take 1,200 deportees from the U.S.",
+      "excerpt": "Drop Site Daily: August 19, 2026",
+      "link": "https://www.dropsitenews.com/p/israel-gaza-strikes-tuesday-primary-florida-liberia-us-deportees",
+      "published": "2026-08-19T15:52:18+00:00",
       "featured": false
     },
     {
@@ -254,21 +263,12 @@
       "featured": false
     },
     {
-      "id": "6cc184bb6822",
-      "source": "Dropsite News",
-      "headline": "Gaza Talks, Florida Primaries, and ICE Detention",
-      "excerpt": "Human rights lawyer Diana Buttu joins Sharif Abdel Kouddous, followed by Julian Andreone with FL primary candidates: Elijah Manley & Oliver Larkin, then lawyers for Maryam Tahmasebi in ICE detention.",
-      "link": "https://www.dropsitenews.com/p/gaza-talks-florida-primaries-and",
-      "published": "2026-08-18T19:12:22+00:00",
-      "featured": false
-    },
-    {
-      "id": "85326b87cd86",
+      "id": "38be56bd5a8e",
       "source": "The Intercept",
-      "headline": "ICE Worked With Iranian Regime to Set Up Deportation Flights as Trump Laid Plans for War",
-      "excerpt": "Internal emails indicate immigration agents complied with an Iranian request to hand over specific nationals — and accidentally sent the wrong person to Iran. The post ICE Worked With Iranian Regime to Set Up...",
-      "link": "https://theintercept.com/2026/08/18/iran-trump-deportation-flights-ice/",
-      "published": "2026-08-18T09:00:00+00:00",
+      "headline": "The Short Life of a Newborn During the Iran War",
+      "excerpt": "“What crime had my 20-day-old grandchild committed?” The post The Short Life of a Newborn During the Iran War appeared first on The Intercept.",
+      "link": "https://theintercept.com/2026/08/18/iran-war-civilian-deaths-families-infant/",
+      "published": "2026-08-18T10:00:00+00:00",
       "featured": false
     },
     {
@@ -308,21 +308,30 @@
       "featured": false
     },
     {
-      "id": "df15dad93dbb",
+      "id": "fe385dabfa34",
       "source": "Al Jazeera",
-      "headline": "Israel is betting on Islamophobia to save its standing in the West",
-      "excerpt": "Netanyahu’s government is using anti-Muslim fear to rally a Western right increasingly receptive to its message.",
-      "link": "https://www.aljazeera.com/opinions/2026/8/20/israel-is-betting-on-islamophobia-to-save-its-standing-in-the-west?traffic_source=rss",
-      "published": "2026-08-20T11:44:15+00:00",
+      "headline": "Governments brace for historic El Nino impacts on global weather extremes",
+      "excerpt": "Sri Lanka earmarks $14m to fight severe drought, offering families 75 litres of water every two-three days.",
+      "link": "https://www.aljazeera.com/news/2026/8/20/governments-brace-for-historic-el-nino-impacts-on-global-weather-extremes?traffic_source=rss",
+      "published": "2026-08-20T14:45:55+00:00",
       "featured": false
     },
     {
-      "id": "cf2bead4ed95",
+      "id": "1ad2c20802cf",
       "source": "OCCRP",
-      "headline": "Indonesia Seizes Record 2.6 Tons of Meth in Major Bust, 10 Arrested",
-      "excerpt": "",
-      "link": "https://www.occrp.org/en/news/indonesia-seizes-record-26-tons-of-meth-in-major-bust-10-arrested",
-      "published": "2026-08-19T12:25:00+00:00",
+      "headline": "Interrogation Tapes Reveal Journalist Murder Suspect Pointing to Highest Levels of Maltese Power",
+      "excerpt": "Police interviews played for a Maltese jury show Yorgen Fenech accusing the prime minister’s chief of staff of ordering the 2017 car bombing of Daphne Caruana Galizia, while insisting his payments to the plot's...",
+      "link": "https://www.occrp.org/en/news/interrogation-tapes-reveal-journalist-murder-suspect-pointing-to-highest-levels-of-maltese-power",
+      "published": "2026-08-19T21:23:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "5e9eba34cf6e",
+      "source": "404 Media",
+      "headline": "Lifeforms Can Survive on ‘Significant’ Regions of the Moon, Study Finds",
+      "excerpt": "The Moon was long thought to be inhospitable to life, but scientists have discovered that common Earth microbes could survive for up to a week in shadowed regions of the lunar south pole, a region targeted for future...",
+      "link": "https://www.404media.co/lifeforms-can-survive-on-significant-regions-of-the-moon-study-finds/",
+      "published": "2026-08-19T18:00:10+00:00",
       "featured": false
     },
     {
@@ -335,12 +344,12 @@
       "featured": false
     },
     {
-      "id": "9c4bf1c2b5f5",
+      "id": "6cc184bb6822",
       "source": "Dropsite News",
-      "headline": "Gaza's Teachers Struggle to Fill the Void of a School System Decimated by Israel",
-      "excerpt": "With few resources and little funding, makeshift educational facilities established over the past several months are working to provide some schooling to children in Gaza.",
-      "link": "https://www.dropsitenews.com/p/gaza-community-educational-schools-trauma-remote",
-      "published": "2026-08-18T17:57:00+00:00",
+      "headline": "Gaza Talks, Florida Primaries, and ICE Detention",
+      "excerpt": "Human rights lawyer Diana Buttu joins Sharif Abdel Kouddous, followed by Julian Andreone with FL primary candidates: Elijah Manley & Oliver Larkin, then lawyers for Maryam Tahmasebi in ICE detention.",
+      "link": "https://www.dropsitenews.com/p/gaza-talks-florida-primaries-and",
+      "published": "2026-08-18T19:12:22+00:00",
       "featured": false
     },
     {
@@ -353,21 +362,12 @@
       "featured": false
     },
     {
-      "id": "0e4bf500c5b9",
-      "source": "404 Media",
-      "headline": "Anthropic’s Text Watermarking Proves AI Companies Do Not Care at All About Writing",
-      "excerpt": "AI companies see words as interchangeable and have zero clue how to judge the “quality” of writing.",
-      "link": "https://www.404media.co/anthropics-text-watermarking-proves-ai-companies-do-not-care-at-all-about-writing/",
-      "published": "2026-08-18T15:54:15+00:00",
-      "featured": false
-    },
-    {
-      "id": "904375728bfa",
+      "id": "85326b87cd86",
       "source": "The Intercept",
-      "headline": "A Democratic Socialist Aims to Oust a Top AIPAC Beneficiary in Florida",
-      "excerpt": "Oliver Larkin is trying to unseat Rep. Jared Moskowitz, who is backed by AIPAC donors and an artificial intelligence super PAC. The post A Democratic Socialist Aims to Oust a Top AIPAC Beneficiary in Florida appeared...",
-      "link": "https://theintercept.com/2026/08/17/florida-congress-oliver-larkin-jared-moskowitz-aipac/",
-      "published": "2026-08-17T14:01:56+00:00",
+      "headline": "ICE Worked With Iranian Regime to Set Up Deportation Flights as Trump Laid Plans for War",
+      "excerpt": "Internal emails indicate immigration agents complied with an Iranian request to hand over specific nationals — and accidentally sent the wrong person to Iran. The post ICE Worked With Iranian Regime to Set Up...",
+      "link": "https://theintercept.com/2026/08/18/iran-trump-deportation-flights-ice/",
+      "published": "2026-08-18T09:00:00+00:00",
       "featured": false
     },
     {
@@ -398,12 +398,30 @@
       "featured": false
     },
     {
-      "id": "51d509f1e391",
+      "id": "c6c271d4ed55",
       "source": "Al Jazeera",
-      "headline": "PSG forced to move opening league match as heatwave in France damages pitch",
-      "excerpt": "Paris Saint-Germain moves its opening league game to Rennes after heatwave causes damage to pitch at Parc des Princes.",
-      "link": "https://www.aljazeera.com/sports/2026/8/20/psg-forced-to-move-opening-league-match-as-heatwave-in-france-damages-pitch?traffic_source=rss",
-      "published": "2026-08-20T11:21:50+00:00",
+      "headline": "‘Tremendous costs’: Can Trump stop other countries from trading with Iran?",
+      "excerpt": "Iran's foreign minister has dismissed Trump’s latest threats, calling them a “diversion\" from America’s own crisis.\"",
+      "link": "https://www.aljazeera.com/news/2026/8/20/tremendous-costs-can-trump-stop-other-countries-from-trading-with-iran?traffic_source=rss",
+      "published": "2026-08-20T14:40:51+00:00",
+      "featured": false
+    },
+    {
+      "id": "83221cffc70c",
+      "source": "404 Media",
+      "headline": "'I Saw a Shiny Thing': Cop Explains Why He Used License Plate Reader to Stalk Woman",
+      "excerpt": "Body camera footage shows police surveillance abuse is common: \"We’ve told them over and over again: 'You see a hot chick, you don’t look them up in a database.'\"",
+      "link": "https://www.404media.co/i-saw-a-shiny-thing-cop-explains-why-he-used-license-plate-reader-to-stalk-woman/",
+      "published": "2026-08-19T17:14:58+00:00",
+      "featured": false
+    },
+    {
+      "id": "105807f6c318",
+      "source": "OCCRP",
+      "headline": "US Charges Eight More Iranians in Global Hacking Case",
+      "excerpt": "",
+      "link": "https://www.occrp.org/en/news/us-charges-eight-more-iranians-in-global-hacking-case",
+      "published": "2026-08-19T12:29:00+00:00",
       "featured": false
     },
     {
@@ -416,30 +434,12 @@
       "featured": false
     },
     {
-      "id": "145519d76730",
-      "source": "OCCRP",
-      "headline": "Iran Moves to Outlaw All Contact With \"Hostile\" Foreign Media",
-      "excerpt": "International watchdogs warn that a proposed law imposing prison sentences for communications with “hostile” foreign media aims to keep evidence of state repression hidden.",
-      "link": "https://www.occrp.org/en/news/iran-moves-to-outlaw-all-contact-with-hostile-foreign-media",
-      "published": "2026-08-18T15:29:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "498b3f1fc5d9",
+      "id": "9c4bf1c2b5f5",
       "source": "Dropsite News",
-      "headline": "Primaries in Florida, Alaska, California; Israel strikes Syrian air base; Congo’s Ebola outbreak",
-      "excerpt": "Drop Site Daily: August 18, 2026",
-      "link": "https://www.dropsitenews.com/p/primaries-florida-alaska-california-israel-syria-air-base-congo-ebola-outbreak",
-      "published": "2026-08-18T15:25:10+00:00",
-      "featured": false
-    },
-    {
-      "id": "3988c8486eb0",
-      "source": "404 Media",
-      "headline": "X's Algorithm Feeds Off Ragebait and Impacts Democrats More, Study Finds",
-      "excerpt": "X is driving engagement by making users fight in the replies.",
-      "link": "https://www.404media.co/xs-algorithm-feeds-off-ragebait-and-impacts-democrats-more-study-finds/",
-      "published": "2026-08-18T13:27:22+00:00",
+      "headline": "Gaza's Teachers Struggle to Fill the Void of a School System Decimated by Israel",
+      "excerpt": "With few resources and little funding, makeshift educational facilities established over the past several months are working to provide some schooling to children in Gaza.",
+      "link": "https://www.dropsitenews.com/p/gaza-community-educational-schools-trauma-remote",
+      "published": "2026-08-18T17:57:00+00:00",
       "featured": false
     },
     {
@@ -452,12 +452,12 @@
       "featured": false
     },
     {
-      "id": "57d4f7fbeace",
+      "id": "904375728bfa",
       "source": "The Intercept",
-      "headline": "ICE Shot a Journalist and Threw Him in Detention. He’s Approaching 300 Days Behind Bars With a Festering Wound.",
-      "excerpt": "With the case of Carlitos Ricardo Parias, the U.S. has broken its own record for holding a journalist in custody. The post ICE Shot a Journalist and Threw Him in Detention. He’s Approaching 300 Days Behind Bars With a...",
-      "link": "https://theintercept.com/2026/08/16/ricardo-parias-ice-detention-journalist-los-angeles/",
-      "published": "2026-08-16T10:00:00+00:00",
+      "headline": "A Democratic Socialist Aims to Oust a Top AIPAC Beneficiary in Florida",
+      "excerpt": "Oliver Larkin is trying to unseat Rep. Jared Moskowitz, who is backed by AIPAC donors and an artificial intelligence super PAC. The post A Democratic Socialist Aims to Oust a Top AIPAC Beneficiary in Florida appeared...",
+      "link": "https://theintercept.com/2026/08/17/florida-congress-oliver-larkin-jared-moskowitz-aipac/",
+      "published": "2026-08-17T14:01:56+00:00",
       "featured": false
     },
     {
@@ -488,30 +488,39 @@
       "featured": false
     },
     {
-      "id": "925f4a96dc04",
+      "id": "eb619bb9b72d",
       "source": "Al Jazeera",
-      "headline": "How Myanmar’s war drives the Rohingya crisis",
-      "excerpt": "Al Jazeera exposes atrocities committed against the Rohingya ethnic minority group during Myanmar’s civil war.",
-      "link": "https://www.aljazeera.com/video/investigations/2026/8/20/how-myanmars-war-drives-the-rohingya-crisis?traffic_source=rss",
-      "published": "2026-08-20T11:00:00+00:00",
+      "headline": "USS Washington arrives in Middle East after aircraft carrier outcry",
+      "excerpt": "Vessel expected to replace USS Lincoln after reports of dire conditions on board raised questions over US war planning.",
+      "link": "https://www.aljazeera.com/news/2026/8/20/uss-washington-arrives-in-middle-east-after-aircraft-carrier-outcry?traffic_source=rss",
+      "published": "2026-08-20T14:36:35+00:00",
       "featured": false
     },
     {
-      "id": "03e23e0ca46e",
+      "id": "cf2bead4ed95",
       "source": "OCCRP",
-      "headline": "A Key Food Source Collapsed Off West Africa’s Coast as Chinese Ships Ground the Species Into Fishmeal",
-      "excerpt": "A Guinea-Bissau fisheries assessment obtained by OCCRP shows that the sardinella — an important food source — has been decimated in the years since two Chinese fishmeal-production vessels set up shop offshore. After the...",
-      "link": "https://www.occrp.org/en/feature/a-key-food-source-collapsed-off-west-africas-coast-as-chinese-ships-ground-the-species-into-fishmeal",
-      "published": "2026-08-18T15:12:00+00:00",
+      "headline": "Indonesia Seizes Record 2.6 Tons of Meth in Major Bust, 10 Arrested",
+      "excerpt": "",
+      "link": "https://www.occrp.org/en/news/indonesia-seizes-record-26-tons-of-meth-in-major-bust-10-arrested",
+      "published": "2026-08-19T12:25:00+00:00",
       "featured": false
     },
     {
-      "id": "d06c386273fd",
+      "id": "0e4bf500c5b9",
       "source": "404 Media",
-      "headline": "The National Park Service Is Using Flock. Rangers Are Pissed",
-      "excerpt": "“I fear for the day when a visitor's National Park experience is interrupted by being pulled over and held at gunpoint because a license plate reader misread their plate.”",
-      "link": "https://www.404media.co/the-national-park-service-is-using-flock-rangers-are-pissed/",
-      "published": "2026-08-18T13:21:29+00:00",
+      "headline": "Anthropic’s Text Watermarking Proves AI Companies Do Not Care at All About Writing",
+      "excerpt": "AI companies see words as interchangeable and have zero clue how to judge the “quality” of writing.",
+      "link": "https://www.404media.co/anthropics-text-watermarking-proves-ai-companies-do-not-care-at-all-about-writing/",
+      "published": "2026-08-18T15:54:15+00:00",
+      "featured": false
+    },
+    {
+      "id": "498b3f1fc5d9",
+      "source": "Dropsite News",
+      "headline": "Primaries in Florida, Alaska, California; Israel strikes Syrian air base; Congo’s Ebola outbreak",
+      "excerpt": "Drop Site Daily: August 18, 2026",
+      "link": "https://www.dropsitenews.com/p/primaries-florida-alaska-california-israel-syria-air-base-congo-ebola-outbreak",
+      "published": "2026-08-18T15:25:10+00:00",
       "featured": false
     },
     {
@@ -521,15 +530,6 @@
       "excerpt": "The post Measles Used to Be in Our Rearview Mirror. Now Cases Are Reaching Record Highs. appeared first on ProPublica.",
       "link": "https://www.propublica.org/article/measles-cases-vaccines",
       "published": "2026-08-18T09:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "84de8650ba4f",
-      "source": "Dropsite News",
-      "headline": "Judge Throws Out “Political Prosecution” of Pro-Palestinian University of Michigan Student",
-      "excerpt": "The student, Hiab Teshome, is also a graduate student union leader in tense contract negotiations with the school.",
-      "link": "https://www.dropsitenews.com/p/university-michigan-eli-savit-student-pro-palestine-felony-charges-thrown-out",
-      "published": "2026-08-17T23:53:11+00:00",
       "featured": false
     },
     {
