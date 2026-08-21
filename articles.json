@@ -1,13 +1,31 @@
 {
-  "generated_at": "2026-08-21T07:08:12.516167+00:00",
+  "generated_at": "2026-08-21T09:52:47.928396+00:00",
   "articles": [
     {
-      "id": "cee2d1755a6c",
+      "id": "00efe998446b",
       "source": "Al Jazeera",
-      "headline": "Dozens of migrants land on Spanish coast surprising beachgoers",
-      "excerpt": "Footage circulating on social media shows dozens of migrants arriving by boat on Spain’s southeastern coast.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/dozens-of-migrants-land-on-spanish-coast-surprising-beachgoers?traffic_source=rss",
-      "published": "2026-08-21T04:47:56+00:00",
+      "headline": "Torrential rain floods New York City’s streets and subway",
+      "excerpt": "Torrential rainfall had led to flash flooding in parts of New York City.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/torrential-rain-floods-new-york-citys-streets-and-subway?traffic_source=rss",
+      "published": "2026-08-21T09:40:04+00:00",
+      "featured": true
+    },
+    {
+      "id": "ec5bb9926b70",
+      "source": "ProPublica",
+      "headline": "Oregon Is Spending More Than Ever on Low-Income Housing. A State Law Keeps the Details Secret.",
+      "excerpt": "The post Oregon Is Spending More Than Ever on Low-Income Housing. A State Law Keeps the Details Secret. appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/oregon-affordable-housing-cost-secrecy",
+      "published": "2026-08-21T09:00:00+00:00",
+      "featured": true
+    },
+    {
+      "id": "1c295d17a2b5",
+      "source": "The Intercept",
+      "headline": "This Mysterious “Astroturf” Group Popped Up to Defend the Paramount Merger",
+      "excerpt": "In text messages, the newly formed group boosted reported threats by CEO David Ellison to move Paramount out of California. The post This Mysterious “Astroturf” Group Popped Up to Defend the Paramount Merger appeared...",
+      "link": "https://theintercept.com/2026/08/21/paramount-merger-warner-discovery-david-ellison-antitrust/",
+      "published": "2026-08-21T08:50:00+00:00",
       "featured": true
     },
     {
@@ -17,7 +35,7 @@
       "excerpt": "GEO Group made the donation weeks after securing two five-year immigration detention-center contracts expected to generate more than $160 million annually.",
       "link": "https://www.levernews.com/private-prison-giant-gave-trump-aligned-super-pac-1-4-million-after-landing-mega-ice-contracts/",
       "published": "2026-08-21T01:27:16+00:00",
-      "featured": true
+      "featured": false
     },
     {
       "id": "1c3768a6972b",
@@ -26,7 +44,7 @@
       "excerpt": "Sign up here to receive Bellingcat’s biggest investigations by email as soon as they are published. Satellite images obtained and analysed by Bellingcat show over five miles of new road constructed in Big Bend National...",
       "link": "https://www.bellingcat.com/news/us-canada/2026/08/20/satellite-imagery-documents-new-border-patrol-road-construction-in-big-bend-national-park/",
       "published": "2026-08-20T20:50:42+00:00",
-      "featured": true
+      "featured": false
     },
     {
       "id": "84a8fa63601d",
@@ -35,15 +53,6 @@
       "excerpt": "Israeli settlers and soldiers are increasingly targeting Palestinians in Area B of the occupied West Bank to force them from their homes.",
       "link": "https://www.dropsitenews.com/p/qusra-siege-israeli-settlers-soldiers-palestinians-west-bank",
       "published": "2026-08-20T19:48:07+00:00",
-      "featured": false
-    },
-    {
-      "id": "61442decfe3e",
-      "source": "The Intercept",
-      "headline": "The Mossad Suffers a Crushing Defeat Entirely of Its Own Making",
-      "excerpt": "High-profile firings show that none of the Israeli spy agency's promises about the war with Iran have come to pass. The post The Mossad Suffers a Crushing Defeat Entirely of Its Own Making appeared first on The...",
-      "link": "https://theintercept.com/2026/08/20/israel-iran-war-mossad-firings/",
-      "published": "2026-08-20T19:06:16+00:00",
       "featured": false
     },
     {
@@ -83,15 +92,6 @@
       "featured": false
     },
     {
-      "id": "0840fc3d4ca4",
-      "source": "ProPublica",
-      "headline": "This Coach Is Banned From Working With Kids. Why Is He Still Coaching?",
-      "excerpt": "The post This Coach Is Banned From Working With Kids. Why Is He Still Coaching? appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/ryan-richardson-pharr-texas-usa-volleyball-safesport-abuse-teens",
-      "published": "2026-08-20T09:00:00+00:00",
-      "featured": false
-    },
-    {
       "id": "c05386da40a0",
       "source": "More Perfect Union",
       "headline": "We Uncovered Where Your Insurance Payments Are Really Going",
@@ -110,12 +110,12 @@
       "featured": false
     },
     {
-      "id": "000c16612f02",
+      "id": "3c0b360b9b22",
       "source": "Al Jazeera",
-      "headline": "Hong Kong Tiananmen activists found guilty of national security charges",
-      "excerpt": "Activist group says the 'twisted' Hong Kong judicial system had long ago decided that the pair were guilty.",
-      "link": "https://www.aljazeera.com/news/2026/8/21/hong-kong-tiananmen-activists-found-guilty-of-national-security-charges?traffic_source=rss",
-      "published": "2026-08-21T03:50:15+00:00",
+      "headline": "Swiatek into Cincinnati semis after Rybakina injury",
+      "excerpt": "Elena Rybakina's Cincinnati withdrawal raises concerns over the fitness of the world number two ahead of US Open.",
+      "link": "https://www.aljazeera.com/sports/2026/8/21/swiatek-into-cincinnati-semis-after-rybakina-injury?traffic_source=rss",
+      "published": "2026-08-21T09:11:55+00:00",
       "featured": false
     },
     {
@@ -125,6 +125,15 @@
       "excerpt": "The GOP Michigan Senate candidate now supports a one-year moratorium on data center construction in the Wolverine State.",
       "link": "https://www.levernews.com/days-after-the-lever-revealed-his-ai-investments-mike-rogers-flipped-on-data-centers/",
       "published": "2026-08-20T20:44:29+00:00",
+      "featured": false
+    },
+    {
+      "id": "61442decfe3e",
+      "source": "The Intercept",
+      "headline": "The Mossad Suffers a Crushing Defeat Entirely of Its Own Making",
+      "excerpt": "High-profile firings show that none of the Israeli spy agency's promises about the war with Iran have come to pass. The post The Mossad Suffers a Crushing Defeat Entirely of Its Own Making appeared first on The...",
+      "link": "https://theintercept.com/2026/08/20/israel-iran-war-mossad-firings/",
+      "published": "2026-08-20T19:06:16+00:00",
       "featured": false
     },
     {
@@ -146,15 +155,6 @@
       "featured": false
     },
     {
-      "id": "00bb6424dca0",
-      "source": "The Intercept",
-      "headline": "Immigrant Wants to Pay $368,000 in Fines, but Broken Payment System Won’t Let Him",
-      "excerpt": "The fines, for not “willfully” leaving the country, can accrue interest and harm people in immigration proceedings. The post Immigrant Wants to Pay $368,000 in Fines, but Broken Payment System Won’t Let Him appeared...",
-      "link": "https://theintercept.com/2026/08/20/trump-immigration-civil-fines-deport/",
-      "published": "2026-08-20T13:47:09+00:00",
-      "featured": false
-    },
-    {
       "id": "15542bd92742",
       "source": "404 Media",
       "headline": "Subtlefakes: Slightly Altered Nonconsensual AI Images Are Taking Over X",
@@ -164,12 +164,12 @@
       "featured": false
     },
     {
-      "id": "98fdd90484df",
+      "id": "0840fc3d4ca4",
       "source": "ProPublica",
-      "headline": "What Parents Need to Know About Sexual Abuse in Youth Sports",
-      "excerpt": "The post What Parents Need to Know About Sexual Abuse in Youth Sports appeared first on ProPublica.",
-      "link": "https://www.propublica.org/getinvolved/what-parents-should-know-sexual-abuse-youth-sports-aau-safesport",
-      "published": "2026-08-20T08:55:00+00:00",
+      "headline": "This Coach Is Banned From Working With Kids. Why Is He Still Coaching?",
+      "excerpt": "The post This Coach Is Banned From Working With Kids. Why Is He Still Coaching? appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/ryan-richardson-pharr-texas-usa-volleyball-safesport-abuse-teens",
+      "published": "2026-08-20T09:00:00+00:00",
       "featured": false
     },
     {
@@ -209,12 +209,12 @@
       "featured": false
     },
     {
-      "id": "ea57cd1d59ba",
+      "id": "2bdc55834b36",
       "source": "Al Jazeera",
-      "headline": "Pakistan’s Imran Khan back to prison after evaluation at hospital",
-      "excerpt": "Pakistan’s former Prime Minister Imran Khan was sent back to prison after being transferred for a medical evaluation.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/pakistans-imran-khan-moved-to-hospital-after-supreme-court-order?traffic_source=rss",
-      "published": "2026-08-21T03:08:09+00:00",
+      "headline": "Australia charges man for passing Ukrainian military intel to Russia",
+      "excerpt": "Police allege Australian-Russian citizen joined Ukrainian military seeking to send information to Russian intelligence.",
+      "link": "https://www.aljazeera.com/news/2026/8/21/australia-charges-man-for-passing-ukrainian-military-intel-to-russia?traffic_source=rss",
+      "published": "2026-08-21T08:42:20+00:00",
       "featured": false
     },
     {
@@ -227,12 +227,30 @@
       "featured": false
     },
     {
+      "id": "00bb6424dca0",
+      "source": "The Intercept",
+      "headline": "Immigrant Wants to Pay $368,000 in Fines, but Broken Payment System Won’t Let Him",
+      "excerpt": "The fines, for not “willfully” leaving the country, can accrue interest and harm people in immigration proceedings. The post Immigrant Wants to Pay $368,000 in Fines, but Broken Payment System Won’t Let Him appeared...",
+      "link": "https://theintercept.com/2026/08/20/trump-immigration-civil-fines-deport/",
+      "published": "2026-08-20T13:47:09+00:00",
+      "featured": false
+    },
+    {
       "id": "8aca504099ad",
       "source": "404 Media",
       "headline": "Township Fights Nuclear Weapons Data Center By Passing a Moratorium on Electrical Infrastructure",
       "excerpt": "The six month moratorium on major electrical infrastructure projects is the latest tactic meant to delay the massive data center meant to support America’s nuclear weapons.",
       "link": "https://www.404media.co/township-fights-nuclear-weapons-data-center-by-passing-a-moratorium-on-electrical-infrastructure/",
       "published": "2026-08-20T13:12:03+00:00",
+      "featured": false
+    },
+    {
+      "id": "98fdd90484df",
+      "source": "ProPublica",
+      "headline": "What Parents Need to Know About Sexual Abuse in Youth Sports",
+      "excerpt": "The post What Parents Need to Know About Sexual Abuse in Youth Sports appeared first on ProPublica.",
+      "link": "https://www.propublica.org/getinvolved/what-parents-should-know-sexual-abuse-youth-sports-aau-safesport",
+      "published": "2026-08-20T08:55:00+00:00",
       "featured": false
     },
     {
@@ -251,24 +269,6 @@
       "excerpt": "A drone registered to U.S. defense contractor Shield AI flew within 500 meters of Ecuadorian fishing boat hours after attack, according to flight data.",
       "link": "https://www.dropsitenews.com/p/drone-boat-strike-cia-ecuador-shield-ai",
       "published": "2026-08-19T17:10:54+00:00",
-      "featured": false
-    },
-    {
-      "id": "2b45a35f7174",
-      "source": "ProPublica",
-      "headline": "Senators Criticize Trump Administration’s Demands to Access Health Data as a Condition for Lifesaving Aid",
-      "excerpt": "The post Senators Criticize Trump Administration’s Demands to Access Health Data as a Condition for Lifesaving Aid appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/senators-letter-health-data-africa-humanitarian-aid",
-      "published": "2026-08-19T10:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "82fca316717b",
-      "source": "The Intercept",
-      "headline": "What The Intercept Is Reading",
-      "excerpt": "Book recommendations old and new, fiction and nonfiction, from staffers. The post What The Intercept Is Reading appeared first on The Intercept.",
-      "link": "https://theintercept.com/2026/08/19/book-reading-recommendations/",
-      "published": "2026-08-19T10:00:00+00:00",
       "featured": false
     },
     {
@@ -308,12 +308,12 @@
       "featured": false
     },
     {
-      "id": "ae3e1819d9a1",
+      "id": "015246c94822",
       "source": "Al Jazeera",
-      "headline": "After GERD, can Egypt shape Ethiopia’s next Nile dams?",
-      "excerpt": "Three projects mark a new test for Egypt after it failed to prevent construction of the Grand Ethiopian Renaissance Dam.",
-      "link": "https://www.aljazeera.com/news/2026/8/21/after-gerd-can-egypt-shape-ethiopias-next-nile-dams?traffic_source=rss",
-      "published": "2026-08-21T02:11:33+00:00",
+      "headline": "Sudan’s displacement crisis deepens as violence escalates",
+      "excerpt": "Sudan’s displacement crisis deepens as violence escalates",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/sudans-displacement-crisis-deepens-as-violence-escalates?traffic_source=rss",
+      "published": "2026-08-21T08:41:13+00:00",
       "featured": false
     },
     {
@@ -353,21 +353,21 @@
       "featured": false
     },
     {
-      "id": "7767b1f0f971",
+      "id": "2b45a35f7174",
       "source": "ProPublica",
-      "headline": "The $1 Trillion Black Box",
-      "excerpt": "The post The $1 Trillion Black Box appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/military-defense-spending-budget-series",
-      "published": "2026-08-19T09:00:00+00:00",
+      "headline": "Senators Criticize Trump Administration’s Demands to Access Health Data as a Condition for Lifesaving Aid",
+      "excerpt": "The post Senators Criticize Trump Administration’s Demands to Access Health Data as a Condition for Lifesaving Aid appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/senators-letter-health-data-africa-humanitarian-aid",
+      "published": "2026-08-19T10:00:00+00:00",
       "featured": false
     },
     {
-      "id": "38be56bd5a8e",
+      "id": "82fca316717b",
       "source": "The Intercept",
-      "headline": "The Short Life of a Newborn During the Iran War",
-      "excerpt": "“What crime had my 20-day-old grandchild committed?” The post The Short Life of a Newborn During the Iran War appeared first on The Intercept.",
-      "link": "https://theintercept.com/2026/08/18/iran-war-civilian-deaths-families-infant/",
-      "published": "2026-08-18T10:00:00+00:00",
+      "headline": "What The Intercept Is Reading",
+      "excerpt": "Book recommendations old and new, fiction and nonfiction, from staffers. The post What The Intercept Is Reading appeared first on The Intercept.",
+      "link": "https://theintercept.com/2026/08/19/book-reading-recommendations/",
+      "published": "2026-08-19T10:00:00+00:00",
       "featured": false
     },
     {
@@ -407,12 +407,12 @@
       "featured": false
     },
     {
-      "id": "55015095ce8c",
+      "id": "fe975c5ef0d2",
       "source": "Al Jazeera",
-      "headline": "Brazil launches AI supercomputer push while balancing US and Chinese tech",
-      "excerpt": "The government has announced investments of about 2.3 billion reais ($444.2m) to bolster its AI ecosystem.",
-      "link": "https://www.aljazeera.com/economy/2026/8/21/brazil-launches-ai-supercomputer-push-while-balancing-us-and-chinese-tech?traffic_source=rss",
-      "published": "2026-08-21T01:38:37+00:00",
+      "headline": "Bangladesh expect ‘harder’ Australia challenge in second Test, says coach",
+      "excerpt": "After a first Test win in Australia in the series opener, Bangladesh expect a backlash in second match in Mackay.",
+      "link": "https://www.aljazeera.com/sports/2026/8/21/australia-bangladesh-cricket-second-test-mackay-simmons-cummins-renshaw?traffic_source=rss",
+      "published": "2026-08-21T08:34:06+00:00",
       "featured": false
     },
     {
@@ -443,11 +443,11 @@
       "featured": false
     },
     {
-      "id": "b10f100b10b3",
+      "id": "7767b1f0f971",
       "source": "ProPublica",
-      "headline": "Do You Know About U.S. Military Spending? Help ProPublica Understand Where the Money Goes.",
-      "excerpt": "The post Do You Know About U.S. Military Spending? Help ProPublica Understand Where the Money Goes. appeared first on ProPublica.",
-      "link": "https://www.propublica.org/getinvolved/share-military-defense-spending-tips",
+      "headline": "The $1 Trillion Black Box",
+      "excerpt": "The post The $1 Trillion Black Box appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/military-defense-spending-budget-series",
       "published": "2026-08-19T09:00:00+00:00",
       "featured": false
     },
@@ -461,12 +461,12 @@
       "featured": false
     },
     {
-      "id": "85326b87cd86",
+      "id": "38be56bd5a8e",
       "source": "The Intercept",
-      "headline": "ICE Worked With Iranian Regime to Set Up Deportation Flights as Trump Laid Plans for War",
-      "excerpt": "Internal emails indicate immigration agents complied with an Iranian request to hand over specific nationals — and accidentally sent the wrong person to Iran. The post ICE Worked With Iranian Regime to Set Up...",
-      "link": "https://theintercept.com/2026/08/18/iran-trump-deportation-flights-ice/",
-      "published": "2026-08-18T09:00:00+00:00",
+      "headline": "The Short Life of a Newborn During the Iran War",
+      "excerpt": "“What crime had my 20-day-old grandchild committed?” The post The Short Life of a Newborn During the Iran War appeared first on The Intercept.",
+      "link": "https://theintercept.com/2026/08/18/iran-war-civilian-deaths-families-infant/",
+      "published": "2026-08-18T10:00:00+00:00",
       "featured": false
     },
     {
@@ -497,12 +497,12 @@
       "featured": false
     },
     {
-      "id": "aa5069f0a916",
+      "id": "bb126a4ae77e",
       "source": "Al Jazeera",
-      "headline": "Panama Canal to limit shipping ahead of extreme weather during El Nino",
-      "excerpt": "The El Nino weather phenomenon is expected to increase the likelihood of drought and excess heat across the region.",
-      "link": "https://www.aljazeera.com/news/2026/8/21/panama-canal-to-limit-shipping-ahead-of-extreme-weather-during-el-nino?traffic_source=rss",
-      "published": "2026-08-21T01:12:02+00:00",
+      "headline": "Israeli settlers set fire to Palestinian home while family asleep",
+      "excerpt": "Israeli settlers set fire to a Palestinian home while a mother and her children were sleeping inside.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/israeli-settlers-set-fire-to-palestinian-home-while-family-asleep?traffic_source=rss",
+      "published": "2026-08-21T07:58:41+00:00",
       "featured": false
     },
     {
@@ -533,12 +533,12 @@
       "featured": false
     },
     {
-      "id": "9c4bf1c2b5f5",
-      "source": "Dropsite News",
-      "headline": "Gaza's Teachers Struggle to Fill the Void of a School System Decimated by Israel",
-      "excerpt": "With few resources and little funding, makeshift educational facilities established over the past several months are working to provide some schooling to children in Gaza.",
-      "link": "https://www.dropsitenews.com/p/gaza-community-educational-schools-trauma-remote",
-      "published": "2026-08-18T17:57:00+00:00",
+      "id": "b10f100b10b3",
+      "source": "ProPublica",
+      "headline": "Do You Know About U.S. Military Spending? Help ProPublica Understand Where the Money Goes.",
+      "excerpt": "The post Do You Know About U.S. Military Spending? Help ProPublica Understand Where the Money Goes. appeared first on ProPublica.",
+      "link": "https://www.propublica.org/getinvolved/share-military-defense-spending-tips",
+      "published": "2026-08-19T09:00:00+00:00",
       "featured": false
     }
   ]
