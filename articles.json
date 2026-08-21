@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-08-21T15:49:10.584989+00:00",
+  "generated_at": "2026-08-21T18:56:23.747713+00:00",
   "articles": [
+    {
+      "id": "555fd1c580bc",
+      "source": "Al Jazeera",
+      "headline": "Former Pakistan PM Imran Khan taken back to prison after hospital check-up",
+      "excerpt": "Relatives of former Pakistani Prime Minister Imran Khan say he’s being tortured in prison.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/former-pakistan-pm-imran-khan-taken-back-to-prison-after-hospital-check-up?traffic_source=rss",
+      "published": "2026-08-21T18:25:40+00:00",
+      "featured": true
+    },
+    {
+      "id": "609dc9013dec",
+      "source": "The Lever",
+      "headline": "Are Democrats Having A Tea Party Moment?",
+      "excerpt": "Test your knowledge of primary elections, A.I. training, and other issues that really matter.",
+      "link": "https://www.levernews.com/are-democrats-having-a-tea-party-moment/",
+      "published": "2026-08-21T16:29:54+00:00",
+      "featured": true
+    },
     {
       "id": "57ea522ed6e7",
       "source": "Dropsite News",
@@ -11,22 +29,13 @@
       "featured": true
     },
     {
-      "id": "3d30855bc7cd",
-      "source": "Al Jazeera",
-      "headline": "Russian expert warns of impending social crisis as Ukraine death toll rises",
-      "excerpt": "Putin's forces continue to bring horror to Ukrainian civilians as Kyiv destroys key sections of Russian infrastructure.",
-      "link": "https://www.aljazeera.com/news/2026/8/21/russian-expert-warns-of-impending-social-crisis-as-ukraine-death-toll-rises?traffic_source=rss",
-      "published": "2026-08-21T15:13:31+00:00",
-      "featured": true
-    },
-    {
       "id": "e273b1a86297",
       "source": "404 Media",
       "headline": "Behind the Blog: Early Birthday Reflections",
       "excerpt": "This week, we discuss our party and panel coming up, and do some light reminiscing.",
       "link": "https://www.404media.co/behind-the-blog-early-birthday-reflections/",
       "published": "2026-08-21T14:54:35+00:00",
-      "featured": true
+      "featured": false
     },
     {
       "id": "3e61b4c991bc",
@@ -53,15 +62,6 @@
       "excerpt": "A new documentary follows three physicians facing the odds: limited medical supplies, Israeli bombing, and upon returning home, media bias and indifference. The post What American Doctors Saw in Gaza appeared first on...",
       "link": "https://theintercept.com/2026/08/21/gaza-hospitals-american-doctor-documentary/",
       "published": "2026-08-21T10:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "b142e92c1e4a",
-      "source": "The Lever",
-      "headline": "Private Prison Giant Gave Trump-aligned Super PAC $1.4 Million After Landing Mega ICE Contracts",
-      "excerpt": "GEO Group made the donation weeks after securing two five-year immigration detention-center contracts expected to generate more than $160 million annually.",
-      "link": "https://www.levernews.com/private-prison-giant-gave-trump-aligned-super-pac-1-4-million-after-landing-mega-ice-contracts/",
-      "published": "2026-08-21T01:27:16+00:00",
       "featured": false
     },
     {
@@ -110,12 +110,12 @@
       "featured": false
     },
     {
-      "id": "3983240d0399",
+      "id": "c316f8ca9a97",
       "source": "Al Jazeera",
-      "headline": "Iraq’s solar villages show how to build an energy transition that lasts",
-      "excerpt": "Decentralised power can give communities the means to sustain themselves rather than wait for change to come from above.",
-      "link": "https://www.aljazeera.com/opinions/2026/8/21/iraqs-solar-villages-show-how-to-build-an-energy-transition-that-lasts?traffic_source=rss",
-      "published": "2026-08-21T14:50:08+00:00",
+      "headline": "Russian drone attack on busy shopping centre kills 14 in Ukraine",
+      "excerpt": "Ukraine's Volodymyr Zelenskyy slams 'cynical and despicable' attack on his hometown Kryvyi Rih that injured over 120.",
+      "link": "https://www.aljazeera.com/news/2026/8/21/russian-drone-attack-on-busy-shopping-centre-kills-14-in-ukraine?traffic_source=rss",
+      "published": "2026-08-21T18:17:40+00:00",
       "featured": false
     },
     {
@@ -137,12 +137,12 @@
       "featured": false
     },
     {
-      "id": "1fbde9191ef4",
+      "id": "b142e92c1e4a",
       "source": "The Lever",
-      "headline": "Days After The Lever Revealed His AI Investments, Mike Rogers Flipped On Data Centers",
-      "excerpt": "The GOP Michigan Senate candidate now supports a one-year moratorium on data center construction in the Wolverine State.",
-      "link": "https://www.levernews.com/days-after-the-lever-revealed-his-ai-investments-mike-rogers-flipped-on-data-centers/",
-      "published": "2026-08-20T20:44:29+00:00",
+      "headline": "Private Prison Giant Gave Trump-aligned Super PAC $1.4 Million After Landing Mega ICE Contracts",
+      "excerpt": "GEO Group made the donation weeks after securing two five-year immigration detention-center contracts expected to generate more than $160 million annually.",
+      "link": "https://www.levernews.com/private-prison-giant-gave-trump-aligned-super-pac-1-4-million-after-landing-mega-ice-contracts/",
+      "published": "2026-08-21T01:27:16+00:00",
       "featured": false
     },
     {
@@ -209,12 +209,21 @@
       "featured": false
     },
     {
-      "id": "76aadf18a8d6",
+      "id": "7b777b364a9d",
       "source": "Al Jazeera",
-      "headline": "Fury says fight with Joshua looks unlikely with venue yet to be agreed",
-      "excerpt": "The all-British, much anticipated boxing showdown between Fury and Joshua was scheduled for November.",
-      "link": "https://www.aljazeera.com/sports/2026/8/21/tyson-fury-anthony-joshua-fight-boxing-venue-date-unlikely-hearn?traffic_source=rss",
-      "published": "2026-08-21T14:38:45+00:00",
+      "headline": "How is drought hitting UK farming?",
+      "excerpt": "After months of heatwaves and unusually dry weather, officials say as much as two-thirds of England is in drought.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/how-is-drought-hitting-uk-farming?traffic_source=rss",
+      "published": "2026-08-21T17:52:08+00:00",
+      "featured": false
+    },
+    {
+      "id": "1fbde9191ef4",
+      "source": "The Lever",
+      "headline": "Days After The Lever Revealed His AI Investments, Mike Rogers Flipped On Data Centers",
+      "excerpt": "The GOP Michigan Senate candidate now supports a one-year moratorium on data center construction in the Wolverine State.",
+      "link": "https://www.levernews.com/days-after-the-lever-revealed-his-ai-investments-mike-rogers-flipped-on-data-centers/",
+      "published": "2026-08-20T20:44:29+00:00",
       "featured": false
     },
     {
@@ -224,15 +233,6 @@
       "excerpt": "High-profile firings show that none of the Israeli spy agency's promises about the war with Iran have come to pass. The post The Mossad Suffers a Crushing Defeat Entirely of Its Own Making appeared first on The...",
       "link": "https://theintercept.com/2026/08/20/israel-iran-war-mossad-firings/",
       "published": "2026-08-20T19:06:16+00:00",
-      "featured": false
-    },
-    {
-      "id": "bc9cd32e4b15",
-      "source": "The Lever",
-      "headline": "Deploying To SCOTUS: Big Oil’s Dark Money Army",
-      "excerpt": "Right-wing dark money groups and Big Oil are pressuring the Supreme Court to shield the fossil fuel industry from paying for climate change-related damages.",
-      "link": "https://www.levernews.com/deploying-to-scotus-big-oils-dark-money-army/",
-      "published": "2026-08-20T18:50:27+00:00",
       "featured": false
     },
     {
@@ -308,21 +308,21 @@
       "featured": false
     },
     {
-      "id": "0dec1110263c",
+      "id": "4ffe8ebc2d99",
       "source": "Al Jazeera",
-      "headline": "Manchester City’s Maresca admits he needs time as Bournemouth visit in EPL",
-      "excerpt": "Enzo Maresca replaced Pep Guardiola between seasons but says Man City may need patience before more trophies arrive.",
-      "link": "https://www.aljazeera.com/sports/2026/8/21/manchester-citys-maresca-admits-he-needs-time-after-big-changes?traffic_source=rss",
-      "published": "2026-08-21T14:36:24+00:00",
+      "headline": "Arsenal sign Konsa from Villa as Premier League holders bolster defence",
+      "excerpt": "England defender Ezri Konsa joins Arsenal from Aston Villa in a deal understood to be worth £51m ($69m).",
+      "link": "https://www.aljazeera.com/sports/2026/8/21/arsenal-sign-konsa-from-villa-as-premier-league-holders-bolster-defence?traffic_source=rss",
+      "published": "2026-08-21T17:38:06+00:00",
       "featured": false
     },
     {
-      "id": "97f8028cf125",
+      "id": "bc9cd32e4b15",
       "source": "The Lever",
-      "headline": "Money Shot",
-      "excerpt": "Moderna’s cancer vaccine results doubled its stock price after taxpayers paid to help develop the treatment.",
-      "link": "https://www.levernews.com/money-shot/",
-      "published": "2026-08-20T17:09:15+00:00",
+      "headline": "Deploying To SCOTUS: Big Oil’s Dark Money Army",
+      "excerpt": "Right-wing dark money groups and Big Oil are pressuring the Supreme Court to shield the fossil fuel industry from paying for climate change-related damages.",
+      "link": "https://www.levernews.com/deploying-to-scotus-big-oils-dark-money-army/",
+      "published": "2026-08-20T18:50:27+00:00",
       "featured": false
     },
     {
@@ -407,21 +407,21 @@
       "featured": false
     },
     {
-      "id": "d045ca8e3d0a",
+      "id": "ffbd0b6c1df9",
       "source": "Al Jazeera",
-      "headline": "Djibouti Football Federation accused of misusing funds from FIFA",
-      "excerpt": "FIFA and CAF provides more than $1m a year to Djibouti's federation, which faces corruption allegations over misuse.",
-      "link": "https://www.aljazeera.com/sports/2026/8/21/djibouti-football-federation-accused-misusing-funds-fifa?traffic_source=rss",
-      "published": "2026-08-21T14:18:23+00:00",
+      "headline": "Why Iran is threatening Europe’s ‘strategically important’ southeast",
+      "excerpt": "Tehran has threatened Bulgaria, home to a US air base, but how credible is that threat?",
+      "link": "https://www.aljazeera.com/news/2026/8/21/iran-southeastern-europe-threats?traffic_source=rss",
+      "published": "2026-08-21T17:29:17+00:00",
       "featured": false
     },
     {
-      "id": "a466576f2774",
+      "id": "97f8028cf125",
       "source": "The Lever",
-      "headline": "The Democratic Primary Operative With A Wall Street Side Gig",
-      "excerpt": "Peter Kauffmann helps lead a billionaire-funded network intervening in Democratic primaries — while representing a front group fighting to keep your credit fees high.",
-      "link": "https://www.levernews.com/the-democratic-primary-operative-with-a-wall-street-side-gig/",
-      "published": "2026-08-20T11:30:22+00:00",
+      "headline": "Money Shot",
+      "excerpt": "Moderna’s cancer vaccine results doubled its stock price after taxpayers paid to help develop the treatment.",
+      "link": "https://www.levernews.com/money-shot/",
+      "published": "2026-08-20T17:09:15+00:00",
       "featured": false
     },
     {
@@ -497,21 +497,21 @@
       "featured": false
     },
     {
-      "id": "9b9f4c72f2dd",
+      "id": "f1183ef8f18b",
       "source": "Al Jazeera",
-      "headline": "War on Iran: The US could focus on economically isolating Iran",
-      "excerpt": "The US Treasury Secretary, has indicated a change in US strategy towards Iran, focusing on economic isolation.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/war-on-iran-the-us-could-focus-on-economically-isolating-iran?traffic_source=rss",
-      "published": "2026-08-21T13:59:28+00:00",
+      "headline": "Israeli army, settlers kill 2 Palestinians in separate West Bank incidents",
+      "excerpt": "Israeli settlers fatally shot 17-year-old Karim Sanad Shalaldeh while Israeli forces killed 58-year-old Fathi Khazem.",
+      "link": "https://www.aljazeera.com/news/2026/8/21/israeli-army-settlers-kill-2-palestinians-in-separate-west-bank-incidents?traffic_source=rss",
+      "published": "2026-08-21T17:17:55+00:00",
       "featured": false
     },
     {
-      "id": "d7b220637814",
+      "id": "a466576f2774",
       "source": "The Lever",
-      "headline": "This Senate Candidate Tried To Let His Future Employer Spy On You",
-      "excerpt": "Mike Rogers took thousands from AT&T, pushed to let telecoms share private customer data without a warrant, then joined the company as a security adviser.",
-      "link": "https://www.levernews.com/this-senate-candidate-tried-to-let-his-future-employer-spy-on-you/",
-      "published": "2026-08-19T21:24:04+00:00",
+      "headline": "The Democratic Primary Operative With A Wall Street Side Gig",
+      "excerpt": "Peter Kauffmann helps lead a billionaire-funded network intervening in Democratic primaries — while representing a front group fighting to keep your credit fees high.",
+      "link": "https://www.levernews.com/the-democratic-primary-operative-with-a-wall-street-side-gig/",
+      "published": "2026-08-20T11:30:22+00:00",
       "featured": false
     },
     {
