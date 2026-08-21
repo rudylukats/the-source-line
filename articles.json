@@ -1,32 +1,41 @@
 {
-  "generated_at": "2026-08-21T09:52:47.928396+00:00",
+  "generated_at": "2026-08-21T13:11:18.393848+00:00",
   "articles": [
     {
-      "id": "00efe998446b",
+      "id": "ec74b3252efd",
       "source": "Al Jazeera",
-      "headline": "Torrential rain floods New York City’s streets and subway",
-      "excerpt": "Torrential rainfall had led to flash flooding in parts of New York City.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/torrential-rain-floods-new-york-citys-streets-and-subway?traffic_source=rss",
-      "published": "2026-08-21T09:40:04+00:00",
+      "headline": "South Korea footballers urge safety after extreme heat statistics",
+      "excerpt": "South Korea professional football association urges stronger heat protections in face of rising temperatures.",
+      "link": "https://www.aljazeera.com/sports/2026/8/21/south-korea-footballers-urge-safety-after-worrying-extreme-heat-health-stat?traffic_source=rss",
+      "published": "2026-08-21T13:04:32+00:00",
       "featured": true
     },
     {
-      "id": "ec5bb9926b70",
+      "id": "3e61b4c991bc",
+      "source": "Rest of World",
+      "headline": "A dumpling shop becomes a poster child of AI adoption in China",
+      "excerpt": "Business owner quotes Deng Xiaoping as motivator: “Science and technology are a primary productive force.”",
+      "link": "https://restofworld.org/2026/china-ai-adoption-jinguyuan/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "published": "2026-08-21T13:00:00+00:00",
+      "featured": true
+    },
+    {
+      "id": "d809eaa8bae9",
       "source": "ProPublica",
-      "headline": "Oregon Is Spending More Than Ever on Low-Income Housing. A State Law Keeps the Details Secret.",
-      "excerpt": "The post Oregon Is Spending More Than Ever on Low-Income Housing. A State Law Keeps the Details Secret. appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/oregon-affordable-housing-cost-secrecy",
-      "published": "2026-08-21T09:00:00+00:00",
+      "headline": "Missouri Republicans Are Trying to Repeal Abortion Rights by Leaning Into Anti-Trans Sentiment",
+      "excerpt": "The post Missouri Republicans Are Trying to Repeal Abortion Rights by Leaning Into Anti-Trans Sentiment appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/missouri-abortion-gender-transition-minors-amendment-3",
+      "published": "2026-08-21T10:00:00+00:00",
       "featured": true
     },
     {
-      "id": "1c295d17a2b5",
+      "id": "df67a3da60cc",
       "source": "The Intercept",
-      "headline": "This Mysterious “Astroturf” Group Popped Up to Defend the Paramount Merger",
-      "excerpt": "In text messages, the newly formed group boosted reported threats by CEO David Ellison to move Paramount out of California. The post This Mysterious “Astroturf” Group Popped Up to Defend the Paramount Merger appeared...",
-      "link": "https://theintercept.com/2026/08/21/paramount-merger-warner-discovery-david-ellison-antitrust/",
-      "published": "2026-08-21T08:50:00+00:00",
-      "featured": true
+      "headline": "What American Doctors Saw in Gaza",
+      "excerpt": "A new documentary follows three physicians facing the odds: limited medical supplies, Israeli bombing, and upon returning home, media bias and indifference. The post What American Doctors Saw in Gaza appeared first on...",
+      "link": "https://theintercept.com/2026/08/21/gaza-hospitals-american-doctor-documentary/",
+      "published": "2026-08-21T10:00:00+00:00",
+      "featured": false
     },
     {
       "id": "b142e92c1e4a",
@@ -83,15 +92,6 @@
       "featured": false
     },
     {
-      "id": "d17657aec8c4",
-      "source": "Rest of World",
-      "headline": "“It’s laughable”: Global AI experts challenge Zuckerberg’s “AI for everyone”",
-      "excerpt": "Observers scrutinize Meta founder’s argument about AI’s potential as an equalizer and enabler.",
-      "link": "https://restofworld.org/2026/mark-zuckerberg-meta-ai-for-everyone-manifesto-global-critique/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-      "published": "2026-08-20T10:00:00+00:00",
-      "featured": false
-    },
-    {
       "id": "c05386da40a0",
       "source": "More Perfect Union",
       "headline": "We Uncovered Where Your Insurance Payments Are Really Going",
@@ -110,12 +110,30 @@
       "featured": false
     },
     {
-      "id": "3c0b360b9b22",
+      "id": "9eaa5dd45d7d",
       "source": "Al Jazeera",
-      "headline": "Swiatek into Cincinnati semis after Rybakina injury",
-      "excerpt": "Elena Rybakina's Cincinnati withdrawal raises concerns over the fitness of the world number two ahead of US Open.",
-      "link": "https://www.aljazeera.com/sports/2026/8/21/swiatek-into-cincinnati-semis-after-rybakina-injury?traffic_source=rss",
-      "published": "2026-08-21T09:11:55+00:00",
+      "headline": "Israeli soldiers throw belongings from besieged Palestinian home",
+      "excerpt": "Israeli soldiers were filmed throwing belongings from Palestinian homes in Qusra.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/israeli-soldiers-throw-belongings-from-besieged-palestinian-home?traffic_source=rss",
+      "published": "2026-08-21T13:01:54+00:00",
+      "featured": false
+    },
+    {
+      "id": "ec5bb9926b70",
+      "source": "ProPublica",
+      "headline": "Oregon Is Spending More Than Ever on Low-Income Housing. A State Law Keeps the Details Secret.",
+      "excerpt": "The post Oregon Is Spending More Than Ever on Low-Income Housing. A State Law Keeps the Details Secret. appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/oregon-affordable-housing-cost-secrecy",
+      "published": "2026-08-21T09:00:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "1c295d17a2b5",
+      "source": "The Intercept",
+      "headline": "This Mysterious “Astroturf” Group Popped Up to Defend the Paramount Merger",
+      "excerpt": "In text messages, the newly formed group boosted reported threats by CEO David Ellison to move Paramount out of California. The post This Mysterious “Astroturf” Group Popped Up to Defend the Paramount Merger appeared...",
+      "link": "https://theintercept.com/2026/08/21/paramount-merger-warner-discovery-david-ellison-antitrust/",
+      "published": "2026-08-21T08:50:00+00:00",
       "featured": false
     },
     {
@@ -125,15 +143,6 @@
       "excerpt": "The GOP Michigan Senate candidate now supports a one-year moratorium on data center construction in the Wolverine State.",
       "link": "https://www.levernews.com/days-after-the-lever-revealed-his-ai-investments-mike-rogers-flipped-on-data-centers/",
       "published": "2026-08-20T20:44:29+00:00",
-      "featured": false
-    },
-    {
-      "id": "61442decfe3e",
-      "source": "The Intercept",
-      "headline": "The Mossad Suffers a Crushing Defeat Entirely of Its Own Making",
-      "excerpt": "High-profile firings show that none of the Israeli spy agency's promises about the war with Iran have come to pass. The post The Mossad Suffers a Crushing Defeat Entirely of Its Own Making appeared first on The...",
-      "link": "https://theintercept.com/2026/08/20/israel-iran-war-mossad-firings/",
-      "published": "2026-08-20T19:06:16+00:00",
       "featured": false
     },
     {
@@ -164,21 +173,12 @@
       "featured": false
     },
     {
-      "id": "0840fc3d4ca4",
-      "source": "ProPublica",
-      "headline": "This Coach Is Banned From Working With Kids. Why Is He Still Coaching?",
-      "excerpt": "The post This Coach Is Banned From Working With Kids. Why Is He Still Coaching? appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/ryan-richardson-pharr-texas-usa-volleyball-safesport-abuse-teens",
-      "published": "2026-08-20T09:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "85dda370dfda",
+      "id": "d17657aec8c4",
       "source": "Rest of World",
-      "headline": "Chinese carmakers now sell one EV abroad for every two at home",
-      "excerpt": "Dwindling sales at home are pushing the cars toward Brazil, Thailand, and the Gulf.",
-      "link": "https://restofworld.org/2026/china-ev-exports-overcapacity-global-markets/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-      "published": "2026-08-18T10:00:00+00:00",
+      "headline": "“It’s laughable”: Global AI experts challenge Zuckerberg’s “AI for everyone”",
+      "excerpt": "Observers scrutinize Meta founder’s argument about AI’s potential as an equalizer and enabler.",
+      "link": "https://restofworld.org/2026/mark-zuckerberg-meta-ai-for-everyone-manifesto-global-critique/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "published": "2026-08-20T10:00:00+00:00",
       "featured": false
     },
     {
@@ -209,12 +209,21 @@
       "featured": false
     },
     {
-      "id": "2bdc55834b36",
+      "id": "6dbae653bb80",
       "source": "Al Jazeera",
-      "headline": "Australia charges man for passing Ukrainian military intel to Russia",
-      "excerpt": "Police allege Australian-Russian citizen joined Ukrainian military seeking to send information to Russian intelligence.",
-      "link": "https://www.aljazeera.com/news/2026/8/21/australia-charges-man-for-passing-ukrainian-military-intel-to-russia?traffic_source=rss",
-      "published": "2026-08-21T08:42:20+00:00",
+      "headline": "Why are Hong Kong’s Tiananmen vigil organisers facing prison?",
+      "excerpt": "Amnesty International said they ‘must be released immediately and unconditionally’.",
+      "link": "https://www.aljazeera.com/news/2026/8/21/why-are-hong-kongs-tiananmen-vigil-organisers-facing-prison?traffic_source=rss",
+      "published": "2026-08-21T12:54:44+00:00",
+      "featured": false
+    },
+    {
+      "id": "61442decfe3e",
+      "source": "The Intercept",
+      "headline": "The Mossad Suffers a Crushing Defeat Entirely of Its Own Making",
+      "excerpt": "High-profile firings show that none of the Israeli spy agency's promises about the war with Iran have come to pass. The post The Mossad Suffers a Crushing Defeat Entirely of Its Own Making appeared first on The...",
+      "link": "https://theintercept.com/2026/08/20/israel-iran-war-mossad-firings/",
+      "published": "2026-08-20T19:06:16+00:00",
       "featured": false
     },
     {
@@ -227,15 +236,6 @@
       "featured": false
     },
     {
-      "id": "00bb6424dca0",
-      "source": "The Intercept",
-      "headline": "Immigrant Wants to Pay $368,000 in Fines, but Broken Payment System Won’t Let Him",
-      "excerpt": "The fines, for not “willfully” leaving the country, can accrue interest and harm people in immigration proceedings. The post Immigrant Wants to Pay $368,000 in Fines, but Broken Payment System Won’t Let Him appeared...",
-      "link": "https://theintercept.com/2026/08/20/trump-immigration-civil-fines-deport/",
-      "published": "2026-08-20T13:47:09+00:00",
-      "featured": false
-    },
-    {
       "id": "8aca504099ad",
       "source": "404 Media",
       "headline": "Township Fights Nuclear Weapons Data Center By Passing a Moratorium on Electrical Infrastructure",
@@ -245,12 +245,12 @@
       "featured": false
     },
     {
-      "id": "98fdd90484df",
+      "id": "0840fc3d4ca4",
       "source": "ProPublica",
-      "headline": "What Parents Need to Know About Sexual Abuse in Youth Sports",
-      "excerpt": "The post What Parents Need to Know About Sexual Abuse in Youth Sports appeared first on ProPublica.",
-      "link": "https://www.propublica.org/getinvolved/what-parents-should-know-sexual-abuse-youth-sports-aau-safesport",
-      "published": "2026-08-20T08:55:00+00:00",
+      "headline": "This Coach Is Banned From Working With Kids. Why Is He Still Coaching?",
+      "excerpt": "The post This Coach Is Banned From Working With Kids. Why Is He Still Coaching? appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/ryan-richardson-pharr-texas-usa-volleyball-safesport-abuse-teens",
+      "published": "2026-08-20T09:00:00+00:00",
       "featured": false
     },
     {
@@ -272,12 +272,12 @@
       "featured": false
     },
     {
-      "id": "7550ff3c843c",
+      "id": "85dda370dfda",
       "source": "Rest of World",
-      "headline": "Ban on Chinese robots leaves U.S. startups stranded",
-      "excerpt": "Three Unitree G1 humanoid robots are pictured at robotics company Unitree's first retail store in Beijing.",
-      "link": "https://restofworld.org/2026/china-robot-ban-silicon-valley/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-      "published": "2026-08-17T10:00:00+00:00",
+      "headline": "Chinese carmakers now sell one EV abroad for every two at home",
+      "excerpt": "Dwindling sales at home are pushing the cars toward Brazil, Thailand, and the Gulf.",
+      "link": "https://restofworld.org/2026/china-ev-exports-overcapacity-global-markets/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "published": "2026-08-18T10:00:00+00:00",
       "featured": false
     },
     {
@@ -308,12 +308,12 @@
       "featured": false
     },
     {
-      "id": "015246c94822",
+      "id": "40168871378c",
       "source": "Al Jazeera",
-      "headline": "Sudan’s displacement crisis deepens as violence escalates",
-      "excerpt": "Sudan’s displacement crisis deepens as violence escalates",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/sudans-displacement-crisis-deepens-as-violence-escalates?traffic_source=rss",
-      "published": "2026-08-21T08:41:13+00:00",
+      "headline": "China rejects US claim that Myanmar analyst wrongfully detained",
+      "excerpt": "Min Zin was arrested on June 3 after the Chinese government invited him to attend a conference.",
+      "link": "https://www.aljazeera.com/news/2026/8/21/china-rejects-us-claim-that-myanmar-analyst-wrongfully-detained?traffic_source=rss",
+      "published": "2026-08-21T12:48:17+00:00",
       "featured": false
     },
     {
@@ -323,6 +323,24 @@
       "excerpt": "Moderna’s cancer vaccine results doubled its stock price after taxpayers paid to help develop the treatment.",
       "link": "https://www.levernews.com/money-shot/",
       "published": "2026-08-20T17:09:15+00:00",
+      "featured": false
+    },
+    {
+      "id": "00bb6424dca0",
+      "source": "The Intercept",
+      "headline": "Immigrant Wants to Pay $368,000 in Fines, but Broken Payment System Won’t Let Him",
+      "excerpt": "The fines, for not “willfully” leaving the country, can accrue interest and harm people in immigration proceedings. The post Immigrant Wants to Pay $368,000 in Fines, but Broken Payment System Won’t Let Him appeared...",
+      "link": "https://theintercept.com/2026/08/20/trump-immigration-civil-fines-deport/",
+      "published": "2026-08-20T13:47:09+00:00",
+      "featured": false
+    },
+    {
+      "id": "98fdd90484df",
+      "source": "ProPublica",
+      "headline": "What Parents Need to Know About Sexual Abuse in Youth Sports",
+      "excerpt": "The post What Parents Need to Know About Sexual Abuse in Youth Sports appeared first on ProPublica.",
+      "link": "https://www.propublica.org/getinvolved/what-parents-should-know-sexual-abuse-youth-sports-aau-safesport",
+      "published": "2026-08-20T08:55:00+00:00",
       "featured": false
     },
     {
@@ -353,30 +371,12 @@
       "featured": false
     },
     {
-      "id": "2b45a35f7174",
-      "source": "ProPublica",
-      "headline": "Senators Criticize Trump Administration’s Demands to Access Health Data as a Condition for Lifesaving Aid",
-      "excerpt": "The post Senators Criticize Trump Administration’s Demands to Access Health Data as a Condition for Lifesaving Aid appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/senators-letter-health-data-africa-humanitarian-aid",
-      "published": "2026-08-19T10:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "82fca316717b",
-      "source": "The Intercept",
-      "headline": "What The Intercept Is Reading",
-      "excerpt": "Book recommendations old and new, fiction and nonfiction, from staffers. The post What The Intercept Is Reading appeared first on The Intercept.",
-      "link": "https://theintercept.com/2026/08/19/book-reading-recommendations/",
-      "published": "2026-08-19T10:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "7dccc529e0af",
+      "id": "7550ff3c843c",
       "source": "Rest of World",
-      "headline": "The online shopping trend where you buy nothing",
-      "excerpt": "On South Korea’s “dopamine sites,” the pleasure comes from aspirational shopping rituals like browsing, curating, and tracking — not from a delivery.",
-      "link": "https://restofworld.org/2026/south-korea-shopping-trend/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-      "published": "2026-08-14T13:00:00+00:00",
+      "headline": "Ban on Chinese robots leaves U.S. startups stranded",
+      "excerpt": "Three Unitree G1 humanoid robots are pictured at robotics company Unitree's first retail store in Beijing.",
+      "link": "https://restofworld.org/2026/china-robot-ban-silicon-valley/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "published": "2026-08-17T10:00:00+00:00",
       "featured": false
     },
     {
@@ -407,12 +407,12 @@
       "featured": false
     },
     {
-      "id": "fe975c5ef0d2",
+      "id": "8c00680daeb8",
       "source": "Al Jazeera",
-      "headline": "Bangladesh expect ‘harder’ Australia challenge in second Test, says coach",
-      "excerpt": "After a first Test win in Australia in the series opener, Bangladesh expect a backlash in second match in Mackay.",
-      "link": "https://www.aljazeera.com/sports/2026/8/21/australia-bangladesh-cricket-second-test-mackay-simmons-cummins-renshaw?traffic_source=rss",
-      "published": "2026-08-21T08:34:06+00:00",
+      "headline": "US allies in Asia wary as Trump moves military assets for Iran war",
+      "excerpt": "Allies worry about the US ability to deter China, even if the bulk of US forces remain in the region.",
+      "link": "https://www.aljazeera.com/news/2026/8/21/us-allies-in-asia-wary-as-trump-moves-military-assets-for-iran-war?traffic_source=rss",
+      "published": "2026-08-21T12:32:03+00:00",
       "featured": false
     },
     {
@@ -443,12 +443,21 @@
       "featured": false
     },
     {
-      "id": "7767b1f0f971",
+      "id": "2b45a35f7174",
       "source": "ProPublica",
-      "headline": "The $1 Trillion Black Box",
-      "excerpt": "The post The $1 Trillion Black Box appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/military-defense-spending-budget-series",
-      "published": "2026-08-19T09:00:00+00:00",
+      "headline": "Senators Criticize Trump Administration’s Demands to Access Health Data as a Condition for Lifesaving Aid",
+      "excerpt": "The post Senators Criticize Trump Administration’s Demands to Access Health Data as a Condition for Lifesaving Aid appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/senators-letter-health-data-africa-humanitarian-aid",
+      "published": "2026-08-19T10:00:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "82fca316717b",
+      "source": "The Intercept",
+      "headline": "What The Intercept Is Reading",
+      "excerpt": "Book recommendations old and new, fiction and nonfiction, from staffers. The post What The Intercept Is Reading appeared first on The Intercept.",
+      "link": "https://theintercept.com/2026/08/19/book-reading-recommendations/",
+      "published": "2026-08-19T10:00:00+00:00",
       "featured": false
     },
     {
@@ -461,21 +470,12 @@
       "featured": false
     },
     {
-      "id": "38be56bd5a8e",
-      "source": "The Intercept",
-      "headline": "The Short Life of a Newborn During the Iran War",
-      "excerpt": "“What crime had my 20-day-old grandchild committed?” The post The Short Life of a Newborn During the Iran War appeared first on The Intercept.",
-      "link": "https://theintercept.com/2026/08/18/iran-war-civilian-deaths-families-infant/",
-      "published": "2026-08-18T10:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "7184318e7e5f",
+      "id": "7dccc529e0af",
       "source": "Rest of World",
-      "headline": "Mozilla’s CTO thinks AI should be built like the internet",
-      "excerpt": "Raffi Krikorian explains that while consumers flock to ChatGPT and Claude, companies are increasingly turning to open models that they can customize and control.",
-      "link": "https://restofworld.org/2026/open-source-ai-infrastructure-mozilla/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-      "published": "2026-08-13T10:00:00+00:00",
+      "headline": "The online shopping trend where you buy nothing",
+      "excerpt": "On South Korea’s “dopamine sites,” the pleasure comes from aspirational shopping rituals like browsing, curating, and tracking — not from a delivery.",
+      "link": "https://restofworld.org/2026/south-korea-shopping-trend/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "published": "2026-08-14T13:00:00+00:00",
       "featured": false
     },
     {
@@ -497,12 +497,12 @@
       "featured": false
     },
     {
-      "id": "bb126a4ae77e",
+      "id": "b3209500a259",
       "source": "Al Jazeera",
-      "headline": "Israeli settlers set fire to Palestinian home while family asleep",
-      "excerpt": "Israeli settlers set fire to a Palestinian home while a mother and her children were sleeping inside.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/israeli-settlers-set-fire-to-palestinian-home-while-family-asleep?traffic_source=rss",
-      "published": "2026-08-21T07:58:41+00:00",
+      "headline": "Humanoid crashes during speed test as China’s robotics industry grows",
+      "excerpt": "Humanoid crashes during speed test as China’s robotics industry grows",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/humanoid-crashes-during-speed-test-as-chinas-robotics-industry-grows?traffic_source=rss",
+      "published": "2026-08-21T12:25:04+00:00",
       "featured": false
     },
     {
@@ -533,11 +533,11 @@
       "featured": false
     },
     {
-      "id": "b10f100b10b3",
+      "id": "7767b1f0f971",
       "source": "ProPublica",
-      "headline": "Do You Know About U.S. Military Spending? Help ProPublica Understand Where the Money Goes.",
-      "excerpt": "The post Do You Know About U.S. Military Spending? Help ProPublica Understand Where the Money Goes. appeared first on ProPublica.",
-      "link": "https://www.propublica.org/getinvolved/share-military-defense-spending-tips",
+      "headline": "The $1 Trillion Black Box",
+      "excerpt": "The post The $1 Trillion Black Box appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/military-defense-spending-budget-series",
       "published": "2026-08-19T09:00:00+00:00",
       "featured": false
     }
