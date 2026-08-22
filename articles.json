@@ -1,13 +1,31 @@
 {
-  "generated_at": "2026-08-22T09:43:12.285779+00:00",
+  "generated_at": "2026-08-22T13:01:03.027367+00:00",
   "articles": [
     {
-      "id": "93a09def6437",
+      "id": "d9701b64184f",
       "source": "Al Jazeera",
-      "headline": "Iran says new US sanctions violate sovereignty of other states",
-      "excerpt": "Foreign Ministry spokesman Esmaeil Baghaei slams Trump's latest threat as a return to 'full-scale classic colonialism'.",
-      "link": "https://www.aljazeera.com/news/2026/8/22/iran-says-new-us-sanctions-violate-sovereignty-of-other-states?traffic_source=rss",
-      "published": "2026-08-22T09:14:09+00:00",
+      "headline": "CONCACAF asks Infantino to skip youth event amid FIFA governance crisis",
+      "excerpt": "The pressure on Gianni Infantino has led CONCACAF to reportedly ask the FIFA president to skip upcoming tournament.",
+      "link": "https://www.aljazeera.com/sports/2026/8/22/concacaf-ask-infantino-to-skip-youth-tournament-amid-fifa-governance-crisis?traffic_source=rss",
+      "published": "2026-08-22T12:37:26+00:00",
+      "featured": true
+    },
+    {
+      "id": "633a43c86877",
+      "source": "The Intercept",
+      "headline": "RIP to the Russiagate Liberals",
+      "excerpt": "With Alex Vindman and George Conway’s losses, Democratic voters are forcefully rejecting the notion that Russia is to blame for America’s ills. The post RIP to the Russiagate Liberals appeared first on The Intercept.",
+      "link": "https://theintercept.com/2026/08/22/russiagate-resistance-liberals-alex-vindman-angie-nixon/",
+      "published": "2026-08-22T10:21:00+00:00",
+      "featured": true
+    },
+    {
+      "id": "55f8faa5526c",
+      "source": "404 Media",
+      "headline": "Brand Hype Has Existed Since the Bronze Age, Scientists Discover",
+      "excerpt": "The Qurayyah Painted Ware of Bronze Age Arabia had distinct visual identity, material consistency, technological continuity, and cultural reputation—all features of a commodified brand, scientists say.",
+      "link": "https://www.404media.co/brand-hype-has-existed-since-the-bronze-age-scientists-discover/",
+      "published": "2026-08-22T10:00:35+00:00",
       "featured": true
     },
     {
@@ -17,7 +35,7 @@
       "excerpt": "Test your knowledge of primary elections, A.I. training, and other issues that really matter.",
       "link": "https://www.levernews.com/are-democrats-having-a-tea-party-moment/",
       "published": "2026-08-21T16:29:54+00:00",
-      "featured": true
+      "featured": false
     },
     {
       "id": "57ea522ed6e7",
@@ -26,15 +44,6 @@
       "excerpt": "Drop Site Daily: August 21, 2026",
       "link": "https://www.dropsitenews.com/p/us-cuba-sanctions-progressive-aisha-wahab-california-congo-ebola-outbreak",
       "published": "2026-08-21T15:47:03+00:00",
-      "featured": true
-    },
-    {
-      "id": "e273b1a86297",
-      "source": "404 Media",
-      "headline": "Behind the Blog: Early Birthday Reflections",
-      "excerpt": "This week, we discuss our party and panel coming up, and do some light reminiscing.",
-      "link": "https://www.404media.co/behind-the-blog-early-birthday-reflections/",
-      "published": "2026-08-21T14:54:35+00:00",
       "featured": false
     },
     {
@@ -52,15 +61,6 @@
       "headline": "Missouri Republicans Are Trying to Repeal Abortion Rights by Leaning Into Anti-Trans Sentiment",
       "excerpt": "The post Missouri Republicans Are Trying to Repeal Abortion Rights by Leaning Into Anti-Trans Sentiment appeared first on ProPublica.",
       "link": "https://www.propublica.org/article/missouri-abortion-gender-transition-minors-amendment-3",
-      "published": "2026-08-21T10:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "df67a3da60cc",
-      "source": "The Intercept",
-      "headline": "What American Doctors Saw in Gaza",
-      "excerpt": "A new documentary follows three physicians facing the odds: limited medical supplies, Israeli bombing, and upon returning home, media bias and indifference. The post What American Doctors Saw in Gaza appeared first on...",
-      "link": "https://theintercept.com/2026/08/21/gaza-hospitals-american-doctor-documentary/",
       "published": "2026-08-21T10:00:00+00:00",
       "featured": false
     },
@@ -110,12 +110,30 @@
       "featured": false
     },
     {
-      "id": "baf2c920f722",
+      "id": "228cec0b4f4e",
       "source": "Al Jazeera",
-      "headline": "Australia bite back as 18 wickets fall on day one of second Bangladesh Test",
-      "excerpt": "Left-armers star in wicket bonanza as Australia take 101-run lead over Bangladesh on first day of the second Test.",
-      "link": "https://www.aljazeera.com/sports/2026/8/22/australia-bite-back-as-18-wickets-fall-on-day-one-of-second-bangladesh-test?traffic_source=rss",
-      "published": "2026-08-22T08:53:17+00:00",
+      "headline": "The Berlin Wall separated his family. Its legacy still endures",
+      "excerpt": "When Germany was divided, the Guetingers were among the 70 million people split between two opposing nations.",
+      "link": "https://www.aljazeera.com/features/longform/2026/8/22/the-berlin-wall-separated-his-family-its-legacy-still-endures?traffic_source=rss",
+      "published": "2026-08-22T12:31:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "e273b1a86297",
+      "source": "404 Media",
+      "headline": "Behind the Blog: Early Birthday Reflections",
+      "excerpt": "This week, we discuss our party and panel coming up, and do some light reminiscing.",
+      "link": "https://www.404media.co/behind-the-blog-early-birthday-reflections/",
+      "published": "2026-08-21T14:54:35+00:00",
+      "featured": false
+    },
+    {
+      "id": "df67a3da60cc",
+      "source": "The Intercept",
+      "headline": "What American Doctors Saw in Gaza",
+      "excerpt": "A new documentary follows three physicians facing the odds: limited medical supplies, Israeli bombing, and upon returning home, media bias and indifference. The post What American Doctors Saw in Gaza appeared first on...",
+      "link": "https://theintercept.com/2026/08/21/gaza-hospitals-american-doctor-documentary/",
+      "published": "2026-08-21T10:00:00+00:00",
       "featured": false
     },
     {
@@ -125,15 +143,6 @@
       "excerpt": "The post Oregon Is Spending More Than Ever on Low-Income Housing. A State Law Keeps the Details Secret. appeared first on ProPublica.",
       "link": "https://www.propublica.org/article/oregon-affordable-housing-cost-secrecy",
       "published": "2026-08-21T09:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "1c295d17a2b5",
-      "source": "The Intercept",
-      "headline": "This Mysterious “Astroturf” Group Popped Up to Defend the Paramount Merger",
-      "excerpt": "In text messages, the newly formed group boosted reported threats by CEO David Ellison to move Paramount out of California. The post This Mysterious “Astroturf” Group Popped Up to Defend the Paramount Merger appeared...",
-      "link": "https://theintercept.com/2026/08/21/paramount-merger-warner-discovery-david-ellison-antitrust/",
-      "published": "2026-08-21T08:50:00+00:00",
       "featured": false
     },
     {
@@ -152,15 +161,6 @@
       "excerpt": "Israeli settlers and soldiers are increasingly targeting Palestinians in Area B of the occupied West Bank to force them from their homes.",
       "link": "https://www.dropsitenews.com/p/qusra-siege-israeli-settlers-soldiers-palestinians-west-bank",
       "published": "2026-08-20T19:48:07+00:00",
-      "featured": false
-    },
-    {
-      "id": "cecc12b2cd13",
-      "source": "404 Media",
-      "headline": "'Darth Vader' Wants Flock in San Diego",
-      "excerpt": "\"The emperor is a fan of Flock, and we must continue utilizing Flock technologies so that we can follow and surveil the rebel scum,\" Vader said during the meeting.",
-      "link": "https://www.404media.co/darth-vader-spoke-in-support-of-flock-at-san-diego-city-council-meeting/",
-      "published": "2026-08-20T17:10:52+00:00",
       "featured": false
     },
     {
@@ -209,12 +209,21 @@
       "featured": false
     },
     {
-      "id": "edcc4bad067a",
+      "id": "0053421a02cb",
       "source": "Al Jazeera",
-      "headline": "Nakashima pounds Fritz, Bejlek beats Keys in Cincinnati upsets",
-      "excerpt": "Frances Tiafoe and Brandon Nakashima set up one all-American men's semifinal, Coco Gauff and Jessica Pegula also win.",
-      "link": "https://www.aljazeera.com/sports/2026/8/22/nakashima-pounds-fritz-bejlek-beats-keys-in-cincinnati-upsets?traffic_source=rss",
-      "published": "2026-08-22T08:30:31+00:00",
+      "headline": "Russian strikes kill 6 people in Ukraine, day after shopping complex attack",
+      "excerpt": "Meanwhile, Ukrainian drone hits home in southern Russia, killing two children and injuring their parents, officials say.",
+      "link": "https://www.aljazeera.com/news/2026/8/22/russian-strikes-kill-6-people-in-ukraine-day-after-shopping-complex-attack?traffic_source=rss",
+      "published": "2026-08-22T12:09:09+00:00",
+      "featured": false
+    },
+    {
+      "id": "1c295d17a2b5",
+      "source": "The Intercept",
+      "headline": "This Mysterious “Astroturf” Group Popped Up to Defend the Paramount Merger",
+      "excerpt": "In text messages, the newly formed group boosted reported threats by CEO David Ellison to move Paramount out of California. The post This Mysterious “Astroturf” Group Popped Up to Defend the Paramount Merger appeared...",
+      "link": "https://theintercept.com/2026/08/21/paramount-merger-warner-discovery-david-ellison-antitrust/",
+      "published": "2026-08-21T08:50:00+00:00",
       "featured": false
     },
     {
@@ -227,12 +236,12 @@
       "featured": false
     },
     {
-      "id": "61442decfe3e",
-      "source": "The Intercept",
-      "headline": "The Mossad Suffers a Crushing Defeat Entirely of Its Own Making",
-      "excerpt": "High-profile firings show that none of the Israeli spy agency's promises about the war with Iran have come to pass. The post The Mossad Suffers a Crushing Defeat Entirely of Its Own Making appeared first on The...",
-      "link": "https://theintercept.com/2026/08/20/israel-iran-war-mossad-firings/",
-      "published": "2026-08-20T19:06:16+00:00",
+      "id": "cecc12b2cd13",
+      "source": "404 Media",
+      "headline": "'Darth Vader' Wants Flock in San Diego",
+      "excerpt": "\"The emperor is a fan of Flock, and we must continue utilizing Flock technologies so that we can follow and surveil the rebel scum,\" Vader said during the meeting.",
+      "link": "https://www.404media.co/darth-vader-spoke-in-support-of-flock-at-san-diego-city-council-meeting/",
+      "published": "2026-08-20T17:10:52+00:00",
       "featured": false
     },
     {
@@ -242,15 +251,6 @@
       "excerpt": "Drop Site Daily: August 20, 2026",
       "link": "https://www.dropsitenews.com/p/us-national-debt-russia-ukraine-kyiv-ecuador-intelligence-chief-helicopter-crash",
       "published": "2026-08-20T15:21:11+00:00",
-      "featured": false
-    },
-    {
-      "id": "15542bd92742",
-      "source": "404 Media",
-      "headline": "Subtlefakes: Slightly Altered Nonconsensual AI Images Are Taking Over X",
-      "excerpt": "Nonconsensual AI images are getting much harder to spot.",
-      "link": "https://www.404media.co/subtlefakes-slightly-altered-nonconsensual-ai-images-are-taking-over-x/",
-      "published": "2026-08-20T13:34:23+00:00",
       "featured": false
     },
     {
@@ -308,12 +308,21 @@
       "featured": false
     },
     {
-      "id": "f5fb5141fdcd",
+      "id": "0418046ea130",
       "source": "Al Jazeera",
-      "headline": "How will Trump’s tariffs affect Canada’s economy?",
-      "excerpt": "US imposes 50% tariffs on key Canadian sectors after talks collapse, but unlikely to cripple Canada's economy.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/how-will-trumps-tariffs-affect-canadas-economy?traffic_source=rss",
-      "published": "2026-08-22T08:01:55+00:00",
+      "headline": "Hundreds of children take part in swimming class on Gaza’s shore",
+      "excerpt": "On Gaza’s shore, 1,300 Palestinian children joined a swimming class to cope with the trauma of Israel’s genocidal war.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/hundreds-of-children-take-part-in-swimming-class-on-gazas-shore?traffic_source=rss",
+      "published": "2026-08-22T11:58:55+00:00",
+      "featured": false
+    },
+    {
+      "id": "61442decfe3e",
+      "source": "The Intercept",
+      "headline": "The Mossad Suffers a Crushing Defeat Entirely of Its Own Making",
+      "excerpt": "High-profile firings show that none of the Israeli spy agency's promises about the war with Iran have come to pass. The post The Mossad Suffers a Crushing Defeat Entirely of Its Own Making appeared first on The...",
+      "link": "https://theintercept.com/2026/08/20/israel-iran-war-mossad-firings/",
+      "published": "2026-08-20T19:06:16+00:00",
       "featured": false
     },
     {
@@ -326,21 +335,12 @@
       "featured": false
     },
     {
-      "id": "00bb6424dca0",
-      "source": "The Intercept",
-      "headline": "Immigrant Wants to Pay $368,000 in Fines, but Broken Payment System Won’t Let Him",
-      "excerpt": "The fines, for not “willfully” leaving the country, can accrue interest and harm people in immigration proceedings. The post Immigrant Wants to Pay $368,000 in Fines, but Broken Payment System Won’t Let Him appeared...",
-      "link": "https://theintercept.com/2026/08/20/trump-immigration-civil-fines-deport/",
-      "published": "2026-08-20T13:47:09+00:00",
-      "featured": false
-    },
-    {
-      "id": "8aca504099ad",
+      "id": "15542bd92742",
       "source": "404 Media",
-      "headline": "Township Fights Nuclear Weapons Data Center By Passing a Moratorium on Electrical Infrastructure",
-      "excerpt": "The six month moratorium on major electrical infrastructure projects is the latest tactic meant to delay the massive data center meant to support America’s nuclear weapons.",
-      "link": "https://www.404media.co/township-fights-nuclear-weapons-data-center-by-passing-a-moratorium-on-electrical-infrastructure/",
-      "published": "2026-08-20T13:12:03+00:00",
+      "headline": "Subtlefakes: Slightly Altered Nonconsensual AI Images Are Taking Over X",
+      "excerpt": "Nonconsensual AI images are getting much harder to spot.",
+      "link": "https://www.404media.co/subtlefakes-slightly-altered-nonconsensual-ai-images-are-taking-over-x/",
+      "published": "2026-08-20T13:34:23+00:00",
       "featured": false
     },
     {
@@ -407,12 +407,12 @@
       "featured": false
     },
     {
-      "id": "c794704f4db5",
+      "id": "0511d494b58c",
       "source": "Al Jazeera",
-      "headline": "Panama Canal to reduce shipping as ‘extreme’ El Nino approaches",
-      "excerpt": "Panama Canal will cut daily transits from 40 to 32 vessels by September 15, risking slower shipping and higher costs.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/panama-canal-to-reduce-shipping-as-extreme-el-nino-approaches?traffic_source=rss",
-      "published": "2026-08-22T08:00:30+00:00",
+      "headline": "Usain Bolt’s 100m record broken at World Humanoid Robot Games",
+      "excerpt": "Chinese robot reaches peak ​speed of 14.5 metres per second to beat Bolt's 100m record in Beijing, says state media.",
+      "link": "https://www.aljazeera.com/sports/2026/8/22/usain-bolts-100m-record-broken-at-world-humanoid-robot-games?traffic_source=rss",
+      "published": "2026-08-22T11:30:51+00:00",
       "featured": false
     },
     {
@@ -425,12 +425,21 @@
       "featured": false
     },
     {
-      "id": "ad1c0560301f",
+      "id": "00bb6424dca0",
+      "source": "The Intercept",
+      "headline": "Immigrant Wants to Pay $368,000 in Fines, but Broken Payment System Won’t Let Him",
+      "excerpt": "The fines, for not “willfully” leaving the country, can accrue interest and harm people in immigration proceedings. The post Immigrant Wants to Pay $368,000 in Fines, but Broken Payment System Won’t Let Him appeared...",
+      "link": "https://theintercept.com/2026/08/20/trump-immigration-civil-fines-deport/",
+      "published": "2026-08-20T13:47:09+00:00",
+      "featured": false
+    },
+    {
+      "id": "8aca504099ad",
       "source": "404 Media",
-      "headline": "Podcast: Amazon is Destroying Rare Books to Train AI",
-      "excerpt": "Amazon buying and destroying rare books to train AI; a bunch of wild AI use in the courts; and Meta's new patent for its AI smart glasses.",
-      "link": "https://www.404media.co/podcast-amazon-is-destroying-rare-books-to-train-ai/",
-      "published": "2026-08-19T20:06:22+00:00",
+      "headline": "Township Fights Nuclear Weapons Data Center By Passing a Moratorium on Electrical Infrastructure",
+      "excerpt": "The six month moratorium on major electrical infrastructure projects is the latest tactic meant to delay the massive data center meant to support America’s nuclear weapons.",
+      "link": "https://www.404media.co/township-fights-nuclear-weapons-data-center-by-passing-a-moratorium-on-electrical-infrastructure/",
+      "published": "2026-08-20T13:12:03+00:00",
       "featured": false
     },
     {
@@ -457,15 +466,6 @@
       "headline": "Senators Criticize Trump Administration’s Demands to Access Health Data as a Condition for Lifesaving Aid",
       "excerpt": "The post Senators Criticize Trump Administration’s Demands to Access Health Data as a Condition for Lifesaving Aid appeared first on ProPublica.",
       "link": "https://www.propublica.org/article/senators-letter-health-data-africa-humanitarian-aid",
-      "published": "2026-08-19T10:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "82fca316717b",
-      "source": "The Intercept",
-      "headline": "What The Intercept Is Reading",
-      "excerpt": "Book recommendations old and new, fiction and nonfiction, from staffers. The post What The Intercept Is Reading appeared first on The Intercept.",
-      "link": "https://theintercept.com/2026/08/19/book-reading-recommendations/",
       "published": "2026-08-19T10:00:00+00:00",
       "featured": false
     },
@@ -497,12 +497,12 @@
       "featured": false
     },
     {
-      "id": "e06799b2947d",
+      "id": "8fb2097ada67",
       "source": "Al Jazeera",
-      "headline": "Lionel Messi fined for striking opponent in Inter Miami MLS game",
-      "excerpt": "MLS fine Inter Miami's Lionel Messi and Ian Fray for separate incidents in match against Philadelphia Union.",
-      "link": "https://www.aljazeera.com/sports/2026/8/22/messi-fined-for-striking-opponent-in-inter-miami-mls-game?traffic_source=rss",
-      "published": "2026-08-22T07:41:21+00:00",
+      "headline": "Ebola continues to spread in the DRC as 16,000 vaccine doses arrive",
+      "excerpt": "Health authorities are warning that ‘approximately one person has been dying from Ebola every thirty minutes’.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/ebola-continues-to-spread-in-the-drc-as-16000-vaccine-doses-arrive?traffic_source=rss",
+      "published": "2026-08-22T11:15:39+00:00",
       "featured": false
     },
     {
@@ -515,12 +515,12 @@
       "featured": false
     },
     {
-      "id": "5e9eba34cf6e",
+      "id": "ad1c0560301f",
       "source": "404 Media",
-      "headline": "Lifeforms Can Survive on ‘Significant’ Regions of the Moon, Study Finds",
-      "excerpt": "The Moon was long thought to be inhospitable to life, but scientists have discovered that common Earth microbes could survive for up to a week in shadowed regions of the lunar south pole, a region targeted for future...",
-      "link": "https://www.404media.co/lifeforms-can-survive-on-significant-regions-of-the-moon-study-finds/",
-      "published": "2026-08-19T18:00:10+00:00",
+      "headline": "Podcast: Amazon is Destroying Rare Books to Train AI",
+      "excerpt": "Amazon buying and destroying rare books to train AI; a bunch of wild AI use in the courts; and Meta's new patent for its AI smart glasses.",
+      "link": "https://www.404media.co/podcast-amazon-is-destroying-rare-books-to-train-ai/",
+      "published": "2026-08-19T20:06:22+00:00",
       "featured": false
     },
     {
@@ -533,12 +533,12 @@
       "featured": false
     },
     {
-      "id": "7767b1f0f971",
-      "source": "ProPublica",
-      "headline": "The $1 Trillion Black Box",
-      "excerpt": "The post The $1 Trillion Black Box appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/military-defense-spending-budget-series",
-      "published": "2026-08-19T09:00:00+00:00",
+      "id": "82fca316717b",
+      "source": "The Intercept",
+      "headline": "What The Intercept Is Reading",
+      "excerpt": "Book recommendations old and new, fiction and nonfiction, from staffers. The post What The Intercept Is Reading appeared first on The Intercept.",
+      "link": "https://theintercept.com/2026/08/19/book-reading-recommendations/",
+      "published": "2026-08-19T10:00:00+00:00",
       "featured": false
     }
   ]
