@@ -1,13 +1,31 @@
 {
-  "generated_at": "2026-08-24T15:56:22.682982+00:00",
+  "generated_at": "2026-08-24T18:59:35.820676+00:00",
   "articles": [
     {
-      "id": "c2be627a3744",
+      "id": "f2880e560c95",
       "source": "Al Jazeera",
-      "headline": "Are humanoid robots the future of warfare?",
-      "excerpt": "Humanoid robots are breaking world records in sports, and are increasingly being developed and tested for military use.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/are-humanoid-robots-the-future-of-warfare?traffic_source=rss",
-      "published": "2026-08-24T15:30:54+00:00",
+      "headline": "Trump administration seeks to formalise H-1B fee of more than $100,000",
+      "excerpt": "New proposal would charge $103,265 for the US's H-1B visas, and make permanent a temporary rule challenged by courts.",
+      "link": "https://www.aljazeera.com/economy/2026/8/24/trump-administration-seeks-to-formalise-h-1b-fee-of-more-than-100000?traffic_source=rss",
+      "published": "2026-08-24T18:46:09+00:00",
+      "featured": true
+    },
+    {
+      "id": "2027e0f99f7f",
+      "source": "The Lever",
+      "headline": "Hollywood’s Hangover",
+      "excerpt": "The $111 billion merger between Paramount and Warner Bros. Discovery could cause thousands of workers to lose their jobs, according to new research.",
+      "link": "https://www.levernews.com/hollywoods-hangover/",
+      "published": "2026-08-24T16:39:46+00:00",
+      "featured": true
+    },
+    {
+      "id": "302e34663da9",
+      "source": "Dropsite News",
+      "headline": "Gary, Indiana still without power; U.S. to unveil “economic D-day” sanctions against Iran; Israel bombs mosque, desalination plant in Gaza",
+      "excerpt": "Drop Site Daily: August 24, 2026",
+      "link": "https://www.dropsitenews.com/p/gary-indiana-power-us-iran-sanctions-israel-gaza-mosque-desalination",
+      "published": "2026-08-24T16:22:32+00:00",
       "featured": true
     },
     {
@@ -17,7 +35,7 @@
       "excerpt": "A new Europol report reveals that criminal gangs in Europe are increasingly turning to violent, direct force to breach museums as they target precious metals and jewels that can be easily liquidated.",
       "link": "https://www.occrp.org/en/news/europol-warns-of-violent-shift-in-european-museum-heists",
       "published": "2026-08-24T15:28:00+00:00",
-      "featured": true
+      "featured": false
     },
     {
       "id": "75bbae1b928f",
@@ -26,7 +44,7 @@
       "excerpt": "The scheme making your Uber rides so expensive.",
       "link": "https://substack.perfectunion.us/p/we-investigated-uber-again-its-worse",
       "published": "2026-08-24T14:56:24+00:00",
-      "featured": true
+      "featured": false
     },
     {
       "id": "7feae30336a4",
@@ -65,24 +83,6 @@
       "featured": false
     },
     {
-      "id": "67c60bda9551",
-      "source": "The Lever",
-      "headline": "Lever Weekly: The Data Center Plot Twist",
-      "excerpt": "Politically dicey investment portfolios, social media mega-banks, and more from The Lever this week.",
-      "link": "https://www.levernews.com/lever-weekly-the-data-center-plot-twist/",
-      "published": "2026-08-23T13:05:49+00:00",
-      "featured": false
-    },
-    {
-      "id": "57ea522ed6e7",
-      "source": "Dropsite News",
-      "headline": "U.S. imposes new Cuba sanctions; Progressive wins California special election; Congo Ebola outbreak “growing exponentially”",
-      "excerpt": "Drop Site Daily: August 21, 2026",
-      "link": "https://www.dropsitenews.com/p/us-cuba-sanctions-progressive-aisha-wahab-california-congo-ebola-outbreak",
-      "published": "2026-08-21T15:47:03+00:00",
-      "featured": false
-    },
-    {
       "id": "1c3768a6972b",
       "source": "Bellingcat",
       "headline": "Satellite Imagery Documents New Border Patrol Road Construction in Big Bend National Park",
@@ -110,12 +110,12 @@
       "featured": false
     },
     {
-      "id": "12482e4bcaf5",
+      "id": "e9713872dfef",
       "source": "Al Jazeera",
-      "headline": "Video: Russia launches rocket into space with military satellite",
-      "excerpt": "Russia says it has launched a military satellite into space on the back of a Soyuz-2.1 rocket from Arkhangelsk.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/video-russia-launches-rocket-into-space-with-military-satellite?traffic_source=rss",
-      "published": "2026-08-24T15:29:14+00:00",
+      "headline": "Norway plans further development of Arctic drilling amid EU energy concerns",
+      "excerpt": "EU reviewing support of a ban on new drilling in the Arctic as war impacts energy security.",
+      "link": "https://www.aljazeera.com/news/2026/8/24/norway-plans-further-development-of-arctic-drilling-amid-eu-energy-concerns?traffic_source=rss",
+      "published": "2026-08-24T18:22:18+00:00",
       "featured": false
     },
     {
@@ -137,21 +137,21 @@
       "featured": false
     },
     {
+      "id": "67c60bda9551",
+      "source": "The Lever",
+      "headline": "Lever Weekly: The Data Center Plot Twist",
+      "excerpt": "Politically dicey investment portfolios, social media mega-banks, and more from The Lever this week.",
+      "link": "https://www.levernews.com/lever-weekly-the-data-center-plot-twist/",
+      "published": "2026-08-23T13:05:49+00:00",
+      "featured": false
+    },
+    {
       "id": "ac6c9617f0fe",
       "source": "The Intercept",
       "headline": "The Dawn of a New Cold War",
       "excerpt": "The growing tension between the United States and China boils down to a battle over resources. The post The Dawn of a New Cold War appeared first on The Intercept.",
       "link": "https://theintercept.com/2026/08/23/trump-china-ai-chips-rare-earth/",
       "published": "2026-08-23T10:10:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "b03722e72116",
-      "source": "The Lever",
-      "headline": "You Love To See It: Hot Subway Summer",
-      "excerpt": "Your commute gets renewable, paddles win out over profits, whales catch a break, and Big Bend fights back.",
-      "link": "https://www.levernews.com/you-love-to-see-it-hot-subway-summer/",
-      "published": "2026-08-22T13:03:14+00:00",
       "featured": false
     },
     {
@@ -164,21 +164,21 @@
       "featured": false
     },
     {
+      "id": "57ea522ed6e7",
+      "source": "Dropsite News",
+      "headline": "U.S. imposes new Cuba sanctions; Progressive wins California special election; Congo Ebola outbreak “growing exponentially”",
+      "excerpt": "Drop Site Daily: August 21, 2026",
+      "link": "https://www.dropsitenews.com/p/us-cuba-sanctions-progressive-aisha-wahab-california-congo-ebola-outbreak",
+      "published": "2026-08-21T15:47:03+00:00",
+      "featured": false
+    },
+    {
       "id": "3e61b4c991bc",
       "source": "Rest of World",
       "headline": "A dumpling shop becomes a poster child of AI adoption in China",
       "excerpt": "Business owner quotes Deng Xiaoping as motivator: “Science and technology are a primary productive force.”",
       "link": "https://restofworld.org/2026/china-ai-adoption-jinguyuan/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "published": "2026-08-21T13:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "84a8fa63601d",
-      "source": "Dropsite News",
-      "headline": "The Israeli Siege of Palestinian Families in Qusra Is Part of an Escalating Tactic",
-      "excerpt": "Israeli settlers and soldiers are increasingly targeting Palestinians in Area B of the occupied West Bank to force them from their homes.",
-      "link": "https://www.dropsitenews.com/p/qusra-siege-israeli-settlers-soldiers-palestinians-west-bank",
-      "published": "2026-08-20T19:48:07+00:00",
       "featured": false
     },
     {
@@ -209,12 +209,12 @@
       "featured": false
     },
     {
-      "id": "a0205bcb1bf2",
+      "id": "d829baa874d2",
       "source": "Al Jazeera",
-      "headline": "UK to help Ukraine build Storm Shadow long-range missiles: Why it matters",
-      "excerpt": "The UK's willingness to share classified missile-production knowledge sets a potentially important precedent.",
-      "link": "https://www.aljazeera.com/news/2026/8/24/uk-to-help-ukraine-build-storm-shadow-long-range-missiles-why-it-matters?traffic_source=rss",
-      "published": "2026-08-24T15:17:36+00:00",
+      "headline": "Kidnappers release video showing hundreds abducted from Nigerian mosque",
+      "excerpt": "Mass kidnappings highlight Nigeria's security crisis in the north as elections approach.",
+      "link": "https://www.aljazeera.com/news/2026/8/24/kidnappers-release-video-showing-hundreds-abducted-from-nigerian-mosque?traffic_source=rss",
+      "published": "2026-08-24T18:02:50+00:00",
       "featured": false
     },
     {
@@ -227,21 +227,21 @@
       "featured": false
     },
     {
+      "id": "b03722e72116",
+      "source": "The Lever",
+      "headline": "You Love To See It: Hot Subway Summer",
+      "excerpt": "Your commute gets renewable, paddles win out over profits, whales catch a break, and Big Bend fights back.",
+      "link": "https://www.levernews.com/you-love-to-see-it-hot-subway-summer/",
+      "published": "2026-08-22T13:03:14+00:00",
+      "featured": false
+    },
+    {
       "id": "633a43c86877",
       "source": "The Intercept",
       "headline": "RIP to the Russiagate Liberals",
       "excerpt": "With Alex Vindman and George Conway’s losses, Democratic voters are forcefully rejecting the notion that Russia is to blame for America’s ills. The post RIP to the Russiagate Liberals appeared first on The Intercept.",
       "link": "https://theintercept.com/2026/08/22/russiagate-resistance-liberals-alex-vindman-angie-nixon/",
       "published": "2026-08-22T10:21:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "609dc9013dec",
-      "source": "The Lever",
-      "headline": "Are Democrats Having A Tea Party Moment?",
-      "excerpt": "Test your knowledge of primary elections, A.I. training, and other issues that really matter.",
-      "link": "https://www.levernews.com/are-democrats-having-a-tea-party-moment/",
-      "published": "2026-08-21T16:29:54+00:00",
       "featured": false
     },
     {
@@ -263,12 +263,12 @@
       "featured": false
     },
     {
-      "id": "8fce3b6d7e9f",
+      "id": "84a8fa63601d",
       "source": "Dropsite News",
-      "headline": "U.S. national debt tops $40 trillion; Russian strikes kill 16 in Ukraine; Ecuador’s intelligence chief killed in Kenya helicopter crash",
-      "excerpt": "Drop Site Daily: August 20, 2026",
-      "link": "https://www.dropsitenews.com/p/us-national-debt-russia-ukraine-kyiv-ecuador-intelligence-chief-helicopter-crash",
-      "published": "2026-08-20T15:21:11+00:00",
+      "headline": "The Israeli Siege of Palestinian Families in Qusra Is Part of an Escalating Tactic",
+      "excerpt": "Israeli settlers and soldiers are increasingly targeting Palestinians in Area B of the occupied West Bank to force them from their homes.",
+      "link": "https://www.dropsitenews.com/p/qusra-siege-israeli-settlers-soldiers-palestinians-west-bank",
+      "published": "2026-08-20T19:48:07+00:00",
       "featured": false
     },
     {
@@ -308,12 +308,21 @@
       "featured": false
     },
     {
-      "id": "3f1dbbf7e694",
+      "id": "d08fbbb41599",
       "source": "Al Jazeera",
-      "headline": "Samuel Eto’o urges support for embattled FIFA President Gianni Infantino",
-      "excerpt": "Former star striker, now head of Cameroon's FA, backs Infantino despite mounting pressure on him to resign.",
-      "link": "https://www.aljazeera.com/sports/2026/8/24/samuel-etoo-urges-support-for-embattled-fifa-president-gianni-infantino?traffic_source=rss",
-      "published": "2026-08-24T15:15:55+00:00",
+      "headline": "Trump administration announces global economic war on Iran",
+      "excerpt": "The US says it is targeting all of Iran’s sources of revenue, including oil.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/trump-administration-announces-global-economic-war-on-iran-2?traffic_source=rss",
+      "published": "2026-08-24T17:53:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "609dc9013dec",
+      "source": "The Lever",
+      "headline": "Are Democrats Having A Tea Party Moment?",
+      "excerpt": "Test your knowledge of primary elections, A.I. training, and other issues that really matter.",
+      "link": "https://www.levernews.com/are-democrats-having-a-tea-party-moment/",
+      "published": "2026-08-21T16:29:54+00:00",
       "featured": false
     },
     {
@@ -335,15 +344,6 @@
       "featured": false
     },
     {
-      "id": "b142e92c1e4a",
-      "source": "The Lever",
-      "headline": "Private Prison Giant Gave Trump-aligned Super PAC $1.4 Million After Landing Mega ICE Contracts",
-      "excerpt": "GEO Group made the donation weeks after securing two five-year immigration detention-center contracts expected to generate more than $160 million annually.",
-      "link": "https://www.levernews.com/private-prison-giant-gave-trump-aligned-super-pac-1-4-million-after-landing-mega-ice-contracts/",
-      "published": "2026-08-21T01:27:16+00:00",
-      "featured": false
-    },
-    {
       "id": "cecc12b2cd13",
       "source": "404 Media",
       "headline": "'Darth Vader' Wants Flock in San Diego",
@@ -353,21 +353,21 @@
       "featured": false
     },
     {
+      "id": "8fce3b6d7e9f",
+      "source": "Dropsite News",
+      "headline": "U.S. national debt tops $40 trillion; Russian strikes kill 16 in Ukraine; Ecuador’s intelligence chief killed in Kenya helicopter crash",
+      "excerpt": "Drop Site Daily: August 20, 2026",
+      "link": "https://www.dropsitenews.com/p/us-national-debt-russia-ukraine-kyiv-ecuador-intelligence-chief-helicopter-crash",
+      "published": "2026-08-20T15:21:11+00:00",
+      "featured": false
+    },
+    {
       "id": "1f331a4b2c10",
       "source": "OCCRP",
       "headline": "Liberia Charges Ex-Vice President in Transnational Drug Probe",
       "excerpt": "Former Vice President Jewel Howard-Taylor faces drug trafficking and money laundering charges tied to a record $317 million cocaine seizure.",
       "link": "https://www.occrp.org/en/news/liberia-charges-ex-vice-president-in-transnational-drug-probe",
       "published": "2026-08-20T13:58:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "b5d2351b2d4b",
-      "source": "Dropsite News",
-      "headline": "U.S.-Registered Drone Detected at Site of Suspected CIA Boat Strike",
-      "excerpt": "A drone registered to U.S. defense contractor Shield AI flew within 500 meters of Ecuadorian fishing boat hours after attack, according to flight data.",
-      "link": "https://www.dropsitenews.com/p/drone-boat-strike-cia-ecuador-shield-ai",
-      "published": "2026-08-19T17:10:54+00:00",
       "featured": false
     },
     {
@@ -398,12 +398,12 @@
       "featured": false
     },
     {
-      "id": "e75c35e2de40",
+      "id": "458b8ce00fdd",
       "source": "Al Jazeera",
-      "headline": "Why Israeli settler attacks on Palestinians in West Bank are pogroms",
-      "excerpt": "Waves of settler attacks, aided by Israel's military, increasingly fit the definition of a pogrom.",
-      "link": "https://www.aljazeera.com/features/2026/8/24/why-israeli-settler-attacks-on-palestinians-in-west-bank-are-pogroms?traffic_source=rss",
-      "published": "2026-08-24T15:02:34+00:00",
+      "headline": "Japanese delegation seeks to soothe strained ties with China",
+      "excerpt": "A cross-party delegation lands in Beijing as Tokyo tries to defrost its worst China rift in decades.",
+      "link": "https://www.aljazeera.com/news/2026/8/24/japanese-delegation-seeks-to-soothe-strained-ties-with-china?traffic_source=rss",
+      "published": "2026-08-24T17:16:10+00:00",
       "featured": false
     },
     {
@@ -416,12 +416,12 @@
       "featured": false
     },
     {
-      "id": "1fbde9191ef4",
+      "id": "b142e92c1e4a",
       "source": "The Lever",
-      "headline": "Days After The Lever Revealed His AI Investments, Mike Rogers Flipped On Data Centers",
-      "excerpt": "The GOP Michigan Senate candidate now supports a one-year moratorium on data center construction in the Wolverine State.",
-      "link": "https://www.levernews.com/days-after-the-lever-revealed-his-ai-investments-mike-rogers-flipped-on-data-centers/",
-      "published": "2026-08-20T20:44:29+00:00",
+      "headline": "Private Prison Giant Gave Trump-aligned Super PAC $1.4 Million After Landing Mega ICE Contracts",
+      "excerpt": "GEO Group made the donation weeks after securing two five-year immigration detention-center contracts expected to generate more than $160 million annually.",
+      "link": "https://www.levernews.com/private-prison-giant-gave-trump-aligned-super-pac-1-4-million-after-landing-mega-ice-contracts/",
+      "published": "2026-08-21T01:27:16+00:00",
       "featured": false
     },
     {
@@ -452,12 +452,12 @@
       "featured": false
     },
     {
-      "id": "3fcdb39d79ea",
+      "id": "b5d2351b2d4b",
       "source": "Dropsite News",
-      "headline": "Israeli strikes on Gaza kill 17 Palestinians; Tuesday’s primary results; Liberia to take 1,200 deportees from the U.S.",
-      "excerpt": "Drop Site Daily: August 19, 2026",
-      "link": "https://www.dropsitenews.com/p/israel-gaza-strikes-tuesday-primary-florida-liberia-us-deportees",
-      "published": "2026-08-19T15:52:18+00:00",
+      "headline": "U.S.-Registered Drone Detected at Site of Suspected CIA Boat Strike",
+      "excerpt": "A drone registered to U.S. defense contractor Shield AI flew within 500 meters of Ecuadorian fishing boat hours after attack, according to flight data.",
+      "link": "https://www.dropsitenews.com/p/drone-boat-strike-cia-ecuador-shield-ai",
+      "published": "2026-08-19T17:10:54+00:00",
       "featured": false
     },
     {
@@ -488,12 +488,21 @@
       "featured": false
     },
     {
-      "id": "74f456196954",
+      "id": "7d11bc70c887",
       "source": "Al Jazeera",
-      "headline": "Houses set on fire as fresh violence erupts in India’s Manipur",
-      "excerpt": "Several houses were set ablaze in India’s Manipur state, followed by gunfire between two groups.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/houses-set-on-fire-as-fresh-violence-erupts-in-indias-manipur?traffic_source=rss",
-      "published": "2026-08-24T14:48:53+00:00",
+      "headline": "Trump administration announces ‘economic D-day’ sanctions on Iran",
+      "excerpt": "Treasury Secretary Scott Bessent says US sanctions will intensify to choke off Iran's revenues and isolate the country.",
+      "link": "https://www.aljazeera.com/news/2026/8/24/trump-administration-announces-global-economic-war-on-iran?traffic_source=rss",
+      "published": "2026-08-24T17:10:37+00:00",
+      "featured": false
+    },
+    {
+      "id": "1fbde9191ef4",
+      "source": "The Lever",
+      "headline": "Days After The Lever Revealed His AI Investments, Mike Rogers Flipped On Data Centers",
+      "excerpt": "The GOP Michigan Senate candidate now supports a one-year moratorium on data center construction in the Wolverine State.",
+      "link": "https://www.levernews.com/days-after-the-lever-revealed-his-ai-investments-mike-rogers-flipped-on-data-centers/",
+      "published": "2026-08-20T20:44:29+00:00",
       "featured": false
     },
     {
@@ -503,15 +512,6 @@
       "excerpt": "High-profile firings show that none of the Israeli spy agency's promises about the war with Iran have come to pass. The post The Mossad Suffers a Crushing Defeat Entirely of Its Own Making appeared first on The...",
       "link": "https://theintercept.com/2026/08/20/israel-iran-war-mossad-firings/",
       "published": "2026-08-20T19:06:16+00:00",
-      "featured": false
-    },
-    {
-      "id": "bc9cd32e4b15",
-      "source": "The Lever",
-      "headline": "Deploying To SCOTUS: Big Oil’s Dark Money Army",
-      "excerpt": "Right-wing dark money groups and Big Oil are pressuring the Supreme Court to shield the fossil fuel industry from paying for climate change-related damages.",
-      "link": "https://www.levernews.com/deploying-to-scotus-big-oils-dark-money-army/",
-      "published": "2026-08-20T18:50:27+00:00",
       "featured": false
     },
     {
