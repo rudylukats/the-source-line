@@ -1,14 +1,41 @@
 {
-  "generated_at": "2026-08-24T13:13:45.268994+00:00",
+  "generated_at": "2026-08-24T15:56:22.682982+00:00",
   "articles": [
     {
-      "id": "e7a3aa8e7c21",
+      "id": "c2be627a3744",
       "source": "Al Jazeera",
-      "headline": "‘Barrel bomb mufti’ sentenced to life in Syria",
-      "excerpt": "‘Barrel bomb mufti’ sentenced to life in Syria",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/barrel-bomb-mufti-sentenced-to-life-in-syria?traffic_source=rss",
-      "published": "2026-08-24T13:02:44+00:00",
+      "headline": "Are humanoid robots the future of warfare?",
+      "excerpt": "Humanoid robots are breaking world records in sports, and are increasingly being developed and tested for military use.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/are-humanoid-robots-the-future-of-warfare?traffic_source=rss",
+      "published": "2026-08-24T15:30:54+00:00",
       "featured": true
+    },
+    {
+      "id": "5aed00859fdc",
+      "source": "OCCRP",
+      "headline": "Europol Warns of Violent Shift in European Museum Heists",
+      "excerpt": "A new Europol report reveals that criminal gangs in Europe are increasingly turning to violent, direct force to breach museums as they target precious metals and jewels that can be easily liquidated.",
+      "link": "https://www.occrp.org/en/news/europol-warns-of-violent-shift-in-european-museum-heists",
+      "published": "2026-08-24T15:28:00+00:00",
+      "featured": true
+    },
+    {
+      "id": "75bbae1b928f",
+      "source": "More Perfect Union",
+      "headline": "We Investigated Uber Again. It’s Worse Than Last Time.",
+      "excerpt": "The scheme making your Uber rides so expensive.",
+      "link": "https://substack.perfectunion.us/p/we-investigated-uber-again-its-worse",
+      "published": "2026-08-24T14:56:24+00:00",
+      "featured": true
+    },
+    {
+      "id": "7feae30336a4",
+      "source": "404 Media",
+      "headline": "How a Network of Volunteers Is Liberating Critical Court Records for Everyone",
+      "excerpt": "Habeas Dockets are publishing immigration court records that normally aren't available online.",
+      "link": "https://www.404media.co/how-a-network-of-volunteers-is-liberating-critical-court-records-for-everyone/",
+      "published": "2026-08-24T14:48:33+00:00",
+      "featured": false
     },
     {
       "id": "0f968e7967fc",
@@ -17,7 +44,7 @@
       "excerpt": "The post His Research on Pregnant Opioid Users Was Widely Celebrated. Auditors and Experts Found Major Flaws. appeared first on ProPublica.",
       "link": "https://www.propublica.org/article/craig-towers-knoxville-tennessee-newborn-withdrawal-study",
       "published": "2026-08-24T10:00:00+00:00",
-      "featured": true
+      "featured": false
     },
     {
       "id": "9feee1893cca",
@@ -26,7 +53,7 @@
       "excerpt": "Attacks on the country’s banks, aviation, and energy systems have climbed since the war with Iran began. Its answer is a homegrown AI security industry.",
       "link": "https://restofworld.org/2026/uae-ai-cyberattacks-cyber-factory-defenses/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "published": "2026-08-24T10:00:00+00:00",
-      "featured": true
+      "featured": false
     },
     {
       "id": "78c3895aa4e3",
@@ -44,15 +71,6 @@
       "excerpt": "Politically dicey investment portfolios, social media mega-banks, and more from The Lever this week.",
       "link": "https://www.levernews.com/lever-weekly-the-data-center-plot-twist/",
       "published": "2026-08-23T13:05:49+00:00",
-      "featured": false
-    },
-    {
-      "id": "55f8faa5526c",
-      "source": "404 Media",
-      "headline": "Brand Hype Has Existed Since the Bronze Age, Scientists Discover",
-      "excerpt": "The Qurayyah Painted Ware of Bronze Age Arabia had distinct visual identity, material consistency, technological continuity, and cultural reputation—all features of a commodified brand, scientists say.",
-      "link": "https://www.404media.co/brand-hype-has-existed-since-the-bronze-age-scientists-discover/",
-      "published": "2026-08-22T10:00:35+00:00",
       "featured": false
     },
     {
@@ -74,30 +92,12 @@
       "featured": false
     },
     {
-      "id": "1f331a4b2c10",
-      "source": "OCCRP",
-      "headline": "Liberia Charges Ex-Vice President in Transnational Drug Probe",
-      "excerpt": "Former Vice President Jewel Howard-Taylor faces drug trafficking and money laundering charges tied to a record $317 million cocaine seizure.",
-      "link": "https://www.occrp.org/en/news/liberia-charges-ex-vice-president-in-transnational-drug-probe",
-      "published": "2026-08-20T13:58:00+00:00",
-      "featured": false
-    },
-    {
       "id": "20326a28e45c",
       "source": "ICIJ",
       "headline": "Despite years of confiscations, the Met still holds hundreds of pieces linked to alleged trafficking and looting figures",
       "excerpt": "Museum says it wants no stolen artwork and that it has initiated an expedited review of hundreds of works tied to specific dealers.",
       "link": "https://www.icij.org/investigations/hidden-treasures/despite-years-of-confiscations-the-met-still-holds-hundreds-of-pieces-linked-to-alleged-trafficking-and-looting-figures/",
       "published": "2026-08-20T11:54:56+00:00",
-      "featured": false
-    },
-    {
-      "id": "c05386da40a0",
-      "source": "More Perfect Union",
-      "headline": "We Uncovered Where Your Insurance Payments Are Really Going",
-      "excerpt": "Insurance companies claim higher prices are justified by higher risks, but we found they are keeping more of our premium dollars than ever.",
-      "link": "https://substack.perfectunion.us/p/we-uncovered-where-your-insurance",
-      "published": "2026-08-14T20:47:37+00:00",
       "featured": false
     },
     {
@@ -110,12 +110,21 @@
       "featured": false
     },
     {
-      "id": "3f64ce7515aa",
+      "id": "12482e4bcaf5",
       "source": "Al Jazeera",
-      "headline": "Saudi Arabia’s MBS visits Macron in France: What to expect",
-      "excerpt": "Saudi crown prince and French president are set to sign several agreements on health, transport and energy.",
-      "link": "https://www.aljazeera.com/news/2026/8/24/saudi-arabias-mbs-visits-macron-in-france-what-to-expect?traffic_source=rss",
-      "published": "2026-08-24T12:59:55+00:00",
+      "headline": "Video: Russia launches rocket into space with military satellite",
+      "excerpt": "Russia says it has launched a military satellite into space on the back of a Soyuz-2.1 rocket from Arkhangelsk.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/video-russia-launches-rocket-into-space-with-military-satellite?traffic_source=rss",
+      "published": "2026-08-24T15:29:14+00:00",
+      "featured": false
+    },
+    {
+      "id": "698b6769556e",
+      "source": "OCCRP",
+      "headline": "Philippines Arrests South Korean Woman Over Alleged $3.9B Online Gambling Operation",
+      "excerpt": "",
+      "link": "https://www.occrp.org/en/news/philippines-arrests-south-korean-woman-over-alleged-39b-online-gambling-operation",
+      "published": "2026-08-24T14:22:00+00:00",
       "featured": false
     },
     {
@@ -146,12 +155,12 @@
       "featured": false
     },
     {
-      "id": "e273b1a86297",
+      "id": "55f8faa5526c",
       "source": "404 Media",
-      "headline": "Behind the Blog: Early Birthday Reflections",
-      "excerpt": "This week, we discuss our party and panel coming up, and do some light reminiscing.",
-      "link": "https://www.404media.co/behind-the-blog-early-birthday-reflections/",
-      "published": "2026-08-21T14:54:35+00:00",
+      "headline": "Brand Hype Has Existed Since the Bronze Age, Scientists Discover",
+      "excerpt": "The Qurayyah Painted Ware of Bronze Age Arabia had distinct visual identity, material consistency, technological continuity, and cultural reputation—all features of a commodified brand, scientists say.",
+      "link": "https://www.404media.co/brand-hype-has-existed-since-the-bronze-age-scientists-discover/",
+      "published": "2026-08-22T10:00:35+00:00",
       "featured": false
     },
     {
@@ -173,12 +182,12 @@
       "featured": false
     },
     {
-      "id": "14139ae548b7",
-      "source": "OCCRP",
-      "headline": "Zelenskyy Dismisses Senior Aide Suspected in $3.3 Million Money Laundering Case",
-      "excerpt": "Ukrainian investigators say senior officials and lawmakers used a state-owned bank and shell companies to launder criminal proceeds intended as bail in a separate corruption case. Iryna Mudra says investigators’...",
-      "link": "https://www.occrp.org/en/news/zelenskyy-dismisses-senior-aide-suspected-in-33-million-money-laundering-case",
-      "published": "2026-08-20T13:53:00+00:00",
+      "id": "c05386da40a0",
+      "source": "More Perfect Union",
+      "headline": "We Uncovered Where Your Insurance Payments Are Really Going",
+      "excerpt": "Insurance companies claim higher prices are justified by higher risks, but we found they are keeping more of our premium dollars than ever.",
+      "link": "https://substack.perfectunion.us/p/we-uncovered-where-your-insurance",
+      "published": "2026-08-14T20:47:37+00:00",
       "featured": false
     },
     {
@@ -191,15 +200,6 @@
       "featured": false
     },
     {
-      "id": "d6ff7788bec9",
-      "source": "More Perfect Union",
-      "headline": "The Data Center Secret in Trump’s Financial Disclosures",
-      "excerpt": "It’s not just Big Tech donors getting rich off pro-AI policies — we followed the money back to Trump himself.",
-      "link": "https://substack.perfectunion.us/p/the-data-center-secret-in-trumps",
-      "published": "2026-08-12T20:43:37+00:00",
-      "featured": false
-    },
-    {
       "id": "fde6a5053370",
       "source": "Bellingcat",
       "headline": "Welcome to Dubai: Kinahan Cartel’s Visas Revealed",
@@ -209,12 +209,21 @@
       "featured": false
     },
     {
-      "id": "c55ad64c85d7",
+      "id": "a0205bcb1bf2",
       "source": "Al Jazeera",
-      "headline": "Four arrested over fatal shooting of South African boxer Zolani Tete",
-      "excerpt": "Tete, who won world WBF flyweight and WBO bantamweight titles, was killed outside his home in Eastern Cape last week.",
-      "link": "https://www.aljazeera.com/sports/2026/8/24/four-arrested-over-fatal-shooting-of-south-african-boxer-zolani-tete?traffic_source=rss",
-      "published": "2026-08-24T12:48:53+00:00",
+      "headline": "UK to help Ukraine build Storm Shadow long-range missiles: Why it matters",
+      "excerpt": "The UK's willingness to share classified missile-production knowledge sets a potentially important precedent.",
+      "link": "https://www.aljazeera.com/news/2026/8/24/uk-to-help-ukraine-build-storm-shadow-long-range-missiles-why-it-matters?traffic_source=rss",
+      "published": "2026-08-24T15:17:36+00:00",
+      "featured": false
+    },
+    {
+      "id": "ac412f4a685f",
+      "source": "OCCRP",
+      "headline": "Moscow Funds Pro-Kremlin Influence Hub in Belarus",
+      "excerpt": "Leaked records show Moscow authorities have spent hundreds of thousands of dollars maintaining and running events at the House of Moscow in Minsk, a hub for pro-Kremlin groups and “Russian world” messaging. Experts warn...",
+      "link": "https://www.occrp.org/en/news/moscow-funds-pro-kremlin-influence-hub-in-belarus",
+      "published": "2026-08-24T13:35:00+00:00",
       "featured": false
     },
     {
@@ -236,21 +245,21 @@
       "featured": false
     },
     {
+      "id": "e273b1a86297",
+      "source": "404 Media",
+      "headline": "Behind the Blog: Early Birthday Reflections",
+      "excerpt": "This week, we discuss our party and panel coming up, and do some light reminiscing.",
+      "link": "https://www.404media.co/behind-the-blog-early-birthday-reflections/",
+      "published": "2026-08-21T14:54:35+00:00",
+      "featured": false
+    },
+    {
       "id": "d809eaa8bae9",
       "source": "ProPublica",
       "headline": "Missouri Republicans Are Trying to Repeal Abortion Rights by Leaning Into Anti-Trans Sentiment",
       "excerpt": "The post Missouri Republicans Are Trying to Repeal Abortion Rights by Leaning Into Anti-Trans Sentiment appeared first on ProPublica.",
       "link": "https://www.propublica.org/article/missouri-abortion-gender-transition-minors-amendment-3",
       "published": "2026-08-21T10:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "cecc12b2cd13",
-      "source": "404 Media",
-      "headline": "'Darth Vader' Wants Flock in San Diego",
-      "excerpt": "\"The emperor is a fan of Flock, and we must continue utilizing Flock technologies so that we can follow and surveil the rebel scum,\" Vader said during the meeting.",
-      "link": "https://www.404media.co/darth-vader-spoke-in-support-of-flock-at-san-diego-city-council-meeting/",
-      "published": "2026-08-20T17:10:52+00:00",
       "featured": false
     },
     {
@@ -272,21 +281,12 @@
       "featured": false
     },
     {
-      "id": "511a376eac13",
-      "source": "OCCRP",
-      "headline": "French Authorities Investigate Widespread Government Data Breaches",
-      "excerpt": "",
-      "link": "https://www.occrp.org/en/news/french-authorities-investigate-widespread-government-data-breaches",
-      "published": "2026-08-20T08:15:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "cd9cf5906c40",
+      "id": "d6ff7788bec9",
       "source": "More Perfect Union",
-      "headline": "Everyone Is Fighting About The Wrong Data Center Water Numbers",
-      "excerpt": "We went to the drought-stricken West, where farmers now have to fight AI oligarchs for water.",
-      "link": "https://substack.perfectunion.us/p/everyone-is-fighting-about-the-wrong",
-      "published": "2026-08-12T20:42:54+00:00",
+      "headline": "The Data Center Secret in Trump’s Financial Disclosures",
+      "excerpt": "It’s not just Big Tech donors getting rich off pro-AI policies — we followed the money back to Trump himself.",
+      "link": "https://substack.perfectunion.us/p/the-data-center-secret-in-trumps",
+      "published": "2026-08-12T20:43:37+00:00",
       "featured": false
     },
     {
@@ -308,12 +308,12 @@
       "featured": false
     },
     {
-      "id": "cde3c383988b",
+      "id": "3f1dbbf7e694",
       "source": "Al Jazeera",
-      "headline": "South Korea says US cancelled upcoming joint marine exercises over Iran war",
-      "excerpt": "The cancellation follows Trump's surprise order last week to scale back a separate annual joint military drill.",
-      "link": "https://www.aljazeera.com/news/2026/8/24/south-korea-says-us-cancelled-upcoming-joint-marine-exercises-over-iran-war?traffic_source=rss",
-      "published": "2026-08-24T12:28:26+00:00",
+      "headline": "Samuel Eto’o urges support for embattled FIFA President Gianni Infantino",
+      "excerpt": "Former star striker, now head of Cameroon's FA, backs Infantino despite mounting pressure on him to resign.",
+      "link": "https://www.aljazeera.com/sports/2026/8/24/samuel-etoo-urges-support-for-embattled-fifa-president-gianni-infantino?traffic_source=rss",
+      "published": "2026-08-24T15:15:55+00:00",
       "featured": false
     },
     {
@@ -344,21 +344,21 @@
       "featured": false
     },
     {
-      "id": "15542bd92742",
+      "id": "cecc12b2cd13",
       "source": "404 Media",
-      "headline": "Subtlefakes: Slightly Altered Nonconsensual AI Images Are Taking Over X",
-      "excerpt": "Nonconsensual AI images are getting much harder to spot.",
-      "link": "https://www.404media.co/subtlefakes-slightly-altered-nonconsensual-ai-images-are-taking-over-x/",
-      "published": "2026-08-20T13:34:23+00:00",
+      "headline": "'Darth Vader' Wants Flock in San Diego",
+      "excerpt": "\"The emperor is a fan of Flock, and we must continue utilizing Flock technologies so that we can follow and surveil the rebel scum,\" Vader said during the meeting.",
+      "link": "https://www.404media.co/darth-vader-spoke-in-support-of-flock-at-san-diego-city-council-meeting/",
+      "published": "2026-08-20T17:10:52+00:00",
       "featured": false
     },
     {
-      "id": "1ad2c20802cf",
+      "id": "1f331a4b2c10",
       "source": "OCCRP",
-      "headline": "Interrogation Tapes Reveal Journalist Murder Suspect Pointing to Highest Levels of Maltese Power",
-      "excerpt": "Police interviews played for a Maltese jury show Yorgen Fenech accusing the prime minister’s chief of staff of ordering the 2017 car bombing of Daphne Caruana Galizia, while insisting his payments to the plot's...",
-      "link": "https://www.occrp.org/en/news/interrogation-tapes-reveal-journalist-murder-suspect-pointing-to-highest-levels-of-maltese-power",
-      "published": "2026-08-19T21:23:00+00:00",
+      "headline": "Liberia Charges Ex-Vice President in Transnational Drug Probe",
+      "excerpt": "Former Vice President Jewel Howard-Taylor faces drug trafficking and money laundering charges tied to a record $317 million cocaine seizure.",
+      "link": "https://www.occrp.org/en/news/liberia-charges-ex-vice-president-in-transnational-drug-probe",
+      "published": "2026-08-20T13:58:00+00:00",
       "featured": false
     },
     {
@@ -380,12 +380,12 @@
       "featured": false
     },
     {
-      "id": "1c89173c7837",
+      "id": "cd9cf5906c40",
       "source": "More Perfect Union",
-      "headline": "He Was a Blackwater Mercenary. Here’s Why He’s Worried about the Board of Peace.",
-      "excerpt": "Jared Kushner has a scheme to profit off world peace — and Gaza is the testing ground.",
-      "link": "https://substack.perfectunion.us/p/he-was-a-blackwater-mercenary-heres",
-      "published": "2026-08-11T14:50:26+00:00",
+      "headline": "Everyone Is Fighting About The Wrong Data Center Water Numbers",
+      "excerpt": "We went to the drought-stricken West, where farmers now have to fight AI oligarchs for water.",
+      "link": "https://substack.perfectunion.us/p/everyone-is-fighting-about-the-wrong",
+      "published": "2026-08-12T20:42:54+00:00",
       "featured": false
     },
     {
@@ -398,12 +398,12 @@
       "featured": false
     },
     {
-      "id": "d2fac473f39c",
+      "id": "e75c35e2de40",
       "source": "Al Jazeera",
-      "headline": "Activists occupy UK aircraft parts factory over Israel links",
-      "excerpt": "Pro-Palestine activists from the ‘People Against Genocide’ group occupied a Martin-Baker factory in the UK.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/activists-occupy-uk-aircraft-parts-factory-over-israel-links?traffic_source=rss",
-      "published": "2026-08-24T12:07:44+00:00",
+      "headline": "Why Israeli settler attacks on Palestinians in West Bank are pogroms",
+      "excerpt": "Waves of settler attacks, aided by Israel's military, increasingly fit the definition of a pogrom.",
+      "link": "https://www.aljazeera.com/features/2026/8/24/why-israeli-settler-attacks-on-palestinians-in-west-bank-are-pogroms?traffic_source=rss",
+      "published": "2026-08-24T15:02:34+00:00",
       "featured": false
     },
     {
@@ -425,12 +425,21 @@
       "featured": false
     },
     {
-      "id": "8aca504099ad",
+      "id": "14139ae548b7",
+      "source": "OCCRP",
+      "headline": "Zelenskyy Dismisses Senior Aide Suspected in $3.3 Million Money Laundering Case",
+      "excerpt": "Ukrainian investigators say senior officials and lawmakers used a state-owned bank and shell companies to launder criminal proceeds intended as bail in a separate corruption case. Iryna Mudra says investigators’...",
+      "link": "https://www.occrp.org/en/news/zelenskyy-dismisses-senior-aide-suspected-in-33-million-money-laundering-case",
+      "published": "2026-08-20T13:53:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "15542bd92742",
       "source": "404 Media",
-      "headline": "Township Fights Nuclear Weapons Data Center By Passing a Moratorium on Electrical Infrastructure",
-      "excerpt": "The six month moratorium on major electrical infrastructure projects is the latest tactic meant to delay the massive data center meant to support America’s nuclear weapons.",
-      "link": "https://www.404media.co/township-fights-nuclear-weapons-data-center-by-passing-a-moratorium-on-electrical-infrastructure/",
-      "published": "2026-08-20T13:12:03+00:00",
+      "headline": "Subtlefakes: Slightly Altered Nonconsensual AI Images Are Taking Over X",
+      "excerpt": "Nonconsensual AI images are getting much harder to spot.",
+      "link": "https://www.404media.co/subtlefakes-slightly-altered-nonconsensual-ai-images-are-taking-over-x/",
+      "published": "2026-08-20T13:34:23+00:00",
       "featured": false
     },
     {
@@ -452,15 +461,6 @@
       "featured": false
     },
     {
-      "id": "105807f6c318",
-      "source": "OCCRP",
-      "headline": "US Charges Eight More Iranians in Global Hacking Case",
-      "excerpt": "",
-      "link": "https://www.occrp.org/en/news/us-charges-eight-more-iranians-in-global-hacking-case",
-      "published": "2026-08-19T12:29:00+00:00",
-      "featured": false
-    },
-    {
       "id": "7550ff3c843c",
       "source": "Rest of World",
       "headline": "Ban on Chinese robots leaves U.S. startups stranded",
@@ -470,12 +470,12 @@
       "featured": false
     },
     {
-      "id": "4320a6670ca7",
+      "id": "1c89173c7837",
       "source": "More Perfect Union",
-      "headline": "The Most Powerful Tech Billionaire You've Never Heard Of",
-      "excerpt": "The biggest midterm spender warns against “playing God” while profiting from surveillance.",
-      "link": "https://substack.perfectunion.us/p/the-most-powerful-tech-billionaire",
-      "published": "2026-08-06T18:19:24+00:00",
+      "headline": "He Was a Blackwater Mercenary. Here’s Why He’s Worried about the Board of Peace.",
+      "excerpt": "Jared Kushner has a scheme to profit off world peace — and Gaza is the testing ground.",
+      "link": "https://substack.perfectunion.us/p/he-was-a-blackwater-mercenary-heres",
+      "published": "2026-08-11T14:50:26+00:00",
       "featured": false
     },
     {
@@ -488,12 +488,12 @@
       "featured": false
     },
     {
-      "id": "0edddf3cb96a",
+      "id": "74f456196954",
       "source": "Al Jazeera",
-      "headline": "Former NBA player Enes Kanter ejected after confrontation with WNBA’s Cloud",
-      "excerpt": "Kanter was ejected from the Indiana-Chicago WNBA game after he was confronted by Sky guard Natasha Cloud on court.",
-      "link": "https://www.aljazeera.com/sports/2026/8/24/former-nba-player-enes-kanter-ejected-after-confrontation-with-wnbas-cloud?traffic_source=rss",
-      "published": "2026-08-24T12:04:46+00:00",
+      "headline": "Houses set on fire as fresh violence erupts in India’s Manipur",
+      "excerpt": "Several houses were set ablaze in India’s Manipur state, followed by gunfire between two groups.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/houses-set-on-fire-as-fresh-violence-erupts-in-indias-manipur?traffic_source=rss",
+      "published": "2026-08-24T14:48:53+00:00",
       "featured": false
     },
     {
@@ -515,6 +515,15 @@
       "featured": false
     },
     {
+      "id": "8aca504099ad",
+      "source": "404 Media",
+      "headline": "Township Fights Nuclear Weapons Data Center By Passing a Moratorium on Electrical Infrastructure",
+      "excerpt": "The six month moratorium on major electrical infrastructure projects is the latest tactic meant to delay the massive data center meant to support America’s nuclear weapons.",
+      "link": "https://www.404media.co/township-fights-nuclear-weapons-data-center-by-passing-a-moratorium-on-electrical-infrastructure/",
+      "published": "2026-08-20T13:12:03+00:00",
+      "featured": false
+    },
+    {
       "id": "98fdd90484df",
       "source": "ProPublica",
       "headline": "What Parents Need to Know About Sexual Abuse in Youth Sports",
@@ -524,21 +533,12 @@
       "featured": false
     },
     {
-      "id": "ad1c0560301f",
-      "source": "404 Media",
-      "headline": "Podcast: Amazon is Destroying Rare Books to Train AI",
-      "excerpt": "Amazon buying and destroying rare books to train AI; a bunch of wild AI use in the courts; and Meta's new patent for its AI smart glasses.",
-      "link": "https://www.404media.co/podcast-amazon-is-destroying-rare-books-to-train-ai/",
-      "published": "2026-08-19T20:06:22+00:00",
-      "featured": false
-    },
-    {
-      "id": "cf2bead4ed95",
+      "id": "511a376eac13",
       "source": "OCCRP",
-      "headline": "Indonesia Seizes Record 2.6 Tons of Meth in Major Bust, 10 Arrested",
+      "headline": "French Authorities Investigate Widespread Government Data Breaches",
       "excerpt": "",
-      "link": "https://www.occrp.org/en/news/indonesia-seizes-record-26-tons-of-meth-in-major-bust-10-arrested",
-      "published": "2026-08-19T12:25:00+00:00",
+      "link": "https://www.occrp.org/en/news/french-authorities-investigate-widespread-government-data-breaches",
+      "published": "2026-08-20T08:15:00+00:00",
       "featured": false
     }
   ]
