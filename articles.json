@@ -1,14 +1,41 @@
 {
-  "generated_at": "2026-08-25T09:51:56.109195+00:00",
+  "generated_at": "2026-08-25T13:11:48.948602+00:00",
   "articles": [
     {
-      "id": "c866ae5f431c",
-      "source": "Al Jazeera",
-      "headline": "Kremlin adviser warns UK drone factories could face attacks",
-      "excerpt": "Russia says UK decision to share missile blueprints with Ukraine is evidence of direct military involvement in the war.",
-      "link": "https://www.aljazeera.com/news/2026/8/25/kremlin-adviser-warns-uk-drone-factories-could-face-attacks?traffic_source=rss",
-      "published": "2026-08-25T09:34:25+00:00",
+      "id": "e8b8bece7ceb",
+      "source": "OCCRP",
+      "headline": "Armenia Detains Ex-President Kocharyan in Corruption Probe",
+      "excerpt": "",
+      "link": "https://www.occrp.org/en/news/armenia-detains-ex-president-kocharyan-in-corruption-probe",
+      "published": "2026-08-25T12:38:00+00:00",
       "featured": true
+    },
+    {
+      "id": "22e19e2fa474",
+      "source": "Al Jazeera",
+      "headline": "UK to back Ukraine with missile blueprints amid Russia-Ukraine strikes",
+      "excerpt": "UK PM Andy Burnham visited Kyiv on his first foreign trip, pledging to give cruise missile designs to Ukraine.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/uk-to-back-ukraine-with-missile-blueprints-amid-russia-ukraine-strikes?traffic_source=rss",
+      "published": "2026-08-25T12:30:45+00:00",
+      "featured": true
+    },
+    {
+      "id": "60b533d765ac",
+      "source": "The Intercept",
+      "headline": "Local Cops Flout Sanctuary Law to Help ICE Deport Immigrants",
+      "excerpt": "Illinois law prohibits local collaboration with immigration enforcement officials, but the cops often find workarounds. The post Local Cops Flout Sanctuary Law to Help ICE Deport Immigrants appeared first on The...",
+      "link": "https://theintercept.com/2026/08/25/illinois-trust-act-ice-deport-police-collaboration/",
+      "published": "2026-08-25T11:00:00+00:00",
+      "featured": true
+    },
+    {
+      "id": "e64573182a05",
+      "source": "Rest of World",
+      "headline": "America’s immigration policy is driving away future AI leaders",
+      "excerpt": "Visa restrictions are deterring international AI talent from building companies in the U.S., giving other nations including China an opportunity to catch up.",
+      "link": "https://restofworld.org/2026/us-immigration-rules-ai-talent-china/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "published": "2026-08-25T10:00:00+00:00",
+      "featured": false
     },
     {
       "id": "3869ec33275c",
@@ -17,7 +44,7 @@
       "excerpt": "The post Children in a Faith-Healing Sect Keep Dying. The State Lets It Happen. appeared first on ProPublica.",
       "link": "https://www.propublica.org/article/faith-healing-idaho-deaths-followers-of-christ",
       "published": "2026-08-25T09:00:00+00:00",
-      "featured": true
+      "featured": false
     },
     {
       "id": "e33b12bbff3c",
@@ -26,7 +53,7 @@
       "excerpt": "Sign up here to receive Bellingcat’s biggest investigations by email as soon as they are published. A sanctioned vessel that was previously reported to have transported weapons destined for Russian mercenaries has been...",
       "link": "https://www.bellingcat.com/news/africa/2026/08/25/patria-sanctioned-russian-vessel-russia-us-africa-cameroon-gabon-lagos-nigeria/",
       "published": "2026-08-25T08:52:50+00:00",
-      "featured": true
+      "featured": false
     },
     {
       "id": "e17f0a36cc4b",
@@ -44,15 +71,6 @@
       "excerpt": "The $111 billion merger between Paramount and Warner Bros. Discovery could cause thousands of workers to lose their jobs, according to new research.",
       "link": "https://www.levernews.com/hollywoods-hangover/",
       "published": "2026-08-24T16:39:46+00:00",
-      "featured": false
-    },
-    {
-      "id": "5aed00859fdc",
-      "source": "OCCRP",
-      "headline": "Europol Warns of Violent Shift in European Museum Heists",
-      "excerpt": "A new Europol report reveals that criminal gangs in Europe are increasingly turning to violent, direct force to breach museums as they target precious metals and jewels that can be easily liquidated.",
-      "link": "https://www.occrp.org/en/news/europol-warns-of-violent-shift-in-european-museum-heists",
-      "published": "2026-08-24T15:28:00+00:00",
       "featured": false
     },
     {
@@ -74,24 +92,6 @@
       "featured": false
     },
     {
-      "id": "9feee1893cca",
-      "source": "Rest of World",
-      "headline": "The UAE is fighting AI hackers with AI of its own",
-      "excerpt": "Attacks on the country’s banks, aviation, and energy systems have climbed since the war with Iran began. Its answer is a homegrown AI security industry.",
-      "link": "https://restofworld.org/2026/uae-ai-cyberattacks-cyber-factory-defenses/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-      "published": "2026-08-24T10:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "78c3895aa4e3",
-      "source": "The Intercept",
-      "headline": "Pentagon Spokesperson Admits There’s a Secret Blacklist of Journalists",
-      "excerpt": "When pressed about the Iran war, a CENTCOM press official threatened to put an Intercept reporter on a “list of people to disregard.” The post Pentagon Spokesperson Admits There’s a Secret Blacklist of Journalists...",
-      "link": "https://theintercept.com/2026/08/24/pentagon-military-journalist-blacklist-press-media/",
-      "published": "2026-08-24T09:52:00+00:00",
-      "featured": false
-    },
-    {
       "id": "20326a28e45c",
       "source": "ICIJ",
       "headline": "Despite years of confiscations, the Met still holds hundreds of pieces linked to alleged trafficking and looting figures",
@@ -110,12 +110,21 @@
       "featured": false
     },
     {
-      "id": "d4b8d3afde2f",
+      "id": "bfa9faad9697",
       "source": "Al Jazeera",
-      "headline": "Who are Iran’s top trading partners US would need to target to isolate it?",
-      "excerpt": "The US wants to isolate Iran from the global economy. Here is who Tehran trades with, and how much is at stake.",
-      "link": "https://www.aljazeera.com/news/2026/8/25/who-are-irans-top-trading-partners-us-would-need-to-target-to-isolate-it?traffic_source=rss",
-      "published": "2026-08-25T09:23:05+00:00",
+      "headline": "How water becomes a weapon of war",
+      "excerpt": "A Palestinian spring now fills a swimming pool that belongs to Israeli settlers. AJLabs on how water became a weapon.",
+      "link": "https://www.aljazeera.com/video/by-the-numbers-3/2026/8/25/how-water-becomes-a-weapon-of-war?traffic_source=rss",
+      "published": "2026-08-25T12:20:37+00:00",
+      "featured": false
+    },
+    {
+      "id": "613619def0bf",
+      "source": "OCCRP",
+      "headline": "Kazakhstan’s Election Brings a New Parliament — and More Pressure on Journalists",
+      "excerpt": "President Kassym-Jomart Tokayev’s allies dominated the vote as independent observers raised concerns over a campaign marked by restrictions on critical voices.",
+      "link": "https://www.occrp.org/en/news/kazakhstans-election-brings-a-new-parliament-and-more-pressure-on-journalists",
+      "published": "2026-08-25T11:54:00+00:00",
       "featured": false
     },
     {
@@ -128,21 +137,30 @@
       "featured": false
     },
     {
-      "id": "698b6769556e",
-      "source": "OCCRP",
-      "headline": "Philippines Arrests South Korean Woman Over Alleged $3.9B Online Gambling Operation",
-      "excerpt": "",
-      "link": "https://www.occrp.org/en/news/philippines-arrests-south-korean-woman-over-alleged-39b-online-gambling-operation",
-      "published": "2026-08-24T14:22:00+00:00",
-      "featured": false
-    },
-    {
       "id": "0f968e7967fc",
       "source": "ProPublica",
       "headline": "His Research on Pregnant Opioid Users Was Widely Celebrated. Auditors and Experts Found Major Flaws.",
       "excerpt": "The post His Research on Pregnant Opioid Users Was Widely Celebrated. Auditors and Experts Found Major Flaws. appeared first on ProPublica.",
       "link": "https://www.propublica.org/article/craig-towers-knoxville-tennessee-newborn-withdrawal-study",
       "published": "2026-08-24T10:00:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "9feee1893cca",
+      "source": "Rest of World",
+      "headline": "The UAE is fighting AI hackers with AI of its own",
+      "excerpt": "Attacks on the country’s banks, aviation, and energy systems have climbed since the war with Iran began. Its answer is a homegrown AI security industry.",
+      "link": "https://restofworld.org/2026/uae-ai-cyberattacks-cyber-factory-defenses/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "published": "2026-08-24T10:00:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "78c3895aa4e3",
+      "source": "The Intercept",
+      "headline": "Pentagon Spokesperson Admits There’s a Secret Blacklist of Journalists",
+      "excerpt": "When pressed about the Iran war, a CENTCOM press official threatened to put an Intercept reporter on a “list of people to disregard.” The post Pentagon Spokesperson Admits There’s a Secret Blacklist of Journalists...",
+      "link": "https://theintercept.com/2026/08/24/pentagon-military-journalist-blacklist-press-media/",
+      "published": "2026-08-24T09:52:00+00:00",
       "featured": false
     },
     {
@@ -155,30 +173,12 @@
       "featured": false
     },
     {
-      "id": "ac6c9617f0fe",
-      "source": "The Intercept",
-      "headline": "The Dawn of a New Cold War",
-      "excerpt": "The growing tension between the United States and China boils down to a battle over resources. The post The Dawn of a New Cold War appeared first on The Intercept.",
-      "link": "https://theintercept.com/2026/08/23/trump-china-ai-chips-rare-earth/",
-      "published": "2026-08-23T10:10:00+00:00",
-      "featured": false
-    },
-    {
       "id": "55f8faa5526c",
       "source": "404 Media",
       "headline": "Brand Hype Has Existed Since the Bronze Age, Scientists Discover",
       "excerpt": "The Qurayyah Painted Ware of Bronze Age Arabia had distinct visual identity, material consistency, technological continuity, and cultural reputation—all features of a commodified brand, scientists say.",
       "link": "https://www.404media.co/brand-hype-has-existed-since-the-bronze-age-scientists-discover/",
       "published": "2026-08-22T10:00:35+00:00",
-      "featured": false
-    },
-    {
-      "id": "3e61b4c991bc",
-      "source": "Rest of World",
-      "headline": "A dumpling shop becomes a poster child of AI adoption in China",
-      "excerpt": "Business owner quotes Deng Xiaoping as motivator: “Science and technology are a primary productive force.”",
-      "link": "https://restofworld.org/2026/china-ai-adoption-jinguyuan/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-      "published": "2026-08-21T13:00:00+00:00",
       "featured": false
     },
     {
@@ -209,21 +209,21 @@
       "featured": false
     },
     {
-      "id": "d36faf84344a",
+      "id": "0dc55ec2c1fe",
       "source": "Al Jazeera",
-      "headline": "‘Enough is enough’: Kenya nurses strike over pay and working conditions",
-      "excerpt": "Shiru Kihara, a nurse in Kenya, explains why she and thousands of other nurses are on strike demanding fair pay.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/enough-is-enough-kenya-nurses-strike-over-pay-and-working-conditions?traffic_source=rss",
-      "published": "2026-08-25T09:05:54+00:00",
+      "headline": "Rwanda accuses DR Congo of supporting an armed group on its soil",
+      "excerpt": "Rwanda says FDLR threat justifies its continued involvement in eastern DRC, as efforts to verify a ceasefire advance.",
+      "link": "https://www.aljazeera.com/news/2026/8/25/rwanda-accuses-dr-congo-of-supporting-an-armed-group-on-its-soil?traffic_source=rss",
+      "published": "2026-08-25T12:17:56+00:00",
       "featured": false
     },
     {
-      "id": "ac412f4a685f",
+      "id": "5aed00859fdc",
       "source": "OCCRP",
-      "headline": "Moscow Funds Pro-Kremlin Influence Hub in Belarus",
-      "excerpt": "Leaked records show Moscow authorities have spent hundreds of thousands of dollars maintaining and running events at the House of Moscow in Minsk, a hub for pro-Kremlin groups and “Russian world” messaging. Experts warn...",
-      "link": "https://www.occrp.org/en/news/moscow-funds-pro-kremlin-influence-hub-in-belarus",
-      "published": "2026-08-24T13:35:00+00:00",
+      "headline": "Europol Warns of Violent Shift in European Museum Heists",
+      "excerpt": "A new Europol report reveals that criminal gangs in Europe are increasingly turning to violent, direct force to breach museums as they target precious metals and jewels that can be easily liquidated.",
+      "link": "https://www.occrp.org/en/news/europol-warns-of-violent-shift-in-european-museum-heists",
+      "published": "2026-08-24T15:28:00+00:00",
       "featured": false
     },
     {
@@ -236,21 +236,21 @@
       "featured": false
     },
     {
+      "id": "ac6c9617f0fe",
+      "source": "The Intercept",
+      "headline": "The Dawn of a New Cold War",
+      "excerpt": "The growing tension between the United States and China boils down to a battle over resources. The post The Dawn of a New Cold War appeared first on The Intercept.",
+      "link": "https://theintercept.com/2026/08/23/trump-china-ai-chips-rare-earth/",
+      "published": "2026-08-23T10:10:00+00:00",
+      "featured": false
+    },
+    {
       "id": "b03722e72116",
       "source": "The Lever",
       "headline": "You Love To See It: Hot Subway Summer",
       "excerpt": "Your commute gets renewable, paddles win out over profits, whales catch a break, and Big Bend fights back.",
       "link": "https://www.levernews.com/you-love-to-see-it-hot-subway-summer/",
       "published": "2026-08-22T13:03:14+00:00",
-      "featured": false
-    },
-    {
-      "id": "633a43c86877",
-      "source": "The Intercept",
-      "headline": "RIP to the Russiagate Liberals",
-      "excerpt": "With Alex Vindman and George Conway’s losses, Democratic voters are forcefully rejecting the notion that Russia is to blame for America’s ills. The post RIP to the Russiagate Liberals appeared first on The Intercept.",
-      "link": "https://theintercept.com/2026/08/22/russiagate-resistance-liberals-alex-vindman-angie-nixon/",
-      "published": "2026-08-22T10:21:00+00:00",
       "featured": false
     },
     {
@@ -272,12 +272,12 @@
       "featured": false
     },
     {
-      "id": "d17657aec8c4",
+      "id": "3e61b4c991bc",
       "source": "Rest of World",
-      "headline": "“It’s laughable”: Global AI experts challenge Zuckerberg’s “AI for everyone”",
-      "excerpt": "Observers scrutinize Meta founder’s argument about AI’s potential as an equalizer and enabler.",
-      "link": "https://restofworld.org/2026/mark-zuckerberg-meta-ai-for-everyone-manifesto-global-critique/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-      "published": "2026-08-20T10:00:00+00:00",
+      "headline": "A dumpling shop becomes a poster child of AI adoption in China",
+      "excerpt": "Business owner quotes Deng Xiaoping as motivator: “Science and technology are a primary productive force.”",
+      "link": "https://restofworld.org/2026/china-ai-adoption-jinguyuan/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "published": "2026-08-21T13:00:00+00:00",
       "featured": false
     },
     {
@@ -308,12 +308,30 @@
       "featured": false
     },
     {
-      "id": "9e9b26673d48",
+      "id": "a522eaabf2fd",
       "source": "Al Jazeera",
-      "headline": "Nvidia, Supermicro employees charged over export of AI servers to China",
-      "excerpt": "Taiwanese authorities indict nine people over alleged chip smuggling scheme.",
-      "link": "https://www.aljazeera.com/economy/2026/8/25/nvidia-supermicro-employees-charged-over-export-of-ai-servers-to-china?traffic_source=rss",
-      "published": "2026-08-25T08:51:48+00:00",
+      "headline": "Rohingya refugees demand justice, dignity at Cox’s Bazar protest",
+      "excerpt": "The United Council of Rohingya refugee group says it organised the protest to highlight 'ongoing humanitarian crisis'.",
+      "link": "https://www.aljazeera.com/news/2026/8/25/rohingya-refugees-demand-justice-dignity-at-coxs-bazar-protest?traffic_source=rss",
+      "published": "2026-08-25T12:15:19+00:00",
+      "featured": false
+    },
+    {
+      "id": "698b6769556e",
+      "source": "OCCRP",
+      "headline": "Philippines Arrests South Korean Woman Over Alleged $3.9B Online Gambling Operation",
+      "excerpt": "",
+      "link": "https://www.occrp.org/en/news/philippines-arrests-south-korean-woman-over-alleged-39b-online-gambling-operation",
+      "published": "2026-08-24T14:22:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "633a43c86877",
+      "source": "The Intercept",
+      "headline": "RIP to the Russiagate Liberals",
+      "excerpt": "With Alex Vindman and George Conway’s losses, Democratic voters are forcefully rejecting the notion that Russia is to blame for America’s ills. The post RIP to the Russiagate Liberals appeared first on The Intercept.",
+      "link": "https://theintercept.com/2026/08/22/russiagate-resistance-liberals-alex-vindman-angie-nixon/",
+      "published": "2026-08-22T10:21:00+00:00",
       "featured": false
     },
     {
@@ -331,15 +349,6 @@
       "headline": "Missouri Republicans Are Trying to Repeal Abortion Rights by Leaning Into Anti-Trans Sentiment",
       "excerpt": "The post Missouri Republicans Are Trying to Repeal Abortion Rights by Leaning Into Anti-Trans Sentiment appeared first on ProPublica.",
       "link": "https://www.propublica.org/article/missouri-abortion-gender-transition-minors-amendment-3",
-      "published": "2026-08-21T10:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "df67a3da60cc",
-      "source": "The Intercept",
-      "headline": "What American Doctors Saw in Gaza",
-      "excerpt": "A new documentary follows three physicians facing the odds: limited medical supplies, Israeli bombing, and upon returning home, media bias and indifference. The post What American Doctors Saw in Gaza appeared first on...",
-      "link": "https://theintercept.com/2026/08/21/gaza-hospitals-american-doctor-documentary/",
       "published": "2026-08-21T10:00:00+00:00",
       "featured": false
     },
@@ -362,21 +371,12 @@
       "featured": false
     },
     {
-      "id": "1f331a4b2c10",
-      "source": "OCCRP",
-      "headline": "Liberia Charges Ex-Vice President in Transnational Drug Probe",
-      "excerpt": "Former Vice President Jewel Howard-Taylor faces drug trafficking and money laundering charges tied to a record $317 million cocaine seizure.",
-      "link": "https://www.occrp.org/en/news/liberia-charges-ex-vice-president-in-transnational-drug-probe",
-      "published": "2026-08-20T13:58:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "85dda370dfda",
+      "id": "d17657aec8c4",
       "source": "Rest of World",
-      "headline": "Chinese carmakers now sell one EV abroad for every two at home",
-      "excerpt": "Dwindling sales at home are pushing the cars toward Brazil, Thailand, and the Gulf.",
-      "link": "https://restofworld.org/2026/china-ev-exports-overcapacity-global-markets/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-      "published": "2026-08-18T10:00:00+00:00",
+      "headline": "“It’s laughable”: Global AI experts challenge Zuckerberg’s “AI for everyone”",
+      "excerpt": "Observers scrutinize Meta founder’s argument about AI’s potential as an equalizer and enabler.",
+      "link": "https://restofworld.org/2026/mark-zuckerberg-meta-ai-for-everyone-manifesto-global-critique/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "published": "2026-08-20T10:00:00+00:00",
       "featured": false
     },
     {
@@ -407,12 +407,30 @@
       "featured": false
     },
     {
-      "id": "0ca30418a31d",
+      "id": "bc73d5fcfb98",
       "source": "Al Jazeera",
-      "headline": "Pakistan says significant progress made in talks on Iran-US war",
-      "excerpt": "The talks were held during a daylong diplomatic mission to Tehran by Pakistan’s army chief and interior minister.",
-      "link": "https://www.aljazeera.com/news/2026/8/25/pakistan-says-significant-progress-made-in-talks-on-iran-us-war?traffic_source=rss",
-      "published": "2026-08-25T08:32:52+00:00",
+      "headline": "Russia mobilisation fears grow amid reports of intimidating tactics",
+      "excerpt": "Military recruitment efforts are reportedly more aggressive as Russia prepares for a winter offensive in Ukraine.",
+      "link": "https://www.aljazeera.com/news/2026/8/25/russia-mobilisation-fears-grow-amid-reports-of-intimidating-tactics?traffic_source=rss",
+      "published": "2026-08-25T11:53:03+00:00",
+      "featured": false
+    },
+    {
+      "id": "ac412f4a685f",
+      "source": "OCCRP",
+      "headline": "Moscow Funds Pro-Kremlin Influence Hub in Belarus",
+      "excerpt": "Leaked records show Moscow authorities have spent hundreds of thousands of dollars maintaining and running events at the House of Moscow in Minsk, a hub for pro-Kremlin groups and “Russian world” messaging. Experts warn...",
+      "link": "https://www.occrp.org/en/news/moscow-funds-pro-kremlin-influence-hub-in-belarus",
+      "published": "2026-08-24T13:35:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "df67a3da60cc",
+      "source": "The Intercept",
+      "headline": "What American Doctors Saw in Gaza",
+      "excerpt": "A new documentary follows three physicians facing the odds: limited medical supplies, Israeli bombing, and upon returning home, media bias and indifference. The post What American Doctors Saw in Gaza appeared first on...",
+      "link": "https://theintercept.com/2026/08/21/gaza-hospitals-american-doctor-documentary/",
+      "published": "2026-08-21T10:00:00+00:00",
       "featured": false
     },
     {
@@ -422,15 +440,6 @@
       "excerpt": "The post Oregon Is Spending More Than Ever on Low-Income Housing. A State Law Keeps the Details Secret. appeared first on ProPublica.",
       "link": "https://www.propublica.org/article/oregon-affordable-housing-cost-secrecy",
       "published": "2026-08-21T09:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "1c295d17a2b5",
-      "source": "The Intercept",
-      "headline": "This Mysterious “Astroturf” Group Popped Up to Defend the Paramount Merger",
-      "excerpt": "In text messages, the newly formed group boosted reported threats by CEO David Ellison to move Paramount out of California. The post This Mysterious “Astroturf” Group Popped Up to Defend the Paramount Merger appeared...",
-      "link": "https://theintercept.com/2026/08/21/paramount-merger-warner-discovery-david-ellison-antitrust/",
-      "published": "2026-08-21T08:50:00+00:00",
       "featured": false
     },
     {
@@ -452,15 +461,6 @@
       "featured": false
     },
     {
-      "id": "14139ae548b7",
-      "source": "OCCRP",
-      "headline": "Zelenskyy Dismisses Senior Aide Suspected in $3.3 Million Money Laundering Case",
-      "excerpt": "Ukrainian investigators say senior officials and lawmakers used a state-owned bank and shell companies to launder criminal proceeds intended as bail in a separate corruption case. Iryna Mudra says investigators’...",
-      "link": "https://www.occrp.org/en/news/zelenskyy-dismisses-senior-aide-suspected-in-33-million-money-laundering-case",
-      "published": "2026-08-20T13:53:00+00:00",
-      "featured": false
-    },
-    {
       "id": "15542bd92742",
       "source": "404 Media",
       "headline": "Subtlefakes: Slightly Altered Nonconsensual AI Images Are Taking Over X",
@@ -470,12 +470,12 @@
       "featured": false
     },
     {
-      "id": "7550ff3c843c",
+      "id": "85dda370dfda",
       "source": "Rest of World",
-      "headline": "Ban on Chinese robots leaves U.S. startups stranded",
-      "excerpt": "Three Unitree G1 humanoid robots are pictured at robotics company Unitree's first retail store in Beijing.",
-      "link": "https://restofworld.org/2026/china-robot-ban-silicon-valley/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-      "published": "2026-08-17T10:00:00+00:00",
+      "headline": "Chinese carmakers now sell one EV abroad for every two at home",
+      "excerpt": "Dwindling sales at home are pushing the cars toward Brazil, Thailand, and the Gulf.",
+      "link": "https://restofworld.org/2026/china-ev-exports-overcapacity-global-markets/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "published": "2026-08-18T10:00:00+00:00",
       "featured": false
     },
     {
@@ -497,12 +497,21 @@
       "featured": false
     },
     {
-      "id": "bcde0ade3baa",
+      "id": "1e05492cddf2",
       "source": "Al Jazeera",
-      "headline": "Rohingya refugees protest, nine years after exodus to Bangladesh",
-      "excerpt": "Rohingya refugees protest, nine years after exodus to Bangladesh",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/rohingya-refugees-protest-nine-years-after-exodus-to-bangladesh?traffic_source=rss",
-      "published": "2026-08-25T08:24:13+00:00",
+      "headline": "Palestine weekly: After Kushner departs, Israel escalates Gaza attacks",
+      "excerpt": "Israel deepens Gaza attacks and West Bank expansion as countries condemn abuses but impose few consequences.",
+      "link": "https://www.aljazeera.com/news/2026/8/25/palestine-weekly-after-kushner-departs-israel-escalates-gaza-attacks?traffic_source=rss",
+      "published": "2026-08-25T11:52:40+00:00",
+      "featured": false
+    },
+    {
+      "id": "1c295d17a2b5",
+      "source": "The Intercept",
+      "headline": "This Mysterious “Astroturf” Group Popped Up to Defend the Paramount Merger",
+      "excerpt": "In text messages, the newly formed group boosted reported threats by CEO David Ellison to move Paramount out of California. The post This Mysterious “Astroturf” Group Popped Up to Defend the Paramount Merger appeared...",
+      "link": "https://theintercept.com/2026/08/21/paramount-merger-warner-discovery-david-ellison-antitrust/",
+      "published": "2026-08-21T08:50:00+00:00",
       "featured": false
     },
     {
@@ -515,12 +524,12 @@
       "featured": false
     },
     {
-      "id": "61442decfe3e",
-      "source": "The Intercept",
-      "headline": "The Mossad Suffers a Crushing Defeat Entirely of Its Own Making",
-      "excerpt": "High-profile firings show that none of the Israeli spy agency's promises about the war with Iran have come to pass. The post The Mossad Suffers a Crushing Defeat Entirely of Its Own Making appeared first on The...",
-      "link": "https://theintercept.com/2026/08/20/israel-iran-war-mossad-firings/",
-      "published": "2026-08-20T19:06:16+00:00",
+      "id": "1f331a4b2c10",
+      "source": "OCCRP",
+      "headline": "Liberia Charges Ex-Vice President in Transnational Drug Probe",
+      "excerpt": "Former Vice President Jewel Howard-Taylor faces drug trafficking and money laundering charges tied to a record $317 million cocaine seizure.",
+      "link": "https://www.occrp.org/en/news/liberia-charges-ex-vice-president-in-transnational-drug-probe",
+      "published": "2026-08-20T13:58:00+00:00",
       "featured": false
     },
     {
@@ -530,15 +539,6 @@
       "excerpt": "The six month moratorium on major electrical infrastructure projects is the latest tactic meant to delay the massive data center meant to support America’s nuclear weapons.",
       "link": "https://www.404media.co/township-fights-nuclear-weapons-data-center-by-passing-a-moratorium-on-electrical-infrastructure/",
       "published": "2026-08-20T13:12:03+00:00",
-      "featured": false
-    },
-    {
-      "id": "0840fc3d4ca4",
-      "source": "ProPublica",
-      "headline": "This Coach Is Banned From Working With Kids. Why Is He Still Coaching?",
-      "excerpt": "The post This Coach Is Banned From Working With Kids. Why Is He Still Coaching? appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/ryan-richardson-pharr-texas-usa-volleyball-safesport-abuse-teens",
-      "published": "2026-08-20T09:00:00+00:00",
       "featured": false
     }
   ]
