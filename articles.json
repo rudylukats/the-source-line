@@ -1,13 +1,22 @@
 {
-  "generated_at": "2026-08-25T18:57:15.427837+00:00",
+  "generated_at": "2026-08-25T21:44:36.892673+00:00",
   "articles": [
     {
-      "id": "70cd724d2180",
+      "id": "f5e2ed0de32c",
       "source": "Al Jazeera",
-      "headline": "Syria’s economy poised for improvement after US sanctions removal",
-      "excerpt": "Removal of US sanctions offers Syria a chance to fully rejoin the global financial system after years of isolation.",
-      "link": "https://www.aljazeera.com/news/2026/8/25/syrias-economy-poised-for-improvement-after-us-sanctions-removal?traffic_source=rss",
-      "published": "2026-08-25T18:43:42+00:00",
+      "headline": "Who was the ‘Queen of Country’ Dolly Parton?",
+      "excerpt": "‘Queen of Country’ has died at 80 in Nashville, her family and representatives announced.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/who-was-the-queen-of-country-dolly-parton?traffic_source=rss",
+      "published": "2026-08-25T21:29:11+00:00",
+      "featured": true
+    },
+    {
+      "id": "e7775406fdab",
+      "source": "The Intercept",
+      "headline": "Conservative Groups Side With Minneapolis Protesters Against Trump Crackdown",
+      "excerpt": "Right-leaning and libertarian groups told the court that ICE engaged in illegal “ideological targeting” of the left in the Minneapolis 15 case. The post Conservative Groups Side With Minneapolis Protesters Against Trump...",
+      "link": "https://theintercept.com/2026/08/25/minneapolis-ice-protesters-undercover-agents/",
+      "published": "2026-08-25T20:10:42+00:00",
       "featured": true
     },
     {
@@ -26,7 +35,7 @@
       "excerpt": "Key Democratic voters want a 2028 presidential candidate who will cut off military aid to Israel.",
       "link": "https://www.levernews.com/democrats-want-a-break-from-israel/",
       "published": "2026-08-25T16:27:08+00:00",
-      "featured": true
+      "featured": false
     },
     {
       "id": "a59fc5c7d115",
@@ -35,15 +44,6 @@
       "excerpt": "Drop Site Daily: August 25, 2026",
       "link": "https://www.dropsitenews.com/p/us-boat-strike-haiti-gang-raid-israel-palestine-jerusalem-unrwa",
       "published": "2026-08-25T15:41:15+00:00",
-      "featured": false
-    },
-    {
-      "id": "bc73bd8a7dd3",
-      "source": "The Intercept",
-      "headline": "Sixty More U.S. Soldiers Reported Injured in Iran War",
-      "excerpt": "A government official accused the Pentagon of “an accounting trick” in its slow tally of Iran war casualties. The post Sixty More U.S. Soldiers Reported Injured in Iran War appeared first on The Intercept.",
-      "link": "https://theintercept.com/2026/08/25/military-soldiers-wounded-casualties-iran-war/",
-      "published": "2026-08-25T15:15:45+00:00",
       "featured": false
     },
     {
@@ -110,6 +110,15 @@
       "featured": false
     },
     {
+      "id": "37bac3615edb",
+      "source": "Al Jazeera",
+      "headline": "Seven killed in Gaza as Israeli strike ‘destroys’ aid supply warehouse",
+      "excerpt": "Health Ministry warns of 'complete collapse of the basic necessities of life' in Gaza as Israel's attacks continue.",
+      "link": "https://www.aljazeera.com/news/2026/8/25/seven-killed-in-gaza-as-israeli-strike-destroys-aid-supply-warehouse?traffic_source=rss",
+      "published": "2026-08-25T21:26:25+00:00",
+      "featured": false
+    },
+    {
       "id": "ff5c34ec537b",
       "source": "404 Media",
       "headline": "ICE Wants the Country’s Voter Data",
@@ -119,12 +128,12 @@
       "featured": false
     },
     {
-      "id": "0b2de9b610ba",
-      "source": "Al Jazeera",
-      "headline": "Syria ‘shakes off’ past with removal from US ‘terror’ list, says al-Sharaa",
-      "excerpt": "Removal of decades-old designation offers major sanctions relief for Syria, aiming to boost post-war reconstruction.",
-      "link": "https://www.aljazeera.com/news/2026/8/25/syriashakes-offpast-with-removal-from-us-terror-list-says-al-sharaa?traffic_source=rss",
-      "published": "2026-08-25T18:13:37+00:00",
+      "id": "bc73bd8a7dd3",
+      "source": "The Intercept",
+      "headline": "Sixty More U.S. Soldiers Reported Injured in Iran War",
+      "excerpt": "A government official accused the Pentagon of “an accounting trick” in its slow tally of Iran war casualties. The post Sixty More U.S. Soldiers Reported Injured in Iran War appeared first on The Intercept.",
+      "link": "https://theintercept.com/2026/08/25/military-soldiers-wounded-casualties-iran-war/",
+      "published": "2026-08-25T15:15:45+00:00",
       "featured": false
     },
     {
@@ -134,15 +143,6 @@
       "excerpt": "",
       "link": "https://www.occrp.org/en/news/armenia-detains-ex-president-kocharyan-in-corruption-probe",
       "published": "2026-08-25T12:38:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "60b533d765ac",
-      "source": "The Intercept",
-      "headline": "Local Cops Flout Sanctuary Law to Help ICE Deport Immigrants",
-      "excerpt": "Illinois law prohibits local collaboration with immigration enforcement officials, but the cops often find workarounds. The post Local Cops Flout Sanctuary Law to Help ICE Deport Immigrants appeared first on The...",
-      "link": "https://theintercept.com/2026/08/25/illinois-trust-act-ice-deport-police-collaboration/",
-      "published": "2026-08-25T11:00:00+00:00",
       "featured": false
     },
     {
@@ -209,12 +209,12 @@
       "featured": false
     },
     {
-      "id": "922257c71f9c",
+      "id": "d14675ed15b9",
       "source": "Al Jazeera",
-      "headline": "Kremlin denies planned talks with US envoys amid reports CIA head in Russia",
-      "excerpt": "Washington reportedly alerted Ukraine to refrain from strikes until delegation leaves Moscow, US media reports.",
-      "link": "https://www.aljazeera.com/news/2026/8/25/kremlin-denies-planned-talks-with-us-envoys-amid-reports-cia-head-in-russia?traffic_source=rss",
-      "published": "2026-08-25T18:01:37+00:00",
+      "headline": "US soldier who called for Trump impeachment facing military charges",
+      "excerpt": "Major Jason Watson faces charges under rarely-used military law prohibiting criticism of the US president.",
+      "link": "https://www.aljazeera.com/news/2026/8/25/us-soldier-who-called-for-trump-impeachment-facing-military-charges?traffic_source=rss",
+      "published": "2026-08-25T21:16:43+00:00",
       "featured": false
     },
     {
@@ -236,6 +236,15 @@
       "featured": false
     },
     {
+      "id": "60b533d765ac",
+      "source": "The Intercept",
+      "headline": "Local Cops Flout Sanctuary Law to Help ICE Deport Immigrants",
+      "excerpt": "Illinois law prohibits local collaboration with immigration enforcement officials, but the cops often find workarounds. The post Local Cops Flout Sanctuary Law to Help ICE Deport Immigrants appeared first on The...",
+      "link": "https://theintercept.com/2026/08/25/illinois-trust-act-ice-deport-police-collaboration/",
+      "published": "2026-08-25T11:00:00+00:00",
+      "featured": false
+    },
+    {
       "id": "302e34663da9",
       "source": "Dropsite News",
       "headline": "Gary, Indiana still without power; U.S. to unveil “economic D-day” sanctions against Iran; Israel bombs mosque, desalination plant in Gaza",
@@ -251,15 +260,6 @@
       "excerpt": "The post His Research on Pregnant Opioid Users Was Widely Celebrated. Auditors and Experts Found Major Flaws. appeared first on ProPublica.",
       "link": "https://www.propublica.org/article/craig-towers-knoxville-tennessee-newborn-withdrawal-study",
       "published": "2026-08-24T10:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "78c3895aa4e3",
-      "source": "The Intercept",
-      "headline": "Pentagon Spokesperson Admits There’s a Secret Blacklist of Journalists",
-      "excerpt": "When pressed about the Iran war, a CENTCOM press official threatened to put an Intercept reporter on a “list of people to disregard.” The post Pentagon Spokesperson Admits There’s a Secret Blacklist of Journalists...",
-      "link": "https://theintercept.com/2026/08/24/pentagon-military-journalist-blacklist-press-media/",
-      "published": "2026-08-24T09:52:00+00:00",
       "featured": false
     },
     {
@@ -308,12 +308,12 @@
       "featured": false
     },
     {
-      "id": "eb13afe14eb7",
+      "id": "01c63a2ac363",
       "source": "Al Jazeera",
-      "headline": "Fatah, Dahlan bloc hold reconciliation talks ahead of Palestinian elections",
-      "excerpt": "Fatah and Dahlan's Democratic Reform hold talks in Alamein as fears grow over a potential opposition coalition.",
-      "link": "https://www.aljazeera.com/news/2026/8/25/fatah-dahlan-bloc-hold-reconciliation-talks-ahead-of-palestinian-elections?traffic_source=rss",
-      "published": "2026-08-25T17:39:22+00:00",
+      "headline": "US lawmakers urge Trump team to free of American student held by Israel",
+      "excerpt": "Congress members call on Marco Rubio to 'use every tool' at his disposal to secure release of 20-year-old Sama Safi.",
+      "link": "https://www.aljazeera.com/news/2026/8/25/us-lawmakers-urge-trump-team-to-free-of-american-student-held-by-israel?traffic_source=rss",
+      "published": "2026-08-25T21:09:35+00:00",
       "featured": false
     },
     {
@@ -335,21 +335,21 @@
       "featured": false
     },
     {
+      "id": "78c3895aa4e3",
+      "source": "The Intercept",
+      "headline": "Pentagon Spokesperson Admits There’s a Secret Blacklist of Journalists",
+      "excerpt": "When pressed about the Iran war, a CENTCOM press official threatened to put an Intercept reporter on a “list of people to disregard.” The post Pentagon Spokesperson Admits There’s a Secret Blacklist of Journalists...",
+      "link": "https://theintercept.com/2026/08/24/pentagon-military-journalist-blacklist-press-media/",
+      "published": "2026-08-24T09:52:00+00:00",
+      "featured": false
+    },
+    {
       "id": "79532f7af312",
       "source": "ProPublica",
       "headline": "They Rebuilt After Texas’ Devastating Floods. Then Their Home Flooded Again.",
       "excerpt": "The post They Rebuilt After Texas’ Devastating Floods. Then Their Home Flooded Again. appeared first on ProPublica.",
       "link": "https://www.propublica.org/article/texas-flooding-2026-kerr-county",
       "published": "2026-08-24T09:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "ac6c9617f0fe",
-      "source": "The Intercept",
-      "headline": "The Dawn of a New Cold War",
-      "excerpt": "The growing tension between the United States and China boils down to a battle over resources. The post The Dawn of a New Cold War appeared first on The Intercept.",
-      "link": "https://theintercept.com/2026/08/23/trump-china-ai-chips-rare-earth/",
-      "published": "2026-08-23T10:10:00+00:00",
       "featured": false
     },
     {
@@ -407,12 +407,12 @@
       "featured": false
     },
     {
-      "id": "1837cc37de05",
+      "id": "556741ad4090",
       "source": "Al Jazeera",
-      "headline": "Spain requests emergency funding from the EU over Ceuta migrants",
-      "excerpt": "European Commission says it is 'assessing' Spain's request after some 70,000 migrants surged into North African enclave.",
-      "link": "https://www.aljazeera.com/news/2026/8/25/spain-requests-emergency-funding-from-the-eu-over-ceuta-migrants?traffic_source=rss",
-      "published": "2026-08-25T17:31:09+00:00",
+      "headline": "Syrian Democratic Forces announce their dissolution",
+      "excerpt": "The Kurdish-led Syrian Democratic Forces will dissolve as an independent military force under an agreement with Damascus",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/syrian-democratic-forces-announce-their-dissolution?traffic_source=rss",
+      "published": "2026-08-25T21:09:05+00:00",
       "featured": false
     },
     {
@@ -434,12 +434,12 @@
       "featured": false
     },
     {
-      "id": "633a43c86877",
+      "id": "ac6c9617f0fe",
       "source": "The Intercept",
-      "headline": "RIP to the Russiagate Liberals",
-      "excerpt": "With Alex Vindman and George Conway’s losses, Democratic voters are forcefully rejecting the notion that Russia is to blame for America’s ills. The post RIP to the Russiagate Liberals appeared first on The Intercept.",
-      "link": "https://theintercept.com/2026/08/22/russiagate-resistance-liberals-alex-vindman-angie-nixon/",
-      "published": "2026-08-22T10:21:00+00:00",
+      "headline": "The Dawn of a New Cold War",
+      "excerpt": "The growing tension between the United States and China boils down to a battle over resources. The post The Dawn of a New Cold War appeared first on The Intercept.",
+      "link": "https://theintercept.com/2026/08/23/trump-china-ai-chips-rare-earth/",
+      "published": "2026-08-23T10:10:00+00:00",
       "featured": false
     },
     {
@@ -497,12 +497,12 @@
       "featured": false
     },
     {
-      "id": "0414b38c0bac",
+      "id": "91af863ad509",
       "source": "Al Jazeera",
-      "headline": "Most US Democrats in early 2028 primary states oppose aid to Israel: Poll",
-      "excerpt": "Survey indicates majority of Democrats in first six states to vote for 2028 nominee believe Israel committing genocide.",
-      "link": "https://www.aljazeera.com/news/2026/8/25/most-us-democrats-in-early-2028-primary-states-oppose-aid-to-israel-poll?traffic_source=rss",
-      "published": "2026-08-25T17:27:01+00:00",
+      "headline": "Real Madrid vs Sociedad: La Liga – prediction, team news, lineups",
+      "excerpt": "Kylian Mbappe and Jude Bellingham headline against Sociedad as Real seek consecutive wins to open La Liga season.",
+      "link": "https://www.aljazeera.com/sports/2026/8/25/real-madrid-vs-sociedad-la-liga-prediction-teams-lineups?traffic_source=rss",
+      "published": "2026-08-25T20:41:50+00:00",
       "featured": false
     },
     {
@@ -524,12 +524,12 @@
       "featured": false
     },
     {
-      "id": "df67a3da60cc",
+      "id": "633a43c86877",
       "source": "The Intercept",
-      "headline": "What American Doctors Saw in Gaza",
-      "excerpt": "A new documentary follows three physicians facing the odds: limited medical supplies, Israeli bombing, and upon returning home, media bias and indifference. The post What American Doctors Saw in Gaza appeared first on...",
-      "link": "https://theintercept.com/2026/08/21/gaza-hospitals-american-doctor-documentary/",
-      "published": "2026-08-21T10:00:00+00:00",
+      "headline": "RIP to the Russiagate Liberals",
+      "excerpt": "With Alex Vindman and George Conway’s losses, Democratic voters are forcefully rejecting the notion that Russia is to blame for America’s ills. The post RIP to the Russiagate Liberals appeared first on The Intercept.",
+      "link": "https://theintercept.com/2026/08/22/russiagate-resistance-liberals-alex-vindman-angie-nixon/",
+      "published": "2026-08-22T10:21:00+00:00",
       "featured": false
     },
     {
