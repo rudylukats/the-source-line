@@ -1,13 +1,31 @@
 {
-  "generated_at": "2026-08-25T07:08:33.904181+00:00",
+  "generated_at": "2026-08-25T09:51:56.109195+00:00",
   "articles": [
     {
-      "id": "04eb582bf3e6",
+      "id": "c866ae5f431c",
       "source": "Al Jazeera",
-      "headline": "The Iran war is bringing cyberwarfare into critical infrastructure",
-      "excerpt": "Recent attacks in the UK and the US demonstrate critical vulnerabilities that governments need to urgently address.",
-      "link": "https://www.aljazeera.com/opinions/2026/8/25/the-iran-war-is-bringing-cyberwarfare-into-critical-infrastructure?traffic_source=rss",
-      "published": "2026-08-25T06:37:32+00:00",
+      "headline": "Kremlin adviser warns UK drone factories could face attacks",
+      "excerpt": "Russia says UK decision to share missile blueprints with Ukraine is evidence of direct military involvement in the war.",
+      "link": "https://www.aljazeera.com/news/2026/8/25/kremlin-adviser-warns-uk-drone-factories-could-face-attacks?traffic_source=rss",
+      "published": "2026-08-25T09:34:25+00:00",
+      "featured": true
+    },
+    {
+      "id": "3869ec33275c",
+      "source": "ProPublica",
+      "headline": "Children in a Faith-Healing Sect Keep Dying. The State Lets It Happen.",
+      "excerpt": "The post Children in a Faith-Healing Sect Keep Dying. The State Lets It Happen. appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/faith-healing-idaho-deaths-followers-of-christ",
+      "published": "2026-08-25T09:00:00+00:00",
+      "featured": true
+    },
+    {
+      "id": "e33b12bbff3c",
+      "source": "Bellingcat",
+      "headline": "Tracking a Sanctioned Russian Vessel’s West African Odyssey",
+      "excerpt": "Sign up here to receive Bellingcat’s biggest investigations by email as soon as they are published. A sanctioned vessel that was previously reported to have transported weapons destined for Russian mercenaries has been...",
+      "link": "https://www.bellingcat.com/news/africa/2026/08/25/patria-sanctioned-russian-vessel-russia-us-africa-cameroon-gabon-lagos-nigeria/",
+      "published": "2026-08-25T08:52:50+00:00",
       "featured": true
     },
     {
@@ -17,7 +35,7 @@
       "excerpt": "Research funding by Israel’s Ministry of Defense and arms manufacturers often fails to appear in national databases intended to track foreign funding.",
       "link": "https://www.dropsitenews.com/p/israel-military-funding-universities",
       "published": "2026-08-24T21:09:37+00:00",
-      "featured": true
+      "featured": false
     },
     {
       "id": "2027e0f99f7f",
@@ -26,7 +44,7 @@
       "excerpt": "The $111 billion merger between Paramount and Warner Bros. Discovery could cause thousands of workers to lose their jobs, according to new research.",
       "link": "https://www.levernews.com/hollywoods-hangover/",
       "published": "2026-08-24T16:39:46+00:00",
-      "featured": true
+      "featured": false
     },
     {
       "id": "5aed00859fdc",
@@ -56,15 +74,6 @@
       "featured": false
     },
     {
-      "id": "0f968e7967fc",
-      "source": "ProPublica",
-      "headline": "His Research on Pregnant Opioid Users Was Widely Celebrated. Auditors and Experts Found Major Flaws.",
-      "excerpt": "The post His Research on Pregnant Opioid Users Was Widely Celebrated. Auditors and Experts Found Major Flaws. appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/craig-towers-knoxville-tennessee-newborn-withdrawal-study",
-      "published": "2026-08-24T10:00:00+00:00",
-      "featured": false
-    },
-    {
       "id": "9feee1893cca",
       "source": "Rest of World",
       "headline": "The UAE is fighting AI hackers with AI of its own",
@@ -80,15 +89,6 @@
       "excerpt": "When pressed about the Iran war, a CENTCOM press official threatened to put an Intercept reporter on a “list of people to disregard.” The post Pentagon Spokesperson Admits There’s a Secret Blacklist of Journalists...",
       "link": "https://theintercept.com/2026/08/24/pentagon-military-journalist-blacklist-press-media/",
       "published": "2026-08-24T09:52:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "1c3768a6972b",
-      "source": "Bellingcat",
-      "headline": "Satellite Imagery Documents New Border Patrol Road Construction in Big Bend National Park",
-      "excerpt": "Sign up here to receive Bellingcat’s biggest investigations by email as soon as they are published. Satellite images obtained and analysed by Bellingcat show over five miles of new road constructed in Big Bend National...",
-      "link": "https://www.bellingcat.com/news/us-canada/2026/08/20/satellite-imagery-documents-new-border-patrol-road-construction-in-big-bend-national-park/",
-      "published": "2026-08-20T20:50:42+00:00",
       "featured": false
     },
     {
@@ -110,12 +110,12 @@
       "featured": false
     },
     {
-      "id": "b37a5e4d3ed1",
+      "id": "d4b8d3afde2f",
       "source": "Al Jazeera",
-      "headline": "Fulham vs Chelsea: Alonso starts new era with thrilling 3–2 win",
-      "excerpt": "Joao Pedro, Morgan Rogers and Cole Palmer on target as Chelsea open scoring within 31 seconds of the match in London.",
-      "link": "https://www.aljazeera.com/sports/2026/8/25/fulham-vs-chelsea-alonso-starts-new-era-with-thrilling-3-2?traffic_source=rss",
-      "published": "2026-08-25T06:32:43+00:00",
+      "headline": "Who are Iran’s top trading partners US would need to target to isolate it?",
+      "excerpt": "The US wants to isolate Iran from the global economy. Here is who Tehran trades with, and how much is at stake.",
+      "link": "https://www.aljazeera.com/news/2026/8/25/who-are-irans-top-trading-partners-us-would-need-to-target-to-isolate-it?traffic_source=rss",
+      "published": "2026-08-25T09:23:05+00:00",
       "featured": false
     },
     {
@@ -137,12 +137,12 @@
       "featured": false
     },
     {
-      "id": "79532f7af312",
+      "id": "0f968e7967fc",
       "source": "ProPublica",
-      "headline": "They Rebuilt After Texas’ Devastating Floods. Then Their Home Flooded Again.",
-      "excerpt": "The post They Rebuilt After Texas’ Devastating Floods. Then Their Home Flooded Again. appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/texas-flooding-2026-kerr-county",
-      "published": "2026-08-24T09:00:00+00:00",
+      "headline": "His Research on Pregnant Opioid Users Was Widely Celebrated. Auditors and Experts Found Major Flaws.",
+      "excerpt": "The post His Research on Pregnant Opioid Users Was Widely Celebrated. Auditors and Experts Found Major Flaws. appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/craig-towers-knoxville-tennessee-newborn-withdrawal-study",
+      "published": "2026-08-24T10:00:00+00:00",
       "featured": false
     },
     {
@@ -182,6 +182,15 @@
       "featured": false
     },
     {
+      "id": "1c3768a6972b",
+      "source": "Bellingcat",
+      "headline": "Satellite Imagery Documents New Border Patrol Road Construction in Big Bend National Park",
+      "excerpt": "Sign up here to receive Bellingcat’s biggest investigations by email as soon as they are published. Satellite images obtained and analysed by Bellingcat show over five miles of new road constructed in Big Bend National...",
+      "link": "https://www.bellingcat.com/news/us-canada/2026/08/20/satellite-imagery-documents-new-border-patrol-road-construction-in-big-bend-national-park/",
+      "published": "2026-08-20T20:50:42+00:00",
+      "featured": false
+    },
+    {
       "id": "c05386da40a0",
       "source": "More Perfect Union",
       "headline": "We Uncovered Where Your Insurance Payments Are Really Going",
@@ -200,21 +209,12 @@
       "featured": false
     },
     {
-      "id": "fde6a5053370",
-      "source": "Bellingcat",
-      "headline": "Welcome to Dubai: Kinahan Cartel’s Visas Revealed",
-      "excerpt": "This article is the result of a collaboration with The Sunday Times. You can find their corresponding piece here. A key leader of the Kinahan cartel who is wanted by authorities around the world and has been living in...",
-      "link": "https://www.bellingcat.com/news/2026/08/01/welcome-to-dubai-kinahan-cartels-visas-revealed/",
-      "published": "2026-08-01T11:03:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "7fb8327660dc",
+      "id": "d36faf84344a",
       "source": "Al Jazeera",
-      "headline": "Angel Reese breaks WNBA record with 26 rebounds in Dream’s win over Sparks",
-      "excerpt": "Reese broke Chamique Holdsclaw's record of 24 rebounds and added 11 points for her 27th double-double of the season.",
-      "link": "https://www.aljazeera.com/sports/2026/8/25/angel-reese-breaks-wnba-record-with-26-rebounds-in-dreams-win-over-sparks?traffic_source=rss",
-      "published": "2026-08-25T06:12:43+00:00",
+      "headline": "‘Enough is enough’: Kenya nurses strike over pay and working conditions",
+      "excerpt": "Shiru Kihara, a nurse in Kenya, explains why she and thousands of other nurses are on strike demanding fair pay.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/enough-is-enough-kenya-nurses-strike-over-pay-and-working-conditions?traffic_source=rss",
+      "published": "2026-08-25T09:05:54+00:00",
       "featured": false
     },
     {
@@ -224,6 +224,15 @@
       "excerpt": "Leaked records show Moscow authorities have spent hundreds of thousands of dollars maintaining and running events at the House of Moscow in Minsk, a hub for pro-Kremlin groups and “Russian world” messaging. Experts warn...",
       "link": "https://www.occrp.org/en/news/moscow-funds-pro-kremlin-influence-hub-in-belarus",
       "published": "2026-08-24T13:35:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "79532f7af312",
+      "source": "ProPublica",
+      "headline": "They Rebuilt After Texas’ Devastating Floods. Then Their Home Flooded Again.",
+      "excerpt": "The post They Rebuilt After Texas’ Devastating Floods. Then Their Home Flooded Again. appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/texas-flooding-2026-kerr-county",
+      "published": "2026-08-24T09:00:00+00:00",
       "featured": false
     },
     {
@@ -263,15 +272,6 @@
       "featured": false
     },
     {
-      "id": "d809eaa8bae9",
-      "source": "ProPublica",
-      "headline": "Missouri Republicans Are Trying to Repeal Abortion Rights by Leaning Into Anti-Trans Sentiment",
-      "excerpt": "The post Missouri Republicans Are Trying to Repeal Abortion Rights by Leaning Into Anti-Trans Sentiment appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/missouri-abortion-gender-transition-minors-amendment-3",
-      "published": "2026-08-21T10:00:00+00:00",
-      "featured": false
-    },
-    {
       "id": "d17657aec8c4",
       "source": "Rest of World",
       "headline": "“It’s laughable”: Global AI experts challenge Zuckerberg’s “AI for everyone”",
@@ -299,21 +299,21 @@
       "featured": false
     },
     {
-      "id": "5f1f128e4a58",
+      "id": "fde6a5053370",
       "source": "Bellingcat",
-      "headline": "Will Ronaldo Cry​? World Cup Fans Bet Billions Through Prediction Markets",
-      "excerpt": "Football fans wagered more than US $14 billion on the FIFA World Cup through prediction markets Polymarket and Kalshi, a Bellingcat analysis has found. On the crypto-based Polymarket, which provides more information...",
-      "link": "https://www.bellingcat.com/news/2026/07/30/will-ronaldo-cry-world-cup-fans-bet-billions-through-prediction-markets/",
-      "published": "2026-07-30T11:17:38+00:00",
+      "headline": "Welcome to Dubai: Kinahan Cartel’s Visas Revealed",
+      "excerpt": "This article is the result of a collaboration with The Sunday Times. You can find their corresponding piece here. A key leader of the Kinahan cartel who is wanted by authorities around the world and has been living in...",
+      "link": "https://www.bellingcat.com/news/2026/08/01/welcome-to-dubai-kinahan-cartels-visas-revealed/",
+      "published": "2026-08-01T11:03:00+00:00",
       "featured": false
     },
     {
-      "id": "44b541ff2b42",
+      "id": "9e9b26673d48",
       "source": "Al Jazeera",
-      "headline": "Libya factions draft initial election pact amid lingering mistrust",
-      "excerpt": "Libyan factions sign an initial an election pact, but divided institutions and deep legal gaps threaten its execution.",
-      "link": "https://www.aljazeera.com/news/2026/8/25/libya-factions-draft-initial-election-pact-despite-lingering-mistrust?traffic_source=rss",
-      "published": "2026-08-25T06:10:49+00:00",
+      "headline": "Nvidia, Supermicro employees charged over export of AI servers to China",
+      "excerpt": "Taiwanese authorities indict nine people over alleged chip smuggling scheme.",
+      "link": "https://www.aljazeera.com/economy/2026/8/25/nvidia-supermicro-employees-charged-over-export-of-ai-servers-to-china?traffic_source=rss",
+      "published": "2026-08-25T08:51:48+00:00",
       "featured": false
     },
     {
@@ -326,21 +326,21 @@
       "featured": false
     },
     {
+      "id": "d809eaa8bae9",
+      "source": "ProPublica",
+      "headline": "Missouri Republicans Are Trying to Repeal Abortion Rights by Leaning Into Anti-Trans Sentiment",
+      "excerpt": "The post Missouri Republicans Are Trying to Repeal Abortion Rights by Leaning Into Anti-Trans Sentiment appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/missouri-abortion-gender-transition-minors-amendment-3",
+      "published": "2026-08-21T10:00:00+00:00",
+      "featured": false
+    },
+    {
       "id": "df67a3da60cc",
       "source": "The Intercept",
       "headline": "What American Doctors Saw in Gaza",
       "excerpt": "A new documentary follows three physicians facing the odds: limited medical supplies, Israeli bombing, and upon returning home, media bias and indifference. The post What American Doctors Saw in Gaza appeared first on...",
       "link": "https://theintercept.com/2026/08/21/gaza-hospitals-american-doctor-documentary/",
       "published": "2026-08-21T10:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "ec5bb9926b70",
-      "source": "ProPublica",
-      "headline": "Oregon Is Spending More Than Ever on Low-Income Housing. A State Law Keeps the Details Secret.",
-      "excerpt": "The post Oregon Is Spending More Than Ever on Low-Income Housing. A State Law Keeps the Details Secret. appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/oregon-affordable-housing-cost-secrecy",
-      "published": "2026-08-21T09:00:00+00:00",
       "featured": false
     },
     {
@@ -398,12 +398,30 @@
       "featured": false
     },
     {
-      "id": "4a26bb138297",
+      "id": "5f1f128e4a58",
+      "source": "Bellingcat",
+      "headline": "Will Ronaldo Cry​? World Cup Fans Bet Billions Through Prediction Markets",
+      "excerpt": "Football fans wagered more than US $14 billion on the FIFA World Cup through prediction markets Polymarket and Kalshi, a Bellingcat analysis has found. On the crypto-based Polymarket, which provides more information...",
+      "link": "https://www.bellingcat.com/news/2026/07/30/will-ronaldo-cry-world-cup-fans-bet-billions-through-prediction-markets/",
+      "published": "2026-07-30T11:17:38+00:00",
+      "featured": false
+    },
+    {
+      "id": "0ca30418a31d",
       "source": "Al Jazeera",
-      "headline": "Australia’s music charts ban AI-made songs amid backlash over Madonna cover",
-      "excerpt": "Tracks that use AI in a 'supporting role' will still be eligible for inclusion in the official charts.",
-      "link": "https://www.aljazeera.com/economy/2026/8/25/australias-music-charts-ban-ai-made-songs-amid-backlash-over-madonna-cover?traffic_source=rss",
-      "published": "2026-08-25T06:00:38+00:00",
+      "headline": "Pakistan says significant progress made in talks on Iran-US war",
+      "excerpt": "The talks were held during a daylong diplomatic mission to Tehran by Pakistan’s army chief and interior minister.",
+      "link": "https://www.aljazeera.com/news/2026/8/25/pakistan-says-significant-progress-made-in-talks-on-iran-us-war?traffic_source=rss",
+      "published": "2026-08-25T08:32:52+00:00",
+      "featured": false
+    },
+    {
+      "id": "ec5bb9926b70",
+      "source": "ProPublica",
+      "headline": "Oregon Is Spending More Than Ever on Low-Income Housing. A State Law Keeps the Details Secret.",
+      "excerpt": "The post Oregon Is Spending More Than Ever on Low-Income Housing. A State Law Keeps the Details Secret. appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/oregon-affordable-housing-cost-secrecy",
+      "published": "2026-08-21T09:00:00+00:00",
       "featured": false
     },
     {
@@ -452,15 +470,6 @@
       "featured": false
     },
     {
-      "id": "0840fc3d4ca4",
-      "source": "ProPublica",
-      "headline": "This Coach Is Banned From Working With Kids. Why Is He Still Coaching?",
-      "excerpt": "The post This Coach Is Banned From Working With Kids. Why Is He Still Coaching? appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/ryan-richardson-pharr-texas-usa-volleyball-safesport-abuse-teens",
-      "published": "2026-08-20T09:00:00+00:00",
-      "featured": false
-    },
-    {
       "id": "7550ff3c843c",
       "source": "Rest of World",
       "headline": "Ban on Chinese robots leaves U.S. startups stranded",
@@ -488,12 +497,12 @@
       "featured": false
     },
     {
-      "id": "135d5ababaa5",
+      "id": "bcde0ade3baa",
       "source": "Al Jazeera",
-      "headline": "Two US carrier groups in Middle East strain navy resources",
-      "excerpt": "Deploying two US carrier strike groups to the Middle East represents a significant concentration of firepower",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/two-us-carrier-groups-in-middle-east-strain-navy-resources?traffic_source=rss",
-      "published": "2026-08-25T05:19:24+00:00",
+      "headline": "Rohingya refugees protest, nine years after exodus to Bangladesh",
+      "excerpt": "Rohingya refugees protest, nine years after exodus to Bangladesh",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/rohingya-refugees-protest-nine-years-after-exodus-to-bangladesh?traffic_source=rss",
+      "published": "2026-08-25T08:24:13+00:00",
       "featured": false
     },
     {
@@ -524,21 +533,12 @@
       "featured": false
     },
     {
-      "id": "98fdd90484df",
+      "id": "0840fc3d4ca4",
       "source": "ProPublica",
-      "headline": "What Parents Need to Know About Sexual Abuse in Youth Sports",
-      "excerpt": "The post What Parents Need to Know About Sexual Abuse in Youth Sports appeared first on ProPublica.",
-      "link": "https://www.propublica.org/getinvolved/what-parents-should-know-sexual-abuse-youth-sports-aau-safesport",
-      "published": "2026-08-20T08:55:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "511a376eac13",
-      "source": "OCCRP",
-      "headline": "French Authorities Investigate Widespread Government Data Breaches",
-      "excerpt": "",
-      "link": "https://www.occrp.org/en/news/french-authorities-investigate-widespread-government-data-breaches",
-      "published": "2026-08-20T08:15:00+00:00",
+      "headline": "This Coach Is Banned From Working With Kids. Why Is He Still Coaching?",
+      "excerpt": "The post This Coach Is Banned From Working With Kids. Why Is He Still Coaching? appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/ryan-richardson-pharr-texas-usa-volleyball-safesport-abuse-teens",
+      "published": "2026-08-20T09:00:00+00:00",
       "featured": false
     }
   ]
