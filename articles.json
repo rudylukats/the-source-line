@@ -1,32 +1,50 @@
 {
-  "generated_at": "2026-08-26T13:17:00.725479+00:00",
+  "generated_at": "2026-08-26T16:34:07.837081+00:00",
   "articles": [
     {
-      "id": "f03e89741a2a",
-      "source": "404 Media",
-      "headline": "Podcast: Cops Are Making Fake Flock Cameras and Amazon Packages",
-      "excerpt": "Cops making fake Flock cameras to catch people, Darth Vader unmasked, and our three year anniversary.",
-      "link": "https://www.404media.co/podcast-cops-are-making-fake-flock-cameras-and-amazon-packages/",
-      "published": "2026-08-26T13:07:22+00:00",
+      "id": "b517f432d1e1",
+      "source": "The Intercept",
+      "headline": "Palestinians Asked for Help Against Settlers. Israelis Detained Palestinian Workers Instead.",
+      "excerpt": "In the besieged West Bank village of Qusra, the workers were building a fence for keeping settlers out. Soldiers allowed the settlers to trespass. The post Palestinians Asked for Help Against Settlers. Israelis Detained...",
+      "link": "https://theintercept.com/2026/08/26/settlers-israel-soldiers-west-bank-siege-qusra/",
+      "published": "2026-08-26T16:27:37+00:00",
       "featured": true
     },
     {
-      "id": "397dbefa5e49",
+      "id": "35f184904f86",
       "source": "Al Jazeera",
-      "headline": "Deadly flash floods sweep through northern Nepal",
-      "excerpt": "Flash floods have swept through northern Nepal, killing at least eight people and washing away homes.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/deadly-flash-floods-sweep-through-northern-nepal?traffic_source=rss",
-      "published": "2026-08-26T12:44:14+00:00",
+      "headline": "LIVE: Real Madrid vs Real Sociedad – La Liga",
+      "excerpt": "Live coverage and text updates from our commentary stream as Mbappe and Bellingham lead the line for Mourinho's side.",
+      "link": "https://www.aljazeera.com/sports/liveblog/2026/8/26/live-real-madrid-vs-sociedad-la-liga?traffic_source=rss",
+      "published": "2026-08-26T15:52:53+00:00",
       "featured": true
     },
     {
-      "id": "ebc3b677a979",
-      "source": "OCCRP",
-      "headline": "Designed for Impact: The Next Evolution of OCCRP’s Website",
-      "excerpt": "",
-      "link": "https://www.occrp.org/en/announcement/designed-for-impact-the-next-evolution-of-occrps-website",
-      "published": "2026-08-26T11:14:00+00:00",
+      "id": "d8d80cc34dd3",
+      "source": "Dropsite News",
+      "headline": "Pakistani “Double-Tap” Strike in June Wrought Havoc on Afghan Villagers",
+      "excerpt": "A Pakistani airstrike on a residential area in Samkani killed at least 22 civilians. At Paktia Central Hospital, doctors worked through the night to save the wounded.",
+      "link": "https://www.dropsitenews.com/p/pakistan-double-tap-afghanistan-samkani",
+      "published": "2026-08-26T15:50:22+00:00",
       "featured": true
+    },
+    {
+      "id": "a1b895c4c65e",
+      "source": "OCCRP",
+      "headline": "Armenian Court Orders Son of Ex-President Held in Sweeping Graft Probe",
+      "excerpt": "A Yerevan court ordered the pretrial detention of Sedrak Kocharyan as prosecutors expand a multi-million-dollar corruption investigation into his father, former President Robert Kocharyan, and other high-ranking...",
+      "link": "https://www.occrp.org/en/news/armenian-court-orders-son-of-ex-president-held-in-sweeping-graft-probe",
+      "published": "2026-08-26T15:18:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "f82e3a242746",
+      "source": "404 Media",
+      "headline": "Flock’s CEO Is Lying to Cops About 404 Media's Reporting on Abortion Case",
+      "excerpt": "Garrett Langley, Flock’s CEO, told cops that a 404 Media story about cops using Flock to track someone who self-administered an abortion was \"entirely false.\" He's lying.",
+      "link": "https://www.404media.co/flocks-ceo-is-lying-to-cops-about-404-medias-reporting-on-abortion-case/",
+      "published": "2026-08-26T13:44:05+00:00",
+      "featured": false
     },
     {
       "id": "fe4768fad88b",
@@ -38,30 +56,12 @@
       "featured": false
     },
     {
-      "id": "5f2f1eb24f3b",
-      "source": "The Intercept",
-      "headline": "It’s Time to Rein in Lethal AI Drones",
-      "excerpt": "Humans need to act, as AI agents scheme in the digital shadows. The post It’s Time to Rein in Lethal AI Drones appeared first on The Intercept.",
-      "link": "https://theintercept.com/2026/08/26/ai-drone-warfare-russia-ukraine-openai-anthropic/",
-      "published": "2026-08-26T10:00:00+00:00",
-      "featured": false
-    },
-    {
       "id": "96902b14a7f1",
       "source": "Rest of World",
       "headline": "Why the global push to break free from Big Tech keeps falling short",
       "excerpt": "In this excerpt from the book “The Rulers: Corporate Power in the Age of AI and the Cloud,” writer Cecilia Rikap examines how Europe, India, Brazil, and China are taking on big tech companies.",
       "link": "https://restofworld.org/2026/google-amazon-cloud-china-india/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "published": "2026-08-26T10:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "d785f4654c30",
-      "source": "Dropsite News",
-      "headline": "Imran Khan’s Health, Iran Under Sanctions",
-      "excerpt": "Drop Site reporters Murtaza Hussain and Waqas Ahmed discuss the fate of Imran Khan; Murtaza is later joined by analyst Esfandyar Batmanghelidj to discuss the impact of economic sanctions on Iran.",
-      "link": "https://www.dropsitenews.com/p/imran-khans-health-iran-under-sanctions",
-      "published": "2026-08-26T00:37:00+00:00",
       "featured": false
     },
     {
@@ -110,12 +110,48 @@
       "featured": false
     },
     {
-      "id": "99c925f756a7",
+      "id": "c696d6ea656a",
+      "source": "Dropsite News",
+      "headline": "Meta settles social media addiction suit; Canada strikes back in U.S. trade war; at least 95 killed in Nepal flash flood",
+      "excerpt": "Drop Site Daily: August 26, 2026",
+      "link": "https://www.dropsitenews.com/p/meta-social-media-suit-canada-us-trade-tariffs-nepal-flash-flood",
+      "published": "2026-08-26T15:44:53+00:00",
+      "featured": false
+    },
+    {
+      "id": "4dbfa63e7365",
       "source": "Al Jazeera",
-      "headline": "CCTV captures terrifying mudslide engulfing Nepal-China border",
-      "excerpt": "CCTV footage shows people fleeing seconds before a massive mudslide engulfs a crossing on the Nepal-China border.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/cctv-captures-terrifying-mudslide-engulfing-nepal-china-border?traffic_source=rss",
-      "published": "2026-08-26T12:36:34+00:00",
+      "headline": "Why a Christian group is suing the Dutch government for West Bank trade ban",
+      "excerpt": "The Israeli Product Centre says it has not been given enough time to sell off its stock.",
+      "link": "https://www.aljazeera.com/news/2026/8/26/why-a-christian-group-is-suing-the-dutch-government-for-west-bank-trade-ban?traffic_source=rss",
+      "published": "2026-08-26T14:59:22+00:00",
+      "featured": false
+    },
+    {
+      "id": "7aa674b61c40",
+      "source": "404 Media",
+      "headline": "Inside the Warehouse Where Amazon Scans and Destroys Books for AI Training",
+      "excerpt": "An interview with one of the Amazon employees at Amazon’s AI training facility VGT3.",
+      "link": "https://www.404media.co/inside-the-warehouse-where-amazon-scans-and-destroys-books-for-ai-training/",
+      "published": "2026-08-26T13:21:51+00:00",
+      "featured": false
+    },
+    {
+      "id": "ebc3b677a979",
+      "source": "OCCRP",
+      "headline": "Designed for Impact: The Next Evolution of OCCRP’s Website",
+      "excerpt": "",
+      "link": "https://www.occrp.org/en/announcement/designed-for-impact-the-next-evolution-of-occrps-website",
+      "published": "2026-08-26T11:14:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "5f2f1eb24f3b",
+      "source": "The Intercept",
+      "headline": "It’s Time to Rein in Lethal AI Drones",
+      "excerpt": "Humans need to act, as AI agents scheme in the digital shadows. The post It’s Time to Rein in Lethal AI Drones appeared first on The Intercept.",
+      "link": "https://theintercept.com/2026/08/26/ai-drone-warfare-russia-ukraine-openai-anthropic/",
+      "published": "2026-08-26T10:00:00+00:00",
       "featured": false
     },
     {
@@ -128,48 +164,12 @@
       "featured": false
     },
     {
-      "id": "e7775406fdab",
-      "source": "The Intercept",
-      "headline": "Conservative Groups Side With Minneapolis Protesters Against Trump Crackdown",
-      "excerpt": "Right-leaning and libertarian groups told the court that ICE engaged in illegal “ideological targeting” of the left in the Minneapolis 15 case. The post Conservative Groups Side With Minneapolis Protesters Against Trump...",
-      "link": "https://theintercept.com/2026/08/25/minneapolis-ice-protesters-undercover-agents/",
-      "published": "2026-08-25T20:10:42+00:00",
-      "featured": false
-    },
-    {
-      "id": "ee71ad1cd9ad",
-      "source": "404 Media",
-      "headline": "Israel Is Running a Synthetic Think Tank to Influence AI Search Results",
-      "excerpt": "An Israel-funded think tank is churning out AI written essays to catch the attention of AI chatbots and warp search results.",
-      "link": "https://www.404media.co/israel-is-running-a-synthetic-think-tank-to-influence-ai-search-results/",
-      "published": "2026-08-25T18:35:26+00:00",
-      "featured": false
-    },
-    {
       "id": "0b9606f2b5c2",
       "source": "The Lever",
       "headline": "Democrats Want A Break From Israel",
       "excerpt": "Key Democratic voters want a 2028 presidential candidate who will cut off military aid to Israel.",
       "link": "https://www.levernews.com/democrats-want-a-break-from-israel/",
       "published": "2026-08-25T16:27:08+00:00",
-      "featured": false
-    },
-    {
-      "id": "a59fc5c7d115",
-      "source": "Dropsite News",
-      "headline": "U.S. kills two in extrajudicial boat strike; 47 killed in Haiti gang raid; Israel seizes Jerusalem UNRWA center",
-      "excerpt": "Drop Site Daily: August 25, 2026",
-      "link": "https://www.dropsitenews.com/p/us-boat-strike-haiti-gang-raid-israel-palestine-jerusalem-unrwa",
-      "published": "2026-08-25T15:41:15+00:00",
-      "featured": false
-    },
-    {
-      "id": "7b1aeb402531",
-      "source": "OCCRP",
-      "headline": "A Kidney Transplant, Ignored Advice, and a President’s Surprise Pick to Run a $160 Billion Pacific Island Mine",
-      "excerpt": "A Pacific island’s president bypassed an official selection process when he chose an Indian company to reopen a multi-billion dollar mine. He told OCCRP the firm’s managing director offered to pay for his wife's kidney...",
-      "link": "https://www.occrp.org/en/investigation/a-kidney-transplant-ignored-advice-and-a-presidents-surprise-choice-to-run-a-160-billion-pacific-island-mine",
-      "published": "2026-08-25T14:11:00+00:00",
       "featured": false
     },
     {
@@ -209,30 +209,39 @@
       "featured": false
     },
     {
-      "id": "2a640f23946d",
+      "id": "5ff425f53818",
       "source": "Al Jazeera",
-      "headline": "When is the Champions League draw, which teams are in, and what are the dates?",
-      "excerpt": "Thirty-six teams will learn their fate in a draw for the group phase, which will be followed by knockout rounds.",
-      "link": "https://www.aljazeera.com/sports/2026/8/26/when-is-the-champions-league-draw-which-teams-are-in-and-what-are-the-dates?traffic_source=rss",
-      "published": "2026-08-26T12:24:07+00:00",
+      "headline": "Israel extends campaign against UNRWA to advance West Bank annexation",
+      "excerpt": "Raid on UNRWA centre exposes Israel's strategic push to erase refugee rights, seal West Bank annexation, analysts say.",
+      "link": "https://www.aljazeera.com/news/2026/8/26/israel-extends-campaign-against-unrwa-to-advance-west-bank-annexation?traffic_source=rss",
+      "published": "2026-08-26T14:42:36+00:00",
       "featured": false
     },
     {
-      "id": "ff5c34ec537b",
+      "id": "59d95facf5ee",
+      "source": "Dropsite News",
+      "headline": "“Access to Oxygen Is Not a Medical Luxury”: With No Spare Parts Allowed In, Gaza’s Hospital Equipment Is Collapsing",
+      "excerpt": "Israel’s restrictions on medical supplies and equipment are still making health care in Gaza all but impossible.",
+      "link": "https://www.dropsitenews.com/p/gaza-hospitals-medical-equipment-supplies-israeli-blockade",
+      "published": "2026-08-26T14:33:56+00:00",
+      "featured": false
+    },
+    {
+      "id": "f03e89741a2a",
       "source": "404 Media",
-      "headline": "ICE Wants the Country’s Voter Data",
-      "excerpt": "Voting data is public by design, but ICE is looking for a federal contractor to help it handle voter registration and history files to find what it describes as fraud.",
-      "link": "https://www.404media.co/ice-wants-the-countrys-voter-data/",
-      "published": "2026-08-25T18:16:34+00:00",
+      "headline": "Podcast: Cops Are Making Fake Flock Cameras and Amazon Packages",
+      "excerpt": "Cops making fake Flock cameras to catch people, Darth Vader unmasked, and our three year anniversary.",
+      "link": "https://www.404media.co/podcast-cops-are-making-fake-flock-cameras-and-amazon-packages/",
+      "published": "2026-08-26T13:07:22+00:00",
       "featured": false
     },
     {
-      "id": "bc73bd8a7dd3",
+      "id": "e7775406fdab",
       "source": "The Intercept",
-      "headline": "Sixty More U.S. Soldiers Reported Injured in Iran War",
-      "excerpt": "A government official accused the Pentagon of “an accounting trick” in its slow tally of Iran war casualties. The post Sixty More U.S. Soldiers Reported Injured in Iran War appeared first on The Intercept.",
-      "link": "https://theintercept.com/2026/08/25/military-soldiers-wounded-casualties-iran-war/",
-      "published": "2026-08-25T15:15:45+00:00",
+      "headline": "Conservative Groups Side With Minneapolis Protesters Against Trump Crackdown",
+      "excerpt": "Right-leaning and libertarian groups told the court that ICE engaged in illegal “ideological targeting” of the left in the Minneapolis 15 case. The post Conservative Groups Side With Minneapolis Protesters Against Trump...",
+      "link": "https://theintercept.com/2026/08/25/minneapolis-ice-protesters-undercover-agents/",
+      "published": "2026-08-25T20:10:42+00:00",
       "featured": false
     },
     {
@@ -245,21 +254,12 @@
       "featured": false
     },
     {
-      "id": "e8b8bece7ceb",
+      "id": "7b1aeb402531",
       "source": "OCCRP",
-      "headline": "Armenia Detains Ex-President Kocharyan in Corruption Probe",
-      "excerpt": "",
-      "link": "https://www.occrp.org/en/news/armenia-detains-ex-president-kocharyan-in-corruption-probe",
-      "published": "2026-08-25T12:38:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "e17f0a36cc4b",
-      "source": "Dropsite News",
-      "headline": "Documents Reveal Trail of Unreported Millions From Israeli Military to U.S. Universities",
-      "excerpt": "Research funding by Israel’s Ministry of Defense and arms manufacturers often fails to appear in national databases intended to track foreign funding.",
-      "link": "https://www.dropsitenews.com/p/israel-military-funding-universities",
-      "published": "2026-08-24T21:09:37+00:00",
+      "headline": "A Kidney Transplant, Ignored Advice, and a President’s Surprise Pick to Run a $160 Billion Pacific Island Mine",
+      "excerpt": "A Pacific island’s president bypassed an official selection process when he chose an Indian company to reopen a multi-billion dollar mine. He told OCCRP the firm’s managing director offered to pay for his wife's kidney...",
+      "link": "https://www.occrp.org/en/investigation/a-kidney-transplant-ignored-advice-and-a-presidents-surprise-choice-to-run-a-160-billion-pacific-island-mine",
+      "published": "2026-08-25T14:11:00+00:00",
       "featured": false
     },
     {
@@ -308,39 +308,48 @@
       "featured": false
     },
     {
-      "id": "3d5396be4a0b",
+      "id": "3f3bb150f2cc",
       "source": "Al Jazeera",
-      "headline": "Photos: Avalanche floods kill eight, hundreds missing in Nepal’s Himalayas",
-      "excerpt": "Flash floods devastate Nepal's Himalayas, washing away villages and infrastructure along the Bhotekoshi river.",
-      "link": "https://www.aljazeera.com/gallery/2026/8/26/photos-avalanche-floods-kill-eight-hundreds-missing-in-nepals-himalayas?traffic_source=rss",
-      "published": "2026-08-26T12:22:53+00:00",
+      "headline": "Kremlin says CIA head met Russian intelligence officials, but not Putin",
+      "excerpt": "CIA's Ratcliffe has met with Russian intel officials in Moscow, but not President Putin; Kremlin calls talks 'positive'.",
+      "link": "https://www.aljazeera.com/news/2026/8/26/kremlin-says-cia-head-met-russian-intelligence-officials-but-not-putin?traffic_source=rss",
+      "published": "2026-08-26T14:30:24+00:00",
       "featured": false
     },
     {
-      "id": "821449d3a84a",
+      "id": "d785f4654c30",
+      "source": "Dropsite News",
+      "headline": "Imran Khan’s Health, Iran Under Sanctions",
+      "excerpt": "Drop Site reporters Murtaza Hussain and Waqas Ahmed discuss the fate of Imran Khan; Murtaza is later joined by analyst Esfandyar Batmanghelidj to discuss the impact of economic sanctions on Iran.",
+      "link": "https://www.dropsitenews.com/p/imran-khans-health-iran-under-sanctions",
+      "published": "2026-08-26T00:37:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "ee71ad1cd9ad",
       "source": "404 Media",
-      "headline": "Charges Dropped Against Person Who Clapped at a City Data Center Meeting",
-      "excerpt": "Lux Claridge was dragged from a city meeting about data centers and charged with interfering with the police after they clapped during a presentation.",
-      "link": "https://www.404media.co/charges-dropped-against-person-who-clapped-at-a-city-data-center-meeting/",
-      "published": "2026-08-25T16:33:48+00:00",
+      "headline": "Israel Is Running a Synthetic Think Tank to Influence AI Search Results",
+      "excerpt": "An Israel-funded think tank is churning out AI written essays to catch the attention of AI chatbots and warp search results.",
+      "link": "https://www.404media.co/israel-is-running-a-synthetic-think-tank-to-influence-ai-search-results/",
+      "published": "2026-08-25T18:35:26+00:00",
       "featured": false
     },
     {
-      "id": "613619def0bf",
-      "source": "OCCRP",
-      "headline": "Kazakhstan’s Election Brings a New Parliament — and More Pressure on Journalists",
-      "excerpt": "President Kassym-Jomart Tokayev’s allies dominated the vote as independent observers raised concerns over a campaign marked by restrictions on critical voices.",
-      "link": "https://www.occrp.org/en/news/kazakhstans-election-brings-a-new-parliament-and-more-pressure-on-journalists",
-      "published": "2026-08-25T11:54:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "60b533d765ac",
+      "id": "bc73bd8a7dd3",
       "source": "The Intercept",
-      "headline": "Local Cops Flout Sanctuary Law to Help ICE Deport Immigrants",
-      "excerpt": "Illinois law prohibits local collaboration with immigration enforcement officials, but the cops often find workarounds. The post Local Cops Flout Sanctuary Law to Help ICE Deport Immigrants appeared first on The...",
-      "link": "https://theintercept.com/2026/08/25/illinois-trust-act-ice-deport-police-collaboration/",
-      "published": "2026-08-25T11:00:00+00:00",
+      "headline": "Sixty More U.S. Soldiers Reported Injured in Iran War",
+      "excerpt": "A government official accused the Pentagon of “an accounting trick” in its slow tally of Iran war casualties. The post Sixty More U.S. Soldiers Reported Injured in Iran War appeared first on The Intercept.",
+      "link": "https://theintercept.com/2026/08/25/military-soldiers-wounded-casualties-iran-war/",
+      "published": "2026-08-25T15:15:45+00:00",
+      "featured": false
+    },
+    {
+      "id": "e8b8bece7ceb",
+      "source": "OCCRP",
+      "headline": "Armenia Detains Ex-President Kocharyan in Corruption Probe",
+      "excerpt": "",
+      "link": "https://www.occrp.org/en/news/armenia-detains-ex-president-kocharyan-in-corruption-probe",
+      "published": "2026-08-25T12:38:00+00:00",
       "featured": false
     },
     {
@@ -350,15 +359,6 @@
       "excerpt": "The post Children in a Faith-Healing Sect Keep Dying. The State Lets It Happen. appeared first on ProPublica.",
       "link": "https://www.propublica.org/article/faith-healing-idaho-deaths-followers-of-christ",
       "published": "2026-08-25T09:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "302e34663da9",
-      "source": "Dropsite News",
-      "headline": "Gary, Indiana still without power; U.S. to unveil “economic D-day” sanctions against Iran; Israel bombs mosque, desalination plant in Gaza",
-      "excerpt": "Drop Site Daily: August 24, 2026",
-      "link": "https://www.dropsitenews.com/p/gary-indiana-power-us-iran-sanctions-israel-gaza-mosque-desalination",
-      "published": "2026-08-24T16:22:32+00:00",
       "featured": false
     },
     {
@@ -407,30 +407,48 @@
       "featured": false
     },
     {
-      "id": "d006975b52f7",
+      "id": "2b7bdd23874a",
       "source": "Al Jazeera",
-      "headline": "England footballer Sterling charged with dangerous driving after collision",
-      "excerpt": "Raheem Sterling has also been accused of possession ​of nitrous oxide and will appear in court on September 15.",
-      "link": "https://www.aljazeera.com/sports/2026/8/26/england-footballer-sterling-charged-with-dangerous-driving-after-collision?traffic_source=rss",
-      "published": "2026-08-26T12:22:18+00:00",
+      "headline": "Meta agrees to settlement, platform changes in youth addiction case",
+      "excerpt": "Meta settles $16.68bn lawsuit over child addiction claims, agreeing to major changes in Facebook and Instagram features.",
+      "link": "https://www.aljazeera.com/economy/2026/8/26/meta-agrees-to-settlement-platform-changes-in-youth-addiction-case?traffic_source=rss",
+      "published": "2026-08-26T14:21:23+00:00",
       "featured": false
     },
     {
-      "id": "3739d0fa88aa",
+      "id": "ff5c34ec537b",
       "source": "404 Media",
-      "headline": "Man Charged With 3 Felonies For Breaking 3D-Printed ‘Decoy’ Flock Camera",
-      "excerpt": "Police are devising sting operations to catch Flock vandals, then charging them with felonies.",
-      "link": "https://www.404media.co/man-charged-with-3-felonies-for-breaking-3d-printed-decoy-flock-camera/",
-      "published": "2026-08-25T15:44:17+00:00",
+      "headline": "ICE Wants the Country’s Voter Data",
+      "excerpt": "Voting data is public by design, but ICE is looking for a federal contractor to help it handle voter registration and history files to find what it describes as fraud.",
+      "link": "https://www.404media.co/ice-wants-the-countrys-voter-data/",
+      "published": "2026-08-25T18:16:34+00:00",
       "featured": false
     },
     {
-      "id": "5aed00859fdc",
+      "id": "a59fc5c7d115",
+      "source": "Dropsite News",
+      "headline": "U.S. kills two in extrajudicial boat strike; 47 killed in Haiti gang raid; Israel seizes Jerusalem UNRWA center",
+      "excerpt": "Drop Site Daily: August 25, 2026",
+      "link": "https://www.dropsitenews.com/p/us-boat-strike-haiti-gang-raid-israel-palestine-jerusalem-unrwa",
+      "published": "2026-08-25T15:41:15+00:00",
+      "featured": false
+    },
+    {
+      "id": "613619def0bf",
       "source": "OCCRP",
-      "headline": "Europol Warns of Violent Shift in European Museum Heists",
-      "excerpt": "A new Europol report reveals that criminal gangs in Europe are increasingly turning to violent, direct force to breach museums as they target precious metals and jewels that can be easily liquidated.",
-      "link": "https://www.occrp.org/en/news/europol-warns-of-violent-shift-in-european-museum-heists",
-      "published": "2026-08-24T15:28:00+00:00",
+      "headline": "Kazakhstan’s Election Brings a New Parliament — and More Pressure on Journalists",
+      "excerpt": "President Kassym-Jomart Tokayev’s allies dominated the vote as independent observers raised concerns over a campaign marked by restrictions on critical voices.",
+      "link": "https://www.occrp.org/en/news/kazakhstans-election-brings-a-new-parliament-and-more-pressure-on-journalists",
+      "published": "2026-08-25T11:54:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "60b533d765ac",
+      "source": "The Intercept",
+      "headline": "Local Cops Flout Sanctuary Law to Help ICE Deport Immigrants",
+      "excerpt": "Illinois law prohibits local collaboration with immigration enforcement officials, but the cops often find workarounds. The post Local Cops Flout Sanctuary Law to Help ICE Deport Immigrants appeared first on The...",
+      "link": "https://theintercept.com/2026/08/25/illinois-trust-act-ice-deport-police-collaboration/",
+      "published": "2026-08-25T11:00:00+00:00",
       "featured": false
     },
     {
@@ -443,30 +461,12 @@
       "featured": false
     },
     {
-      "id": "78c3895aa4e3",
-      "source": "The Intercept",
-      "headline": "Pentagon Spokesperson Admits There’s a Secret Blacklist of Journalists",
-      "excerpt": "When pressed about the Iran war, a CENTCOM press official threatened to put an Intercept reporter on a “list of people to disregard.” The post Pentagon Spokesperson Admits There’s a Secret Blacklist of Journalists...",
-      "link": "https://theintercept.com/2026/08/24/pentagon-military-journalist-blacklist-press-media/",
-      "published": "2026-08-24T09:52:00+00:00",
-      "featured": false
-    },
-    {
       "id": "b03722e72116",
       "source": "The Lever",
       "headline": "You Love To See It: Hot Subway Summer",
       "excerpt": "Your commute gets renewable, paddles win out over profits, whales catch a break, and Big Bend fights back.",
       "link": "https://www.levernews.com/you-love-to-see-it-hot-subway-summer/",
       "published": "2026-08-22T13:03:14+00:00",
-      "featured": false
-    },
-    {
-      "id": "57ea522ed6e7",
-      "source": "Dropsite News",
-      "headline": "U.S. imposes new Cuba sanctions; Progressive wins California special election; Congo Ebola outbreak “growing exponentially”",
-      "excerpt": "Drop Site Daily: August 21, 2026",
-      "link": "https://www.dropsitenews.com/p/us-cuba-sanctions-progressive-aisha-wahab-california-congo-ebola-outbreak",
-      "published": "2026-08-21T15:47:03+00:00",
       "featured": false
     },
     {
@@ -497,48 +497,48 @@
       "featured": false
     },
     {
-      "id": "85e625ffe179",
+      "id": "300112d0d4c9",
       "source": "Al Jazeera",
-      "headline": "Iran, Oman agree on temporary Hormuz route: What we know",
-      "excerpt": "Iran’s deputy foreign minister announced a temporary shipping corridor in the Strait of Hormuz.",
-      "link": "https://www.aljazeera.com/news/2026/8/26/iran-oman-agree-on-temporary-hormuz-route-what-we-know?traffic_source=rss",
-      "published": "2026-08-26T12:05:09+00:00",
+      "headline": "Trump tells Al Jazeera ‘not in a hurry’ for Iran to return to talks",
+      "excerpt": "'I have no time schedule,' Trump says when asked when he expects Iran to return to the negotiating table.",
+      "link": "https://www.aljazeera.com/economy/2026/8/26/trump-tells-al-jazeera-not-in-a-hurry-for-iran-to-return-to-talks?traffic_source=rss",
+      "published": "2026-08-26T14:16:29+00:00",
       "featured": false
     },
     {
-      "id": "1539ccdae217",
+      "id": "821449d3a84a",
       "source": "404 Media",
-      "headline": "The Man Behind the Anti-Flock Darth Vader Mask Wants to Know: 'When Will This End?'",
-      "excerpt": "Anthony Ralphs has been speaking against Flock at San Diego City Council meetings for almost a year straight. When he showed up as Darth Vader, the world started watching.",
-      "link": "https://www.404media.co/darth-vader-flock-san-diego-city-council-interview/",
-      "published": "2026-08-25T13:52:35+00:00",
+      "headline": "Charges Dropped Against Person Who Clapped at a City Data Center Meeting",
+      "excerpt": "Lux Claridge was dragged from a city meeting about data centers and charged with interfering with the police after they clapped during a presentation.",
+      "link": "https://www.404media.co/charges-dropped-against-person-who-clapped-at-a-city-data-center-meeting/",
+      "published": "2026-08-25T16:33:48+00:00",
       "featured": false
     },
     {
-      "id": "698b6769556e",
+      "id": "e17f0a36cc4b",
+      "source": "Dropsite News",
+      "headline": "Documents Reveal Trail of Unreported Millions From Israeli Military to U.S. Universities",
+      "excerpt": "Research funding by Israel’s Ministry of Defense and arms manufacturers often fails to appear in national databases intended to track foreign funding.",
+      "link": "https://www.dropsitenews.com/p/israel-military-funding-universities",
+      "published": "2026-08-24T21:09:37+00:00",
+      "featured": false
+    },
+    {
+      "id": "5aed00859fdc",
       "source": "OCCRP",
-      "headline": "Philippines Arrests South Korean Woman Over Alleged $3.9B Online Gambling Operation",
-      "excerpt": "",
-      "link": "https://www.occrp.org/en/news/philippines-arrests-south-korean-woman-over-alleged-39b-online-gambling-operation",
-      "published": "2026-08-24T14:22:00+00:00",
+      "headline": "Europol Warns of Violent Shift in European Museum Heists",
+      "excerpt": "A new Europol report reveals that criminal gangs in Europe are increasingly turning to violent, direct force to breach museums as they target precious metals and jewels that can be easily liquidated.",
+      "link": "https://www.occrp.org/en/news/europol-warns-of-violent-shift-in-european-museum-heists",
+      "published": "2026-08-24T15:28:00+00:00",
       "featured": false
     },
     {
-      "id": "79532f7af312",
-      "source": "ProPublica",
-      "headline": "They Rebuilt After Texas’ Devastating Floods. Then Their Home Flooded Again.",
-      "excerpt": "The post They Rebuilt After Texas’ Devastating Floods. Then Their Home Flooded Again. appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/texas-flooding-2026-kerr-county",
-      "published": "2026-08-24T09:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "ac6c9617f0fe",
+      "id": "78c3895aa4e3",
       "source": "The Intercept",
-      "headline": "The Dawn of a New Cold War",
-      "excerpt": "The growing tension between the United States and China boils down to a battle over resources. The post The Dawn of a New Cold War appeared first on The Intercept.",
-      "link": "https://theintercept.com/2026/08/23/trump-china-ai-chips-rare-earth/",
-      "published": "2026-08-23T10:10:00+00:00",
+      "headline": "Pentagon Spokesperson Admits There’s a Secret Blacklist of Journalists",
+      "excerpt": "When pressed about the Iran war, a CENTCOM press official threatened to put an Intercept reporter on a “list of people to disregard.” The post Pentagon Spokesperson Admits There’s a Secret Blacklist of Journalists...",
+      "link": "https://theintercept.com/2026/08/24/pentagon-military-journalist-blacklist-press-media/",
+      "published": "2026-08-24T09:52:00+00:00",
       "featured": false
     }
   ]
