@@ -1,13 +1,31 @@
 {
-  "generated_at": "2026-08-25T21:44:36.892673+00:00",
+  "generated_at": "2026-08-26T01:58:52.802965+00:00",
   "articles": [
     {
-      "id": "f5e2ed0de32c",
+      "id": "70e5ca69696b",
       "source": "Al Jazeera",
-      "headline": "Who was the ‘Queen of Country’ Dolly Parton?",
-      "excerpt": "‘Queen of Country’ has died at 80 in Nashville, her family and representatives announced.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/who-was-the-queen-of-country-dolly-parton?traffic_source=rss",
-      "published": "2026-08-25T21:29:11+00:00",
+      "headline": "Malaysia’s Anwar puts non-aligned stance in focus with remarks on Taiwan",
+      "excerpt": "Malaysian leader's comments on the island have prompted discussion about whether the country is leaning towards China.",
+      "link": "https://www.aljazeera.com/news/2026/8/26/malaysias-anwar-puts-non-aligned-stance-in-focus-with-remarks-on-taiwan?traffic_source=rss",
+      "published": "2026-08-26T01:43:50+00:00",
+      "featured": true
+    },
+    {
+      "id": "d785f4654c30",
+      "source": "Dropsite News",
+      "headline": "Imran Khan’s Health, Iran Under Sanctions",
+      "excerpt": "Drop Site reporters Murtaza Hussain and Waqas Ahmed discuss the fate of Imran Khan; Murtaza is later joined by analyst Esfandyar Batmanghelidj to discuss the impact of economic sanctions on Iran.",
+      "link": "https://www.dropsitenews.com/p/imran-khans-health-iran-under-sanctions",
+      "published": "2026-08-26T00:37:00+00:00",
+      "featured": true
+    },
+    {
+      "id": "accb9863bdd1",
+      "source": "The Lever",
+      "headline": "Nevada Governor Backed Data Centers Days After $1 Million Donation",
+      "excerpt": "AI-linked donors poured $2 million into Republican Joe Lombardo’s reelection campaign as he championed data centers that could consume enough water for 150,000 households.",
+      "link": "https://www.levernews.com/nevada-governor-backed-data-centers-days-after-1-million-donation/",
+      "published": "2026-08-25T23:15:24+00:00",
       "featured": true
     },
     {
@@ -17,7 +35,7 @@
       "excerpt": "Right-leaning and libertarian groups told the court that ICE engaged in illegal “ideological targeting” of the left in the Minneapolis 15 case. The post Conservative Groups Side With Minneapolis Protesters Against Trump...",
       "link": "https://theintercept.com/2026/08/25/minneapolis-ice-protesters-undercover-agents/",
       "published": "2026-08-25T20:10:42+00:00",
-      "featured": true
+      "featured": false
     },
     {
       "id": "ee71ad1cd9ad",
@@ -26,24 +44,6 @@
       "excerpt": "An Israel-funded think tank is churning out AI written essays to catch the attention of AI chatbots and warp search results.",
       "link": "https://www.404media.co/israel-is-running-a-synthetic-think-tank-to-influence-ai-search-results/",
       "published": "2026-08-25T18:35:26+00:00",
-      "featured": true
-    },
-    {
-      "id": "0b9606f2b5c2",
-      "source": "The Lever",
-      "headline": "Democrats Want A Break From Israel",
-      "excerpt": "Key Democratic voters want a 2028 presidential candidate who will cut off military aid to Israel.",
-      "link": "https://www.levernews.com/democrats-want-a-break-from-israel/",
-      "published": "2026-08-25T16:27:08+00:00",
-      "featured": false
-    },
-    {
-      "id": "a59fc5c7d115",
-      "source": "Dropsite News",
-      "headline": "U.S. kills two in extrajudicial boat strike; 47 killed in Haiti gang raid; Israel seizes Jerusalem UNRWA center",
-      "excerpt": "Drop Site Daily: August 25, 2026",
-      "link": "https://www.dropsitenews.com/p/us-boat-strike-haiti-gang-raid-israel-palestine-jerusalem-unrwa",
-      "published": "2026-08-25T15:41:15+00:00",
       "featured": false
     },
     {
@@ -110,12 +110,12 @@
       "featured": false
     },
     {
-      "id": "37bac3615edb",
+      "id": "c60a5ec3c90b",
       "source": "Al Jazeera",
-      "headline": "Seven killed in Gaza as Israeli strike ‘destroys’ aid supply warehouse",
-      "excerpt": "Health Ministry warns of 'complete collapse of the basic necessities of life' in Gaza as Israel's attacks continue.",
-      "link": "https://www.aljazeera.com/news/2026/8/25/seven-killed-in-gaza-as-israeli-strike-destroys-aid-supply-warehouse?traffic_source=rss",
-      "published": "2026-08-25T21:26:25+00:00",
+      "headline": "Is Sudan’s battlefield shaping the terms of its next political phase?",
+      "excerpt": "Army gains, RSF defections and al-Burhan’s political push point to a possible shift in Sudan’s war.",
+      "link": "https://www.aljazeera.com/news/2026/8/26/is-sudans-battlefield-shaping-the-terms-of-its-next-political-phase?traffic_source=rss",
+      "published": "2026-08-26T01:00:17+00:00",
       "featured": false
     },
     {
@@ -125,6 +125,24 @@
       "excerpt": "Voting data is public by design, but ICE is looking for a federal contractor to help it handle voter registration and history files to find what it describes as fraud.",
       "link": "https://www.404media.co/ice-wants-the-countrys-voter-data/",
       "published": "2026-08-25T18:16:34+00:00",
+      "featured": false
+    },
+    {
+      "id": "0b9606f2b5c2",
+      "source": "The Lever",
+      "headline": "Democrats Want A Break From Israel",
+      "excerpt": "Key Democratic voters want a 2028 presidential candidate who will cut off military aid to Israel.",
+      "link": "https://www.levernews.com/democrats-want-a-break-from-israel/",
+      "published": "2026-08-25T16:27:08+00:00",
+      "featured": false
+    },
+    {
+      "id": "a59fc5c7d115",
+      "source": "Dropsite News",
+      "headline": "U.S. kills two in extrajudicial boat strike; 47 killed in Haiti gang raid; Israel seizes Jerusalem UNRWA center",
+      "excerpt": "Drop Site Daily: August 25, 2026",
+      "link": "https://www.dropsitenews.com/p/us-boat-strike-haiti-gang-raid-israel-palestine-jerusalem-unrwa",
+      "published": "2026-08-25T15:41:15+00:00",
       "featured": false
     },
     {
@@ -152,24 +170,6 @@
       "excerpt": "The post Children in a Faith-Healing Sect Keep Dying. The State Lets It Happen. appeared first on ProPublica.",
       "link": "https://www.propublica.org/article/faith-healing-idaho-deaths-followers-of-christ",
       "published": "2026-08-25T09:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "e17f0a36cc4b",
-      "source": "Dropsite News",
-      "headline": "Documents Reveal Trail of Unreported Millions From Israeli Military to U.S. Universities",
-      "excerpt": "Research funding by Israel’s Ministry of Defense and arms manufacturers often fails to appear in national databases intended to track foreign funding.",
-      "link": "https://www.dropsitenews.com/p/israel-military-funding-universities",
-      "published": "2026-08-24T21:09:37+00:00",
-      "featured": false
-    },
-    {
-      "id": "2027e0f99f7f",
-      "source": "The Lever",
-      "headline": "Hollywood’s Hangover",
-      "excerpt": "The $111 billion merger between Paramount and Warner Bros. Discovery could cause thousands of workers to lose their jobs, according to new research.",
-      "link": "https://www.levernews.com/hollywoods-hangover/",
-      "published": "2026-08-24T16:39:46+00:00",
       "featured": false
     },
     {
@@ -209,12 +209,12 @@
       "featured": false
     },
     {
-      "id": "d14675ed15b9",
+      "id": "47ef060f628b",
       "source": "Al Jazeera",
-      "headline": "US soldier who called for Trump impeachment facing military charges",
-      "excerpt": "Major Jason Watson faces charges under rarely-used military law prohibiting criticism of the US president.",
-      "link": "https://www.aljazeera.com/news/2026/8/25/us-soldier-who-called-for-trump-impeachment-facing-military-charges?traffic_source=rss",
-      "published": "2026-08-25T21:16:43+00:00",
+      "headline": "Human rights situation in Myanmar ‘plummets to new low’, UN says",
+      "excerpt": "New report says abuses against Rohingya and unchecked resource exploitation deepening crisis in Myanmar.",
+      "link": "https://www.aljazeera.com/news/2026/8/26/rights-abuses-in-myanmar-plummets-to-new-low-un-says?traffic_source=rss",
+      "published": "2026-08-26T00:29:01+00:00",
       "featured": false
     },
     {
@@ -245,12 +245,21 @@
       "featured": false
     },
     {
-      "id": "302e34663da9",
+      "id": "e17f0a36cc4b",
       "source": "Dropsite News",
-      "headline": "Gary, Indiana still without power; U.S. to unveil “economic D-day” sanctions against Iran; Israel bombs mosque, desalination plant in Gaza",
-      "excerpt": "Drop Site Daily: August 24, 2026",
-      "link": "https://www.dropsitenews.com/p/gary-indiana-power-us-iran-sanctions-israel-gaza-mosque-desalination",
-      "published": "2026-08-24T16:22:32+00:00",
+      "headline": "Documents Reveal Trail of Unreported Millions From Israeli Military to U.S. Universities",
+      "excerpt": "Research funding by Israel’s Ministry of Defense and arms manufacturers often fails to appear in national databases intended to track foreign funding.",
+      "link": "https://www.dropsitenews.com/p/israel-military-funding-universities",
+      "published": "2026-08-24T21:09:37+00:00",
+      "featured": false
+    },
+    {
+      "id": "2027e0f99f7f",
+      "source": "The Lever",
+      "headline": "Hollywood’s Hangover",
+      "excerpt": "The $111 billion merger between Paramount and Warner Bros. Discovery could cause thousands of workers to lose their jobs, according to new research.",
+      "link": "https://www.levernews.com/hollywoods-hangover/",
+      "published": "2026-08-24T16:39:46+00:00",
       "featured": false
     },
     {
@@ -260,15 +269,6 @@
       "excerpt": "The post His Research on Pregnant Opioid Users Was Widely Celebrated. Auditors and Experts Found Major Flaws. appeared first on ProPublica.",
       "link": "https://www.propublica.org/article/craig-towers-knoxville-tennessee-newborn-withdrawal-study",
       "published": "2026-08-24T10:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "67c60bda9551",
-      "source": "The Lever",
-      "headline": "Lever Weekly: The Data Center Plot Twist",
-      "excerpt": "Politically dicey investment portfolios, social media mega-banks, and more from The Lever this week.",
-      "link": "https://www.levernews.com/lever-weekly-the-data-center-plot-twist/",
-      "published": "2026-08-23T13:05:49+00:00",
       "featured": false
     },
     {
@@ -308,12 +308,12 @@
       "featured": false
     },
     {
-      "id": "01c63a2ac363",
+      "id": "0f411f4270a9",
       "source": "Al Jazeera",
-      "headline": "US lawmakers urge Trump team to free of American student held by Israel",
-      "excerpt": "Congress members call on Marco Rubio to 'use every tool' at his disposal to secure release of 20-year-old Sama Safi.",
-      "link": "https://www.aljazeera.com/news/2026/8/25/us-lawmakers-urge-trump-team-to-free-of-american-student-held-by-israel?traffic_source=rss",
-      "published": "2026-08-25T21:09:35+00:00",
+      "headline": "Iran war live: Iran says Hormuz remains closed despite Oman route deal",
+      "excerpt": "Tehran says the agreement with Oman on routes through Hormuz does not indicate that the strait is open.",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/8/26/iran-war-live-iran-says-hormuz-remains-closed-despite-oman-rout-deal?traffic_source=rss",
+      "published": "2026-08-26T00:00:00+00:00",
       "featured": false
     },
     {
@@ -323,6 +323,15 @@
       "excerpt": "Police are devising sting operations to catch Flock vandals, then charging them with felonies.",
       "link": "https://www.404media.co/man-charged-with-3-felonies-for-breaking-3d-printed-decoy-flock-camera/",
       "published": "2026-08-25T15:44:17+00:00",
+      "featured": false
+    },
+    {
+      "id": "302e34663da9",
+      "source": "Dropsite News",
+      "headline": "Gary, Indiana still without power; U.S. to unveil “economic D-day” sanctions against Iran; Israel bombs mosque, desalination plant in Gaza",
+      "excerpt": "Drop Site Daily: August 24, 2026",
+      "link": "https://www.dropsitenews.com/p/gary-indiana-power-us-iran-sanctions-israel-gaza-mosque-desalination",
+      "published": "2026-08-24T16:22:32+00:00",
       "featured": false
     },
     {
@@ -353,21 +362,12 @@
       "featured": false
     },
     {
-      "id": "b03722e72116",
+      "id": "67c60bda9551",
       "source": "The Lever",
-      "headline": "You Love To See It: Hot Subway Summer",
-      "excerpt": "Your commute gets renewable, paddles win out over profits, whales catch a break, and Big Bend fights back.",
-      "link": "https://www.levernews.com/you-love-to-see-it-hot-subway-summer/",
-      "published": "2026-08-22T13:03:14+00:00",
-      "featured": false
-    },
-    {
-      "id": "57ea522ed6e7",
-      "source": "Dropsite News",
-      "headline": "U.S. imposes new Cuba sanctions; Progressive wins California special election; Congo Ebola outbreak “growing exponentially”",
-      "excerpt": "Drop Site Daily: August 21, 2026",
-      "link": "https://www.dropsitenews.com/p/us-cuba-sanctions-progressive-aisha-wahab-california-congo-ebola-outbreak",
-      "published": "2026-08-21T15:47:03+00:00",
+      "headline": "Lever Weekly: The Data Center Plot Twist",
+      "excerpt": "Politically dicey investment portfolios, social media mega-banks, and more from The Lever this week.",
+      "link": "https://www.levernews.com/lever-weekly-the-data-center-plot-twist/",
+      "published": "2026-08-23T13:05:49+00:00",
       "featured": false
     },
     {
@@ -407,12 +407,12 @@
       "featured": false
     },
     {
-      "id": "556741ad4090",
+      "id": "fb850623be2d",
       "source": "Al Jazeera",
-      "headline": "Syrian Democratic Forces announce their dissolution",
-      "excerpt": "The Kurdish-led Syrian Democratic Forces will dissolve as an independent military force under an agreement with Damascus",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/syrian-democratic-forces-announce-their-dissolution?traffic_source=rss",
-      "published": "2026-08-25T21:09:05+00:00",
+      "headline": "Brazil fines TikTok $30m for child data privacy violations",
+      "excerpt": "Owner ByteDance ordered to erase illegally obtained child data in Brazil as crackdown on tech giants intensifies.",
+      "link": "https://www.aljazeera.com/news/2026/8/25/brazil-fines-tiktok-30m-for-child-data-privacy-violations?traffic_source=rss",
+      "published": "2026-08-25T22:06:49+00:00",
       "featured": false
     },
     {
@@ -443,12 +443,21 @@
       "featured": false
     },
     {
-      "id": "609dc9013dec",
+      "id": "b03722e72116",
       "source": "The Lever",
-      "headline": "Are Democrats Having A Tea Party Moment?",
-      "excerpt": "Test your knowledge of primary elections, A.I. training, and other issues that really matter.",
-      "link": "https://www.levernews.com/are-democrats-having-a-tea-party-moment/",
-      "published": "2026-08-21T16:29:54+00:00",
+      "headline": "You Love To See It: Hot Subway Summer",
+      "excerpt": "Your commute gets renewable, paddles win out over profits, whales catch a break, and Big Bend fights back.",
+      "link": "https://www.levernews.com/you-love-to-see-it-hot-subway-summer/",
+      "published": "2026-08-22T13:03:14+00:00",
+      "featured": false
+    },
+    {
+      "id": "57ea522ed6e7",
+      "source": "Dropsite News",
+      "headline": "U.S. imposes new Cuba sanctions; Progressive wins California special election; Congo Ebola outbreak “growing exponentially”",
+      "excerpt": "Drop Site Daily: August 21, 2026",
+      "link": "https://www.dropsitenews.com/p/us-cuba-sanctions-progressive-aisha-wahab-california-congo-ebola-outbreak",
+      "published": "2026-08-21T15:47:03+00:00",
       "featured": false
     },
     {
@@ -458,15 +467,6 @@
       "excerpt": "The post Missouri Republicans Are Trying to Repeal Abortion Rights by Leaning Into Anti-Trans Sentiment appeared first on ProPublica.",
       "link": "https://www.propublica.org/article/missouri-abortion-gender-transition-minors-amendment-3",
       "published": "2026-08-21T10:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "84a8fa63601d",
-      "source": "Dropsite News",
-      "headline": "The Israeli Siege of Palestinian Families in Qusra Is Part of an Escalating Tactic",
-      "excerpt": "Israeli settlers and soldiers are increasingly targeting Palestinians in Area B of the occupied West Bank to force them from their homes.",
-      "link": "https://www.dropsitenews.com/p/qusra-siege-israeli-settlers-soldiers-palestinians-west-bank",
-      "published": "2026-08-20T19:48:07+00:00",
       "featured": false
     },
     {
@@ -497,12 +497,12 @@
       "featured": false
     },
     {
-      "id": "91af863ad509",
+      "id": "70be1d328a23",
       "source": "Al Jazeera",
-      "headline": "Real Madrid vs Sociedad: La Liga – prediction, team news, lineups",
-      "excerpt": "Kylian Mbappe and Jude Bellingham headline against Sociedad as Real seek consecutive wins to open La Liga season.",
-      "link": "https://www.aljazeera.com/sports/2026/8/25/real-madrid-vs-sociedad-la-liga-prediction-teams-lineups?traffic_source=rss",
-      "published": "2026-08-25T20:41:50+00:00",
+      "headline": "Why can’t America agree on what time it is?",
+      "excerpt": "Why can’t America agree on what time it is?",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/why-cant-america-agree-on-what-time-it-is?traffic_source=rss",
+      "published": "2026-08-25T22:05:42+00:00",
       "featured": false
     },
     {
@@ -533,12 +533,12 @@
       "featured": false
     },
     {
-      "id": "ec5bb9926b70",
-      "source": "ProPublica",
-      "headline": "Oregon Is Spending More Than Ever on Low-Income Housing. A State Law Keeps the Details Secret.",
-      "excerpt": "The post Oregon Is Spending More Than Ever on Low-Income Housing. A State Law Keeps the Details Secret. appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/oregon-affordable-housing-cost-secrecy",
-      "published": "2026-08-21T09:00:00+00:00",
+      "id": "609dc9013dec",
+      "source": "The Lever",
+      "headline": "Are Democrats Having A Tea Party Moment?",
+      "excerpt": "Test your knowledge of primary elections, A.I. training, and other issues that really matter.",
+      "link": "https://www.levernews.com/are-democrats-having-a-tea-party-moment/",
+      "published": "2026-08-21T16:29:54+00:00",
       "featured": false
     }
   ]
