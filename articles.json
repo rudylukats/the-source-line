@@ -1,6 +1,33 @@
 {
-  "generated_at": "2026-08-26T20:03:20.058871+00:00",
+  "generated_at": "2026-08-27T00:48:15.697558+00:00",
   "articles": [
+    {
+      "id": "180944bd4c34",
+      "source": "Al Jazeera",
+      "headline": "Tim Curry, star of The Rocky Horror Picture Show, dies at age 80",
+      "excerpt": "Curry, a three-time Tony nominee, was best known for his portrayal of Dr Frank-N-Furter in the cult classic musical.",
+      "link": "https://www.aljazeera.com/news/2026/8/27/tim-curry-star-of-the-rocky-horror-picture-show-dies-at-age-80?traffic_source=rss",
+      "published": "2026-08-27T00:07:14+00:00",
+      "featured": true
+    },
+    {
+      "id": "f79e49613edb",
+      "source": "OCCRP",
+      "headline": "‘I Had No Involvement. Zero.’: Accused Mastermind Denies Killing Maltese Journalist",
+      "excerpt": "Yorgen Fenech testified he was innocent in the death of Daphne Caruana Galizia, even as prosecutors pressed him on cash payments to a middleman and leaked police files.",
+      "link": "https://www.occrp.org/en/news/i-had-no-involvement-zero-accused-mastermind-denies-killing-maltese-journalist",
+      "published": "2026-08-26T20:30:00+00:00",
+      "featured": true
+    },
+    {
+      "id": "abb38d6ced60",
+      "source": "Dropsite News",
+      "headline": "Elements of Venezuelan Government Loyal to Chavismo Warn of Possible U.S. Assault",
+      "excerpt": "Leaders of the 23 de Enero parish, a stronghold of Chavismo resistance in Caracas, fear the U.S. will try to dismantle their grassroots democracy.",
+      "link": "https://www.dropsitenews.com/p/venezuela-maduro-juan-contreras-trump-oil",
+      "published": "2026-08-26T20:21:12+00:00",
+      "featured": true
+    },
     {
       "id": "c5461933be20",
       "source": "404 Media",
@@ -8,16 +35,7 @@
       "excerpt": "Weiheng Zeng originally said he took photos of planes for an aviation fan website. Later he admitted a suspected Chinese government official had given him specific locations in the U.S. to go photograph.",
       "link": "https://www.404media.co/a-student-said-he-was-a-hobby-plane-spotter-he-was-allegedly-taking-photos-for-the-chinese-government/",
       "published": "2026-08-26T19:46:56+00:00",
-      "featured": true
-    },
-    {
-      "id": "baf268119855",
-      "source": "Al Jazeera",
-      "headline": "Israel-Hamas truce failure ‘point of no return,’ envoy warns",
-      "excerpt": "Hamas has pledged to hand over its weapons as part of the US plan for Gaza, which Israeli PM Netanyahu has rejected.",
-      "link": "https://www.aljazeera.com/news/2026/8/26/israel-hamas-truce-failure-point-of-no-return-envoy-warns?traffic_source=rss",
-      "published": "2026-08-26T19:31:34+00:00",
-      "featured": true
+      "featured": false
     },
     {
       "id": "5922f7299c46",
@@ -26,7 +44,7 @@
       "excerpt": "Driscoll’s is the middleman that controls the genetics, reaps the profits, and then shifts blame.",
       "link": "https://substack.perfectunion.us/p/i-tracked-down-the-company-ruining",
       "published": "2026-08-26T17:57:20+00:00",
-      "featured": true
+      "featured": false
     },
     {
       "id": "f860e9819a70",
@@ -44,24 +62,6 @@
       "excerpt": "In the besieged West Bank village of Qusra, the workers were building a fence for keeping settlers out. Soldiers allowed the settlers to trespass. The post Palestinians Asked for Help Against Settlers. Israelis Detained...",
       "link": "https://theintercept.com/2026/08/26/settlers-israel-soldiers-west-bank-siege-qusra/",
       "published": "2026-08-26T16:27:37+00:00",
-      "featured": false
-    },
-    {
-      "id": "d8d80cc34dd3",
-      "source": "Dropsite News",
-      "headline": "Pakistani “Double-Tap” Strike in June Wrought Havoc on Afghan Villagers",
-      "excerpt": "A Pakistani airstrike on a residential area in Samkani killed at least 22 civilians. At Paktia Central Hospital, doctors worked through the night to save the wounded.",
-      "link": "https://www.dropsitenews.com/p/pakistan-double-tap-afghanistan-samkani",
-      "published": "2026-08-26T15:50:22+00:00",
-      "featured": false
-    },
-    {
-      "id": "a1b895c4c65e",
-      "source": "OCCRP",
-      "headline": "Armenian Court Orders Son of Ex-President Held in Sweeping Graft Probe",
-      "excerpt": "A Yerevan court ordered the pretrial detention of Sedrak Kocharyan as prosecutors expand a multi-million-dollar corruption investigation into his father, former President Robert Kocharyan, and other high-ranking...",
-      "link": "https://www.occrp.org/en/news/armenian-court-orders-son-of-ex-president-held-in-sweeping-graft-probe",
-      "published": "2026-08-26T15:18:00+00:00",
       "featured": false
     },
     {
@@ -110,12 +110,12 @@
       "featured": false
     },
     {
-      "id": "948c55113281",
+      "id": "9ca9078792fe",
       "source": "Al Jazeera",
-      "headline": "UNRWA chief condemns Israeli seizure of East Jerusalem facility",
-      "excerpt": "Christian Saunders tells Al Jazeera raid part of campaign to weaken agency and eliminate Palestinian rights.",
-      "link": "https://www.aljazeera.com/news/2026/8/26/unrwa-chief-condemns-israeli-seizure-of-east-jerusalem-facility?traffic_source=rss",
-      "published": "2026-08-26T19:25:04+00:00",
+      "headline": "Iran war live: Qatar PM to visit Tehran; Trump ‘not in a hurry’ over talks",
+      "excerpt": "Qatar's PM will meet Iranian officials to discuss ways to de-escalate tensions in the region, foreign ministry says.",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/8/27/iran-war-live-trump-not-in-hurry-over-talks-tehran-defends-us-dialogue?traffic_source=rss",
+      "published": "2026-08-27T00:00:00+00:00",
       "featured": false
     },
     {
@@ -128,21 +128,21 @@
       "featured": false
     },
     {
-      "id": "c696d6ea656a",
+      "id": "d8d80cc34dd3",
       "source": "Dropsite News",
-      "headline": "Meta settles social media addiction suit; Canada strikes back in U.S. trade war; at least 95 killed in Nepal flash flood",
-      "excerpt": "Drop Site Daily: August 26, 2026",
-      "link": "https://www.dropsitenews.com/p/meta-social-media-suit-canada-us-trade-tariffs-nepal-flash-flood",
-      "published": "2026-08-26T15:44:53+00:00",
+      "headline": "Pakistani “Double-Tap” Strike in June Wrought Havoc on Afghan Villagers",
+      "excerpt": "A Pakistani airstrike on a residential area in Samkani killed at least 22 civilians. At Paktia Central Hospital, doctors worked through the night to save the wounded.",
+      "link": "https://www.dropsitenews.com/p/pakistan-double-tap-afghanistan-samkani",
+      "published": "2026-08-26T15:50:22+00:00",
       "featured": false
     },
     {
-      "id": "ebc3b677a979",
+      "id": "a1b895c4c65e",
       "source": "OCCRP",
-      "headline": "Designed for Impact: The Next Evolution of OCCRP’s Website",
-      "excerpt": "",
-      "link": "https://www.occrp.org/en/announcement/designed-for-impact-the-next-evolution-of-occrps-website",
-      "published": "2026-08-26T11:14:00+00:00",
+      "headline": "Armenian Court Orders Son of Ex-President Held in Sweeping Graft Probe",
+      "excerpt": "A Yerevan court ordered the pretrial detention of Sedrak Kocharyan as prosecutors expand a multi-million-dollar corruption investigation into his father, former President Robert Kocharyan, and other high-ranking...",
+      "link": "https://www.occrp.org/en/news/armenian-court-orders-son-of-ex-president-held-in-sweeping-graft-probe",
+      "published": "2026-08-26T15:18:00+00:00",
       "featured": false
     },
     {
@@ -209,21 +209,21 @@
       "featured": false
     },
     {
-      "id": "16aca4bc4e4b",
+      "id": "b3fa89156f16",
       "source": "Al Jazeera",
-      "headline": "German airport workers die from malaria caught from plane-riding mosquito",
-      "excerpt": "Four infected employees being treated in hospital; mosquito traps deployed at Frankfurt hub.",
-      "link": "https://www.aljazeera.com/news/2026/8/26/german-airport-workers-die-from-malaria-caught-from-plane-riding-mosquito?traffic_source=rss",
-      "published": "2026-08-26T19:21:26+00:00",
+      "headline": "World Health Organization says Ebola outbreak in Uganda is over",
+      "excerpt": "International body declares Uganda Ebola-free after 42 days without new transmission, though cases rise in DR Congo.",
+      "link": "https://www.aljazeera.com/news/2026/8/26/world-health-organization-says-ebola-outbreak-in-uganda-is-over?traffic_source=rss",
+      "published": "2026-08-26T23:46:49+00:00",
       "featured": false
     },
     {
-      "id": "59d95facf5ee",
+      "id": "c696d6ea656a",
       "source": "Dropsite News",
-      "headline": "“Access to Oxygen Is Not a Medical Luxury”: With No Spare Parts Allowed In, Gaza’s Hospital Equipment Is Collapsing",
-      "excerpt": "Israel’s restrictions on medical supplies and equipment are still making health care in Gaza all but impossible.",
-      "link": "https://www.dropsitenews.com/p/gaza-hospitals-medical-equipment-supplies-israeli-blockade",
-      "published": "2026-08-26T14:33:56+00:00",
+      "headline": "Meta settles social media addiction suit; Canada strikes back in U.S. trade war; at least 95 killed in Nepal flash flood",
+      "excerpt": "Drop Site Daily: August 26, 2026",
+      "link": "https://www.dropsitenews.com/p/meta-social-media-suit-canada-us-trade-tariffs-nepal-flash-flood",
+      "published": "2026-08-26T15:44:53+00:00",
       "featured": false
     },
     {
@@ -233,6 +233,15 @@
       "excerpt": "Garrett Langley, Flock’s CEO, told cops that a 404 Media story about cops using Flock to track someone who self-administered an abortion was \"entirely false.\" He's lying.",
       "link": "https://www.404media.co/flocks-ceo-is-lying-to-cops-about-404-medias-reporting-on-abortion-case/",
       "published": "2026-08-26T13:44:05+00:00",
+      "featured": false
+    },
+    {
+      "id": "ebc3b677a979",
+      "source": "OCCRP",
+      "headline": "Designed for Impact: The Next Evolution of OCCRP’s Website",
+      "excerpt": "",
+      "link": "https://www.occrp.org/en/announcement/designed-for-impact-the-next-evolution-of-occrps-website",
+      "published": "2026-08-26T11:14:00+00:00",
       "featured": false
     },
     {
@@ -260,15 +269,6 @@
       "excerpt": "The post Top Commanders Told Hegseth Not to Cut Civilian Protection Program, Poll Showed. He Did It Anyway. appeared first on ProPublica.",
       "link": "https://www.propublica.org/article/hegseth-civilian-harm-mitigation-response-trump-defense-department",
       "published": "2026-08-25T15:05:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "7b1aeb402531",
-      "source": "OCCRP",
-      "headline": "A Kidney Transplant, Ignored Advice, and a President’s Surprise Pick to Run a $160 Billion Pacific Island Mine",
-      "excerpt": "A Pacific island’s president bypassed an official selection process when he chose an Indian company to reopen a multi-billion dollar mine. He told OCCRP the firm’s managing director offered to pay for his wife's kidney...",
-      "link": "https://www.occrp.org/en/investigation/a-kidney-transplant-ignored-advice-and-a-presidents-surprise-choice-to-run-a-160-billion-pacific-island-mine",
-      "published": "2026-08-25T14:11:00+00:00",
       "featured": false
     },
     {
@@ -308,12 +308,21 @@
       "featured": false
     },
     {
-      "id": "481634a58030",
+      "id": "dca5c834ce79",
       "source": "Al Jazeera",
-      "headline": "Israeli forces install new gate, isolating Palestinian village",
-      "excerpt": "Israeli forces installed gates around the home of Palestinian American Lou Ridi in Qusra, in the occupied West Bank.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/israeli-forces-install-new-gate-isolating-palestinian-village?traffic_source=rss",
-      "published": "2026-08-26T19:09:38+00:00",
+      "headline": "Spain’s tomato food fight leaves thousands covered in pulp",
+      "excerpt": "Thousands of people pelt each other with tomatoes as Spain’s famous ‘La Tomatina’ festival gets underway.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/spains-tomato-food-fight-leaves-thousands-covered-in-pulp?traffic_source=rss",
+      "published": "2026-08-26T23:23:18+00:00",
+      "featured": false
+    },
+    {
+      "id": "59d95facf5ee",
+      "source": "Dropsite News",
+      "headline": "“Access to Oxygen Is Not a Medical Luxury”: With No Spare Parts Allowed In, Gaza’s Hospital Equipment Is Collapsing",
+      "excerpt": "Israel’s restrictions on medical supplies and equipment are still making health care in Gaza all but impossible.",
+      "link": "https://www.dropsitenews.com/p/gaza-hospitals-medical-equipment-supplies-israeli-blockade",
+      "published": "2026-08-26T14:33:56+00:00",
       "featured": false
     },
     {
@@ -326,15 +335,6 @@
       "featured": false
     },
     {
-      "id": "d785f4654c30",
-      "source": "Dropsite News",
-      "headline": "Imran Khan’s Health, Iran Under Sanctions",
-      "excerpt": "Drop Site reporters Murtaza Hussain and Waqas Ahmed discuss the fate of Imran Khan; Murtaza is later joined by analyst Esfandyar Batmanghelidj to discuss the impact of economic sanctions on Iran.",
-      "link": "https://www.dropsitenews.com/p/imran-khans-health-iran-under-sanctions",
-      "published": "2026-08-26T00:37:00+00:00",
-      "featured": false
-    },
-    {
       "id": "bc73bd8a7dd3",
       "source": "The Intercept",
       "headline": "Sixty More U.S. Soldiers Reported Injured in Iran War",
@@ -344,12 +344,12 @@
       "featured": false
     },
     {
-      "id": "e8b8bece7ceb",
+      "id": "7b1aeb402531",
       "source": "OCCRP",
-      "headline": "Armenia Detains Ex-President Kocharyan in Corruption Probe",
-      "excerpt": "",
-      "link": "https://www.occrp.org/en/news/armenia-detains-ex-president-kocharyan-in-corruption-probe",
-      "published": "2026-08-25T12:38:00+00:00",
+      "headline": "A Kidney Transplant, Ignored Advice, and a President’s Surprise Pick to Run a $160 Billion Pacific Island Mine",
+      "excerpt": "A Pacific island’s president bypassed an official selection process when he chose an Indian company to reopen a multi-billion dollar mine. He told OCCRP the firm’s managing director offered to pay for his wife's kidney...",
+      "link": "https://www.occrp.org/en/investigation/a-kidney-transplant-ignored-advice-and-a-presidents-surprise-choice-to-run-a-160-billion-pacific-island-mine",
+      "published": "2026-08-25T14:11:00+00:00",
       "featured": false
     },
     {
@@ -407,12 +407,12 @@
       "featured": false
     },
     {
-      "id": "887882fdc1c3",
+      "id": "703ef5b3b92a",
       "source": "Al Jazeera",
-      "headline": "Kurdish-led SDF has dissolved, but has Syria really unified its military?",
-      "excerpt": "SDF's dissolution is a major victory for Damascus, but unresolved questions over command and deployment remain.",
-      "link": "https://www.aljazeera.com/news/2026/8/26/kurdish-led-sdf-has-dissolved-but-has-syria-really-unified-its-military?traffic_source=rss",
-      "published": "2026-08-26T18:19:14+00:00",
+      "headline": "Barcelona vs Athletic Club: La Liga – prediction, teams, lineups",
+      "excerpt": "Lamine Yamal and Raphinha will seek to add to Barcelona's five-star La Liga opener when Athletic arrive from Bilbao.",
+      "link": "https://www.aljazeera.com/sports/2026/8/26/barcelona-vs-athletic-club-la-liga-prediction-teams-lineups?traffic_source=rss",
+      "published": "2026-08-26T22:56:33+00:00",
       "featured": false
     },
     {
@@ -425,21 +425,21 @@
       "featured": false
     },
     {
-      "id": "a59fc5c7d115",
+      "id": "d785f4654c30",
       "source": "Dropsite News",
-      "headline": "U.S. kills two in extrajudicial boat strike; 47 killed in Haiti gang raid; Israel seizes Jerusalem UNRWA center",
-      "excerpt": "Drop Site Daily: August 25, 2026",
-      "link": "https://www.dropsitenews.com/p/us-boat-strike-haiti-gang-raid-israel-palestine-jerusalem-unrwa",
-      "published": "2026-08-25T15:41:15+00:00",
+      "headline": "Imran Khan’s Health, Iran Under Sanctions",
+      "excerpt": "Drop Site reporters Murtaza Hussain and Waqas Ahmed discuss the fate of Imran Khan; Murtaza is later joined by analyst Esfandyar Batmanghelidj to discuss the impact of economic sanctions on Iran.",
+      "link": "https://www.dropsitenews.com/p/imran-khans-health-iran-under-sanctions",
+      "published": "2026-08-26T00:37:00+00:00",
       "featured": false
     },
     {
-      "id": "613619def0bf",
+      "id": "e8b8bece7ceb",
       "source": "OCCRP",
-      "headline": "Kazakhstan’s Election Brings a New Parliament — and More Pressure on Journalists",
-      "excerpt": "President Kassym-Jomart Tokayev’s allies dominated the vote as independent observers raised concerns over a campaign marked by restrictions on critical voices.",
-      "link": "https://www.occrp.org/en/news/kazakhstans-election-brings-a-new-parliament-and-more-pressure-on-journalists",
-      "published": "2026-08-25T11:54:00+00:00",
+      "headline": "Armenia Detains Ex-President Kocharyan in Corruption Probe",
+      "excerpt": "",
+      "link": "https://www.occrp.org/en/news/armenia-detains-ex-president-kocharyan-in-corruption-probe",
+      "published": "2026-08-25T12:38:00+00:00",
       "featured": false
     },
     {
@@ -497,12 +497,12 @@
       "featured": false
     },
     {
-      "id": "ca3ae9943f8c",
+      "id": "4c81a6410217",
       "source": "Al Jazeera",
-      "headline": "UEFA set to end FIFA boycott threat over Infantino’s $20bn investor plan",
-      "excerpt": "UEFA set to end threat of FIFA events boycott after assurances over Gianni Infantino's failed World Cup investor plan.",
-      "link": "https://www.aljazeera.com/sports/2026/8/26/uefa-set-to-end-boycott-of-fifa-events-over-infantinos-failed-selloff?traffic_source=rss",
-      "published": "2026-08-26T18:13:54+00:00",
+      "headline": "US judge declines Minnesota’s effort to force Texas to extradite ICE agent",
+      "excerpt": "ICE agent Christian Castro faces criminal charges for shooting a Minnesota man in the leg during an immigration raid.",
+      "link": "https://www.aljazeera.com/news/2026/8/26/us-judge-declines-minnesotas-effort-to-force-texas-to-extradite-ice-agent?traffic_source=rss",
+      "published": "2026-08-26T22:49:49+00:00",
       "featured": false
     },
     {
@@ -515,21 +515,21 @@
       "featured": false
     },
     {
-      "id": "e17f0a36cc4b",
+      "id": "a59fc5c7d115",
       "source": "Dropsite News",
-      "headline": "Documents Reveal Trail of Unreported Millions From Israeli Military to U.S. Universities",
-      "excerpt": "Research funding by Israel’s Ministry of Defense and arms manufacturers often fails to appear in national databases intended to track foreign funding.",
-      "link": "https://www.dropsitenews.com/p/israel-military-funding-universities",
-      "published": "2026-08-24T21:09:37+00:00",
+      "headline": "U.S. kills two in extrajudicial boat strike; 47 killed in Haiti gang raid; Israel seizes Jerusalem UNRWA center",
+      "excerpt": "Drop Site Daily: August 25, 2026",
+      "link": "https://www.dropsitenews.com/p/us-boat-strike-haiti-gang-raid-israel-palestine-jerusalem-unrwa",
+      "published": "2026-08-25T15:41:15+00:00",
       "featured": false
     },
     {
-      "id": "5aed00859fdc",
+      "id": "613619def0bf",
       "source": "OCCRP",
-      "headline": "Europol Warns of Violent Shift in European Museum Heists",
-      "excerpt": "A new Europol report reveals that criminal gangs in Europe are increasingly turning to violent, direct force to breach museums as they target precious metals and jewels that can be easily liquidated.",
-      "link": "https://www.occrp.org/en/news/europol-warns-of-violent-shift-in-european-museum-heists",
-      "published": "2026-08-24T15:28:00+00:00",
+      "headline": "Kazakhstan’s Election Brings a New Parliament — and More Pressure on Journalists",
+      "excerpt": "President Kassym-Jomart Tokayev’s allies dominated the vote as independent observers raised concerns over a campaign marked by restrictions on critical voices.",
+      "link": "https://www.occrp.org/en/news/kazakhstans-election-brings-a-new-parliament-and-more-pressure-on-journalists",
+      "published": "2026-08-25T11:54:00+00:00",
       "featured": false
     },
     {
