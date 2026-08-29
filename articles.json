@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-08-29T10:05:39.097995+00:00",
+  "generated_at": "2026-08-29T16:43:41.527435+00:00",
   "articles": [
+    {
+      "id": "18d6c8786a71",
+      "source": "Al Jazeera",
+      "headline": "RSS chief’s visit to US denounced as ‘goodwill tour’ for Hindu nationalism",
+      "excerpt": "Activists say Hindu nationalists have sought to mask far-right politics through broad appeals to the Indian diaspora.",
+      "link": "https://www.aljazeera.com/news/2026/8/29/rss-chiefs-visit-to-us-denounced-as-goodwill-tour-for-hindu-nationalism?traffic_source=rss",
+      "published": "2026-08-29T16:03:32+00:00",
+      "featured": true
+    },
+    {
+      "id": "19cdd8a52124",
+      "source": "The Lever",
+      "headline": "You Love To See It: The $17 Billion Unfollow",
+      "excerpt": "Meta loses its screen privileges, a toxic weedkiller is toast, voters block a cash grab, and Trump’s trans-healthcare-records heist hits a wall.",
+      "link": "https://www.levernews.com/you-love-to-see-it-the-17-billion-unfollow/",
+      "published": "2026-08-29T12:57:06+00:00",
+      "featured": true
+    },
     {
       "id": "977ac1479fb1",
       "source": "404 Media",
@@ -17,24 +35,6 @@
       "excerpt": "As the G20 descends on Asheville, the communities that helped rebuild after Hurricane Helene live in fear of Trump’s immigration regime. The post Western North Carolina Pleaded for Hurricane Help. It Got ICE Instead....",
       "link": "https://theintercept.com/2026/08/29/hurricane-helene-ice-asheville-nc-g20-trump/",
       "published": "2026-08-29T10:00:00+00:00",
-      "featured": true
-    },
-    {
-      "id": "82fedfbbdf2b",
-      "source": "Al Jazeera",
-      "headline": "Norway mourns King Harald as new era begins under Haakon VIII",
-      "excerpt": "King Harald, Europe's oldest monarch, was viewed as a reformer who embraced inclusivity.",
-      "link": "https://www.aljazeera.com/news/2026/8/29/norway-mourns-king-harald-as-new-era-begins-under-haakon-viii?traffic_source=rss",
-      "published": "2026-08-29T09:45:37+00:00",
-      "featured": true
-    },
-    {
-      "id": "0fd571edc0b2",
-      "source": "The Lever",
-      "headline": "The Corporate Dem Asking Super PACs To Call Him A Progressive",
-      "excerpt": "Seth Moulton once called progressive populism a recipe for losing. Now he’s asking Wall Street financiers to help him claim the progressive mantle.",
-      "link": "https://www.levernews.com/the-corporate-dem-asking-super-pacs-to-call-him-a-progressive/",
-      "published": "2026-08-28T22:44:27+00:00",
       "featured": false
     },
     {
@@ -101,21 +101,21 @@
       "featured": false
     },
     {
-      "id": "7c833a676db7",
+      "id": "5cf9c84c3416",
       "source": "Al Jazeera",
-      "headline": "US revokes visa of former Iraqi minister after watchlist listing",
-      "excerpt": "The US has revoked an award-winning former Iraqi minister’s visa after the FBI placed her on a ‘terrorism watchlist'.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/29/us-revokes-visa-of-former-iraqi-minister-after-watchlist-listing?traffic_source=rss",
-      "published": "2026-08-29T09:05:30+00:00",
+      "headline": "Israeli attacks across Gaza kill two people, hit hospital supply warehouse",
+      "excerpt": "Gaza’s Health Ministry reports rising casualties amid escalated Israeli attacks, with victims trapped under rubble.",
+      "link": "https://www.aljazeera.com/news/2026/8/29/israeli-attacks-across-gaza-kill-two-people-hit-hospital-supply-warehouse?traffic_source=rss",
+      "published": "2026-08-29T15:25:43+00:00",
       "featured": false
     },
     {
-      "id": "43df0bd78433",
+      "id": "0fd571edc0b2",
       "source": "The Lever",
-      "headline": "What Would Dolly Do?",
-      "excerpt": "Test your knowledge of tariffs, AIPAC, and other issues that really matter.",
-      "link": "https://www.levernews.com/what-would-dolly-do/",
-      "published": "2026-08-28T17:04:13+00:00",
+      "headline": "The Corporate Dem Asking Super PACs To Call Him A Progressive",
+      "excerpt": "Seth Moulton once called progressive populism a recipe for losing. Now he’s asking Wall Street financiers to help him claim the progressive mantle.",
+      "link": "https://www.levernews.com/the-corporate-dem-asking-super-pacs-to-call-him-a-progressive/",
+      "published": "2026-08-28T22:44:27+00:00",
       "featured": false
     },
     {
@@ -200,12 +200,21 @@
       "featured": false
     },
     {
-      "id": "664aca660167",
+      "id": "3c8a8b76078a",
       "source": "Al Jazeera",
-      "headline": "Chelsea vs Brighton: Premier League – preview, team news, prediction",
-      "excerpt": "Brighton will fancy their chances against Chelsea though, having won their last three league games against the Blues.",
-      "link": "https://www.aljazeera.com/sports/2026/8/29/chelsea-vs-brighton-premier-league-preview-team-news?traffic_source=rss",
-      "published": "2026-08-29T08:51:07+00:00",
+      "headline": "Man United vs Ipswich Town: Premier League – preview, team news, prediction",
+      "excerpt": "United put in a sorry display as they lost 2-0 to Hull last weekend, while newly promoted Ipswich beat Sunderland 2-1.",
+      "link": "https://www.aljazeera.com/sports/2026/8/29/man-united-vs-ipswich-town-premier-league-preview-team-news-prediction?traffic_source=rss",
+      "published": "2026-08-29T14:33:45+00:00",
+      "featured": false
+    },
+    {
+      "id": "43df0bd78433",
+      "source": "The Lever",
+      "headline": "What Would Dolly Do?",
+      "excerpt": "Test your knowledge of tariffs, AIPAC, and other issues that really matter.",
+      "link": "https://www.levernews.com/what-would-dolly-do/",
+      "published": "2026-08-28T17:04:13+00:00",
       "featured": false
     },
     {
@@ -215,15 +224,6 @@
       "excerpt": "ICE wants the robot dogs to improve “officer safety.”",
       "link": "https://www.404media.co/ice-plans-to-spends-millions-on-boston-dynamics-dog-robots/",
       "published": "2026-08-28T14:04:55+00:00",
-      "featured": false
-    },
-    {
-      "id": "b009ed43c26d",
-      "source": "The Lever",
-      "headline": "A Natural Gas Astroturf Group Says It Flipped NY Gov. Hochul",
-      "excerpt": "How a front for fossil fuel is using affordability fears, former Democratic officials, and dubious polling to turn establishment Democrats against the climate left.",
-      "link": "https://www.levernews.com/a-natural-gas-astroturf-group-says-it-flipped-ny-gov-hochul/",
-      "published": "2026-08-28T13:50:09+00:00",
       "featured": false
     },
     {
@@ -299,12 +299,21 @@
       "featured": false
     },
     {
-      "id": "6b8ef3473689",
+      "id": "b55c7017b26b",
       "source": "Al Jazeera",
-      "headline": "Liverpool vs Nottingham Forest LIVE: Premier League",
-      "excerpt": "Live text updates from our commentary stream coverage as Florian Wirtz and Dominik Szoboszlai try to inspire the Reds.",
-      "link": "https://www.aljazeera.com/sports/liveblog/2026/8/29/live-liverpool-vs-nottingham-forest-premier-league?traffic_source=rss",
-      "published": "2026-08-29T08:33:04+00:00",
+      "headline": "Liverpool net late in Forest draw to avoid Anfield debut defeat for Iraola",
+      "excerpt": "Victor Munoz scores late goal to secure 2-2 draw for Liverpool after Nottingham Forest scare in Premier League.",
+      "link": "https://www.aljazeera.com/sports/2026/8/29/liverpool-draw-with-nottingham-forest-after-twice-coming-from-behind-in-epl?traffic_source=rss",
+      "published": "2026-08-29T14:19:23+00:00",
+      "featured": false
+    },
+    {
+      "id": "b009ed43c26d",
+      "source": "The Lever",
+      "headline": "A Natural Gas Astroturf Group Says It Flipped NY Gov. Hochul",
+      "excerpt": "How a front for fossil fuel is using affordability fears, former Democratic officials, and dubious polling to turn establishment Democrats against the climate left.",
+      "link": "https://www.levernews.com/a-natural-gas-astroturf-group-says-it-flipped-ny-gov-hochul/",
+      "published": "2026-08-28T13:50:09+00:00",
       "featured": false
     },
     {
@@ -323,15 +332,6 @@
       "excerpt": "Anti-genocide organizers say the “terrorism” label is intended to crush direct action against Israeli weapons shipments. The post “They Want People Scared”: Former Palestine Action Member Blasts Trump’s Terror Sanctions...",
       "link": "https://theintercept.com/2026/08/27/palestine-action-terrorism-sanctions-trump-ban-israel/",
       "published": "2026-08-27T17:59:57+00:00",
-      "featured": false
-    },
-    {
-      "id": "ad87d6f04233",
-      "source": "The Lever",
-      "headline": "American Beef Is On The Chopping Block",
-      "excerpt": "Trump has a 300,000-ton cattle problem. Plus, a federal judge tells Texans offended by drag shows: “Just don’t go.”",
-      "link": "https://www.levernews.com/american-beef-is-on-the-chopping-block/",
-      "published": "2026-08-27T17:17:46+00:00",
       "featured": false
     },
     {
@@ -389,21 +389,21 @@
       "featured": false
     },
     {
-      "id": "5f1f128e4a58",
-      "source": "Bellingcat",
-      "headline": "Will Ronaldo Cry​? World Cup Fans Bet Billions Through Prediction Markets",
-      "excerpt": "Football fans wagered more than US $14 billion on the FIFA World Cup through prediction markets Polymarket and Kalshi, a Bellingcat analysis has found. On the crypto-based Polymarket, which provides more information...",
-      "link": "https://www.bellingcat.com/news/2026/07/30/will-ronaldo-cry-world-cup-fans-bet-billions-through-prediction-markets/",
-      "published": "2026-07-30T11:17:38+00:00",
+      "id": "410af4fe82b0",
+      "source": "Al Jazeera",
+      "headline": "People stranded for days on dilapidated Nigerian highway",
+      "excerpt": "Al Jazeera asked people on the Benin-Agbor-Asaba road how they view this infrastructure crisis.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/29/people-stranded-for-days-on-dilapidated-nigerian-highway?traffic_source=rss",
+      "published": "2026-08-29T14:01:46+00:00",
       "featured": false
     },
     {
-      "id": "638ef207b22e",
-      "source": "Al Jazeera",
-      "headline": "Aston Villa sign Chelsea striker Nicolas Jackson for reported club record",
-      "excerpt": "Jackson arrives as a replacement for Ollie Watkins, whose move to Saudi Arabian side Al Hilal is being finalised.",
-      "link": "https://www.aljazeera.com/sports/2026/8/29/aston-villa-sign-chelsea-striker-nicolas-jackson-for-reported-club-record?traffic_source=rss",
-      "published": "2026-08-29T07:33:34+00:00",
+      "id": "ad87d6f04233",
+      "source": "The Lever",
+      "headline": "American Beef Is On The Chopping Block",
+      "excerpt": "Trump has a 300,000-ton cattle problem. Plus, a federal judge tells Texans offended by drag shows: “Just don’t go.”",
+      "link": "https://www.levernews.com/american-beef-is-on-the-chopping-block/",
+      "published": "2026-08-27T17:17:46+00:00",
       "featured": false
     },
     {
@@ -431,15 +431,6 @@
       "excerpt": "The Trump administration claimed Iris Dayana Monterroso Lemus received “FULL medical, prenatal care” in ICE custody. The post Trump Admin Said She Was Lying About Stillbirth in ICE Custody. New Evidence Points to Lack...",
       "link": "https://theintercept.com/2026/08/27/trump-ice-custody-pregnancy-stillbirth-deport/",
       "published": "2026-08-27T10:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "f182183905f4",
-      "source": "The Lever",
-      "headline": "The Billionaire Building The Democrats’ New Machine",
-      "excerpt": "We peel back the curtain on one billionaire’s effort to move the Democratic Party more to the center during this midterm season and the upcoming presidential season.",
-      "link": "https://www.levernews.com/the-billionaire-building-the-democrats-new-machine/",
-      "published": "2026-08-27T08:15:47+00:00",
       "featured": false
     },
     {
@@ -488,12 +479,12 @@
       "featured": false
     },
     {
-      "id": "79f225f39317",
+      "id": "6fa3ee42a04e",
       "source": "Al Jazeera",
-      "headline": "India and Pakistan are united in spending citizen lives like pocket change",
-      "excerpt": "Recent hospital fires expose how little decades of national achievement mean when basic public safety still fails.",
-      "link": "https://www.aljazeera.com/opinions/2026/8/29/india-and-pakistan-are-united-in-spending-citizen-lives-like-pocket-change?traffic_source=rss",
-      "published": "2026-08-29T07:08:23+00:00",
+      "headline": "Korea divided: A sister’s long wait and a defector’s bid to save his mother",
+      "excerpt": "An elderly South Korean waits to see a brother in the North one last time, while a North Korean defector risks it all.",
+      "link": "https://www.aljazeera.com/features/longform/2026/8/29/korea-divided-a-sisters-long-wait-and-a-defectors-bid-to-save-his-mother?traffic_source=rss",
+      "published": "2026-08-29T13:51:16+00:00",
       "featured": false
     },
     {
@@ -515,6 +506,15 @@
       "featured": false
     },
     {
+      "id": "f182183905f4",
+      "source": "The Lever",
+      "headline": "The Billionaire Building The Democrats’ New Machine",
+      "excerpt": "We peel back the curtain on one billionaire’s effort to move the Democratic Party more to the center during this midterm season and the upcoming presidential season.",
+      "link": "https://www.levernews.com/the-billionaire-building-the-democrats-new-machine/",
+      "published": "2026-08-27T08:15:47+00:00",
+      "featured": false
+    },
+    {
       "id": "f79e49613edb",
       "source": "OCCRP",
       "headline": "‘I Had No Involvement. Zero.’: Accused Mastermind Denies Killing Maltese Journalist",
@@ -524,21 +524,21 @@
       "featured": false
     },
     {
-      "id": "f860e9819a70",
-      "source": "The Lever",
-      "headline": "Midterm Madness: Michigan’s Senate Race Hits A Minefield",
-      "excerpt": "A Hasan Piker controversy has rocked Michigan’s critical Senate race — and the “centrist” wing of the party is capitalizing on the chaos.",
-      "link": "https://www.levernews.com/midterm-madness-michigans-senate-race-hits-a-minefield/",
-      "published": "2026-08-26T16:59:26+00:00",
-      "featured": false
-    },
-    {
       "id": "d8d80cc34dd3",
       "source": "Dropsite News",
       "headline": "Pakistani “Double-Tap” Strike in June Wrought Havoc on Afghan Villagers",
       "excerpt": "A Pakistani airstrike on a residential area in Samkani killed at least 22 civilians. At Paktia Central Hospital, doctors worked through the night to save the wounded.",
       "link": "https://www.dropsitenews.com/p/pakistan-double-tap-afghanistan-samkani",
       "published": "2026-08-26T15:50:22+00:00",
+      "featured": false
+    },
+    {
+      "id": "e34203e1aafc",
+      "source": "ProPublica",
+      "headline": "Idaho Law Protects Faith Healers. It Wasn’t Always That Way.",
+      "excerpt": "The post Idaho Law Protects Faith Healers. It Wasn’t Always That Way. appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/idaho-law-faith-healing-exemption",
+      "published": "2026-08-26T09:00:00+00:00",
       "featured": false
     }
   ]
