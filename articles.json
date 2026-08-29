@@ -1,6 +1,51 @@
 {
-  "generated_at": "2026-08-28T15:23:42.751742+00:00",
+  "generated_at": "2026-08-29T01:45:27.982717+00:00",
   "articles": [
+    {
+      "id": "96db34a6055d",
+      "source": "Al Jazeera",
+      "headline": "Gunfire, blasts heard in several areas of Niger capital Niamey",
+      "excerpt": "This is a breaking news story.",
+      "link": "https://www.aljazeera.com/news/2026/8/29/gunfire-blasts-heard-in-several-areas-of-niger-capital-niamey?traffic_source=rss",
+      "published": "2026-08-29T01:30:08+00:00",
+      "featured": true
+    },
+    {
+      "id": "0fd571edc0b2",
+      "source": "The Lever",
+      "headline": "The Corporate Dem Asking Super PACs To Call Him A Progressive",
+      "excerpt": "Seth Moulton once called progressive populism a recipe for losing. Now he’s asking Wall Street financiers to help him claim the progressive mantle.",
+      "link": "https://www.levernews.com/the-corporate-dem-asking-super-pacs-to-call-him-a-progressive/",
+      "published": "2026-08-28T22:44:27+00:00",
+      "featured": true
+    },
+    {
+      "id": "93fea1c71c06",
+      "source": "Dropsite News",
+      "headline": "U.S. Designates Palestinian Refugee in Germany as “Terrorist”",
+      "excerpt": "“I was frightened. The authorities did not contact me beforehand; they just put me on the list.”",
+      "link": "https://www.dropsitenews.com/p/united-states-designates-palestinian-refugee-terrorist-germany",
+      "published": "2026-08-28T21:01:51+00:00",
+      "featured": true
+    },
+    {
+      "id": "111a0678d169",
+      "source": "The Intercept",
+      "headline": "Trump Goes After Anonymous Email Provider in Italy. The Real Target Is Free Speech in the U.S.",
+      "excerpt": "Trump designated an Italian web-hosting provider as a foreign “terror” group. It could take antifascist sites in the U.S. offline. The post Trump Goes After Anonymous Email Provider in Italy. The Real Target Is Free...",
+      "link": "https://theintercept.com/2026/08/28/trump-antifa-terrorist-websites-free-speech/",
+      "published": "2026-08-28T15:51:40+00:00",
+      "featured": false
+    },
+    {
+      "id": "98affa7c71a4",
+      "source": "OCCRP",
+      "headline": "Alleged Narco-Terrorist Moves to Toss U.S. Indictment on Jurisdictional Grounds",
+      "excerpt": "Lawyer for Sebastián Marset claims the U.S. cannot prosecute him based on a single wire transfer that routed through a server in Virginia.",
+      "link": "https://www.occrp.org/en/news/alleged-narco-terrorist-moves-to-toss-us-indictment-on-jurisdictional-grounds",
+      "published": "2026-08-28T15:42:00+00:00",
+      "featured": false
+    },
     {
       "id": "ae6003729a44",
       "source": "404 Media",
@@ -8,25 +53,7 @@
       "excerpt": "This week, we discuss cool old books, new toys for ICE, and a boardwalk slop invasion.",
       "link": "https://www.404media.co/behind-the-blog-the-complete-idiots-guide-to-flamin-hot-slop/",
       "published": "2026-08-28T15:16:39+00:00",
-      "featured": true
-    },
-    {
-      "id": "d8dc9090d5b2",
-      "source": "Al Jazeera",
-      "headline": "6 months of war on Iran",
-      "excerpt": "The US-Israeli war on Iran has reached the six-month mark, with no sign of slowing down.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/28/6-months-of-war-on-iran?traffic_source=rss",
-      "published": "2026-08-28T15:09:27+00:00",
-      "featured": true
-    },
-    {
-      "id": "b009ed43c26d",
-      "source": "The Lever",
-      "headline": "A Natural Gas Astroturf Group Says It Flipped NY Gov. Hochul",
-      "excerpt": "How a front for fossil fuel is using affordability fears, former Democratic officials, and dubious polling to turn establishment Democrats against the climate left.",
-      "link": "https://www.levernews.com/a-natural-gas-astroturf-group-says-it-flipped-ny-gov-hochul/",
-      "published": "2026-08-28T13:50:09+00:00",
-      "featured": true
+      "featured": false
     },
     {
       "id": "2cd6099c1fac",
@@ -44,33 +71,6 @@
       "excerpt": "The post Syracuse University Seeks to Prevent Campus Rape Victim From Obtaining Police Records appeared first on ProPublica.",
       "link": "https://www.propublica.org/article/syracuse-sexual-assault-lawsuit-records",
       "published": "2026-08-28T10:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "4c76d89d62ff",
-      "source": "The Intercept",
-      "headline": "Right-Wing Trans Hate Comes for the WNBA",
-      "excerpt": "How the right’s attacks on trans people have infiltrated a sports league with no trans women. The post Right-Wing Trans Hate Comes for the WNBA appeared first on The Intercept.",
-      "link": "https://theintercept.com/2026/08/28/wnba-women-basketball-sports-trans/",
-      "published": "2026-08-28T10:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "f3262fde80be",
-      "source": "OCCRP",
-      "headline": "Singapore Police Probe 231 Suspected Scam Mules",
-      "excerpt": "",
-      "link": "https://www.occrp.org/en/news/singapore-police-probe-231-suspected-scam-mules",
-      "published": "2026-08-27T20:47:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "ff2552d1220e",
-      "source": "Dropsite News",
-      "headline": "Do Rural Residents Have the Power to Say No?",
-      "excerpt": "From CAFOs to data centers, corporate America dodges local control.",
-      "link": "https://www.dropsitenews.com/p/rural-residents-say-no-data-centers-ai-cafos",
-      "published": "2026-08-27T18:36:45+00:00",
       "featured": false
     },
     {
@@ -101,21 +101,57 @@
       "featured": false
     },
     {
-      "id": "e2b3b9b6870e",
+      "id": "46a679e36bd0",
       "source": "Al Jazeera",
-      "headline": "Nepali families pray for miracles with relatives missing after flood",
-      "excerpt": "At a Kathmandu hospital, families peer at lists of those who are critical, dead — or have been released.",
-      "link": "https://www.aljazeera.com/features/2026/8/28/nepali-families-pray-for-miracles-with-relatives-missing-after-flood?traffic_source=rss",
-      "published": "2026-08-28T14:59:50+00:00",
+      "headline": "Board of Peace’s Mladenov warns Gaza could be ‘gone for good’",
+      "excerpt": "Top envoy for the US-led Board of Peace says Gaza is at risk of being ‘gone for good’ without reconstruction.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/29/board-of-peaces-mladenov-warns-gaza-could-be-gone-for?traffic_source=rss",
+      "published": "2026-08-29T00:53:56+00:00",
+      "featured": false
+    },
+    {
+      "id": "43df0bd78433",
+      "source": "The Lever",
+      "headline": "What Would Dolly Do?",
+      "excerpt": "Test your knowledge of tariffs, AIPAC, and other issues that really matter.",
+      "link": "https://www.levernews.com/what-would-dolly-do/",
+      "published": "2026-08-28T17:04:13+00:00",
+      "featured": false
+    },
+    {
+      "id": "a270de716657",
+      "source": "Dropsite News",
+      "headline": "Israel kills three in first airstrike on West Bank in 10 months; Judge again blocks Trump order on mail ballots; Over 2,500 dead or missing in Nepal",
+      "excerpt": "Drop Site Daily: August 28, 2026",
+      "link": "https://www.dropsitenews.com/p/israel-west-bank-jenin-trump-mail-ballots-nepal-flood",
+      "published": "2026-08-28T16:37:40+00:00",
+      "featured": false
+    },
+    {
+      "id": "e5e38cf325b9",
+      "source": "OCCRP",
+      "headline": "Slovak Police Foil Possible Napalm Attack on Factory Producing Drones for Ukraine",
+      "excerpt": "A foiled napalm attack on a Ukrainian drone manufacturer in eastern Slovakia has exposed a hired sabotage plot that security officials say fits a broader pattern of hybrid warfare targeting Kyiv's defense supply chain...",
+      "link": "https://www.occrp.org/en/news/slovak-police-foil-planned-napalm-attack-on-factory-producing-drones-for-ukraine",
+      "published": "2026-08-28T15:29:00+00:00",
       "featured": false
     },
     {
       "id": "9c37bed7469c",
       "source": "404 Media",
-      "headline": "ICE Plans to Spends Millions on Boston Dynamics Dog Robots",
+      "headline": "ICE Plans to Spend Millions on Boston Dynamics Dog Robots",
       "excerpt": "ICE wants the robot dogs to improve “officer safety.”",
       "link": "https://www.404media.co/ice-plans-to-spends-millions-on-boston-dynamics-dog-robots/",
       "published": "2026-08-28T14:04:55+00:00",
+      "featured": false
+    },
+    {
+      "id": "4c76d89d62ff",
+      "source": "The Intercept",
+      "headline": "Right-Wing Trans Hate Comes for the WNBA",
+      "excerpt": "How the right’s attacks on trans people have infiltrated a sports league with no trans women. The post Right-Wing Trans Hate Comes for the WNBA appeared first on The Intercept.",
+      "link": "https://theintercept.com/2026/08/28/wnba-women-basketball-sports-trans/",
+      "published": "2026-08-28T10:00:00+00:00",
       "featured": false
     },
     {
@@ -125,42 +161,6 @@
       "excerpt": "The post Listen to 911 Calls From Inside an Immigration Detention Center: “We Just Need to Take Him to the Hospital” appeared first on ProPublica.",
       "link": "https://www.propublica.org/article/911-calls-camp-east-montana-texas-detention",
       "published": "2026-08-28T09:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "4e5f2da9b4a8",
-      "source": "The Intercept",
-      "headline": "“They Want People Scared”: Former Palestine Action Member Blasts Trump’s Terror Sanctions",
-      "excerpt": "Anti-genocide organizers say the “terrorism” label is intended to crush direct action against Israeli weapons shipments. The post “They Want People Scared”: Former Palestine Action Member Blasts Trump’s Terror Sanctions...",
-      "link": "https://theintercept.com/2026/08/27/palestine-action-terrorism-sanctions-trump-ban-israel/",
-      "published": "2026-08-27T17:59:57+00:00",
-      "featured": false
-    },
-    {
-      "id": "ad87d6f04233",
-      "source": "The Lever",
-      "headline": "American Beef Is On The Chopping Block",
-      "excerpt": "Trump has a 300,000-ton cattle problem. Plus, a federal judge tells Texans offended by drag shows: “Just don’t go.”",
-      "link": "https://www.levernews.com/american-beef-is-on-the-chopping-block/",
-      "published": "2026-08-27T17:17:46+00:00",
-      "featured": false
-    },
-    {
-      "id": "fd3907c8106c",
-      "source": "Dropsite News",
-      "headline": "U.S. sanctions UK’s Palestine Action as “terrorist group”; ICE agent released from Texas jail; Russia threatens to strike UK military targets in Ukraine",
-      "excerpt": "Drop Site Daily: August 27, 2026",
-      "link": "https://www.dropsitenews.com/p/us-sanctions-palestine-action-ice-texas-russia-uk-ukraine",
-      "published": "2026-08-27T15:47:36+00:00",
-      "featured": false
-    },
-    {
-      "id": "c98b68f61384",
-      "source": "OCCRP",
-      "headline": "Malaysia’s Ex-Prime Minister Charged Over Failure to Declare Assets",
-      "excerpt": "",
-      "link": "https://www.occrp.org/en/news/malaysias-ex-prime-minister-charged-over-failure-to-declare-assets",
-      "published": "2026-08-27T13:47:00+00:00",
       "featured": false
     },
     {
@@ -200,12 +200,39 @@
       "featured": false
     },
     {
-      "id": "778d4e8a7a56",
+      "id": "46492a7ea3c6",
       "source": "Al Jazeera",
-      "headline": "Can Trump really rename Lake Ontario, ‘Lake America’?",
-      "excerpt": "Amid tariff war with Canada, Trump has signed an executive order renaming the shared lake.",
-      "link": "https://www.aljazeera.com/news/2026/8/28/can-trump-really-rename-lake-ontario-lake-america?traffic_source=rss",
-      "published": "2026-08-28T14:36:19+00:00",
+      "headline": "US revises statements suggesting Chinese hackers attacked agencies",
+      "excerpt": "US Justice Department clarifies that the US Senate and Federal Reserve were targets but were not successfully hacked.",
+      "link": "https://www.aljazeera.com/news/2026/8/29/us-revises-statements-suggesting-chinese-hackers-attacked-agencies?traffic_source=rss",
+      "published": "2026-08-29T00:46:20+00:00",
+      "featured": false
+    },
+    {
+      "id": "b009ed43c26d",
+      "source": "The Lever",
+      "headline": "A Natural Gas Astroturf Group Says It Flipped NY Gov. Hochul",
+      "excerpt": "How a front for fossil fuel is using affordability fears, former Democratic officials, and dubious polling to turn establishment Democrats against the climate left.",
+      "link": "https://www.levernews.com/a-natural-gas-astroturf-group-says-it-flipped-ny-gov-hochul/",
+      "published": "2026-08-28T13:50:09+00:00",
+      "featured": false
+    },
+    {
+      "id": "f3262fde80be",
+      "source": "OCCRP",
+      "headline": "Singapore Police Probe 231 Suspected Scam Mules",
+      "excerpt": "",
+      "link": "https://www.occrp.org/en/news/singapore-police-probe-231-suspected-scam-mules",
+      "published": "2026-08-27T20:47:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "ff2552d1220e",
+      "source": "Dropsite News",
+      "headline": "Do Rural Residents Have the Power to Say No?",
+      "excerpt": "From CAFOs to data centers, corporate America dodges local control.",
+      "link": "https://www.dropsitenews.com/p/rural-residents-say-no-data-centers-ai-cafos",
+      "published": "2026-08-27T18:36:45+00:00",
       "featured": false
     },
     {
@@ -218,48 +245,21 @@
       "featured": false
     },
     {
+      "id": "4e5f2da9b4a8",
+      "source": "The Intercept",
+      "headline": "“They Want People Scared”: Former Palestine Action Member Blasts Trump’s Terror Sanctions",
+      "excerpt": "Anti-genocide organizers say the “terrorism” label is intended to crush direct action against Israeli weapons shipments. The post “They Want People Scared”: Former Palestine Action Member Blasts Trump’s Terror Sanctions...",
+      "link": "https://theintercept.com/2026/08/27/palestine-action-terrorism-sanctions-trump-ban-israel/",
+      "published": "2026-08-27T17:59:57+00:00",
+      "featured": false
+    },
+    {
       "id": "897cb82d5545",
       "source": "ProPublica",
       "headline": "These Local Jails Were Supposed to Detain Immigrants for Only 72 Hours. One Woman Was Held for a Total of 26 Days.",
       "excerpt": "The post These Local Jails Were Supposed to Detain Immigrants for Only 72 Hours. One Woman Was Held for a Total of 26 Days. appeared first on ProPublica.",
       "link": "https://www.propublica.org/article/immigrants-rebooking-ice-jails-florida",
       "published": "2026-08-27T14:50:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "c77c67ce5548",
-      "source": "OCCRP",
-      "headline": "OCCRP Denounces Police Search of Solomon Islands Reporter",
-      "excerpt": "Officers told Gina Maka’a, a reporter for OCCRP member center In-depth Solomons, her questioning was aimed at uncovering the source behind a report published last year. The search also comes after IDS reporting that led...",
-      "link": "https://www.occrp.org/en/news/occrp-denounces-police-search-of-solomon-islands-reporter",
-      "published": "2026-08-27T13:20:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "7e2601295ade",
-      "source": "The Intercept",
-      "headline": "Trump Admin Said She Was Lying About Stillbirth in ICE Custody. New Evidence Points to Lack of Prenatal Care.",
-      "excerpt": "The Trump administration claimed Iris Dayana Monterroso Lemus received “FULL medical, prenatal care” in ICE custody. The post Trump Admin Said She Was Lying About Stillbirth in ICE Custody. New Evidence Points to Lack...",
-      "link": "https://theintercept.com/2026/08/27/trump-ice-custody-pregnancy-stillbirth-deport/",
-      "published": "2026-08-27T10:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "f182183905f4",
-      "source": "The Lever",
-      "headline": "The Billionaire Building The Democrats’ New Machine",
-      "excerpt": "We peel back the curtain on one billionaire’s effort to move the Democratic Party more to the center during this midterm season and the upcoming presidential season.",
-      "link": "https://www.levernews.com/the-billionaire-building-the-democrats-new-machine/",
-      "published": "2026-08-27T08:15:47+00:00",
-      "featured": false
-    },
-    {
-      "id": "abb38d6ced60",
-      "source": "Dropsite News",
-      "headline": "Elements of Venezuelan Government Loyal to Chavismo Warn of Possible U.S. Assault",
-      "excerpt": "Leaders of the 23 de Enero parish, a stronghold of Chavismo resistance in Caracas, fear the U.S. will try to dismantle their grassroots democracy.",
-      "link": "https://www.dropsitenews.com/p/venezuela-maduro-juan-contreras-trump-oil",
-      "published": "2026-08-26T20:21:12+00:00",
       "featured": false
     },
     {
@@ -299,12 +299,21 @@
       "featured": false
     },
     {
-      "id": "026e3e25daa0",
+      "id": "0e564a522211",
       "source": "Al Jazeera",
-      "headline": "Oneness or Hindu supremacy? RSS chief Bhagwat’s secretive New York hosts",
-      "excerpt": "RSS chief Mohan Bhagwat is scheduled to speak at an event in New York on Saturday.",
-      "link": "https://www.aljazeera.com/news/2026/8/28/oneness-or-hindu-supremacy-rss-chief-bhagwats-secretive-new-york-hosts?traffic_source=rss",
-      "published": "2026-08-28T14:20:40+00:00",
+      "headline": "US judge rejects Trump’s bid to switch hush-money case to federal court",
+      "excerpt": "The US president has sought to overturn his criminal conviction for falsifying business records, citing immunity.",
+      "link": "https://www.aljazeera.com/news/2026/8/29/us-judge-rejects-trumps-bid-to-switch-hush-money-case-to-federal-court?traffic_source=rss",
+      "published": "2026-08-29T00:19:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "ad87d6f04233",
+      "source": "The Lever",
+      "headline": "American Beef Is On The Chopping Block",
+      "excerpt": "Trump has a 300,000-ton cattle problem. Plus, a federal judge tells Texans offended by drag shows: “Just don’t go.”",
+      "link": "https://www.levernews.com/american-beef-is-on-the-chopping-block/",
+      "published": "2026-08-27T17:17:46+00:00",
       "featured": false
     },
     {
@@ -317,48 +326,39 @@
       "featured": false
     },
     {
+      "id": "fd3907c8106c",
+      "source": "Dropsite News",
+      "headline": "U.S. sanctions UK’s Palestine Action as “terrorist group”; ICE agent released from Texas jail; Russia threatens to strike UK military targets in Ukraine",
+      "excerpt": "Drop Site Daily: August 27, 2026",
+      "link": "https://www.dropsitenews.com/p/us-sanctions-palestine-action-ice-texas-russia-uk-ukraine",
+      "published": "2026-08-27T15:47:36+00:00",
+      "featured": false
+    },
+    {
+      "id": "c98b68f61384",
+      "source": "OCCRP",
+      "headline": "Malaysia’s Ex-Prime Minister Charged Over Failure to Declare Assets",
+      "excerpt": "",
+      "link": "https://www.occrp.org/en/news/malaysias-ex-prime-minister-charged-over-failure-to-declare-assets",
+      "published": "2026-08-27T13:47:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "7e2601295ade",
+      "source": "The Intercept",
+      "headline": "Trump Admin Said She Was Lying About Stillbirth in ICE Custody. New Evidence Points to Lack of Prenatal Care.",
+      "excerpt": "The Trump administration claimed Iris Dayana Monterroso Lemus received “FULL medical, prenatal care” in ICE custody. The post Trump Admin Said She Was Lying About Stillbirth in ICE Custody. New Evidence Points to Lack...",
+      "link": "https://theintercept.com/2026/08/27/trump-ice-custody-pregnancy-stillbirth-deport/",
+      "published": "2026-08-27T10:00:00+00:00",
+      "featured": false
+    },
+    {
       "id": "2a21f76e3548",
       "source": "ProPublica",
       "headline": "How to Check In on Your 401(k) Fees",
       "excerpt": "The post How to Check In on Your 401(k) Fees appeared first on ProPublica.",
       "link": "https://www.propublica.org/article/401k-retirement-plan-fees-funds",
       "published": "2026-08-27T09:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "95c8a7553aa7",
-      "source": "The Intercept",
-      "headline": "A New Tree-Sit Movement to Block Trump’s Border Wall",
-      "excerpt": "A single tree sit grew into a cross-border continuous protest to defend the Arizona borderland ecology. So far, activists are succeeding. The post A New Tree-Sit Movement to Block Trump’s Border Wall appeared first on...",
-      "link": "https://theintercept.com/2026/08/27/trump-us-mexico-border-wall-tree-sit-arizona/",
-      "published": "2026-08-27T09:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "f79e49613edb",
-      "source": "OCCRP",
-      "headline": "‘I Had No Involvement. Zero.’: Accused Mastermind Denies Killing Maltese Journalist",
-      "excerpt": "Yorgen Fenech testified he was innocent in the death of Daphne Caruana Galizia, even as prosecutors pressed him on cash payments to a middleman and leaked police files.",
-      "link": "https://www.occrp.org/en/news/i-had-no-involvement-zero-accused-mastermind-denies-killing-maltese-journalist",
-      "published": "2026-08-26T20:30:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "f860e9819a70",
-      "source": "The Lever",
-      "headline": "Midterm Madness: Michigan’s Senate Race Hits A Minefield",
-      "excerpt": "A Hasan Piker controversy has rocked Michigan’s critical Senate race — and the “centrist” wing of the party is capitalizing on the chaos.",
-      "link": "https://www.levernews.com/midterm-madness-michigans-senate-race-hits-a-minefield/",
-      "published": "2026-08-26T16:59:26+00:00",
-      "featured": false
-    },
-    {
-      "id": "d8d80cc34dd3",
-      "source": "Dropsite News",
-      "headline": "Pakistani “Double-Tap” Strike in June Wrought Havoc on Afghan Villagers",
-      "excerpt": "A Pakistani airstrike on a residential area in Samkani killed at least 22 civilians. At Paktia Central Hospital, doctors worked through the night to save the wounded.",
-      "link": "https://www.dropsitenews.com/p/pakistan-double-tap-afghanistan-samkani",
-      "published": "2026-08-26T15:50:22+00:00",
       "featured": false
     },
     {
@@ -398,12 +398,12 @@
       "featured": false
     },
     {
-      "id": "7978e1045b70",
+      "id": "5417f3786fea",
       "source": "Al Jazeera",
-      "headline": "UK has billions in contracts with firms tied to illegal Israeli settlements",
-      "excerpt": "Al Jazeera investigation reveals UK public money flowing to companies linked to Israeli settlements in occupied land.",
-      "link": "https://www.aljazeera.com/news/2026/8/28/uk-has-billions-in-contracts-with-firms-tied-to-illegal-israeli-settlements?traffic_source=rss",
-      "published": "2026-08-28T13:40:04+00:00",
+      "headline": "Iran war live: IRGC asserts strait control, US enforces blockade",
+      "excerpt": "Iran's IRGC claims decisive control over the Strait of Hormuz as the US maintains its naval blockade.",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/8/29/iran-war-live-irgc-asserts-strait-control-us-enforces-blockade?traffic_source=rss",
+      "published": "2026-08-29T00:00:00+00:00",
       "featured": false
     },
     {
@@ -416,30 +416,39 @@
       "featured": false
     },
     {
-      "id": "b517f432d1e1",
-      "source": "The Intercept",
-      "headline": "Palestinians Asked for Help Against Settlers. Israelis Detained Palestinian Workers Instead.",
-      "excerpt": "In the besieged West Bank village of Qusra, the workers were building a fence for keeping settlers out. Soldiers allowed the settlers to trespass. The post Palestinians Asked for Help Against Settlers. Israelis Detained...",
-      "link": "https://theintercept.com/2026/08/26/settlers-israel-soldiers-west-bank-siege-qusra/",
-      "published": "2026-08-26T16:27:37+00:00",
-      "featured": false
-    },
-    {
-      "id": "c696d6ea656a",
-      "source": "Dropsite News",
-      "headline": "Meta settles social media addiction suit; Canada strikes back in U.S. trade war; at least 95 killed in Nepal flash flood",
-      "excerpt": "Drop Site Daily: August 26, 2026",
-      "link": "https://www.dropsitenews.com/p/meta-social-media-suit-canada-us-trade-tariffs-nepal-flash-flood",
-      "published": "2026-08-26T15:44:53+00:00",
-      "featured": false
-    },
-    {
-      "id": "a1b895c4c65e",
+      "id": "c77c67ce5548",
       "source": "OCCRP",
-      "headline": "Armenian Court Orders Son of Ex-President Held in Sweeping Graft Probe",
-      "excerpt": "A Yerevan court ordered the pretrial detention of Sedrak Kocharyan as prosecutors expand a multi-million-dollar corruption investigation into his father, former President Robert Kocharyan, and other high-ranking...",
-      "link": "https://www.occrp.org/en/news/armenian-court-orders-son-of-ex-president-held-in-sweeping-graft-probe",
-      "published": "2026-08-26T15:18:00+00:00",
+      "headline": "OCCRP Denounces Police Search of Solomon Islands Reporter",
+      "excerpt": "Officers told Gina Maka’a, a reporter for OCCRP member center In-depth Solomons, her questioning was aimed at uncovering the source behind a report published last year. The search also comes after IDS reporting that led...",
+      "link": "https://www.occrp.org/en/news/occrp-denounces-police-search-of-solomon-islands-reporter",
+      "published": "2026-08-27T13:20:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "95c8a7553aa7",
+      "source": "The Intercept",
+      "headline": "A New Tree-Sit Movement to Block Trump’s Border Wall",
+      "excerpt": "A single tree sit grew into a cross-border continuous protest to defend the Arizona borderland ecology. So far, activists are succeeding. The post A New Tree-Sit Movement to Block Trump’s Border Wall appeared first on...",
+      "link": "https://theintercept.com/2026/08/27/trump-us-mexico-border-wall-tree-sit-arizona/",
+      "published": "2026-08-27T09:00:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "f182183905f4",
+      "source": "The Lever",
+      "headline": "The Billionaire Building The Democrats’ New Machine",
+      "excerpt": "We peel back the curtain on one billionaire’s effort to move the Democratic Party more to the center during this midterm season and the upcoming presidential season.",
+      "link": "https://www.levernews.com/the-billionaire-building-the-democrats-new-machine/",
+      "published": "2026-08-27T08:15:47+00:00",
+      "featured": false
+    },
+    {
+      "id": "abb38d6ced60",
+      "source": "Dropsite News",
+      "headline": "Elements of Venezuelan Government Loyal to Chavismo Warn of Possible U.S. Assault",
+      "excerpt": "Leaders of the 23 de Enero parish, a stronghold of Chavismo resistance in Caracas, fear the U.S. will try to dismantle their grassroots democracy.",
+      "link": "https://www.dropsitenews.com/p/venezuela-maduro-juan-contreras-trump-oil",
+      "published": "2026-08-26T20:21:12+00:00",
       "featured": false
     },
     {
@@ -449,15 +458,6 @@
       "excerpt": "The post The Costly Blunders in the Army’s $533 Million Fiasco appeared first on ProPublica.",
       "link": "https://www.propublica.org/article/army-artillery-factory-fiasco-takeaways",
       "published": "2026-08-26T10:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "accb9863bdd1",
-      "source": "The Lever",
-      "headline": "Nevada Governor Backed Data Centers Days After $1 Million Donation",
-      "excerpt": "AI-linked donors poured $2 million into Republican Joe Lombardo’s reelection campaign as he championed data centers that could consume enough water for 150,000 households.",
-      "link": "https://www.levernews.com/nevada-governor-backed-data-centers-days-after-1-million-donation/",
-      "published": "2026-08-25T23:15:24+00:00",
       "featured": false
     },
     {
@@ -488,12 +488,12 @@
       "featured": false
     },
     {
-      "id": "3e3bfa45864d",
+      "id": "66105f718198",
       "source": "Al Jazeera",
-      "headline": "Europa League draw: Bournemouth, Sunderland get glamour ties with AC Milan",
-      "excerpt": "Teams playing in UEFA's Europa League and Conference League find out their opponents as league phase draws made.",
-      "link": "https://www.aljazeera.com/sports/2026/8/28/europa-league-draw-bournemouth-sunderland-get-glamour-ties-with-ac-milan?traffic_source=rss",
-      "published": "2026-08-28T13:33:25+00:00",
+      "headline": "Cambodia’s claim to have ended scam compounds met with scepticism",
+      "excerpt": "Cambodia's claim of eradicating its scam compounds met with scepticism from Amnesty International and industry experts.",
+      "link": "https://www.aljazeera.com/news/2026/8/28/cambodias-claim-to-have-ended-scam-compounds-met-with-scepticism?traffic_source=rss",
+      "published": "2026-08-28T23:48:56+00:00",
       "featured": false
     },
     {
@@ -506,39 +506,39 @@
       "featured": false
     },
     {
-      "id": "59d95facf5ee",
-      "source": "Dropsite News",
-      "headline": "“Access to Oxygen Is Not a Medical Luxury”: With No Spare Parts Allowed In, Gaza’s Hospital Equipment Is Collapsing",
-      "excerpt": "Israel’s restrictions on medical supplies and equipment are still making health care in Gaza all but impossible.",
-      "link": "https://www.dropsitenews.com/p/gaza-hospitals-medical-equipment-supplies-israeli-blockade",
-      "published": "2026-08-26T14:33:56+00:00",
-      "featured": false
-    },
-    {
-      "id": "ebc3b677a979",
+      "id": "f79e49613edb",
       "source": "OCCRP",
-      "headline": "Designed for Impact: The Next Evolution of OCCRP’s Website",
-      "excerpt": "",
-      "link": "https://www.occrp.org/en/announcement/designed-for-impact-the-next-evolution-of-occrps-website",
-      "published": "2026-08-26T11:14:00+00:00",
+      "headline": "‘I Had No Involvement. Zero.’: Accused Mastermind Denies Killing Maltese Journalist",
+      "excerpt": "Yorgen Fenech testified he was innocent in the death of Daphne Caruana Galizia, even as prosecutors pressed him on cash payments to a middleman and leaked police files.",
+      "link": "https://www.occrp.org/en/news/i-had-no-involvement-zero-accused-mastermind-denies-killing-maltese-journalist",
+      "published": "2026-08-26T20:30:00+00:00",
       "featured": false
     },
     {
-      "id": "5f2f1eb24f3b",
+      "id": "f860e9819a70",
+      "source": "The Lever",
+      "headline": "Midterm Madness: Michigan’s Senate Race Hits A Minefield",
+      "excerpt": "A Hasan Piker controversy has rocked Michigan’s critical Senate race — and the “centrist” wing of the party is capitalizing on the chaos.",
+      "link": "https://www.levernews.com/midterm-madness-michigans-senate-race-hits-a-minefield/",
+      "published": "2026-08-26T16:59:26+00:00",
+      "featured": false
+    },
+    {
+      "id": "b517f432d1e1",
       "source": "The Intercept",
-      "headline": "It’s Time to Rein in Lethal AI Drones",
-      "excerpt": "Humans need to act, as AI agents scheme in the digital shadows. The post It’s Time to Rein in Lethal AI Drones appeared first on The Intercept.",
-      "link": "https://theintercept.com/2026/08/26/ai-drone-warfare-russia-ukraine-openai-anthropic/",
-      "published": "2026-08-26T10:00:00+00:00",
+      "headline": "Palestinians Asked for Help Against Settlers. Israelis Detained Palestinian Workers Instead.",
+      "excerpt": "In the besieged West Bank village of Qusra, the workers were building a fence for keeping settlers out. Soldiers allowed the settlers to trespass. The post Palestinians Asked for Help Against Settlers. Israelis Detained...",
+      "link": "https://theintercept.com/2026/08/26/settlers-israel-soldiers-west-bank-siege-qusra/",
+      "published": "2026-08-26T16:27:37+00:00",
       "featured": false
     },
     {
-      "id": "e34203e1aafc",
-      "source": "ProPublica",
-      "headline": "Idaho Law Protects Faith Healers. It Wasn’t Always That Way.",
-      "excerpt": "The post Idaho Law Protects Faith Healers. It Wasn’t Always That Way. appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/idaho-law-faith-healing-exemption",
-      "published": "2026-08-26T09:00:00+00:00",
+      "id": "d8d80cc34dd3",
+      "source": "Dropsite News",
+      "headline": "Pakistani “Double-Tap” Strike in June Wrought Havoc on Afghan Villagers",
+      "excerpt": "A Pakistani airstrike on a residential area in Samkani killed at least 22 civilians. At Paktia Central Hospital, doctors worked through the night to save the wounded.",
+      "link": "https://www.dropsitenews.com/p/pakistan-double-tap-afghanistan-samkani",
+      "published": "2026-08-26T15:50:22+00:00",
       "featured": false
     }
   ]
