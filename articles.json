@@ -1,13 +1,31 @@
 {
-  "generated_at": "2026-08-29T01:45:27.982717+00:00",
+  "generated_at": "2026-08-29T10:05:39.097995+00:00",
   "articles": [
     {
-      "id": "96db34a6055d",
+      "id": "977ac1479fb1",
+      "source": "404 Media",
+      "headline": "Thousands of Interstellar Objects May Be Lurking in Our Solar System",
+      "excerpt": "The Sun has likely passed so close to other stars in the past that it captured thousands of small interstellar objects from alien systems, reports a new study.",
+      "link": "https://www.404media.co/thousands-of-interstellar-objects-may-be-lurking-in-our-solar-system/",
+      "published": "2026-08-29T10:00:27+00:00",
+      "featured": true
+    },
+    {
+      "id": "d6acd34559bf",
+      "source": "The Intercept",
+      "headline": "Western North Carolina Pleaded for Hurricane Help. It Got ICE Instead.",
+      "excerpt": "As the G20 descends on Asheville, the communities that helped rebuild after Hurricane Helene live in fear of Trump’s immigration regime. The post Western North Carolina Pleaded for Hurricane Help. It Got ICE Instead....",
+      "link": "https://theintercept.com/2026/08/29/hurricane-helene-ice-asheville-nc-g20-trump/",
+      "published": "2026-08-29T10:00:00+00:00",
+      "featured": true
+    },
+    {
+      "id": "82fedfbbdf2b",
       "source": "Al Jazeera",
-      "headline": "Gunfire, blasts heard in several areas of Niger capital Niamey",
-      "excerpt": "This is a breaking news story.",
-      "link": "https://www.aljazeera.com/news/2026/8/29/gunfire-blasts-heard-in-several-areas-of-niger-capital-niamey?traffic_source=rss",
-      "published": "2026-08-29T01:30:08+00:00",
+      "headline": "Norway mourns King Harald as new era begins under Haakon VIII",
+      "excerpt": "King Harald, Europe's oldest monarch, was viewed as a reformer who embraced inclusivity.",
+      "link": "https://www.aljazeera.com/news/2026/8/29/norway-mourns-king-harald-as-new-era-begins-under-haakon-viii?traffic_source=rss",
+      "published": "2026-08-29T09:45:37+00:00",
       "featured": true
     },
     {
@@ -17,7 +35,7 @@
       "excerpt": "Seth Moulton once called progressive populism a recipe for losing. Now he’s asking Wall Street financiers to help him claim the progressive mantle.",
       "link": "https://www.levernews.com/the-corporate-dem-asking-super-pacs-to-call-him-a-progressive/",
       "published": "2026-08-28T22:44:27+00:00",
-      "featured": true
+      "featured": false
     },
     {
       "id": "93fea1c71c06",
@@ -26,15 +44,6 @@
       "excerpt": "“I was frightened. The authorities did not contact me beforehand; they just put me on the list.”",
       "link": "https://www.dropsitenews.com/p/united-states-designates-palestinian-refugee-terrorist-germany",
       "published": "2026-08-28T21:01:51+00:00",
-      "featured": true
-    },
-    {
-      "id": "111a0678d169",
-      "source": "The Intercept",
-      "headline": "Trump Goes After Anonymous Email Provider in Italy. The Real Target Is Free Speech in the U.S.",
-      "excerpt": "Trump designated an Italian web-hosting provider as a foreign “terror” group. It could take antifascist sites in the U.S. offline. The post Trump Goes After Anonymous Email Provider in Italy. The Real Target Is Free...",
-      "link": "https://theintercept.com/2026/08/28/trump-antifa-terrorist-websites-free-speech/",
-      "published": "2026-08-28T15:51:40+00:00",
       "featured": false
     },
     {
@@ -44,15 +53,6 @@
       "excerpt": "Lawyer for Sebastián Marset claims the U.S. cannot prosecute him based on a single wire transfer that routed through a server in Virginia.",
       "link": "https://www.occrp.org/en/news/alleged-narco-terrorist-moves-to-toss-us-indictment-on-jurisdictional-grounds",
       "published": "2026-08-28T15:42:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "ae6003729a44",
-      "source": "404 Media",
-      "headline": "Behind the Blog: The Complete Idiot's Guide to Flamin' Hot Slop",
-      "excerpt": "This week, we discuss cool old books, new toys for ICE, and a boardwalk slop invasion.",
-      "link": "https://www.404media.co/behind-the-blog-the-complete-idiots-guide-to-flamin-hot-slop/",
-      "published": "2026-08-28T15:16:39+00:00",
       "featured": false
     },
     {
@@ -101,12 +101,12 @@
       "featured": false
     },
     {
-      "id": "46a679e36bd0",
+      "id": "7c833a676db7",
       "source": "Al Jazeera",
-      "headline": "Board of Peace’s Mladenov warns Gaza could be ‘gone for good’",
-      "excerpt": "Top envoy for the US-led Board of Peace says Gaza is at risk of being ‘gone for good’ without reconstruction.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/29/board-of-peaces-mladenov-warns-gaza-could-be-gone-for?traffic_source=rss",
-      "published": "2026-08-29T00:53:56+00:00",
+      "headline": "US revokes visa of former Iraqi minister after watchlist listing",
+      "excerpt": "The US has revoked an award-winning former Iraqi minister’s visa after the FBI placed her on a ‘terrorism watchlist'.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/29/us-revokes-visa-of-former-iraqi-minister-after-watchlist-listing?traffic_source=rss",
+      "published": "2026-08-29T09:05:30+00:00",
       "featured": false
     },
     {
@@ -128,6 +128,15 @@
       "featured": false
     },
     {
+      "id": "111a0678d169",
+      "source": "The Intercept",
+      "headline": "Trump Goes After Anonymous Email Provider in Italy. The Real Target Is Free Speech in the U.S.",
+      "excerpt": "Trump designated an Italian web-hosting provider as a foreign “terror” group. It could take antifascist sites in the U.S. offline. The post Trump Goes After Anonymous Email Provider in Italy. The Real Target Is Free...",
+      "link": "https://theintercept.com/2026/08/28/trump-antifa-terrorist-websites-free-speech/",
+      "published": "2026-08-28T15:51:40+00:00",
+      "featured": false
+    },
+    {
       "id": "e5e38cf325b9",
       "source": "OCCRP",
       "headline": "Slovak Police Foil Possible Napalm Attack on Factory Producing Drones for Ukraine",
@@ -137,21 +146,12 @@
       "featured": false
     },
     {
-      "id": "9c37bed7469c",
+      "id": "ae6003729a44",
       "source": "404 Media",
-      "headline": "ICE Plans to Spend Millions on Boston Dynamics Dog Robots",
-      "excerpt": "ICE wants the robot dogs to improve “officer safety.”",
-      "link": "https://www.404media.co/ice-plans-to-spends-millions-on-boston-dynamics-dog-robots/",
-      "published": "2026-08-28T14:04:55+00:00",
-      "featured": false
-    },
-    {
-      "id": "4c76d89d62ff",
-      "source": "The Intercept",
-      "headline": "Right-Wing Trans Hate Comes for the WNBA",
-      "excerpt": "How the right’s attacks on trans people have infiltrated a sports league with no trans women. The post Right-Wing Trans Hate Comes for the WNBA appeared first on The Intercept.",
-      "link": "https://theintercept.com/2026/08/28/wnba-women-basketball-sports-trans/",
-      "published": "2026-08-28T10:00:00+00:00",
+      "headline": "Behind the Blog: The Complete Idiot's Guide to Flamin' Hot Slop",
+      "excerpt": "This week, we discuss cool old books, new toys for ICE, and a boardwalk slop invasion.",
+      "link": "https://www.404media.co/behind-the-blog-the-complete-idiots-guide-to-flamin-hot-slop/",
+      "published": "2026-08-28T15:16:39+00:00",
       "featured": false
     },
     {
@@ -200,12 +200,21 @@
       "featured": false
     },
     {
-      "id": "46492a7ea3c6",
+      "id": "664aca660167",
       "source": "Al Jazeera",
-      "headline": "US revises statements suggesting Chinese hackers attacked agencies",
-      "excerpt": "US Justice Department clarifies that the US Senate and Federal Reserve were targets but were not successfully hacked.",
-      "link": "https://www.aljazeera.com/news/2026/8/29/us-revises-statements-suggesting-chinese-hackers-attacked-agencies?traffic_source=rss",
-      "published": "2026-08-29T00:46:20+00:00",
+      "headline": "Chelsea vs Brighton: Premier League – preview, team news, prediction",
+      "excerpt": "Brighton will fancy their chances against Chelsea though, having won their last three league games against the Blues.",
+      "link": "https://www.aljazeera.com/sports/2026/8/29/chelsea-vs-brighton-premier-league-preview-team-news?traffic_source=rss",
+      "published": "2026-08-29T08:51:07+00:00",
+      "featured": false
+    },
+    {
+      "id": "9c37bed7469c",
+      "source": "404 Media",
+      "headline": "ICE Plans to Spend Millions on Boston Dynamics Dog Robots",
+      "excerpt": "ICE wants the robot dogs to improve “officer safety.”",
+      "link": "https://www.404media.co/ice-plans-to-spends-millions-on-boston-dynamics-dog-robots/",
+      "published": "2026-08-28T14:04:55+00:00",
       "featured": false
     },
     {
@@ -215,6 +224,15 @@
       "excerpt": "How a front for fossil fuel is using affordability fears, former Democratic officials, and dubious polling to turn establishment Democrats against the climate left.",
       "link": "https://www.levernews.com/a-natural-gas-astroturf-group-says-it-flipped-ny-gov-hochul/",
       "published": "2026-08-28T13:50:09+00:00",
+      "featured": false
+    },
+    {
+      "id": "4c76d89d62ff",
+      "source": "The Intercept",
+      "headline": "Right-Wing Trans Hate Comes for the WNBA",
+      "excerpt": "How the right’s attacks on trans people have infiltrated a sports league with no trans women. The post Right-Wing Trans Hate Comes for the WNBA appeared first on The Intercept.",
+      "link": "https://theintercept.com/2026/08/28/wnba-women-basketball-sports-trans/",
+      "published": "2026-08-28T10:00:00+00:00",
       "featured": false
     },
     {
@@ -233,24 +251,6 @@
       "excerpt": "From CAFOs to data centers, corporate America dodges local control.",
       "link": "https://www.dropsitenews.com/p/rural-residents-say-no-data-centers-ai-cafos",
       "published": "2026-08-27T18:36:45+00:00",
-      "featured": false
-    },
-    {
-      "id": "cfc5bff2b830",
-      "source": "404 Media",
-      "headline": "The AI ‘Ghosts’ Contaminating Academic Publishing",
-      "excerpt": "“The academic record is being quietly haunted” by researchers with names like Elena Vasquez and Marcus Chen.",
-      "link": "https://www.404media.co/the-ai-ghosts-contaminating-academic-publishing/",
-      "published": "2026-08-27T18:14:29+00:00",
-      "featured": false
-    },
-    {
-      "id": "4e5f2da9b4a8",
-      "source": "The Intercept",
-      "headline": "“They Want People Scared”: Former Palestine Action Member Blasts Trump’s Terror Sanctions",
-      "excerpt": "Anti-genocide organizers say the “terrorism” label is intended to crush direct action against Israeli weapons shipments. The post “They Want People Scared”: Former Palestine Action Member Blasts Trump’s Terror Sanctions...",
-      "link": "https://theintercept.com/2026/08/27/palestine-action-terrorism-sanctions-trump-ban-israel/",
-      "published": "2026-08-27T17:59:57+00:00",
       "featured": false
     },
     {
@@ -299,12 +299,30 @@
       "featured": false
     },
     {
-      "id": "0e564a522211",
+      "id": "6b8ef3473689",
       "source": "Al Jazeera",
-      "headline": "US judge rejects Trump’s bid to switch hush-money case to federal court",
-      "excerpt": "The US president has sought to overturn his criminal conviction for falsifying business records, citing immunity.",
-      "link": "https://www.aljazeera.com/news/2026/8/29/us-judge-rejects-trumps-bid-to-switch-hush-money-case-to-federal-court?traffic_source=rss",
-      "published": "2026-08-29T00:19:00+00:00",
+      "headline": "Liverpool vs Nottingham Forest LIVE: Premier League",
+      "excerpt": "Live text updates from our commentary stream coverage as Florian Wirtz and Dominik Szoboszlai try to inspire the Reds.",
+      "link": "https://www.aljazeera.com/sports/liveblog/2026/8/29/live-liverpool-vs-nottingham-forest-premier-league?traffic_source=rss",
+      "published": "2026-08-29T08:33:04+00:00",
+      "featured": false
+    },
+    {
+      "id": "cfc5bff2b830",
+      "source": "404 Media",
+      "headline": "The AI ‘Ghosts’ Contaminating Academic Publishing",
+      "excerpt": "“The academic record is being quietly haunted” by researchers with names like Elena Vasquez and Marcus Chen.",
+      "link": "https://www.404media.co/the-ai-ghosts-contaminating-academic-publishing/",
+      "published": "2026-08-27T18:14:29+00:00",
+      "featured": false
+    },
+    {
+      "id": "4e5f2da9b4a8",
+      "source": "The Intercept",
+      "headline": "“They Want People Scared”: Former Palestine Action Member Blasts Trump’s Terror Sanctions",
+      "excerpt": "Anti-genocide organizers say the “terrorism” label is intended to crush direct action against Israeli weapons shipments. The post “They Want People Scared”: Former Palestine Action Member Blasts Trump’s Terror Sanctions...",
+      "link": "https://theintercept.com/2026/08/27/palestine-action-terrorism-sanctions-trump-ban-israel/",
+      "published": "2026-08-27T17:59:57+00:00",
       "featured": false
     },
     {
@@ -314,15 +332,6 @@
       "excerpt": "Trump has a 300,000-ton cattle problem. Plus, a federal judge tells Texans offended by drag shows: “Just don’t go.”",
       "link": "https://www.levernews.com/american-beef-is-on-the-chopping-block/",
       "published": "2026-08-27T17:17:46+00:00",
-      "featured": false
-    },
-    {
-      "id": "2ec6f3456e63",
-      "source": "404 Media",
-      "headline": "The Tragedy and Ecstasy of AI Companions (with Bridget Todd)",
-      "excerpt": "In her new audiobook, Love at First Prompt: AI and the Future of Intimacy, Bridget Jones and Michael Amato unpack how real people are using chatbots to seek connection, in an era when tech companies are constantly...",
-      "link": "https://www.404media.co/bridget-todd-love-at-first-prompt-ai-chatbot-companions-podcast/",
-      "published": "2026-08-27T15:47:59+00:00",
       "featured": false
     },
     {
@@ -341,15 +350,6 @@
       "excerpt": "",
       "link": "https://www.occrp.org/en/news/malaysias-ex-prime-minister-charged-over-failure-to-declare-assets",
       "published": "2026-08-27T13:47:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "7e2601295ade",
-      "source": "The Intercept",
-      "headline": "Trump Admin Said She Was Lying About Stillbirth in ICE Custody. New Evidence Points to Lack of Prenatal Care.",
-      "excerpt": "The Trump administration claimed Iris Dayana Monterroso Lemus received “FULL medical, prenatal care” in ICE custody. The post Trump Admin Said She Was Lying About Stillbirth in ICE Custody. New Evidence Points to Lack...",
-      "link": "https://theintercept.com/2026/08/27/trump-ice-custody-pregnancy-stillbirth-deport/",
-      "published": "2026-08-27T10:00:00+00:00",
       "featured": false
     },
     {
@@ -398,21 +398,21 @@
       "featured": false
     },
     {
-      "id": "5417f3786fea",
+      "id": "638ef207b22e",
       "source": "Al Jazeera",
-      "headline": "Iran war live: IRGC asserts strait control, US enforces blockade",
-      "excerpt": "Iran's IRGC claims decisive control over the Strait of Hormuz as the US maintains its naval blockade.",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/8/29/iran-war-live-irgc-asserts-strait-control-us-enforces-blockade?traffic_source=rss",
-      "published": "2026-08-29T00:00:00+00:00",
+      "headline": "Aston Villa sign Chelsea striker Nicolas Jackson for reported club record",
+      "excerpt": "Jackson arrives as a replacement for Ollie Watkins, whose move to Saudi Arabian side Al Hilal is being finalised.",
+      "link": "https://www.aljazeera.com/sports/2026/8/29/aston-villa-sign-chelsea-striker-nicolas-jackson-for-reported-club-record?traffic_source=rss",
+      "published": "2026-08-29T07:33:34+00:00",
       "featured": false
     },
     {
-      "id": "047282a492d6",
+      "id": "2ec6f3456e63",
       "source": "404 Media",
-      "headline": "Cocomelon's Studio Tells Its Artists to Start Experimenting With AI",
-      "excerpt": "Moonbug Entertainment, which makes Cocomelon, Blippi, and other popular content for children, says it will begin using AI but will always have a 'human in the loop.'",
-      "link": "https://www.404media.co/cocomelons-studio-tells-its-artists-to-start-experimenting-with-ai/",
-      "published": "2026-08-27T15:33:32+00:00",
+      "headline": "The Tragedy and Ecstasy of AI Companions (with Bridget Todd)",
+      "excerpt": "In her new audiobook, Love at First Prompt: AI and the Future of Intimacy, Bridget Jones and Michael Amato unpack how real people are using chatbots to seek connection, in an era when tech companies are constantly...",
+      "link": "https://www.404media.co/bridget-todd-love-at-first-prompt-ai-chatbot-companions-podcast/",
+      "published": "2026-08-27T15:47:59+00:00",
       "featured": false
     },
     {
@@ -425,12 +425,12 @@
       "featured": false
     },
     {
-      "id": "95c8a7553aa7",
+      "id": "7e2601295ade",
       "source": "The Intercept",
-      "headline": "A New Tree-Sit Movement to Block Trump’s Border Wall",
-      "excerpt": "A single tree sit grew into a cross-border continuous protest to defend the Arizona borderland ecology. So far, activists are succeeding. The post A New Tree-Sit Movement to Block Trump’s Border Wall appeared first on...",
-      "link": "https://theintercept.com/2026/08/27/trump-us-mexico-border-wall-tree-sit-arizona/",
-      "published": "2026-08-27T09:00:00+00:00",
+      "headline": "Trump Admin Said She Was Lying About Stillbirth in ICE Custody. New Evidence Points to Lack of Prenatal Care.",
+      "excerpt": "The Trump administration claimed Iris Dayana Monterroso Lemus received “FULL medical, prenatal care” in ICE custody. The post Trump Admin Said She Was Lying About Stillbirth in ICE Custody. New Evidence Points to Lack...",
+      "link": "https://theintercept.com/2026/08/27/trump-ice-custody-pregnancy-stillbirth-deport/",
+      "published": "2026-08-27T10:00:00+00:00",
       "featured": false
     },
     {
@@ -488,21 +488,30 @@
       "featured": false
     },
     {
-      "id": "66105f718198",
+      "id": "79f225f39317",
       "source": "Al Jazeera",
-      "headline": "Cambodia’s claim to have ended scam compounds met with scepticism",
-      "excerpt": "Cambodia's claim of eradicating its scam compounds met with scepticism from Amnesty International and industry experts.",
-      "link": "https://www.aljazeera.com/news/2026/8/28/cambodias-claim-to-have-ended-scam-compounds-met-with-scepticism?traffic_source=rss",
-      "published": "2026-08-28T23:48:56+00:00",
+      "headline": "India and Pakistan are united in spending citizen lives like pocket change",
+      "excerpt": "Recent hospital fires expose how little decades of national achievement mean when basic public safety still fails.",
+      "link": "https://www.aljazeera.com/opinions/2026/8/29/india-and-pakistan-are-united-in-spending-citizen-lives-like-pocket-change?traffic_source=rss",
+      "published": "2026-08-29T07:08:23+00:00",
       "featured": false
     },
     {
-      "id": "8d5566734022",
+      "id": "047282a492d6",
       "source": "404 Media",
-      "headline": "Businesses Go Viral for Making Signs Without AI",
-      "excerpt": "In the wake of the ChatGPT flyer pandemic, some businesses are differentiating themselves by making signs the old school way.",
-      "link": "https://www.404media.co/businesses-go-viral-for-making-signs-without-ai/",
-      "published": "2026-08-27T14:34:03+00:00",
+      "headline": "Cocomelon's Studio Tells Its Artists to Start Experimenting With AI",
+      "excerpt": "Moonbug Entertainment, which makes Cocomelon, Blippi, and other popular content for children, says it will begin using AI but will always have a 'human in the loop.'",
+      "link": "https://www.404media.co/cocomelons-studio-tells-its-artists-to-start-experimenting-with-ai/",
+      "published": "2026-08-27T15:33:32+00:00",
+      "featured": false
+    },
+    {
+      "id": "95c8a7553aa7",
+      "source": "The Intercept",
+      "headline": "A New Tree-Sit Movement to Block Trump’s Border Wall",
+      "excerpt": "A single tree sit grew into a cross-border continuous protest to defend the Arizona borderland ecology. So far, activists are succeeding. The post A New Tree-Sit Movement to Block Trump’s Border Wall appeared first on...",
+      "link": "https://theintercept.com/2026/08/27/trump-us-mexico-border-wall-tree-sit-arizona/",
+      "published": "2026-08-27T09:00:00+00:00",
       "featured": false
     },
     {
@@ -521,15 +530,6 @@
       "excerpt": "A Hasan Piker controversy has rocked Michigan’s critical Senate race — and the “centrist” wing of the party is capitalizing on the chaos.",
       "link": "https://www.levernews.com/midterm-madness-michigans-senate-race-hits-a-minefield/",
       "published": "2026-08-26T16:59:26+00:00",
-      "featured": false
-    },
-    {
-      "id": "b517f432d1e1",
-      "source": "The Intercept",
-      "headline": "Palestinians Asked for Help Against Settlers. Israelis Detained Palestinian Workers Instead.",
-      "excerpt": "In the besieged West Bank village of Qusra, the workers were building a fence for keeping settlers out. Soldiers allowed the settlers to trespass. The post Palestinians Asked for Help Against Settlers. Israelis Detained...",
-      "link": "https://theintercept.com/2026/08/26/settlers-israel-soldiers-west-bank-siege-qusra/",
-      "published": "2026-08-26T16:27:37+00:00",
       "featured": false
     },
     {
