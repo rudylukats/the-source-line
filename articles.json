@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-08-31T13:52:38.956844+00:00",
+  "generated_at": "2026-08-31T20:50:24.107871+00:00",
   "articles": [
+    {
+      "id": "4028c407f03c",
+      "source": "Al Jazeera",
+      "headline": "How will the Mecca agreement become an operational framework?",
+      "excerpt": "Officials from Turkiye, Saudi Arabia and Pakistan meet to discuss implementing the pact.",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/8/31/how-will-the-mecca-agreement-become-an-operational-framework?traffic_source=rss",
+      "published": "2026-08-31T20:13:18+00:00",
+      "featured": true
+    },
+    {
+      "id": "c3b5370ea0c9",
+      "source": "The Lever",
+      "headline": "614 Reasons To Tax The Rich",
+      "excerpt": "CEOs at the lowest-paying corporations made roughly 614 times more than their median worker in 2025.",
+      "link": "https://www.levernews.com/614-reasons-to-tax-the-rich/",
+      "published": "2026-08-31T17:00:09+00:00",
+      "featured": true
+    },
+    {
+      "id": "45a90264bcde",
+      "source": "ICIJ",
+      "headline": "Crypto giant Tether promised careful vetting. Some early customers were later implicated in financial crimes.",
+      "excerpt": "Financial records obtained by ICIJ show that they included individuals later accused of or sanctioned for money laundering and other financial crimes.",
+      "link": "https://www.icij.org/investigations/coin-laundry/crypto-giant-tether-promised-careful-vetting-some-early-customers-were-later-implicated-in-financial-crimes/",
+      "published": "2026-08-31T16:58:13+00:00",
+      "featured": true
+    },
+    {
+      "id": "e29791214762",
+      "source": "Dropsite News",
+      "headline": "U.S. reignites Iran war; Israel’s $3.5B defense deal with Greece; Details of Venezuela oil deal",
+      "excerpt": "Drop Site Daily: August 31, 2026",
+      "link": "https://www.dropsitenews.com/p/us-iran-war-larak-israel-greece-defense-venezuela-oil-deal",
+      "published": "2026-08-31T15:50:21+00:00",
+      "featured": false
+    },
     {
       "id": "e42a2a1a22cc",
       "source": "OCCRP",
@@ -8,16 +44,7 @@
       "excerpt": "",
       "link": "https://www.occrp.org/en/news/south-africa-arrests-suspect-in-37m-hospital-corruption-case",
       "published": "2026-08-31T13:21:00+00:00",
-      "featured": true
-    },
-    {
-      "id": "54cfd29c7440",
-      "source": "Al Jazeera",
-      "headline": "Manchester City sign Brazilian winger Allan Elias from Palmeiras",
-      "excerpt": "Elias joins the Premier League club on a five-year contract, their sixth signing in the summer transfer window.",
-      "link": "https://www.aljazeera.com/sports/2026/8/31/manchester-city-sign-brazilian-winger-allan-elias-from-palmeiras?traffic_source=rss",
-      "published": "2026-08-31T13:03:40+00:00",
-      "featured": true
+      "featured": false
     },
     {
       "id": "8fe9b0f0cd17",
@@ -26,7 +53,7 @@
       "excerpt": "Sign up here to receive Bellingcat’s biggest investigations by email as soon as they are published. On a June night in 1996, in a basement apartment in Boston’s Chinatown, a killer put a pistol to the back of a young...",
       "link": "https://www.bellingcat.com/news/us-canada/2026/08/31/investigating-a-murder-public-records-uncover-new-clues-in-chinatown-cold-case/",
       "published": "2026-08-31T12:58:31+00:00",
-      "featured": true
+      "featured": false
     },
     {
       "id": "fca685b7b0de",
@@ -56,30 +83,12 @@
       "featured": false
     },
     {
-      "id": "1d5b484ec55f",
-      "source": "The Lever",
-      "headline": "He Champions Centrist Dems On Cable. He Also Works For Big AI.",
-      "excerpt": "Former Rep. Max Rose helps lead an influential network intervening in Democratic primaries — while quietly advising a tech-funded political operation targeting AI regulation.",
-      "link": "https://www.levernews.com/he-champions-centrist-dems-on-cable-he-also-works-for-big-ai/",
-      "published": "2026-08-31T09:00:14+00:00",
-      "featured": false
-    },
-    {
       "id": "bb1cb8043d4f",
       "source": "The Intercept",
       "headline": "Ecocide in Iran",
       "excerpt": "The U.S.–Israeli war has caused massive environmental devastation, adding to the long history of American wars with toxic legacies. The post Ecocide in Iran appeared first on The Intercept.",
       "link": "https://theintercept.com/2026/08/31/iran-war-environment-toxic-chemical-exposure/",
       "published": "2026-08-31T09:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "93fea1c71c06",
-      "source": "Dropsite News",
-      "headline": "U.S. Designates Palestinian Refugee in Germany as “Terrorist”",
-      "excerpt": "“I was frightened. The authorities did not contact me beforehand; they just put me on the list.”",
-      "link": "https://www.dropsitenews.com/p/united-states-designates-palestinian-refugee-terrorist-germany",
-      "published": "2026-08-28T21:01:51+00:00",
       "featured": false
     },
     {
@@ -92,21 +101,30 @@
       "featured": false
     },
     {
-      "id": "20326a28e45c",
-      "source": "ICIJ",
-      "headline": "Despite years of confiscations, the Met still holds hundreds of pieces linked to alleged trafficking and looting figures",
-      "excerpt": "Museum says it wants no stolen artwork and that it has initiated an expedited review of hundreds of works tied to specific dealers.",
-      "link": "https://www.icij.org/investigations/hidden-treasures/despite-years-of-confiscations-the-met-still-holds-hundreds-of-pieces-linked-to-alleged-trafficking-and-looting-figures/",
-      "published": "2026-08-20T11:54:56+00:00",
+      "id": "ef57f0f36ea7",
+      "source": "Al Jazeera",
+      "headline": "Ukrainians mourn community leader killed in Russian strike on Myla",
+      "excerpt": "Ukrainians gathered to mourn Taras Didych, who was killed while rushing to help after a Russian strike.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/31/ukrainians-mourn-community-leader-killed-in-russian-strike-on-myla?traffic_source=rss",
+      "published": "2026-08-31T19:51:46+00:00",
       "featured": false
     },
     {
-      "id": "8be80a086d4b",
-      "source": "Al Jazeera",
-      "headline": "Can Iran use rockets to mine the Strait of Hormuz, as US claims?",
-      "excerpt": "Analysts say it's implausible but Iran is well-versed in adapting conventional weapons to suit its needs.",
-      "link": "https://www.aljazeera.com/news/2026/8/31/can-iran-use-rockets-to-mine-the-strait-of-hormuz-as-us-claims?traffic_source=rss",
-      "published": "2026-08-31T13:00:10+00:00",
+      "id": "f5fe012f24ed",
+      "source": "Dropsite News",
+      "headline": "A Graham Platner Write-In Campaign Might End Up Helping Troy Jackson",
+      "excerpt": "Platner confirmed to Drop Site that he spoke with a group of supporters organizing a write-in campaign, but discouraged the effort.",
+      "link": "https://www.dropsitenews.com/p/graham-platner-write-in-campaign-maine-senate",
+      "published": "2026-08-31T15:25:48+00:00",
+      "featured": false
+    },
+    {
+      "id": "1d5b484ec55f",
+      "source": "The Lever",
+      "headline": "He Champions Centrist Dems On Cable. He Also Works For Big AI.",
+      "excerpt": "Former Rep. Max Rose helps lead an influential network intervening in Democratic primaries — while quietly advising a tech-funded political operation targeting AI regulation.",
+      "link": "https://www.levernews.com/he-champions-centrist-dems-on-cable-he-also-works-for-big-ai/",
+      "published": "2026-08-31T09:00:14+00:00",
       "featured": false
     },
     {
@@ -128,30 +146,12 @@
       "featured": false
     },
     {
-      "id": "33ef6ad2f90e",
-      "source": "The Lever",
-      "headline": "Lever Weekly: Surveillance, Swipe Fees, And Super PACs",
-      "excerpt": "Suspiciously timed donations, corporate double agents, and more from The Lever this week.",
-      "link": "https://www.levernews.com/lever-weekly-surveillance-swipe-fees-and-super-pacs/",
-      "published": "2026-08-30T13:02:02+00:00",
-      "featured": false
-    },
-    {
       "id": "d6acd34559bf",
       "source": "The Intercept",
       "headline": "Western North Carolina Pleaded for Hurricane Help. It Got ICE Instead.",
       "excerpt": "As the G20 descends on Asheville, the communities that helped rebuild after Hurricane Helene live in fear of Trump’s immigration regime. The post Western North Carolina Pleaded for Hurricane Help. It Got ICE Instead....",
       "link": "https://theintercept.com/2026/08/29/hurricane-helene-ice-asheville-nc-g20-trump/",
       "published": "2026-08-29T10:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "a270de716657",
-      "source": "Dropsite News",
-      "headline": "Israel kills three in first airstrike on West Bank in 10 months; Judge again blocks Trump order on mail ballots; Over 2,500 dead or missing in Nepal",
-      "excerpt": "Drop Site Daily: August 28, 2026",
-      "link": "https://www.dropsitenews.com/p/israel-west-bank-jenin-trump-mail-ballots-nepal-flood",
-      "published": "2026-08-28T16:37:40+00:00",
       "featured": false
     },
     {
@@ -191,30 +191,30 @@
       "featured": false
     },
     {
-      "id": "bae449c52e51",
+      "id": "20326a28e45c",
       "source": "ICIJ",
-      "headline": "Kazakhstan alleges Big Oil corruption tainted $10.7 billion in contracts, delayed key oil project",
-      "excerpt": "The allegations, which are at the heart of a confidential arbitration, signal an aggressive new stance by the Central Asian country toward longstanding international partners.",
-      "link": "https://www.icij.org/investigations/caspian-cabals/kazakhstan-alleges-big-oil-corruption-tainted-10-7-billion-in-contracts-delayed-key-oil-project/",
-      "published": "2026-08-14T05:08:39+00:00",
+      "headline": "Despite years of confiscations, the Met still holds hundreds of pieces linked to alleged trafficking and looting figures",
+      "excerpt": "Museum says it wants no stolen artwork and that it has initiated an expedited review of hundreds of works tied to specific dealers.",
+      "link": "https://www.icij.org/investigations/hidden-treasures/despite-years-of-confiscations-the-met-still-holds-hundreds-of-pieces-linked-to-alleged-trafficking-and-looting-figures/",
+      "published": "2026-08-20T11:54:56+00:00",
       "featured": false
     },
     {
-      "id": "af2df694deeb",
+      "id": "58b0343df2a5",
       "source": "Al Jazeera",
-      "headline": "Pakistan, Saudi Arabia, Turkiye meet: What’s next for their defence pact?",
-      "excerpt": "As US-Iran strikes resume, Pakistan, Saudi Arabia and Turkiye test their pact's substance, and who might join next.",
-      "link": "https://www.aljazeera.com/news/2026/8/31/pakistan-saudi-arabia-turkiye-meet-whats-next-for-their-defence-pact?traffic_source=rss",
-      "published": "2026-08-31T12:57:49+00:00",
+      "headline": "GTA 6: Why is the world’s most anticipated game facing backlash?",
+      "excerpt": "You paid for it. But do you actually own it? GTA 6 is exposing a bigger battle over the future of gaming.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/31/gta-6-why-is-the-worlds-most-anticipated-game-facing-backlash-2?traffic_source=rss",
+      "published": "2026-08-31T19:44:20+00:00",
       "featured": false
     },
     {
-      "id": "19cdd8a52124",
+      "id": "33ef6ad2f90e",
       "source": "The Lever",
-      "headline": "You Love To See It: The $17 Billion Unfollow",
-      "excerpt": "Meta loses its screen privileges, a toxic weedkiller is toast, voters block a cash grab, and Trump’s trans-healthcare-records heist hits a wall.",
-      "link": "https://www.levernews.com/you-love-to-see-it-the-17-billion-unfollow/",
-      "published": "2026-08-29T12:57:06+00:00",
+      "headline": "Lever Weekly: Surveillance, Swipe Fees, And Super PACs",
+      "excerpt": "Suspiciously timed donations, corporate double agents, and more from The Lever this week.",
+      "link": "https://www.levernews.com/lever-weekly-surveillance-swipe-fees-and-super-pacs/",
+      "published": "2026-08-30T13:02:02+00:00",
       "featured": false
     },
     {
@@ -224,6 +224,15 @@
       "excerpt": "The Sun has likely passed so close to other stars in the past that it captured thousands of small interstellar objects from alien systems, reports a new study.",
       "link": "https://www.404media.co/thousands-of-interstellar-objects-may-be-lurking-in-our-solar-system/",
       "published": "2026-08-29T10:00:27+00:00",
+      "featured": false
+    },
+    {
+      "id": "93fea1c71c06",
+      "source": "Dropsite News",
+      "headline": "U.S. Designates Palestinian Refugee in Germany as “Terrorist”",
+      "excerpt": "“I was frightened. The authorities did not contact me beforehand; they just put me on the list.”",
+      "link": "https://www.dropsitenews.com/p/united-states-designates-palestinian-refugee-terrorist-germany",
+      "published": "2026-08-28T21:01:51+00:00",
       "featured": false
     },
     {
@@ -254,15 +263,6 @@
       "featured": false
     },
     {
-      "id": "ff2552d1220e",
-      "source": "Dropsite News",
-      "headline": "Do Rural Residents Have the Power to Say No?",
-      "excerpt": "From CAFOs to data centers, corporate America dodges local control.",
-      "link": "https://www.dropsitenews.com/p/rural-residents-say-no-data-centers-ai-cafos",
-      "published": "2026-08-27T18:36:45+00:00",
-      "featured": false
-    },
-    {
       "id": "bcaf9e77a86a",
       "source": "Rest of World",
       "headline": "India’s data center boom is leaving the people it displaces with nothing",
@@ -290,30 +290,39 @@
       "featured": false
     },
     {
-      "id": "5b3f4d69ea45",
+      "id": "bae449c52e51",
       "source": "ICIJ",
-      "headline": "Alleged cartel boss Daniel Kinahan charged in Ireland following high security extradition",
-      "excerpt": "Kinahan was taken from Dubai to a Dublin court under armed escort and ordered to remain in prison while he awaits trial for his alleged part in running a global drug smuggling empire.",
-      "link": "https://www.icij.org/news/2026/08/alleged-cartel-boss-daniel-kinahan-charged-in-ireland-following-high-security-extradition/",
-      "published": "2026-08-10T22:44:19+00:00",
+      "headline": "Kazakhstan alleges Big Oil corruption tainted $10.7 billion in contracts, delayed key oil project",
+      "excerpt": "The allegations, which are at the heart of a confidential arbitration, signal an aggressive new stance by the Central Asian country toward longstanding international partners.",
+      "link": "https://www.icij.org/investigations/caspian-cabals/kazakhstan-alleges-big-oil-corruption-tainted-10-7-billion-in-contracts-delayed-key-oil-project/",
+      "published": "2026-08-14T05:08:39+00:00",
       "featured": false
     },
     {
-      "id": "dca71556c2ed",
+      "id": "0d6ef04fdb57",
       "source": "Al Jazeera",
-      "headline": "More value in Cairo’s trash, but less for those who collect it",
-      "excerpt": "War on Iran disrupts imports, driving demand for Cairo’s recycled waste, but rising costs squeeze recyclers.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/31/more-value-in-cairos-trash-but-less-for-those-who-collect-it?traffic_source=rss",
-      "published": "2026-08-31T12:39:53+00:00",
+      "headline": "What to know: US court hearing held for alleged Lockerbie bombmaker",
+      "excerpt": "Abu Agila Mohammad Mas’ud Kheir Al-Marimi is the third person charged in the downing of Pan Am Flight 103.",
+      "link": "https://www.aljazeera.com/news/2026/8/31/what-to-know-us-court-hearing-held-for-alleged-lockerbie-bombmaker?traffic_source=rss",
+      "published": "2026-08-31T19:41:33+00:00",
       "featured": false
     },
     {
-      "id": "0fd571edc0b2",
+      "id": "19cdd8a52124",
       "source": "The Lever",
-      "headline": "The Corporate Dem Asking Super PACs To Call Him A Progressive",
-      "excerpt": "Seth Moulton once called progressive populism a recipe for losing. Now he’s asking Wall Street financiers to help him claim the progressive mantle.",
-      "link": "https://www.levernews.com/the-corporate-dem-asking-super-pacs-to-call-him-a-progressive/",
-      "published": "2026-08-28T22:44:27+00:00",
+      "headline": "You Love To See It: The $17 Billion Unfollow",
+      "excerpt": "Meta loses its screen privileges, a toxic weedkiller is toast, voters block a cash grab, and Trump’s trans-healthcare-records heist hits a wall.",
+      "link": "https://www.levernews.com/you-love-to-see-it-the-17-billion-unfollow/",
+      "published": "2026-08-29T12:57:06+00:00",
+      "featured": false
+    },
+    {
+      "id": "a270de716657",
+      "source": "Dropsite News",
+      "headline": "Israel kills three in first airstrike on West Bank in 10 months; Judge again blocks Trump order on mail ballots; Over 2,500 dead or missing in Nepal",
+      "excerpt": "Drop Site Daily: August 28, 2026",
+      "link": "https://www.dropsitenews.com/p/israel-west-bank-jenin-trump-mail-ballots-nepal-flood",
+      "published": "2026-08-28T16:37:40+00:00",
       "featured": false
     },
     {
@@ -353,15 +362,6 @@
       "featured": false
     },
     {
-      "id": "fd3907c8106c",
-      "source": "Dropsite News",
-      "headline": "U.S. sanctions UK’s Palestine Action as “terrorist group”; ICE agent released from Texas jail; Russia threatens to strike UK military targets in Ukraine",
-      "excerpt": "Drop Site Daily: August 27, 2026",
-      "link": "https://www.dropsitenews.com/p/us-sanctions-palestine-action-ice-texas-russia-uk-ukraine",
-      "published": "2026-08-27T15:47:36+00:00",
-      "featured": false
-    },
-    {
       "id": "96902b14a7f1",
       "source": "Rest of World",
       "headline": "Why the global push to break free from Big Tech keeps falling short",
@@ -380,30 +380,30 @@
       "featured": false
     },
     {
-      "id": "bb66f2d39528",
+      "id": "5b3f4d69ea45",
       "source": "ICIJ",
-      "headline": "The $200 billion company you can’t look inside",
-      "excerpt": "Its USDT crypto token underpins a trillion-dollar market, but cryptocurrency giant Tether won’t answer questions about its ownership.",
-      "link": "https://www.icij.org/investigations/coin-laundry/the-200-billion-company-you-cant-look-inside/",
-      "published": "2026-08-07T04:01:59+00:00",
+      "headline": "Alleged cartel boss Daniel Kinahan charged in Ireland following high security extradition",
+      "excerpt": "Kinahan was taken from Dubai to a Dublin court under armed escort and ordered to remain in prison while he awaits trial for his alleged part in running a global drug smuggling empire.",
+      "link": "https://www.icij.org/news/2026/08/alleged-cartel-boss-daniel-kinahan-charged-in-ireland-following-high-security-extradition/",
+      "published": "2026-08-10T22:44:19+00:00",
       "featured": false
     },
     {
-      "id": "c2b793ea5066",
+      "id": "84517592726e",
       "source": "Al Jazeera",
-      "headline": "Who are the economic winners and losers of the US-Israel war on Iran?",
-      "excerpt": "Airlines and automakers have taken a hit, while banks and energy firms have raked in big profits.",
-      "link": "https://www.aljazeera.com/economy/2026/8/31/who-are-the-economic-winners-and-losers-of-the-us-israel-war-on-iran?traffic_source=rss",
-      "published": "2026-08-31T12:01:18+00:00",
+      "headline": "Far-right Israeli Minister Ben-Gvir and settlers storm Al-Aqsa Mosque",
+      "excerpt": "Israeli Minister Ben-Gvir storms Al-Aqsa Mosque compound with settlers, violating decades-old status quo arrangement.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/31/far-right-israeli-minister-ben-gvir-and-settlers-storm-al-aqsa-mosque?traffic_source=rss",
+      "published": "2026-08-31T19:30:46+00:00",
       "featured": false
     },
     {
-      "id": "43df0bd78433",
+      "id": "0fd571edc0b2",
       "source": "The Lever",
-      "headline": "What Would Dolly Do?",
-      "excerpt": "Test your knowledge of tariffs, AIPAC, and other issues that really matter.",
-      "link": "https://www.levernews.com/what-would-dolly-do/",
-      "published": "2026-08-28T17:04:13+00:00",
+      "headline": "The Corporate Dem Asking Super PACs To Call Him A Progressive",
+      "excerpt": "Seth Moulton once called progressive populism a recipe for losing. Now he’s asking Wall Street financiers to help him claim the progressive mantle.",
+      "link": "https://www.levernews.com/the-corporate-dem-asking-super-pacs-to-call-him-a-progressive/",
+      "published": "2026-08-28T22:44:27+00:00",
       "featured": false
     },
     {
@@ -413,6 +413,15 @@
       "excerpt": "ICE wants the robot dogs to improve “officer safety.”",
       "link": "https://www.404media.co/ice-plans-to-spends-millions-on-boston-dynamics-dog-robots/",
       "published": "2026-08-28T14:04:55+00:00",
+      "featured": false
+    },
+    {
+      "id": "ff2552d1220e",
+      "source": "Dropsite News",
+      "headline": "Do Rural Residents Have the Power to Say No?",
+      "excerpt": "From CAFOs to data centers, corporate America dodges local control.",
+      "link": "https://www.dropsitenews.com/p/rural-residents-say-no-data-centers-ai-cafos",
+      "published": "2026-08-27T18:36:45+00:00",
       "featured": false
     },
     {
@@ -443,15 +452,6 @@
       "featured": false
     },
     {
-      "id": "abb38d6ced60",
-      "source": "Dropsite News",
-      "headline": "Elements of Venezuelan Government Loyal to Chavismo Warn of Possible U.S. Assault",
-      "excerpt": "Leaders of the 23 de Enero parish, a stronghold of Chavismo resistance in Caracas, fear the U.S. will try to dismantle their grassroots democracy.",
-      "link": "https://www.dropsitenews.com/p/venezuela-maduro-juan-contreras-trump-oil",
-      "published": "2026-08-26T20:21:12+00:00",
-      "featured": false
-    },
-    {
       "id": "e64573182a05",
       "source": "Rest of World",
       "headline": "America’s immigration policy is driving away future AI leaders",
@@ -470,30 +470,30 @@
       "featured": false
     },
     {
-      "id": "69684180d7b9",
+      "id": "bb66f2d39528",
       "source": "ICIJ",
-      "headline": "After cancer drug counterfeiting scandal, India imposes new tracing requirements",
-      "excerpt": "Reporting by ICIJ and The Indian Express illustrated how Indian counterfeiters exploited the high price of the lifesaving cancer drug Keytruda and the desperation of patients seeking it.",
-      "link": "https://www.icij.org/investigations/cancer-calculus/after-cancer-drug-counterfeiting-scandal-india-imposes-new-tracing-requirements/",
-      "published": "2026-08-05T19:30:24+00:00",
+      "headline": "The $200 billion company you can’t look inside",
+      "excerpt": "Its USDT crypto token underpins a trillion-dollar market, but cryptocurrency giant Tether won’t answer questions about its ownership.",
+      "link": "https://www.icij.org/investigations/coin-laundry/the-200-billion-company-you-cant-look-inside/",
+      "published": "2026-08-07T04:01:59+00:00",
       "featured": false
     },
     {
-      "id": "80a121ce6a49",
+      "id": "7092f3191fe2",
       "source": "Al Jazeera",
-      "headline": "Rescuers search for 18 missing after boat capsizes off Northern Cyprus",
-      "excerpt": "The captain and crew of the ferry have been brought before a judge and placed under formal arrest.",
-      "link": "https://www.aljazeera.com/news/2026/8/31/rescue-teams-continue-search-for-missing-after-north-cyprus-ferry-sinking?traffic_source=rss",
-      "published": "2026-08-31T11:59:37+00:00",
+      "headline": "Israel’s Ben-Gvir storms Al-Aqsa mosque in occupied East Jerusalem",
+      "excerpt": "Far-right minister entered Islam’s third-holiest site alongside settlers under protection of Israeli occupation forces.",
+      "link": "https://www.aljazeera.com/news/2026/8/31/israeli-hardliner-storms-al-aqsa-mosque-in-occupied-east-jerusalem?traffic_source=rss",
+      "published": "2026-08-31T19:25:45+00:00",
       "featured": false
     },
     {
-      "id": "b009ed43c26d",
+      "id": "43df0bd78433",
       "source": "The Lever",
-      "headline": "A Natural Gas Astroturf Group Says It Flipped NY Gov. Hochul",
-      "excerpt": "How a front for fossil fuel is using affordability fears, former Democratic officials, and dubious polling to turn establishment Democrats against the climate left.",
-      "link": "https://www.levernews.com/a-natural-gas-astroturf-group-says-it-flipped-ny-gov-hochul/",
-      "published": "2026-08-28T13:50:09+00:00",
+      "headline": "What Would Dolly Do?",
+      "excerpt": "Test your knowledge of tariffs, AIPAC, and other issues that really matter.",
+      "link": "https://www.levernews.com/what-would-dolly-do/",
+      "published": "2026-08-28T17:04:13+00:00",
       "featured": false
     },
     {
@@ -503,6 +503,15 @@
       "excerpt": "“The academic record is being quietly haunted” by researchers with names like Elena Vasquez and Marcus Chen.",
       "link": "https://www.404media.co/the-ai-ghosts-contaminating-academic-publishing/",
       "published": "2026-08-27T18:14:29+00:00",
+      "featured": false
+    },
+    {
+      "id": "fd3907c8106c",
+      "source": "Dropsite News",
+      "headline": "U.S. sanctions UK’s Palestine Action as “terrorist group”; ICE agent released from Texas jail; Russia threatens to strike UK military targets in Ukraine",
+      "excerpt": "Drop Site Daily: August 27, 2026",
+      "link": "https://www.dropsitenews.com/p/us-sanctions-palestine-action-ice-texas-russia-uk-ukraine",
+      "published": "2026-08-27T15:47:36+00:00",
       "featured": false
     },
     {
@@ -530,15 +539,6 @@
       "excerpt": "The post How to Check In on Your 401(k) Fees appeared first on ProPublica.",
       "link": "https://www.propublica.org/article/401k-retirement-plan-fees-funds",
       "published": "2026-08-27T09:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "d8d80cc34dd3",
-      "source": "Dropsite News",
-      "headline": "Pakistani “Double-Tap” Strike in June Wrought Havoc on Afghan Villagers",
-      "excerpt": "A Pakistani airstrike on a residential area in Samkani killed at least 22 civilians. At Paktia Central Hospital, doctors worked through the night to save the wounded.",
-      "link": "https://www.dropsitenews.com/p/pakistan-double-tap-afghanistan-samkani",
-      "published": "2026-08-26T15:50:22+00:00",
       "featured": false
     }
   ]
