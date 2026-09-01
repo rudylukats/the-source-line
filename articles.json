@@ -1,6 +1,51 @@
 {
-  "generated_at": "2026-09-01T14:09:10.198504+00:00",
+  "generated_at": "2026-09-01T18:31:40.998244+00:00",
   "articles": [
+    {
+      "id": "6927d1bf1dbe",
+      "source": "Al Jazeera",
+      "headline": "Nepal rescuers race to reach 900 missing hydropower workers",
+      "excerpt": "Rescuers in Nepal are prioritising the search for at least 900 workers missing from 12 hydropower projects.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/1/nepal-rescuers-race-to-reach-900-missing-hydropower-workers?traffic_source=rss",
+      "published": "2026-09-01T18:18:16+00:00",
+      "featured": true
+    },
+    {
+      "id": "526339324bfd",
+      "source": "The Lever",
+      "headline": "Opioid Settlements Are Paying For Flock Cameras",
+      "excerpt": "Shortly before the Grand Canyon flooded, Trump sent disaster response personnel to D.C.",
+      "link": "https://www.levernews.com/opioid-settlements-are-paying-for-flock/",
+      "published": "2026-09-01T17:03:01+00:00",
+      "featured": true
+    },
+    {
+      "id": "79c0b4f9408d",
+      "source": "Dropsite News",
+      "headline": "2,030 Israeli attacks in West Bank in August; Postal Service plan could disenfranchise millions; Nepal death toll passes 1,000",
+      "excerpt": "Drop Site Daily: September 1, 2026",
+      "link": "https://www.dropsitenews.com/p/israel-west-bank-attacks-postal-service-nepal-deaths",
+      "published": "2026-09-01T15:43:23+00:00",
+      "featured": true
+    },
+    {
+      "id": "51e52475acef",
+      "source": "ProPublica",
+      "headline": "The Scientist Trying to Keep Kratom Legal Has Not Disclosed Longstanding Ties to Kratom Lobbyists",
+      "excerpt": "The post The Scientist Trying to Keep Kratom Legal Has Not Disclosed Longstanding Ties to Kratom Lobbyists appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/kratom-legalization-christopher-mccurdy-research-conflict-of-interest-aka",
+      "published": "2026-09-01T14:35:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "182bb94c6e92",
+      "source": "OCCRP",
+      "headline": "Spain Arrests Germany’s Most Wanted Drug Trafficker",
+      "excerpt": "",
+      "link": "https://www.occrp.org/en/news/spain-arrests-germanys-most-wanted-drug-trafficker",
+      "published": "2026-09-01T14:28:00+00:00",
+      "featured": false
+    },
     {
       "id": "fa3eb2a5a933",
       "source": "404 Media",
@@ -8,25 +53,7 @@
       "excerpt": "The the city tried to charge a farmer more than $17,000 for bodycam footage and records related to his arrest at a city council meeting.",
       "link": "https://www.404media.co/oklahoma-tells-city-it-cant-charge-17-125-44-for-a-records-request-related-to-data-center-arrest/",
       "published": "2026-09-01T13:49:42+00:00",
-      "featured": true
-    },
-    {
-      "id": "713d1fea2f91",
-      "source": "Al Jazeera",
-      "headline": "SCO slams attacks, sanctions on Iran: Key takeaways from Bishkek summit",
-      "excerpt": "The SCO started in 1996 and accounts for 43 percent of the world’s population and 23 percent of the global economy.",
-      "link": "https://www.aljazeera.com/news/2026/9/1/sco-slams-attacks-sanctions-on-iran-key-takeaways-from-bishkek-summit?traffic_source=rss",
-      "published": "2026-09-01T13:32:33+00:00",
-      "featured": true
-    },
-    {
-      "id": "95e946bc5f51",
-      "source": "OCCRP",
-      "headline": "Uganda Arrests 16 in Alleged $4M Fake Gold Scam",
-      "excerpt": "",
-      "link": "https://www.occrp.org/en/news/uganda-arrests-16-in-alleged-4m-fake-gold-scam",
-      "published": "2026-09-01T13:22:00+00:00",
-      "featured": true
+      "featured": false
     },
     {
       "id": "9cede5ffea50",
@@ -47,39 +74,12 @@
       "featured": false
     },
     {
-      "id": "55d5f9654739",
-      "source": "ProPublica",
-      "headline": "Help Us Investigate Abusive Coaches in Youth Sports",
-      "excerpt": "The post Help Us Investigate Abusive Coaches in Youth Sports appeared first on ProPublica.",
-      "link": "https://www.propublica.org/getinvolved/help-us-investigate-abusive-coaches-youth-sports-aau",
-      "published": "2026-09-01T09:05:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "c3b5370ea0c9",
-      "source": "The Lever",
-      "headline": "614 Reasons To Tax The Rich",
-      "excerpt": "CEOs at the lowest-paying corporations made roughly 614 times more than their median worker in 2025.",
-      "link": "https://www.levernews.com/614-reasons-to-tax-the-rich/",
-      "published": "2026-08-31T17:00:09+00:00",
-      "featured": false
-    },
-    {
       "id": "45a90264bcde",
       "source": "ICIJ",
       "headline": "Crypto giant Tether promised careful vetting. Some early customers were later implicated in financial crimes.",
       "excerpt": "Financial records obtained by ICIJ show that they included individuals later accused of or sanctioned for money laundering and other financial crimes.",
       "link": "https://www.icij.org/investigations/coin-laundry/crypto-giant-tether-promised-careful-vetting-some-early-customers-were-later-implicated-in-financial-crimes/",
       "published": "2026-08-31T16:58:13+00:00",
-      "featured": false
-    },
-    {
-      "id": "e29791214762",
-      "source": "Dropsite News",
-      "headline": "U.S. reignites Iran war; Israel’s $3.5B defense deal with Greece; Details of Venezuela oil deal",
-      "excerpt": "Drop Site Daily: August 31, 2026",
-      "link": "https://www.dropsitenews.com/p/us-iran-war-larak-israel-greece-defense-venezuela-oil-deal",
-      "published": "2026-08-31T15:50:21+00:00",
       "featured": false
     },
     {
@@ -101,12 +101,30 @@
       "featured": false
     },
     {
-      "id": "f837479ab23c",
+      "id": "ee819b1b3a24",
       "source": "Al Jazeera",
-      "headline": "Irish minister calls for EU action in banning Israeli settlement trade",
-      "excerpt": "Ireland’s defence minister has called on EU member states to take more action to ban trade with Israeli settlements.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/1/irish-minister-calls-for-eu-action-in-banning-israeli-settlement-trade?traffic_source=rss",
-      "published": "2026-09-01T13:32:13+00:00",
+      "headline": "Deep-sea search begins for 20 people missing in Cyprus ferry disaster",
+      "excerpt": "A deep-sea vessel from Turkiye joined the search on Tuesday for 20 people missing for two days.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/1/deep-sea-search-begins-for-20-people-missing-in-cyprus-ferry-disaster?traffic_source=rss",
+      "published": "2026-09-01T18:15:56+00:00",
+      "featured": false
+    },
+    {
+      "id": "157ea7c9cf07",
+      "source": "The Lever",
+      "headline": "Before Deadly Floods, Trump Diverted Emergency Responders To Beautify D.C.",
+      "excerpt": "Trump reassigned 300 National Park Service emergency responders to golf course and reflecting-pool renovations before the Grand Canyon flooded.",
+      "link": "https://www.levernews.com/before-deadly-floods-trump-diverted-emergency-responders-to-beautify-d-c/",
+      "published": "2026-09-01T16:48:15+00:00",
+      "featured": false
+    },
+    {
+      "id": "616ddefe22f7",
+      "source": "OCCRP",
+      "headline": "Q&A: What Has Emerged From the Trial of a Businessman Charged in the Murder of a Maltese Journalist?",
+      "excerpt": "Yorgen Fenech pleaded not guilty to charges of complicity and criminal association in the 2017 assassination of leading Maltese investigative journalist Daphne Caruana Galizia. After two months of testimony, the verdict...",
+      "link": "https://www.occrp.org/en/project/the-daphne-project/qa-what-has-emerged-from-the-trial-of-the-businessman-charged-in-murder-of-maltese-journalist",
+      "published": "2026-09-01T13:51:00+00:00",
       "featured": false
     },
     {
@@ -119,30 +137,21 @@
       "featured": false
     },
     {
-      "id": "2b145348b272",
-      "source": "OCCRP",
-      "headline": "Australia Probes Western Union Over Possible Money Laundering Risks",
-      "excerpt": "",
-      "link": "https://www.occrp.org/en/news/australia-probes-western-union-over-possible-money-laundering-risks",
-      "published": "2026-09-01T12:07:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "7e198791bd81",
+      "id": "55d5f9654739",
       "source": "ProPublica",
-      "headline": "Homeland Security Opens Child Exploitation Probe Into Banned Texas Volleyball Coach",
-      "excerpt": "The post Homeland Security Opens Child Exploitation Probe Into Banned Texas Volleyball Coach appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/volleyball-coach-ryan-richardson-homeland-security-investigations-child-exploitation",
-      "published": "2026-09-01T09:00:00+00:00",
+      "headline": "Help Us Investigate Abusive Coaches in Youth Sports",
+      "excerpt": "The post Help Us Investigate Abusive Coaches in Youth Sports appeared first on ProPublica.",
+      "link": "https://www.propublica.org/getinvolved/help-us-investigate-abusive-coaches-youth-sports-aau",
+      "published": "2026-09-01T09:05:00+00:00",
       "featured": false
     },
     {
-      "id": "f5fe012f24ed",
+      "id": "e29791214762",
       "source": "Dropsite News",
-      "headline": "A Graham Platner Write-In Campaign Might End Up Helping Troy Jackson",
-      "excerpt": "Platner confirmed to Drop Site that he spoke with a group of supporters organizing a write-in campaign, but discouraged the effort.",
-      "link": "https://www.dropsitenews.com/p/graham-platner-write-in-campaign-maine-senate",
-      "published": "2026-08-31T15:25:48+00:00",
+      "headline": "U.S. reignites Iran war; Israel’s $3.5B defense deal with Greece; Details of Venezuela oil deal",
+      "excerpt": "Drop Site Daily: August 31, 2026",
+      "link": "https://www.dropsitenews.com/p/us-iran-war-larak-israel-greece-defense-venezuela-oil-deal",
+      "published": "2026-08-31T15:50:21+00:00",
       "featured": false
     },
     {
@@ -152,15 +161,6 @@
       "excerpt": "As governments consider banning social media for under-16s, Meta is turning to influencers to argue that parental controls are a better solution.",
       "link": "https://restofworld.org/2026/meta-influencer-campaign-teen-accounts-under-16-social-media-ban/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "published": "2026-08-31T10:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "1d5b484ec55f",
-      "source": "The Lever",
-      "headline": "He Champions Centrist Dems On Cable. He Also Works For Big AI.",
-      "excerpt": "Former Rep. Max Rose helps lead an influential network intervening in Democratic primaries — while quietly advising a tech-funded political operation targeting AI regulation.",
-      "link": "https://www.levernews.com/he-champions-centrist-dems-on-cable-he-also-works-for-big-ai/",
-      "published": "2026-08-31T09:00:14+00:00",
       "featured": false
     },
     {
@@ -200,30 +200,48 @@
       "featured": false
     },
     {
-      "id": "95acd2d79806",
+      "id": "1eacf670b1ef",
       "source": "Al Jazeera",
-      "headline": "Video: SCO summit leaders meet in aftermath of US war on Iran",
-      "excerpt": "Leaders are meeting in Kyrgyzstan for the annual Shanghai Cooperation Organisation Summit.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/1/video-sco-summit-leaders-meet-in-aftermath-of-us-war-on-iran?traffic_source=rss",
-      "published": "2026-09-01T13:27:39+00:00",
+      "headline": "US health authorities contradict state officials on measles-related deaths",
+      "excerpt": "Clash with Pennsylvania comes as US records highest number of measles cases in decades.",
+      "link": "https://www.aljazeera.com/news/2026/9/1/us-health-authorities-contradict-state-officials-on-measles-related-deaths?traffic_source=rss",
+      "published": "2026-09-01T17:48:28+00:00",
       "featured": false
     },
     {
-      "id": "b438323a17d8",
-      "source": "ProPublica",
-      "headline": "California Lawmakers Pass Bill to Punish Administrators Who Fail to Vet Teachers for Misconduct",
-      "excerpt": "The post California Lawmakers Pass Bill to Punish Administrators Who Fail to Vet Teachers for Misconduct appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/california-teacher-misconduct-bill-administrator-discipline-al-muratsuchi",
-      "published": "2026-08-31T20:40:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "e42a2a1a22cc",
+      "id": "95e946bc5f51",
       "source": "OCCRP",
-      "headline": "South Africa Arrests Suspect in $37M Hospital Corruption Case",
+      "headline": "Uganda Arrests 16 in Alleged $4M Fake Gold Scam",
       "excerpt": "",
-      "link": "https://www.occrp.org/en/news/south-africa-arrests-suspect-in-37m-hospital-corruption-case",
-      "published": "2026-08-31T13:21:00+00:00",
+      "link": "https://www.occrp.org/en/news/uganda-arrests-16-in-alleged-4m-fake-gold-scam",
+      "published": "2026-09-01T13:22:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "7e198791bd81",
+      "source": "ProPublica",
+      "headline": "Homeland Security Opens Child Exploitation Probe Into Banned Texas Volleyball Coach",
+      "excerpt": "The post Homeland Security Opens Child Exploitation Probe Into Banned Texas Volleyball Coach appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/volleyball-coach-ryan-richardson-homeland-security-investigations-child-exploitation",
+      "published": "2026-09-01T09:00:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "c3b5370ea0c9",
+      "source": "The Lever",
+      "headline": "614 Reasons To Tax The Rich",
+      "excerpt": "CEOs at the lowest-paying corporations made roughly 614 times more than their median worker in 2025.",
+      "link": "https://www.levernews.com/614-reasons-to-tax-the-rich/",
+      "published": "2026-08-31T17:00:09+00:00",
+      "featured": false
+    },
+    {
+      "id": "f5fe012f24ed",
+      "source": "Dropsite News",
+      "headline": "A Graham Platner Write-In Campaign Might End Up Helping Troy Jackson",
+      "excerpt": "Platner confirmed to Drop Site that he spoke with a group of supporters organizing a write-in campaign, but discouraged the effort.",
+      "link": "https://www.dropsitenews.com/p/graham-platner-write-in-campaign-maine-senate",
+      "published": "2026-08-31T15:25:48+00:00",
       "featured": false
     },
     {
@@ -236,30 +254,12 @@
       "featured": false
     },
     {
-      "id": "33ef6ad2f90e",
-      "source": "The Lever",
-      "headline": "Lever Weekly: Surveillance, Swipe Fees, And Super PACs",
-      "excerpt": "Suspiciously timed donations, corporate double agents, and more from The Lever this week.",
-      "link": "https://www.levernews.com/lever-weekly-surveillance-swipe-fees-and-super-pacs/",
-      "published": "2026-08-30T13:02:02+00:00",
-      "featured": false
-    },
-    {
       "id": "d6acd34559bf",
       "source": "The Intercept",
       "headline": "Western North Carolina Pleaded for Hurricane Help. It Got ICE Instead.",
       "excerpt": "As the G20 descends on Asheville, the communities that helped rebuild after Hurricane Helene live in fear of Trump’s immigration regime. The post Western North Carolina Pleaded for Hurricane Help. It Got ICE Instead....",
       "link": "https://theintercept.com/2026/08/29/hurricane-helene-ice-asheville-nc-g20-trump/",
       "published": "2026-08-29T10:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "93fea1c71c06",
-      "source": "Dropsite News",
-      "headline": "U.S. Designates Palestinian Refugee in Germany as “Terrorist”",
-      "excerpt": "“I was frightened. The authorities did not contact me beforehand; they just put me on the list.”",
-      "link": "https://www.dropsitenews.com/p/united-states-designates-palestinian-refugee-terrorist-germany",
-      "published": "2026-08-28T21:01:51+00:00",
       "featured": false
     },
     {
@@ -299,21 +299,39 @@
       "featured": false
     },
     {
-      "id": "3e4a52e1a79b",
+      "id": "27f7025c5372",
       "source": "Al Jazeera",
-      "headline": "UN sounds climate alarm as China-Taiwan row threatens to overshadow forum",
-      "excerpt": "The UN has raised fresh alarm over the climate crisis at the Pacific Islands Forum in Palau, amid China-Taiwan tensions.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/1/un-sounds-climate-alarm-as-china-taiwan-row-threatens-to-overshadow-forum?traffic_source=rss",
-      "published": "2026-09-01T13:13:55+00:00",
+      "headline": "The US military began striking targets in Iran, CENTCOM says",
+      "excerpt": "The US military said it has begun striking targets in Iran.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/1/the-us-military-began-striking-targets-in-iran-centcom-says?traffic_source=rss",
+      "published": "2026-09-01T17:39:29+00:00",
       "featured": false
     },
     {
-      "id": "cc6e82478621",
+      "id": "2b145348b272",
+      "source": "OCCRP",
+      "headline": "Australia Probes Western Union Over Possible Money Laundering Risks",
+      "excerpt": "",
+      "link": "https://www.occrp.org/en/news/australia-probes-western-union-over-possible-money-laundering-risks",
+      "published": "2026-09-01T12:07:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "b438323a17d8",
       "source": "ProPublica",
-      "headline": "The Trump Administration’s Plan for Protecting Consumers? Politely Ask Companies to Behave.",
-      "excerpt": "The post The Trump Administration’s Plan for Protecting Consumers? Politely Ask Companies to Behave. appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/bilt-cfpb-russell-vought-trump-consumer-protection-fintech",
-      "published": "2026-08-31T10:00:00+00:00",
+      "headline": "California Lawmakers Pass Bill to Punish Administrators Who Fail to Vet Teachers for Misconduct",
+      "excerpt": "The post California Lawmakers Pass Bill to Punish Administrators Who Fail to Vet Teachers for Misconduct appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/california-teacher-misconduct-bill-administrator-discipline-al-muratsuchi",
+      "published": "2026-08-31T20:40:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "1d5b484ec55f",
+      "source": "The Lever",
+      "headline": "He Champions Centrist Dems On Cable. He Also Works For Big AI.",
+      "excerpt": "Former Rep. Max Rose helps lead an influential network intervening in Democratic primaries — while quietly advising a tech-funded political operation targeting AI regulation.",
+      "link": "https://www.levernews.com/he-champions-centrist-dems-on-cable-he-also-works-for-big-ai/",
+      "published": "2026-08-31T09:00:14+00:00",
       "featured": false
     },
     {
@@ -326,21 +344,12 @@
       "featured": false
     },
     {
-      "id": "19cdd8a52124",
-      "source": "The Lever",
-      "headline": "You Love To See It: The $17 Billion Unfollow",
-      "excerpt": "Meta loses its screen privileges, a toxic weedkiller is toast, voters block a cash grab, and Trump’s trans-healthcare-records heist hits a wall.",
-      "link": "https://www.levernews.com/you-love-to-see-it-the-17-billion-unfollow/",
-      "published": "2026-08-29T12:57:06+00:00",
-      "featured": false
-    },
-    {
-      "id": "a270de716657",
+      "id": "93fea1c71c06",
       "source": "Dropsite News",
-      "headline": "Israel kills three in first airstrike on West Bank in 10 months; Judge again blocks Trump order on mail ballots; Over 2,500 dead or missing in Nepal",
-      "excerpt": "Drop Site Daily: August 28, 2026",
-      "link": "https://www.dropsitenews.com/p/israel-west-bank-jenin-trump-mail-ballots-nepal-flood",
-      "published": "2026-08-28T16:37:40+00:00",
+      "headline": "U.S. Designates Palestinian Refugee in Germany as “Terrorist”",
+      "excerpt": "“I was frightened. The authorities did not contact me beforehand; they just put me on the list.”",
+      "link": "https://www.dropsitenews.com/p/united-states-designates-palestinian-refugee-terrorist-germany",
+      "published": "2026-08-28T21:01:51+00:00",
       "featured": false
     },
     {
@@ -350,15 +359,6 @@
       "excerpt": "Trump designated an Italian web-hosting provider as a foreign “terror” group. It could take antifascist sites in the U.S. offline. The post Trump Goes After Anonymous Email Provider in Italy. The Real Target Is Free...",
       "link": "https://theintercept.com/2026/08/28/trump-antifa-terrorist-websites-free-speech/",
       "published": "2026-08-28T15:51:40+00:00",
-      "featured": false
-    },
-    {
-      "id": "98affa7c71a4",
-      "source": "OCCRP",
-      "headline": "Alleged Narco-Terrorist Moves to Toss U.S. Indictment on Jurisdictional Grounds",
-      "excerpt": "Lawyer for Sebastián Marset claims the U.S. cannot prosecute him based on a single wire transfer that routed through a server in Virginia.",
-      "link": "https://www.occrp.org/en/news/alleged-narco-terrorist-moves-to-toss-us-indictment-on-jurisdictional-grounds",
-      "published": "2026-08-28T15:42:00+00:00",
       "featured": false
     },
     {
@@ -389,21 +389,39 @@
       "featured": false
     },
     {
-      "id": "9d0404ceb48b",
+      "id": "3a26586840dd",
       "source": "Al Jazeera",
-      "headline": "Lionel Messi retires: What records and titles does Argentina legend hold?",
-      "excerpt": "A by-the-numbers look at Messi’s international career with Argentina, including his individual and team honours.",
-      "link": "https://www.aljazeera.com/sports/2026/9/1/lionel-messi-records-argentina-international-retirement-football?traffic_source=rss",
-      "published": "2026-09-01T13:13:39+00:00",
+      "headline": "John Ternus succeeds Tim Cook as Apple CEO after 15 years",
+      "excerpt": "Apple gears up for innovation under Ternus before a new product launch event that could include foldable phones.",
+      "link": "https://www.aljazeera.com/economy/2026/9/1/john-ternus-succeeds-tim-cook-as-apple-ceo-after-15-years?traffic_source=rss",
+      "published": "2026-09-01T17:36:33+00:00",
       "featured": false
     },
     {
-      "id": "62e83fb78d8b",
+      "id": "e42a2a1a22cc",
+      "source": "OCCRP",
+      "headline": "South Africa Arrests Suspect in $37M Hospital Corruption Case",
+      "excerpt": "",
+      "link": "https://www.occrp.org/en/news/south-africa-arrests-suspect-in-37m-hospital-corruption-case",
+      "published": "2026-08-31T13:21:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "cc6e82478621",
       "source": "ProPublica",
-      "headline": "He Spent 27 Years on Death Row as a Wrongfully Convicted Man. What Comes Next?",
-      "excerpt": "The post He Spent 27 Years on Death Row as a Wrongfully Convicted Man. What Comes Next? appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/louisiana-angola-death-row-wrongful-conviction-jimmie-duncan",
-      "published": "2026-08-31T09:00:00+00:00",
+      "headline": "The Trump Administration’s Plan for Protecting Consumers? Politely Ask Companies to Behave.",
+      "excerpt": "The post The Trump Administration’s Plan for Protecting Consumers? Politely Ask Companies to Behave. appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/bilt-cfpb-russell-vought-trump-consumer-protection-fintech",
+      "published": "2026-08-31T10:00:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "33ef6ad2f90e",
+      "source": "The Lever",
+      "headline": "Lever Weekly: Surveillance, Swipe Fees, And Super PACs",
+      "excerpt": "Suspiciously timed donations, corporate double agents, and more from The Lever this week.",
+      "link": "https://www.levernews.com/lever-weekly-surveillance-swipe-fees-and-super-pacs/",
+      "published": "2026-08-30T13:02:02+00:00",
       "featured": false
     },
     {
@@ -416,21 +434,12 @@
       "featured": false
     },
     {
-      "id": "0fd571edc0b2",
-      "source": "The Lever",
-      "headline": "The Corporate Dem Asking Super PACs To Call Him A Progressive",
-      "excerpt": "Seth Moulton once called progressive populism a recipe for losing. Now he’s asking Wall Street financiers to help him claim the progressive mantle.",
-      "link": "https://www.levernews.com/the-corporate-dem-asking-super-pacs-to-call-him-a-progressive/",
-      "published": "2026-08-28T22:44:27+00:00",
-      "featured": false
-    },
-    {
-      "id": "e5e38cf325b9",
-      "source": "OCCRP",
-      "headline": "Slovak Police Foil Possible Napalm Attack on Factory Producing Drones for Ukraine",
-      "excerpt": "A foiled napalm attack on a Ukrainian drone manufacturer in eastern Slovakia has exposed a hired sabotage plot that security officials say fits a broader pattern of hybrid warfare targeting Kyiv's defense supply chain...",
-      "link": "https://www.occrp.org/en/news/slovak-police-foil-planned-napalm-attack-on-factory-producing-drones-for-ukraine",
-      "published": "2026-08-28T15:29:00+00:00",
+      "id": "a270de716657",
+      "source": "Dropsite News",
+      "headline": "Israel kills three in first airstrike on West Bank in 10 months; Judge again blocks Trump order on mail ballots; Over 2,500 dead or missing in Nepal",
+      "excerpt": "Drop Site Daily: August 28, 2026",
+      "link": "https://www.dropsitenews.com/p/israel-west-bank-jenin-trump-mail-ballots-nepal-flood",
+      "published": "2026-08-28T16:37:40+00:00",
       "featured": false
     },
     {
@@ -440,15 +449,6 @@
       "excerpt": "How the right’s attacks on trans people have infiltrated a sports league with no trans women. The post Right-Wing Trans Hate Comes for the WNBA appeared first on The Intercept.",
       "link": "https://theintercept.com/2026/08/28/wnba-women-basketball-sports-trans/",
       "published": "2026-08-28T10:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "ff2552d1220e",
-      "source": "Dropsite News",
-      "headline": "Do Rural Residents Have the Power to Say No?",
-      "excerpt": "From CAFOs to data centers, corporate America dodges local control.",
-      "link": "https://www.dropsitenews.com/p/rural-residents-say-no-data-centers-ai-cafos",
-      "published": "2026-08-27T18:36:45+00:00",
       "featured": false
     },
     {
@@ -479,21 +479,39 @@
       "featured": false
     },
     {
-      "id": "f4bafe442757",
+      "id": "ab6b856cdfac",
       "source": "Al Jazeera",
-      "headline": "Why China will not comply with US sanctions on Iran",
-      "excerpt": "Beijing will not comply with US measures because it can and because it’s in its interest not to.",
-      "link": "https://www.aljazeera.com/opinions/2026/9/1/why-china-will-not-comply-with-us-sanctions-on-iran?traffic_source=rss",
-      "published": "2026-09-01T13:08:14+00:00",
+      "headline": "Pitso Mosimane appointed by South Africa ahead of AFCON qualifiers",
+      "excerpt": "Pitso Mosimane replaces Hugo Broos as manager of the South Africa national football team following World Cup exit.",
+      "link": "https://www.aljazeera.com/sports/2026/9/1/pitso-mosimane-appointed-by-south-africa-ahead-of-afcon-qualifiers?traffic_source=rss",
+      "published": "2026-09-01T17:25:45+00:00",
       "featured": false
     },
     {
-      "id": "43df0bd78433",
+      "id": "62e83fb78d8b",
+      "source": "ProPublica",
+      "headline": "He Spent 27 Years on Death Row as a Wrongfully Convicted Man. What Comes Next?",
+      "excerpt": "The post He Spent 27 Years on Death Row as a Wrongfully Convicted Man. What Comes Next? appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/louisiana-angola-death-row-wrongful-conviction-jimmie-duncan",
+      "published": "2026-08-31T09:00:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "19cdd8a52124",
       "source": "The Lever",
-      "headline": "What Would Dolly Do?",
-      "excerpt": "Test your knowledge of tariffs, AIPAC, and other issues that really matter.",
-      "link": "https://www.levernews.com/what-would-dolly-do/",
-      "published": "2026-08-28T17:04:13+00:00",
+      "headline": "You Love To See It: The $17 Billion Unfollow",
+      "excerpt": "Meta loses its screen privileges, a toxic weedkiller is toast, voters block a cash grab, and Trump’s trans-healthcare-records heist hits a wall.",
+      "link": "https://www.levernews.com/you-love-to-see-it-the-17-billion-unfollow/",
+      "published": "2026-08-29T12:57:06+00:00",
+      "featured": false
+    },
+    {
+      "id": "98affa7c71a4",
+      "source": "OCCRP",
+      "headline": "Alleged Narco-Terrorist Moves to Toss U.S. Indictment on Jurisdictional Grounds",
+      "excerpt": "Lawyer for Sebastián Marset claims the U.S. cannot prosecute him based on a single wire transfer that routed through a server in Virginia.",
+      "link": "https://www.occrp.org/en/news/alleged-narco-terrorist-moves-to-toss-us-indictment-on-jurisdictional-grounds",
+      "published": "2026-08-28T15:42:00+00:00",
       "featured": false
     },
     {
@@ -506,21 +524,12 @@
       "featured": false
     },
     {
-      "id": "981e4e877e36",
-      "source": "ProPublica",
-      "headline": "Syracuse University Seeks to Prevent Campus Rape Victim From Obtaining Police Records",
-      "excerpt": "The post Syracuse University Seeks to Prevent Campus Rape Victim From Obtaining Police Records appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/syracuse-sexual-assault-lawsuit-records",
-      "published": "2026-08-28T10:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "f3262fde80be",
-      "source": "OCCRP",
-      "headline": "Singapore Police Probe 231 Suspected Scam Mules",
-      "excerpt": "",
-      "link": "https://www.occrp.org/en/news/singapore-police-probe-231-suspected-scam-mules",
-      "published": "2026-08-27T20:47:00+00:00",
+      "id": "ff2552d1220e",
+      "source": "Dropsite News",
+      "headline": "Do Rural Residents Have the Power to Say No?",
+      "excerpt": "From CAFOs to data centers, corporate America dodges local control.",
+      "link": "https://www.dropsitenews.com/p/rural-residents-say-no-data-centers-ai-cafos",
+      "published": "2026-08-27T18:36:45+00:00",
       "featured": false
     },
     {
@@ -530,15 +539,6 @@
       "excerpt": "Anti-genocide organizers say the “terrorism” label is intended to crush direct action against Israeli weapons shipments. The post “They Want People Scared”: Former Palestine Action Member Blasts Trump’s Terror Sanctions...",
       "link": "https://theintercept.com/2026/08/27/palestine-action-terrorism-sanctions-trump-ban-israel/",
       "published": "2026-08-27T17:59:57+00:00",
-      "featured": false
-    },
-    {
-      "id": "fd3907c8106c",
-      "source": "Dropsite News",
-      "headline": "U.S. sanctions UK’s Palestine Action as “terrorist group”; ICE agent released from Texas jail; Russia threatens to strike UK military targets in Ukraine",
-      "excerpt": "Drop Site Daily: August 27, 2026",
-      "link": "https://www.dropsitenews.com/p/us-sanctions-palestine-action-ice-texas-russia-uk-ukraine",
-      "published": "2026-08-27T15:47:36+00:00",
       "featured": false
     }
   ]
