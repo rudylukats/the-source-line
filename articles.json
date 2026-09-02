@@ -1,14 +1,41 @@
 {
-  "generated_at": "2026-09-02T04:35:24.551258+00:00",
+  "generated_at": "2026-09-02T11:19:42.610734+00:00",
   "articles": [
     {
-      "id": "30398aa92935",
+      "id": "2543b1e4b739",
       "source": "Al Jazeera",
-      "headline": "Tunisia’s civil society faces growing pressure as crackdown widens",
-      "excerpt": "Arrests, prosecutions and suspensions are putting growing pressure on Tunisia’s civil society, Human Rights Watch says.",
-      "link": "https://www.aljazeera.com/news/2026/9/2/tunisias-civil-society-faces-growing-pressure-as-crackdown-widens?traffic_source=rss",
-      "published": "2026-09-02T04:01:08+00:00",
+      "headline": "Nigerian anticorruption agency sacks 40 staff over misconduct allegations",
+      "excerpt": "Nigerian media outlets have reported that five of the dismissed staff are facing prosecution.",
+      "link": "https://www.aljazeera.com/news/2026/9/2/nigerian-anticorruption-agency-sacks-40-staff-over-misconduct-allegations?traffic_source=rss",
+      "published": "2026-09-02T11:00:57+00:00",
       "featured": true
+    },
+    {
+      "id": "7d41b0b1d498",
+      "source": "ProPublica",
+      "headline": "New Mail Voting Rules Moved Forward Despite USPS Officials’ Concerns About Mass Disenfranchisement",
+      "excerpt": "The post New Mail Voting Rules Moved Forward Despite USPS Officials’ Concerns About Mass Disenfranchisement appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/mail-voting-usps-officials-concerns-disenfranchisement",
+      "published": "2026-09-02T11:00:00+00:00",
+      "featured": true
+    },
+    {
+      "id": "bd25bae7b32a",
+      "source": "Rest of World",
+      "headline": "Taiwan’s six-year hunt for China’s undercover chip labs",
+      "excerpt": "Previously unpublished government data reveals the scale of Taiwan’s crackdown on Chinese companies accused of hiding their ties while recruiting chip talent and pursuing sensitive technology.",
+      "link": "https://restofworld.org/2026/taiwan-china-chip-investigations/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "published": "2026-09-02T10:00:00+00:00",
+      "featured": true
+    },
+    {
+      "id": "3c32562a2492",
+      "source": "The Intercept",
+      "headline": "The U.S. Has Killed 227 Civilians in Boat Strikes During “A Year of Murders”",
+      "excerpt": "“The boat strikes are, perhaps, the most stark testament to the lawlessness of the Trump administration.” The post The U.S. Has Killed 227 Civilians in Boat Strikes During “A Year of Murders” appeared first on The...",
+      "link": "https://theintercept.com/2026/09/02/military-boat-strikes-killings-year/",
+      "published": "2026-09-02T09:00:00+00:00",
+      "featured": false
     },
     {
       "id": "e0a48b78a90f",
@@ -17,16 +44,7 @@
       "excerpt": "While slamming President Donald Trump’s overreach, Rep. Alexandria Ocasio-Cortez told The Lever “we must use the tools of the office.”",
       "link": "https://www.levernews.com/aoc-democrats-shouldnt-be-afraid-to-use-presidential-power/",
       "published": "2026-09-01T22:22:49+00:00",
-      "featured": true
-    },
-    {
-      "id": "31650967ae73",
-      "source": "The Intercept",
-      "headline": "CBS News Spins El-Sayed’s 9/11 Tweets Into a Manufactured Anti-Muslim Scandal",
-      "excerpt": "Centrist Democrats opened the door for anti-Muslim attacks on their party’s nominee in Michigan — finding common cause with right-wing bigots. The post CBS News Spins El-Sayed’s 9/11 Tweets Into a Manufactured...",
-      "link": "https://theintercept.com/2026/09/01/cbs-news-abdul-el-sayed-9-11-tweets/",
-      "published": "2026-09-01T21:14:44+00:00",
-      "featured": true
+      "featured": false
     },
     {
       "id": "a04ce982ef59",
@@ -35,15 +53,6 @@
       "excerpt": "As Uganda prepares to deploy troops to a Gaza “stabilization force,” internal documents show a years-long Israeli program to upgrade the country’s drone capabilities.",
       "link": "https://www.dropsitenews.com/p/israel-uganda-drone-program-elbit",
       "published": "2026-09-01T20:29:53+00:00",
-      "featured": false
-    },
-    {
-      "id": "51e52475acef",
-      "source": "ProPublica",
-      "headline": "The Scientist Trying to Keep Kratom Legal Has Not Disclosed Longstanding Ties to Kratom Lobbyists",
-      "excerpt": "The post The Scientist Trying to Keep Kratom Legal Has Not Disclosed Longstanding Ties to Kratom Lobbyists appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/kratom-legalization-christopher-mccurdy-research-conflict-of-interest-aka",
-      "published": "2026-09-01T14:35:00+00:00",
       "featured": false
     },
     {
@@ -62,15 +71,6 @@
       "excerpt": "The the city tried to charge a farmer more than $17,000 for bodycam footage and records related to his arrest at a city council meeting.",
       "link": "https://www.404media.co/oklahoma-tells-city-it-cant-charge-17-125-44-for-a-records-request-related-to-data-center-arrest/",
       "published": "2026-09-01T13:49:42+00:00",
-      "featured": false
-    },
-    {
-      "id": "fe85c9d2b426",
-      "source": "Rest of World",
-      "headline": "AI safety is designed in the West, and failing users everywhere",
-      "excerpt": "OpenAI’s pause shows the risks of rapid AI development, as safety frameworks fail to account for non-Western languages and contexts where harms are felt most.",
-      "link": "https://restofworld.org/2026/ai-safety-bias/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-      "published": "2026-09-01T10:00:00+00:00",
       "featured": false
     },
     {
@@ -101,12 +101,30 @@
       "featured": false
     },
     {
-      "id": "1e279acb8595",
+      "id": "0afbf2e8e8c8",
       "source": "Al Jazeera",
-      "headline": "‘Really terrified’: Milo Yiannopoulos speaks out after deportation from US",
-      "excerpt": "The far-right British commentator sat with interviewer Piers Morgan after being detained by US immigration authorities.",
-      "link": "https://www.aljazeera.com/news/2026/9/2/really-terrified-milo-yiannopoulos-speaks-out-after-deportation-from-us?traffic_source=rss",
-      "published": "2026-09-02T03:32:23+00:00",
+      "headline": "What do we know about the fatal US bombing of a wedding in Iran’s Sirik?",
+      "excerpt": "A residential building and a telecom tower were struck overnight, as Iran and the US launched more strikes over Hormuz.",
+      "link": "https://www.aljazeera.com/news/2026/9/2/what-do-we-know-about-the-fatal-us-bombing-of-a-wedding-in-irans-sirik?traffic_source=rss",
+      "published": "2026-09-02T10:57:16+00:00",
+      "featured": false
+    },
+    {
+      "id": "f11697eeb540",
+      "source": "ProPublica",
+      "headline": "Texas Rejected an AI-Driven School’s Bid to Open a Charter. The State Still Approved It for the Voucher Program.",
+      "excerpt": "The post Texas Rejected an AI-Driven School’s Bid to Open a Charter. The State Still Approved It for the Voucher Program. appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/alpha-school-texas-vouchers-ai",
+      "published": "2026-09-02T10:00:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "31650967ae73",
+      "source": "The Intercept",
+      "headline": "CBS News Spins El-Sayed’s 9/11 Tweets Into a Manufactured Anti-Muslim Scandal",
+      "excerpt": "Centrist Democrats opened the door for anti-Muslim attacks on their party’s nominee in Michigan — finding common cause with right-wing bigots. The post CBS News Spins El-Sayed’s 9/11 Tweets Into a Manufactured...",
+      "link": "https://theintercept.com/2026/09/01/cbs-news-abdul-el-sayed-9-11-tweets/",
+      "published": "2026-09-01T21:14:44+00:00",
       "featured": false
     },
     {
@@ -146,30 +164,12 @@
       "featured": false
     },
     {
-      "id": "9cede5ffea50",
-      "source": "The Intercept",
-      "headline": "Christian Employers Can Now Discriminate Against Trans People",
-      "excerpt": "A settlement with the Christian Employers Alliance blocks the EEOC from ever investigating the group’s members for gender identity discrimination. The post Christian Employers Can Now Discriminate Against Trans People...",
-      "link": "https://theintercept.com/2026/09/01/christian-employers-settlement-gender-discrimination-eeoc/",
-      "published": "2026-09-01T12:46:23+00:00",
-      "featured": false
-    },
-    {
-      "id": "55d5f9654739",
-      "source": "ProPublica",
-      "headline": "Help Us Investigate Abusive Coaches in Youth Sports",
-      "excerpt": "The post Help Us Investigate Abusive Coaches in Youth Sports appeared first on ProPublica.",
-      "link": "https://www.propublica.org/getinvolved/help-us-investigate-abusive-coaches-youth-sports-aau",
-      "published": "2026-09-01T09:05:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "662981f79b69",
+      "id": "fe85c9d2b426",
       "source": "Rest of World",
-      "headline": "Meta accepts U.S. safety rules while pitching softer tools abroad",
-      "excerpt": "As governments consider banning social media for under-16s, Meta is turning to influencers to argue that parental controls are a better solution.",
-      "link": "https://restofworld.org/2026/meta-influencer-campaign-teen-accounts-under-16-social-media-ban/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-      "published": "2026-08-31T10:00:00+00:00",
+      "headline": "AI safety is designed in the West, and failing users everywhere",
+      "excerpt": "OpenAI’s pause shows the risks of rapid AI development, as safety frameworks fail to account for non-Western languages and contexts where harms are felt most.",
+      "link": "https://restofworld.org/2026/ai-safety-bias/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "published": "2026-09-01T10:00:00+00:00",
       "featured": false
     },
     {
@@ -200,12 +200,21 @@
       "featured": false
     },
     {
-      "id": "49bf80b2fe68",
+      "id": "527d6f527b58",
       "source": "Al Jazeera",
-      "headline": "US strikes on Iran kill child at wedding ceremony",
-      "excerpt": "Dozens of people are injured, and at least five dead, after US strikes hit a wedding ceremony near Sirik, Iran.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/2/us-strikes-on-iran-kill-child-at-wedding-ceremony?traffic_source=rss",
-      "published": "2026-09-02T03:27:26+00:00",
+      "headline": "Messi retirement and FIFA ban leave Paredes uncertain of Argentina future",
+      "excerpt": "Leandro ‌Paredes's 10-match ban, alongside Lionel Messi's Argentina retirement, leave former to ponder future.",
+      "link": "https://www.aljazeera.com/sports/2026/9/2/paredes-says-ban-by-fifa-messi-retirement-make-argentina-future-uncertain?traffic_source=rss",
+      "published": "2026-09-02T10:56:05+00:00",
+      "featured": false
+    },
+    {
+      "id": "93087043f223",
+      "source": "ProPublica",
+      "headline": "Hurricane Helene Killed His Wife and Destroyed His Mobile Home. New Tenants Are Now Renting the Same Flood-Prone Land.",
+      "excerpt": "The post Hurricane Helene Killed His Wife and Destroyed His Mobile Home. New Tenants Are Now Renting the Same Flood-Prone Land. appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/western-north-carolina-helene-mobile-home-fema-recovery",
+      "published": "2026-09-02T09:00:00+00:00",
       "featured": false
     },
     {
@@ -236,12 +245,12 @@
       "featured": false
     },
     {
-      "id": "7e198791bd81",
-      "source": "ProPublica",
-      "headline": "Homeland Security Opens Child Exploitation Probe Into Banned Texas Volleyball Coach",
-      "excerpt": "The post Homeland Security Opens Child Exploitation Probe Into Banned Texas Volleyball Coach appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/volleyball-coach-ryan-richardson-homeland-security-investigations-child-exploitation",
-      "published": "2026-09-01T09:00:00+00:00",
+      "id": "9cede5ffea50",
+      "source": "The Intercept",
+      "headline": "Christian Employers Can Now Discriminate Against Trans People",
+      "excerpt": "A settlement with the Christian Employers Alliance blocks the EEOC from ever investigating the group’s members for gender identity discrimination. The post Christian Employers Can Now Discriminate Against Trans People...",
+      "link": "https://theintercept.com/2026/09/01/christian-employers-settlement-gender-discrimination-eeoc/",
+      "published": "2026-09-01T12:46:23+00:00",
       "featured": false
     },
     {
@@ -254,21 +263,12 @@
       "featured": false
     },
     {
-      "id": "bb1cb8043d4f",
-      "source": "The Intercept",
-      "headline": "Ecocide in Iran",
-      "excerpt": "The U.S.–Israeli war has caused massive environmental devastation, adding to the long history of American wars with toxic legacies. The post Ecocide in Iran appeared first on The Intercept.",
-      "link": "https://theintercept.com/2026/08/31/iran-war-environment-toxic-chemical-exposure/",
-      "published": "2026-08-31T09:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "2cd6099c1fac",
+      "id": "662981f79b69",
       "source": "Rest of World",
-      "headline": "I went to China to see a different AI future. It looked familiar",
-      "excerpt": "My trip to China revealed an AI race that looks less like a clash of competing visions, and more like two countries racing toward a similar future.",
-      "link": "https://restofworld.org/2026/china-us-ai-future/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-      "published": "2026-08-28T13:00:00+00:00",
+      "headline": "Meta accepts U.S. safety rules while pitching softer tools abroad",
+      "excerpt": "As governments consider banning social media for under-16s, Meta is turning to influencers to argue that parental controls are a better solution.",
+      "link": "https://restofworld.org/2026/meta-influencer-campaign-teen-accounts-under-16-social-media-ban/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "published": "2026-08-31T10:00:00+00:00",
       "featured": false
     },
     {
@@ -299,12 +299,21 @@
       "featured": false
     },
     {
-      "id": "9e54ec2c3412",
+      "id": "254f384e5d34",
       "source": "Al Jazeera",
-      "headline": "Apple changes name of Lake Ontario to ‘Lake America’ in maps app",
-      "excerpt": "The change marks the second US-based tech giant to comply with President Donald Trump's controversial order.",
-      "link": "https://www.aljazeera.com/news/2026/9/2/apple-changes-name-of-lake-ontario-to-lake-america-in-maps-app?traffic_source=rss",
-      "published": "2026-09-02T03:22:41+00:00",
+      "headline": "Video: Chinese President Xi makes first visit to Egypt in a decade",
+      "excerpt": "Chinese President Xi Jinping has arrived in Egypt for the first time since 2016 in a state visit.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/2/video-chinese-president-xi-makes-first-visit-to-egypt-in-a-decade?traffic_source=rss",
+      "published": "2026-09-02T10:54:52+00:00",
+      "featured": false
+    },
+    {
+      "id": "51e52475acef",
+      "source": "ProPublica",
+      "headline": "The Scientist Trying to Keep Kratom Legal Has Not Disclosed Longstanding Ties to Kratom Lobbyists",
+      "excerpt": "The post The Scientist Trying to Keep Kratom Legal Has Not Disclosed Longstanding Ties to Kratom Lobbyists appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/kratom-legalization-christopher-mccurdy-research-conflict-of-interest-aka",
+      "published": "2026-09-01T14:35:00+00:00",
       "featured": false
     },
     {
@@ -314,15 +323,6 @@
       "excerpt": "",
       "link": "https://www.occrp.org/en/news/australia-probes-western-union-over-possible-money-laundering-risks",
       "published": "2026-09-01T12:07:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "b438323a17d8",
-      "source": "ProPublica",
-      "headline": "California Lawmakers Pass Bill to Punish Administrators Who Fail to Vet Teachers for Misconduct",
-      "excerpt": "The post California Lawmakers Pass Bill to Punish Administrators Who Fail to Vet Teachers for Misconduct appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/california-teacher-misconduct-bill-administrator-discipline-al-muratsuchi",
-      "published": "2026-08-31T20:40:00+00:00",
       "featured": false
     },
     {
@@ -344,6 +344,15 @@
       "featured": false
     },
     {
+      "id": "bb1cb8043d4f",
+      "source": "The Intercept",
+      "headline": "Ecocide in Iran",
+      "excerpt": "The U.S.–Israeli war has caused massive environmental devastation, adding to the long history of American wars with toxic legacies. The post Ecocide in Iran appeared first on The Intercept.",
+      "link": "https://theintercept.com/2026/08/31/iran-war-environment-toxic-chemical-exposure/",
+      "published": "2026-08-31T09:00:00+00:00",
+      "featured": false
+    },
+    {
       "id": "c0ced9b54e0e",
       "source": "404 Media",
       "headline": "Google's Calling Lake Ontario 'Lake America' Now",
@@ -353,21 +362,12 @@
       "featured": false
     },
     {
-      "id": "d6acd34559bf",
-      "source": "The Intercept",
-      "headline": "Western North Carolina Pleaded for Hurricane Help. It Got ICE Instead.",
-      "excerpt": "As the G20 descends on Asheville, the communities that helped rebuild after Hurricane Helene live in fear of Trump’s immigration regime. The post Western North Carolina Pleaded for Hurricane Help. It Got ICE Instead....",
-      "link": "https://theintercept.com/2026/08/29/hurricane-helene-ice-asheville-nc-g20-trump/",
-      "published": "2026-08-29T10:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "bcaf9e77a86a",
+      "id": "2cd6099c1fac",
       "source": "Rest of World",
-      "headline": "India’s data center boom is leaving the people it displaces with nothing",
-      "excerpt": "Communities are being left behind as AI companies secure tax breaks, cheap land from willing governments.",
-      "link": "https://restofworld.org/2026/india-data-center-boom-local-community-impact-osama-manzar/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-      "published": "2026-08-27T10:00:00+00:00",
+      "headline": "I went to China to see a different AI future. It looked familiar",
+      "excerpt": "My trip to China revealed an AI race that looks less like a clash of competing visions, and more like two countries racing toward a similar future.",
+      "link": "https://restofworld.org/2026/china-us-ai-future/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "published": "2026-08-28T13:00:00+00:00",
       "featured": false
     },
     {
@@ -389,12 +389,21 @@
       "featured": false
     },
     {
-      "id": "5e6ff3f453c5",
+      "id": "29d758e318e5",
       "source": "Al Jazeera",
-      "headline": "Honduran court drops case against ex-President Hernandez after Trump pardon",
-      "excerpt": "Juan Orlando Hernandez had been accused of money laundering and fraud as part of a government corruption scheme.",
-      "link": "https://www.aljazeera.com/news/2026/9/2/honduran-court-drops-case-against-ex-president-hernandez-after-trump-pardon?traffic_source=rss",
-      "published": "2026-09-02T02:34:52+00:00",
+      "headline": "How indie cinema is beating Hollywood in 2026",
+      "excerpt": "How indie cinema is beating Hollywood in 2026",
+      "link": "https://www.aljazeera.com/video/money-works/2026/9/2/how-indie-cinema-is-beating-hollywood-in-2026?traffic_source=rss",
+      "published": "2026-09-02T10:20:57+00:00",
+      "featured": false
+    },
+    {
+      "id": "55d5f9654739",
+      "source": "ProPublica",
+      "headline": "Help Us Investigate Abusive Coaches in Youth Sports",
+      "excerpt": "The post Help Us Investigate Abusive Coaches in Youth Sports appeared first on ProPublica.",
+      "link": "https://www.propublica.org/getinvolved/help-us-investigate-abusive-coaches-youth-sports-aau",
+      "published": "2026-09-01T09:05:00+00:00",
       "featured": false
     },
     {
@@ -416,15 +425,6 @@
       "featured": false
     },
     {
-      "id": "cc6e82478621",
-      "source": "ProPublica",
-      "headline": "The Trump Administration’s Plan for Protecting Consumers? Politely Ask Companies to Behave.",
-      "excerpt": "The post The Trump Administration’s Plan for Protecting Consumers? Politely Ask Companies to Behave. appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/bilt-cfpb-russell-vought-trump-consumer-protection-fintech",
-      "published": "2026-08-31T10:00:00+00:00",
-      "featured": false
-    },
-    {
       "id": "1d5b484ec55f",
       "source": "The Lever",
       "headline": "He Champions Centrist Dems On Cable. He Also Works For Big AI.",
@@ -443,21 +443,21 @@
       "featured": false
     },
     {
-      "id": "111a0678d169",
+      "id": "d6acd34559bf",
       "source": "The Intercept",
-      "headline": "Trump Goes After Anonymous Email Provider in Italy. The Real Target Is Free Speech in the U.S.",
-      "excerpt": "Trump designated an Italian web-hosting provider as a foreign “terror” group. It could take antifascist sites in the U.S. offline. The post Trump Goes After Anonymous Email Provider in Italy. The Real Target Is Free...",
-      "link": "https://theintercept.com/2026/08/28/trump-antifa-terrorist-websites-free-speech/",
-      "published": "2026-08-28T15:51:40+00:00",
+      "headline": "Western North Carolina Pleaded for Hurricane Help. It Got ICE Instead.",
+      "excerpt": "As the G20 descends on Asheville, the communities that helped rebuild after Hurricane Helene live in fear of Trump’s immigration regime. The post Western North Carolina Pleaded for Hurricane Help. It Got ICE Instead....",
+      "link": "https://theintercept.com/2026/08/29/hurricane-helene-ice-asheville-nc-g20-trump/",
+      "published": "2026-08-29T10:00:00+00:00",
       "featured": false
     },
     {
-      "id": "96902b14a7f1",
+      "id": "bcaf9e77a86a",
       "source": "Rest of World",
-      "headline": "Why the global push to break free from Big Tech keeps falling short",
-      "excerpt": "In this excerpt from the book “The Rulers: Corporate Power in the Age of AI and the Cloud,” writer Cecilia Rikap examines how Europe, India, Brazil, and China are taking on big tech companies.",
-      "link": "https://restofworld.org/2026/google-amazon-cloud-china-india/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-      "published": "2026-08-26T10:00:00+00:00",
+      "headline": "India’s data center boom is leaving the people it displaces with nothing",
+      "excerpt": "Communities are being left behind as AI companies secure tax breaks, cheap land from willing governments.",
+      "link": "https://restofworld.org/2026/india-data-center-boom-local-community-impact-osama-manzar/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "published": "2026-08-27T10:00:00+00:00",
       "featured": false
     },
     {
@@ -479,21 +479,21 @@
       "featured": false
     },
     {
-      "id": "d7a746002574",
+      "id": "65a3c71d52b2",
       "source": "Al Jazeera",
-      "headline": "Top US lawmaker Mike Johnson says lying is part of some Iranians’ religion",
-      "excerpt": "The Republican House speaker defends the US-Israel war on Iran and praises Trump's 'steady hands at the wheel'.",
-      "link": "https://www.aljazeera.com/news/2026/9/2/top-us-lawmaker-mike-johnson-says-lying-is-part-of-some-iranians-religion?traffic_source=rss",
-      "published": "2026-09-02T02:20:45+00:00",
+      "headline": "5,000 US sailors descend on Thailand as USS Abraham Lincoln docks",
+      "excerpt": "Thailand’s Pattaya is expecting a business boost as 5,000 US sailors arrive aboard the USS Abraham Lincoln.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/2/5000-us-sailors-descend-on-thailand-as-uss-abraham-lincoln-docks?traffic_source=rss",
+      "published": "2026-09-02T10:08:44+00:00",
       "featured": false
     },
     {
-      "id": "62e83fb78d8b",
+      "id": "7e198791bd81",
       "source": "ProPublica",
-      "headline": "He Spent 27 Years on Death Row as a Wrongfully Convicted Man. What Comes Next?",
-      "excerpt": "The post He Spent 27 Years on Death Row as a Wrongfully Convicted Man. What Comes Next? appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/louisiana-angola-death-row-wrongful-conviction-jimmie-duncan",
-      "published": "2026-08-31T09:00:00+00:00",
+      "headline": "Homeland Security Opens Child Exploitation Probe Into Banned Texas Volleyball Coach",
+      "excerpt": "The post Homeland Security Opens Child Exploitation Probe Into Banned Texas Volleyball Coach appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/volleyball-coach-ryan-richardson-homeland-security-investigations-child-exploitation",
+      "published": "2026-09-01T09:00:00+00:00",
       "featured": false
     },
     {
@@ -515,6 +515,15 @@
       "featured": false
     },
     {
+      "id": "111a0678d169",
+      "source": "The Intercept",
+      "headline": "Trump Goes After Anonymous Email Provider in Italy. The Real Target Is Free Speech in the U.S.",
+      "excerpt": "Trump designated an Italian web-hosting provider as a foreign “terror” group. It could take antifascist sites in the U.S. offline. The post Trump Goes After Anonymous Email Provider in Italy. The Real Target Is Free...",
+      "link": "https://theintercept.com/2026/08/28/trump-antifa-terrorist-websites-free-speech/",
+      "published": "2026-08-28T15:51:40+00:00",
+      "featured": false
+    },
+    {
       "id": "98affa7c71a4",
       "source": "OCCRP",
       "headline": "Alleged Narco-Terrorist Moves to Toss U.S. Indictment on Jurisdictional Grounds",
@@ -530,15 +539,6 @@
       "excerpt": "This week, we discuss cool old books, new toys for ICE, and a boardwalk slop invasion.",
       "link": "https://www.404media.co/behind-the-blog-the-complete-idiots-guide-to-flamin-hot-slop/",
       "published": "2026-08-28T15:16:39+00:00",
-      "featured": false
-    },
-    {
-      "id": "4c76d89d62ff",
-      "source": "The Intercept",
-      "headline": "Right-Wing Trans Hate Comes for the WNBA",
-      "excerpt": "How the right’s attacks on trans people have infiltrated a sports league with no trans women. The post Right-Wing Trans Hate Comes for the WNBA appeared first on The Intercept.",
-      "link": "https://theintercept.com/2026/08/28/wnba-women-basketball-sports-trans/",
-      "published": "2026-08-28T10:00:00+00:00",
       "featured": false
     }
   ]
