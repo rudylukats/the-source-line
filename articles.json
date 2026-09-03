@@ -1,23 +1,50 @@
 {
-  "generated_at": "2026-09-03T04:34:30.635029+00:00",
+  "generated_at": "2026-09-03T11:16:03.396315+00:00",
   "articles": [
     {
-      "id": "f1c70c621881",
-      "source": "Al Jazeera",
-      "headline": "Tens of thousands rally across Spain over Ceuta migrant crisis",
-      "excerpt": "Tens of thousands rallied across Spain protesting the government's handling of the Ceuta migrant crisis.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/3/aje-onl-nf_mass-protests-across-spain-020926?traffic_source=rss",
-      "published": "2026-09-03T03:06:00+00:00",
+      "id": "69fa582a4132",
+      "source": "The Intercept",
+      "headline": "“Board of Peace” Billionaire Backs AIPAC Fund Targeting Pro-Palestine Candidates",
+      "excerpt": "Marc Rowan, a Trump appointee overseeing Gaza’s redevelopment, has given $1.5 million to AIPAC’s super PAC this cycle. The post “Board of Peace” Billionaire Backs AIPAC Fund Targeting Pro-Palestine Candidates appeared...",
+      "link": "https://theintercept.com/2026/09/03/aipac-marc-rowan-donor-gaza-board-peace/",
+      "published": "2026-09-03T10:00:00+00:00",
       "featured": true
     },
     {
-      "id": "fb0dbdae7967",
-      "source": "ProPublica",
-      "headline": "Trump’s DOJ Blocked Serious ICE Shooting Charge Over Federal Prosecutor’s “Strongest Possible” Objections",
-      "excerpt": "The post Trump’s DOJ Blocked Serious ICE Shooting Charge Over Federal Prosecutor’s “Strongest Possible” Objections appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/doj-blocks-charges-ice-agent-minneapolis-julio-cesar-sosa-celis",
-      "published": "2026-09-03T01:14:00+00:00",
+      "id": "8a174d71a2e1",
+      "source": "Rest of World",
+      "headline": "I refused to train the AI that could replace me",
+      "excerpt": "AI companies are paying highly educated workers to teach machines the judgment they spent years developing — even when those systems could eventually replace them.",
+      "link": "https://restofworld.org/2026/ai-training-jobs-expert-replacement/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "published": "2026-09-03T10:00:00+00:00",
       "featured": true
+    },
+    {
+      "id": "648d6749c712",
+      "source": "Al Jazeera",
+      "headline": "Green Party leader Zack Polanski to stand in by-election for Starmer’s seat",
+      "excerpt": "Zack Polanski announces candidacy for the Holborn and St Pancras seat to be vacated by British ex-PM Keir Starmer.",
+      "link": "https://www.aljazeera.com/news/2026/9/3/green-party-leader-zack-polanski-to-stand-in-by-election-for-starmers-seat?traffic_source=rss",
+      "published": "2026-09-03T09:57:25+00:00",
+      "featured": true
+    },
+    {
+      "id": "ec9483534eb5",
+      "source": "ProPublica",
+      "headline": "These Judges Take Months to Decide If Immigrants Have Been Unlawfully Detained",
+      "excerpt": "The post These Judges Take Months to Decide If Immigrants Have Been Unlawfully Detained appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/ice-detention-judges-habeas-petitions",
+      "published": "2026-09-03T09:00:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "c07a40428bd8",
+      "source": "The Lever",
+      "headline": "How Troy Jackson Can Put Collins' Career On The Chopping Block",
+      "excerpt": "Democrats haven’t won a U.S. Senate seat in Maine since 1988 — but Republican incumbent Sen. Susan Collins isn’t out of the woods yet.",
+      "link": "https://www.levernews.com/how-troy-jackson-can-put-collins-career-on-the-chopping-block/",
+      "published": "2026-09-03T08:15:23+00:00",
+      "featured": false
     },
     {
       "id": "f95c321b6f28",
@@ -26,7 +53,7 @@
       "excerpt": "Yorgen Fenech was the last of seven men prosecuted for her 2017 assassination.",
       "link": "https://www.icij.org/news/2026/09/jury-acquits-maltese-business-tycoon-in-the-murder-of-daphne-caruana-galizia/",
       "published": "2026-09-02T22:36:34+00:00",
-      "featured": true
+      "featured": false
     },
     {
       "id": "272b029c573e",
@@ -35,24 +62,6 @@
       "excerpt": "A floating mass of trees and vegetation in British Columbia’s Williston Lake attracted international attention after it was filmed this summer by boaters—and then seemed to disappear.",
       "link": "https://www.404media.co/how-the-hell-did-an-island-suddenly-appear-then-vanish/",
       "published": "2026-09-02T18:43:42+00:00",
-      "featured": false
-    },
-    {
-      "id": "f8fc4f0e9311",
-      "source": "The Intercept",
-      "headline": "Trump Admin Tells Court: Let OpenAI Rip Off The Intercept’s Articles",
-      "excerpt": "Trump’s Justice Department filed a brief on behalf of OpenAI in a landmark copyright lawsuit by The Intercept and other media companies. The post Trump Admin Tells Court: Let OpenAI Rip Off The Intercept’s Articles...",
-      "link": "https://theintercept.com/2026/09/02/trump-openai-copyright-lawsuit-news-articles/",
-      "published": "2026-09-02T18:40:51+00:00",
-      "featured": false
-    },
-    {
-      "id": "6efce1aefcc3",
-      "source": "The Lever",
-      "headline": "Midterm Madness: In Through The Pac Door",
-      "excerpt": "Dems swore off corporate cash. Their PACs found a loophole.",
-      "link": "https://www.levernews.com/midterm-madness-in-through-the-pac-door/",
-      "published": "2026-09-02T18:15:26+00:00",
       "featured": false
     },
     {
@@ -92,15 +101,6 @@
       "featured": false
     },
     {
-      "id": "bd25bae7b32a",
-      "source": "Rest of World",
-      "headline": "Taiwan’s six-year hunt for China’s undercover chip labs",
-      "excerpt": "Previously unpublished government data reveals the scale of Taiwan’s crackdown on Chinese companies accused of hiding their ties while recruiting chip talent and pursuing sensitive technology.",
-      "link": "https://restofworld.org/2026/taiwan-china-chip-investigations/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-      "published": "2026-09-02T10:00:00+00:00",
-      "featured": false
-    },
-    {
       "id": "8fe9b0f0cd17",
       "source": "Bellingcat",
       "headline": "Investigating a Murder: Public Records Uncover New Clues in Chinatown Cold Case",
@@ -110,30 +110,39 @@
       "featured": false
     },
     {
-      "id": "139455018fb0",
+      "id": "7e369d09a9ea",
       "source": "Al Jazeera",
-      "headline": "Maltese tycoon acquitted of killing journalist Daphne Caruana Galizia",
-      "excerpt": "The last man prosecuted over the 2017 killing of Maltese journalist Daphne Caruana Galizia has been acquitted.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/3/maltese-tycoon-acquitted-of-killing-journalist-daphne-caruana-galizia?traffic_source=rss",
-      "published": "2026-09-03T03:00:27+00:00",
+      "headline": "Yair Netanyahu, Israeli PM’s son, angers UK right over Falklands comment",
+      "excerpt": "Accusing the UK government of ‘hypocrisy’, Yair Netanyahu backs Argentina’s claims to the British-held Falkland Islands.",
+      "link": "https://www.aljazeera.com/news/2026/9/3/yair-netanyahu-israeli-pms-son-angers-uk-right-over-falklands-comment?traffic_source=rss",
+      "published": "2026-09-03T09:54:15+00:00",
       "featured": false
     },
     {
-      "id": "9f0dec5ccf08",
-      "source": "The Lever",
-      "headline": "The Corporate Democrat Who Mistook Youth For Progress",
-      "excerpt": "Massachusetts voters need more than a fresh face — they want someone with a strong record of fighting on their behalf.",
-      "link": "https://www.levernews.com/the-corporate-democrat-who-mistook-youth-for-progress/",
-      "published": "2026-09-02T17:04:41+00:00",
+      "id": "fb0dbdae7967",
+      "source": "ProPublica",
+      "headline": "Trump’s DOJ Blocked Serious ICE Shooting Charge Over Federal Prosecutor’s “Strongest Possible” Objections",
+      "excerpt": "The post Trump’s DOJ Blocked Serious ICE Shooting Charge Over Federal Prosecutor’s “Strongest Possible” Objections appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/doj-blocks-charges-ice-agent-minneapolis-julio-cesar-sosa-celis",
+      "published": "2026-09-03T01:14:00+00:00",
       "featured": false
     },
     {
-      "id": "7a8a2eefe181",
+      "id": "f8fc4f0e9311",
       "source": "The Intercept",
-      "headline": "Seth Moulton Sold Out Trans Kids — and Lost His Senate Race",
-      "excerpt": "Running as a progressive, Massachusetts Sen. Ed Markey forced his centrist challenger to apologize for his anti-trans remarks. The post Seth Moulton Sold Out Trans Kids — and Lost His Senate Race appeared first on The...",
-      "link": "https://theintercept.com/2026/09/02/markey-moulton-massachusetts-senate-primary/",
-      "published": "2026-09-02T16:16:16+00:00",
+      "headline": "Trump Admin Tells Court: Let OpenAI Rip Off The Intercept’s Articles",
+      "excerpt": "Trump’s Justice Department filed a brief on behalf of OpenAI in a landmark copyright lawsuit by The Intercept and other media companies. The post Trump Admin Tells Court: Let OpenAI Rip Off The Intercept’s Articles...",
+      "link": "https://theintercept.com/2026/09/02/trump-openai-copyright-lawsuit-news-articles/",
+      "published": "2026-09-02T18:40:51+00:00",
+      "featured": false
+    },
+    {
+      "id": "6efce1aefcc3",
+      "source": "The Lever",
+      "headline": "Midterm Madness: In Through The Pac Door",
+      "excerpt": "Dems swore off corporate cash. Their PACs found a loophole.",
+      "link": "https://www.levernews.com/midterm-madness-in-through-the-pac-door/",
+      "published": "2026-09-02T18:15:26+00:00",
       "featured": false
     },
     {
@@ -164,12 +173,12 @@
       "featured": false
     },
     {
-      "id": "7d41b0b1d498",
-      "source": "ProPublica",
-      "headline": "New Mail Voting Rules Moved Forward Despite USPS Officials’ Concerns About Mass Disenfranchisement",
-      "excerpt": "The post New Mail Voting Rules Moved Forward Despite USPS Officials’ Concerns About Mass Disenfranchisement appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/mail-voting-usps-officials-concerns-disenfranchisement",
-      "published": "2026-09-02T11:00:00+00:00",
+      "id": "bd25bae7b32a",
+      "source": "Rest of World",
+      "headline": "Taiwan’s six-year hunt for China’s undercover chip labs",
+      "excerpt": "Previously unpublished government data reveals the scale of Taiwan’s crackdown on Chinese companies accused of hiding their ties while recruiting chip talent and pursuing sensitive technology.",
+      "link": "https://restofworld.org/2026/taiwan-china-chip-investigations/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "published": "2026-09-02T10:00:00+00:00",
       "featured": false
     },
     {
@@ -179,15 +188,6 @@
       "excerpt": "As Uganda prepares to deploy troops to a Gaza “stabilization force,” internal documents show a years-long Israeli program to upgrade the country’s drone capabilities.",
       "link": "https://www.dropsitenews.com/p/israel-uganda-drone-program-elbit",
       "published": "2026-09-01T20:29:53+00:00",
-      "featured": false
-    },
-    {
-      "id": "fe85c9d2b426",
-      "source": "Rest of World",
-      "headline": "AI safety is designed in the West, and failing users everywhere",
-      "excerpt": "OpenAI’s pause shows the risks of rapid AI development, as safety frameworks fail to account for non-Western languages and contexts where harms are felt most.",
-      "link": "https://restofworld.org/2026/ai-safety-bias/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-      "published": "2026-09-01T10:00:00+00:00",
       "featured": false
     },
     {
@@ -209,12 +209,30 @@
       "featured": false
     },
     {
-      "id": "234b2b952ddf",
+      "id": "19e24f5bcc9d",
       "source": "Al Jazeera",
-      "headline": "US forces board and destroy alleged cartel boat in eastern Pacific",
-      "excerpt": "US forces boarded and sank a boat in the eastern Pacific saying it was a floating refueling station for drug-traffickers",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/3/us-forces-board-and-destroy-alleged-cartel-boat-in-eastern-pacific?traffic_source=rss",
-      "published": "2026-09-03T02:52:38+00:00",
+      "headline": "Will the US or China emerge as the AI superpower?",
+      "excerpt": "The US and China race to produce the world's leading artificial intelligence.",
+      "link": "https://www.aljazeera.com/video/counting-the-cost/2026/9/3/will-the-us-or-china-emerge-as-the-ai-superpower?traffic_source=rss",
+      "published": "2026-09-03T09:52:38+00:00",
+      "featured": false
+    },
+    {
+      "id": "9f0dec5ccf08",
+      "source": "The Lever",
+      "headline": "The Corporate Democrat Who Mistook Youth For Progress",
+      "excerpt": "Massachusetts voters need more than a fresh face — they want someone with a strong record of fighting on their behalf.",
+      "link": "https://www.levernews.com/the-corporate-democrat-who-mistook-youth-for-progress/",
+      "published": "2026-09-02T17:04:41+00:00",
+      "featured": false
+    },
+    {
+      "id": "7a8a2eefe181",
+      "source": "The Intercept",
+      "headline": "Seth Moulton Sold Out Trans Kids — and Lost His Senate Race",
+      "excerpt": "Running as a progressive, Massachusetts Sen. Ed Markey forced his centrist challenger to apologize for his anti-trans remarks. The post Seth Moulton Sold Out Trans Kids — and Lost His Senate Race appeared first on The...",
+      "link": "https://theintercept.com/2026/09/02/markey-moulton-massachusetts-senate-primary/",
+      "published": "2026-09-02T16:16:16+00:00",
       "featured": false
     },
     {
@@ -227,15 +245,6 @@
       "featured": false
     },
     {
-      "id": "c6bef99f9e89",
-      "source": "The Intercept",
-      "headline": "ICE Is Paying a Controversial AI Firm to Hide the Identities of Agents",
-      "excerpt": "In a leaked memo, an ICE official tells employees the new AI tech will protect them from doxing. Some worry it could be used to root out whistleblowers. The post ICE Is Paying a Controversial AI Firm to Hide the...",
-      "link": "https://theintercept.com/2026/09/02/ice-ai-whistleblower-doxing-zerofox/",
-      "published": "2026-09-02T14:39:36+00:00",
-      "featured": false
-    },
-    {
       "id": "50f1ce35df2f",
       "source": "OCCRP",
       "headline": "Dutch Police Arrest 34 Following Drug-related Shootout",
@@ -245,21 +254,12 @@
       "featured": false
     },
     {
-      "id": "f11697eeb540",
+      "id": "7d41b0b1d498",
       "source": "ProPublica",
-      "headline": "Several States Rejected This Private School Chain as a Charter. Now It’s Eligible for Texas’ Taxpayer-Funded Vouchers.",
-      "excerpt": "The post Several States Rejected This Private School Chain as a Charter. Now It’s Eligible for Texas’ Taxpayer-Funded Vouchers. appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/alpha-school-texas-vouchers-ai",
-      "published": "2026-09-02T10:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "e0a48b78a90f",
-      "source": "The Lever",
-      "headline": "AOC: Democrats Shouldn’t Be Afraid To Use Presidential Power",
-      "excerpt": "While slamming President Donald Trump’s overreach, Rep. Alexandria Ocasio-Cortez told The Lever “we must use the tools of the office.”",
-      "link": "https://www.levernews.com/aoc-democrats-shouldnt-be-afraid-to-use-presidential-power/",
-      "published": "2026-09-01T22:22:49+00:00",
+      "headline": "New Mail Voting Rules Moved Forward Despite USPS Officials’ Concerns About Mass Disenfranchisement",
+      "excerpt": "The post New Mail Voting Rules Moved Forward Despite USPS Officials’ Concerns About Mass Disenfranchisement appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/mail-voting-usps-officials-concerns-disenfranchisement",
+      "published": "2026-09-02T11:00:00+00:00",
       "featured": false
     },
     {
@@ -272,21 +272,21 @@
       "featured": false
     },
     {
+      "id": "fe85c9d2b426",
+      "source": "Rest of World",
+      "headline": "AI safety is designed in the West, and failing users everywhere",
+      "excerpt": "OpenAI’s pause shows the risks of rapid AI development, as safety frameworks fail to account for non-Western languages and contexts where harms are felt most.",
+      "link": "https://restofworld.org/2026/ai-safety-bias/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "published": "2026-09-01T10:00:00+00:00",
+      "featured": false
+    },
+    {
       "id": "45a90264bcde",
       "source": "ICIJ",
       "headline": "Crypto giant Tether promised careful vetting. Some early customers were later implicated in financial crimes.",
       "excerpt": "Financial records obtained by ICIJ show that they included individuals later accused of or sanctioned for money laundering and other financial crimes.",
       "link": "https://www.icij.org/investigations/coin-laundry/crypto-giant-tether-promised-careful-vetting-some-early-customers-were-later-implicated-in-financial-crimes/",
       "published": "2026-08-31T16:58:13+00:00",
-      "featured": false
-    },
-    {
-      "id": "662981f79b69",
-      "source": "Rest of World",
-      "headline": "Meta accepts U.S. safety rules while pitching softer tools abroad",
-      "excerpt": "As governments consider banning social media for under-16s, Meta is turning to influencers to argue that parental controls are a better solution.",
-      "link": "https://restofworld.org/2026/meta-influencer-campaign-teen-accounts-under-16-social-media-ban/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-      "published": "2026-08-31T10:00:00+00:00",
       "featured": false
     },
     {
@@ -308,12 +308,12 @@
       "featured": false
     },
     {
-      "id": "9d73bdf2589e",
+      "id": "e412ad7854e4",
       "source": "Al Jazeera",
-      "headline": "Minneapolis shooting kills two, wounds three police officers",
-      "excerpt": "Police say suspected gunman is also dead and that several people, including three officers, were wounded.",
-      "link": "https://www.aljazeera.com/news/2026/9/3/minneapolis-shooting-kills-two-wounds-three-police-officers?traffic_source=rss",
-      "published": "2026-09-03T02:18:21+00:00",
+      "headline": "Rescue efforts continue as Nepal-China flood death toll surpasses 1,270",
+      "excerpt": "Authorities in Nepal use helicopters and zip lines to reach remote flood-stricken villages amid widespread destruction.",
+      "link": "https://www.aljazeera.com/news/2026/9/3/rescue-efforts-continue-as-nepal-china-flood-death-toll-surpasses-1270?traffic_source=rss",
+      "published": "2026-09-03T09:38:14+00:00",
       "featured": false
     },
     {
@@ -326,12 +326,93 @@
       "featured": false
     },
     {
+      "id": "c6bef99f9e89",
+      "source": "The Intercept",
+      "headline": "ICE Is Paying a Controversial AI Firm to Hide the Identities of Agents",
+      "excerpt": "In a leaked memo, an ICE official tells employees the new AI tech will protect them from doxing. Some worry it could be used to root out whistleblowers. The post ICE Is Paying a Controversial AI Firm to Hide the...",
+      "link": "https://theintercept.com/2026/09/02/ice-ai-whistleblower-doxing-zerofox/",
+      "published": "2026-09-02T14:39:36+00:00",
+      "featured": false
+    },
+    {
       "id": "6e22f80e9c70",
       "source": "OCCRP",
       "headline": "Ukraine Busts Crypto Fraud Network Targeting EU Victims",
       "excerpt": "",
       "link": "https://www.occrp.org/en/news/ukraine-busts-crypto-fraud-network-targeting-eu-victims",
       "published": "2026-09-02T11:58:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "f11697eeb540",
+      "source": "ProPublica",
+      "headline": "Several States Rejected This Private School Chain as a Charter. Now It’s Eligible for Texas’ Taxpayer-Funded Vouchers.",
+      "excerpt": "The post Several States Rejected This Private School Chain as a Charter. Now It’s Eligible for Texas’ Taxpayer-Funded Vouchers. appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/alpha-school-texas-vouchers-ai",
+      "published": "2026-09-02T10:00:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "e0a48b78a90f",
+      "source": "The Lever",
+      "headline": "AOC: Democrats Shouldn’t Be Afraid To Use Presidential Power",
+      "excerpt": "While slamming President Donald Trump’s overreach, Rep. Alexandria Ocasio-Cortez told The Lever “we must use the tools of the office.”",
+      "link": "https://www.levernews.com/aoc-democrats-shouldnt-be-afraid-to-use-presidential-power/",
+      "published": "2026-09-01T22:22:49+00:00",
+      "featured": false
+    },
+    {
+      "id": "79c0b4f9408d",
+      "source": "Dropsite News",
+      "headline": "2,030 Israeli attacks in West Bank in August; Postal Service plan could disenfranchise millions; Nepal death toll passes 1,000",
+      "excerpt": "Drop Site Daily: September 1, 2026",
+      "link": "https://www.dropsitenews.com/p/israel-west-bank-attacks-postal-service-nepal-deaths",
+      "published": "2026-09-01T15:43:23+00:00",
+      "featured": false
+    },
+    {
+      "id": "662981f79b69",
+      "source": "Rest of World",
+      "headline": "Meta accepts U.S. safety rules while pitching softer tools abroad",
+      "excerpt": "As governments consider banning social media for under-16s, Meta is turning to influencers to argue that parental controls are a better solution.",
+      "link": "https://restofworld.org/2026/meta-influencer-campaign-teen-accounts-under-16-social-media-ban/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "published": "2026-08-31T10:00:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "20326a28e45c",
+      "source": "ICIJ",
+      "headline": "Despite years of confiscations, the Met still holds hundreds of pieces linked to alleged trafficking and looting figures",
+      "excerpt": "Museum says it wants no stolen artwork and that it has initiated an expedited review of hundreds of works tied to specific dealers.",
+      "link": "https://www.icij.org/investigations/hidden-treasures/despite-years-of-confiscations-the-met-still-holds-hundreds-of-pieces-linked-to-alleged-trafficking-and-looting-figures/",
+      "published": "2026-08-20T11:54:56+00:00",
+      "featured": false
+    },
+    {
+      "id": "c05386da40a0",
+      "source": "More Perfect Union",
+      "headline": "We Uncovered Where Your Insurance Payments Are Really Going",
+      "excerpt": "Insurance companies claim higher prices are justified by higher risks, but we found they are keeping more of our premium dollars than ever.",
+      "link": "https://substack.perfectunion.us/p/we-uncovered-where-your-insurance",
+      "published": "2026-08-14T20:47:37+00:00",
+      "featured": false
+    },
+    {
+      "id": "afe1412edeec",
+      "source": "Al Jazeera",
+      "headline": "EU foreign ministers fail to break deadlock over Israel and Ukraine",
+      "excerpt": "EU officials met in Ireland but failed to agree on imposing trade sanctions on Israel or military support for Ukraine.",
+      "link": "https://www.aljazeera.com/news/2026/9/3/eu-foreign-ministers-fail-to-break-deadlock-over-israel-and-ukraine?traffic_source=rss",
+      "published": "2026-09-03T09:34:09+00:00",
+      "featured": false
+    },
+    {
+      "id": "8d0873b3dc3b",
+      "source": "404 Media",
+      "headline": "Cops Are Asking Axon to Make Their Cameras Look Different From Flock So People Don't Destroy Them",
+      "excerpt": "“Is there any talk to redesign the Outpost to not look exactly like the Flock camera — I think it will help agencies with the optics while we batten down the hatches,” one apparent cop asked during a now deleted Axon...",
+      "link": "https://www.404media.co/cops-are-asking-axon-to-make-their-cameras-look-different-from-flock-so-people-dont-destroy-them/",
+      "published": "2026-09-02T14:02:53+00:00",
       "featured": false
     },
     {
@@ -362,12 +443,21 @@
       "featured": false
     },
     {
-      "id": "79c0b4f9408d",
+      "id": "182bb94c6e92",
+      "source": "OCCRP",
+      "headline": "Spain Arrests Germany’s Most Wanted Drug Trafficker",
+      "excerpt": "",
+      "link": "https://www.occrp.org/en/news/spain-arrests-germanys-most-wanted-drug-trafficker",
+      "published": "2026-09-01T14:28:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "e29791214762",
       "source": "Dropsite News",
-      "headline": "2,030 Israeli attacks in West Bank in August; Postal Service plan could disenfranchise millions; Nepal death toll passes 1,000",
-      "excerpt": "Drop Site Daily: September 1, 2026",
-      "link": "https://www.dropsitenews.com/p/israel-west-bank-attacks-postal-service-nepal-deaths",
-      "published": "2026-09-01T15:43:23+00:00",
+      "headline": "U.S. reignites Iran war; Israel’s $3.5B defense deal with Greece; Details of Venezuela oil deal",
+      "excerpt": "Drop Site Daily: August 31, 2026",
+      "link": "https://www.dropsitenews.com/p/us-iran-war-larak-israel-greece-defense-venezuela-oil-deal",
+      "published": "2026-08-31T15:50:21+00:00",
       "featured": false
     },
     {
@@ -380,39 +470,39 @@
       "featured": false
     },
     {
-      "id": "20326a28e45c",
+      "id": "bae449c52e51",
       "source": "ICIJ",
-      "headline": "Despite years of confiscations, the Met still holds hundreds of pieces linked to alleged trafficking and looting figures",
-      "excerpt": "Museum says it wants no stolen artwork and that it has initiated an expedited review of hundreds of works tied to specific dealers.",
-      "link": "https://www.icij.org/investigations/hidden-treasures/despite-years-of-confiscations-the-met-still-holds-hundreds-of-pieces-linked-to-alleged-trafficking-and-looting-figures/",
-      "published": "2026-08-20T11:54:56+00:00",
+      "headline": "Kazakhstan alleges Big Oil corruption tainted $10.7 billion in contracts, delayed key oil project",
+      "excerpt": "The allegations, which are at the heart of a confidential arbitration, signal an aggressive new stance by the Central Asian country toward longstanding international partners.",
+      "link": "https://www.icij.org/investigations/caspian-cabals/kazakhstan-alleges-big-oil-corruption-tainted-10-7-billion-in-contracts-delayed-key-oil-project/",
+      "published": "2026-08-14T05:08:39+00:00",
       "featured": false
     },
     {
-      "id": "c05386da40a0",
+      "id": "d6ff7788bec9",
       "source": "More Perfect Union",
-      "headline": "We Uncovered Where Your Insurance Payments Are Really Going",
-      "excerpt": "Insurance companies claim higher prices are justified by higher risks, but we found they are keeping more of our premium dollars than ever.",
-      "link": "https://substack.perfectunion.us/p/we-uncovered-where-your-insurance",
-      "published": "2026-08-14T20:47:37+00:00",
+      "headline": "The Data Center Secret in Trump’s Financial Disclosures",
+      "excerpt": "It’s not just Big Tech donors getting rich off pro-AI policies — we followed the money back to Trump himself.",
+      "link": "https://substack.perfectunion.us/p/the-data-center-secret-in-trumps",
+      "published": "2026-08-12T20:43:37+00:00",
       "featured": false
     },
     {
-      "id": "4f573630b2c1",
+      "id": "7e410dacaeed",
       "source": "Al Jazeera",
-      "headline": "Exclusive access as the search for Nepal’s tunnel workers intensifies",
-      "excerpt": "Al Jazeera’s Jessica Washington gets exclusive access to rescue crews in Rasuwa, Nepal, digging and blasting.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/3/exclusive-access-as-the-search-for-nepals-tunnel-workers-intensifies?traffic_source=rss",
-      "published": "2026-09-03T01:53:40+00:00",
+      "headline": "Norway seizes Russian ship in Arctic over Crimea compensation claim",
+      "excerpt": "Moscow challenges Norway's seizure of vessel, the Professor Molchanov, calling it an act of piracy.",
+      "link": "https://www.aljazeera.com/news/2026/9/3/norway-seizes-russian-ship-in-arctic-over-crimea-compensation-claim?traffic_source=rss",
+      "published": "2026-09-03T09:22:18+00:00",
       "featured": false
     },
     {
-      "id": "8d0873b3dc3b",
+      "id": "aaba7ef649fb",
       "source": "404 Media",
-      "headline": "Cops Are Asking Axon to Make Their Cameras Look Different From Flock So People Don't Destroy Them",
-      "excerpt": "“Is there any talk to redesign the Outpost to not look exactly like the Flock camera — I think it will help agencies with the optics while we batten down the hatches,” one apparent cop asked during a now deleted Axon...",
-      "link": "https://www.404media.co/cops-are-asking-axon-to-make-their-cameras-look-different-from-flock-so-people-dont-destroy-them/",
-      "published": "2026-09-02T14:02:53+00:00",
+      "headline": "Podcast: We Spoke to an Amazon Worker Destroying Books for AI",
+      "excerpt": "A follow up to the Amazon destroying books for AI story, why a bunch of names keep appearing in AI-generated papers, and ICE's latest spending spree.",
+      "link": "https://www.404media.co/podcast-we-spoke-to-an-amazon-worker-destroying-books-for-ai/",
+      "published": "2026-09-02T12:47:45+00:00",
       "featured": false
     },
     {
@@ -443,102 +533,12 @@
       "featured": false
     },
     {
-      "id": "182bb94c6e92",
-      "source": "OCCRP",
-      "headline": "Spain Arrests Germany’s Most Wanted Drug Trafficker",
-      "excerpt": "",
-      "link": "https://www.occrp.org/en/news/spain-arrests-germanys-most-wanted-drug-trafficker",
-      "published": "2026-09-01T14:28:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "e29791214762",
-      "source": "Dropsite News",
-      "headline": "U.S. reignites Iran war; Israel’s $3.5B defense deal with Greece; Details of Venezuela oil deal",
-      "excerpt": "Drop Site Daily: August 31, 2026",
-      "link": "https://www.dropsitenews.com/p/us-iran-war-larak-israel-greece-defense-venezuela-oil-deal",
-      "published": "2026-08-31T15:50:21+00:00",
-      "featured": false
-    },
-    {
-      "id": "bcaf9e77a86a",
-      "source": "Rest of World",
-      "headline": "India’s data center boom is leaving the people it displaces with nothing",
-      "excerpt": "Communities are being left behind as AI companies secure tax breaks, cheap land from willing governments.",
-      "link": "https://restofworld.org/2026/india-data-center-boom-local-community-impact-osama-manzar/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-      "published": "2026-08-27T10:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "bae449c52e51",
-      "source": "ICIJ",
-      "headline": "Kazakhstan alleges Big Oil corruption tainted $10.7 billion in contracts, delayed key oil project",
-      "excerpt": "The allegations, which are at the heart of a confidential arbitration, signal an aggressive new stance by the Central Asian country toward longstanding international partners.",
-      "link": "https://www.icij.org/investigations/caspian-cabals/kazakhstan-alleges-big-oil-corruption-tainted-10-7-billion-in-contracts-delayed-key-oil-project/",
-      "published": "2026-08-14T05:08:39+00:00",
-      "featured": false
-    },
-    {
-      "id": "d6ff7788bec9",
-      "source": "More Perfect Union",
-      "headline": "The Data Center Secret in Trump’s Financial Disclosures",
-      "excerpt": "It’s not just Big Tech donors getting rich off pro-AI policies — we followed the money back to Trump himself.",
-      "link": "https://substack.perfectunion.us/p/the-data-center-secret-in-trumps",
-      "published": "2026-08-12T20:43:37+00:00",
-      "featured": false
-    },
-    {
-      "id": "e63013ceedb2",
-      "source": "Al Jazeera",
-      "headline": "Trump threatens more strikes as death toll in Iran rises to 18",
-      "excerpt": "Trump says US can hit Iran 'anytime we want' as Tehran says deadly strikes, including on wedding party, a war crime.",
-      "link": "https://www.aljazeera.com/news/2026/9/3/trump-threatens-more-strikes-as-death-toll-in-iran-rises-to-19?traffic_source=rss",
-      "published": "2026-09-03T01:45:32+00:00",
-      "featured": false
-    },
-    {
-      "id": "aaba7ef649fb",
-      "source": "404 Media",
-      "headline": "Podcast: We Spoke to an Amazon Worker Destroying Books for AI",
-      "excerpt": "A follow up to the Amazon destroying books for AI story, why a bunch of names keep appearing in AI-generated papers, and ICE's latest spending spree.",
-      "link": "https://www.404media.co/podcast-we-spoke-to-an-amazon-worker-destroying-books-for-ai/",
-      "published": "2026-09-02T12:47:45+00:00",
-      "featured": false
-    },
-    {
       "id": "616ddefe22f7",
       "source": "OCCRP",
       "headline": "Q&A: What Has Emerged From the Trial of a Businessman Charged in the Murder of a Maltese Journalist?",
       "excerpt": "Yorgen Fenech pleaded not guilty to charges of complicity and criminal association in the 2017 assassination of leading Maltese investigative journalist Daphne Caruana Galizia. After two months of testimony, the verdict...",
       "link": "https://www.occrp.org/en/project/the-daphne-project/qa-what-has-emerged-from-the-trial-of-the-businessman-charged-in-murder-of-maltese-journalist",
       "published": "2026-09-01T13:51:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "9cede5ffea50",
-      "source": "The Intercept",
-      "headline": "Christian Employers Can Now Discriminate Against Trans People",
-      "excerpt": "A settlement with the Christian Employers Alliance blocks the EEOC from ever investigating the group’s members for gender identity discrimination. The post Christian Employers Can Now Discriminate Against Trans People...",
-      "link": "https://theintercept.com/2026/09/01/christian-employers-settlement-gender-discrimination-eeoc/",
-      "published": "2026-09-01T12:46:23+00:00",
-      "featured": false
-    },
-    {
-      "id": "55d5f9654739",
-      "source": "ProPublica",
-      "headline": "Help Us Investigate Abusive Coaches in Youth Sports",
-      "excerpt": "The post Help Us Investigate Abusive Coaches in Youth Sports appeared first on ProPublica.",
-      "link": "https://www.propublica.org/getinvolved/help-us-investigate-abusive-coaches-youth-sports-aau",
-      "published": "2026-09-01T09:05:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "c3b5370ea0c9",
-      "source": "The Lever",
-      "headline": "614 Reasons To Tax The Rich",
-      "excerpt": "CEOs at the lowest-paying corporations made roughly 614 times more than their median worker in 2025.",
-      "link": "https://www.levernews.com/614-reasons-to-tax-the-rich/",
-      "published": "2026-08-31T17:00:09+00:00",
       "featured": false
     }
   ]
