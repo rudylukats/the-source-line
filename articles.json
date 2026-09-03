@@ -1,13 +1,31 @@
 {
-  "generated_at": "2026-09-02T23:19:44.406792+00:00",
+  "generated_at": "2026-09-03T04:34:30.635029+00:00",
   "articles": [
     {
-      "id": "1979314154b5",
+      "id": "f1c70c621881",
       "source": "Al Jazeera",
-      "headline": "OpenAI faces new lawsuits over Tumbler Ridge mass shooting tragedy",
-      "excerpt": "Multiple new cases have been filed against OpenAI, alleging ChatGPT played a role in the Tumbler Ridge mass shooting.",
-      "link": "https://www.aljazeera.com/economy/2026/9/2/openai-faces-new-lawsuits-over-tumbler-ridge-mass-shooting-tragedy?traffic_source=rss",
-      "published": "2026-09-02T22:15:32+00:00",
+      "headline": "Tens of thousands rally across Spain over Ceuta migrant crisis",
+      "excerpt": "Tens of thousands rallied across Spain protesting the government's handling of the Ceuta migrant crisis.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/3/aje-onl-nf_mass-protests-across-spain-020926?traffic_source=rss",
+      "published": "2026-09-03T03:06:00+00:00",
+      "featured": true
+    },
+    {
+      "id": "fb0dbdae7967",
+      "source": "ProPublica",
+      "headline": "Trump’s DOJ Blocked Serious ICE Shooting Charge Over Federal Prosecutor’s “Strongest Possible” Objections",
+      "excerpt": "The post Trump’s DOJ Blocked Serious ICE Shooting Charge Over Federal Prosecutor’s “Strongest Possible” Objections appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/doj-blocks-charges-ice-agent-minneapolis-julio-cesar-sosa-celis",
+      "published": "2026-09-03T01:14:00+00:00",
+      "featured": true
+    },
+    {
+      "id": "f95c321b6f28",
+      "source": "ICIJ",
+      "headline": "Jury acquits Maltese business tycoon in the murder of Daphne Caruana Galizia",
+      "excerpt": "Yorgen Fenech was the last of seven men prosecuted for her 2017 assassination.",
+      "link": "https://www.icij.org/news/2026/09/jury-acquits-maltese-business-tycoon-in-the-murder-of-daphne-caruana-galizia/",
+      "published": "2026-09-02T22:36:34+00:00",
       "featured": true
     },
     {
@@ -17,7 +35,7 @@
       "excerpt": "A floating mass of trees and vegetation in British Columbia’s Williston Lake attracted international attention after it was filmed this summer by boaters—and then seemed to disappear.",
       "link": "https://www.404media.co/how-the-hell-did-an-island-suddenly-appear-then-vanish/",
       "published": "2026-09-02T18:43:42+00:00",
-      "featured": true
+      "featured": false
     },
     {
       "id": "f8fc4f0e9311",
@@ -26,7 +44,7 @@
       "excerpt": "Trump’s Justice Department filed a brief on behalf of OpenAI in a landmark copyright lawsuit by The Intercept and other media companies. The post Trump Admin Tells Court: Let OpenAI Rip Off The Intercept’s Articles...",
       "link": "https://theintercept.com/2026/09/02/trump-openai-copyright-lawsuit-news-articles/",
       "published": "2026-09-02T18:40:51+00:00",
-      "featured": true
+      "featured": false
     },
     {
       "id": "6efce1aefcc3",
@@ -65,30 +83,12 @@
       "featured": false
     },
     {
-      "id": "25e7adaf537a",
-      "source": "ICIJ",
-      "headline": "Big fines and settlements barely dent cancer drugmakers’ revenues, fail to deter wrongdoing",
-      "excerpt": "An ICIJ review found nearly $1.7 billion in settlements and fines over a 15 year period. But experts said many companies see the payouts as the cost of doing business.",
-      "link": "https://www.icij.org/investigations/cancer-calculus/big-fines-and-settlements-barely-dent-cancer-drugmakers-revenues-fail-to-deter-wrongdoing/",
-      "published": "2026-09-02T12:24:53+00:00",
-      "featured": false
-    },
-    {
       "id": "a88e8f92d1a5",
       "source": "The Markup",
       "headline": "Defense tech has unleashed a new weapons boom in Southern California",
       "excerpt": "An analysis of defense contracts charts the rise of defense spending — often in heavily Democratic districts",
       "link": "https://themarkup.org/news/2026/09/02/defense-tech-has-unleashed-a-new-weapons-boom-in-southern-california",
       "published": "2026-09-02T12:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "7d41b0b1d498",
-      "source": "ProPublica",
-      "headline": "New Mail Voting Rules Moved Forward Despite USPS Officials’ Concerns About Mass Disenfranchisement",
-      "excerpt": "The post New Mail Voting Rules Moved Forward Despite USPS Officials’ Concerns About Mass Disenfranchisement appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/mail-voting-usps-officials-concerns-disenfranchisement",
-      "published": "2026-09-02T11:00:00+00:00",
       "featured": false
     },
     {
@@ -110,12 +110,12 @@
       "featured": false
     },
     {
-      "id": "59bd5d28dd45",
+      "id": "139455018fb0",
       "source": "Al Jazeera",
-      "headline": "Republican senator calls on Trump to fire Secretary of Defence Hegseth",
-      "excerpt": "Senator Thom Tillis accuses Pentagon chief of 'inept mismanagement' as US military is strained by war on Iran.",
-      "link": "https://www.aljazeera.com/news/2026/9/2/republican-senator-calls-on-trump-to-fire-secretary-of-defence-hegseth?traffic_source=rss",
-      "published": "2026-09-02T21:37:41+00:00",
+      "headline": "Maltese tycoon acquitted of killing journalist Daphne Caruana Galizia",
+      "excerpt": "The last man prosecuted over the 2017 killing of Maltese journalist Daphne Caruana Galizia has been acquitted.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/3/maltese-tycoon-acquitted-of-killing-journalist-daphne-caruana-galizia?traffic_source=rss",
+      "published": "2026-09-03T03:00:27+00:00",
       "featured": false
     },
     {
@@ -155,12 +155,21 @@
       "featured": false
     },
     {
-      "id": "f11697eeb540",
+      "id": "25e7adaf537a",
+      "source": "ICIJ",
+      "headline": "Big fines and settlements barely dent cancer drugmakers’ revenues, fail to deter wrongdoing",
+      "excerpt": "An ICIJ review found nearly $1.7 billion in settlements and fines over a 15 year period. But experts said many companies see the payouts as the cost of doing business.",
+      "link": "https://www.icij.org/investigations/cancer-calculus/big-fines-and-settlements-barely-dent-cancer-drugmakers-revenues-fail-to-deter-wrongdoing/",
+      "published": "2026-09-02T12:24:53+00:00",
+      "featured": false
+    },
+    {
+      "id": "7d41b0b1d498",
       "source": "ProPublica",
-      "headline": "Several States Rejected This Private School Chain as a Charter. Now It’s Eligible for Texas’ Taxpayer-Funded Vouchers.",
-      "excerpt": "The post Several States Rejected This Private School Chain as a Charter. Now It’s Eligible for Texas’ Taxpayer-Funded Vouchers. appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/alpha-school-texas-vouchers-ai",
-      "published": "2026-09-02T10:00:00+00:00",
+      "headline": "New Mail Voting Rules Moved Forward Despite USPS Officials’ Concerns About Mass Disenfranchisement",
+      "excerpt": "The post New Mail Voting Rules Moved Forward Despite USPS Officials’ Concerns About Mass Disenfranchisement appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/mail-voting-usps-officials-concerns-disenfranchisement",
+      "published": "2026-09-02T11:00:00+00:00",
       "featured": false
     },
     {
@@ -182,15 +191,6 @@
       "featured": false
     },
     {
-      "id": "45a90264bcde",
-      "source": "ICIJ",
-      "headline": "Crypto giant Tether promised careful vetting. Some early customers were later implicated in financial crimes.",
-      "excerpt": "Financial records obtained by ICIJ show that they included individuals later accused of or sanctioned for money laundering and other financial crimes.",
-      "link": "https://www.icij.org/investigations/coin-laundry/crypto-giant-tether-promised-careful-vetting-some-early-customers-were-later-implicated-in-financial-crimes/",
-      "published": "2026-08-31T16:58:13+00:00",
-      "featured": false
-    },
-    {
       "id": "5922f7299c46",
       "source": "More Perfect Union",
       "headline": "I Tracked Down the Company Ruining Fruit",
@@ -209,12 +209,12 @@
       "featured": false
     },
     {
-      "id": "30c78b282755",
+      "id": "234b2b952ddf",
       "source": "Al Jazeera",
-      "headline": "Israeli PM says Israel is working to overthrow Iran’s government",
-      "excerpt": "Israeli Prime Minister Benjamin Netanyahu said on Wednesday that his country is working to overthrow Iran’s government.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/2/israeli-pm-says-israel-is-working-to-overthrow-irans-government?traffic_source=rss",
-      "published": "2026-09-02T21:23:55+00:00",
+      "headline": "US forces board and destroy alleged cartel boat in eastern Pacific",
+      "excerpt": "US forces boarded and sank a boat in the eastern Pacific saying it was a floating refueling station for drug-traffickers",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/3/us-forces-board-and-destroy-alleged-cartel-boat-in-eastern-pacific?traffic_source=rss",
+      "published": "2026-09-03T02:52:38+00:00",
       "featured": false
     },
     {
@@ -245,12 +245,12 @@
       "featured": false
     },
     {
-      "id": "93087043f223",
+      "id": "f11697eeb540",
       "source": "ProPublica",
-      "headline": "Hurricane Helene Killed His Wife and Destroyed His Mobile Home. New Tenants Are Now Renting the Same Flood-Prone Land.",
-      "excerpt": "The post Hurricane Helene Killed His Wife and Destroyed His Mobile Home. New Tenants Are Now Renting the Same Flood-Prone Land. appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/western-north-carolina-helene-mobile-home-fema-recovery",
-      "published": "2026-09-02T09:00:00+00:00",
+      "headline": "Several States Rejected This Private School Chain as a Charter. Now It’s Eligible for Texas’ Taxpayer-Funded Vouchers.",
+      "excerpt": "The post Several States Rejected This Private School Chain as a Charter. Now It’s Eligible for Texas’ Taxpayer-Funded Vouchers. appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/alpha-school-texas-vouchers-ai",
+      "published": "2026-09-02T10:00:00+00:00",
       "featured": false
     },
     {
@@ -269,6 +269,15 @@
       "excerpt": "As Israel continues to restrict the entry of engine oil and spare parts, Gaza’s strained network of generators, now its main source of electricity, is collapsing.",
       "link": "https://www.dropsitenews.com/p/gaza-engine-oil-generators-electricity-israeli-siege",
       "published": "2026-09-01T18:40:03+00:00",
+      "featured": false
+    },
+    {
+      "id": "45a90264bcde",
+      "source": "ICIJ",
+      "headline": "Crypto giant Tether promised careful vetting. Some early customers were later implicated in financial crimes.",
+      "excerpt": "Financial records obtained by ICIJ show that they included individuals later accused of or sanctioned for money laundering and other financial crimes.",
+      "link": "https://www.icij.org/investigations/coin-laundry/crypto-giant-tether-promised-careful-vetting-some-early-customers-were-later-implicated-in-financial-crimes/",
+      "published": "2026-08-31T16:58:13+00:00",
       "featured": false
     },
     {
@@ -299,21 +308,12 @@
       "featured": false
     },
     {
-      "id": "20326a28e45c",
-      "source": "ICIJ",
-      "headline": "Despite years of confiscations, the Met still holds hundreds of pieces linked to alleged trafficking and looting figures",
-      "excerpt": "Museum says it wants no stolen artwork and that it has initiated an expedited review of hundreds of works tied to specific dealers.",
-      "link": "https://www.icij.org/investigations/hidden-treasures/despite-years-of-confiscations-the-met-still-holds-hundreds-of-pieces-linked-to-alleged-trafficking-and-looting-figures/",
-      "published": "2026-08-20T11:54:56+00:00",
-      "featured": false
-    },
-    {
-      "id": "5fe109879b2c",
+      "id": "9d73bdf2589e",
       "source": "Al Jazeera",
-      "headline": "Children return to school in DR Congo amid growing concerns over Ebola",
-      "excerpt": "Children return to school in DR Congo amid growing concerns over Ebola",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/2/children-return-to-school-in-dr-congo-amid-growing-concerns-over-ebola?traffic_source=rss",
-      "published": "2026-09-02T21:21:36+00:00",
+      "headline": "Minneapolis shooting kills two, wounds three police officers",
+      "excerpt": "Police say suspected gunman is also dead and that several people, including three officers, were wounded.",
+      "link": "https://www.aljazeera.com/news/2026/9/3/minneapolis-shooting-kills-two-wounds-three-police-officers?traffic_source=rss",
+      "published": "2026-09-03T02:18:21+00:00",
       "featured": false
     },
     {
@@ -332,6 +332,15 @@
       "excerpt": "",
       "link": "https://www.occrp.org/en/news/ukraine-busts-crypto-fraud-network-targeting-eu-victims",
       "published": "2026-09-02T11:58:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "93087043f223",
+      "source": "ProPublica",
+      "headline": "Hurricane Helene Killed His Wife and Destroyed His Mobile Home. New Tenants Are Now Renting the Same Flood-Prone Land.",
+      "excerpt": "The post Hurricane Helene Killed His Wife and Destroyed His Mobile Home. New Tenants Are Now Renting the Same Flood-Prone Land. appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/western-north-carolina-helene-mobile-home-fema-recovery",
+      "published": "2026-09-02T09:00:00+00:00",
       "featured": false
     },
     {
@@ -362,21 +371,21 @@
       "featured": false
     },
     {
-      "id": "51e52475acef",
-      "source": "ProPublica",
-      "headline": "The Scientist Trying to Keep Kratom Legal Has Not Disclosed Longstanding Ties to Kratom Lobbyists",
-      "excerpt": "The post The Scientist Trying to Keep Kratom Legal Has Not Disclosed Longstanding Ties to Kratom Lobbyists appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/kratom-legalization-christopher-mccurdy-research-conflict-of-interest-aka",
-      "published": "2026-09-01T14:35:00+00:00",
-      "featured": false
-    },
-    {
       "id": "2cd6099c1fac",
       "source": "Rest of World",
       "headline": "I went to China to see a different AI future. It looked familiar",
       "excerpt": "My trip to China revealed an AI race that looks less like a clash of competing visions, and more like two countries racing toward a similar future.",
       "link": "https://restofworld.org/2026/china-us-ai-future/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "published": "2026-08-28T13:00:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "20326a28e45c",
+      "source": "ICIJ",
+      "headline": "Despite years of confiscations, the Met still holds hundreds of pieces linked to alleged trafficking and looting figures",
+      "excerpt": "Museum says it wants no stolen artwork and that it has initiated an expedited review of hundreds of works tied to specific dealers.",
+      "link": "https://www.icij.org/investigations/hidden-treasures/despite-years-of-confiscations-the-met-still-holds-hundreds-of-pieces-linked-to-alleged-trafficking-and-looting-figures/",
+      "published": "2026-08-20T11:54:56+00:00",
       "featured": false
     },
     {
@@ -389,21 +398,12 @@
       "featured": false
     },
     {
-      "id": "bae449c52e51",
-      "source": "ICIJ",
-      "headline": "Kazakhstan alleges Big Oil corruption tainted $10.7 billion in contracts, delayed key oil project",
-      "excerpt": "The allegations, which are at the heart of a confidential arbitration, signal an aggressive new stance by the Central Asian country toward longstanding international partners.",
-      "link": "https://www.icij.org/investigations/caspian-cabals/kazakhstan-alleges-big-oil-corruption-tainted-10-7-billion-in-contracts-delayed-key-oil-project/",
-      "published": "2026-08-14T05:08:39+00:00",
-      "featured": false
-    },
-    {
-      "id": "42e64caa8c66",
+      "id": "4f573630b2c1",
       "source": "Al Jazeera",
-      "headline": "Israel still wants to remove Palestinians from Gaza, defence minister says",
-      "excerpt": "Israel Katz says 'there is no real solution for Gaza' without de-populating the territory.",
-      "link": "https://www.aljazeera.com/news/2026/9/2/israel-still-wants-to-remove-palestinians-from-gaza-defence-minister-says?traffic_source=rss",
-      "published": "2026-09-02T21:19:32+00:00",
+      "headline": "Exclusive access as the search for Nepal’s tunnel workers intensifies",
+      "excerpt": "Al Jazeera’s Jessica Washington gets exclusive access to rescue crews in Rasuwa, Nepal, digging and blasting.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/3/exclusive-access-as-the-search-for-nepals-tunnel-workers-intensifies?traffic_source=rss",
+      "published": "2026-09-03T01:53:40+00:00",
       "featured": false
     },
     {
@@ -434,21 +434,21 @@
       "featured": false
     },
     {
+      "id": "51e52475acef",
+      "source": "ProPublica",
+      "headline": "The Scientist Trying to Keep Kratom Legal Has Not Disclosed Longstanding Ties to Kratom Lobbyists",
+      "excerpt": "The post The Scientist Trying to Keep Kratom Legal Has Not Disclosed Longstanding Ties to Kratom Lobbyists appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/kratom-legalization-christopher-mccurdy-research-conflict-of-interest-aka",
+      "published": "2026-09-01T14:35:00+00:00",
+      "featured": false
+    },
+    {
       "id": "182bb94c6e92",
       "source": "OCCRP",
       "headline": "Spain Arrests Germany’s Most Wanted Drug Trafficker",
       "excerpt": "",
       "link": "https://www.occrp.org/en/news/spain-arrests-germanys-most-wanted-drug-trafficker",
       "published": "2026-09-01T14:28:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "55d5f9654739",
-      "source": "ProPublica",
-      "headline": "Help Us Investigate Abusive Coaches in Youth Sports",
-      "excerpt": "The post Help Us Investigate Abusive Coaches in Youth Sports appeared first on ProPublica.",
-      "link": "https://www.propublica.org/getinvolved/help-us-investigate-abusive-coaches-youth-sports-aau",
-      "published": "2026-09-01T09:05:00+00:00",
       "featured": false
     },
     {
@@ -470,6 +470,15 @@
       "featured": false
     },
     {
+      "id": "bae449c52e51",
+      "source": "ICIJ",
+      "headline": "Kazakhstan alleges Big Oil corruption tainted $10.7 billion in contracts, delayed key oil project",
+      "excerpt": "The allegations, which are at the heart of a confidential arbitration, signal an aggressive new stance by the Central Asian country toward longstanding international partners.",
+      "link": "https://www.icij.org/investigations/caspian-cabals/kazakhstan-alleges-big-oil-corruption-tainted-10-7-billion-in-contracts-delayed-key-oil-project/",
+      "published": "2026-08-14T05:08:39+00:00",
+      "featured": false
+    },
+    {
       "id": "d6ff7788bec9",
       "source": "More Perfect Union",
       "headline": "The Data Center Secret in Trump’s Financial Disclosures",
@@ -479,21 +488,12 @@
       "featured": false
     },
     {
-      "id": "5b3f4d69ea45",
-      "source": "ICIJ",
-      "headline": "Alleged cartel boss Daniel Kinahan charged in Ireland following high security extradition",
-      "excerpt": "Kinahan was taken from Dubai to a Dublin court under armed escort and ordered to remain in prison while he awaits trial for his alleged part in running a global drug smuggling empire.",
-      "link": "https://www.icij.org/news/2026/08/alleged-cartel-boss-daniel-kinahan-charged-in-ireland-following-high-security-extradition/",
-      "published": "2026-08-10T22:44:19+00:00",
-      "featured": false
-    },
-    {
-      "id": "57dc19507c2d",
+      "id": "e63013ceedb2",
       "source": "Al Jazeera",
-      "headline": "Two Palestinians killed as settlers, Israeli forces raid West Bank village",
-      "excerpt": "Teenagers killed in settlers attack on al-Mughayyer as West Bank violence continues.",
-      "link": "https://www.aljazeera.com/news/2026/9/2/two-palestinian-killed-as-settlers-israeli-forces-raid-west-bank-village?traffic_source=rss",
-      "published": "2026-09-02T20:59:46+00:00",
+      "headline": "Trump threatens more strikes as death toll in Iran rises to 18",
+      "excerpt": "Trump says US can hit Iran 'anytime we want' as Tehran says deadly strikes, including on wedding party, a war crime.",
+      "link": "https://www.aljazeera.com/news/2026/9/3/trump-threatens-more-strikes-as-death-toll-in-iran-rises-to-19?traffic_source=rss",
+      "published": "2026-09-03T01:45:32+00:00",
       "featured": false
     },
     {
@@ -524,12 +524,12 @@
       "featured": false
     },
     {
-      "id": "7e198791bd81",
+      "id": "55d5f9654739",
       "source": "ProPublica",
-      "headline": "Homeland Security Opens Child Exploitation Probe Into Banned Texas Volleyball Coach",
-      "excerpt": "The post Homeland Security Opens Child Exploitation Probe Into Banned Texas Volleyball Coach appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/volleyball-coach-ryan-richardson-homeland-security-investigations-child-exploitation",
-      "published": "2026-09-01T09:00:00+00:00",
+      "headline": "Help Us Investigate Abusive Coaches in Youth Sports",
+      "excerpt": "The post Help Us Investigate Abusive Coaches in Youth Sports appeared first on ProPublica.",
+      "link": "https://www.propublica.org/getinvolved/help-us-investigate-abusive-coaches-youth-sports-aau",
+      "published": "2026-09-01T09:05:00+00:00",
       "featured": false
     },
     {
