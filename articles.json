@@ -1,14 +1,41 @@
 {
-  "generated_at": "2026-09-04T04:35:14.152909+00:00",
+  "generated_at": "2026-09-04T11:19:49.380237+00:00",
   "articles": [
     {
-      "id": "dd7ffa792d8d",
+      "id": "5a273fddb4ce",
       "source": "Al Jazeera",
-      "headline": "Entertainment over policy? White House arcade games ignite backlash",
-      "excerpt": "White House arcade games spark criticism for prioritising entertainment amid rising living costs and war concerns.",
-      "link": "https://www.aljazeera.com/economy/2026/9/4/entertainment-over-policy-white-house-arcade-games-ignite-backlash?traffic_source=rss",
-      "published": "2026-09-04T03:44:47+00:00",
+      "headline": "Iran war: Why US midterms could be a pivotal moment",
+      "excerpt": "Rising prices and opposition to war may pressure Trump to de-escalate until after the midterms, analysts say.",
+      "link": "https://www.aljazeera.com/news/2026/9/4/iran-war-why-us-midterms-could-be-a-pivotal-moment?traffic_source=rss",
+      "published": "2026-09-04T11:12:51+00:00",
       "featured": true
+    },
+    {
+      "id": "51d5fcf663ef",
+      "source": "The Intercept",
+      "headline": "25 Years After 9/11, Muslims Are Still Politicians’ Favorite Scapegoat",
+      "excerpt": "Rozina Ali on the rise of Islamophobia in America and the vague terrorism laws now being wielded against dissidents like the Prairieland protesters. The post 25 Years After 9/11, Muslims Are Still Politicians’ Favorite...",
+      "link": "https://theintercept.com/2026/09/04/911-muslim-islamophobia-terrorist/",
+      "published": "2026-09-04T10:00:00+00:00",
+      "featured": true
+    },
+    {
+      "id": "f89749ba53d0",
+      "source": "Rest of World",
+      "headline": "Chinese businesses are giving away AI tokens with coffee, credit cards, and dumplings",
+      "excerpt": "Five unexpected ways computing power is entering everyday life in the country.",
+      "link": "https://restofworld.org/2026/china-ai-tokens-consumer-rewards-credit-cards-telcos-deepseek/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "published": "2026-09-04T10:00:00+00:00",
+      "featured": true
+    },
+    {
+      "id": "63b7b1c93c57",
+      "source": "ProPublica",
+      "headline": "Regulators Knew This Marijuana Product Was Harming People. It Stayed on Shelves for More Than a Year.",
+      "excerpt": "The post Regulators Knew This Marijuana Product Was Harming People. It Stayed on Shelves for More Than a Year. appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/colorado-marijuana-enforcement-division-sima-sciences-midnight-drops",
+      "published": "2026-09-04T09:00:00+00:00",
+      "featured": false
     },
     {
       "id": "3cd2d8fbda7a",
@@ -17,7 +44,7 @@
       "excerpt": "Trump’s SEC is moving to let Wall Street firms fund the politicians who decide where your retirement savings are invested.",
       "link": "https://www.levernews.com/trumps-about-to-let-wall-street-pay-to-play-with-your-pension/",
       "published": "2026-09-04T02:02:19+00:00",
-      "featured": true
+      "featured": false
     },
     {
       "id": "3ddf83ed0acd",
@@ -26,15 +53,6 @@
       "excerpt": "Puntland security officials told Drop Site they expect the U.S. air campaign—and CIA operations—in Somalia to intensify.",
       "link": "https://www.dropsitenews.com/p/new-us-base-somalia-airstrikes-isis-al-shabaab-cia",
       "published": "2026-09-03T23:53:49+00:00",
-      "featured": true
-    },
-    {
-      "id": "a329ed07a020",
-      "source": "The Intercept",
-      "headline": "ICE Gave New Hires Access to Restricted Info on Palantir App Before They Passed Background Checks",
-      "excerpt": "Palantir created ELITE, a powerful new app for ICE to target immigrants. The feds never published a legally required privacy assessment for it. The post ICE Gave New Hires Access to Restricted Info on Palantir App...",
-      "link": "https://theintercept.com/2026/09/03/ice-palantir-privacy-personal-info-access/",
-      "published": "2026-09-03T16:26:09+00:00",
       "featured": false
     },
     {
@@ -65,24 +83,6 @@
       "featured": false
     },
     {
-      "id": "8a174d71a2e1",
-      "source": "Rest of World",
-      "headline": "I refused to train the AI that could replace me",
-      "excerpt": "AI companies are paying highly educated workers to teach machines the judgment they spent years developing — even when those systems could eventually replace them.",
-      "link": "https://restofworld.org/2026/ai-training-jobs-expert-replacement/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-      "published": "2026-09-03T10:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "ec9483534eb5",
-      "source": "ProPublica",
-      "headline": "These Judges Take Months to Decide If Immigrants Have Been Unlawfully Detained",
-      "excerpt": "The post These Judges Take Months to Decide If Immigrants Have Been Unlawfully Detained appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/ice-detention-judges-habeas-petitions",
-      "published": "2026-09-03T09:00:00+00:00",
-      "featured": false
-    },
-    {
       "id": "a093e4ce1268",
       "source": "More Perfect Union",
       "headline": "We Asked Gen Z How They Use AI. Their Answers Were Surprising. (ft. Bernie Sanders)",
@@ -110,12 +110,21 @@
       "featured": false
     },
     {
-      "id": "4194820ee104",
+      "id": "7b68519230be",
       "source": "Al Jazeera",
-      "headline": "OpenAI unveils GPT‑6 Astra amid rising scrutiny and safety concerns",
-      "excerpt": "OpenAI claims GPT-6 Astra is the most advanced AI model, amid escalating safety and ethical concerns.",
-      "link": "https://www.aljazeera.com/economy/2026/9/4/openai-unveils-gpt-6-astra-amid-rising-scrutiny-and-safety?traffic_source=rss",
-      "published": "2026-09-04T03:36:19+00:00",
+      "headline": "Reform UK officials step down as new funding scandal hits far-right party",
+      "excerpt": "Resignations come after documentary alleges party arranged for overseas company to fund polling.",
+      "link": "https://www.aljazeera.com/news/2026/9/4/reform-uk-officials-step-down-as-new-funding-scandal-hits-far-right-party?traffic_source=rss",
+      "published": "2026-09-04T10:26:42+00:00",
+      "featured": false
+    },
+    {
+      "id": "16db5de7339f",
+      "source": "The Intercept",
+      "headline": "Flock Donations to Local Politicians’ Groups Skyrocket as Protests Against AI Cameras Mount",
+      "excerpt": "Mayors and governors control many of Flock’s contracts for its AI-powered surveillance cameras. It’s donating to their associations. The post Flock Donations to Local Politicians’ Groups Skyrocket as Protests Against AI...",
+      "link": "https://theintercept.com/2026/09/04/flock-camera-surveillance-protest-donations/",
+      "published": "2026-09-04T09:00:00+00:00",
       "featured": false
     },
     {
@@ -137,21 +146,21 @@
       "featured": false
     },
     {
-      "id": "69fa582a4132",
-      "source": "The Intercept",
-      "headline": "“Board of Peace” Billionaire Backs AIPAC Fund Targeting Pro-Palestine Candidates",
-      "excerpt": "Marc Rowan, a Trump appointee overseeing Gaza’s redevelopment, has given $1.5 million to AIPAC’s super PAC this cycle. The post “Board of Peace” Billionaire Backs AIPAC Fund Targeting Pro-Palestine Candidates appeared...",
-      "link": "https://theintercept.com/2026/09/03/aipac-marc-rowan-donor-gaza-board-peace/",
+      "id": "8a174d71a2e1",
+      "source": "Rest of World",
+      "headline": "I refused to train the AI that could replace me",
+      "excerpt": "AI companies are paying highly educated workers to teach machines the judgment they spent years developing — even when those systems could eventually replace them.",
+      "link": "https://restofworld.org/2026/ai-training-jobs-expert-replacement/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "published": "2026-09-03T10:00:00+00:00",
       "featured": false
     },
     {
-      "id": "fb0dbdae7967",
+      "id": "ec9483534eb5",
       "source": "ProPublica",
-      "headline": "Trump’s DOJ Blocked Serious ICE Shooting Charge Over Federal Prosecutor’s “Strongest Possible” Objections",
-      "excerpt": "The post Trump’s DOJ Blocked Serious ICE Shooting Charge Over Federal Prosecutor’s “Strongest Possible” Objections appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/doj-blocks-charges-ice-agent-minneapolis-julio-cesar-sosa-celis",
-      "published": "2026-09-03T01:14:00+00:00",
+      "headline": "These Judges Take Months to Decide If Immigrants Have Been Unlawfully Detained",
+      "excerpt": "The post These Judges Take Months to Decide If Immigrants Have Been Unlawfully Detained appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/ice-detention-judges-habeas-petitions",
+      "published": "2026-09-03T09:00:00+00:00",
       "featured": false
     },
     {
@@ -182,15 +191,6 @@
       "featured": false
     },
     {
-      "id": "bd25bae7b32a",
-      "source": "Rest of World",
-      "headline": "Taiwan’s six-year hunt for China’s undercover chip labs",
-      "excerpt": "Previously unpublished government data reveals the scale of Taiwan’s crackdown on Chinese companies accused of hiding their ties while recruiting chip talent and pursuing sensitive technology.",
-      "link": "https://restofworld.org/2026/taiwan-china-chip-investigations/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-      "published": "2026-09-02T10:00:00+00:00",
-      "featured": false
-    },
-    {
       "id": "5922f7299c46",
       "source": "More Perfect Union",
       "headline": "I Tracked Down the Company Ruining Fruit",
@@ -209,12 +209,12 @@
       "featured": false
     },
     {
-      "id": "beed699bbb6e",
+      "id": "8ab3477c95bb",
       "source": "Al Jazeera",
-      "headline": "Missouri Supreme Court blocks Trump-backed map from November’s midterms",
-      "excerpt": "Republicans have pledged to appeal the ruling to the US Supreme Court with only months until the midterm elections.",
-      "link": "https://www.aljazeera.com/news/2026/9/4/missouri-supreme-court-blocks-trump-backed-map-from-novembers-midterms?traffic_source=rss",
-      "published": "2026-09-04T02:46:50+00:00",
+      "headline": "Argentina’s Milei threatens sanctions as he refocuses on Falklands",
+      "excerpt": "Argentina's president accused of political machinations as he eyes shifting US stance on Las Malvinas.",
+      "link": "https://www.aljazeera.com/news/2026/9/4/argentinas-milei-threatens-sanctions-as-he-refocuses-on-falklands?traffic_source=rss",
+      "published": "2026-09-04T10:17:47+00:00",
       "featured": false
     },
     {
@@ -227,6 +227,15 @@
       "featured": false
     },
     {
+      "id": "a329ed07a020",
+      "source": "The Intercept",
+      "headline": "ICE Gave New Hires Access to Restricted Info on Palantir App Before They Passed Background Checks",
+      "excerpt": "Palantir created ELITE, a powerful new app for ICE to target immigrants. The feds never published a legally required privacy assessment for it. The post ICE Gave New Hires Access to Restricted Info on Palantir App...",
+      "link": "https://theintercept.com/2026/09/03/ice-palantir-privacy-personal-info-access/",
+      "published": "2026-09-03T16:26:09+00:00",
+      "featured": false
+    },
+    {
       "id": "2291cda7bb07",
       "source": "Dropsite News",
       "headline": "ICE plans national voter database; NYC schools ban AI through 8th grade; Katz: Ethnic cleansing of Gaza the “only solution”",
@@ -236,12 +245,12 @@
       "featured": false
     },
     {
-      "id": "f8fc4f0e9311",
-      "source": "The Intercept",
-      "headline": "Trump Admin Tells Court: Let OpenAI Rip Off The Intercept’s Articles",
-      "excerpt": "Trump’s Justice Department filed a brief on behalf of OpenAI in a landmark copyright lawsuit by The Intercept and other media companies. The post Trump Admin Tells Court: Let OpenAI Rip Off The Intercept’s Articles...",
-      "link": "https://theintercept.com/2026/09/02/trump-openai-copyright-lawsuit-news-articles/",
-      "published": "2026-09-02T18:40:51+00:00",
+      "id": "fb0dbdae7967",
+      "source": "ProPublica",
+      "headline": "Trump’s DOJ Blocked Serious ICE Shooting Charge Over Federal Prosecutor’s “Strongest Possible” Objections",
+      "excerpt": "The post Trump’s DOJ Blocked Serious ICE Shooting Charge Over Federal Prosecutor’s “Strongest Possible” Objections appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/doj-blocks-charges-ice-agent-minneapolis-julio-cesar-sosa-celis",
+      "published": "2026-09-03T01:14:00+00:00",
       "featured": false
     },
     {
@@ -272,21 +281,12 @@
       "featured": false
     },
     {
-      "id": "7d41b0b1d498",
-      "source": "ProPublica",
-      "headline": "New Mail Voting Rules Moved Forward Despite USPS Officials’ Concerns About Mass Disenfranchisement",
-      "excerpt": "The post New Mail Voting Rules Moved Forward Despite USPS Officials’ Concerns About Mass Disenfranchisement appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/mail-voting-usps-officials-concerns-disenfranchisement",
-      "published": "2026-09-02T11:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "fe85c9d2b426",
+      "id": "bd25bae7b32a",
       "source": "Rest of World",
-      "headline": "AI safety is designed in the West, and failing users everywhere",
-      "excerpt": "OpenAI’s pause shows the risks of rapid AI development, as safety frameworks fail to account for non-Western languages and contexts where harms are felt most.",
-      "link": "https://restofworld.org/2026/ai-safety-bias/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-      "published": "2026-09-01T10:00:00+00:00",
+      "headline": "Taiwan’s six-year hunt for China’s undercover chip labs",
+      "excerpt": "Previously unpublished government data reveals the scale of Taiwan’s crackdown on Chinese companies accused of hiding their ties while recruiting chip talent and pursuing sensitive technology.",
+      "link": "https://restofworld.org/2026/taiwan-china-chip-investigations/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "published": "2026-09-02T10:00:00+00:00",
       "featured": false
     },
     {
@@ -308,12 +308,21 @@
       "featured": false
     },
     {
-      "id": "f86914cab5e2",
+      "id": "e9f69147d05f",
       "source": "Al Jazeera",
-      "headline": "Why did Trump meet with anti-Zionist Jewish leaders?",
-      "excerpt": "US President Donald Trump met six anti-Zionist rabbis privately amid protests over Israeli military conscription.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/4/why-did-trump-meet-with-anti-zionist-jewish-leaders?traffic_source=rss",
-      "published": "2026-09-04T02:21:20+00:00",
+      "headline": "‘Build The Wall’: White House arcade games face backlash",
+      "excerpt": "The White House has unveiled five arcade-style games to promote Trump's 'MAGA' agenda.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/4/build-the-wall-white-house-arcade-games-face-backlash?traffic_source=rss",
+      "published": "2026-09-04T10:10:58+00:00",
+      "featured": false
+    },
+    {
+      "id": "69fa582a4132",
+      "source": "The Intercept",
+      "headline": "“Board of Peace” Billionaire Backs AIPAC Fund Targeting Pro-Palestine Candidates",
+      "excerpt": "Marc Rowan, a Trump appointee overseeing Gaza’s redevelopment, has given $1.5 million to AIPAC’s super PAC this cycle. The post “Board of Peace” Billionaire Backs AIPAC Fund Targeting Pro-Palestine Candidates appeared...",
+      "link": "https://theintercept.com/2026/09/03/aipac-marc-rowan-donor-gaza-board-peace/",
+      "published": "2026-09-03T10:00:00+00:00",
       "featured": false
     },
     {
@@ -323,15 +332,6 @@
       "excerpt": "Democrats haven’t won a U.S. Senate seat in Maine since 1988 — but Republican incumbent Sen. Susan Collins isn’t out of the woods yet.",
       "link": "https://www.levernews.com/how-troy-jackson-can-put-collins-career-on-the-chopping-block/",
       "published": "2026-09-03T08:15:23+00:00",
-      "featured": false
-    },
-    {
-      "id": "7a8a2eefe181",
-      "source": "The Intercept",
-      "headline": "Seth Moulton Sold Out Trans Kids — and Lost His Senate Race",
-      "excerpt": "Running as a progressive, Massachusetts Sen. Ed Markey forced his centrist challenger to apologize for his anti-trans remarks. The post Seth Moulton Sold Out Trans Kids — and Lost His Senate Race appeared first on The...",
-      "link": "https://theintercept.com/2026/09/02/markey-moulton-massachusetts-senate-primary/",
-      "published": "2026-09-02T16:16:16+00:00",
       "featured": false
     },
     {
@@ -362,12 +362,21 @@
       "featured": false
     },
     {
-      "id": "f11697eeb540",
+      "id": "7d41b0b1d498",
       "source": "ProPublica",
-      "headline": "Several States Rejected This Private School Chain as a Charter. Now It’s Eligible for Texas’ Taxpayer-Funded Vouchers.",
-      "excerpt": "The post Several States Rejected This Private School Chain as a Charter. Now It’s Eligible for Texas’ Taxpayer-Funded Vouchers. appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/alpha-school-texas-vouchers-ai",
-      "published": "2026-09-02T10:00:00+00:00",
+      "headline": "New Mail Voting Rules Moved Forward Despite USPS Officials’ Concerns About Mass Disenfranchisement",
+      "excerpt": "The post New Mail Voting Rules Moved Forward Despite USPS Officials’ Concerns About Mass Disenfranchisement appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/mail-voting-usps-officials-concerns-disenfranchisement",
+      "published": "2026-09-02T11:00:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "fe85c9d2b426",
+      "source": "Rest of World",
+      "headline": "AI safety is designed in the West, and failing users everywhere",
+      "excerpt": "OpenAI’s pause shows the risks of rapid AI development, as safety frameworks fail to account for non-Western languages and contexts where harms are felt most.",
+      "link": "https://restofworld.org/2026/ai-safety-bias/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "published": "2026-09-01T10:00:00+00:00",
       "featured": false
     },
     {
@@ -380,15 +389,6 @@
       "featured": false
     },
     {
-      "id": "662981f79b69",
-      "source": "Rest of World",
-      "headline": "Meta accepts U.S. safety rules while pitching softer tools abroad",
-      "excerpt": "As governments consider banning social media for under-16s, Meta is turning to influencers to argue that parental controls are a better solution.",
-      "link": "https://restofworld.org/2026/meta-influencer-campaign-teen-accounts-under-16-social-media-ban/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-      "published": "2026-08-31T10:00:00+00:00",
-      "featured": false
-    },
-    {
       "id": "c05386da40a0",
       "source": "More Perfect Union",
       "headline": "We Uncovered Where Your Insurance Payments Are Really Going",
@@ -398,12 +398,21 @@
       "featured": false
     },
     {
-      "id": "64d2ce309dea",
+      "id": "b92cf961f978",
       "source": "Al Jazeera",
-      "headline": "Chile police and protesters clash outside far-right forum",
-      "excerpt": "Police and protesters have clashed in Chile’s capital, outside the summit of the far-right Madrid Forum.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/4/chile-police-and-protesters-clash-outside-far-right-forum?traffic_source=rss",
-      "published": "2026-09-04T01:54:57+00:00",
+      "headline": "Meloni sets a record, leading Italy’s longest-serving government since WWII",
+      "excerpt": "As supporters celebrate the milestone, analysts warn longevity is not tantamount to stability.",
+      "link": "https://www.aljazeera.com/news/2026/9/4/meloni-sets-a-record-leading-italys-longest-serving-government-since-wwii?traffic_source=rss",
+      "published": "2026-09-04T09:50:29+00:00",
+      "featured": false
+    },
+    {
+      "id": "f8fc4f0e9311",
+      "source": "The Intercept",
+      "headline": "Trump Admin Tells Court: Let OpenAI Rip Off The Intercept’s Articles",
+      "excerpt": "Trump’s Justice Department filed a brief on behalf of OpenAI in a landmark copyright lawsuit by The Intercept and other media companies. The post Trump Admin Tells Court: Let OpenAI Rip Off The Intercept’s Articles...",
+      "link": "https://theintercept.com/2026/09/02/trump-openai-copyright-lawsuit-news-articles/",
+      "published": "2026-09-02T18:40:51+00:00",
       "featured": false
     },
     {
@@ -425,15 +434,6 @@
       "featured": false
     },
     {
-      "id": "c6bef99f9e89",
-      "source": "The Intercept",
-      "headline": "ICE Is Paying a Controversial AI Firm to Hide the Identities of Agents",
-      "excerpt": "In a leaked memo, an ICE official tells employees the new AI tech will protect them from doxing. Some worry it could be used to root out whistleblowers. The post ICE Is Paying a Controversial AI Firm to Hide the...",
-      "link": "https://theintercept.com/2026/09/02/ice-ai-whistleblower-doxing-zerofox/",
-      "published": "2026-09-02T14:39:36+00:00",
-      "featured": false
-    },
-    {
       "id": "6e22f80e9c70",
       "source": "OCCRP",
       "headline": "Ukraine Busts Crypto Fraud Network Targeting EU Victims",
@@ -443,12 +443,12 @@
       "featured": false
     },
     {
-      "id": "93087043f223",
+      "id": "f11697eeb540",
       "source": "ProPublica",
-      "headline": "Hurricane Helene Killed His Wife and Destroyed His Mobile Home. New Tenants Are Now Renting the Same Flood-Prone Land.",
-      "excerpt": "The post Hurricane Helene Killed His Wife and Destroyed His Mobile Home. New Tenants Are Now Renting the Same Flood-Prone Land. appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/western-north-carolina-helene-mobile-home-fema-recovery",
-      "published": "2026-09-02T09:00:00+00:00",
+      "headline": "Several States Rejected This Private School Chain as a Charter. Now It’s Eligible for Texas’ Taxpayer-Funded Vouchers.",
+      "excerpt": "The post Several States Rejected This Private School Chain as a Charter. Now It’s Eligible for Texas’ Taxpayer-Funded Vouchers. appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/alpha-school-texas-vouchers-ai",
+      "published": "2026-09-02T10:00:00+00:00",
       "featured": false
     },
     {
@@ -461,12 +461,12 @@
       "featured": false
     },
     {
-      "id": "2cd6099c1fac",
+      "id": "662981f79b69",
       "source": "Rest of World",
-      "headline": "I went to China to see a different AI future. It looked familiar",
-      "excerpt": "My trip to China revealed an AI race that looks less like a clash of competing visions, and more like two countries racing toward a similar future.",
-      "link": "https://restofworld.org/2026/china-us-ai-future/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-      "published": "2026-08-28T13:00:00+00:00",
+      "headline": "Meta accepts U.S. safety rules while pitching softer tools abroad",
+      "excerpt": "As governments consider banning social media for under-16s, Meta is turning to influencers to argue that parental controls are a better solution.",
+      "link": "https://restofworld.org/2026/meta-influencer-campaign-teen-accounts-under-16-social-media-ban/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "published": "2026-08-31T10:00:00+00:00",
       "featured": false
     },
     {
@@ -488,12 +488,12 @@
       "featured": false
     },
     {
-      "id": "b0a2dc1cee41",
+      "id": "6dd1196f1f74",
       "source": "Al Jazeera",
-      "headline": "ICC leaders condemn efforts to erode international legal order",
-      "excerpt": "Efforts to isolate the International Criminal Court aim to undermine the global rule of law, leaders say.",
-      "link": "https://www.aljazeera.com/news/2026/9/4/icc-leaders-condemn-efforts-to-erode-international-legal-order?traffic_source=rss",
-      "published": "2026-09-04T01:51:34+00:00",
+      "headline": "Israel takes its war on Palestine into the AI age",
+      "excerpt": "The Hanover affair exposes a new front in Israel’s long-running effort to shape how Palestinians are understood.",
+      "link": "https://www.aljazeera.com/opinions/2026/9/4/israel-takes-its-war-on-palestine-into-the-ai-age?traffic_source=rss",
+      "published": "2026-09-04T09:42:02+00:00",
       "featured": false
     },
     {
@@ -506,6 +506,15 @@
       "featured": false
     },
     {
+      "id": "7a8a2eefe181",
+      "source": "The Intercept",
+      "headline": "Seth Moulton Sold Out Trans Kids — and Lost His Senate Race",
+      "excerpt": "Running as a progressive, Massachusetts Sen. Ed Markey forced his centrist challenger to apologize for his anti-trans remarks. The post Seth Moulton Sold Out Trans Kids — and Lost His Senate Race appeared first on The...",
+      "link": "https://theintercept.com/2026/09/02/markey-moulton-massachusetts-senate-primary/",
+      "published": "2026-09-02T16:16:16+00:00",
+      "featured": false
+    },
+    {
       "id": "8d0873b3dc3b",
       "source": "404 Media",
       "headline": "Cops Are Asking Axon to Make Their Cameras Look Different From Flock So People Don't Destroy Them",
@@ -515,11 +524,11 @@
       "featured": false
     },
     {
-      "id": "3c32562a2492",
-      "source": "The Intercept",
-      "headline": "The U.S. Has Killed 227 Civilians in Boat Strikes During “A Year of Murders”",
-      "excerpt": "“The boat strikes are, perhaps, the most stark testament to the lawlessness of the Trump administration.” The post The U.S. Has Killed 227 Civilians in Boat Strikes During “A Year of Murders” appeared first on The...",
-      "link": "https://theintercept.com/2026/09/02/military-boat-strikes-killings-year/",
+      "id": "93087043f223",
+      "source": "ProPublica",
+      "headline": "Hurricane Helene Killed His Wife and Destroyed His Mobile Home. New Tenants Are Now Renting the Same Flood-Prone Land.",
+      "excerpt": "The post Hurricane Helene Killed His Wife and Destroyed His Mobile Home. New Tenants Are Now Renting the Same Flood-Prone Land. appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/western-north-carolina-helene-mobile-home-fema-recovery",
       "published": "2026-09-02T09:00:00+00:00",
       "featured": false
     },
@@ -530,15 +539,6 @@
       "excerpt": "As Israel continues to restrict the entry of engine oil and spare parts, Gaza’s strained network of generators, now its main source of electricity, is collapsing.",
       "link": "https://www.dropsitenews.com/p/gaza-engine-oil-generators-electricity-israeli-siege",
       "published": "2026-09-01T18:40:03+00:00",
-      "featured": false
-    },
-    {
-      "id": "51e52475acef",
-      "source": "ProPublica",
-      "headline": "The Scientist Trying to Keep Kratom Legal Has Not Disclosed Longstanding Ties to Kratom Lobbyists",
-      "excerpt": "The post The Scientist Trying to Keep Kratom Legal Has Not Disclosed Longstanding Ties to Kratom Lobbyists appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/kratom-legalization-christopher-mccurdy-research-conflict-of-interest-aka",
-      "published": "2026-09-01T14:35:00+00:00",
       "featured": false
     }
   ]
