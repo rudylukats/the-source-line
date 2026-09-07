@@ -1,13 +1,31 @@
 {
-  "generated_at": "2026-09-07T04:43:03.362716+00:00",
+  "generated_at": "2026-09-07T12:34:24.870206+00:00",
   "articles": [
     {
-      "id": "581f75eeeb89",
+      "id": "1ee8582645b7",
       "source": "Al Jazeera",
-      "headline": "Philippines warns China may reassert itself amid US-South Korea drill cuts",
-      "excerpt": "Manila defence chief says Washington gave 'definite assurances' that its commitments to the Philippines remain.",
-      "link": "https://www.aljazeera.com/news/2026/9/7/philippines-warns-china-may-reassert-itself-amid-us-south-korea-drill-cuts?traffic_source=rss",
-      "published": "2026-09-07T03:59:39+00:00",
+      "headline": "Moment Amazon plane crash lands in Miami",
+      "excerpt": "Moment Amazon plane crash lands in Miami",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/7/moment-amazon-plane-crash-lands-in-miami?traffic_source=rss",
+      "published": "2026-09-07T12:03:32+00:00",
+      "featured": true
+    },
+    {
+      "id": "28fa29c17899",
+      "source": "OCCRP",
+      "headline": "Police Tapes Show Malta Businessman Acquitted of Journalist's Murder Said He Initially Approved the Plot",
+      "excerpt": "Police interrogation recordings released by the Times of Malta show businessman Yorgen Fenech admitted to initially greenlighting the 2017 assassination of journalist Daphne Caruana Galizia. He said he then retracted...",
+      "link": "https://www.occrp.org/en/news/police-tapes-show-malta-businessman-acquitted-of-journalists-murder-said-he-initially-approved-the-plot",
+      "published": "2026-09-07T11:18:00+00:00",
+      "featured": true
+    },
+    {
+      "id": "28f643fb0a6e",
+      "source": "The Intercept",
+      "headline": "Right-Wing Speech Crackdowns Turned Charlie Kirk Into a Meme",
+      "excerpt": "By elevating Kirk to a martyr, the right made his ridicule a logical reaction to their repression. The post Right-Wing Speech Crackdowns Turned Charlie Kirk Into a Meme appeared first on The Intercept.",
+      "link": "https://theintercept.com/2026/09/07/charlie-kirk-internet-meme/",
+      "published": "2026-09-07T10:00:00+00:00",
       "featured": true
     },
     {
@@ -17,16 +35,7 @@
       "excerpt": "Democrats get fracked, your pension gets played, and more from The Lever this week.",
       "link": "https://www.levernews.com/lever-weekly-natural-gaslighting/",
       "published": "2026-09-06T12:51:42+00:00",
-      "featured": true
-    },
-    {
-      "id": "32b69b44bac3",
-      "source": "The Intercept",
-      "headline": "A True-Crime Star’s Lurid Claims Sent a Man to Die. Her Key Witness Just Recanted.",
-      "excerpt": "The DNA expert at Jeff Prible’s trial accuses then-prosecutor Kelly Siegler of using his testimony in an “inflammatory” way. The post A True-Crime Star’s Lurid Claims Sent a Man to Die. Her Key Witness Just Recanted....",
-      "link": "https://theintercept.com/2026/09/06/kelly-siegler-prible-dna-death-penalty/",
-      "published": "2026-09-06T10:00:00+00:00",
-      "featured": true
+      "featured": false
     },
     {
       "id": "2cbcd0bd9038",
@@ -62,15 +71,6 @@
       "excerpt": "The post Ken Paxton’s Financial Disclosures Appear to Violate Federal Ethics Law, Experts Say appeared first on ProPublica.",
       "link": "https://www.propublica.org/article/ken-paxton-senate-financial-disclosures-ethics-law",
       "published": "2026-09-04T15:35:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "5276345776b9",
-      "source": "OCCRP",
-      "headline": "Lack of Oversight Fuels Power Sector Corruption, Iraqi Lawmaker Says",
-      "excerpt": "A senior lawmaker revealed plans for pre-approval contract oversight after court convictions exposed widespread bribery and illicit enrichment in public electricity deals.",
-      "link": "https://www.occrp.org/en/news/lack-of-oversight-fuels-power-sector-corruption-iraqi-lawmaker-says",
-      "published": "2026-09-04T15:22:00+00:00",
       "featured": false
     },
     {
@@ -110,12 +110,30 @@
       "featured": false
     },
     {
-      "id": "1035649f1862",
+      "id": "261923061cd5",
       "source": "Al Jazeera",
-      "headline": "Iran to announce restricted zone outside Strait of Hormuz",
-      "excerpt": "Iran's security chief Mohsen Rezaei says Tehran will announce a restricted zone around the Strait of Hormuz.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/7/aje-onl-nf_iran-to-announce-restricted-zone-around-hormuz-060926?traffic_source=rss",
-      "published": "2026-09-07T02:41:56+00:00",
+      "headline": "Could Trump’s Iran trade war threaten Spain’s saffron-infused paella?",
+      "excerpt": "US threats to punish Iran’s trade partners could disrupt Spain’s saffron supply, pressuring paella chefs and exporters.",
+      "link": "https://www.aljazeera.com/news/2026/9/7/could-trumps-iran-trade-war-threaten-spains-saffron-infused-paella?traffic_source=rss",
+      "published": "2026-09-07T12:00:07+00:00",
+      "featured": false
+    },
+    {
+      "id": "94ed1e431277",
+      "source": "OCCRP",
+      "headline": "Hungarian Media Tycoon’s Firm Formed Dubai Subsidiary While Under Investigation at Home",
+      "excerpt": "Hungarian authorities have frozen the accounts of firms owned by Gyula Balásy, an architect of former Prime Minister Viktor Orbán's “propaganda machine.” Documents show that one of those firms formed a subsidiary in...",
+      "link": "https://www.occrp.org/en/scoop/hungarian-media-tycoons-firm-formed-dubai-subsidiary-while-under-investigation-at-home",
+      "published": "2026-09-07T06:00:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "32b69b44bac3",
+      "source": "The Intercept",
+      "headline": "A True-Crime Star’s Lurid Claims Sent a Man to Die. Her Key Witness Just Recanted.",
+      "excerpt": "The DNA expert at Jeff Prible’s trial accuses then-prosecutor Kelly Siegler of using his testimony in an “inflammatory” way. The post A True-Crime Star’s Lurid Claims Sent a Man to Die. Her Key Witness Just Recanted....",
+      "link": "https://theintercept.com/2026/09/06/kelly-siegler-prible-dna-death-penalty/",
+      "published": "2026-09-06T10:00:00+00:00",
       "featured": false
     },
     {
@@ -125,15 +143,6 @@
       "excerpt": "A local ballot goes global, Flock gets the bird, a corporate protection plan gets burned, and your paycheck scores a win.",
       "link": "https://www.levernews.com/you-love-to-see-it-a-progressive-puts-human-rights-on-a-local-ballot/",
       "published": "2026-09-05T13:15:17+00:00",
-      "featured": false
-    },
-    {
-      "id": "700edf33da65",
-      "source": "The Intercept",
-      "headline": "Claudia Sheinbaum Wants to Ban Dual Citizens From Office to Shield Mexico From Trump",
-      "excerpt": "The leftist Mexican president seeks to block Washington's meddling with new citizenship requirements. Critics say it's authoritarian. The post Claudia Sheinbaum Wants to Ban Dual Citizens From Office to Shield Mexico...",
-      "link": "https://theintercept.com/2026/09/05/mexico-president-dual-citizenship/",
-      "published": "2026-09-05T10:00:00+00:00",
       "featured": false
     },
     {
@@ -161,15 +170,6 @@
       "excerpt": "A Flock webinar teaches police how to surveil protests, fireworks shows, parades, bike races, and more.",
       "link": "https://www.404media.co/flock-taught-cops-how-to-surveil-no-kings-protesters/",
       "published": "2026-09-03T15:49:18+00:00",
-      "featured": false
-    },
-    {
-      "id": "2c7d58b0aa1d",
-      "source": "OCCRP",
-      "headline": "Bosnian Police Intercept 96 Migrants, Identify Two Suspected Smugglers",
-      "excerpt": "",
-      "link": "https://www.occrp.org/en/news/bosnian-police-intercept-96-migrants-identify-two-suspected-smugglers",
-      "published": "2026-09-03T13:15:00+00:00",
       "featured": false
     },
     {
@@ -209,12 +209,21 @@
       "featured": false
     },
     {
-      "id": "254e5e8cfff9",
+      "id": "d08574c809b1",
       "source": "Al Jazeera",
-      "headline": "Australia’s proposed ‘opt out’ law targets Big Tech algorithms",
-      "excerpt": "Social media platforms face scrutiny over addictive algorithms; new law aims to give Australians greater feed control.",
-      "link": "https://www.aljazeera.com/news/2026/9/7/australias-proposed-opt-out-law-targets-big-tech-algorithms?traffic_source=rss",
-      "published": "2026-09-07T02:35:14+00:00",
+      "headline": "Balogun red card U-turn prompts Belgium to withdraw support for Infantino",
+      "excerpt": "Belgian football association says it will not back Infantino's bid for re-election, citing the World Cup controversy.",
+      "link": "https://www.aljazeera.com/sports/2026/9/7/balogun-red-card-u-turn-prompts-belgium-to-withdraw-support-for-infantino?traffic_source=rss",
+      "published": "2026-09-07T11:50:26+00:00",
+      "featured": false
+    },
+    {
+      "id": "700edf33da65",
+      "source": "The Intercept",
+      "headline": "Claudia Sheinbaum Wants to Ban Dual Citizens From Office to Shield Mexico From Trump",
+      "excerpt": "The leftist Mexican president seeks to block Washington's meddling with new citizenship requirements. Critics say it's authoritarian. The post Claudia Sheinbaum Wants to Ban Dual Citizens From Office to Shield Mexico...",
+      "link": "https://theintercept.com/2026/09/05/mexico-president-dual-citizenship/",
+      "published": "2026-09-05T10:00:00+00:00",
       "featured": false
     },
     {
@@ -236,12 +245,12 @@
       "featured": false
     },
     {
-      "id": "51d5fcf663ef",
-      "source": "The Intercept",
-      "headline": "25 Years After 9/11, Muslims Are Still Politicians’ Favorite Scapegoat",
-      "excerpt": "Rozina Ali on the rise of Islamophobia in America and the vague terrorism laws now being wielded against dissidents like the Prairieland protesters. The post 25 Years After 9/11, Muslims Are Still Politicians’ Favorite...",
-      "link": "https://theintercept.com/2026/09/04/911-muslim-islamophobia-terrorist/",
-      "published": "2026-09-04T10:00:00+00:00",
+      "id": "5276345776b9",
+      "source": "OCCRP",
+      "headline": "Lack of Oversight Fuels Power Sector Corruption, Iraqi Lawmaker Says",
+      "excerpt": "A senior lawmaker revealed plans for pre-approval contract oversight after court convictions exposed widespread bribery and illicit enrichment in public electricity deals.",
+      "link": "https://www.occrp.org/en/news/lack-of-oversight-fuels-power-sector-corruption-iraqi-lawmaker-says",
+      "published": "2026-09-04T15:22:00+00:00",
       "featured": false
     },
     {
@@ -260,15 +269,6 @@
       "excerpt": "A floating mass of trees and vegetation in British Columbia’s Williston Lake attracted international attention after it was filmed this summer by boaters—and then seemed to disappear.",
       "link": "https://www.404media.co/how-the-hell-did-an-island-suddenly-appear-then-vanish/",
       "published": "2026-09-02T18:43:42+00:00",
-      "featured": false
-    },
-    {
-      "id": "f2e1bfb3e540",
-      "source": "OCCRP",
-      "headline": "Businessman Acquitted of Commissioning Murder of Maltese Journalist Daphne Caruana Galizia",
-      "excerpt": "Businessman Yorgen Fenech, heir to one of Malta's largest business empires, has been found not guilty on charges of complicity and criminal association in the 2017 assassination of investigative journalist Daphne...",
-      "link": "https://www.occrp.org/en/project/the-daphne-project/businessman-acquitted-commissioning-daphne-murder",
-      "published": "2026-09-02T18:13:00+00:00",
       "featured": false
     },
     {
@@ -308,12 +308,12 @@
       "featured": false
     },
     {
-      "id": "bf408210e055",
+      "id": "524e029b4699",
       "source": "Al Jazeera",
-      "headline": "Eight-year-old Gaza girl killed by Israel on first day of school",
-      "excerpt": "An eight-year-old girl and her father were killed when an Israeli strike hit their vehicle on her first day of school.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/7/eight-year-old-gaza-girl-killed-by-israel-on-first-day-of-school?traffic_source=rss",
-      "published": "2026-09-07T02:17:17+00:00",
+      "headline": "Can Iran enforce a restricted zone in the Strait of Hormuz?",
+      "excerpt": "Iran unveils plans for a restricted zone, but will Tehran be able to enforce it amid escalating tensions with the US?",
+      "link": "https://www.aljazeera.com/news/2026/9/7/can-iran-enforce-a-restricted-zone-in-the-strait-of-hormuz?traffic_source=rss",
+      "published": "2026-09-07T11:37:46+00:00",
       "featured": false
     },
     {
@@ -326,12 +326,12 @@
       "featured": false
     },
     {
-      "id": "16db5de7339f",
+      "id": "51d5fcf663ef",
       "source": "The Intercept",
-      "headline": "Flock Donations to Local Politicians’ Groups Skyrocket as Protests Against AI Cameras Mount",
-      "excerpt": "Mayors and governors control many of Flock’s contracts for its AI-powered surveillance cameras. It’s donating to their associations. The post Flock Donations to Local Politicians’ Groups Skyrocket as Protests Against AI...",
-      "link": "https://theintercept.com/2026/09/04/flock-camera-surveillance-protest-donations/",
-      "published": "2026-09-04T09:00:00+00:00",
+      "headline": "25 Years After 9/11, Muslims Are Still Politicians’ Favorite Scapegoat",
+      "excerpt": "Rozina Ali on the rise of Islamophobia in America and the vague terrorism laws now being wielded against dissidents like the Prairieland protesters. The post 25 Years After 9/11, Muslims Are Still Politicians’ Favorite...",
+      "link": "https://theintercept.com/2026/09/04/911-muslim-islamophobia-terrorist/",
+      "published": "2026-09-04T10:00:00+00:00",
       "featured": false
     },
     {
@@ -341,6 +341,15 @@
       "excerpt": "Puntland security officials told Drop Site they expect the U.S. air campaign—and CIA operations—in Somalia to intensify.",
       "link": "https://www.dropsitenews.com/p/new-us-base-somalia-airstrikes-isis-al-shabaab-cia",
       "published": "2026-09-03T23:53:49+00:00",
+      "featured": false
+    },
+    {
+      "id": "2c7d58b0aa1d",
+      "source": "OCCRP",
+      "headline": "Bosnian Police Intercept 96 Migrants, Identify Two Suspected Smugglers",
+      "excerpt": "",
+      "link": "https://www.occrp.org/en/news/bosnian-police-intercept-96-migrants-identify-two-suspected-smugglers",
+      "published": "2026-09-03T13:15:00+00:00",
       "featured": false
     },
     {
@@ -359,15 +368,6 @@
       "excerpt": "An a16z article argues that enshittification isn’t real and that people actually love social media.",
       "link": "https://www.404media.co/a16z-says-you-actually-love-social-media-enshittification-isnt-real/",
       "published": "2026-09-02T16:04:27+00:00",
-      "featured": false
-    },
-    {
-      "id": "e16f294d65b6",
-      "source": "OCCRP",
-      "headline": "Ukraine Presidential Chief Responds to Alleged Laundering Role",
-      "excerpt": "Kyrylo Budanov, the head of Ukraine’s Presidential Office, has responded for the first time to recordings that appear to implicate him in an alleged scheme to launder $3.3 million for a former minister’s bail, saying...",
-      "link": "https://www.occrp.org/en/news/ukraine-presidential-chief-responds-to-alleged-laundering-role",
-      "published": "2026-09-02T14:58:00+00:00",
       "featured": false
     },
     {
@@ -398,12 +398,12 @@
       "featured": false
     },
     {
-      "id": "9d868490c82d",
+      "id": "3a817854625d",
       "source": "Al Jazeera",
-      "headline": "Adidas faces boycott over amputee campaign featuring Israeli soldier",
-      "excerpt": "Adidas is facing calls for a boycott after featuring a former Israeli soldier in a campaign for amputees.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/7/adidas-faces-boycott-over-amputee-campaign-featuring-israeli-soldier?traffic_source=rss",
-      "published": "2026-09-07T02:12:35+00:00",
+      "headline": "Champions League: Five key talking points for the 2026-27 season",
+      "excerpt": "Arsenal and Bayern lead the challengers to PSG, Mourinho aims for glory with Real and Italian minnows Como make debut.",
+      "link": "https://www.aljazeera.com/sports/2026/9/7/champions-league-five-key-talking-points-for-the-2026-27-season?traffic_source=rss",
+      "published": "2026-09-07T11:34:15+00:00",
       "featured": false
     },
     {
@@ -416,6 +416,15 @@
       "featured": false
     },
     {
+      "id": "16db5de7339f",
+      "source": "The Intercept",
+      "headline": "Flock Donations to Local Politicians’ Groups Skyrocket as Protests Against AI Cameras Mount",
+      "excerpt": "Mayors and governors control many of Flock’s contracts for its AI-powered surveillance cameras. It’s donating to their associations. The post Flock Donations to Local Politicians’ Groups Skyrocket as Protests Against AI...",
+      "link": "https://theintercept.com/2026/09/04/flock-camera-surveillance-protest-donations/",
+      "published": "2026-09-04T09:00:00+00:00",
+      "featured": false
+    },
+    {
       "id": "18e4f04adabb",
       "source": "Dropsite News",
       "headline": "The Thousand Martyrs Cup: Football Returns to Palestine After Three Years of Genocide",
@@ -425,12 +434,12 @@
       "featured": false
     },
     {
-      "id": "a329ed07a020",
-      "source": "The Intercept",
-      "headline": "ICE Gave New Hires Access to Restricted Info on Palantir App Before They Passed Background Checks",
-      "excerpt": "Palantir created ELITE, a powerful new app for ICE to target immigrants. The feds never published a legally required privacy assessment for it. The post ICE Gave New Hires Access to Restricted Info on Palantir App...",
-      "link": "https://theintercept.com/2026/09/03/ice-palantir-privacy-personal-info-access/",
-      "published": "2026-09-03T16:26:09+00:00",
+      "id": "f2e1bfb3e540",
+      "source": "OCCRP",
+      "headline": "Businessman Acquitted of Commissioning Murder of Maltese Journalist Daphne Caruana Galizia",
+      "excerpt": "Businessman Yorgen Fenech, heir to one of Malta's largest business empires, has been found not guilty on charges of complicity and criminal association in the 2017 assassination of investigative journalist Daphne...",
+      "link": "https://www.occrp.org/en/project/the-daphne-project/businessman-acquitted-commissioning-daphne-murder",
+      "published": "2026-09-02T18:13:00+00:00",
       "featured": false
     },
     {
@@ -440,15 +449,6 @@
       "excerpt": "The incident shows how quickly police departments have come to use AI surveillance tools even in critically sensitive cases.",
       "link": "https://www.404media.co/texas-police-used-ai-to-write-report-about-using-flock-to-search-for-woman-who-had-abortion/",
       "published": "2026-09-02T15:57:29+00:00",
-      "featured": false
-    },
-    {
-      "id": "50f1ce35df2f",
-      "source": "OCCRP",
-      "headline": "Dutch Police Arrest 34 Following Drug-related Shootout",
-      "excerpt": "",
-      "link": "https://www.occrp.org/en/news/dutch-police-arrest-34-following-drug-related-shootout",
-      "published": "2026-09-02T13:10:00+00:00",
       "featured": false
     },
     {
@@ -488,12 +488,12 @@
       "featured": false
     },
     {
-      "id": "f255287e9cbb",
+      "id": "658f904ed572",
       "source": "Al Jazeera",
-      "headline": "Jamaica to file slavery reparations petition during UK visit",
-      "excerpt": "Petition to King Charles questions the legality of slavery under English law and UK’s responsibility for reparations.",
-      "link": "https://www.aljazeera.com/news/2026/9/7/jamaica-to-file-slavery-reparations-petition-during-uk-visit?traffic_source=rss",
-      "published": "2026-09-07T01:34:57+00:00",
+      "headline": "Iran and Ukraine wars: Why ship fuel is running short, and why it matters",
+      "excerpt": "There's less crude in the market, and refiners prefer to produce diesel. The result: Ships are running short of fuel.",
+      "link": "https://www.aljazeera.com/news/2026/9/7/iran-and-ukraine-wars-why-ship-fuel-is-running-short-and-why-it-matters?traffic_source=rss",
+      "published": "2026-09-07T11:26:27+00:00",
       "featured": false
     },
     {
@@ -506,21 +506,21 @@
       "featured": false
     },
     {
+      "id": "a329ed07a020",
+      "source": "The Intercept",
+      "headline": "ICE Gave New Hires Access to Restricted Info on Palantir App Before They Passed Background Checks",
+      "excerpt": "Palantir created ELITE, a powerful new app for ICE to target immigrants. The feds never published a legally required privacy assessment for it. The post ICE Gave New Hires Access to Restricted Info on Palantir App...",
+      "link": "https://theintercept.com/2026/09/03/ice-palantir-privacy-personal-info-access/",
+      "published": "2026-09-03T16:26:09+00:00",
+      "featured": false
+    },
+    {
       "id": "2291cda7bb07",
       "source": "Dropsite News",
       "headline": "ICE plans national voter database; NYC schools ban AI through 8th grade; Katz: Ethnic cleansing of Gaza the “only solution”",
       "excerpt": "Drop Site Daily: September 3, 2026",
       "link": "https://www.dropsitenews.com/p/ice-voter-database-new-york-schools-ai-israel-gaza-katz",
       "published": "2026-09-03T16:23:52+00:00",
-      "featured": false
-    },
-    {
-      "id": "69fa582a4132",
-      "source": "The Intercept",
-      "headline": "“Board of Peace” Billionaire Backs AIPAC Fund Targeting Pro-Palestine Candidates",
-      "excerpt": "Marc Rowan, a Trump appointee overseeing Gaza’s redevelopment, has given $1.5 million to AIPAC’s super PAC this cycle. The post “Board of Peace” Billionaire Backs AIPAC Fund Targeting Pro-Palestine Candidates appeared...",
-      "link": "https://theintercept.com/2026/09/03/aipac-marc-rowan-donor-gaza-board-peace/",
-      "published": "2026-09-03T10:00:00+00:00",
       "featured": false
     },
     {
@@ -533,12 +533,12 @@
       "featured": false
     },
     {
-      "id": "6e22f80e9c70",
+      "id": "e16f294d65b6",
       "source": "OCCRP",
-      "headline": "Ukraine Busts Crypto Fraud Network Targeting EU Victims",
-      "excerpt": "",
-      "link": "https://www.occrp.org/en/news/ukraine-busts-crypto-fraud-network-targeting-eu-victims",
-      "published": "2026-09-02T11:58:00+00:00",
+      "headline": "Ukraine Presidential Chief Responds to Alleged Laundering Role",
+      "excerpt": "Kyrylo Budanov, the head of Ukraine’s Presidential Office, has responded for the first time to recordings that appear to implicate him in an alleged scheme to launder $3.3 million for a former minister’s bail, saying...",
+      "link": "https://www.occrp.org/en/news/ukraine-presidential-chief-responds-to-alleged-laundering-role",
+      "published": "2026-09-02T14:58:00+00:00",
       "featured": false
     }
   ]
