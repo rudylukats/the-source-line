@@ -1,14 +1,41 @@
 {
-  "generated_at": "2026-09-08T04:37:57.041163+00:00",
+  "generated_at": "2026-09-08T11:20:46.947149+00:00",
   "articles": [
     {
-      "id": "0e1f792e022a",
+      "id": "e0ae79b247ed",
       "source": "Al Jazeera",
-      "headline": "Polls suggest tight presidential race as Brazil marks Independence Day",
-      "excerpt": "Brazil has marked Independence Day with the two main candidates for October’s presidential election holding events.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/8/polls-suggest-tight-presidential-race-as-brazil-marks-independence-day?traffic_source=rss",
-      "published": "2026-09-08T04:29:33+00:00",
+      "headline": "Saudi political analyst says ‘No prolonged war with the Houthis’",
+      "excerpt": "Khaled Batarfi, a Saudi political analyst, says the war with the Houthis will not be ‘prolonged’.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/8/saudi-political-analyst-says-no-prolonged-war-with-the?traffic_source=rss",
+      "published": "2026-09-08T11:01:21+00:00",
       "featured": true
+    },
+    {
+      "id": "7ffeac867c1d",
+      "source": "The Intercept",
+      "headline": "The Pentagon Asked OpenAI for Artificial Intelligence Designed to Rarely Say No",
+      "excerpt": "The U.S. military’s desire for an AI tool with “minimal refusal rates” was revealed through a FOIA lawsuit filed by The Intercept. The post The Pentagon Asked OpenAI for Artificial Intelligence Designed to Rarely Say No...",
+      "link": "https://theintercept.com/2026/09/08/pentagon-openai-military-contract/",
+      "published": "2026-09-08T10:00:00+00:00",
+      "featured": true
+    },
+    {
+      "id": "90989d48c711",
+      "source": "Rest of World",
+      "headline": "Think your EV holds its value? China has some bad news for you",
+      "excerpt": "Used car dealers in the world’s biggest EV market are turning away 5-year-old cars, exposing a battery anxiety problem heading for Western buyers next.",
+      "link": "https://restofworld.org/2026/china-used-ev-depreciation-five-year-battery-warranty-dealers/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "published": "2026-09-08T10:00:00+00:00",
+      "featured": true
+    },
+    {
+      "id": "17978351110b",
+      "source": "ProPublica",
+      "headline": "This State Is Spending More on Lethal Injections. A Law Tries to Keep the Details Secret.",
+      "excerpt": "The post This State Is Spending More on Lethal Injections. A Law Tries to Keep the Details Secret. appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/georgia-lethal-injections-costs-secrecy",
+      "published": "2026-09-08T09:00:00+00:00",
+      "featured": false
     },
     {
       "id": "4245733cf49e",
@@ -17,7 +44,7 @@
       "excerpt": "Thank you for three years, and for partying hard with us for two sold out nights of celebration IRL in NYC.",
       "link": "https://www.404media.co/three-year-anniversary-events-recap-2/",
       "published": "2026-09-07T16:44:20+00:00",
-      "featured": true
+      "featured": false
     },
     {
       "id": "3bb48a358349",
@@ -26,15 +53,6 @@
       "excerpt": "",
       "link": "https://www.occrp.org/en/news/ecuador-convicts-15-people-5-companies-in-398-million-drug-money-case",
       "published": "2026-09-07T14:19:00+00:00",
-      "featured": true
-    },
-    {
-      "id": "28f643fb0a6e",
-      "source": "The Intercept",
-      "headline": "Right-Wing Speech Crackdowns Turned Charlie Kirk Into a Meme",
-      "excerpt": "By elevating Kirk to a martyr, the right made his ridicule a logical reaction to their repression. The post Right-Wing Speech Crackdowns Turned Charlie Kirk Into a Meme appeared first on The Intercept.",
-      "link": "https://theintercept.com/2026/09/07/charlie-kirk-internet-meme/",
-      "published": "2026-09-07T10:00:00+00:00",
       "featured": false
     },
     {
@@ -65,24 +83,6 @@
       "featured": false
     },
     {
-      "id": "9c961f1068dc",
-      "source": "ProPublica",
-      "headline": "Ken Paxton’s Financial Disclosures Appear to Violate Federal Ethics Law, Experts Say",
-      "excerpt": "The post Ken Paxton’s Financial Disclosures Appear to Violate Federal Ethics Law, Experts Say appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/ken-paxton-senate-financial-disclosures-ethics-law",
-      "published": "2026-09-04T15:35:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "f89749ba53d0",
-      "source": "Rest of World",
-      "headline": "Chinese businesses are giving away AI tokens with coffee, credit cards, and dumplings",
-      "excerpt": "Five unexpected ways computing power is entering everyday life in the country.",
-      "link": "https://restofworld.org/2026/china-ai-tokens-consumer-rewards-credit-cards-telcos-deepseek/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-      "published": "2026-09-04T10:00:00+00:00",
-      "featured": false
-    },
-    {
       "id": "b12eadf3c22f",
       "source": "ICIJ",
       "headline": "White House pick to run Venezuela oil deal under investigation in two countries",
@@ -110,12 +110,21 @@
       "featured": false
     },
     {
-      "id": "31cb6d7bded1",
+      "id": "df3136d17dd5",
       "source": "Al Jazeera",
-      "headline": "Houthi attacks on Saudi Arabia have wounded 73 civilians, official says",
-      "excerpt": "Spokesperson for Saudi-led coalition says Houthis have targeted civilian sites in Abha, Khamis Mushait, Jazan and Najran.",
-      "link": "https://www.aljazeera.com/news/2026/9/8/houthi-attacks-on-saudi-arabia-have-wounded-73-civilians-official-says?traffic_source=rss",
-      "published": "2026-09-08T04:26:16+00:00",
+      "headline": "‘Limit overshoot, peak, decline’: A new global goal for climate change?",
+      "excerpt": "The world agreed to limit temperature rises in 2015; that aim is proving impossible. Is it time for a course correction?",
+      "link": "https://www.aljazeera.com/features/2026/9/8/limit-overshoot-peak-decline-a-new-global-goal-for-climate-change?traffic_source=rss",
+      "published": "2026-09-08T10:58:21+00:00",
+      "featured": false
+    },
+    {
+      "id": "0b23ed82adcd",
+      "source": "The Intercept",
+      "headline": "AI Giants Work Hand-in-Hand With the Pentagon, Contracts Reveal",
+      "excerpt": "The Intercept sued to obtain records that reveal an intimate relationship between the military and OpenAI, Anthropic, Google, and xAI. The post AI Giants Work Hand-in-Hand With the Pentagon, Contracts Reveal appeared...",
+      "link": "https://theintercept.com/2026/09/08/military-ai-weapons-contracts-openai-anthropic-google/",
+      "published": "2026-09-08T09:00:00+00:00",
       "featured": false
     },
     {
@@ -125,15 +134,6 @@
       "excerpt": "",
       "link": "https://www.occrp.org/en/news/ecstasy-bust-in-malaysia-leaves-alleged-syndicate-boss-dead",
       "published": "2026-09-07T12:33:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "32b69b44bac3",
-      "source": "The Intercept",
-      "headline": "A True-Crime Star’s Lurid Claims Sent a Man to Die. Her Key Witness Just Recanted.",
-      "excerpt": "The DNA expert at Jeff Prible’s trial accuses then-prosecutor Kelly Siegler of using his testimony in an “inflammatory” way. The post A True-Crime Star’s Lurid Claims Sent a Man to Die. Her Key Witness Just Recanted....",
-      "link": "https://theintercept.com/2026/09/06/kelly-siegler-prible-dna-death-penalty/",
-      "published": "2026-09-06T10:00:00+00:00",
       "featured": false
     },
     {
@@ -164,21 +164,21 @@
       "featured": false
     },
     {
-      "id": "63b7b1c93c57",
+      "id": "9c961f1068dc",
       "source": "ProPublica",
-      "headline": "Regulators Knew This Marijuana Product Was Harming People. It Stayed on Shelves for More Than a Year.",
-      "excerpt": "The post Regulators Knew This Marijuana Product Was Harming People. It Stayed on Shelves for More Than a Year. appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/colorado-marijuana-enforcement-division-sima-sciences-midnight-drops",
-      "published": "2026-09-04T09:00:00+00:00",
+      "headline": "Ken Paxton’s Financial Disclosures Appear to Violate Federal Ethics Law, Experts Say",
+      "excerpt": "The post Ken Paxton’s Financial Disclosures Appear to Violate Federal Ethics Law, Experts Say appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/ken-paxton-senate-financial-disclosures-ethics-law",
+      "published": "2026-09-04T15:35:00+00:00",
       "featured": false
     },
     {
-      "id": "8a174d71a2e1",
+      "id": "f89749ba53d0",
       "source": "Rest of World",
-      "headline": "I refused to train the AI that could replace me",
-      "excerpt": "AI companies are paying highly educated workers to teach machines the judgment they spent years developing — even when those systems could eventually replace them.",
-      "link": "https://restofworld.org/2026/ai-training-jobs-expert-replacement/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-      "published": "2026-09-03T10:00:00+00:00",
+      "headline": "Chinese businesses are giving away AI tokens with coffee, credit cards, and dumplings",
+      "excerpt": "Five unexpected ways computing power is entering everyday life in the country.",
+      "link": "https://restofworld.org/2026/china-ai-tokens-consumer-rewards-credit-cards-telcos-deepseek/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "published": "2026-09-04T10:00:00+00:00",
       "featured": false
     },
     {
@@ -209,12 +209,12 @@
       "featured": false
     },
     {
-      "id": "0cb986b9c954",
+      "id": "c099bffe04e0",
       "source": "Al Jazeera",
-      "headline": "‘House moved like jelly’ says resident near Bolivia barracks blast",
-      "excerpt": "Reports are emerging from the powerful explosion at a military barracks in Bolivia that killed at least nine people.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/8/aje-onl-nf_nine-killed-in-bolivia-military-base-explosion-080926?traffic_source=rss",
-      "published": "2026-09-08T04:24:37+00:00",
+      "headline": "What to watch in the US’s New Hampshire and Rhode Island primary elections",
+      "excerpt": "Some of the US midterm election's biggest themes will play out in these New England states' most notable races.",
+      "link": "https://www.aljazeera.com/news/2026/9/8/what-to-watch-in-the-uss-new-hampshire-and-rhode-island-primary-elections?traffic_source=rss",
+      "published": "2026-09-08T10:41:21+00:00",
       "featured": false
     },
     {
@@ -227,12 +227,12 @@
       "featured": false
     },
     {
-      "id": "700edf33da65",
+      "id": "28f643fb0a6e",
       "source": "The Intercept",
-      "headline": "Claudia Sheinbaum Wants to Ban Dual Citizens From Office to Shield Mexico From Trump",
-      "excerpt": "The leftist Mexican president seeks to block Washington's meddling with new citizenship requirements. Critics say it's authoritarian. The post Claudia Sheinbaum Wants to Ban Dual Citizens From Office to Shield Mexico...",
-      "link": "https://theintercept.com/2026/09/05/mexico-president-dual-citizenship/",
-      "published": "2026-09-05T10:00:00+00:00",
+      "headline": "Right-Wing Speech Crackdowns Turned Charlie Kirk Into a Meme",
+      "excerpt": "By elevating Kirk to a martyr, the right made his ridicule a logical reaction to their repression. The post Right-Wing Speech Crackdowns Turned Charlie Kirk Into a Meme appeared first on The Intercept.",
+      "link": "https://theintercept.com/2026/09/07/charlie-kirk-internet-meme/",
+      "published": "2026-09-07T10:00:00+00:00",
       "featured": false
     },
     {
@@ -254,6 +254,15 @@
       "featured": false
     },
     {
+      "id": "63b7b1c93c57",
+      "source": "ProPublica",
+      "headline": "Regulators Knew This Marijuana Product Was Harming People. It Stayed on Shelves for More Than a Year.",
+      "excerpt": "The post Regulators Knew This Marijuana Product Was Harming People. It Stayed on Shelves for More Than a Year. appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/colorado-marijuana-enforcement-division-sima-sciences-midnight-drops",
+      "published": "2026-09-04T09:00:00+00:00",
+      "featured": false
+    },
+    {
       "id": "622b1dd452e8",
       "source": "404 Media",
       "headline": "Flock Taught Cops How to Surveil No Kings Protesters",
@@ -263,12 +272,12 @@
       "featured": false
     },
     {
-      "id": "ec9483534eb5",
-      "source": "ProPublica",
-      "headline": "These Judges Take Months to Decide If Immigrants Have Been Unlawfully Detained",
-      "excerpt": "The post These Judges Take Months to Decide If Immigrants Have Been Unlawfully Detained appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/ice-detention-judges-habeas-petitions",
-      "published": "2026-09-03T09:00:00+00:00",
+      "id": "8a174d71a2e1",
+      "source": "Rest of World",
+      "headline": "I refused to train the AI that could replace me",
+      "excerpt": "AI companies are paying highly educated workers to teach machines the judgment they spent years developing — even when those systems could eventually replace them.",
+      "link": "https://restofworld.org/2026/ai-training-jobs-expert-replacement/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "published": "2026-09-03T10:00:00+00:00",
       "featured": false
     },
     {
@@ -278,15 +287,6 @@
       "excerpt": "An ICIJ review found nearly $1.7 billion in settlements and fines over a 15 year period. But experts said many companies see the payouts as the cost of doing business.",
       "link": "https://www.icij.org/investigations/cancer-calculus/big-fines-and-settlements-barely-dent-cancer-drugmakers-revenues-fail-to-deter-wrongdoing/",
       "published": "2026-09-02T12:24:53+00:00",
-      "featured": false
-    },
-    {
-      "id": "bd25bae7b32a",
-      "source": "Rest of World",
-      "headline": "Taiwan’s six-year hunt for China’s undercover chip labs",
-      "excerpt": "Previously unpublished government data reveals the scale of Taiwan’s crackdown on Chinese companies accused of hiding their ties while recruiting chip talent and pursuing sensitive technology.",
-      "link": "https://restofworld.org/2026/taiwan-china-chip-investigations/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-      "published": "2026-09-02T10:00:00+00:00",
       "featured": false
     },
     {
@@ -308,12 +308,12 @@
       "featured": false
     },
     {
-      "id": "58af129c07c1",
+      "id": "daa4475c589a",
       "source": "Al Jazeera",
-      "headline": "Real Madrid vs Inter: Champions League – preview, team news, prediction",
-      "excerpt": "Mourinho kicks off the record 15-time Champions League winners' European campaign against Serie A champions Inter.",
-      "link": "https://www.aljazeera.com/sports/2026/9/8/real-madrid-vs-inter-champions-league-preview-team-news?traffic_source=rss",
-      "published": "2026-09-08T04:16:55+00:00",
+      "headline": "Three paintings worth $10m stolen from Renoir Museum in southern France",
+      "excerpt": "The two thieves had attempted to steal a fourth painting, but abandoned it as they ran from the museum.",
+      "link": "https://www.aljazeera.com/news/2026/9/8/three-paintings-worth-10m-stolen-from-renoir-museum-in-southern-france?traffic_source=rss",
+      "published": "2026-09-08T10:35:40+00:00",
       "featured": false
     },
     {
@@ -326,21 +326,21 @@
       "featured": false
     },
     {
+      "id": "32b69b44bac3",
+      "source": "The Intercept",
+      "headline": "A True-Crime Star’s Lurid Claims Sent a Man to Die. Her Key Witness Just Recanted.",
+      "excerpt": "The DNA expert at Jeff Prible’s trial accuses then-prosecutor Kelly Siegler of using his testimony in an “inflammatory” way. The post A True-Crime Star’s Lurid Claims Sent a Man to Die. Her Key Witness Just Recanted....",
+      "link": "https://theintercept.com/2026/09/06/kelly-siegler-prible-dna-death-penalty/",
+      "published": "2026-09-06T10:00:00+00:00",
+      "featured": false
+    },
+    {
       "id": "614d33e83b23",
       "source": "The Lever",
       "headline": "Chris Deluzio On John Fetterman: “A Failure Of Leadership”",
       "excerpt": "Deluzio, a populist Democratic PA congressman, told The Lever it’s gotten so bad he might try to primary his state’s senior senator in 2028.",
       "link": "https://www.levernews.com/chris-deluzio-on-john-fetterman-a-failure-of-leadership/",
       "published": "2026-09-04T19:29:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "51d5fcf663ef",
-      "source": "The Intercept",
-      "headline": "25 Years After 9/11, Muslims Are Still Politicians’ Favorite Scapegoat",
-      "excerpt": "Rozina Ali on the rise of Islamophobia in America and the vague terrorism laws now being wielded against dissidents like the Prairieland protesters. The post 25 Years After 9/11, Muslims Are Still Politicians’ Favorite...",
-      "link": "https://theintercept.com/2026/09/04/911-muslim-islamophobia-terrorist/",
-      "published": "2026-09-04T10:00:00+00:00",
       "featured": false
     },
     {
@@ -353,12 +353,12 @@
       "featured": false
     },
     {
-      "id": "fb0dbdae7967",
+      "id": "ec9483534eb5",
       "source": "ProPublica",
-      "headline": "Trump’s DOJ Blocked Serious ICE Shooting Charge Over Federal Prosecutor’s “Strongest Possible” Objections",
-      "excerpt": "The post Trump’s DOJ Blocked Serious ICE Shooting Charge Over Federal Prosecutor’s “Strongest Possible” Objections appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/doj-blocks-charges-ice-agent-minneapolis-julio-cesar-sosa-celis",
-      "published": "2026-09-03T01:14:00+00:00",
+      "headline": "These Judges Take Months to Decide If Immigrants Have Been Unlawfully Detained",
+      "excerpt": "The post These Judges Take Months to Decide If Immigrants Have Been Unlawfully Detained appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/ice-detention-judges-habeas-petitions",
+      "published": "2026-09-03T09:00:00+00:00",
       "featured": false
     },
     {
@@ -371,12 +371,12 @@
       "featured": false
     },
     {
-      "id": "fe85c9d2b426",
+      "id": "bd25bae7b32a",
       "source": "Rest of World",
-      "headline": "AI safety is designed in the West, and failing users everywhere",
-      "excerpt": "OpenAI’s pause shows the risks of rapid AI development, as safety frameworks fail to account for non-Western languages and contexts where harms are felt most.",
-      "link": "https://restofworld.org/2026/ai-safety-bias/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-      "published": "2026-09-01T10:00:00+00:00",
+      "headline": "Taiwan’s six-year hunt for China’s undercover chip labs",
+      "excerpt": "Previously unpublished government data reveals the scale of Taiwan’s crackdown on Chinese companies accused of hiding their ties while recruiting chip talent and pursuing sensitive technology.",
+      "link": "https://restofworld.org/2026/taiwan-china-chip-investigations/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "published": "2026-09-02T10:00:00+00:00",
       "featured": false
     },
     {
@@ -398,12 +398,21 @@
       "featured": false
     },
     {
-      "id": "df7d0f38a697",
+      "id": "4db0ccecf4f2",
       "source": "Al Jazeera",
-      "headline": "Flash floods fill the streets of a neighbourhood in central Morocco",
-      "excerpt": "Videos show floodwaters swamping homes, shops and streets in Azilal in central Morocco, after heavy thunderstorms.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/8/flash-floods-fill-the-streets-of-a-neighbourhood-in-central-morocco?traffic_source=rss",
-      "published": "2026-09-08T04:01:18+00:00",
+      "headline": "How South Korea finds itself trapped in the US-Iran war",
+      "excerpt": "Washington is pressuring a reluctant Seoul to support its naval blockade of Iran; Tehran is threatening consequences.",
+      "link": "https://www.aljazeera.com/news/2026/9/8/how-south-korea-finds-itself-trapped-in-the-us-iran-war?traffic_source=rss",
+      "published": "2026-09-08T10:00:52+00:00",
+      "featured": false
+    },
+    {
+      "id": "700edf33da65",
+      "source": "The Intercept",
+      "headline": "Claudia Sheinbaum Wants to Ban Dual Citizens From Office to Shield Mexico From Trump",
+      "excerpt": "The leftist Mexican president seeks to block Washington's meddling with new citizenship requirements. Critics say it's authoritarian. The post Claudia Sheinbaum Wants to Ban Dual Citizens From Office to Shield Mexico...",
+      "link": "https://theintercept.com/2026/09/05/mexico-president-dual-citizenship/",
+      "published": "2026-09-05T10:00:00+00:00",
       "featured": false
     },
     {
@@ -425,21 +434,21 @@
       "featured": false
     },
     {
-      "id": "16db5de7339f",
-      "source": "The Intercept",
-      "headline": "Flock Donations to Local Politicians’ Groups Skyrocket as Protests Against AI Cameras Mount",
-      "excerpt": "Mayors and governors control many of Flock’s contracts for its AI-powered surveillance cameras. It’s donating to their associations. The post Flock Donations to Local Politicians’ Groups Skyrocket as Protests Against AI...",
-      "link": "https://theintercept.com/2026/09/04/flock-camera-surveillance-protest-donations/",
-      "published": "2026-09-04T09:00:00+00:00",
-      "featured": false
-    },
-    {
       "id": "18e4f04adabb",
       "source": "Dropsite News",
       "headline": "The Thousand Martyrs Cup: Football Returns to Palestine After Three Years of Genocide",
       "excerpt": "The resumption of the Palestinian Football Association's leagues is being met by players and coaches with a mix of despair and resilience.",
       "link": "https://www.dropsitenews.com/p/the-thousand-martyrs-cup-football",
       "published": "2026-09-03T21:47:29+00:00",
+      "featured": false
+    },
+    {
+      "id": "fb0dbdae7967",
+      "source": "ProPublica",
+      "headline": "Trump’s DOJ Blocked Serious ICE Shooting Charge Over Federal Prosecutor’s “Strongest Possible” Objections",
+      "excerpt": "The post Trump’s DOJ Blocked Serious ICE Shooting Charge Over Federal Prosecutor’s “Strongest Possible” Objections appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/doj-blocks-charges-ice-agent-minneapolis-julio-cesar-sosa-celis",
+      "published": "2026-09-03T01:14:00+00:00",
       "featured": false
     },
     {
@@ -452,21 +461,12 @@
       "featured": false
     },
     {
-      "id": "7d41b0b1d498",
-      "source": "ProPublica",
-      "headline": "New Mail Voting Rules Moved Forward Despite USPS Officials’ Concerns About Mass Disenfranchisement",
-      "excerpt": "The post New Mail Voting Rules Moved Forward Despite USPS Officials’ Concerns About Mass Disenfranchisement appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/mail-voting-usps-officials-concerns-disenfranchisement",
-      "published": "2026-09-02T11:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "662981f79b69",
+      "id": "fe85c9d2b426",
       "source": "Rest of World",
-      "headline": "Meta accepts U.S. safety rules while pitching softer tools abroad",
-      "excerpt": "As governments consider banning social media for under-16s, Meta is turning to influencers to argue that parental controls are a better solution.",
-      "link": "https://restofworld.org/2026/meta-influencer-campaign-teen-accounts-under-16-social-media-ban/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-      "published": "2026-08-31T10:00:00+00:00",
+      "headline": "AI safety is designed in the West, and failing users everywhere",
+      "excerpt": "OpenAI’s pause shows the risks of rapid AI development, as safety frameworks fail to account for non-Western languages and contexts where harms are felt most.",
+      "link": "https://restofworld.org/2026/ai-safety-bias/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "published": "2026-09-01T10:00:00+00:00",
       "featured": false
     },
     {
@@ -488,12 +488,12 @@
       "featured": false
     },
     {
-      "id": "8c2872e4b899",
+      "id": "244826542817",
       "source": "Al Jazeera",
-      "headline": "Canada’s retaliatory tariffs on $20bn of US goods take effect",
-      "excerpt": "Trade tensions soar as Canada matches US tariffs 'dollar-for-dollar', impacting 700 products and multiple industries.",
-      "link": "https://www.aljazeera.com/news/2026/9/8/canadas-retaliatory-tariffs-on-20bn-of-us-goods-take-effect?traffic_source=rss",
-      "published": "2026-09-08T04:01:12+00:00",
+      "headline": "Kenya offers amnesty for migrants after Burundians rush to leave",
+      "excerpt": "Government spokesman urges undocumented nationals from other East African countries to formally register at embassies.",
+      "link": "https://www.aljazeera.com/news/2026/9/8/kenya-offers-amnesty-for-migrants-after-burundians-rush-to-leave?traffic_source=rss",
+      "published": "2026-09-08T09:53:13+00:00",
       "featured": false
     },
     {
@@ -506,12 +506,12 @@
       "featured": false
     },
     {
-      "id": "a329ed07a020",
+      "id": "51d5fcf663ef",
       "source": "The Intercept",
-      "headline": "ICE Gave New Hires Access to Restricted Info on Palantir App Before They Passed Background Checks",
-      "excerpt": "Palantir created ELITE, a powerful new app for ICE to target immigrants. The feds never published a legally required privacy assessment for it. The post ICE Gave New Hires Access to Restricted Info on Palantir App...",
-      "link": "https://theintercept.com/2026/09/03/ice-palantir-privacy-personal-info-access/",
-      "published": "2026-09-03T16:26:09+00:00",
+      "headline": "25 Years After 9/11, Muslims Are Still Politicians’ Favorite Scapegoat",
+      "excerpt": "Rozina Ali on the rise of Islamophobia in America and the vague terrorism laws now being wielded against dissidents like the Prairieland protesters. The post 25 Years After 9/11, Muslims Are Still Politicians’ Favorite...",
+      "link": "https://theintercept.com/2026/09/04/911-muslim-islamophobia-terrorist/",
+      "published": "2026-09-04T10:00:00+00:00",
       "featured": false
     },
     {
