@@ -1,23 +1,50 @@
 {
-  "generated_at": "2026-09-10T04:44:10.999481+00:00",
+  "generated_at": "2026-09-10T11:20:53.600884+00:00",
   "articles": [
     {
-      "id": "0c470aa375f8",
-      "source": "Al Jazeera",
-      "headline": "Trump: Every American gets $5,000 if Republicans win House & Senate",
-      "excerpt": "Donald Trump promised a $5,000 ‘dividend’ to every adult US citizen.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/10/trump-every-american-gets-5000-if-republicans-win-house-senate?traffic_source=rss",
-      "published": "2026-09-10T04:25:50+00:00",
+      "id": "11246f5fca6a",
+      "source": "ProPublica",
+      "headline": "Empty Seat: U.S. Absent as Western Powers Meet on Wartime Protections for Civilians",
+      "excerpt": "The post Empty Seat: U.S. Absent as Western Powers Meet on Wartime Protections for Civilians appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/trump-hegseth-dod-nato-civilian-harm-reduction-absent",
+      "published": "2026-09-10T11:00:00+00:00",
       "featured": true
     },
     {
-      "id": "d8ea251e4b09",
-      "source": "ProPublica",
-      "headline": "U.S. Postal Service Failed to Properly Handle Some Ballots During This Year’s Primary Elections, Audit Finds",
-      "excerpt": "The post U.S. Postal Service Failed to Properly Handle Some Ballots During This Year’s Primary Elections, Audit Finds appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/postal-service-audit-primary-election-ballots",
-      "published": "2026-09-10T00:35:00+00:00",
+      "id": "6af80cd91630",
+      "source": "Al Jazeera",
+      "headline": "IAEA accuses Iran of ‘non-compliance’: Why, and what now?",
+      "excerpt": "Nuclear watchdog has gone more than a year without inspecting key sites; Iran says US attacks have made access unsafe.",
+      "link": "https://www.aljazeera.com/news/2026/9/10/iaea-accuses-iran-of-non-compliance-why-and-what-now?traffic_source=rss",
+      "published": "2026-09-10T10:59:39+00:00",
       "featured": true
+    },
+    {
+      "id": "f2fc1ddbbcff",
+      "source": "Rest of World",
+      "headline": "Google Earth’s AI experiment lasted 24 hours. The damage to trust will linger",
+      "excerpt": "A short-lived generative AI feature in Google Earth that allowed users to create fake satellite imagery shows the lasting effects of unvetted AI tools during a conflict.",
+      "link": "https://restofworld.org/2026/google-earth-ai-deepfake-iran-war/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "published": "2026-09-10T10:00:00+00:00",
+      "featured": true
+    },
+    {
+      "id": "a4095b9a9a10",
+      "source": "The Intercept",
+      "headline": "Fired After the Charlie Kirk Revenge Purge, They’re Still Unemployed",
+      "excerpt": "A year after his killing, people who lost their jobs for criticizing Charlie Kirk are still suffering under the erosion of free speech. The post Fired After the Charlie Kirk Revenge Purge, They’re Still Unemployed...",
+      "link": "https://theintercept.com/2026/09/10/charlie-kirk-fired-censorship-free-speech/",
+      "published": "2026-09-10T09:51:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "cf9ca8dbf12c",
+      "source": "The Lever",
+      "headline": "How Status Quo Democrats Could Create Another Trump",
+      "excerpt": "A new study suggests Democrats’ broken promises won’t just cost them elections — they could fuel an even more dangerous MAGA backlash.",
+      "link": "https://www.levernews.com/how-status-quo-democrats-could-create-another-trump/",
+      "published": "2026-09-10T07:01:03+00:00",
+      "featured": false
     },
     {
       "id": "34e933463ae6",
@@ -26,7 +53,7 @@
       "excerpt": "Mullenweg, co-founder of WordPress, wrote in a company-wide Slack messages on Wednesday, viewed by 404 Media, that board members \"conspired\" behind his back to vote to put him on leave.",
       "link": "https://www.404media.co/wordpress-automattic-ceo-matt-mullenweg-put-on-leave-of-absence/",
       "published": "2026-09-09T21:21:17+00:00",
-      "featured": true
+      "featured": false
     },
     {
       "id": "62fcd9ea011c",
@@ -35,15 +62,6 @@
       "excerpt": "We took Ro Khanna to Pennsylvania to talk to workers about AI, and how it could kill their jobs.",
       "link": "https://substack.perfectunion.us/p/silicon-valley-congressman-i-know",
       "published": "2026-09-09T19:18:21+00:00",
-      "featured": false
-    },
-    {
-      "id": "122a57e9dbee",
-      "source": "The Lever",
-      "headline": "Newsom Killed The AI Kill Switch",
-      "excerpt": "Before Big Tech researchers warned of a superintelligence doomsday, 2028 hopeful Gov. Gavin Newsom (D-Calif.) vetoed a bill that would have made AI “kill switches” mandatory.",
-      "link": "https://www.levernews.com/newsom-killed-the-kill-switch/",
-      "published": "2026-09-09T18:44:36+00:00",
       "featured": false
     },
     {
@@ -56,30 +74,12 @@
       "featured": false
     },
     {
-      "id": "bb249cbe10ca",
-      "source": "The Intercept",
-      "headline": "United Airlines Ships War Materiel to Israel Aboard Passenger Flights",
-      "excerpt": "The unfriendly skies: On United, your checked bags might be riding alongside some tank parts bound for Israel. The post United Airlines Ships War Materiel to Israel Aboard Passenger Flights appeared first on The...",
-      "link": "https://theintercept.com/2026/09/09/united-airlines-flights-israel-weapons-hardware-transport/",
-      "published": "2026-09-09T17:46:59+00:00",
-      "featured": false
-    },
-    {
       "id": "901c7cf95c6b",
       "source": "OCCRP",
       "headline": "Turkey Detains 24 in Belgium-Linked Drug Trafficking Probe",
       "excerpt": "",
       "link": "https://www.occrp.org/en/news/turkey-detains-24-in-belgium-linked-drug-trafficking-probe",
       "published": "2026-09-09T14:25:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "0695dbe46a7c",
-      "source": "Rest of World",
-      "headline": "Now it’s China’s experts who are gig workers training AI",
-      "excerpt": "Squeezed by a stagnant economy and state directives, China's underemployed lawyers, architects, and engineers are taking cheap gig work to teach AI their exact trades — just to pay this month's mortgage.",
-      "link": "https://restofworld.org/2026/china-expert-ai-trainers/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-      "published": "2026-09-09T10:00:00+00:00",
       "featured": false
     },
     {
@@ -110,12 +110,30 @@
       "featured": false
     },
     {
-      "id": "49de1519a3ad",
+      "id": "98274a8bafdb",
       "source": "Al Jazeera",
-      "headline": "Five dead, dozens missing in Philippines ferry fire",
-      "excerpt": "Coastguard says the ferry had 134 listed passengers and crew when it sank off the coast of Palawan.",
-      "link": "https://www.aljazeera.com/news/2026/9/10/five-dead-dozens-missing-in-philippines-ferry-fire?traffic_source=rss",
-      "published": "2026-09-10T03:43:18+00:00",
+      "headline": "Hong Kong court rules Dow Jones tried to stop journalist taking union role",
+      "excerpt": "Dow Jones was acquitted of the charge of dismissal over Selina Cheng's leadership role.",
+      "link": "https://www.aljazeera.com/news/2026/9/10/hong-kong-court-rules-dow-jones-tried-to-stop-journalist-taking-union-role?traffic_source=rss",
+      "published": "2026-09-10T10:48:51+00:00",
+      "featured": false
+    },
+    {
+      "id": "4d640e9e26e0",
+      "source": "ProPublica",
+      "headline": "25 Years After 9/11, Questions About the FBI’s Pursuit of Saudi Suspects in the Case Have Only Grown",
+      "excerpt": "The post 25 Years After 9/11, Questions About the FBI’s Pursuit of Saudi Suspects in the Case Have Only Grown appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/fbi-911-saudi-bayoumi-investigation",
+      "published": "2026-09-10T10:00:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "392b7e58d606",
+      "source": "The Intercept",
+      "headline": "Far-Right Hacker Touting Cyber Attacks on Leftist Sites Has Close Ties to Pentagon Influencer",
+      "excerpt": "DataRepublican, the X account of Pentagon employee Jennica Pounds, is frequently one of the first to post about hacks against the left. The post Far-Right Hacker Touting Cyber Attacks on Leftist Sites Has Close Ties to...",
+      "link": "https://theintercept.com/2026/09/10/datarepublican-influencer-noblogs-hack-pentagon/",
+      "published": "2026-09-10T08:00:00+00:00",
       "featured": false
     },
     {
@@ -128,12 +146,12 @@
       "featured": false
     },
     {
-      "id": "f3975c2c0e2a",
+      "id": "122a57e9dbee",
       "source": "The Lever",
-      "headline": "Midterm Madness: K Street Has Entered The Chat",
-      "excerpt": "Joe Crowley resurfaced on CNN to champion centrist Democrats — without dwelling on his lucrative second act representing corporate interests.",
-      "link": "https://www.levernews.com/midterm-madness-k-street-has-entered-the-chat/",
-      "published": "2026-09-09T18:42:03+00:00",
+      "headline": "Newsom Killed The AI Kill Switch",
+      "excerpt": "Before Big Tech researchers warned of a superintelligence doomsday, 2028 hopeful Gov. Gavin Newsom (D-Calif.) vetoed a bill that would have made AI “kill switches” mandatory.",
+      "link": "https://www.levernews.com/newsom-killed-the-kill-switch/",
+      "published": "2026-09-09T18:44:36+00:00",
       "featured": false
     },
     {
@@ -146,20 +164,11 @@
       "featured": false
     },
     {
-      "id": "7cebb56e835c",
-      "source": "ProPublica",
-      "headline": "Ectopic Pregnancy Deaths Have Nearly Doubled. It’s Worse in States With Abortion Bans.",
-      "excerpt": "The post Ectopic Pregnancy Deaths Have Nearly Doubled. It’s Worse in States With Abortion Bans. appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/ectopic-pregnancy-deaths-doubled-analysis",
-      "published": "2026-09-09T10:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "e62c2e545d75",
-      "source": "The Intercept",
-      "headline": "Cops Are Using Flock to Spy on People for the Crime of Standing Around",
-      "excerpt": "Police scanned Flock cameras in a single town in Illinois more than 1,200 times to investigate cases of loitering. The post Cops Are Using Flock to Spy on People for the Crime of Standing Around appeared first on The...",
-      "link": "https://theintercept.com/2026/09/09/flock-cameras-police-loitering-curfew-surveillance/",
+      "id": "0695dbe46a7c",
+      "source": "Rest of World",
+      "headline": "Now it’s China’s experts who are gig workers training AI",
+      "excerpt": "Squeezed by a stagnant economy and state directives, China's underemployed lawyers, architects, and engineers are taking cheap gig work to teach AI their exact trades — just to pay this month's mortgage.",
+      "link": "https://restofworld.org/2026/china-expert-ai-trainers/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "published": "2026-09-09T10:00:00+00:00",
       "featured": false
     },
@@ -170,15 +179,6 @@
       "excerpt": "Former Philippine House Speaker Martin Romualdez, a cousin of President Ferdinand Marcos Jr., has been arrested over allegations that he helped collect billions of pesos in kickbacks from government infrastructure...",
       "link": "https://www.occrp.org/en/news/philippine-ex-speaker-arrested-in-118m-plunder-case",
       "published": "2026-09-08T17:38:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "90989d48c711",
-      "source": "Rest of World",
-      "headline": "Think your EV holds its value? China has some bad news for you",
-      "excerpt": "Used car dealers in the world’s biggest EV market are turning away 5-year-old cars, exposing a battery anxiety problem heading for Western buyers next.",
-      "link": "https://restofworld.org/2026/china-used-ev-depreciation-five-year-battery-warranty-dealers/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-      "published": "2026-09-08T10:00:00+00:00",
       "featured": false
     },
     {
@@ -209,12 +209,30 @@
       "featured": false
     },
     {
-      "id": "f6070d53fb0c",
+      "id": "33488ffad7ad",
       "source": "Al Jazeera",
-      "headline": "Netanyahu to sue Haaretz over claims UAE warned him before October 7 attack",
-      "excerpt": "Israeli prime minister denies claim that UAE president warned him of Hamas plans before the 2023 attacks.",
-      "link": "https://www.aljazeera.com/news/2026/9/10/netanyahu-to-sue-haaretz-over-claims-uae-warned-him-before-october-7-attack?traffic_source=rss",
-      "published": "2026-09-10T03:14:52+00:00",
+      "headline": "How Ukraine’s deepest attack in Russia, on Arctic gas, signals new reach",
+      "excerpt": "Long-range Ukrainian drones hit Russia's key gas plants, raising questions about the conflict's next phase.",
+      "link": "https://www.aljazeera.com/news/2026/9/10/how-ukraines-deepest-attack-in-russia-on-arctic-gas-signals-new-reach?traffic_source=rss",
+      "published": "2026-09-10T10:38:53+00:00",
+      "featured": false
+    },
+    {
+      "id": "500fc8f76d34",
+      "source": "ProPublica",
+      "headline": "Got a Connection to Dominican Baseball? Text Us on WhatsApp.",
+      "excerpt": "The post Got a Connection to Dominican Baseball? Text Us on WhatsApp. appeared first on ProPublica.",
+      "link": "https://www.propublica.org/getinvolved/dominican-republic-baseball-whatsapp-line",
+      "published": "2026-09-10T09:04:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "f3975c2c0e2a",
+      "source": "The Lever",
+      "headline": "Midterm Madness: K Street Has Entered The Chat",
+      "excerpt": "Joe Crowley resurfaced on CNN to champion centrist Democrats — without dwelling on his lucrative second act representing corporate interests.",
+      "link": "https://www.levernews.com/midterm-madness-k-street-has-entered-the-chat/",
+      "published": "2026-09-09T18:42:03+00:00",
       "featured": false
     },
     {
@@ -227,21 +245,12 @@
       "featured": false
     },
     {
-      "id": "ba9f22c88fde",
-      "source": "ProPublica",
-      "headline": "I Wrote About His Wrongful Conviction. He Got Only 13 Years of Freedom Before Cancer Took His Life.",
-      "excerpt": "The post I Wrote About His Wrongful Conviction. He Got Only 13 Years of Freedom Before Cancer Took His Life. appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/wrongful-conviction-cancer-death",
-      "published": "2026-09-09T09:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "138206c315f3",
-      "source": "The Lever",
-      "headline": "Trump's Fed Chief Missed The AI-flation Memo",
-      "excerpt": "New Federal Reserve Chair Kevin Warsh ignored the U.S. central bank’s own research when he said AI’s economic impacts are unknown.",
-      "link": "https://www.levernews.com/trumps-fed-chief-missed-the-ai-flation-memo/",
-      "published": "2026-09-08T18:05:22+00:00",
+      "id": "bb249cbe10ca",
+      "source": "The Intercept",
+      "headline": "United Airlines Ships War Materiel to Israel Aboard Passenger Flights",
+      "excerpt": "The unfriendly skies: On United, your checked bags might be riding alongside some tank parts bound for Israel. The post United Airlines Ships War Materiel to Israel Aboard Passenger Flights appeared first on The...",
+      "link": "https://theintercept.com/2026/09/09/united-airlines-flights-israel-weapons-hardware-transport/",
+      "published": "2026-09-09T17:46:59+00:00",
       "featured": false
     },
     {
@@ -263,21 +272,12 @@
       "featured": false
     },
     {
-      "id": "1fa67ffdd9f2",
-      "source": "The Intercept",
-      "headline": "FAA Investigates Drone Pilot Who Films Animal Abusers",
-      "excerpt": "The cattle ranch at the center of the case demands strict drone regulations, saying legal flyovers threatened “food security.” The post FAA Investigates Drone Pilot Who Films Animal Abusers appeared first on The...",
-      "link": "https://theintercept.com/2026/09/08/faa-drone-pilot-animal-abuse-cattle-farm/",
-      "published": "2026-09-08T15:16:34+00:00",
-      "featured": false
-    },
-    {
-      "id": "f89749ba53d0",
+      "id": "90989d48c711",
       "source": "Rest of World",
-      "headline": "Chinese businesses are giving away AI tokens with coffee, credit cards, and dumplings",
-      "excerpt": "Five unexpected ways computing power is entering everyday life in the country.",
-      "link": "https://restofworld.org/2026/china-ai-tokens-consumer-rewards-credit-cards-telcos-deepseek/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-      "published": "2026-09-04T10:00:00+00:00",
+      "headline": "Think your EV holds its value? China has some bad news for you",
+      "excerpt": "Used car dealers in the world’s biggest EV market are turning away 5-year-old cars, exposing a battery anxiety problem heading for Western buyers next.",
+      "link": "https://restofworld.org/2026/china-used-ev-depreciation-five-year-battery-warranty-dealers/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "published": "2026-09-08T10:00:00+00:00",
       "featured": false
     },
     {
@@ -308,12 +308,21 @@
       "featured": false
     },
     {
-      "id": "64f6d7b40256",
+      "id": "e368c976a834",
       "source": "Al Jazeera",
-      "headline": "Why is Iran bombing Jordan’s Al-Azraq base?",
-      "excerpt": "Iran has increased its targeting of Jordan’s Muwaffaq Salti Air Base near Al-Azraq in recent weeks.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/10/why-is-iran-bombing-jordans-al-azraq-base?traffic_source=rss",
-      "published": "2026-09-10T03:02:18+00:00",
+      "headline": "Drone video shows aftermath of deadly ferry fire off the Philippines",
+      "excerpt": "Drone video from the Philippine Coast Guard shows smoke rising from the burned out MV June Aster off Palawan.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/10/drone-video-shows-aftermath-of-deadly-ferry-fire-off-the-philippines?traffic_source=rss",
+      "published": "2026-09-10T10:28:44+00:00",
+      "featured": false
+    },
+    {
+      "id": "60d2dca9dd01",
+      "source": "ProPublica",
+      "headline": "The Rising Baseball Star, a Fatal Car Crash and the Fixer",
+      "excerpt": "The post The Rising Baseball Star, a Fatal Car Crash and the Fixer appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/oneil-cruz-pittsburgh-pirates-santo-caraballo-car-crash-payments-dominican-republic",
+      "published": "2026-09-10T09:02:00+00:00",
       "featured": false
     },
     {
@@ -326,12 +335,21 @@
       "featured": false
     },
     {
-      "id": "640df604e761",
+      "id": "e62c2e545d75",
+      "source": "The Intercept",
+      "headline": "Cops Are Using Flock to Spy on People for the Crime of Standing Around",
+      "excerpt": "Police scanned Flock cameras in a single town in Illinois more than 1,200 times to investigate cases of loitering. The post Cops Are Using Flock to Spy on People for the Crime of Standing Around appeared first on The...",
+      "link": "https://theintercept.com/2026/09/09/flock-cameras-police-loitering-curfew-surveillance/",
+      "published": "2026-09-09T10:00:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "138206c315f3",
       "source": "The Lever",
-      "headline": "Newsom Wants An Economic “Reset.” His Record Says Different",
-      "excerpt": "Democrats’ identity crisis is on full display as the California governor soft-launches his campaign for president.",
-      "link": "https://www.levernews.com/newsom-wants-an-economic-reset-his-record-says-different/",
-      "published": "2026-09-08T17:42:37+00:00",
+      "headline": "Trump's Fed Chief Missed The AI-flation Memo",
+      "excerpt": "New Federal Reserve Chair Kevin Warsh ignored the U.S. central bank’s own research when he said AI’s economic impacts are unknown.",
+      "link": "https://www.levernews.com/trumps-fed-chief-missed-the-ai-flation-memo/",
+      "published": "2026-09-08T18:05:22+00:00",
       "featured": false
     },
     {
@@ -344,24 +362,6 @@
       "featured": false
     },
     {
-      "id": "7ffeac867c1d",
-      "source": "The Intercept",
-      "headline": "The Pentagon Asked OpenAI for Artificial Intelligence Designed to Rarely Say No",
-      "excerpt": "The U.S. military’s desire for an AI tool with “minimal refusal rates” was revealed through a FOIA lawsuit filed by The Intercept. The post The Pentagon Asked OpenAI for Artificial Intelligence Designed to Rarely Say No...",
-      "link": "https://theintercept.com/2026/09/08/pentagon-openai-military-contract/",
-      "published": "2026-09-08T10:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "17978351110b",
-      "source": "ProPublica",
-      "headline": "This State Is Spending More on Lethal Injections. A Law Tries to Keep the Details Secret.",
-      "excerpt": "The post This State Is Spending More on Lethal Injections. A Law Tries to Keep the Details Secret. appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/georgia-lethal-injections-costs-secrecy",
-      "published": "2026-09-08T09:00:00+00:00",
-      "featured": false
-    },
-    {
       "id": "b6ebb0e28d91",
       "source": "Dropsite News",
       "headline": "“I Still Hear the Voices”: Wedding Guests Recall Horror of U.S. Bombing in Southern Iran",
@@ -371,12 +371,12 @@
       "featured": false
     },
     {
-      "id": "8a174d71a2e1",
+      "id": "f89749ba53d0",
       "source": "Rest of World",
-      "headline": "I refused to train the AI that could replace me",
-      "excerpt": "AI companies are paying highly educated workers to teach machines the judgment they spent years developing — even when those systems could eventually replace them.",
-      "link": "https://restofworld.org/2026/ai-training-jobs-expert-replacement/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-      "published": "2026-09-03T10:00:00+00:00",
+      "headline": "Chinese businesses are giving away AI tokens with coffee, credit cards, and dumplings",
+      "excerpt": "Five unexpected ways computing power is entering everyday life in the country.",
+      "link": "https://restofworld.org/2026/china-ai-tokens-consumer-rewards-credit-cards-telcos-deepseek/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "published": "2026-09-04T10:00:00+00:00",
       "featured": false
     },
     {
@@ -398,12 +398,21 @@
       "featured": false
     },
     {
-      "id": "07ce6aed271e",
+      "id": "ed0f3917d2ba",
       "source": "Al Jazeera",
-      "headline": "Trump vows to be at centre of US midterms: Republican convention takeaways",
-      "excerpt": "Trump says, 'Pretend I’m on the ballot,' as he rallies Republicans ahead of challenging midterm elections.",
-      "link": "https://www.aljazeera.com/news/2026/9/10/trump-vows-to-be-at-centre-of-us-midterms-republican-convention-takeaways?traffic_source=rss",
-      "published": "2026-09-10T03:01:55+00:00",
+      "headline": "Protests turn violent in The Gambia over rolling blackouts",
+      "excerpt": "Protests turn violent in The Gambia over rolling blackouts",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/10/protests-turn-violent-in-the-gambia-over-rolling-blackouts?traffic_source=rss",
+      "published": "2026-09-10T10:25:21+00:00",
+      "featured": false
+    },
+    {
+      "id": "5024518061fd",
+      "source": "ProPublica",
+      "headline": "The Dominican Baseball Factory",
+      "excerpt": "The post The Dominican Baseball Factory appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/how-dominican-republic-baseball-factory-traps-players-mlb-santo-caraballo",
+      "published": "2026-09-10T09:00:00+00:00",
       "featured": false
     },
     {
@@ -416,30 +425,30 @@
       "featured": false
     },
     {
+      "id": "640df604e761",
+      "source": "The Lever",
+      "headline": "Newsom Wants An Economic “Reset.” His Record Says Different",
+      "excerpt": "Democrats’ identity crisis is on full display as the California governor soft-launches his campaign for president.",
+      "link": "https://www.levernews.com/newsom-wants-an-economic-reset-his-record-says-different/",
+      "published": "2026-09-08T17:42:37+00:00",
+      "featured": false
+    },
+    {
+      "id": "1fa67ffdd9f2",
+      "source": "The Intercept",
+      "headline": "FAA Investigates Drone Pilot Who Films Animal Abusers",
+      "excerpt": "The cattle ranch at the center of the case demands strict drone regulations, saying legal flyovers threatened “food security.” The post FAA Investigates Drone Pilot Who Films Animal Abusers appeared first on The...",
+      "link": "https://theintercept.com/2026/09/08/faa-drone-pilot-animal-abuse-cattle-farm/",
+      "published": "2026-09-08T15:16:34+00:00",
+      "featured": false
+    },
+    {
       "id": "004771718061",
       "source": "OCCRP",
       "headline": "Murder For Hire: Details Emerge About Alleged Cross-Border Plot to Kill Twin Brothers in Cyprus",
       "excerpt": "A Danish undercover officer posing as a hitman led police into an alleged murder-for-hire network, as money, weapons and suspected contract killers converged in Cyprus",
       "link": "https://www.occrp.org/en/news/murder-for-hire-details-emerge-about-cross-border-plot-to-kill-twin-brothers-in-cyprus",
       "published": "2026-09-08T13:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "0b23ed82adcd",
-      "source": "The Intercept",
-      "headline": "AI Giants Work Hand-in-Hand With the Pentagon, Contracts Reveal",
-      "excerpt": "The Intercept sued to obtain records that reveal an intimate relationship between the military and OpenAI, Anthropic, Google, and xAI. The post AI Giants Work Hand-in-Hand With the Pentagon, Contracts Reveal appeared...",
-      "link": "https://theintercept.com/2026/09/08/military-ai-weapons-contracts-openai-anthropic-google/",
-      "published": "2026-09-08T09:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "bebb34adb39d",
-      "source": "The Lever",
-      "headline": "Lever Weekly: Natural Gaslighting",
-      "excerpt": "Democrats get fracked, your pension gets played, and more from The Lever this week.",
-      "link": "https://www.levernews.com/lever-weekly-natural-gaslighting/",
-      "published": "2026-09-06T12:51:42+00:00",
       "featured": false
     },
     {
@@ -452,21 +461,12 @@
       "featured": false
     },
     {
-      "id": "9c961f1068dc",
-      "source": "ProPublica",
-      "headline": "Ken Paxton’s Financial Disclosures Appear to Violate Federal Ethics Law, Experts Say",
-      "excerpt": "The post Ken Paxton’s Financial Disclosures Appear to Violate Federal Ethics Law, Experts Say appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/ken-paxton-senate-financial-disclosures-ethics-law",
-      "published": "2026-09-04T15:35:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "bd25bae7b32a",
+      "id": "8a174d71a2e1",
       "source": "Rest of World",
-      "headline": "Taiwan’s six-year hunt for China’s undercover chip labs",
-      "excerpt": "Previously unpublished government data reveals the scale of Taiwan’s crackdown on Chinese companies accused of hiding their ties while recruiting chip talent and pursuing sensitive technology.",
-      "link": "https://restofworld.org/2026/taiwan-china-chip-investigations/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-      "published": "2026-09-02T10:00:00+00:00",
+      "headline": "I refused to train the AI that could replace me",
+      "excerpt": "AI companies are paying highly educated workers to teach machines the judgment they spent years developing — even when those systems could eventually replace them.",
+      "link": "https://restofworld.org/2026/ai-training-jobs-expert-replacement/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "published": "2026-09-03T10:00:00+00:00",
       "featured": false
     },
     {
@@ -488,12 +488,21 @@
       "featured": false
     },
     {
-      "id": "3ba5d779df83",
+      "id": "bae25f6580ae",
       "source": "Al Jazeera",
-      "headline": "Thousands protest in Ljubljana as Slovenia opens Israel’s first embassy",
-      "excerpt": "Nationalist Prime Minister Janez Jansa resets ties with Israel, sparking protests and an impeachment bid.",
-      "link": "https://www.aljazeera.com/news/2026/9/10/thousands-protest-in-ljubljana-as-slovenia-opens-israels-first-embassy?traffic_source=rss",
-      "published": "2026-09-10T02:54:38+00:00",
+      "headline": "Russia’s new shelling tactics deepen suffering in Ukraine",
+      "excerpt": "Ukrainians are losing more sleep, shopping for food is becoming harder and travel is often fraught with risk and delays.",
+      "link": "https://www.aljazeera.com/news/2026/9/10/russias-new-shelling-tactics-deepen-suffering-in-ukraine?traffic_source=rss",
+      "published": "2026-09-10T10:19:17+00:00",
+      "featured": false
+    },
+    {
+      "id": "d8ea251e4b09",
+      "source": "ProPublica",
+      "headline": "U.S. Postal Service Failed to Properly Handle Some Ballots During This Year’s Primary Elections, Audit Finds",
+      "excerpt": "The post U.S. Postal Service Failed to Properly Handle Some Ballots During This Year’s Primary Elections, Audit Finds appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/postal-service-audit-primary-election-ballots",
+      "published": "2026-09-10T00:35:00+00:00",
       "featured": false
     },
     {
@@ -506,6 +515,15 @@
       "featured": false
     },
     {
+      "id": "7ffeac867c1d",
+      "source": "The Intercept",
+      "headline": "The Pentagon Asked OpenAI for Artificial Intelligence Designed to Rarely Say No",
+      "excerpt": "The U.S. military’s desire for an AI tool with “minimal refusal rates” was revealed through a FOIA lawsuit filed by The Intercept. The post The Pentagon Asked OpenAI for Artificial Intelligence Designed to Rarely Say No...",
+      "link": "https://theintercept.com/2026/09/08/pentagon-openai-military-contract/",
+      "published": "2026-09-08T10:00:00+00:00",
+      "featured": false
+    },
+    {
       "id": "3bb48a358349",
       "source": "OCCRP",
       "headline": "Ecuador Convicts 15 People, 5 Companies in $398 Million Drug Money Case",
@@ -515,30 +533,12 @@
       "featured": false
     },
     {
-      "id": "28f643fb0a6e",
-      "source": "The Intercept",
-      "headline": "They Tried to Make Charlie Kirk a Saint. They Made Him a Meme.",
-      "excerpt": "By elevating Kirk to a martyr and clamping down on free speech, the right assured that he would be ridiculed even in death. The post They Tried to Make Charlie Kirk a Saint. They Made Him a Meme. appeared first on The...",
-      "link": "https://theintercept.com/2026/09/07/charlie-kirk-internet-meme/",
-      "published": "2026-09-07T10:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "ecd9fc07dfdd",
+      "id": "bebb34adb39d",
       "source": "The Lever",
-      "headline": "You Love To See It: A Progressive Puts Human Rights On A Local Ballot",
-      "excerpt": "A local ballot goes global, Flock gets the bird, a corporate protection plan gets burned, and your paycheck scores a win.",
-      "link": "https://www.levernews.com/you-love-to-see-it-a-progressive-puts-human-rights-on-a-local-ballot/",
-      "published": "2026-09-05T13:15:17+00:00",
-      "featured": false
-    },
-    {
-      "id": "e1d3936204fc",
-      "source": "Dropsite News",
-      "headline": "Jeffrey Sachs: America’s “Legacy of Delusion” Fueling Financial Bubble & Iran Failure",
-      "excerpt": "Jeffrey Sachs joins Drop Site’s Ryan Grim and Murtaza Hussain to discuss how Washington’s delusions about American power are fueling wars abroad and a financial bubble at home.",
-      "link": "https://www.dropsitenews.com/p/jeffrey-sachs-iran-war-financial-bubble",
-      "published": "2026-09-04T15:30:28+00:00",
+      "headline": "Lever Weekly: Natural Gaslighting",
+      "excerpt": "Democrats get fracked, your pension gets played, and more from The Lever this week.",
+      "link": "https://www.levernews.com/lever-weekly-natural-gaslighting/",
+      "published": "2026-09-06T12:51:42+00:00",
       "featured": false
     }
   ]
