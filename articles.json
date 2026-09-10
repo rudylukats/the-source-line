@@ -1,6 +1,33 @@
 {
-  "generated_at": "2026-09-10T11:20:53.600884+00:00",
+  "generated_at": "2026-09-10T16:25:03.284326+00:00",
   "articles": [
+    {
+      "id": "c4963c00e4ec",
+      "source": "Al Jazeera",
+      "headline": "UN expert Albanese, protesters warn against Italy’s anti-Semitism bill",
+      "excerpt": "Protesters in Rome and UN Special Rapporteur Francesca Albanese, warn proposed law could silence criticism of Israel.",
+      "link": "https://www.aljazeera.com/news/2026/9/10/un-expert-albanese-protesters-warn-against-italys-anti-semitism-bill?traffic_source=rss",
+      "published": "2026-09-10T15:46:52+00:00",
+      "featured": true
+    },
+    {
+      "id": "d7e05152a567",
+      "source": "Dropsite News",
+      "headline": "Ansarallah advances on Bab al-Mandab; Trump offers to pay Americans $5,000 for midterm votes; U.S. kills 3 in Caribbean boat strike",
+      "excerpt": "Drop Site Daily: September 10, 2026",
+      "link": "https://www.dropsitenews.com/p/yemen-ansarallah-bab-mandab-trump-midterm-votes-us-caribbean-boat-strike",
+      "published": "2026-09-10T14:34:59+00:00",
+      "featured": true
+    },
+    {
+      "id": "309fa9f3c906",
+      "source": "OCCRP",
+      "headline": "Australia Charges Accountants in Multimillion-Dollar Loan Fraud Scheme",
+      "excerpt": "",
+      "link": "https://www.occrp.org/en/news/australia-charges-accountants-in-multimillion-dollar-loan-fraud-scheme",
+      "published": "2026-09-10T13:36:00+00:00",
+      "featured": true
+    },
     {
       "id": "11246f5fca6a",
       "source": "ProPublica",
@@ -8,16 +35,7 @@
       "excerpt": "The post Empty Seat: U.S. Absent as Western Powers Meet on Wartime Protections for Civilians appeared first on ProPublica.",
       "link": "https://www.propublica.org/article/trump-hegseth-dod-nato-civilian-harm-reduction-absent",
       "published": "2026-09-10T11:00:00+00:00",
-      "featured": true
-    },
-    {
-      "id": "6af80cd91630",
-      "source": "Al Jazeera",
-      "headline": "IAEA accuses Iran of ‘non-compliance’: Why, and what now?",
-      "excerpt": "Nuclear watchdog has gone more than a year without inspecting key sites; Iran says US attacks have made access unsafe.",
-      "link": "https://www.aljazeera.com/news/2026/9/10/iaea-accuses-iran-of-non-compliance-why-and-what-now?traffic_source=rss",
-      "published": "2026-09-10T10:59:39+00:00",
-      "featured": true
+      "featured": false
     },
     {
       "id": "f2fc1ddbbcff",
@@ -26,7 +44,7 @@
       "excerpt": "A short-lived generative AI feature in Google Earth that allowed users to create fake satellite imagery shows the lasting effects of unvetted AI tools during a conflict.",
       "link": "https://restofworld.org/2026/google-earth-ai-deepfake-iran-war/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "published": "2026-09-10T10:00:00+00:00",
-      "featured": true
+      "featured": false
     },
     {
       "id": "a4095b9a9a10",
@@ -65,24 +83,6 @@
       "featured": false
     },
     {
-      "id": "b29174d4c8a9",
-      "source": "Dropsite News",
-      "headline": "Israeli Strike in Lebanon Kills 12 People From a Single Family, Including 6 Children",
-      "excerpt": "Israel is once again escalating its bombing of southern Lebanon despite a ceasefire and ongoing U.S.-brokered talks.",
-      "link": "https://www.dropsitenews.com/p/israeli-strike-southern-lebanon-family-children-paramedics-nabatieh",
-      "published": "2026-09-09T18:24:40+00:00",
-      "featured": false
-    },
-    {
-      "id": "901c7cf95c6b",
-      "source": "OCCRP",
-      "headline": "Turkey Detains 24 in Belgium-Linked Drug Trafficking Probe",
-      "excerpt": "",
-      "link": "https://www.occrp.org/en/news/turkey-detains-24-in-belgium-linked-drug-trafficking-probe",
-      "published": "2026-09-09T14:25:00+00:00",
-      "featured": false
-    },
-    {
       "id": "b12eadf3c22f",
       "source": "ICIJ",
       "headline": "White House pick to run Venezuela oil deal under investigation in two countries",
@@ -110,12 +110,21 @@
       "featured": false
     },
     {
-      "id": "98274a8bafdb",
+      "id": "d0b4ef07f1d6",
       "source": "Al Jazeera",
-      "headline": "Hong Kong court rules Dow Jones tried to stop journalist taking union role",
-      "excerpt": "Dow Jones was acquitted of the charge of dismissal over Selina Cheng's leadership role.",
-      "link": "https://www.aljazeera.com/news/2026/9/10/hong-kong-court-rules-dow-jones-tried-to-stop-journalist-taking-union-role?traffic_source=rss",
-      "published": "2026-09-10T10:48:51+00:00",
+      "headline": "At least 20 killed in school fire in rebel-held DR Congo city",
+      "excerpt": "Victims from the fire in AFC/M23-held Bukavu include primary school students, say officials and media reports.",
+      "link": "https://www.aljazeera.com/news/2026/9/10/at-least-20-killed-in-school-fire-in-rebel-held-dr-congo-city?traffic_source=rss",
+      "published": "2026-09-10T15:37:58+00:00",
+      "featured": false
+    },
+    {
+      "id": "38f6f3de8412",
+      "source": "OCCRP",
+      "headline": "Armenia Unveils Raid Footage in Ex-Tax Chief Probe",
+      "excerpt": "",
+      "link": "https://www.occrp.org/en/news/armenia-unveils-raid-footage-in-ex-tax-chief-probe",
+      "published": "2026-09-10T12:24:00+00:00",
       "featured": false
     },
     {
@@ -130,8 +139,8 @@
     {
       "id": "392b7e58d606",
       "source": "The Intercept",
-      "headline": "Far-Right Hacker Touting Cyber Attacks on Leftist Sites Has Close Ties to Pentagon Influencer",
-      "excerpt": "DataRepublican, the X account of Pentagon employee Jennica Pounds, is frequently one of the first to post about hacks against the left. The post Far-Right Hacker Touting Cyber Attacks on Leftist Sites Has Close Ties to...",
+      "headline": "Pentagon Employee DataRepublican Posts Inside Info About Hacks Against the Far Left",
+      "excerpt": "A far-right hacker that touts cyber attacks on leftist sites has close ties to DataRepublican, the X account of a Pentagon employee. The post Pentagon Employee DataRepublican Posts Inside Info About Hacks Against the...",
       "link": "https://theintercept.com/2026/09/10/datarepublican-influencer-noblogs-hack-pentagon/",
       "published": "2026-09-10T08:00:00+00:00",
       "featured": false
@@ -155,12 +164,12 @@
       "featured": false
     },
     {
-      "id": "d926057850f5",
+      "id": "b29174d4c8a9",
       "source": "Dropsite News",
-      "headline": "Iran and U.S. renew Hormuz attacks; Trump escalates Canada trade war; 13 killed in Sudan drone strike",
-      "excerpt": "Drop Site Daily: September 9, 2026",
-      "link": "https://www.dropsitenews.com/p/iran-us-hormuz-trump-canada-trade-sudan-drone-strike",
-      "published": "2026-09-09T14:34:35+00:00",
+      "headline": "Israeli Strike in Lebanon Kills 12 People From a Single Family, Including 6 Children",
+      "excerpt": "Israel is once again escalating its bombing of southern Lebanon despite a ceasefire and ongoing U.S.-brokered talks.",
+      "link": "https://www.dropsitenews.com/p/israeli-strike-southern-lebanon-family-children-paramedics-nabatieh",
+      "published": "2026-09-09T18:24:40+00:00",
       "featured": false
     },
     {
@@ -170,15 +179,6 @@
       "excerpt": "Squeezed by a stagnant economy and state directives, China's underemployed lawyers, architects, and engineers are taking cheap gig work to teach AI their exact trades — just to pay this month's mortgage.",
       "link": "https://restofworld.org/2026/china-expert-ai-trainers/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "published": "2026-09-09T10:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "c04a47585455",
-      "source": "OCCRP",
-      "headline": "Philippine Ex-Speaker Arrested in $118M Plunder Case",
-      "excerpt": "Former Philippine House Speaker Martin Romualdez, a cousin of President Ferdinand Marcos Jr., has been arrested over allegations that he helped collect billions of pesos in kickbacks from government infrastructure...",
-      "link": "https://www.occrp.org/en/news/philippine-ex-speaker-arrested-in-118m-plunder-case",
-      "published": "2026-09-08T17:38:00+00:00",
       "featured": false
     },
     {
@@ -209,12 +209,12 @@
       "featured": false
     },
     {
-      "id": "33488ffad7ad",
+      "id": "506684affe7d",
       "source": "Al Jazeera",
-      "headline": "How Ukraine’s deepest attack in Russia, on Arctic gas, signals new reach",
-      "excerpt": "Long-range Ukrainian drones hit Russia's key gas plants, raising questions about the conflict's next phase.",
-      "link": "https://www.aljazeera.com/news/2026/9/10/how-ukraines-deepest-attack-in-russia-on-arctic-gas-signals-new-reach?traffic_source=rss",
-      "published": "2026-09-10T10:38:53+00:00",
+      "headline": "Houthis capture Yemeni town of Mocha: Why it matters",
+      "excerpt": "The Houthi seizure of Mocha threatens global trade routes, severs vital supply lines, and displaces thousands in Yemen.",
+      "link": "https://www.aljazeera.com/news/2026/9/10/houthis-capture-yemeni-town-of-mocha-why-it-matters?traffic_source=rss",
+      "published": "2026-09-10T14:53:11+00:00",
       "featured": false
     },
     {
@@ -254,21 +254,21 @@
       "featured": false
     },
     {
-      "id": "c751c447a315",
-      "source": "OCCRP",
-      "headline": "Spanish Police Dismantle 'Dubai Bank' Narco-Network, Arrest 21",
-      "excerpt": "The massive international probe, sparked by the intentional sinking of a cocaine-laden ship in 2021, took down a high-value Europol target and crippled an underground financial network used to fund global drug shipments.",
-      "link": "https://www.occrp.org/en/news/spanish-police-dismantle-dubai-bank-narco-network-arrest-21",
-      "published": "2026-09-08T17:30:00+00:00",
+      "id": "d926057850f5",
+      "source": "Dropsite News",
+      "headline": "Iran and U.S. renew Hormuz attacks; Trump escalates Canada trade war; 13 killed in Sudan drone strike",
+      "excerpt": "Drop Site Daily: September 9, 2026",
+      "link": "https://www.dropsitenews.com/p/iran-us-hormuz-trump-canada-trade-sudan-drone-strike",
+      "published": "2026-09-09T14:34:35+00:00",
       "featured": false
     },
     {
-      "id": "b168df636d7f",
-      "source": "Dropsite News",
-      "headline": "Nearly 20,000 displaced in Yemen as Saudi-Ansarallah conflict intensifies; UK bans Israeli settlement goods; Cuba talks end over U.S. blockade",
-      "excerpt": "Drop Site Daily: September 8, 2026",
-      "link": "https://www.dropsitenews.com/p/yemen-saudi-ansarallah-uk-israel-settlements-cuba-blockade",
-      "published": "2026-09-08T16:00:12+00:00",
+      "id": "901c7cf95c6b",
+      "source": "OCCRP",
+      "headline": "Turkey Detains 24 in Belgium-Linked Drug Trafficking Probe",
+      "excerpt": "",
+      "link": "https://www.occrp.org/en/news/turkey-detains-24-in-belgium-linked-drug-trafficking-probe",
+      "published": "2026-09-09T14:25:00+00:00",
       "featured": false
     },
     {
@@ -308,12 +308,12 @@
       "featured": false
     },
     {
-      "id": "e368c976a834",
+      "id": "94ee5329dabc",
       "source": "Al Jazeera",
-      "headline": "Drone video shows aftermath of deadly ferry fire off the Philippines",
-      "excerpt": "Drone video from the Philippine Coast Guard shows smoke rising from the burned out MV June Aster off Palawan.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/10/drone-video-shows-aftermath-of-deadly-ferry-fire-off-the-philippines?traffic_source=rss",
-      "published": "2026-09-10T10:28:44+00:00",
+      "headline": "Protests outside Israeli embassy in Bangkok over badly behaved tourists",
+      "excerpt": "Protests outside Israeli embassy in Bangkok over badly behaved tourists",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/10/protests-outside-israeli-embassy-in-bangkok-over-badly-behaved-tourists?traffic_source=rss",
+      "published": "2026-09-10T14:42:38+00:00",
       "featured": false
     },
     {
@@ -353,21 +353,21 @@
       "featured": false
     },
     {
-      "id": "3ca4bffcac18",
+      "id": "c04a47585455",
       "source": "OCCRP",
-      "headline": "Former Swiss Banker Handed Suspended Two-Year Sentence for Corruption",
-      "excerpt": "Swiss federal court found the former head of the Swiss Bankers Association guilty of paying 82.3 million Swiss francs to a senior Kuwaiti official between 2000 and 2012.",
-      "link": "https://www.occrp.org/en/news/former-swiss-banker-handed-suspended-two-year-sentence-for-corruption",
-      "published": "2026-09-08T15:54:00+00:00",
+      "headline": "Philippine Ex-Speaker Arrested in $118M Plunder Case",
+      "excerpt": "Former Philippine House Speaker Martin Romualdez, a cousin of President Ferdinand Marcos Jr., has been arrested over allegations that he helped collect billions of pesos in kickbacks from government infrastructure...",
+      "link": "https://www.occrp.org/en/news/philippine-ex-speaker-arrested-in-118m-plunder-case",
+      "published": "2026-09-08T17:38:00+00:00",
       "featured": false
     },
     {
-      "id": "b6ebb0e28d91",
+      "id": "b168df636d7f",
       "source": "Dropsite News",
-      "headline": "“I Still Hear the Voices”: Wedding Guests Recall Horror of U.S. Bombing in Southern Iran",
-      "excerpt": "\"My house was in a completely residential area. I don’t know what has happened to my life,\" Ali Mallahi, the father of the bride, said of the airstrike on his daughter's wedding that killed 5 people.",
-      "link": "https://www.dropsitenews.com/p/wedding-us-airstrike-kuhestak-iran-hormuz",
-      "published": "2026-09-04T18:22:04+00:00",
+      "headline": "Nearly 20,000 displaced in Yemen as Saudi-Ansarallah conflict intensifies; UK bans Israeli settlement goods; Cuba talks end over U.S. blockade",
+      "excerpt": "Drop Site Daily: September 8, 2026",
+      "link": "https://www.dropsitenews.com/p/yemen-saudi-ansarallah-uk-israel-settlements-cuba-blockade",
+      "published": "2026-09-08T16:00:12+00:00",
       "featured": false
     },
     {
@@ -398,12 +398,12 @@
       "featured": false
     },
     {
-      "id": "ed0f3917d2ba",
+      "id": "aaa7f03e12ce",
       "source": "Al Jazeera",
-      "headline": "Protests turn violent in The Gambia over rolling blackouts",
-      "excerpt": "Protests turn violent in The Gambia over rolling blackouts",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/10/protests-turn-violent-in-the-gambia-over-rolling-blackouts?traffic_source=rss",
-      "published": "2026-09-10T10:25:21+00:00",
+      "headline": "Who is Trump trying to exclude from 2030 US census and why does it matter?",
+      "excerpt": "Census plan would exclude undocumented immigrants and non-green-card holders, deeming them not 'true inhabitants'.",
+      "link": "https://www.aljazeera.com/news/2026/9/10/who-is-trump-trying-to-exclude-from-2030-us-census-and-why-does-it-matter?traffic_source=rss",
+      "published": "2026-09-10T14:37:27+00:00",
       "featured": false
     },
     {
@@ -434,6 +434,15 @@
       "featured": false
     },
     {
+      "id": "c751c447a315",
+      "source": "OCCRP",
+      "headline": "Spanish Police Dismantle 'Dubai Bank' Narco-Network, Arrest 21",
+      "excerpt": "The massive international probe, sparked by the intentional sinking of a cocaine-laden ship in 2021, took down a high-value Europol target and crippled an underground financial network used to fund global drug shipments.",
+      "link": "https://www.occrp.org/en/news/spanish-police-dismantle-dubai-bank-narco-network-arrest-21",
+      "published": "2026-09-08T17:30:00+00:00",
+      "featured": false
+    },
+    {
       "id": "1fa67ffdd9f2",
       "source": "The Intercept",
       "headline": "FAA Investigates Drone Pilot Who Films Animal Abusers",
@@ -443,21 +452,12 @@
       "featured": false
     },
     {
-      "id": "004771718061",
-      "source": "OCCRP",
-      "headline": "Murder For Hire: Details Emerge About Alleged Cross-Border Plot to Kill Twin Brothers in Cyprus",
-      "excerpt": "A Danish undercover officer posing as a hitman led police into an alleged murder-for-hire network, as money, weapons and suspected contract killers converged in Cyprus",
-      "link": "https://www.occrp.org/en/news/murder-for-hire-details-emerge-about-cross-border-plot-to-kill-twin-brothers-in-cyprus",
-      "published": "2026-09-08T13:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "ef9ed6d120a6",
+      "id": "b6ebb0e28d91",
       "source": "Dropsite News",
-      "headline": "Trump calls reporters covering waning munitions “treasonous SCUM”; U.S. imposes even more Cuba sanctions; Scores killed in Yemen clashes",
-      "excerpt": "Drop Site Daily: September 4, 2026",
-      "link": "https://www.dropsitenews.com/p/trump-us-iran-munitions-cuba-sanctions-yemen-ansarallah",
-      "published": "2026-09-04T15:59:27+00:00",
+      "headline": "“I Still Hear the Voices”: Wedding Guests Recall Horror of U.S. Bombing in Southern Iran",
+      "excerpt": "\"My house was in a completely residential area. I don’t know what has happened to my life,\" Ali Mallahi, the father of the bride, said of the airstrike on his daughter's wedding that killed 5 people.",
+      "link": "https://www.dropsitenews.com/p/wedding-us-airstrike-kuhestak-iran-hormuz",
+      "published": "2026-09-04T18:22:04+00:00",
       "featured": false
     },
     {
@@ -488,12 +488,12 @@
       "featured": false
     },
     {
-      "id": "bae25f6580ae",
+      "id": "f26a0df4763e",
       "source": "Al Jazeera",
-      "headline": "Russia’s new shelling tactics deepen suffering in Ukraine",
-      "excerpt": "Ukrainians are losing more sleep, shopping for food is becoming harder and travel is often fraught with risk and delays.",
-      "link": "https://www.aljazeera.com/news/2026/9/10/russias-new-shelling-tactics-deepen-suffering-in-ukraine?traffic_source=rss",
-      "published": "2026-09-10T10:19:17+00:00",
+      "headline": "Yemen’s Houthis seize strategic Red Sea city of Mocha",
+      "excerpt": "Houthis deliver 'significant blow' to the Yemeni government, expand control over Bab al-Mandeb, analysts say.",
+      "link": "https://www.aljazeera.com/news/2026/9/10/yemens-houthis-seize-strategic-red-sea-city-of-mocha?traffic_source=rss",
+      "published": "2026-09-10T14:16:42+00:00",
       "featured": false
     },
     {
@@ -515,21 +515,21 @@
       "featured": false
     },
     {
+      "id": "3ca4bffcac18",
+      "source": "OCCRP",
+      "headline": "Former Swiss Banker Handed Suspended Two-Year Sentence for Corruption",
+      "excerpt": "Swiss federal court found the former head of the Swiss Bankers Association guilty of paying 82.3 million Swiss francs to a senior Kuwaiti official between 2000 and 2012.",
+      "link": "https://www.occrp.org/en/news/former-swiss-banker-handed-suspended-two-year-sentence-for-corruption",
+      "published": "2026-09-08T15:54:00+00:00",
+      "featured": false
+    },
+    {
       "id": "7ffeac867c1d",
       "source": "The Intercept",
       "headline": "The Pentagon Asked OpenAI for Artificial Intelligence Designed to Rarely Say No",
       "excerpt": "The U.S. military’s desire for an AI tool with “minimal refusal rates” was revealed through a FOIA lawsuit filed by The Intercept. The post The Pentagon Asked OpenAI for Artificial Intelligence Designed to Rarely Say No...",
       "link": "https://theintercept.com/2026/09/08/pentagon-openai-military-contract/",
       "published": "2026-09-08T10:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "3bb48a358349",
-      "source": "OCCRP",
-      "headline": "Ecuador Convicts 15 People, 5 Companies in $398 Million Drug Money Case",
-      "excerpt": "",
-      "link": "https://www.occrp.org/en/news/ecuador-convicts-15-people-5-companies-in-398-million-drug-money-case",
-      "published": "2026-09-07T14:19:00+00:00",
       "featured": false
     },
     {
