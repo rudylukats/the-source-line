@@ -1,13 +1,22 @@
 {
-  "generated_at": "2026-09-10T23:11:23.428143+00:00",
+  "generated_at": "2026-09-11T04:41:59.685846+00:00",
   "articles": [
     {
-      "id": "eed7ddd3265e",
+      "id": "1b5002957be4",
       "source": "Al Jazeera",
-      "headline": "Israel says it destroyed Hezbollah base in Lebanon’s Ali al-Taher ridge",
-      "excerpt": "Israeli attacks come a week after it said to have established operational control over the strategic ridge.",
-      "link": "https://www.aljazeera.com/news/2026/9/10/israel-says-it-destroyed-hezbollah-base-in-lebanons-ali-al-taher-ridge?traffic_source=rss",
-      "published": "2026-09-10T22:33:41+00:00",
+      "headline": "Trump jokes Republicans can ‘cheat like hell’ in the midterms",
+      "excerpt": "US President Donald Trump has jokingly asked Republican voters to ‘cheat like hell’ in the midterms, ‘like Democrats’.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/11/aje-onl-nf_trump-republicans-can-cheat-in-the-midterms-100926?traffic_source=rss",
+      "published": "2026-09-11T04:07:44+00:00",
+      "featured": true
+    },
+    {
+      "id": "6f387581e7f8",
+      "source": "The Lever",
+      "headline": "Dan Osborn Knows Why Democrats Keep Losing Nebraska",
+      "excerpt": "David Sirota travels to the state where “Democrat” is a dirty word and sits down with the union leader taking on Republican Sen. Pete Ricketts, a billionaire’s son.",
+      "link": "https://www.levernews.com/dan-osborn-knows-why-democrats-keep-losing-nebraska/",
+      "published": "2026-09-11T02:20:39+00:00",
       "featured": true
     },
     {
@@ -17,15 +26,6 @@
       "excerpt": "Residents of Taiz are grappling with a war that has fully reignited and now arrived, once again, at their doors.",
       "link": "https://www.dropsitenews.com/p/yemen-ansarallah-saudi-taiz-displacement-bab-al-mandab",
       "published": "2026-09-10T22:28:24+00:00",
-      "featured": true
-    },
-    {
-      "id": "5c75d93fd05c",
-      "source": "The Lever",
-      "headline": "The Big Tech Alums Building Trump’s AI War Machine",
-      "excerpt": "A little-known Pentagon office staffed by Big Tech alums is dismantling safeguards and accelerating AI warfare as their former employers compete for lucrative military contracts.",
-      "link": "https://www.levernews.com/the-big-tech-alums-building-trumps-ai-war-machine/",
-      "published": "2026-09-10T19:39:31+00:00",
       "featured": true
     },
     {
@@ -83,6 +83,15 @@
       "featured": false
     },
     {
+      "id": "b12eadf3c22f",
+      "source": "ICIJ",
+      "headline": "White House pick to run Venezuela oil deal under investigation in two countries",
+      "excerpt": "ICIJ’s 2020 FinCEN Files revealed that major banks flagged suspicious payments involving one of the Venezuelan tycoon's companies, which remains at the heart of embezzlement investigations in Europe.",
+      "link": "https://www.icij.org/investigations/fincen-files/white-house-pick-to-run-venezuela-oil-deal-under-investigation-in-two-countries/",
+      "published": "2026-09-03T15:34:26+00:00",
+      "featured": false
+    },
+    {
       "id": "a88e8f92d1a5",
       "source": "The Markup",
       "headline": "Defense tech has unleashed a new weapons boom in Southern California",
@@ -101,12 +110,21 @@
       "featured": false
     },
     {
-      "id": "7fc4399b5f94",
+      "id": "dae84d1a9c76",
       "source": "Al Jazeera",
-      "headline": "Spain’s Parliament backs citizenship for Western Saharans born before 1977",
-      "excerpt": "After lower house approval, the bill to grant tens of thousands of Sahrawis citizenship now goes to the Spanish Senate.",
-      "link": "https://www.aljazeera.com/news/2026/9/10/spains-parliament-backs-citizenship-for-western-saharans-born-before-1977?traffic_source=rss",
-      "published": "2026-09-10T21:47:14+00:00",
+      "headline": "Republican midterm convention wraps up in Dallas, Texas: Key takeaways",
+      "excerpt": "Protesters gather on final night as US Republicans seek to rally base ahead of consequential legislative elections.",
+      "link": "https://www.aljazeera.com/news/2026/9/11/republican-midterm-convention-wraps-up-in-dallas-texas-key-takeaways?traffic_source=rss",
+      "published": "2026-09-11T03:33:08+00:00",
+      "featured": false
+    },
+    {
+      "id": "5c75d93fd05c",
+      "source": "The Lever",
+      "headline": "The Big Tech Alums Building Trump’s AI War Machine",
+      "excerpt": "A little-known Pentagon office staffed by Big Tech alums is dismantling safeguards and accelerating AI warfare as their former employers compete for lucrative military contracts.",
+      "link": "https://www.levernews.com/the-big-tech-alums-building-trumps-ai-war-machine/",
+      "published": "2026-09-10T19:39:31+00:00",
       "featured": false
     },
     {
@@ -146,15 +164,6 @@
       "featured": false
     },
     {
-      "id": "cf9ca8dbf12c",
-      "source": "The Lever",
-      "headline": "How Status Quo Democrats Could Create Another Trump",
-      "excerpt": "A new study suggests Democrats’ broken promises won’t just cost them elections — they could fuel an even more dangerous MAGA backlash.",
-      "link": "https://www.levernews.com/how-status-quo-democrats-could-create-another-trump/",
-      "published": "2026-09-10T07:01:03+00:00",
-      "featured": false
-    },
-    {
       "id": "7269f6effcbb",
       "source": "404 Media",
       "headline": "Doctor Doom Thanked Seattle for All the Surveillance Cameras",
@@ -182,6 +191,15 @@
       "featured": false
     },
     {
+      "id": "f95c321b6f28",
+      "source": "ICIJ",
+      "headline": "Jury acquits Maltese business tycoon in the murder of Daphne Caruana Galizia",
+      "excerpt": "Yorgen Fenech was the last of seven men prosecuted for her 2017 assassination.",
+      "link": "https://www.icij.org/news/2026/09/jury-acquits-maltese-business-tycoon-in-the-murder-of-daphne-caruana-galizia/",
+      "published": "2026-09-02T22:36:34+00:00",
+      "featured": false
+    },
+    {
       "id": "e33b12bbff3c",
       "source": "Bellingcat",
       "headline": "Tracking a Sanctioned Russian Vessel’s West African Odyssey",
@@ -191,12 +209,12 @@
       "featured": false
     },
     {
-      "id": "0101d611905f",
+      "id": "110ac19b140f",
       "source": "Al Jazeera",
-      "headline": "LG defends smart-TV features amid audio surveillance allegations",
-      "excerpt": "Recent accusations against the electronics company have raised new questions about the nonconsensual data it harvests.",
-      "link": "https://www.aljazeera.com/news/2026/9/10/lg-defends-smart-tv-features-amid-audio-surveillance-allegations?traffic_source=rss",
-      "published": "2026-09-10T21:33:28+00:00",
+      "headline": "Taiwan vice president makes rare Europe visit for conference on democracy",
+      "excerpt": "European Parliament's Pina Picierno says Hsiao's visit 'was kept secret until her arrival to protect her participation'.",
+      "link": "https://www.aljazeera.com/news/2026/9/11/taiwan-vice-president-makes-rare-europe-visit-for-conference-on-democracy?traffic_source=rss",
+      "published": "2026-09-11T03:15:44+00:00",
       "featured": false
     },
     {
@@ -227,12 +245,12 @@
       "featured": false
     },
     {
-      "id": "122a57e9dbee",
+      "id": "cf9ca8dbf12c",
       "source": "The Lever",
-      "headline": "Newsom Killed The AI Kill Switch",
-      "excerpt": "Before Big Tech researchers warned of a superintelligence doomsday, 2028 hopeful Gov. Gavin Newsom (D-Calif.) vetoed a bill that would have made AI “kill switches” mandatory.",
-      "link": "https://www.levernews.com/newsom-killed-the-kill-switch/",
-      "published": "2026-09-09T18:44:36+00:00",
+      "headline": "How Status Quo Democrats Could Create Another Trump",
+      "excerpt": "A new study suggests Democrats’ broken promises won’t just cost them elections — they could fuel an even more dangerous MAGA backlash.",
+      "link": "https://www.levernews.com/how-status-quo-democrats-could-create-another-trump/",
+      "published": "2026-09-10T07:01:03+00:00",
       "featured": false
     },
     {
@@ -272,6 +290,15 @@
       "featured": false
     },
     {
+      "id": "25e7adaf537a",
+      "source": "ICIJ",
+      "headline": "Big fines and settlements barely dent cancer drugmakers’ revenues, fail to deter wrongdoing",
+      "excerpt": "An ICIJ review found nearly $1.7 billion in settlements and fines over a 15 year period. But experts said many companies see the payouts as the cost of doing business.",
+      "link": "https://www.icij.org/investigations/cancer-calculus/big-fines-and-settlements-barely-dent-cancer-drugmakers-revenues-fail-to-deter-wrongdoing/",
+      "published": "2026-09-02T12:24:53+00:00",
+      "featured": false
+    },
+    {
       "id": "1c3768a6972b",
       "source": "Bellingcat",
       "headline": "Satellite Imagery Documents New Border Patrol Road Construction in Big Bend National Park",
@@ -281,12 +308,12 @@
       "featured": false
     },
     {
-      "id": "8207d097102d",
+      "id": "fb949d2cd49d",
       "source": "Al Jazeera",
-      "headline": "Peru joins US-led ‘Shield of the Americas’ security alliance",
-      "excerpt": "Fujimori administration is latest right-wing government to join alliance for a more aggressive approach against crime.",
-      "link": "https://www.aljazeera.com/news/2026/9/10/peru-joins-us-led-shield-of-the-americas-security-alliance?traffic_source=rss",
-      "published": "2026-09-10T21:31:06+00:00",
+      "headline": "Young republicans break with Trump over Iran war",
+      "excerpt": "A clear generational divide between younger and older republicans is forming at the RNC Midterm Convention.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/11/young-republicans-break-with-trump-over-iran-war?traffic_source=rss",
+      "published": "2026-09-11T02:45:52+00:00",
       "featured": false
     },
     {
@@ -299,12 +326,12 @@
       "featured": false
     },
     {
-      "id": "f3975c2c0e2a",
+      "id": "122a57e9dbee",
       "source": "The Lever",
-      "headline": "Midterm Madness: K Street Has Entered The Chat",
-      "excerpt": "Joe Crowley resurfaced on CNN to champion centrist Democrats — without dwelling on his lucrative second act representing corporate interests.",
-      "link": "https://www.levernews.com/midterm-madness-k-street-has-entered-the-chat/",
-      "published": "2026-09-09T18:42:03+00:00",
+      "headline": "Newsom Killed The AI Kill Switch",
+      "excerpt": "Before Big Tech researchers warned of a superintelligence doomsday, 2028 hopeful Gov. Gavin Newsom (D-Calif.) vetoed a bill that would have made AI “kill switches” mandatory.",
+      "link": "https://www.levernews.com/newsom-killed-the-kill-switch/",
+      "published": "2026-09-09T18:44:36+00:00",
       "featured": false
     },
     {
@@ -353,6 +380,15 @@
       "featured": false
     },
     {
+      "id": "45a90264bcde",
+      "source": "ICIJ",
+      "headline": "Crypto giant Tether promised careful vetting. Some early customers were later implicated in financial crimes.",
+      "excerpt": "Financial records obtained by ICIJ show that they included individuals later accused of or sanctioned for money laundering and other financial crimes.",
+      "link": "https://www.icij.org/investigations/coin-laundry/crypto-giant-tether-promised-careful-vetting-some-early-customers-were-later-implicated-in-financial-crimes/",
+      "published": "2026-08-31T16:58:13+00:00",
+      "featured": false
+    },
+    {
       "id": "5922f7299c46",
       "source": "More Perfect Union",
       "headline": "I Tracked Down the Company Ruining Fruit",
@@ -362,12 +398,12 @@
       "featured": false
     },
     {
-      "id": "cb6a660f72dc",
+      "id": "869a466455ee",
       "source": "Al Jazeera",
-      "headline": "Republican midterm convention live: Trump, Vance headline day two in Dallas",
-      "excerpt": "US Republicans return to the stage to close their midterm convention, still betting on Trump's political magnetism.",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/9/10/republican-midterm-convention-live-trump-headlines-day-2-of-dallas-rally?traffic_source=rss",
-      "published": "2026-09-10T21:31:03+00:00",
+      "headline": "Putin lands in India for BRICs summit, shadowed by Iran and Ukraine wars",
+      "excerpt": "Russian, Iranian leaders due to hold talks with India's Modi at summit dominated by wars in Middle East and Ukraine.",
+      "link": "https://www.aljazeera.com/news/2026/9/11/putin-lands-in-india-for-brics-summit-shadowed-by-iran-and-ukraine-wars?traffic_source=rss",
+      "published": "2026-09-11T02:40:19+00:00",
       "featured": false
     },
     {
@@ -377,6 +413,15 @@
       "excerpt": "The post The Dominican Baseball Factory appeared first on ProPublica.",
       "link": "https://www.propublica.org/article/how-dominican-republic-baseball-factory-traps-players-mlb-santo-caraballo",
       "published": "2026-09-10T09:00:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "f3975c2c0e2a",
+      "source": "The Lever",
+      "headline": "Midterm Madness: K Street Has Entered The Chat",
+      "excerpt": "Joe Crowley resurfaced on CNN to champion centrist Democrats — without dwelling on his lucrative second act representing corporate interests.",
+      "link": "https://www.levernews.com/midterm-madness-k-street-has-entered-the-chat/",
+      "published": "2026-09-09T18:42:03+00:00",
       "featured": false
     },
     {
@@ -395,15 +440,6 @@
       "excerpt": "Drop Site Daily: September 9, 2026",
       "link": "https://www.dropsitenews.com/p/iran-us-hormuz-trump-canada-trade-sudan-drone-strike",
       "published": "2026-09-09T14:34:35+00:00",
-      "featured": false
-    },
-    {
-      "id": "138206c315f3",
-      "source": "The Lever",
-      "headline": "Trump's Fed Chief Missed The AI-flation Memo",
-      "excerpt": "New Federal Reserve Chair Kevin Warsh ignored the U.S. central bank’s own research when he said AI’s economic impacts are unknown.",
-      "link": "https://www.levernews.com/trumps-fed-chief-missed-the-ai-flation-memo/",
-      "published": "2026-09-08T18:05:22+00:00",
       "featured": false
     },
     {
@@ -443,12 +479,21 @@
       "featured": false
     },
     {
-      "id": "3db727b7332f",
+      "id": "20326a28e45c",
+      "source": "ICIJ",
+      "headline": "Despite years of confiscations, the Met still holds hundreds of pieces linked to alleged trafficking and looting figures",
+      "excerpt": "Museum says it wants no stolen artwork and that it has initiated an expedited review of hundreds of works tied to specific dealers.",
+      "link": "https://www.icij.org/investigations/hidden-treasures/despite-years-of-confiscations-the-met-still-holds-hundreds-of-pieces-linked-to-alleged-trafficking-and-looting-figures/",
+      "published": "2026-08-20T11:54:56+00:00",
+      "featured": false
+    },
+    {
+      "id": "d31db3b407cf",
       "source": "Al Jazeera",
-      "headline": "Israel says it destroyed key Hezbollah tunnels in southern Lebanon",
-      "excerpt": "Israel’s military says it has destroyed a network of Hezbollah tunnels on the strategic Ali al-Taher ridge in Lebanon.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/10/israel-says-it-destroyed-key-hezbollah-tunnels-in-southern-lebanon?traffic_source=rss",
-      "published": "2026-09-10T21:19:16+00:00",
+      "headline": "Brazil’s Supreme Court shuts down early as political chaos mounts",
+      "excerpt": "Members of the high court have exchanged accusations after one justice was accused of involvement in a bank scandal.",
+      "link": "https://www.aljazeera.com/news/2026/9/11/brazils-supreme-court-shuts-down-early-as-political-chaos-mounts?traffic_source=rss",
+      "published": "2026-09-11T02:04:50+00:00",
       "featured": false
     },
     {
@@ -470,12 +515,12 @@
       "featured": false
     },
     {
-      "id": "640df604e761",
+      "id": "138206c315f3",
       "source": "The Lever",
-      "headline": "Newsom Wants An Economic “Reset.” His Record Says Different",
-      "excerpt": "Democrats’ identity crisis is on full display as the California governor soft-launches his campaign for president.",
-      "link": "https://www.levernews.com/newsom-wants-an-economic-reset-his-record-says-different/",
-      "published": "2026-09-08T17:42:37+00:00",
+      "headline": "Trump's Fed Chief Missed The AI-flation Memo",
+      "excerpt": "New Federal Reserve Chair Kevin Warsh ignored the U.S. central bank’s own research when he said AI’s economic impacts are unknown.",
+      "link": "https://www.levernews.com/trumps-fed-chief-missed-the-ai-flation-memo/",
+      "published": "2026-09-08T18:05:22+00:00",
       "featured": false
     },
     {
@@ -494,51 +539,6 @@
       "excerpt": "Drop Site Daily: September 8, 2026",
       "link": "https://www.dropsitenews.com/p/yemen-saudi-ansarallah-uk-israel-settlements-cuba-blockade",
       "published": "2026-09-08T16:00:12+00:00",
-      "featured": false
-    },
-    {
-      "id": "7ffeac867c1d",
-      "source": "The Intercept",
-      "headline": "The Pentagon Asked OpenAI for Artificial Intelligence Designed to Rarely Say No",
-      "excerpt": "The U.S. military’s desire for an AI tool with “minimal refusal rates” was revealed through a FOIA lawsuit filed by The Intercept. The post The Pentagon Asked OpenAI for Artificial Intelligence Designed to Rarely Say No...",
-      "link": "https://theintercept.com/2026/09/08/pentagon-openai-military-contract/",
-      "published": "2026-09-08T10:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "bd25bae7b32a",
-      "source": "Rest of World",
-      "headline": "Taiwan’s six-year hunt for China’s undercover chip labs",
-      "excerpt": "Previously unpublished government data reveals the scale of Taiwan’s crackdown on Chinese companies accused of hiding their ties while recruiting chip talent and pursuing sensitive technology.",
-      "link": "https://restofworld.org/2026/taiwan-china-chip-investigations/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-      "published": "2026-09-02T10:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "c05386da40a0",
-      "source": "More Perfect Union",
-      "headline": "We Uncovered Where Your Insurance Payments Are Really Going",
-      "excerpt": "Insurance companies claim higher prices are justified by higher risks, but we found they are keeping more of our premium dollars than ever.",
-      "link": "https://substack.perfectunion.us/p/we-uncovered-where-your-insurance",
-      "published": "2026-08-14T20:47:37+00:00",
-      "featured": false
-    },
-    {
-      "id": "d456cf3a166d",
-      "source": "Al Jazeera",
-      "headline": "Gaza hospitals ration power as fuel shortages deepen",
-      "excerpt": "Fuel and engine oil shortages are forcing Gaza’s hospitals to ration electricity",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/10/gaza-hospitals-ration-power-as-fuel-shortages-deepen?traffic_source=rss",
-      "published": "2026-09-10T21:17:09+00:00",
-      "featured": false
-    },
-    {
-      "id": "6b0661fee182",
-      "source": "404 Media",
-      "headline": "'Tell Everyone:' A Man Died by Suicide After Talking to ChatGPT. His Former Partner Wants to Warn the World About AI",
-      "excerpt": "After allegedly becoming emotionally reliant on ChatGPT, Austin died at 40 years old, leaving behind family and friends who loved him. Megan wants everyone to know what happened.",
-      "link": "https://www.404media.co/austin-gordon-chatgpt-suicide-openai-lawsuit/",
-      "published": "2026-09-09T14:00:50+00:00",
       "featured": false
     }
   ]
