@@ -1,23 +1,59 @@
 {
-  "generated_at": "2026-09-11T04:41:59.685846+00:00",
+  "generated_at": "2026-09-11T11:22:37.054204+00:00",
   "articles": [
     {
-      "id": "1b5002957be4",
+      "id": "80e45b8e1d23",
       "source": "Al Jazeera",
-      "headline": "Trump jokes Republicans can ‘cheat like hell’ in the midterms",
-      "excerpt": "US President Donald Trump has jokingly asked Republican voters to ‘cheat like hell’ in the midterms, ‘like Democrats’.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/11/aje-onl-nf_trump-republicans-can-cheat-in-the-midterms-100926?traffic_source=rss",
-      "published": "2026-09-11T04:07:44+00:00",
+      "headline": "Al Jazeera explains massive Israeli blasts on south Lebanon hill",
+      "excerpt": "Israeli forces say they used more than 1,100 tonnes of explosives to demolish alleged Hezbollah tunnels in south Lebanon",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/11/09-11-reported-israel-hezb-tunnels-lebanon-mp4?traffic_source=rss",
+      "published": "2026-09-11T10:48:30+00:00",
       "featured": true
     },
     {
-      "id": "6f387581e7f8",
-      "source": "The Lever",
-      "headline": "Dan Osborn Knows Why Democrats Keep Losing Nebraska",
-      "excerpt": "David Sirota travels to the state where “Democrat” is a dirty word and sits down with the union leader taking on Republican Sen. Pete Ricketts, a billionaire’s son.",
-      "link": "https://www.levernews.com/dan-osborn-knows-why-democrats-keep-losing-nebraska/",
-      "published": "2026-09-11T02:20:39+00:00",
+      "id": "24ac643242e5",
+      "source": "ProPublica",
+      "headline": "Vouchers Promise Students With Disabilities a Path to Private School. Parents Say That’s Not the Reality.",
+      "excerpt": "The post Vouchers Promise Students With Disabilities a Path to Private School. Parents Say That’s Not the Reality. appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/school-vouchers-disabilities",
+      "published": "2026-09-11T10:00:00+00:00",
       "featured": true
+    },
+    {
+      "id": "52e0f4fd4db7",
+      "source": "OCCRP",
+      "headline": "Inside the Collapse of a Surrogacy Agency That Cost Surrogates and Hopeful Parents Their Dreams and Money",
+      "excerpt": "When commercial surrogacy agency World Center of Baby told clients it was filing for bankruptcy, hopeful parents and pregnant surrogates were thrown into chaos. The agency’s opaque ownership and operations raise...",
+      "link": "https://www.occrp.org/en/investigation/inside-the-collapse-of-a-surrogacy-agency-that-left-surrogates-and-hopeful-parents-abandoned",
+      "published": "2026-09-11T10:00:00+00:00",
+      "featured": true
+    },
+    {
+      "id": "14422c8a6b68",
+      "source": "The Intercept",
+      "headline": "Osama Bin Laden Won",
+      "excerpt": "The architect of the September 11 attacks dreamed of the destruction of America. In the last 25 years, his wish has come true. The post Osama Bin Laden Won appeared first on The Intercept.",
+      "link": "https://theintercept.com/2026/09/11/bin-laden-september-11-trump-america/",
+      "published": "2026-09-11T10:00:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "2cbb34be4852",
+      "source": "Rest of World",
+      "headline": "The AI talent war is coming for Big Tech’s Asia executives",
+      "excerpt": "OpenAI and Anthropic are hiring leaders from Meta, Google, Microsoft, and other U.S. tech giants to win new markets across India and Southeast Asia.",
+      "link": "https://restofworld.org/2026/openai-anthropic-big-tech-executives-asia/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "published": "2026-09-11T10:00:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "9b3d5fc124e1",
+      "source": "The Lever",
+      "headline": "9/11 Changed America — And Built Trump’s Playbook",
+      "excerpt": "The Lever’s founder reflects on how presidents of both parties turned the War on Terror into a decades-long expansion of White House power",
+      "link": "https://www.levernews.com/9-11-changed-america-and-built-trumps-playbook/",
+      "published": "2026-09-11T09:55:24+00:00",
+      "featured": false
     },
     {
       "id": "df5351db75f6",
@@ -26,42 +62,6 @@
       "excerpt": "Residents of Taiz are grappling with a war that has fully reignited and now arrived, once again, at their doors.",
       "link": "https://www.dropsitenews.com/p/yemen-ansarallah-saudi-taiz-displacement-bab-al-mandab",
       "published": "2026-09-10T22:28:24+00:00",
-      "featured": true
-    },
-    {
-      "id": "484015d6f926",
-      "source": "OCCRP",
-      "headline": "Ousted Bangladesh PM's Daughter Steps Down as WHO Regional Chief after Fraud Probe",
-      "excerpt": "Saima Wazed, daughter of ousted Bangladeshi leader Sheikh Hasina, has resigned as the WHO’s Southeast Asia regional director after an extended internal investigation into alleged financial fraud and academic...",
-      "link": "https://www.occrp.org/en/news/ousted-bangladesh-pms-daughter-steps-down-as-who-regional-chief-after-fraud-probe",
-      "published": "2026-09-10T16:28:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "11246f5fca6a",
-      "source": "ProPublica",
-      "headline": "Empty Seat: U.S. Absent as Western Powers Meet on Wartime Protections for Civilians",
-      "excerpt": "The post Empty Seat: U.S. Absent as Western Powers Meet on Wartime Protections for Civilians appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/trump-hegseth-dod-nato-civilian-harm-reduction-absent",
-      "published": "2026-09-10T11:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "f2fc1ddbbcff",
-      "source": "Rest of World",
-      "headline": "Google Earth’s AI experiment lasted 24 hours. The damage to trust will linger",
-      "excerpt": "A short-lived generative AI feature in Google Earth that allowed users to create fake satellite imagery shows the lasting effects of unvetted AI tools during a conflict.",
-      "link": "https://restofworld.org/2026/google-earth-ai-deepfake-iran-war/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-      "published": "2026-09-10T10:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "a4095b9a9a10",
-      "source": "The Intercept",
-      "headline": "Fired After the Charlie Kirk Revenge Purge, They’re Still Unemployed",
-      "excerpt": "A year after his killing, people who lost their jobs for criticizing Charlie Kirk are still suffering under the erosion of free speech. The post Fired After the Charlie Kirk Revenge Purge, They’re Still Unemployed...",
-      "link": "https://theintercept.com/2026/09/10/charlie-kirk-fired-censorship-free-speech/",
-      "published": "2026-09-10T09:51:00+00:00",
       "featured": false
     },
     {
@@ -110,21 +110,30 @@
       "featured": false
     },
     {
-      "id": "dae84d1a9c76",
+      "id": "31d268caf5bc",
       "source": "Al Jazeera",
-      "headline": "Republican midterm convention wraps up in Dallas, Texas: Key takeaways",
-      "excerpt": "Protesters gather on final night as US Republicans seek to rally base ahead of consequential legislative elections.",
-      "link": "https://www.aljazeera.com/news/2026/9/11/republican-midterm-convention-wraps-up-in-dallas-texas-key-takeaways?traffic_source=rss",
-      "published": "2026-09-11T03:33:08+00:00",
+      "headline": "‘Blew the hell out of it’: How Iran damaged US bases in Bahrain, Jordan",
+      "excerpt": "US official admits the naval base near Manama sustained heavy damage in the war with Iran.",
+      "link": "https://www.aljazeera.com/news/2026/9/11/blew-the-hell-out-of-it-how-iran-damaged-us-bases-in-bahrain-jordan?traffic_source=rss",
+      "published": "2026-09-11T10:41:35+00:00",
       "featured": false
     },
     {
-      "id": "5c75d93fd05c",
+      "id": "f7a9a30bdd06",
+      "source": "ProPublica",
+      "headline": "EPA to Loosen Methane Rules, Boosting Pollution From Oil and Gas Wells",
+      "excerpt": "The post EPA to Loosen Methane Rules, Boosting Pollution From Oil and Gas Wells appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/methane-gas-epa-proposal-stripper-wells",
+      "published": "2026-09-11T09:00:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "6f387581e7f8",
       "source": "The Lever",
-      "headline": "The Big Tech Alums Building Trump’s AI War Machine",
-      "excerpt": "A little-known Pentagon office staffed by Big Tech alums is dismantling safeguards and accelerating AI warfare as their former employers compete for lucrative military contracts.",
-      "link": "https://www.levernews.com/the-big-tech-alums-building-trumps-ai-war-machine/",
-      "published": "2026-09-10T19:39:31+00:00",
+      "headline": "Dan Osborn Knows Why Democrats Keep Losing Nebraska",
+      "excerpt": "David Sirota travels to the state where “Democrat” is a dirty word and sits down with the union leader taking on Republican Sen. Pete Ricketts, a billionaire’s son.",
+      "link": "https://www.levernews.com/dan-osborn-knows-why-democrats-keep-losing-nebraska/",
+      "published": "2026-09-11T02:20:39+00:00",
       "featured": false
     },
     {
@@ -137,30 +146,30 @@
       "featured": false
     },
     {
-      "id": "309fa9f3c906",
+      "id": "484015d6f926",
       "source": "OCCRP",
-      "headline": "Australia Charges Accountants in Multimillion-Dollar Loan Fraud Scheme",
-      "excerpt": "",
-      "link": "https://www.occrp.org/en/news/australia-charges-accountants-in-multimillion-dollar-loan-fraud-scheme",
-      "published": "2026-09-10T13:36:00+00:00",
+      "headline": "Ousted Bangladesh PM's Daughter Steps Down as WHO Regional Chief after Fraud Probe",
+      "excerpt": "Saima Wazed, daughter of ousted Bangladeshi leader Sheikh Hasina, has resigned as the WHO’s Southeast Asia regional director after an extended internal investigation into alleged financial fraud and academic...",
+      "link": "https://www.occrp.org/en/news/ousted-bangladesh-pms-daughter-steps-down-as-who-regional-chief-after-fraud-probe",
+      "published": "2026-09-10T16:28:00+00:00",
       "featured": false
     },
     {
-      "id": "4d640e9e26e0",
-      "source": "ProPublica",
-      "headline": "25 Years After 9/11, Questions About the FBI’s Pursuit of Saudi Suspects in the Case Have Only Grown",
-      "excerpt": "The post 25 Years After 9/11, Questions About the FBI’s Pursuit of Saudi Suspects in the Case Have Only Grown appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/fbi-911-saudi-bayoumi-investigation",
+      "id": "f2fc1ddbbcff",
+      "source": "Rest of World",
+      "headline": "Google Earth’s AI experiment lasted 24 hours. The damage to trust will linger",
+      "excerpt": "A short-lived generative AI feature in Google Earth that allowed users to create fake satellite imagery shows the lasting effects of unvetted AI tools during a conflict.",
+      "link": "https://restofworld.org/2026/google-earth-ai-deepfake-iran-war/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "published": "2026-09-10T10:00:00+00:00",
       "featured": false
     },
     {
-      "id": "392b7e58d606",
+      "id": "a4095b9a9a10",
       "source": "The Intercept",
-      "headline": "Pentagon Employee DataRepublican Posts Inside Info About Hacks Against the Far Left",
-      "excerpt": "A far-right hacker that touts cyber attacks on leftist sites has close ties to DataRepublican, the X account of a Pentagon employee. The post Pentagon Employee DataRepublican Posts Inside Info About Hacks Against the...",
-      "link": "https://theintercept.com/2026/09/10/datarepublican-influencer-noblogs-hack-pentagon/",
-      "published": "2026-09-10T08:00:00+00:00",
+      "headline": "Fired After the Charlie Kirk Revenge Purge, They’re Still Unemployed",
+      "excerpt": "A year after his killing, people who lost their jobs for criticizing Charlie Kirk are still suffering under the erosion of free speech. The post Fired After the Charlie Kirk Revenge Purge, They’re Still Unemployed...",
+      "link": "https://theintercept.com/2026/09/10/charlie-kirk-fired-censorship-free-speech/",
+      "published": "2026-09-10T09:51:00+00:00",
       "featured": false
     },
     {
@@ -170,15 +179,6 @@
       "excerpt": "‘We must work to crush any dissent to Doom’s vision of public safety,’ the Marvel supervillain told the city as it considered multiple surveillance proposals.",
       "link": "https://www.404media.co/doctor-doom-thanked-seattle-for-all-the-surveillance-cameras/",
       "published": "2026-09-09T19:25:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "0695dbe46a7c",
-      "source": "Rest of World",
-      "headline": "Now it’s China’s experts who are gig workers training AI",
-      "excerpt": "Squeezed by a stagnant economy and state directives, China's underemployed lawyers, architects, and engineers are taking cheap gig work to teach AI their exact trades — just to pay this month's mortgage.",
-      "link": "https://restofworld.org/2026/china-expert-ai-trainers/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-      "published": "2026-09-09T10:00:00+00:00",
       "featured": false
     },
     {
@@ -209,12 +209,21 @@
       "featured": false
     },
     {
-      "id": "110ac19b140f",
+      "id": "56a78acc36a4",
       "source": "Al Jazeera",
-      "headline": "Taiwan vice president makes rare Europe visit for conference on democracy",
-      "excerpt": "European Parliament's Pina Picierno says Hsiao's visit 'was kept secret until her arrival to protect her participation'.",
-      "link": "https://www.aljazeera.com/news/2026/9/11/taiwan-vice-president-makes-rare-europe-visit-for-conference-on-democracy?traffic_source=rss",
-      "published": "2026-09-11T03:15:44+00:00",
+      "headline": "Family members wait after deadly Philippines ferry fire",
+      "excerpt": "Dozens of passengers are missing after a fire tore through a ferry in the Philippines, killing at least 5 people.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/11/family-members-wait-after-deadly-philippines-ferry-fire?traffic_source=rss",
+      "published": "2026-09-11T10:29:53+00:00",
+      "featured": false
+    },
+    {
+      "id": "5c75d93fd05c",
+      "source": "The Lever",
+      "headline": "The Big Tech Alums Building Trump’s AI War Machine",
+      "excerpt": "A little-known Pentagon office staffed by Big Tech alums is dismantling safeguards and accelerating AI warfare as their former employers compete for lucrative military contracts.",
+      "link": "https://www.levernews.com/the-big-tech-alums-building-trumps-ai-war-machine/",
+      "published": "2026-09-10T19:39:31+00:00",
       "featured": false
     },
     {
@@ -227,30 +236,30 @@
       "featured": false
     },
     {
-      "id": "38f6f3de8412",
+      "id": "309fa9f3c906",
       "source": "OCCRP",
-      "headline": "Armenia Unveils Raid Footage in Ex-Tax Chief Probe",
+      "headline": "Australia Charges Accountants in Multimillion-Dollar Loan Fraud Scheme",
       "excerpt": "",
-      "link": "https://www.occrp.org/en/news/armenia-unveils-raid-footage-in-ex-tax-chief-probe",
-      "published": "2026-09-10T12:24:00+00:00",
+      "link": "https://www.occrp.org/en/news/australia-charges-accountants-in-multimillion-dollar-loan-fraud-scheme",
+      "published": "2026-09-10T13:36:00+00:00",
       "featured": false
     },
     {
-      "id": "500fc8f76d34",
+      "id": "11246f5fca6a",
       "source": "ProPublica",
-      "headline": "Got a Connection to Dominican Baseball? Text Us on WhatsApp.",
-      "excerpt": "The post Got a Connection to Dominican Baseball? Text Us on WhatsApp. appeared first on ProPublica.",
-      "link": "https://www.propublica.org/getinvolved/dominican-republic-baseball-whatsapp-line",
-      "published": "2026-09-10T09:04:00+00:00",
+      "headline": "Empty Seat: U.S. Absent as Western Powers Meet on Wartime Protections for Civilians",
+      "excerpt": "The post Empty Seat: U.S. Absent as Western Powers Meet on Wartime Protections for Civilians appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/trump-hegseth-dod-nato-civilian-harm-reduction-absent",
+      "published": "2026-09-10T11:00:00+00:00",
       "featured": false
     },
     {
-      "id": "cf9ca8dbf12c",
-      "source": "The Lever",
-      "headline": "How Status Quo Democrats Could Create Another Trump",
-      "excerpt": "A new study suggests Democrats’ broken promises won’t just cost them elections — they could fuel an even more dangerous MAGA backlash.",
-      "link": "https://www.levernews.com/how-status-quo-democrats-could-create-another-trump/",
-      "published": "2026-09-10T07:01:03+00:00",
+      "id": "392b7e58d606",
+      "source": "The Intercept",
+      "headline": "Pentagon Employee DataRepublican Posts Inside Info About Hacks Against the Far Left",
+      "excerpt": "A far-right hacker that touts cyber attacks on leftist sites has close ties to DataRepublican, the X account of a Pentagon employee. The post Pentagon Employee DataRepublican Posts Inside Info About Hacks Against the...",
+      "link": "https://theintercept.com/2026/09/10/datarepublican-influencer-noblogs-hack-pentagon/",
+      "published": "2026-09-10T08:00:00+00:00",
       "featured": false
     },
     {
@@ -263,21 +272,12 @@
       "featured": false
     },
     {
-      "id": "bb249cbe10ca",
-      "source": "The Intercept",
-      "headline": "United Airlines Ships War Materiel to Israel Aboard Passenger Flights",
-      "excerpt": "The unfriendly skies: On United, your checked bags might be riding alongside some tank parts bound for Israel. The post United Airlines Ships War Materiel to Israel Aboard Passenger Flights appeared first on The...",
-      "link": "https://theintercept.com/2026/09/09/united-airlines-flights-israel-weapons-hardware-transport/",
-      "published": "2026-09-09T17:46:59+00:00",
-      "featured": false
-    },
-    {
-      "id": "90989d48c711",
+      "id": "0695dbe46a7c",
       "source": "Rest of World",
-      "headline": "Think your EV holds its value? China has some bad news for you",
-      "excerpt": "Used car dealers in the world’s biggest EV market are turning away 5-year-old cars, exposing a battery anxiety problem heading for Western buyers next.",
-      "link": "https://restofworld.org/2026/china-used-ev-depreciation-five-year-battery-warranty-dealers/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-      "published": "2026-09-08T10:00:00+00:00",
+      "headline": "Now it’s China’s experts who are gig workers training AI",
+      "excerpt": "Squeezed by a stagnant economy and state directives, China's underemployed lawyers, architects, and engineers are taking cheap gig work to teach AI their exact trades — just to pay this month's mortgage.",
+      "link": "https://restofworld.org/2026/china-expert-ai-trainers/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "published": "2026-09-09T10:00:00+00:00",
       "featured": false
     },
     {
@@ -308,30 +308,39 @@
       "featured": false
     },
     {
-      "id": "fb949d2cd49d",
+      "id": "52b56278181e",
       "source": "Al Jazeera",
-      "headline": "Young republicans break with Trump over Iran war",
-      "excerpt": "A clear generational divide between younger and older republicans is forming at the RNC Midterm Convention.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/11/young-republicans-break-with-trump-over-iran-war?traffic_source=rss",
-      "published": "2026-09-11T02:45:52+00:00",
+      "headline": "Houthis take control of Yemen’s Red Sea coast, key shipping route",
+      "excerpt": "Rapid advance of Iran-backed force threatens key alternative shipping route to Strait of Hormuz.",
+      "link": "https://www.aljazeera.com/news/2026/9/11/houthis-take-control-of-yemens-red-sea-coast-key-shipping-route?traffic_source=rss",
+      "published": "2026-09-11T10:11:17+00:00",
       "featured": false
     },
     {
-      "id": "60d2dca9dd01",
+      "id": "38f6f3de8412",
+      "source": "OCCRP",
+      "headline": "Armenia Unveils Raid Footage in Ex-Tax Chief Probe",
+      "excerpt": "",
+      "link": "https://www.occrp.org/en/news/armenia-unveils-raid-footage-in-ex-tax-chief-probe",
+      "published": "2026-09-10T12:24:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "4d640e9e26e0",
       "source": "ProPublica",
-      "headline": "The Rising Baseball Star, a Fatal Car Crash and the Fixer",
-      "excerpt": "The post The Rising Baseball Star, a Fatal Car Crash and the Fixer appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/oneil-cruz-pittsburgh-pirates-santo-caraballo-car-crash-payments-dominican-republic",
-      "published": "2026-09-10T09:02:00+00:00",
+      "headline": "25 Years After 9/11, Questions About the FBI’s Pursuit of Saudi Suspects in the Case Have Only Grown",
+      "excerpt": "The post 25 Years After 9/11, Questions About the FBI’s Pursuit of Saudi Suspects in the Case Have Only Grown appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/fbi-911-saudi-bayoumi-investigation",
+      "published": "2026-09-10T10:00:00+00:00",
       "featured": false
     },
     {
-      "id": "122a57e9dbee",
+      "id": "cf9ca8dbf12c",
       "source": "The Lever",
-      "headline": "Newsom Killed The AI Kill Switch",
-      "excerpt": "Before Big Tech researchers warned of a superintelligence doomsday, 2028 hopeful Gov. Gavin Newsom (D-Calif.) vetoed a bill that would have made AI “kill switches” mandatory.",
-      "link": "https://www.levernews.com/newsom-killed-the-kill-switch/",
-      "published": "2026-09-09T18:44:36+00:00",
+      "headline": "How Status Quo Democrats Could Create Another Trump",
+      "excerpt": "A new study suggests Democrats’ broken promises won’t just cost them elections — they could fuel an even more dangerous MAGA backlash.",
+      "link": "https://www.levernews.com/how-status-quo-democrats-could-create-another-trump/",
+      "published": "2026-09-10T07:01:03+00:00",
       "featured": false
     },
     {
@@ -344,12 +353,93 @@
       "featured": false
     },
     {
+      "id": "bb249cbe10ca",
+      "source": "The Intercept",
+      "headline": "United Airlines Ships War Materiel to Israel Aboard Passenger Flights",
+      "excerpt": "The unfriendly skies: On United, your checked bags might be riding alongside some tank parts bound for Israel. The post United Airlines Ships War Materiel to Israel Aboard Passenger Flights appeared first on The...",
+      "link": "https://theintercept.com/2026/09/09/united-airlines-flights-israel-weapons-hardware-transport/",
+      "published": "2026-09-09T17:46:59+00:00",
+      "featured": false
+    },
+    {
       "id": "846bb1d61222",
       "source": "404 Media",
       "headline": "Smear Campaign Says Anti-Flock Movement Is Chinese Propaganda",
       "excerpt": "Sinclair Broadcasting is pushing the idea that China and the No Kings protesters are the reason people don't like Flock.",
       "link": "https://www.404media.co/smear-campaign-says-anti-flock-movement-is-chinese-propaganda/",
       "published": "2026-09-09T17:15:45+00:00",
+      "featured": false
+    },
+    {
+      "id": "90989d48c711",
+      "source": "Rest of World",
+      "headline": "Think your EV holds its value? China has some bad news for you",
+      "excerpt": "Used car dealers in the world’s biggest EV market are turning away 5-year-old cars, exposing a battery anxiety problem heading for Western buyers next.",
+      "link": "https://restofworld.org/2026/china-used-ev-depreciation-five-year-battery-warranty-dealers/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "published": "2026-09-08T10:00:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "45a90264bcde",
+      "source": "ICIJ",
+      "headline": "Crypto giant Tether promised careful vetting. Some early customers were later implicated in financial crimes.",
+      "excerpt": "Financial records obtained by ICIJ show that they included individuals later accused of or sanctioned for money laundering and other financial crimes.",
+      "link": "https://www.icij.org/investigations/coin-laundry/crypto-giant-tether-promised-careful-vetting-some-early-customers-were-later-implicated-in-financial-crimes/",
+      "published": "2026-08-31T16:58:13+00:00",
+      "featured": false
+    },
+    {
+      "id": "5922f7299c46",
+      "source": "More Perfect Union",
+      "headline": "I Tracked Down the Company Ruining Fruit",
+      "excerpt": "Driscoll’s is the middleman that controls the genetics, reaps the profits, and then shifts blame.",
+      "link": "https://substack.perfectunion.us/p/i-tracked-down-the-company-ruining",
+      "published": "2026-08-26T17:57:20+00:00",
+      "featured": false
+    },
+    {
+      "id": "0e4de63e01ae",
+      "source": "Al Jazeera",
+      "headline": "Japan, India, Ukraine: Why some countries are uneasy about new UN map",
+      "excerpt": "The countries are not opposed to a new map per se; they're testy about the colour shades.",
+      "link": "https://www.aljazeera.com/news/2026/9/11/japan-india-ukraine-why-some-countries-are-uneasy-about-new-un-map?traffic_source=rss",
+      "published": "2026-09-11T09:11:42+00:00",
+      "featured": false
+    },
+    {
+      "id": "500fc8f76d34",
+      "source": "ProPublica",
+      "headline": "Got a Connection to Dominican Baseball? Text Us on WhatsApp.",
+      "excerpt": "The post Got a Connection to Dominican Baseball? Text Us on WhatsApp. appeared first on ProPublica.",
+      "link": "https://www.propublica.org/getinvolved/dominican-republic-baseball-whatsapp-line",
+      "published": "2026-09-10T09:04:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "122a57e9dbee",
+      "source": "The Lever",
+      "headline": "Newsom Killed The AI Kill Switch",
+      "excerpt": "Before Big Tech researchers warned of a superintelligence doomsday, 2028 hopeful Gov. Gavin Newsom (D-Calif.) vetoed a bill that would have made AI “kill switches” mandatory.",
+      "link": "https://www.levernews.com/newsom-killed-the-kill-switch/",
+      "published": "2026-09-09T18:44:36+00:00",
+      "featured": false
+    },
+    {
+      "id": "4ee669e9fa21",
+      "source": "404 Media",
+      "headline": "Podcast: DHS’ Secretive ‘Predictive Policing’ Unit Pulling People Over",
+      "excerpt": "Secretive predictive policing units; a funk shirt designed to fool AI; and our third anniversary party.",
+      "link": "https://www.404media.co/podcast-dhs-secretive-predictive-policing-unit-pulling-people-over/",
+      "published": "2026-09-09T16:37:02+00:00",
+      "featured": false
+    },
+    {
+      "id": "d926057850f5",
+      "source": "Dropsite News",
+      "headline": "Iran and U.S. renew Hormuz attacks; Trump escalates Canada trade war; 13 killed in Sudan drone strike",
+      "excerpt": "Drop Site Daily: September 9, 2026",
+      "link": "https://www.dropsitenews.com/p/iran-us-hormuz-trump-canada-trade-sudan-drone-strike",
+      "published": "2026-09-09T14:34:35+00:00",
       "featured": false
     },
     {
@@ -380,96 +470,6 @@
       "featured": false
     },
     {
-      "id": "45a90264bcde",
-      "source": "ICIJ",
-      "headline": "Crypto giant Tether promised careful vetting. Some early customers were later implicated in financial crimes.",
-      "excerpt": "Financial records obtained by ICIJ show that they included individuals later accused of or sanctioned for money laundering and other financial crimes.",
-      "link": "https://www.icij.org/investigations/coin-laundry/crypto-giant-tether-promised-careful-vetting-some-early-customers-were-later-implicated-in-financial-crimes/",
-      "published": "2026-08-31T16:58:13+00:00",
-      "featured": false
-    },
-    {
-      "id": "5922f7299c46",
-      "source": "More Perfect Union",
-      "headline": "I Tracked Down the Company Ruining Fruit",
-      "excerpt": "Driscoll’s is the middleman that controls the genetics, reaps the profits, and then shifts blame.",
-      "link": "https://substack.perfectunion.us/p/i-tracked-down-the-company-ruining",
-      "published": "2026-08-26T17:57:20+00:00",
-      "featured": false
-    },
-    {
-      "id": "869a466455ee",
-      "source": "Al Jazeera",
-      "headline": "Putin lands in India for BRICs summit, shadowed by Iran and Ukraine wars",
-      "excerpt": "Russian, Iranian leaders due to hold talks with India's Modi at summit dominated by wars in Middle East and Ukraine.",
-      "link": "https://www.aljazeera.com/news/2026/9/11/putin-lands-in-india-for-brics-summit-shadowed-by-iran-and-ukraine-wars?traffic_source=rss",
-      "published": "2026-09-11T02:40:19+00:00",
-      "featured": false
-    },
-    {
-      "id": "5024518061fd",
-      "source": "ProPublica",
-      "headline": "The Dominican Baseball Factory",
-      "excerpt": "The post The Dominican Baseball Factory appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/how-dominican-republic-baseball-factory-traps-players-mlb-santo-caraballo",
-      "published": "2026-09-10T09:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "f3975c2c0e2a",
-      "source": "The Lever",
-      "headline": "Midterm Madness: K Street Has Entered The Chat",
-      "excerpt": "Joe Crowley resurfaced on CNN to champion centrist Democrats — without dwelling on his lucrative second act representing corporate interests.",
-      "link": "https://www.levernews.com/midterm-madness-k-street-has-entered-the-chat/",
-      "published": "2026-09-09T18:42:03+00:00",
-      "featured": false
-    },
-    {
-      "id": "4ee669e9fa21",
-      "source": "404 Media",
-      "headline": "Podcast: DHS’ Secretive ‘Predictive Policing’ Unit Pulling People Over",
-      "excerpt": "Secretive predictive policing units; a funk shirt designed to fool AI; and our third anniversary party.",
-      "link": "https://www.404media.co/podcast-dhs-secretive-predictive-policing-unit-pulling-people-over/",
-      "published": "2026-09-09T16:37:02+00:00",
-      "featured": false
-    },
-    {
-      "id": "d926057850f5",
-      "source": "Dropsite News",
-      "headline": "Iran and U.S. renew Hormuz attacks; Trump escalates Canada trade war; 13 killed in Sudan drone strike",
-      "excerpt": "Drop Site Daily: September 9, 2026",
-      "link": "https://www.dropsitenews.com/p/iran-us-hormuz-trump-canada-trade-sudan-drone-strike",
-      "published": "2026-09-09T14:34:35+00:00",
-      "featured": false
-    },
-    {
-      "id": "c04a47585455",
-      "source": "OCCRP",
-      "headline": "Philippine Ex-Speaker Arrested in $118M Plunder Case",
-      "excerpt": "Former Philippine House Speaker Martin Romualdez, a cousin of President Ferdinand Marcos Jr., has been arrested over allegations that he helped collect billions of pesos in kickbacks from government infrastructure...",
-      "link": "https://www.occrp.org/en/news/philippine-ex-speaker-arrested-in-118m-plunder-case",
-      "published": "2026-09-08T17:38:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "1fa67ffdd9f2",
-      "source": "The Intercept",
-      "headline": "FAA Investigates Drone Pilot Who Films Animal Abusers",
-      "excerpt": "The cattle ranch at the center of the case demands strict drone regulations, saying legal flyovers threatened “food security.” The post FAA Investigates Drone Pilot Who Films Animal Abusers appeared first on The...",
-      "link": "https://theintercept.com/2026/09/08/faa-drone-pilot-animal-abuse-cattle-farm/",
-      "published": "2026-09-08T15:16:34+00:00",
-      "featured": false
-    },
-    {
-      "id": "8a174d71a2e1",
-      "source": "Rest of World",
-      "headline": "I refused to train the AI that could replace me",
-      "excerpt": "AI companies are paying highly educated workers to teach machines the judgment they spent years developing — even when those systems could eventually replace them.",
-      "link": "https://restofworld.org/2026/ai-training-jobs-expert-replacement/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-      "published": "2026-09-03T10:00:00+00:00",
-      "featured": false
-    },
-    {
       "id": "75bbae1b928f",
       "source": "More Perfect Union",
       "headline": "We Investigated Uber Again. It’s Worse Than Last Time.",
@@ -488,21 +488,30 @@
       "featured": false
     },
     {
-      "id": "d31db3b407cf",
+      "id": "27beb931c7c2",
       "source": "Al Jazeera",
-      "headline": "Brazil’s Supreme Court shuts down early as political chaos mounts",
-      "excerpt": "Members of the high court have exchanged accusations after one justice was accused of involvement in a bank scandal.",
-      "link": "https://www.aljazeera.com/news/2026/9/11/brazils-supreme-court-shuts-down-early-as-political-chaos-mounts?traffic_source=rss",
-      "published": "2026-09-11T02:04:50+00:00",
+      "headline": "World Athletics Ultimate Championship opens with record $10m prize pot",
+      "excerpt": "The inaugural Ultimate Championship opens with Olympic Games champions competing for a record prize pot of $10m.",
+      "link": "https://www.aljazeera.com/sports/2026/9/11/world-athletics-ultimate-championship-opens-with-record-10m-prize-pot?traffic_source=rss",
+      "published": "2026-09-11T08:50:40+00:00",
       "featured": false
     },
     {
-      "id": "d8ea251e4b09",
+      "id": "60d2dca9dd01",
       "source": "ProPublica",
-      "headline": "U.S. Postal Service Failed to Properly Handle Some Ballots During This Year’s Primary Elections, Audit Finds",
-      "excerpt": "The post U.S. Postal Service Failed to Properly Handle Some Ballots During This Year’s Primary Elections, Audit Finds appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/postal-service-audit-primary-election-ballots",
-      "published": "2026-09-10T00:35:00+00:00",
+      "headline": "The Rising Baseball Star, a Fatal Car Crash and the Fixer",
+      "excerpt": "The post The Rising Baseball Star, a Fatal Car Crash and the Fixer appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/oneil-cruz-pittsburgh-pirates-santo-caraballo-car-crash-payments-dominican-republic",
+      "published": "2026-09-10T09:02:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "f3975c2c0e2a",
+      "source": "The Lever",
+      "headline": "Midterm Madness: K Street Has Entered The Chat",
+      "excerpt": "Joe Crowley resurfaced on CNN to champion centrist Democrats — without dwelling on his lucrative second act representing corporate interests.",
+      "link": "https://www.levernews.com/midterm-madness-k-street-has-entered-the-chat/",
+      "published": "2026-09-09T18:42:03+00:00",
       "featured": false
     },
     {
@@ -515,21 +524,12 @@
       "featured": false
     },
     {
-      "id": "138206c315f3",
-      "source": "The Lever",
-      "headline": "Trump's Fed Chief Missed The AI-flation Memo",
-      "excerpt": "New Federal Reserve Chair Kevin Warsh ignored the U.S. central bank’s own research when he said AI’s economic impacts are unknown.",
-      "link": "https://www.levernews.com/trumps-fed-chief-missed-the-ai-flation-memo/",
-      "published": "2026-09-08T18:05:22+00:00",
-      "featured": false
-    },
-    {
-      "id": "c751c447a315",
+      "id": "c04a47585455",
       "source": "OCCRP",
-      "headline": "Spanish Police Dismantle 'Dubai Bank' Narco-Network, Arrest 21",
-      "excerpt": "The massive international probe, sparked by the intentional sinking of a cocaine-laden ship in 2021, took down a high-value Europol target and crippled an underground financial network used to fund global drug shipments.",
-      "link": "https://www.occrp.org/en/news/spanish-police-dismantle-dubai-bank-narco-network-arrest-21",
-      "published": "2026-09-08T17:30:00+00:00",
+      "headline": "Philippine Ex-Speaker Arrested in $118M Plunder Case",
+      "excerpt": "Former Philippine House Speaker Martin Romualdez, a cousin of President Ferdinand Marcos Jr., has been arrested over allegations that he helped collect billions of pesos in kickbacks from government infrastructure...",
+      "link": "https://www.occrp.org/en/news/philippine-ex-speaker-arrested-in-118m-plunder-case",
+      "published": "2026-09-08T17:38:00+00:00",
       "featured": false
     },
     {
