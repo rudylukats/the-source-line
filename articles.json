@@ -1,22 +1,31 @@
 {
-  "generated_at": "2026-09-13T11:54:08.393725+00:00",
+  "generated_at": "2026-09-13T16:18:20.536893+00:00",
   "articles": [
     {
-      "id": "0d7e4947b842",
+      "id": "151bc7ae4bdb",
       "source": "Al Jazeera",
-      "headline": "Philippines set for historic vote in Bangsamoro after decades of conflict",
-      "excerpt": "Philippines set for historic vote in Bangsamoro after decades of conflict",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/13/philippines-set-for-historic-vote-in-bangsamoro-after-decades-of-conflict?traffic_source=rss",
-      "published": "2026-09-13T11:35:04+00:00",
+      "headline": "World leaders gather in New Delhi for final day of BRICS summit",
+      "excerpt": "BRICS leaders gathered in New Delhi for the final day of the summit amid divisions over the wars in Iran and Ukraine.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/13/world-leaders-gather-in-new-delhi-for-final-day-of-brics-summit?traffic_source=rss",
+      "published": "2026-09-13T15:40:24+00:00",
       "featured": true
     },
     {
-      "id": "bb44cf9826e3",
+      "id": "d37c36f911c1",
+      "source": "The Intercept",
+      "headline": "Centrists Are Soft-Launching the Idea That We Have a Little Too Much Democracy",
+      "excerpt": "As the right attacks mass participation head on, the center is telling the rest of us to pipe down while the elites are talking. The post Centrists Are Soft-Launching the Idea That We Have a Little Too Much Democracy...",
+      "link": "https://theintercept.com/2026/09/13/centrist-liberals-democracy-small-dollar-donors/",
+      "published": "2026-09-13T13:55:08+00:00",
+      "featured": true
+    },
+    {
+      "id": "58645d5df427",
       "source": "The Lever",
-      "headline": "THE KINGMAKERS, Ep. 8: The Inheritance",
-      "excerpt": "What should the next president do with all the power that Donald Trump leaves behind?",
-      "link": "https://www.levernews.com/the-kingmakers-ep-8-the-inheritance/",
-      "published": "2026-09-13T08:15:00+00:00",
+      "headline": "Lever Weekly: Ctrl-Alt-Defeat",
+      "excerpt": "Silicon Valley goes ballistic, 9/11’s ties to Trump, and more from The Lever this week.",
+      "link": "https://www.levernews.com/lever-weekly-ctrl-alt-defeat/",
+      "published": "2026-09-13T12:52:09+00:00",
       "featured": true
     },
     {
@@ -26,7 +35,7 @@
       "excerpt": "The planet’s radius may have shrunk by between four and six miles since it was formed due to global cooling, a contraction that is up to 30 percent larger than previously estimated.",
       "link": "https://www.404media.co/mercury-is-shrinking-way-faster-than-we-thought-scientists-discover/",
       "published": "2026-09-12T10:00:10+00:00",
-      "featured": true
+      "featured": false
     },
     {
       "id": "ac5bb3035f70",
@@ -61,15 +70,6 @@
       "headline": "Vouchers Promise Students With Disabilities a Path to Private School. Parents Say That’s Not the Reality.",
       "excerpt": "The post Vouchers Promise Students With Disabilities a Path to Private School. Parents Say That’s Not the Reality. appeared first on ProPublica.",
       "link": "https://www.propublica.org/article/school-vouchers-disabilities",
-      "published": "2026-09-11T10:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "14422c8a6b68",
-      "source": "The Intercept",
-      "headline": "Osama Bin Laden Won",
-      "excerpt": "The architect of the September 11 attacks dreamed of the destruction of America. In the last 25 years, his wish has come true. The post Osama Bin Laden Won appeared first on The Intercept.",
-      "link": "https://theintercept.com/2026/09/11/bin-laden-september-11-trump-america/",
       "published": "2026-09-11T10:00:00+00:00",
       "featured": false
     },
@@ -110,21 +110,21 @@
       "featured": false
     },
     {
-      "id": "289fc0b03902",
+      "id": "f2efb6c58dc0",
       "source": "Al Jazeera",
-      "headline": "Fighting continues between Yemen gov’t forces, Houthis: What is the latest?",
-      "excerpt": "Government forces and Saudi Arabia carry out air attacks to stop Houthis' advance as thousands displaced by conflict.",
-      "link": "https://www.aljazeera.com/news/2026/9/13/fighting-continues-between-yemen-govt-forces-houthis-what-is-the-latest?traffic_source=rss",
-      "published": "2026-09-13T10:47:19+00:00",
+      "headline": "As Chavez and Maduro images disappear, is Venezuela entering a new chapter?",
+      "excerpt": "As part of Delcy Rodriguez's 'Venezuela reborn' campaign, murals of leaders like Hugo Chavez are being removed.",
+      "link": "https://www.aljazeera.com/features/longform/2026/9/13/as-chavez-and-maduro-images-disappear-is-venezuela-entering-a-new-chapter?traffic_source=rss",
+      "published": "2026-09-13T15:22:59+00:00",
       "featured": false
     },
     {
-      "id": "bdab15573d65",
+      "id": "bb44cf9826e3",
       "source": "The Lever",
-      "headline": "You Love To See It: Holy Habitat, Batman!",
-      "excerpt": "A judge goes to bat, solidarity does a body good, trans care gets an insurance policy, and buffalo roam free once again.",
-      "link": "https://www.levernews.com/you-love-to-see-it-holy-habitat-batman/",
-      "published": "2026-09-12T13:05:10+00:00",
+      "headline": "THE KINGMAKERS, Ep. 8: The Inheritance",
+      "excerpt": "What should the next president do with all the power that Donald Trump leaves behind?",
+      "link": "https://www.levernews.com/the-kingmakers-ep-8-the-inheritance/",
+      "published": "2026-09-13T08:15:00+00:00",
       "featured": false
     },
     {
@@ -155,6 +155,15 @@
       "featured": false
     },
     {
+      "id": "14422c8a6b68",
+      "source": "The Intercept",
+      "headline": "Osama Bin Laden Won",
+      "excerpt": "The architect of the September 11 attacks dreamed of the destruction of America. In the last 25 years, his wish has come true. The post Osama Bin Laden Won appeared first on The Intercept.",
+      "link": "https://theintercept.com/2026/09/11/bin-laden-september-11-trump-america/",
+      "published": "2026-09-11T10:00:00+00:00",
+      "featured": false
+    },
+    {
       "id": "f7a9a30bdd06",
       "source": "ProPublica",
       "headline": "EPA to Loosen Methane Rules, Boosting Pollution From Oil and Gas Wells",
@@ -170,15 +179,6 @@
       "excerpt": "A short-lived generative AI feature in Google Earth that allowed users to create fake satellite imagery shows the lasting effects of unvetted AI tools during a conflict.",
       "link": "https://restofworld.org/2026/google-earth-ai-deepfake-iran-war/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "published": "2026-09-10T10:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "a4095b9a9a10",
-      "source": "The Intercept",
-      "headline": "Fired After the Charlie Kirk Revenge Purge, They’re Still Unemployed",
-      "excerpt": "A year after his killing, people who lost their jobs for criticizing Charlie Kirk are still suffering under the erosion of free speech. The post Fired After the Charlie Kirk Revenge Purge, They’re Still Unemployed...",
-      "link": "https://theintercept.com/2026/09/10/charlie-kirk-fired-censorship-free-speech/",
-      "published": "2026-09-10T09:51:00+00:00",
       "featured": false
     },
     {
@@ -209,21 +209,21 @@
       "featured": false
     },
     {
-      "id": "453e744fcec7",
+      "id": "8ffcfcabcd5f",
       "source": "Al Jazeera",
-      "headline": "Israeli attack on Gaza kills two Palestinians",
-      "excerpt": "Israeli strikes on Palestinian territory persist despite a 'ceasefire' brokered by the United States.",
-      "link": "https://www.aljazeera.com/news/2026/9/13/israeli-attack-on-gaza-kills-two-palestinians?traffic_source=rss",
-      "published": "2026-09-13T10:22:01+00:00",
+      "headline": "What are the five pros and cons of artificial intelligence?",
+      "excerpt": "AI creates new opportunities in programming and automation, but experts warn of risks to early-career workers.",
+      "link": "https://www.aljazeera.com/news/2026/9/13/what-are-the-five-pros-and-cons-of-artificial-intelligence?traffic_source=rss",
+      "published": "2026-09-13T15:03:48+00:00",
       "featured": false
     },
     {
-      "id": "78a8d2c27984",
+      "id": "bdab15573d65",
       "source": "The Lever",
-      "headline": "Who Let The Bots Out?",
-      "excerpt": "Test your knowledge of the battle for the soul of the Democratic Party, America’s war machine, and other issues that really matter.",
-      "link": "https://www.levernews.com/who-let-the-bots-out/",
-      "published": "2026-09-11T16:59:28+00:00",
+      "headline": "You Love To See It: Holy Habitat, Batman!",
+      "excerpt": "A judge goes to bat, solidarity does a body good, trans care gets an insurance policy, and buffalo roam free once again.",
+      "link": "https://www.levernews.com/you-love-to-see-it-holy-habitat-batman/",
+      "published": "2026-09-12T13:05:10+00:00",
       "featured": false
     },
     {
@@ -263,12 +263,12 @@
       "featured": false
     },
     {
-      "id": "392b7e58d606",
+      "id": "a4095b9a9a10",
       "source": "The Intercept",
-      "headline": "Pentagon Employee DataRepublican Posts Inside Info About Hacks Against the Far Left",
-      "excerpt": "A far-right hacker that touts cyber attacks on leftist sites has close ties to DataRepublican, the X account of a Pentagon employee. The post Pentagon Employee DataRepublican Posts Inside Info About Hacks Against the...",
-      "link": "https://theintercept.com/2026/09/10/datarepublican-influencer-noblogs-hack-pentagon/",
-      "published": "2026-09-10T08:00:00+00:00",
+      "headline": "Fired After the Charlie Kirk Revenge Purge, They’re Still Unemployed",
+      "excerpt": "A year after his killing, people who lost their jobs for criticizing Charlie Kirk are still suffering under the erosion of free speech. The post Fired After the Charlie Kirk Revenge Purge, They’re Still Unemployed...",
+      "link": "https://theintercept.com/2026/09/10/charlie-kirk-fired-censorship-free-speech/",
+      "published": "2026-09-10T09:51:00+00:00",
       "featured": false
     },
     {
@@ -308,12 +308,21 @@
       "featured": false
     },
     {
-      "id": "c9457fb9b93a",
+      "id": "8987d2eb3830",
       "source": "Al Jazeera",
-      "headline": "A kingdom within a republic: Inside Uganda’s Buganda",
-      "excerpt": "The kingdom’s traditions and institutions have endured through colonial rule, independence and decades of upheaval.",
-      "link": "https://www.aljazeera.com/news/2026/9/13/a-kingdom-within-a-republic-inside-ugandas-buganda?traffic_source=rss",
-      "published": "2026-09-13T10:12:15+00:00",
+      "headline": "Red Sea nations watch as Houthis seize Bab al-Mandeb strait",
+      "excerpt": "Houthi control of Bab al-Mandeb chokes Suez Canal revenues, triggers refugee flows, and exposes regional security gaps.",
+      "link": "https://www.aljazeera.com/economy/2026/9/13/red-sea-nations-watch-as-houthis-seize-bab-al-mandeb-strait?traffic_source=rss",
+      "published": "2026-09-13T15:00:47+00:00",
+      "featured": false
+    },
+    {
+      "id": "78a8d2c27984",
+      "source": "The Lever",
+      "headline": "Who Let The Bots Out?",
+      "excerpt": "Test your knowledge of the battle for the soul of the Democratic Party, America’s war machine, and other issues that really matter.",
+      "link": "https://www.levernews.com/who-let-the-bots-out/",
+      "published": "2026-09-11T16:59:28+00:00",
       "featured": false
     },
     {
@@ -335,15 +344,6 @@
       "featured": false
     },
     {
-      "id": "9b3d5fc124e1",
-      "source": "The Lever",
-      "headline": "9/11 Changed America — And Built Trump’s Playbook",
-      "excerpt": "The Lever’s founder reflects on how presidents of both parties turned the War on Terror into a decades-long expansion of White House power",
-      "link": "https://www.levernews.com/9-11-changed-america-and-built-trumps-playbook/",
-      "published": "2026-09-11T09:55:24+00:00",
-      "featured": false
-    },
-    {
       "id": "309fa9f3c906",
       "source": "OCCRP",
       "headline": "Australia Charges Accountants in Multimillion-Dollar Loan Fraud Scheme",
@@ -362,12 +362,12 @@
       "featured": false
     },
     {
-      "id": "bb249cbe10ca",
+      "id": "392b7e58d606",
       "source": "The Intercept",
-      "headline": "United Airlines Ships War Materiel to Israel Aboard Passenger Flights",
-      "excerpt": "The unfriendly skies: On United, your checked bags might be riding alongside some tank parts bound for Israel. The post United Airlines Ships War Materiel to Israel Aboard Passenger Flights appeared first on The...",
-      "link": "https://theintercept.com/2026/09/09/united-airlines-flights-israel-weapons-hardware-transport/",
-      "published": "2026-09-09T17:46:59+00:00",
+      "headline": "Pentagon Employee DataRepublican Posts Inside Info About Hacks Against the Far Left",
+      "excerpt": "A far-right hacker that touts cyber attacks on leftist sites has close ties to DataRepublican, the X account of a Pentagon employee. The post Pentagon Employee DataRepublican Posts Inside Info About Hacks Against the...",
+      "link": "https://theintercept.com/2026/09/10/datarepublican-influencer-noblogs-hack-pentagon/",
+      "published": "2026-09-10T08:00:00+00:00",
       "featured": false
     },
     {
@@ -398,21 +398,21 @@
       "featured": false
     },
     {
-      "id": "043e1b87b66c",
+      "id": "5b1162cb89c8",
       "source": "Al Jazeera",
-      "headline": "Niger military government reshuffles army command weeks after deadly mutiny",
-      "excerpt": "New chief of staff appointed after failed mutiny tested military rulers' grip on power.",
-      "link": "https://www.aljazeera.com/news/2026/9/13/niger-military-government-reshuffles-army-command-weeks-after-deadly-mutiny?traffic_source=rss",
-      "published": "2026-09-13T08:54:32+00:00",
+      "headline": "More than 2,000 Yemenis flee to Djibouti amid Houthi advances",
+      "excerpt": "Escalating fighting along Yemen’s western coast has driven more than 2,000 Yemenis across the Red Sea to Djibouti.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/13/more-than-2000-yemenis-flee-to-djibouti-amid-houthi-advances?traffic_source=rss",
+      "published": "2026-09-13T14:38:46+00:00",
       "featured": false
     },
     {
-      "id": "6f387581e7f8",
+      "id": "9b3d5fc124e1",
       "source": "The Lever",
-      "headline": "Dan Osborn Knows Why Democrats Keep Losing Nebraska",
-      "excerpt": "David Sirota travels to the state where “Democrat” is a dirty word and sits down with the union leader taking on Republican Sen. Pete Ricketts, a billionaire’s son.",
-      "link": "https://www.levernews.com/dan-osborn-knows-why-democrats-keep-losing-nebraska/",
-      "published": "2026-09-11T02:20:39+00:00",
+      "headline": "9/11 Changed America — And Built Trump’s Playbook",
+      "excerpt": "The Lever’s founder reflects on how presidents of both parties turned the War on Terror into a decades-long expansion of White House power",
+      "link": "https://www.levernews.com/9-11-changed-america-and-built-trumps-playbook/",
+      "published": "2026-09-11T09:55:24+00:00",
       "featured": false
     },
     {
@@ -452,12 +452,12 @@
       "featured": false
     },
     {
-      "id": "e62c2e545d75",
+      "id": "bb249cbe10ca",
       "source": "The Intercept",
-      "headline": "Cops Are Using Flock to Spy on People for the Crime of Standing Around",
-      "excerpt": "Records from a single town in Illinois reveal more than 1,200 Flock searches investigate cases of loitering. The post Cops Are Using Flock to Spy on People for the Crime of Standing Around appeared first on The...",
-      "link": "https://theintercept.com/2026/09/09/flock-cameras-police-loitering-curfew-surveillance/",
-      "published": "2026-09-09T10:00:00+00:00",
+      "headline": "United Airlines Ships War Materiel to Israel Aboard Passenger Flights",
+      "excerpt": "The unfriendly skies: On United, your checked bags might be riding alongside some tank parts bound for Israel. The post United Airlines Ships War Materiel to Israel Aboard Passenger Flights appeared first on The...",
+      "link": "https://theintercept.com/2026/09/09/united-airlines-flights-israel-weapons-hardware-transport/",
+      "published": "2026-09-09T17:46:59+00:00",
       "featured": false
     },
     {
@@ -488,21 +488,21 @@
       "featured": false
     },
     {
-      "id": "6ad09230210d",
+      "id": "9834bdc0ed0c",
       "source": "Al Jazeera",
-      "headline": "Voting under way in Sweden election that could see far right in government",
-      "excerpt": "The far-right Sweden Democrats party could enter government for the first time if right-wing bloc wins.",
-      "link": "https://www.aljazeera.com/news/2026/9/13/voting-under-way-in-sweden-election-that-could-see-far-right-enter-govt?traffic_source=rss",
-      "published": "2026-09-13T08:39:49+00:00",
+      "headline": "US Open men’s singles final live: Alexander Zverev vs Ben Shelton",
+      "excerpt": "Follow our live build-up, predictions, score, match photos and text commentary stream of the men's final in New York.",
+      "link": "https://www.aljazeera.com/sports/liveblog/2026/9/13/us-open-mens-singles-final-live-alexander-zverev-vs-ben-shelton?traffic_source=rss",
+      "published": "2026-09-13T14:35:21+00:00",
       "featured": false
     },
     {
-      "id": "5c75d93fd05c",
+      "id": "6f387581e7f8",
       "source": "The Lever",
-      "headline": "The Big Tech Alums Building Trump’s AI War Machine",
-      "excerpt": "A little-known Pentagon office staffed by Big Tech alums is dismantling safeguards and accelerating AI warfare as their former employers compete for lucrative military contracts.",
-      "link": "https://www.levernews.com/the-big-tech-alums-building-trumps-ai-war-machine/",
-      "published": "2026-09-10T19:39:31+00:00",
+      "headline": "Dan Osborn Knows Why Democrats Keep Losing Nebraska",
+      "excerpt": "David Sirota travels to the state where “Democrat” is a dirty word and sits down with the union leader taking on Republican Sen. Pete Ricketts, a billionaire’s son.",
+      "link": "https://www.levernews.com/dan-osborn-knows-why-democrats-keep-losing-nebraska/",
+      "published": "2026-09-11T02:20:39+00:00",
       "featured": false
     },
     {
