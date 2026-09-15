@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-09-15T04:56:08.623200+00:00",
+  "generated_at": "2026-09-15T11:45:07.359919+00:00",
   "articles": [
+    {
+      "id": "e48e7accfc8c",
+      "source": "Al Jazeera",
+      "headline": "Nairobi to host World Athletics Championships in 2029",
+      "excerpt": "Kenyan capital to host Africa's first Athletics Worlds, beating bids from London, Munich and Rome.",
+      "link": "https://www.aljazeera.com/sports/2026/9/15/nairobi-to-host-world-athletics-championships-in-2029?traffic_source=rss",
+      "published": "2026-09-15T10:37:56+00:00",
+      "featured": true
+    },
+    {
+      "id": "ade95723284c",
+      "source": "ProPublica",
+      "headline": "Papa Johns, Propaganda and Putin: How a MAGA Influencer With Ties to Russia Became Trump’s Arctic Adviser",
+      "excerpt": "The post Papa Johns, Propaganda and Putin: How a MAGA Influencer With Ties to Russia Became Trump’s Arctic Adviser appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/thomas-dans-arctic-research-commission-trump-russia-propaganda",
+      "published": "2026-09-15T10:00:00+00:00",
+      "featured": true
+    },
+    {
+      "id": "c4e26b82edf9",
+      "source": "The Intercept",
+      "headline": "Iran War Has the U.S. Military on the Brink of a “Breakdown”",
+      "excerpt": "As the U.S. military faces relentless attacks on its bases, the Iran conflict is “ultimately unsustainable,” one U.S. official told The Intercept. The post Iran War Has the U.S. Military on the Brink of a “Breakdown”...",
+      "link": "https://theintercept.com/2026/09/15/iran-war-us-military-bases/",
+      "published": "2026-09-15T10:00:00+00:00",
+      "featured": true
+    },
+    {
+      "id": "038f69c40c27",
+      "source": "Rest of World",
+      "headline": "Where in the world is the iPhone cheapest?",
+      "excerpt": "Apple’s high-end models cost more in markets like India and Turkey owing to high taxes and import duties.",
+      "link": "https://restofworld.org/2026/iphone-18-pro-global-prices/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "published": "2026-09-15T10:00:00+00:00",
+      "featured": false
+    },
     {
       "id": "9ee84378e270",
       "source": "The Lever",
@@ -8,16 +44,7 @@
       "excerpt": "An exclusive conversation in which David Sirota talks with Matt Stoller and Big Tech critic Ed Zitron about whether we’re staring down an AI apocalypse.",
       "link": "https://www.levernews.com/cutting-through-the-ai-doomsday-noise/",
       "published": "2026-09-15T04:53:59+00:00",
-      "featured": true
-    },
-    {
-      "id": "c3fc5092b292",
-      "source": "Al Jazeera",
-      "headline": "Emmy winners 2026: ‘Widow’s Bay’ and ‘The Pitt’ dominate",
-      "excerpt": "Jean Smart earns fifth Emmy for 'Hacks', becoming the first to win lead comedy actress for every season of the show.",
-      "link": "https://www.aljazeera.com/news/2026/9/15/emmy-winners-2026-widows-bay-and-the-pitt-dominate?traffic_source=rss",
-      "published": "2026-09-15T04:49:34+00:00",
-      "featured": true
+      "featured": false
     },
     {
       "id": "5d6c8504d771",
@@ -26,7 +53,7 @@
       "excerpt": "Confidential records reveal how the Industrial and Commercial Bank of China’s London units courted high-risk clients to secure resources and alliances for Xi Jinping’s regime.",
       "link": "https://www.icij.org/investigations/china-capital/china-banking-icbc-oligarchs-sanctions-london/",
       "published": "2026-09-14T21:41:45+00:00",
-      "featured": true
+      "featured": false
     },
     {
       "id": "d0dbb8ddd9e9",
@@ -44,15 +71,6 @@
       "excerpt": "Ghana’s Narcotics Control Commission has announced the arrest of three suspects, who allegedly aided the activities of Dutch fugitive cocaine kingpin Jos Leijdekkers.",
       "link": "https://www.occrp.org/en/news/ghana-arrested-three-for-allegedly-aiding-dutch-fugitive-drug-lord-jos-leijdekkers",
       "published": "2026-09-14T20:16:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "d6246d2d53b4",
-      "source": "The Intercept",
-      "headline": "Tech CEOs’ Doomsaying Is a Distraction from Real, Existing Harms of AI",
-      "excerpt": "The binary between AI apocalypse and AI redemption asks us to ignore data centers and AI war machines — all as tech executives get incredibly rich. The post Tech CEOs’ Doomsaying Is a Distraction from Real, Existing...",
-      "link": "https://theintercept.com/2026/09/14/ai-doom-apocalypse-risk/",
-      "published": "2026-09-14T19:20:37+00:00",
       "featured": false
     },
     {
@@ -74,24 +92,6 @@
       "featured": false
     },
     {
-      "id": "5d4dd6137eb0",
-      "source": "Rest of World",
-      "headline": "The real AI economy is being built by ordinary people",
-      "excerpt": "Far from Silicon Valley pitch decks, workers across Asia and Africa are bypassing tech industry hype to quietly rewire their daily jobs — one prompt, workflow, and local problem at a time.",
-      "link": "https://restofworld.org/2026/global-workers-using-ai-at-work/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-      "published": "2026-09-14T10:00:31+00:00",
-      "featured": false
-    },
-    {
-      "id": "69871f74a92e",
-      "source": "ProPublica",
-      "headline": "Donald Trump Jr.’s Bahamas Wedding Was Secretly Bankrolled by Russian Oligarch Close to Putin",
-      "excerpt": "The post Donald Trump Jr.’s Bahamas Wedding Was Secretly Bankrolled by Russian Oligarch Close to Putin appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/donald-trump-jr-wedding-bankrolled-russian-oligarch-umar-kremlev-putin",
-      "published": "2026-09-14T09:00:00+00:00",
-      "featured": false
-    },
-    {
       "id": "5870ecdc54cb",
       "source": "The Markup",
       "headline": "How TikTok and Google ended up with information about doctors’ appointments around the world",
@@ -110,12 +110,21 @@
       "featured": false
     },
     {
-      "id": "7c61af4f06ce",
+      "id": "20fc81b0aac6",
       "source": "Al Jazeera",
-      "headline": "Millions line up for ‘sacred henna’ at Indian temple",
-      "excerpt": "Drone visuals show masses lining up at Indian temple for sacred henna, believed to help unmarried people find a match.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/15/millions-line-up-for-sacred-henna-at-indian-temple?traffic_source=rss",
-      "published": "2026-09-15T04:42:40+00:00",
+      "headline": "UN experts say Belarus justice system used to target Lukashenko opponents",
+      "excerpt": "The experts say courts, police, security services, prosecutors, and prison authorities work together to silence critics.",
+      "link": "https://www.aljazeera.com/news/2026/9/15/un-experts-say-belarus-justice-system-used-to-target-lukashenko-opponents?traffic_source=rss",
+      "published": "2026-09-15T10:21:22+00:00",
+      "featured": false
+    },
+    {
+      "id": "4269e0b72225",
+      "source": "ProPublica",
+      "headline": "Underage Players, Predatory Moneylenders: 7 Findings From Our Dominican Baseball Investigation",
+      "excerpt": "The post Underage Players, Predatory Moneylenders: 7 Findings From Our Dominican Baseball Investigation appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/dominican-republic-baseball-major-league-takeaways",
+      "published": "2026-09-15T09:00:00+00:00",
       "featured": false
     },
     {
@@ -146,6 +155,15 @@
       "featured": false
     },
     {
+      "id": "d6246d2d53b4",
+      "source": "The Intercept",
+      "headline": "Tech CEOs’ Doomsaying Is a Distraction from Real, Existing Harms of AI",
+      "excerpt": "The binary between AI apocalypse and AI redemption asks us to ignore data centers and AI war machines — all as tech executives get incredibly rich. The post Tech CEOs’ Doomsaying Is a Distraction from Real, Existing...",
+      "link": "https://theintercept.com/2026/09/14/ai-doom-apocalypse-risk/",
+      "published": "2026-09-14T19:20:37+00:00",
+      "featured": false
+    },
+    {
       "id": "f9e280b19b85",
       "source": "404 Media",
       "headline": "Cops Search Thousands of Flock Cameras for Reasons of ‘LMAO,’ ‘IDK,’ ‘Hehe,’ and ‘asdfg’",
@@ -164,30 +182,12 @@
       "featured": false
     },
     {
-      "id": "a1064babfc34",
-      "source": "The Intercept",
-      "headline": "The AI Doomsday Future Is Not Inevitable",
-      "excerpt": "Sam Biddle and 404 Media’s Jason Koebler discuss the government’s growing use of private contractors, from Flock to Claude, to surveil and kill abroad and at home. The post The AI Doomsday Future Is Not Inevitable...",
-      "link": "https://theintercept.com/2026/09/14/surveillance-tech-ai-military-flock/",
-      "published": "2026-09-14T11:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "24ac643242e5",
-      "source": "ProPublica",
-      "headline": "Vouchers Promise Students With Disabilities a Path to Private School. Parents Say That’s Not the Reality.",
-      "excerpt": "The post Vouchers Promise Students With Disabilities a Path to Private School. Parents Say That’s Not the Reality. appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/school-vouchers-disabilities",
-      "published": "2026-09-11T10:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "2cbb34be4852",
+      "id": "5d4dd6137eb0",
       "source": "Rest of World",
-      "headline": "The AI talent war is coming for Big Tech’s Asia executives",
-      "excerpt": "OpenAI and Anthropic are hiring leaders from Meta, Google, Microsoft, and other U.S. tech giants to win new markets across India and Southeast Asia.",
-      "link": "https://restofworld.org/2026/openai-anthropic-big-tech-executives-asia/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-      "published": "2026-09-11T10:00:00+00:00",
+      "headline": "The real AI economy is being built by ordinary people",
+      "excerpt": "Far from Silicon Valley pitch decks, workers across Asia and Africa are bypassing tech industry hype to quietly rewire their daily jobs — one prompt, workflow, and local problem at a time.",
+      "link": "https://restofworld.org/2026/global-workers-using-ai-at-work/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "published": "2026-09-14T10:00:31+00:00",
       "featured": false
     },
     {
@@ -218,12 +218,12 @@
       "featured": false
     },
     {
-      "id": "8af7fcaa8997",
+      "id": "9ea24f61700e",
       "source": "Al Jazeera",
-      "headline": "Trump calls, interrupts Nvidia CEO to say AI fears are ‘a hoax’",
-      "excerpt": "US President Donald Trump makes a surprise call to Nvidia's CEO, interrupting a live event to discuss fears about AI.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/15/14-09-clip-trump-comments-on-ai?traffic_source=rss",
-      "published": "2026-09-15T03:28:42+00:00",
+      "headline": "US Supreme Court rejects Trump’s plans on postal ballots: Why it matters",
+      "excerpt": "Trump has repeatedly criticised mail-in votes and has attempted to restrict them ahead of the midterms.",
+      "link": "https://www.aljazeera.com/news/2026/9/15/us-supreme-court-rejects-trumps-plans-on-postal-ballots-why-it-matters?traffic_source=rss",
+      "published": "2026-09-15T09:15:01+00:00",
       "featured": false
     },
     {
@@ -263,12 +263,21 @@
       "featured": false
     },
     {
-      "id": "1b06067f1abe",
+      "id": "a1064babfc34",
       "source": "The Intercept",
-      "headline": "Columbia Gives Big Money to Pro-Israel Groups — But Not to Pro-Palestine Ones",
-      "excerpt": "Groups like the ADL and AIPAC’s charity arm received cash from Columbia over the past three years, as the school cracked down on student protests. The post Columbia Gives Big Money to Pro-Israel Groups — But Not to...",
-      "link": "https://theintercept.com/2026/09/14/columbia-israel-donations-payments-adl-aipac/",
-      "published": "2026-09-14T09:49:00+00:00",
+      "headline": "The AI Doomsday Future Is Not Inevitable",
+      "excerpt": "Sam Biddle and 404 Media’s Jason Koebler discuss the government’s growing use of private contractors, from Flock to Claude, to surveil and kill abroad and at home. The post The AI Doomsday Future Is Not Inevitable...",
+      "link": "https://theintercept.com/2026/09/14/surveillance-tech-ai-military-flock/",
+      "published": "2026-09-14T11:00:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "69871f74a92e",
+      "source": "ProPublica",
+      "headline": "Donald Trump Jr.’s Bahamas Wedding Was Secretly Bankrolled by Russian Oligarch Close to Putin",
+      "excerpt": "The post Donald Trump Jr.’s Bahamas Wedding Was Secretly Bankrolled by Russian Oligarch Close to Putin appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/donald-trump-jr-wedding-bankrolled-russian-oligarch-umar-kremlev-putin",
+      "published": "2026-09-14T09:00:00+00:00",
       "featured": false
     },
     {
@@ -281,21 +290,12 @@
       "featured": false
     },
     {
-      "id": "f7a9a30bdd06",
-      "source": "ProPublica",
-      "headline": "EPA to Loosen Methane Rules, Boosting Pollution From Oil and Gas Wells",
-      "excerpt": "The post EPA to Loosen Methane Rules, Boosting Pollution From Oil and Gas Wells appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/methane-gas-epa-proposal-stripper-wells",
-      "published": "2026-09-11T09:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "f2fc1ddbbcff",
+      "id": "2cbb34be4852",
       "source": "Rest of World",
-      "headline": "Google Earth’s AI experiment lasted 24 hours. The damage to trust will linger",
-      "excerpt": "A short-lived generative AI feature in Google Earth that allowed users to create fake satellite imagery shows the lasting effects of unvetted AI tools during a conflict.",
-      "link": "https://restofworld.org/2026/google-earth-ai-deepfake-iran-war/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-      "published": "2026-09-10T10:00:00+00:00",
+      "headline": "The AI talent war is coming for Big Tech’s Asia executives",
+      "excerpt": "OpenAI and Anthropic are hiring leaders from Meta, Google, Microsoft, and other U.S. tech giants to win new markets across India and Southeast Asia.",
+      "link": "https://restofworld.org/2026/openai-anthropic-big-tech-executives-asia/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "published": "2026-09-11T10:00:00+00:00",
       "featured": false
     },
     {
@@ -317,12 +317,12 @@
       "featured": false
     },
     {
-      "id": "21b1e15ec563",
+      "id": "a23f445f5a73",
       "source": "Al Jazeera",
-      "headline": "US Supreme Court rejects Trump mail ballot restrictions ahead of midterms",
-      "excerpt": "US Supreme Court rejects Trump’s bid to tighten mail-in voting rules ahead of critical midterm elections.",
-      "link": "https://www.aljazeera.com/news/2026/9/15/us-supreme-court-rejects-trump-mail-ballot-restrictions-ahead-of-midterms?traffic_source=rss",
-      "published": "2026-09-15T03:21:23+00:00",
+      "headline": "Mitch McConnell returns to US Senate after three-month absence",
+      "excerpt": "Senator McConnell casts his first vote since June, pledging presence for crucial Senate decisions.",
+      "link": "https://www.aljazeera.com/news/2026/9/15/mitch-mcconnell-returns-to-us-senate-after-three-month-absence?traffic_source=rss",
+      "published": "2026-09-15T08:41:10+00:00",
       "featured": false
     },
     {
@@ -353,12 +353,12 @@
       "featured": false
     },
     {
-      "id": "d37c36f911c1",
+      "id": "1b06067f1abe",
       "source": "The Intercept",
-      "headline": "Centrists Are Soft-Launching the Idea That We Have a Little Too Much Democracy",
-      "excerpt": "As the right attacks mass participation head on, the center is telling the rest of us to pipe down while the elites are talking. The post Centrists Are Soft-Launching the Idea That We Have a Little Too Much Democracy...",
-      "link": "https://theintercept.com/2026/09/13/centrist-liberals-democracy-small-dollar-donors/",
-      "published": "2026-09-13T13:55:08+00:00",
+      "headline": "Columbia Gives Big Money to Pro-Israel Groups — But Not to Pro-Palestine Ones",
+      "excerpt": "Groups like the ADL and AIPAC’s charity arm received cash from Columbia over the past three years, as the school cracked down on student protests. The post Columbia Gives Big Money to Pro-Israel Groups — But Not to...",
+      "link": "https://theintercept.com/2026/09/14/columbia-israel-donations-payments-adl-aipac/",
+      "published": "2026-09-14T09:49:00+00:00",
       "featured": false
     },
     {
@@ -380,21 +380,21 @@
       "featured": false
     },
     {
-      "id": "11246f5fca6a",
+      "id": "24ac643242e5",
       "source": "ProPublica",
-      "headline": "Empty Seat: U.S. Absent as Western Powers Meet on Wartime Protections for Civilians",
-      "excerpt": "The post Empty Seat: U.S. Absent as Western Powers Meet on Wartime Protections for Civilians appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/trump-hegseth-dod-nato-civilian-harm-reduction-absent",
-      "published": "2026-09-10T11:00:00+00:00",
+      "headline": "Vouchers Promise Students With Disabilities a Path to Private School. Parents Say That’s Not the Reality.",
+      "excerpt": "The post Vouchers Promise Students With Disabilities a Path to Private School. Parents Say That’s Not the Reality. appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/school-vouchers-disabilities",
+      "published": "2026-09-11T10:00:00+00:00",
       "featured": false
     },
     {
-      "id": "0695dbe46a7c",
+      "id": "f2fc1ddbbcff",
       "source": "Rest of World",
-      "headline": "Now it’s China’s experts who are gig workers training AI",
-      "excerpt": "Squeezed by a stagnant economy and state directives, China's underemployed lawyers, architects, and engineers are taking cheap gig work to teach AI their exact trades — just to pay this month's mortgage.",
-      "link": "https://restofworld.org/2026/china-expert-ai-trainers/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-      "published": "2026-09-09T10:00:00+00:00",
+      "headline": "Google Earth’s AI experiment lasted 24 hours. The damage to trust will linger",
+      "excerpt": "A short-lived generative AI feature in Google Earth that allowed users to create fake satellite imagery shows the lasting effects of unvetted AI tools during a conflict.",
+      "link": "https://restofworld.org/2026/google-earth-ai-deepfake-iran-war/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "published": "2026-09-10T10:00:00+00:00",
       "featured": false
     },
     {
@@ -416,12 +416,12 @@
       "featured": false
     },
     {
-      "id": "e4ba53f985ba",
+      "id": "96fca0937c5b",
       "source": "Al Jazeera",
-      "headline": "Trump administration suffers double legal setback over immigration policy",
-      "excerpt": "Courts and Democratic-led states mount legal challenges against Trump administration visa and green card limits.",
-      "link": "https://www.aljazeera.com/news/2026/9/15/trump-administration-suffers-double-legal-setback-over-immigration-rules?traffic_source=rss",
-      "published": "2026-09-15T02:31:18+00:00",
+      "headline": "Houthis say air strikes hit Yemen after Saudi Arabia vows ‘firm’ response",
+      "excerpt": "Saudi-led coalition promises to respond 'firmly' to Houthi strikes on urban areas in Saudi Arabia.",
+      "link": "https://www.aljazeera.com/news/2026/9/15/houthis-report-air-strikes-in-yemen-after-saudi-arabia-vows-firm-response?traffic_source=rss",
+      "published": "2026-09-15T08:11:09+00:00",
       "featured": false
     },
     {
@@ -440,6 +440,15 @@
       "excerpt": "",
       "link": "https://www.occrp.org/en/news/uk-fraud-trial-opens-over-119m-car-investment-scheme",
       "published": "2026-09-14T16:01:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "d37c36f911c1",
+      "source": "The Intercept",
+      "headline": "Centrists Are Soft-Launching the Idea That We Have a Little Too Much Democracy",
+      "excerpt": "As the right attacks mass participation head on, the center is telling the rest of us to pipe down while the elites are talking. The post Centrists Are Soft-Launching the Idea That We Have a Little Too Much Democracy...",
+      "link": "https://theintercept.com/2026/09/13/centrist-liberals-democracy-small-dollar-donors/",
+      "published": "2026-09-13T13:55:08+00:00",
       "featured": false
     },
     {
@@ -470,30 +479,21 @@
       "featured": false
     },
     {
-      "id": "14422c8a6b68",
-      "source": "The Intercept",
-      "headline": "Osama Bin Laden Won",
-      "excerpt": "The architect of the September 11 attacks dreamed of the destruction of America. In the last 25 years, his wish has come true. The post Osama Bin Laden Won appeared first on The Intercept.",
-      "link": "https://theintercept.com/2026/09/11/bin-laden-september-11-trump-america/",
-      "published": "2026-09-11T10:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "4d640e9e26e0",
+      "id": "f7a9a30bdd06",
       "source": "ProPublica",
-      "headline": "25 Years After 9/11, Questions About the FBI’s Pursuit of Saudi Suspects in the Case Have Only Grown",
-      "excerpt": "The post 25 Years After 9/11, Questions About the FBI’s Pursuit of Saudi Suspects in the Case Have Only Grown appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/fbi-911-saudi-bayoumi-investigation",
-      "published": "2026-09-10T10:00:00+00:00",
+      "headline": "EPA to Loosen Methane Rules, Boosting Pollution From Oil and Gas Wells",
+      "excerpt": "The post EPA to Loosen Methane Rules, Boosting Pollution From Oil and Gas Wells appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/methane-gas-epa-proposal-stripper-wells",
+      "published": "2026-09-11T09:00:00+00:00",
       "featured": false
     },
     {
-      "id": "90989d48c711",
+      "id": "0695dbe46a7c",
       "source": "Rest of World",
-      "headline": "Think your EV holds its value? China has some bad news for you",
-      "excerpt": "Used car dealers in the world’s biggest EV market are turning away 5-year-old cars, exposing a battery anxiety problem heading for Western buyers next.",
-      "link": "https://restofworld.org/2026/china-used-ev-depreciation-five-year-battery-warranty-dealers/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-      "published": "2026-09-08T10:00:00+00:00",
+      "headline": "Now it’s China’s experts who are gig workers training AI",
+      "excerpt": "Squeezed by a stagnant economy and state directives, China's underemployed lawyers, architects, and engineers are taking cheap gig work to teach AI their exact trades — just to pay this month's mortgage.",
+      "link": "https://restofworld.org/2026/china-expert-ai-trainers/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "published": "2026-09-09T10:00:00+00:00",
       "featured": false
     },
     {
@@ -506,12 +506,12 @@
       "featured": false
     },
     {
-      "id": "5aa9f185f604",
+      "id": "79a8c0f1750d",
       "source": "Al Jazeera",
-      "headline": "Suspected bicycle thief dies during arrest in Netherlands",
-      "excerpt": "Protests have been held in Rotterdam, the Netherlands after a man died during a police arrest over the weekend.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/15/aje-onl-nf_suspected-bike-thief-dies-during-arrest-netherlands-140926?traffic_source=rss",
-      "published": "2026-09-15T02:30:09+00:00",
+      "headline": "What to watch in the US’s Delaware primary elections",
+      "excerpt": "It's the last state primary scheduled before November's midterm elections.",
+      "link": "https://www.aljazeera.com/news/2026/9/15/what-to-watch-in-the-uss-delaware-primary-elections?traffic_source=rss",
+      "published": "2026-09-15T07:52:46+00:00",
       "featured": false
     },
     {
