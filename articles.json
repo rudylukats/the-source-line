@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-09-15T21:22:20.742170+00:00",
+  "generated_at": "2026-09-16T04:50:24.617153+00:00",
   "articles": [
+    {
+      "id": "8bf6182083f6",
+      "source": "Al Jazeera",
+      "headline": "Gaza residential building collapses, six families reportedly trapped",
+      "excerpt": "Rescue crews in Gaza pull survivors from a collapsed building as cries for help echo beneath the rubble, witnesses say.",
+      "link": "https://www.aljazeera.com/news/2026/9/16/gaza-residential-building-collapses-six-families-reportedly-trapped?traffic_source=rss",
+      "published": "2026-09-16T04:30:52+00:00",
+      "featured": true
+    },
+    {
+      "id": "262df5de9c27",
+      "source": "Dropsite News",
+      "headline": "U.S. Makes, Israel Takes: The Real Story of U.S.-Israeli Military Cooperation",
+      "excerpt": "The Iron Beam laser and Arrow anti-ballistic missile systems are touted as examples of Israeli military ingenuity. But they were largely developed and financed by the U.S.",
+      "link": "https://www.dropsitenews.com/p/israel-iron-beam-arrow-section-219",
+      "published": "2026-09-16T00:45:04+00:00",
+      "featured": true
+    },
+    {
+      "id": "847766fe0a19",
+      "source": "ICIJ",
+      "headline": "UK Parliament debates infrastructure security after China Capital revelations",
+      "excerpt": "ICIJ and its media partners found that Chinese bank ICBC served as a financing hub for infrastructure in the U.K. and Australia, prompting questions about Beijing’s influence over public projects.",
+      "link": "https://www.icij.org/investigations/china-capital/uk-parliament-debates-infrastructure-security-after-china-capital-revelations/",
+      "published": "2026-09-15T22:22:01+00:00",
+      "featured": true
+    },
+    {
+      "id": "13eb87d3b943",
+      "source": "ProPublica",
+      "headline": "Top Oversight Dem Opens Investigation of Donald Trump Jr.’s Russian Oligarch-Funded Wedding",
+      "excerpt": "The post Top Oversight Dem Opens Investigation of Donald Trump Jr.’s Russian Oligarch-Funded Wedding appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/donald-trump-jr-wedding-umar-kremlev-payments-investigation",
+      "published": "2026-09-15T21:50:00+00:00",
+      "featured": false
+    },
     {
       "id": "9da48aecf359",
       "source": "The Intercept",
@@ -8,25 +44,7 @@
       "excerpt": "Just hours before switching sides, Sen. Kirsten Gillibrand was lobbying fellow Democrats to advance the bill. The post Crypto Darling Gillibrand’s 11th-Hour Flip-Flop Helps Block Trump Crypto Bill appeared first on The...",
       "link": "https://theintercept.com/2026/09/15/congress-trump-crypto-clarity-blocked/",
       "published": "2026-09-15T21:02:30+00:00",
-      "featured": true
-    },
-    {
-      "id": "5d1b1a39daad",
-      "source": "Al Jazeera",
-      "headline": "Romanian shepards and farmers clash with police",
-      "excerpt": "Dozens injured as 2,000 farmers - backed by far-right groups - protest the extension of a livestock export ban.",
-      "link": "https://www.aljazeera.com/news/2026/9/15/romanian-shepards-and-farmers-clash-with-police?traffic_source=rss",
-      "published": "2026-09-15T20:40:05+00:00",
-      "featured": true
-    },
-    {
-      "id": "e5d2ee99095e",
-      "source": "Dropsite News",
-      "headline": "Mahmoud Khalil Sues Columbia University Over Persistent Anti-Palestinian Discrimination",
-      "excerpt": "Khalil and other graduates filed a federal civil complaint accusing Columbia University and SIPA Dean Keren Yarhi-Milo of Title VI violations.",
-      "link": "https://www.dropsitenews.com/p/mahmoud-khalil-sues-columbia-university-discrimination",
-      "published": "2026-09-15T20:23:12+00:00",
-      "featured": true
+      "featured": false
     },
     {
       "id": "9c9cb2c2455b",
@@ -56,30 +74,12 @@
       "featured": false
     },
     {
-      "id": "ade95723284c",
-      "source": "ProPublica",
-      "headline": "Papa Johns, Propaganda and Putin: How a MAGA Influencer With Ties to Russia Became Trump’s Arctic Adviser",
-      "excerpt": "The post Papa Johns, Propaganda and Putin: How a MAGA Influencer With Ties to Russia Became Trump’s Arctic Adviser appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/thomas-dans-arctic-research-commission-trump-russia-propaganda",
-      "published": "2026-09-15T10:00:00+00:00",
-      "featured": false
-    },
-    {
       "id": "038f69c40c27",
       "source": "Rest of World",
       "headline": "Where in the world is the iPhone cheapest?",
       "excerpt": "Apple’s high-end models cost more in markets like India and Turkey owing to high taxes and import duties.",
       "link": "https://restofworld.org/2026/iphone-18-pro-global-prices/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "published": "2026-09-15T10:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "5d6c8504d771",
-      "source": "ICIJ",
-      "headline": "Chinese banking giant serves firms linked to oligarchs and autocrats to push Beijing’s agenda",
-      "excerpt": "Confidential records reveal how the Industrial and Commercial Bank of China’s London units courted high-risk clients to secure resources and alliances for Xi Jinping’s regime.",
-      "link": "https://www.icij.org/investigations/china-capital/china-banking-icbc-oligarchs-sanctions-london/",
-      "published": "2026-09-14T21:41:45+00:00",
       "featured": false
     },
     {
@@ -110,12 +110,21 @@
       "featured": false
     },
     {
-      "id": "44a0369be71b",
+      "id": "4a64e78f428a",
       "source": "Al Jazeera",
-      "headline": "What makes these midterms so pivotal?",
-      "excerpt": "The 2026 midterms could reshape Washington as voters weigh Trump, party divisions and the issues driving the election.",
-      "link": "https://www.aljazeera.com/video/lets-focus/2026/9/15/what-makes-these-midterms-so-pivotal?traffic_source=rss",
-      "published": "2026-09-15T20:19:26+00:00",
+      "headline": "Trump administration plans $2.8bn sale of 2,000-pound bombs to Israel",
+      "excerpt": "Trump administration pushes $2.8bn bomb sale to Israel amid criticism over mass targeting of civilians in the region.",
+      "link": "https://www.aljazeera.com/news/2026/9/16/trump-administration-plans-2-8bn-sale-of-2000-pound-bombs-to-israel?traffic_source=rss",
+      "published": "2026-09-16T03:39:50+00:00",
+      "featured": false
+    },
+    {
+      "id": "e5d2ee99095e",
+      "source": "Dropsite News",
+      "headline": "Mahmoud Khalil Sues Columbia University Over Persistent Anti-Palestinian Discrimination",
+      "excerpt": "Khalil and other graduates filed a federal civil complaint accusing Columbia University and SIPA Dean Keren Yarhi-Milo of Title VI violations.",
+      "link": "https://www.dropsitenews.com/p/mahmoud-khalil-sues-columbia-university-discrimination",
+      "published": "2026-09-15T20:23:12+00:00",
       "featured": false
     },
     {
@@ -125,15 +134,6 @@
       "excerpt": "While many fixated on the man who refused to acquit Lindsay Clancy, Georgia is set to kill Stacey Humphreys despite “extreme juror misconduct.” The post A Lone Juror Hijacked Deliberations. This Time, a Man Faces...",
       "link": "https://theintercept.com/2026/09/15/juror-stacey-humphreys-georgia-execution/",
       "published": "2026-09-15T18:48:27+00:00",
-      "featured": false
-    },
-    {
-      "id": "2bce2508b7f2",
-      "source": "Dropsite News",
-      "headline": "Got Oxy? How Michigan’s Mike Rogers Helped Fuel the Opioid Crisis",
-      "excerpt": "The Republican Senate candidate spent 10 years in Congress as Pharma’s point man working to push prescription opioids.",
-      "link": "https://www.dropsitenews.com/p/mike-rogers-senate-opioids-oxycontin",
-      "published": "2026-09-15T18:32:55+00:00",
       "featured": false
     },
     {
@@ -155,12 +155,12 @@
       "featured": false
     },
     {
-      "id": "4269e0b72225",
+      "id": "ade95723284c",
       "source": "ProPublica",
-      "headline": "Underage Players, Predatory Moneylenders: 7 Findings From Our Dominican Baseball Investigation",
-      "excerpt": "The post Underage Players, Predatory Moneylenders: 7 Findings From Our Dominican Baseball Investigation appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/dominican-republic-baseball-major-league-takeaways",
-      "published": "2026-09-15T09:00:00+00:00",
+      "headline": "Papa Johns, Propaganda and Putin: How a MAGA Influencer With Ties to Russia Became Trump’s Arctic Adviser",
+      "excerpt": "The post Papa Johns, Propaganda and Putin: How a MAGA Influencer With Ties to Russia Became Trump’s Arctic Adviser appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/thomas-dans-arctic-research-commission-trump-russia-propaganda",
+      "published": "2026-09-15T10:00:00+00:00",
       "featured": false
     },
     {
@@ -173,12 +173,12 @@
       "featured": false
     },
     {
-      "id": "4bc6a09b2209",
+      "id": "5d6c8504d771",
       "source": "ICIJ",
-      "headline": "Chinese bank helped Huawei spirit $1B out of London days after US indictment of the tech giant",
-      "excerpt": "The urgent operation exposes how readily ICBC’s local branch bypassed internal checks to boost a Beijing favorite.",
-      "link": "https://www.icij.org/investigations/china-capital/huawei-icbc-banking-us-court-beijing-london/",
-      "published": "2026-09-14T21:41:33+00:00",
+      "headline": "Chinese banking giant serves firms linked to oligarchs and autocrats to push Beijing’s agenda",
+      "excerpt": "Confidential records reveal how the Industrial and Commercial Bank of China’s London units courted high-risk clients to secure resources and alliances for Xi Jinping’s regime.",
+      "link": "https://www.icij.org/investigations/china-capital/china-banking-icbc-oligarchs-sanctions-london/",
+      "published": "2026-09-14T21:41:45+00:00",
       "featured": false
     },
     {
@@ -218,12 +218,21 @@
       "featured": false
     },
     {
-      "id": "c5341126ca93",
+      "id": "9ef9fb727bdd",
       "source": "Al Jazeera",
-      "headline": "Why do some African leaders gamble with term limits?",
-      "excerpt": "Protesters in the DRC denounce law that could extend president's term.",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/9/15/why-do-some-african-leaders-gamble-with-term-limits-2?traffic_source=rss",
-      "published": "2026-09-15T20:17:52+00:00",
+      "headline": "China’s defence chief warns against coercion, avoids US, Japan mention",
+      "excerpt": "Dong Jun pitches shared security governance and military cooperation while warning against coercion.",
+      "link": "https://www.aljazeera.com/news/2026/9/16/chinas-defence-chief-warns-against-coercion-avoids-us-japan-mention?traffic_source=rss",
+      "published": "2026-09-16T03:38:57+00:00",
+      "featured": false
+    },
+    {
+      "id": "2bce2508b7f2",
+      "source": "Dropsite News",
+      "headline": "Got Oxy? How Michigan’s Mike Rogers Helped Fuel the Opioid Crisis",
+      "excerpt": "The Republican Senate candidate spent 10 years in Congress as Pharma’s point man working to push prescription opioids.",
+      "link": "https://www.dropsitenews.com/p/mike-rogers-senate-opioids-oxycontin",
+      "published": "2026-09-15T18:32:55+00:00",
       "featured": false
     },
     {
@@ -245,21 +254,21 @@
       "featured": false
     },
     {
-      "id": "910e41115cce",
-      "source": "Dropsite News",
-      "headline": "Supreme Court blocks Trump voting restrictions; UN Security Council to meet on Bab al-Mandab; Russia fires on Danish helicopter",
-      "excerpt": "Drop Site Daily: September 15, 2026",
-      "link": "https://www.dropsitenews.com/p/supreme-court-trump-voting-un-yemen-bab-mandab-russia-danish-helicopter",
-      "published": "2026-09-15T15:23:46+00:00",
-      "featured": false
-    },
-    {
       "id": "c4e26b82edf9",
       "source": "The Intercept",
       "headline": "Iran War Has the U.S. Military on the Brink of a “Breakdown”",
       "excerpt": "As the U.S. military faces relentless attacks on its bases, the Iran conflict is “ultimately unsustainable,” one U.S. official told The Intercept. The post Iran War Has the U.S. Military on the Brink of a “Breakdown”...",
       "link": "https://theintercept.com/2026/09/15/iran-war-us-military-bases/",
       "published": "2026-09-15T10:00:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "4269e0b72225",
+      "source": "ProPublica",
+      "headline": "Underage Players, Predatory Moneylenders: 7 Findings From Our Dominican Baseball Investigation",
+      "excerpt": "The post Underage Players, Predatory Moneylenders: 7 Findings From Our Dominican Baseball Investigation appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/dominican-republic-baseball-major-league-takeaways",
+      "published": "2026-09-15T09:00:00+00:00",
       "featured": false
     },
     {
@@ -272,21 +281,12 @@
       "featured": false
     },
     {
-      "id": "8d2123036703",
+      "id": "4bc6a09b2209",
       "source": "ICIJ",
-      "headline": "ICBC promoted corrupt executive, ignored employee misconduct as it pursued global expansion",
-      "excerpt": "The Chinese banking giant turned a blind eye to alleged fraud and embezzlement within its ranks for years, according to a tranche of confidential files.",
-      "link": "https://www.icij.org/investigations/china-capital/zhang-hongli-icbc-executive-corruption-employee-misconduct/",
-      "published": "2026-09-14T21:41:06+00:00",
-      "featured": false
-    },
-    {
-      "id": "69871f74a92e",
-      "source": "ProPublica",
-      "headline": "Donald Trump Jr.’s Bahamas Wedding Was Secretly Bankrolled by Russian Oligarch Close to Putin",
-      "excerpt": "The post Donald Trump Jr.’s Bahamas Wedding Was Secretly Bankrolled by Russian Oligarch Close to Putin appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/donald-trump-jr-wedding-bankrolled-russian-oligarch-umar-kremlev-putin",
-      "published": "2026-09-14T09:00:00+00:00",
+      "headline": "Chinese bank helped Huawei spirit $1B out of London days after US indictment of the tech giant",
+      "excerpt": "The urgent operation exposes how readily ICBC’s local branch bypassed internal checks to boost a Beijing favorite.",
+      "link": "https://www.icij.org/investigations/china-capital/huawei-icbc-banking-us-court-beijing-london/",
+      "published": "2026-09-14T21:41:33+00:00",
       "featured": false
     },
     {
@@ -317,12 +317,21 @@
       "featured": false
     },
     {
-      "id": "0d2145bc3543",
+      "id": "bb8b23b535f0",
       "source": "Al Jazeera",
-      "headline": "Western intelligence warns of Iranian cyber threats targeting dissidents",
-      "excerpt": "Western intelligence agencies highlight 'CHOSEN BRICK' spyware targeting critics of Iran government abroad.",
-      "link": "https://www.aljazeera.com/news/2026/9/15/western-intelligence-warns-of-iranian-cyber-threats-targeting-dissidents?traffic_source=rss",
-      "published": "2026-09-15T20:16:35+00:00",
+      "headline": "Is US health care too broken to cure cancer?",
+      "excerpt": "Ted Okon tells Al Jazeera that even with a cure, the US wouldn’t be able to treat everyone with cancer.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/16/aje-onl-nf_us-healthcare-too-broken-to-cure-cancer-150926?traffic_source=rss",
+      "published": "2026-09-16T02:52:44+00:00",
+      "featured": false
+    },
+    {
+      "id": "910e41115cce",
+      "source": "Dropsite News",
+      "headline": "Supreme Court blocks Trump voting restrictions; UN Security Council to meet on Bab al-Mandab; Russia fires on Danish helicopter",
+      "excerpt": "Drop Site Daily: September 15, 2026",
+      "link": "https://www.dropsitenews.com/p/supreme-court-trump-voting-un-yemen-bab-mandab-russia-danish-helicopter",
+      "published": "2026-09-15T15:23:46+00:00",
       "featured": false
     },
     {
@@ -344,21 +353,12 @@
       "featured": false
     },
     {
-      "id": "442d02a40c43",
+      "id": "8d2123036703",
       "source": "ICIJ",
-      "headline": "WATCH: How the world’s biggest bank advances Beijing’s interests",
-      "excerpt": "Based on a trove of 4.8 million records, China Capital reveals how ICBC used its U.K. operations to pursue explicitly political objectives for its majority shareholder, the Chinese government.",
-      "link": "https://www.icij.org/investigations/china-capital/icbc-china-capital-video/",
-      "published": "2026-09-14T21:40:55+00:00",
-      "featured": false
-    },
-    {
-      "id": "d0dbb8ddd9e9",
-      "source": "Dropsite News",
-      "headline": "The War Brief: China COURTING Iran? Trump Threatens Tactical Nukes—and How Ansarallah STORMED Yemen",
-      "excerpt": "In the first episode of War Brief, Murtaza Hussain and Sarmad Jawad dig into the latest military updates from around the world, including China's positive overtures to Iran, Donald Trump once again threatening Iran with...",
-      "link": "https://www.dropsitenews.com/p/the-war-brief-china-iran-trump-tactical-nuclear",
-      "published": "2026-09-14T20:41:50+00:00",
+      "headline": "ICBC promoted corrupt executive, ignored employee misconduct as it pursued global expansion",
+      "excerpt": "The Chinese banking giant turned a blind eye to alleged fraud and embezzlement within its ranks for years, according to a tranche of confidential files.",
+      "link": "https://www.icij.org/investigations/china-capital/zhang-hongli-icbc-executive-corruption-employee-misconduct/",
+      "published": "2026-09-14T21:41:06+00:00",
       "featured": false
     },
     {
@@ -380,12 +380,12 @@
       "featured": false
     },
     {
-      "id": "24ac643242e5",
+      "id": "69871f74a92e",
       "source": "ProPublica",
-      "headline": "Vouchers Promise Students With Disabilities a Path to Private School. Parents Say That’s Not the Reality.",
-      "excerpt": "The post Vouchers Promise Students With Disabilities a Path to Private School. Parents Say That’s Not the Reality. appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/school-vouchers-disabilities",
-      "published": "2026-09-11T10:00:00+00:00",
+      "headline": "Donald Trump Jr.’s Bahamas Wedding Was Secretly Bankrolled by Russian Oligarch Close to Putin",
+      "excerpt": "The post Donald Trump Jr.’s Bahamas Wedding Was Secretly Bankrolled by Russian Oligarch Close to Putin appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/donald-trump-jr-wedding-bankrolled-russian-oligarch-umar-kremlev-putin",
+      "published": "2026-09-14T09:00:00+00:00",
       "featured": false
     },
     {
@@ -416,12 +416,12 @@
       "featured": false
     },
     {
-      "id": "554eff73503f",
+      "id": "d8c709fc30e6",
       "source": "Al Jazeera",
-      "headline": "Kennedy Center closes amid financial crisis and Trump name dispute",
-      "excerpt": "The president said renovations would not move forward unless his name was added to the building.",
-      "link": "https://www.aljazeera.com/news/2026/9/15/kennedy-center-closes-amid-financial-crisis-and-trump-name-dispute?traffic_source=rss",
-      "published": "2026-09-15T20:14:22+00:00",
+      "headline": "Anthropic CEO didn’t foresee the speed of global AI growth",
+      "excerpt": "Anthropic’s CEO says he ‘didn’t appreciate’ the speed with which AI’s growth would underpin the global economy.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/16/anthropic-ceo-didnt-foresee-the-speed-of-global-ai-growth?traffic_source=rss",
+      "published": "2026-09-16T02:40:08+00:00",
       "featured": false
     },
     {
@@ -434,12 +434,21 @@
       "featured": false
     },
     {
-      "id": "3e95d974c3c0",
+      "id": "442d02a40c43",
       "source": "ICIJ",
-      "headline": "Frequently asked questions about the China Capital investigation",
-      "excerpt": "How does the Industrial and Commercial Bank of China operate? What did ICIJ uncover in millions of confidential bank records? These questions and more, answered.",
-      "link": "https://www.icij.org/investigations/china-capital/faqs-icbc-china-capital-bank/",
-      "published": "2026-09-14T21:40:36+00:00",
+      "headline": "WATCH: How the world’s biggest bank advances Beijing’s interests",
+      "excerpt": "Based on a trove of 4.8 million records, China Capital reveals how ICBC used its U.K. operations to pursue explicitly political objectives for its majority shareholder, the Chinese government.",
+      "link": "https://www.icij.org/investigations/china-capital/icbc-china-capital-video/",
+      "published": "2026-09-14T21:40:55+00:00",
+      "featured": false
+    },
+    {
+      "id": "d0dbb8ddd9e9",
+      "source": "Dropsite News",
+      "headline": "The War Brief: China COURTING Iran? Trump Threatens Tactical Nukes—and How Ansarallah STORMED Yemen",
+      "excerpt": "In the first episode of War Brief, Murtaza Hussain and Sarmad Jawad dig into the latest military updates from around the world, including China's positive overtures to Iran, Donald Trump once again threatening Iran with...",
+      "link": "https://www.dropsitenews.com/p/the-war-brief-china-iran-trump-tactical-nuclear",
+      "published": "2026-09-14T20:41:50+00:00",
       "featured": false
     },
     {
@@ -449,15 +458,6 @@
       "excerpt": "New York District Attorney Alvin Bragg said in a press conference on Monday that the sites included 1,200 people’s likenesses in “hyper-realistic” sexual imagery.",
       "link": "https://www.404media.co/new-york-district-attorney-seizes-12-celebrity-deepfake-websites/",
       "published": "2026-09-14T17:26:37+00:00",
-      "featured": false
-    },
-    {
-      "id": "497ecd694f79",
-      "source": "Dropsite News",
-      "headline": "Trump tells Zelenskyy to stop hitting Russian diesel; Nearly 80,000 displaced in Yemen; Trump rejects calls for AI guardrails",
-      "excerpt": "Drop Site Daily: September 14, 2026",
-      "link": "https://www.dropsitenews.com/p/trump-zelenskyy-ukraine-russia-yemen-ansarallah-ai",
-      "published": "2026-09-14T15:40:26+00:00",
       "featured": false
     },
     {
@@ -479,12 +479,12 @@
       "featured": false
     },
     {
-      "id": "f7a9a30bdd06",
+      "id": "24ac643242e5",
       "source": "ProPublica",
-      "headline": "EPA to Loosen Methane Rules, Boosting Pollution From Oil and Gas Wells",
-      "excerpt": "The post EPA to Loosen Methane Rules, Boosting Pollution From Oil and Gas Wells appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/methane-gas-epa-proposal-stripper-wells",
-      "published": "2026-09-11T09:00:00+00:00",
+      "headline": "Vouchers Promise Students With Disabilities a Path to Private School. Parents Say That’s Not the Reality.",
+      "excerpt": "The post Vouchers Promise Students With Disabilities a Path to Private School. Parents Say That’s Not the Reality. appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/school-vouchers-disabilities",
+      "published": "2026-09-11T10:00:00+00:00",
       "featured": false
     },
     {
@@ -506,21 +506,21 @@
       "featured": false
     },
     {
-      "id": "c519d85fbea3",
+      "id": "84b2d5aff421",
       "source": "Al Jazeera",
-      "headline": "Blanche says admin will comply with mail ballot ruling, defends Trump",
-      "excerpt": "Trump claims Supreme Court decisions set the US 'back 100 years' after controversial ballot rule change blocked.",
-      "link": "https://www.aljazeera.com/news/2026/9/15/blanche-says-admin-will-comply-with-mail-ballot-ruling-defends-trump?traffic_source=rss",
-      "published": "2026-09-15T20:13:40+00:00",
+      "headline": "Saudi Arabia cancels oil to Europe over East-West pipeline blast",
+      "excerpt": "Saudi Arabia has cancelled some oil deliveries to Europe after attacks shut down its export pipeline to the Red Sea.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/16/saudi-arabia-cancels-oil-to-europe-over-east-west-pipeline-blast?traffic_source=rss",
+      "published": "2026-09-16T01:53:27+00:00",
       "featured": false
     },
     {
-      "id": "fa71607223e4",
+      "id": "3e95d974c3c0",
       "source": "ICIJ",
-      "headline": "About the China Capital investigation",
-      "excerpt": "A global investigation by ICIJ lays bare the hidden playbook of one of China’s most powerful banks.",
-      "link": "https://www.icij.org/investigations/china-capital/about-china-capital-investigation-icbc/",
-      "published": "2026-09-14T21:40:23+00:00",
+      "headline": "Frequently asked questions about the China Capital investigation",
+      "excerpt": "How does the Industrial and Commercial Bank of China operate? What did ICIJ uncover in millions of confidential bank records? These questions and more, answered.",
+      "link": "https://www.icij.org/investigations/china-capital/faqs-icbc-china-capital-bank/",
+      "published": "2026-09-14T21:40:36+00:00",
       "featured": false
     },
     {
