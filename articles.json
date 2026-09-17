@@ -1,6 +1,33 @@
 {
-  "generated_at": "2026-09-17T17:00:37.248795+00:00",
+  "generated_at": "2026-09-17T21:23:26.915087+00:00",
   "articles": [
+    {
+      "id": "03fdd9456058",
+      "source": "Al Jazeera",
+      "headline": "Pennsylvania seeks CDC help amid dispute over US measles deaths",
+      "excerpt": "The CDC and officials from the US state differ over how four deaths should be classified as cases continue to spread.",
+      "link": "https://www.aljazeera.com/news/2026/9/17/pennsylvania-seeks-cdc-help-amid-dispute-over-us-measles-deaths?traffic_source=rss",
+      "published": "2026-09-17T21:08:51+00:00",
+      "featured": true
+    },
+    {
+      "id": "3701eed733d3",
+      "source": "OCCRP",
+      "headline": "Six Convicted, €300M Confiscation Ordered in Mafia-Linked EU Tax Fraud",
+      "excerpt": "The latest sentences in the 'Moby Dick' investigation target a network that allegedly used fake electronics invoices to drain 520 million euros ($597.35 million) from European budgets and launder money for the mafia.",
+      "link": "https://www.occrp.org/en/news/six-convicted-eur300m-confiscation-ordered-in-mafia-linked-eu-tax-fraud",
+      "published": "2026-09-17T19:16:00+00:00",
+      "featured": true
+    },
+    {
+      "id": "81069f61b83a",
+      "source": "404 Media",
+      "headline": "‘Flock City PD:’ The Fake Flock-Owned ‘Police Department’ That Searched Real Cameras for Real People",
+      "excerpt": "Flock ran searches for “coexist bumper sticker,” “white truck with a trump sticker,” and “Star of David,” apparently to demonstrate what cops shouldn't search for.",
+      "link": "https://www.404media.co/flock-city-pd-the-fake-flock-owned-police-department-that-searched-real-cameras-for-real-people/",
+      "published": "2026-09-17T18:07:20+00:00",
+      "featured": true
+    },
     {
       "id": "12d28681652e",
       "source": "The Lever",
@@ -8,25 +35,7 @@
       "excerpt": "Before artificial intelligence became a midterms issue, Trump regulators erased consequences for an AI firm linked to fake customer reviews.",
       "link": "https://www.levernews.com/trump-freed-bad-bots/",
       "published": "2026-09-17T16:55:20+00:00",
-      "featured": true
-    },
-    {
-      "id": "ec3115376a4b",
-      "source": "Al Jazeera",
-      "headline": "Xabi Alonso says Chelsea ambitions ‘very clear’ as Boehly era ends",
-      "excerpt": "Chelsea announce that Clearlake will acquire the stakes of Todd Boehly and director Mark Walter.",
-      "link": "https://www.aljazeera.com/sports/2026/9/17/xabi-alonso-says-chelsea-ambitions-very-clear-as-boehly-era-ends?traffic_source=rss",
-      "published": "2026-09-17T16:23:49+00:00",
-      "featured": true
-    },
-    {
-      "id": "5f5b6b3f530e",
-      "source": "404 Media",
-      "headline": "University Rescinds Job Offer to Activist Who Allegedly Wiped Phone Before DHS Could Search It",
-      "excerpt": "Samuel Tunick allegedly wiped his GrapheneOS phone before CBP officials could search it, in what has become a high profile civil liberties case. Now Georgia State University has rescinded a job offer to him.",
-      "link": "https://www.404media.co/university-rescinds-job-offer-to-activist-who-allegedly-wiped-phone-before-dhs-could-search-it/",
-      "published": "2026-09-17T15:30:38+00:00",
-      "featured": true
+      "featured": false
     },
     {
       "id": "bc35b64ef8f0",
@@ -44,15 +53,6 @@
       "excerpt": "Drop Site Daily: September 17, 2026",
       "link": "https://www.dropsitenews.com/p/un-us-war-crimes-iran-fed-interest-rates-openai-ai",
       "published": "2026-09-17T14:05:49+00:00",
-      "featured": false
-    },
-    {
-      "id": "9060c6a5bb35",
-      "source": "OCCRP",
-      "headline": "Belgian Court Rules Treasury Lacked Authority to Reject Release of Russian Assets",
-      "excerpt": "Belgium’s top administrative court has ruled that the country’s treasury department has no right to decide if frozen Russian assets should remain blocked or be released.",
-      "link": "https://www.occrp.org/en/news/belgian-court-rules-treasury-lacked-authority-to-reject-release-of-russian-assets",
-      "published": "2026-09-17T13:59:00+00:00",
       "featured": false
     },
     {
@@ -110,30 +110,30 @@
       "featured": false
     },
     {
-      "id": "6f6108c94c26",
+      "id": "6c232a9a7ba7",
       "source": "Al Jazeera",
-      "headline": "Five killed as Saudi Arabia and Yemen’s Houthis trade attacks",
-      "excerpt": "Houthi leader Abdel-Malik al-Houthi says Saudi claims that the group targeted Mecca are a 'heinous lie'.",
-      "link": "https://www.aljazeera.com/news/2026/9/17/five-killed-as-saudi-arabia-and-yemens-houthis-trade-attacks?traffic_source=rss",
-      "published": "2026-09-17T16:10:49+00:00",
+      "headline": "Russia, China veto UN mandate to monitor Iran sanctions",
+      "excerpt": "Move ends the Security Council’s watchdog panel on Iran sanctions.",
+      "link": "https://www.aljazeera.com/news/2026/9/17/russia-china-veto-un-mandate-to-monitor-iran-sanctions?traffic_source=rss",
+      "published": "2026-09-17T21:01:41+00:00",
       "featured": false
     },
     {
-      "id": "f7c4e8a7a9e5",
-      "source": "404 Media",
-      "headline": "Contest to Open for Ed Sheeran Flooded With Free Palestine Videos and Fart Memes",
-      "excerpt": "Guitar Center's 'Open for Legends' contest page was seemingly unmoderated for hours on Wednesday.",
-      "link": "https://www.404media.co/ed-sheeran-macklemore-open-for-legends-contest-guitar-center/",
-      "published": "2026-09-17T15:01:31+00:00",
-      "featured": false
-    },
-    {
-      "id": "c0900837e1ab",
+      "id": "3dd5fa9ea50e",
       "source": "OCCRP",
-      "headline": "Hackers Demand $3M Ransom in Revolut Data Leak",
-      "excerpt": "Hackers operating under the moniker “iamnotavillain” gave the London-based fintech giant 24 hours to pay 6,000 Monero, while Italian authorities escalate their probe into the compromised government emails used in the...",
-      "link": "https://www.occrp.org/en/news/hackers-demand-3m-ransom-in-revolut-data-leak",
-      "published": "2026-09-17T13:27:00+00:00",
+      "headline": "Former Maduro Ally Pleads Guilty in US to $195M Money Laundering Scheme",
+      "excerpt": "The guilty plea caps a years-long geopolitical saga, spanning a high-profile U.S. prisoner swap and validating early reporting into a corrupt Venezuelan state food program.",
+      "link": "https://www.occrp.org/en/news/former-maduro-ally-pleads-guilty-in-us-to-195m-money-laundering-scheme",
+      "published": "2026-09-17T18:56:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "5f5b6b3f530e",
+      "source": "404 Media",
+      "headline": "University Rescinds Job Offer to Activist Who Allegedly Wiped Phone Before DHS Could Search It",
+      "excerpt": "Samuel Tunick allegedly wiped his GrapheneOS phone before CBP officials could search it, in what has become a high profile civil liberties case. Now Georgia State University has rescinded a job offer to him.",
+      "link": "https://www.404media.co/university-rescinds-job-offer-to-activist-who-allegedly-wiped-phone-before-dhs-could-search-it/",
+      "published": "2026-09-17T15:30:38+00:00",
       "featured": false
     },
     {
@@ -218,30 +218,30 @@
       "featured": false
     },
     {
-      "id": "701b39c2efc9",
+      "id": "f0a55229ae46",
       "source": "Al Jazeera",
-      "headline": "Rare Ethiopian manuscript stolen by British forces triggers restitution row",
-      "excerpt": "The Gondar Gospel belonged to the library of Emperor Tewodros but was seized in a battle decades ago.",
-      "link": "https://www.aljazeera.com/news/2026/9/17/rare-ethiopian-manuscript-stolen-by-british-triggers-restitution-row?traffic_source=rss",
-      "published": "2026-09-17T15:52:04+00:00",
+      "headline": "At least 26 killed in clashes along Sudan-South Sudan border region",
+      "excerpt": "UN Interim Security Force for Abyei strengthens security on the ground after days of deadly fighting.",
+      "link": "https://www.aljazeera.com/news/2026/9/17/at-least-26-killed-in-clashes-along-sudan-south-sudan-border-region?traffic_source=rss",
+      "published": "2026-09-17T20:47:52+00:00",
       "featured": false
     },
     {
-      "id": "bde1a90cbf9f",
+      "id": "f7c4e8a7a9e5",
       "source": "404 Media",
-      "headline": "I Hijacked a Real Artist's Spotify with AI Music. It Was Disturbingly Easy",
-      "excerpt": "A glaring loophole in digital music distribution makes it very easy to piggyback on the talent of real artists with AI generated music.",
-      "link": "https://www.404media.co/spotify-ai-music-scam/",
-      "published": "2026-09-17T13:33:52+00:00",
+      "headline": "Contest to Open for Ed Sheeran Flooded With Free Palestine Videos and Fart Memes",
+      "excerpt": "Guitar Center's 'Open for Legends' contest page was seemingly unmoderated for hours on Wednesday.",
+      "link": "https://www.404media.co/ed-sheeran-macklemore-open-for-legends-contest-guitar-center/",
+      "published": "2026-09-17T15:01:31+00:00",
       "featured": false
     },
     {
-      "id": "95bde485dfdd",
+      "id": "9060c6a5bb35",
       "source": "OCCRP",
-      "headline": "Israeli Firm May Have Run Angola Influence Campaign",
-      "excerpt": "Citizen Lab uncovers a 14-week campaign in Angola using AI-generated personas, deceptive posts, and a phantom news site to revamp state messaging.",
-      "link": "https://www.occrp.org/en/news/israeli-firm-may-have-run-angola-influence-campaign",
-      "published": "2026-09-17T12:33:00+00:00",
+      "headline": "Belgian Court Rules Treasury Lacked Authority to Reject Release of Russian Assets",
+      "excerpt": "Belgium’s top administrative court has ruled that the country’s treasury department has no right to decide if frozen Russian assets should remain blocked or be released.",
+      "link": "https://www.occrp.org/en/news/belgian-court-rules-treasury-lacked-authority-to-reject-release-of-russian-assets",
+      "published": "2026-09-17T13:59:00+00:00",
       "featured": false
     },
     {
@@ -326,21 +326,30 @@
       "featured": false
     },
     {
-      "id": "6326bdd8e078",
+      "id": "07cd0d393062",
       "source": "Al Jazeera",
-      "headline": "Ireland boycotts Eurovision for second year over Israel’s inclusion",
-      "excerpt": "Public broadcaster says country's participation cannot be justified amid 'appalling and ongoing loss of lives in Gaza'.",
-      "link": "https://www.aljazeera.com/news/2026/9/17/ireland-boycotts-eurovision-for-second-year-over-israels-inclusion?traffic_source=rss",
-      "published": "2026-09-17T15:40:48+00:00",
+      "headline": "Why does Brazil get to speak first at UNGA?",
+      "excerpt": "Why does Brazil get to speak first at UNGA?",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/17/why-does-brazil-get-to-speak-first-at-unga?traffic_source=rss",
+      "published": "2026-09-17T20:46:21+00:00",
       "featured": false
     },
     {
-      "id": "b5b51dd2ce19",
+      "id": "bde1a90cbf9f",
+      "source": "404 Media",
+      "headline": "I Hijacked a Real Artist's Spotify with AI Music. It Was Disturbingly Easy",
+      "excerpt": "A glaring loophole in digital music distribution makes it very easy to piggyback on the talent of real artists with AI generated music.",
+      "link": "https://www.404media.co/spotify-ai-music-scam/",
+      "published": "2026-09-17T13:33:52+00:00",
+      "featured": false
+    },
+    {
+      "id": "c0900837e1ab",
       "source": "OCCRP",
-      "headline": "US Charges Russian Network in Alleged European Sabotage, US Murder Plot",
-      "excerpt": "Five individuals face U.S. federal charges for allegedly orchestrating a global terrorism and murder-for-hire campaign that included a coordinated attack in the Czech Republic.",
-      "link": "https://www.occrp.org/en/news/us-charges-russian-network-in-alleged-european-sabotage-us-murder-plot",
-      "published": "2026-09-17T12:25:00+00:00",
+      "headline": "Hackers Demand $3M Ransom in Revolut Data Leak",
+      "excerpt": "Hackers operating under the moniker “iamnotavillain” gave the London-based fintech giant 24 hours to pay 6,000 Monero, while Italian authorities escalate their probe into the compromised government emails used in the...",
+      "link": "https://www.occrp.org/en/news/hackers-demand-3m-ransom-in-revolut-data-leak",
+      "published": "2026-09-17T13:27:00+00:00",
       "featured": false
     },
     {
@@ -368,15 +377,6 @@
       "excerpt": "The freelance journalist and Drop Site contributor was arrested by Israeli authorities as she returned from covering Israeli settler attacks in Masafer Yatta.",
       "link": "https://www.dropsitenews.com/p/palestinian-american-journalist-naqaa-hamed-arrested",
       "published": "2026-09-16T15:04:45+00:00",
-      "featured": false
-    },
-    {
-      "id": "ba13e37ef5d8",
-      "source": "404 Media",
-      "headline": "Podcast: Humans Are Reading Your ChatGPT Conversations",
-      "excerpt": "The contractors reading real ChatGPT users' prompts; the big out-and-back-in around Automattic; and a16z thinks enshittification isn't real.",
-      "link": "https://www.404media.co/podcast-humans-are-reading-your-chatgpt-conversations/",
-      "published": "2026-09-16T14:19:51+00:00",
       "featured": false
     },
     {
@@ -434,21 +434,30 @@
       "featured": false
     },
     {
-      "id": "f5b6f19e6f70",
+      "id": "da72b97b7d77",
       "source": "Al Jazeera",
-      "headline": "Ninth woman’s body found as South Africa probes series of killings",
-      "excerpt": "All female victims in their 20s and 30s were killed on the outskirts of Johannesburg in the past two months.",
-      "link": "https://www.aljazeera.com/news/2026/9/17/ninth-womans-body-found-as-south-africa-probes-series-of-killings?traffic_source=rss",
-      "published": "2026-09-17T15:34:09+00:00",
+      "headline": "Can ‘middle powers’ come together to build a new economic alliance?",
+      "excerpt": "Canada's prime minister outlines plans for stronger ties with the EU.",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/9/17/can-middle-powers-come-together-to-build-a-new-economic-alliance-2?traffic_source=rss",
+      "published": "2026-09-17T20:37:06+00:00",
       "featured": false
     },
     {
-      "id": "1b2594d628c5",
+      "id": "95bde485dfdd",
       "source": "OCCRP",
-      "headline": "UK Freezes $72-Million London Townhouse in Connection to Sanctioned Prince Group Associate",
-      "excerpt": "British authorities have targeted a luxury townhouse in London belonging to a China-born Cypriot citizen named Zhao Chen. Official documents cite the property's connection to a man the U.K. and U.S. allege was involved...",
-      "link": "https://www.occrp.org/en/news/uk-freezes-72-million-london-townhouse-in-connection-to-sanctioned-prince-group-associate",
-      "published": "2026-09-17T09:51:00+00:00",
+      "headline": "Israeli Firm May Have Run Angola Influence Campaign",
+      "excerpt": "Citizen Lab uncovers a 14-week campaign in Angola using AI-generated personas, deceptive posts, and a phantom news site to revamp state messaging.",
+      "link": "https://www.occrp.org/en/news/israeli-firm-may-have-run-angola-influence-campaign",
+      "published": "2026-09-17T12:33:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "ba13e37ef5d8",
+      "source": "404 Media",
+      "headline": "Podcast: Humans Are Reading Your ChatGPT Conversations",
+      "excerpt": "The contractors reading real ChatGPT users' prompts; the big out-and-back-in around Automattic; and a16z thinks enshittification isn't real.",
+      "link": "https://www.404media.co/podcast-humans-are-reading-your-chatgpt-conversations/",
+      "published": "2026-09-16T14:19:51+00:00",
       "featured": false
     },
     {
@@ -467,15 +476,6 @@
       "excerpt": "Ryan Grim interviews Hussain Al-Bukhaiti",
       "link": "https://www.dropsitenews.com/p/top-yemeni-journalist-saudi-arabia-hussain-al-bukhaiti-mbs",
       "published": "2026-09-16T11:54:56+00:00",
-      "featured": false
-    },
-    {
-      "id": "a81043fe57ec",
-      "source": "404 Media",
-      "headline": "Hackers Stole Flock’s Camera Software, Revealing How the Company Tracks Cars and People",
-      "excerpt": "While people around the U.S. are tearing down Flock cameras, one group of hackers went a step further: extracting the camera's software too.",
-      "link": "https://www.404media.co/hackers-stole-flocks-camera-software-revealing-how-the-company-tracks-cars-and-people-2/",
-      "published": "2026-09-16T10:30:35+00:00",
       "featured": false
     },
     {
@@ -533,12 +533,12 @@
       "featured": false
     },
     {
-      "id": "844b5b3c395e",
+      "id": "d034a46a6e5e",
       "source": "Al Jazeera",
-      "headline": "‘Kosovo’s moves towards Israel are the price of aligning with US policy’",
-      "excerpt": "Kosovo's decision to join a US-led Gaza force exposes the pull of its alliance with Washington, according to analysts.",
-      "link": "https://www.aljazeera.com/news/2026/9/17/kosovo-israel-ties?traffic_source=rss",
-      "published": "2026-09-17T15:10:12+00:00",
+      "headline": "Why have China’s oil prices reached a record high?",
+      "excerpt": "Why have China's oil prices reached a record high?",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/17/why-have-chinas-oil-prices-reached-a-record-high?traffic_source=rss",
+      "published": "2026-09-17T20:30:39+00:00",
       "featured": false
     }
   ]
