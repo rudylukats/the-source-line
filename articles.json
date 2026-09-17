@@ -1,23 +1,50 @@
 {
-  "generated_at": "2026-09-17T04:54:18.936732+00:00",
+  "generated_at": "2026-09-17T11:42:47.994382+00:00",
   "articles": [
     {
-      "id": "12ad8e058bb8",
+      "id": "aae414343862",
       "source": "Al Jazeera",
-      "headline": "Trump threatens to end trade with Mexico and Europe after rate hike",
-      "excerpt": "US President Donald Trump had tried to pressure the Fed to lower rates, but it voted unanimously to raise them instead.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/17/trump-threatens-to-end-trade-with-mexico-and-europe-after-rate-hike?traffic_source=rss",
-      "published": "2026-09-17T04:43:01+00:00",
+      "headline": "What’s the Asian Games accommodation crisis, and where will athletes stay?",
+      "excerpt": "In a cost-cutting move, Japan decided against setting up a dedicated athletes' village but now faces a backlash.",
+      "link": "https://www.aljazeera.com/sports/2026/9/17/whats-the-asian-games-accommodation-crisis-and-where-will-athletes-stay?traffic_source=rss",
+      "published": "2026-09-17T11:28:02+00:00",
       "featured": true
     },
     {
-      "id": "ed60bfbe2543",
-      "source": "OCCRP",
-      "headline": "Thousands Protest in Malta as Alleged Mastermind Walks Free",
-      "excerpt": "Demonstrators in Valletta moved from nearly nine years of vigils to a protest demanding political accountability in response to the acquittal of Yorgen Fenech, the businessman accused of orchestrating the 2017...",
-      "link": "https://www.occrp.org/en/news/thousands-protest-in-malta-as-alleged-mastermind-walks-free",
-      "published": "2026-09-16T21:56:00+00:00",
+      "id": "ecaa866e2e26",
+      "source": "Rest of World",
+      "headline": "South Africa joins the global resistance against American data centers",
+      "excerpt": "“A massive data center is trying to jump the queue and take our land, water, and energy.”",
+      "link": "https://restofworld.org/2026/south-africa-ai-data-center-protests/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "published": "2026-09-17T10:00:00+00:00",
       "featured": true
+    },
+    {
+      "id": "1b2594d628c5",
+      "source": "OCCRP",
+      "headline": "UK Freezes $72-million London Townhouse in Connection to Sanctioned Prince Group Associate",
+      "excerpt": "British authorities have targeted a luxury townhouse in London belonging to a China-born Cypriot citizen named Zhao Chen. Official documents cite the property's connection to a man the U.K. and U.S. allege was involved...",
+      "link": "https://www.occrp.org/en/news/uk-freezes-72-million-london-townhouse-in-connection-to-sanctioned-prince-group-associate",
+      "published": "2026-09-17T09:51:00+00:00",
+      "featured": true
+    },
+    {
+      "id": "81e8689a0ad5",
+      "source": "The Intercept",
+      "headline": "Facing Outraged Residents, Flock Got Help From Group That Uses AI to Rally Public Support",
+      "excerpt": "Beset by critics in Knoxville, Flock partnered with a nonprofit accused of “astroturfing” for a campaign to generate support for its surveillance cameras. The post Facing Outraged Residents, Flock Got Help From Group...",
+      "link": "https://theintercept.com/2026/09/17/flock-cameras-ai-astroturf-support/",
+      "published": "2026-09-17T09:30:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "821ffed74526",
+      "source": "ProPublica",
+      "headline": "Oregon Lawmakers Seek to Open Up Affordable Housing Records Following ProPublica’s Reporting",
+      "excerpt": "The post Oregon Lawmakers Seek to Open Up Affordable Housing Records Following ProPublica’s Reporting appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/oregon-lawmakers-seek-to-open-housing-records",
+      "published": "2026-09-17T09:00:00+00:00",
+      "featured": false
     },
     {
       "id": "0fee85b556f4",
@@ -26,7 +53,7 @@
       "excerpt": "Five activists who vandalized an Elbit Systems factory aim to put Germany and the Israeli weapons company on trial.",
       "link": "https://www.dropsitenews.com/p/ulm5-elbit-israel-gaza-germany",
       "published": "2026-09-16T20:18:56+00:00",
-      "featured": true
+      "featured": false
     },
     {
       "id": "e1f58d8010c4",
@@ -35,24 +62,6 @@
       "excerpt": "Hakeem Jeffries’ five-member AI commission is stacked with lawmakers backed by industry super PACs seeking to shape federal policy.",
       "link": "https://www.levernews.com/big-ais-favorite-democrats-are-writing-the-partys-ai-plan/",
       "published": "2026-09-16T19:51:12+00:00",
-      "featured": false
-    },
-    {
-      "id": "e90d7c46598f",
-      "source": "The Intercept",
-      "headline": "The New York Times Conveniently Forgets the Real Stakes of Attacks on Free Speech",
-      "excerpt": "The paper published a long recounting of Trump’s attacks on the press, without ever mentioning Israel, Gaza, or ICE. The post The New York Times Conveniently Forgets the Real Stakes of Attacks on Free Speech appeared...",
-      "link": "https://theintercept.com/2026/09/16/new-york-times-trump-free-speech-press-threat/",
-      "published": "2026-09-16T19:44:28+00:00",
-      "featured": false
-    },
-    {
-      "id": "c87d0bdefa57",
-      "source": "ProPublica",
-      "headline": "What to Know About Mail-In Voting for the 2026 Midterms",
-      "excerpt": "The post What to Know About Mail-In Voting for the 2026 Midterms appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/mail-in-voting-rules-midterm-elections",
-      "published": "2026-09-16T17:15:00+00:00",
       "featured": false
     },
     {
@@ -83,15 +92,6 @@
       "featured": false
     },
     {
-      "id": "184944f4828a",
-      "source": "Rest of World",
-      "headline": "Playing both sides of the U.S.-China AI “Cold War”",
-      "excerpt": "From Latin America to Southeast Asia, countries are dividing their AI investments between the two superpowers rather than choosing one over the other.",
-      "link": "https://restofworld.org/2026/ai-us-chips-chinese-open-source-models/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-      "published": "2026-09-16T10:00:00+00:00",
-      "featured": false
-    },
-    {
       "id": "847766fe0a19",
       "source": "ICIJ",
       "headline": "UK Parliament debates infrastructure security after China Capital revelations",
@@ -110,12 +110,30 @@
       "featured": false
     },
     {
-      "id": "3e3514e8355d",
+      "id": "09dc3bb746df",
       "source": "Al Jazeera",
-      "headline": "Can AI regulation keep America ahead of China?",
-      "excerpt": "As Washington debates how to regulate AI, industry experts say that governance doesn’t have to mean hitting the brakes.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/17/aje-onl-nf_can-ai-regulation-keep-america-ahead-of-china-170926?traffic_source=rss",
-      "published": "2026-09-17T04:42:27+00:00",
+      "headline": "Climate change had major role in triggering Nepal floods, scientists say",
+      "excerpt": "The combined toll from the deadly incident now stands at 1,446 people dead and at least 6,669 missing.",
+      "link": "https://www.aljazeera.com/news/2026/9/17/climate-change-had-major-role-in-triggering-nepal-floods-scientists-say?traffic_source=rss",
+      "published": "2026-09-17T11:19:23+00:00",
+      "featured": false
+    },
+    {
+      "id": "de25c2187a7e",
+      "source": "OCCRP",
+      "headline": "Independent Journalism Is Critical For European Resilience",
+      "excerpt": "EU leader Ursula von der Leyen warned during her State of the Union address this week that foreign propaganda and information warfare are key threats facing Europe. Fending them off requires stronger safeguards for...",
+      "link": "https://www.occrp.org/en/feature/independent-journalism-is-critical-for-european-resilience",
+      "published": "2026-09-17T08:29:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "e90d7c46598f",
+      "source": "The Intercept",
+      "headline": "The New York Times Conveniently Forgets the Real Stakes of Attacks on Free Speech",
+      "excerpt": "The paper published a long recounting of Trump’s attacks on the press, without ever mentioning Israel, Gaza, or ICE. The post The New York Times Conveniently Forgets the Real Stakes of Attacks on Free Speech appeared...",
+      "link": "https://theintercept.com/2026/09/16/new-york-times-trump-free-speech-press-threat/",
+      "published": "2026-09-16T19:44:28+00:00",
       "featured": false
     },
     {
@@ -128,21 +146,12 @@
       "featured": false
     },
     {
-      "id": "44bca8101bdd",
-      "source": "The Intercept",
-      "headline": "Ed Sheeran’s Craven “Neutrality” Is a Watershed Moment for Mainstreaming Palestine Solidarity",
-      "excerpt": "Ed Sheeran’s entire tour quitting in solidarity with Palestine and Macklemore proves the logic of BDS. The post Ed Sheeran’s Craven “Neutrality” Is a Watershed Moment for Mainstreaming Palestine Solidarity appeared...",
-      "link": "https://theintercept.com/2026/09/16/ed-sheeran-israel-palestine-macklemore/",
-      "published": "2026-09-16T17:23:48+00:00",
-      "featured": false
-    },
-    {
-      "id": "4a8610feddba",
-      "source": "OCCRP",
-      "headline": "French Prosecutors Seek Up to 5 Years in Prison for Sons of Ex-Yemeni President Saleh Over Ill-Gotten Assets",
-      "excerpt": "French prosecutors are seeking prison sentences and the formal forfeiture of luxury Paris real estate and Swiss bank accounts, accusing the sons of late Yemeni President Ali Abdullah Saleh of laundering millions in...",
-      "link": "https://www.occrp.org/en/news/french-prosecutors-seek-up-to-5-years-in-prison-for-sons-of-ex-yemeni-president-saleh-over-ill-gotten-assets",
-      "published": "2026-09-16T15:55:00+00:00",
+      "id": "c87d0bdefa57",
+      "source": "ProPublica",
+      "headline": "What to Know About Mail-In Voting for the 2026 Midterms",
+      "excerpt": "The post What to Know About Mail-In Voting for the 2026 Midterms appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/mail-in-voting-rules-midterm-elections",
+      "published": "2026-09-16T17:15:00+00:00",
       "featured": false
     },
     {
@@ -173,21 +182,12 @@
       "featured": false
     },
     {
-      "id": "33573d3890c2",
-      "source": "ProPublica",
-      "headline": "Arizona Lowered the Bar for Its English Fluency Test. Experts Say It Will Harm Students in the Long Run.",
-      "excerpt": "The post Arizona Lowered the Bar for Its English Fluency Test. Experts Say It Will Harm Students in the Long Run. appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/arizona-english-language-test-azella",
-      "published": "2026-09-16T09:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "038f69c40c27",
+      "id": "184944f4828a",
       "source": "Rest of World",
-      "headline": "Where in the world is the iPhone cheapest?",
-      "excerpt": "Apple’s high-end models cost more in markets like India and Turkey owing to high taxes and import duties.",
-      "link": "https://restofworld.org/2026/iphone-18-pro-global-prices/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-      "published": "2026-09-15T10:00:00+00:00",
+      "headline": "Playing both sides of the U.S.-China AI “Cold War”",
+      "excerpt": "From Latin America to Southeast Asia, countries are dividing their AI investments between the two superpowers rather than choosing one over the other.",
+      "link": "https://restofworld.org/2026/ai-us-chips-chinese-open-source-models/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "published": "2026-09-16T10:00:00+00:00",
       "featured": false
     },
     {
@@ -218,12 +218,21 @@
       "featured": false
     },
     {
-      "id": "8f1ff29aa926",
+      "id": "3866942ebab4",
       "source": "Al Jazeera",
-      "headline": "US bars Palestinian president from attending UNGA for second year",
-      "excerpt": "The United States has declined to grant visas to Palestinian President Mahmoud Abbas.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/17/us-bars-palestinian-president-from-attending-unga-for-second-year?traffic_source=rss",
-      "published": "2026-09-17T04:35:52+00:00",
+      "headline": "India to impose controversial fee for UPI instant payments: Who benefits?",
+      "excerpt": "It's the end of an era for India's popular instant digital payments system, which has been free of charge until now.",
+      "link": "https://www.aljazeera.com/features/2026/9/17/india-to-impose-controversial-fee-for-upi-instant-payments-who-benefits?traffic_source=rss",
+      "published": "2026-09-17T11:18:33+00:00",
+      "featured": false
+    },
+    {
+      "id": "ed60bfbe2543",
+      "source": "OCCRP",
+      "headline": "Thousands Protest in Malta After Businessman Acquitted in Journalist's Murder",
+      "excerpt": "Demonstrators in Valletta moved from nearly nine years of vigils to a protest demanding political accountability in response to the acquittal of Yorgen Fenech, the businessman accused of orchestrating the 2017...",
+      "link": "https://www.occrp.org/en/news/thousands-protest-in-malta-as-alleged-mastermind-walks-free",
+      "published": "2026-09-16T21:56:00+00:00",
       "featured": false
     },
     {
@@ -236,6 +245,15 @@
       "featured": false
     },
     {
+      "id": "44bca8101bdd",
+      "source": "The Intercept",
+      "headline": "Ed Sheeran’s Craven “Neutrality” Is a Watershed Moment for Mainstreaming Palestine Solidarity",
+      "excerpt": "Ed Sheeran’s entire tour quitting in solidarity with Palestine and Macklemore proves the logic of BDS. The post Ed Sheeran’s Craven “Neutrality” Is a Watershed Moment for Mainstreaming Palestine Solidarity appeared...",
+      "link": "https://theintercept.com/2026/09/16/ed-sheeran-israel-palestine-macklemore/",
+      "published": "2026-09-16T17:23:48+00:00",
+      "featured": false
+    },
+    {
       "id": "dda991f3acf6",
       "source": "Dropsite News",
       "headline": "Palestinian-American Journalist Naqaa Hamed Detained by Israeli Forces After Settlers Targeted Her",
@@ -245,30 +263,12 @@
       "featured": false
     },
     {
-      "id": "9e3a25dadd27",
-      "source": "The Intercept",
-      "headline": "NYPD Misconduct Payouts Still Soar Under Mamdani — And May Keep Growing",
-      "excerpt": "So far, settlement payouts under Mamdani are holdover cases. Without policy changes, however, they might keep growing toward a $1 billion total since 2018. The post NYPD Misconduct Payouts Still Soar Under Mamdani — And...",
-      "link": "https://theintercept.com/2026/09/16/nypd-mamdani-police-misconduct-settlement-payouts/",
-      "published": "2026-09-16T13:50:15+00:00",
-      "featured": false
-    },
-    {
-      "id": "247dd807d9b6",
-      "source": "OCCRP",
-      "headline": "From Fugitive to Federal Custody: Inside the Takedown of South America’s ‘King of the South’",
-      "excerpt": "Ahead of his trial, a high-stakes legal battle in Virginia erupts over missing evidence, secret crypto accounts, and alleged cartel ties of Uruguayan drug lord Sebastián Marset. Court documents show how he was boasting...",
-      "link": "https://www.occrp.org/en/news/from-fugitive-to-federal-custody-inside-the-takedown-of-south-americas-king-of-the-south",
-      "published": "2026-09-16T13:19:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "13eb87d3b943",
+      "id": "33573d3890c2",
       "source": "ProPublica",
-      "headline": "Top Oversight Dem Opens Investigation of Donald Trump Jr.’s Russian Oligarch-Funded Wedding",
-      "excerpt": "The post Top Oversight Dem Opens Investigation of Donald Trump Jr.’s Russian Oligarch-Funded Wedding appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/donald-trump-jr-wedding-umar-kremlev-payments-investigation",
-      "published": "2026-09-15T21:50:00+00:00",
+      "headline": "Arizona Lowered the Bar for Its English Fluency Test. Experts Say It Will Harm Students in the Long Run.",
+      "excerpt": "The post Arizona Lowered the Bar for Its English Fluency Test. Experts Say It Will Harm Students in the Long Run. appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/arizona-english-language-test-azella",
+      "published": "2026-09-16T09:00:00+00:00",
       "featured": false
     },
     {
@@ -281,21 +281,21 @@
       "featured": false
     },
     {
+      "id": "038f69c40c27",
+      "source": "Rest of World",
+      "headline": "Where in the world is the iPhone cheapest?",
+      "excerpt": "Apple’s high-end models cost more in markets like India and Turkey owing to high taxes and import duties.",
+      "link": "https://restofworld.org/2026/iphone-18-pro-global-prices/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "published": "2026-09-15T10:00:00+00:00",
+      "featured": false
+    },
+    {
       "id": "4bc6a09b2209",
       "source": "ICIJ",
       "headline": "Chinese bank helped Huawei spirit $1B out of London days after US indictment of the tech giant",
       "excerpt": "The urgent operation exposes how readily ICBC’s local branch bypassed internal checks to boost a Beijing favorite.",
       "link": "https://www.icij.org/investigations/china-capital/huawei-icbc-banking-us-court-beijing-london/",
       "published": "2026-09-14T21:41:33+00:00",
-      "featured": false
-    },
-    {
-      "id": "5d4dd6137eb0",
-      "source": "Rest of World",
-      "headline": "The real AI economy is being built by ordinary people",
-      "excerpt": "Far from Silicon Valley pitch decks, workers across Asia and Africa are bypassing tech industry hype to quietly rewire their daily jobs — one prompt, workflow, and local problem at a time.",
-      "link": "https://restofworld.org/2026/global-workers-using-ai-at-work/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-      "published": "2026-09-14T10:00:31+00:00",
       "featured": false
     },
     {
@@ -326,12 +326,30 @@
       "featured": false
     },
     {
-      "id": "ecbf31a17560",
+      "id": "005494cbf9da",
       "source": "Al Jazeera",
-      "headline": "US extends visa ban on Palestinian officials before UN General Assembly",
-      "excerpt": "Palestinian President Mahmoud Abbas is among those barred for the second year in a row.",
-      "link": "https://www.aljazeera.com/news/2026/9/17/us-extends-visa-ban-on-palestinian-officials-before-un-general-assembly?traffic_source=rss",
-      "published": "2026-09-17T03:44:13+00:00",
+      "headline": "Gaza repairman helps journalists to keep documenting genocide",
+      "excerpt": "As journalists in Gaza continue documenting the war, camera repairman Mohammed Radwan keeps damaged equipment in use.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/17/gaza-repairman-helps-journalists-to-keep-documenting-genocide?traffic_source=rss",
+      "published": "2026-09-17T11:01:03+00:00",
+      "featured": false
+    },
+    {
+      "id": "4a8610feddba",
+      "source": "OCCRP",
+      "headline": "French Prosecutors Seek Up to 5 Years in Prison for Sons of Ex-Yemeni President Saleh Over Ill-Gotten Assets",
+      "excerpt": "French prosecutors are seeking prison sentences and the formal forfeiture of luxury Paris real estate and Swiss bank accounts, accusing the sons of late Yemeni President Ali Abdullah Saleh of laundering millions in...",
+      "link": "https://www.occrp.org/en/news/french-prosecutors-seek-up-to-5-years-in-prison-for-sons-of-ex-yemeni-president-saleh-over-ill-gotten-assets",
+      "published": "2026-09-16T15:55:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "9e3a25dadd27",
+      "source": "The Intercept",
+      "headline": "NYPD Misconduct Payouts Still Soar Under Mamdani — And May Keep Growing",
+      "excerpt": "So far, settlement payouts under Mamdani are holdover cases. Without policy changes, however, they might keep growing toward a $1 billion total since 2018. The post NYPD Misconduct Payouts Still Soar Under Mamdani — And...",
+      "link": "https://theintercept.com/2026/09/16/nypd-mamdani-police-misconduct-settlement-payouts/",
+      "published": "2026-09-16T13:50:15+00:00",
       "featured": false
     },
     {
@@ -344,21 +362,12 @@
       "featured": false
     },
     {
-      "id": "014920b11fb9",
-      "source": "OCCRP",
-      "headline": "Ex-French Justice Minister Stands Trial Over Renault-Nissan Consultancy Case",
-      "excerpt": "Rachida Dati, former French Minister of Justice and Minister of Culture, will stand trial on allegations of corruption for accepting 900,000 euro in lawyer's fees between 2010 and 2012 from a subsidiary of...",
-      "link": "https://www.occrp.org/en/news/ex-french-justice-minister-stands-trial-over-renault-nissan-consultancy-case",
-      "published": "2026-09-16T10:07:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "9da48aecf359",
-      "source": "The Intercept",
-      "headline": "Crypto Darling Gillibrand’s 11th-Hour Flip-Flop Helps Block Trump Crypto Bill",
-      "excerpt": "Just hours before switching sides, Sen. Kirsten Gillibrand was lobbying fellow Democrats to advance the bill. The post Crypto Darling Gillibrand’s 11th-Hour Flip-Flop Helps Block Trump Crypto Bill appeared first on The...",
-      "link": "https://theintercept.com/2026/09/15/congress-trump-crypto-clarity-blocked/",
-      "published": "2026-09-15T21:02:30+00:00",
+      "id": "13eb87d3b943",
+      "source": "ProPublica",
+      "headline": "Top Oversight Dem Opens Investigation of Donald Trump Jr.’s Russian Oligarch-Funded Wedding",
+      "excerpt": "The post Top Oversight Dem Opens Investigation of Donald Trump Jr.’s Russian Oligarch-Funded Wedding appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/donald-trump-jr-wedding-umar-kremlev-payments-investigation",
+      "published": "2026-09-15T21:50:00+00:00",
       "featured": false
     },
     {
@@ -380,15 +389,6 @@
       "featured": false
     },
     {
-      "id": "ade95723284c",
-      "source": "ProPublica",
-      "headline": "Papa Johns, Propaganda and Putin: How a MAGA Influencer With Ties to Russia Became Trump’s Arctic Adviser",
-      "excerpt": "The post Papa Johns, Propaganda and Putin: How a MAGA Influencer With Ties to Russia Became Trump’s Arctic Adviser appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/thomas-dans-arctic-research-commission-trump-russia-propaganda",
-      "published": "2026-09-15T10:00:00+00:00",
-      "featured": false
-    },
-    {
       "id": "8d2123036703",
       "source": "ICIJ",
       "headline": "ICBC promoted corrupt executive, ignored employee misconduct as it pursued global expansion",
@@ -398,12 +398,12 @@
       "featured": false
     },
     {
-      "id": "2cbb34be4852",
+      "id": "5d4dd6137eb0",
       "source": "Rest of World",
-      "headline": "The AI talent war is coming for Big Tech’s Asia executives",
-      "excerpt": "OpenAI and Anthropic are hiring leaders from Meta, Google, Microsoft, and other U.S. tech giants to win new markets across India and Southeast Asia.",
-      "link": "https://restofworld.org/2026/openai-anthropic-big-tech-executives-asia/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-      "published": "2026-09-11T10:00:00+00:00",
+      "headline": "The real AI economy is being built by ordinary people",
+      "excerpt": "Far from Silicon Valley pitch decks, workers across Asia and Africa are bypassing tech industry hype to quietly rewire their daily jobs — one prompt, workflow, and local problem at a time.",
+      "link": "https://restofworld.org/2026/global-workers-using-ai-at-work/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "published": "2026-09-14T10:00:31+00:00",
       "featured": false
     },
     {
@@ -434,21 +434,21 @@
       "featured": false
     },
     {
-      "id": "aa76e071ef7a",
+      "id": "d65ac0d04a89",
       "source": "Al Jazeera",
-      "headline": "Yemeni forces target Houthis and a Saudi base as US rules out direct role",
-      "excerpt": "Saudi Arabia requests missile defence support from allies as the US sees its own stock of interceptors dwindle.",
-      "link": "https://www.aljazeera.com/news/2026/9/17/yemeni-forces-target-houthis-and-a-saudi-base-as-us-rules-out-direct-role?traffic_source=rss",
-      "published": "2026-09-17T03:26:56+00:00",
+      "headline": "Why is inflation rising again around the world?",
+      "excerpt": "Rising energy prices are pushing inflation higher again, forcing major central banks to raise interest rates.",
+      "link": "https://www.aljazeera.com/video/counting-the-cost/2026/9/17/why-is-inflation-rising-again-around-the-world?traffic_source=rss",
+      "published": "2026-09-17T10:50:54+00:00",
       "featured": false
     },
     {
-      "id": "4d2256fbd6f1",
+      "id": "247dd807d9b6",
       "source": "OCCRP",
-      "headline": "Instead of Helping Ukraine’s Poor, Ferrexpo’s Charitable Donations Flowed to Companies Associated With Its Then-CEO",
-      "excerpt": "Tens of millions of dollars that the London-listed iron ore giant Ferrexpo donated to a Ukrainian charity were not used for their intended purpose, according to a forensic report shared with OCCRP. Instead, the...",
-      "link": "https://www.occrp.org/en/investigation/instead-of-helping-ukraines-poor-ferrexpos-charitable-donations-flowed-to-companies-associated-with-its-then-ceo",
-      "published": "2026-09-16T09:18:00+00:00",
+      "headline": "From Fugitive to Federal Custody: Inside the Takedown of South America’s ‘King of the South’",
+      "excerpt": "Ahead of his trial, a high-stakes legal battle in Virginia erupts over missing evidence, secret crypto accounts, and alleged cartel ties of Uruguayan drug lord Sebastián Marset. Court documents show how he was boasting...",
+      "link": "https://www.occrp.org/en/news/from-fugitive-to-federal-custody-inside-the-takedown-of-south-americas-king-of-the-south",
+      "published": "2026-09-16T13:19:00+00:00",
       "featured": false
     },
     {
@@ -461,12 +461,12 @@
       "featured": false
     },
     {
-      "id": "80b2baa94b7a",
+      "id": "9da48aecf359",
       "source": "The Intercept",
-      "headline": "A Lone Juror Hijacked Deliberations. This Time, a Man Faces Execution.",
-      "excerpt": "While many fixated on the man who refused to acquit Lindsay Clancy, Georgia is set to kill Stacey Humphreys despite “extreme juror misconduct.” The post A Lone Juror Hijacked Deliberations. This Time, a Man Faces...",
-      "link": "https://theintercept.com/2026/09/15/juror-stacey-humphreys-georgia-execution/",
-      "published": "2026-09-15T18:48:27+00:00",
+      "headline": "Crypto Darling Gillibrand’s 11th-Hour Flip-Flop Helps Block Trump Crypto Bill",
+      "excerpt": "Just hours before switching sides, Sen. Kirsten Gillibrand was lobbying fellow Democrats to advance the bill. The post Crypto Darling Gillibrand’s 11th-Hour Flip-Flop Helps Block Trump Crypto Bill appeared first on The...",
+      "link": "https://theintercept.com/2026/09/15/congress-trump-crypto-clarity-blocked/",
+      "published": "2026-09-15T21:02:30+00:00",
       "featured": false
     },
     {
@@ -479,12 +479,12 @@
       "featured": false
     },
     {
-      "id": "4269e0b72225",
+      "id": "ade95723284c",
       "source": "ProPublica",
-      "headline": "Underage Players, Predatory Moneylenders: 7 Findings From Our Dominican Baseball Investigation",
-      "excerpt": "The post Underage Players, Predatory Moneylenders: 7 Findings From Our Dominican Baseball Investigation appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/dominican-republic-baseball-major-league-takeaways",
-      "published": "2026-09-15T09:00:00+00:00",
+      "headline": "Papa Johns, Propaganda and Putin: How a MAGA Influencer With Ties to Russia Became Trump’s Arctic Adviser",
+      "excerpt": "The post Papa Johns, Propaganda and Putin: How a MAGA Influencer With Ties to Russia Became Trump’s Arctic Adviser appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/thomas-dans-arctic-research-commission-trump-russia-propaganda",
+      "published": "2026-09-15T10:00:00+00:00",
       "featured": false
     },
     {
@@ -506,12 +506,12 @@
       "featured": false
     },
     {
-      "id": "f2fc1ddbbcff",
+      "id": "2cbb34be4852",
       "source": "Rest of World",
-      "headline": "Google Earth’s AI experiment lasted 24 hours. The damage to trust will linger",
-      "excerpt": "A short-lived generative AI feature in Google Earth that allowed users to create fake satellite imagery shows the lasting effects of unvetted AI tools during a conflict.",
-      "link": "https://restofworld.org/2026/google-earth-ai-deepfake-iran-war/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-      "published": "2026-09-10T10:00:00+00:00",
+      "headline": "The AI talent war is coming for Big Tech’s Asia executives",
+      "excerpt": "OpenAI and Anthropic are hiring leaders from Meta, Google, Microsoft, and other U.S. tech giants to win new markets across India and Southeast Asia.",
+      "link": "https://restofworld.org/2026/openai-anthropic-big-tech-executives-asia/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "published": "2026-09-11T10:00:00+00:00",
       "featured": false
     },
     {
@@ -533,12 +533,12 @@
       "featured": false
     },
     {
-      "id": "0d8a35139daf",
+      "id": "1e64f818ff4b",
       "source": "Al Jazeera",
-      "headline": "Verstappen beats 100 go-karters in fun Silverstone race",
-      "excerpt": "Four-time Formula One champion Max Verstappen has beaten 100 go-karters in a competition at Silverstone, UK.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/17/verstappen-beats-100-go-karters-in-fun-silverstone-race?traffic_source=rss",
-      "published": "2026-09-17T03:21:13+00:00",
+      "headline": "Trump claims direct talks with Iran: Is diplomacy picking up again?",
+      "excerpt": "The US president says Washington is 'hopefully toward the end' of Iran war, as global energy prices remain high.",
+      "link": "https://www.aljazeera.com/news/2026/9/17/trump-claims-direct-talks-with-iran-is-diplomacy-picking-up-again?traffic_source=rss",
+      "published": "2026-09-17T10:32:46+00:00",
       "featured": false
     }
   ]
