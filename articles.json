@@ -1,14 +1,50 @@
 {
-  "generated_at": "2026-09-18T16:24:47.392630+00:00",
+  "generated_at": "2026-09-18T20:54:57.896404+00:00",
   "articles": [
     {
-      "id": "81dba1454070",
-      "source": "The Intercept",
-      "headline": "Robert Kraft Claims His Donations Help Palestinians. Turns Out He’s Funding Friends of the IDF.",
-      "excerpt": "An analysis of tax forms by The Intercept show Kraft’s charity and LLC have donated to Friends of the IDF and AIPAC’s super PAC. The post Robert Kraft Claims His Donations Help Palestinians. Turns Out He’s Funding...",
-      "link": "https://theintercept.com/2026/09/18/robert-kraft-macklemore-ed-sheeran-israel-donations/",
-      "published": "2026-09-18T16:16:11+00:00",
+      "id": "4fb8fb9f8283",
+      "source": "Al Jazeera",
+      "headline": "Syria arrests five former al-Assad-era officers over strikes on civilians",
+      "excerpt": "Former air officers, including an air force general, were arrested in a series of operations.",
+      "link": "https://www.aljazeera.com/news/2026/9/18/syria-arrests-five-former-al-assad-era-officers-over-strikes-on-civilians?traffic_source=rss",
+      "published": "2026-09-18T20:20:23+00:00",
       "featured": true
+    },
+    {
+      "id": "3883b76c2003",
+      "source": "ICIJ",
+      "headline": "‘Tinder Swindler’s’ plan for a dating app sparks industry backlash",
+      "excerpt": "The convicted fraudster says his new app would enable women to find love safely. The lead trade group for online dating disagrees.",
+      "link": "https://www.icij.org/news/2026/09/tinder-swindlers-plan-for-a-dating-app-sparks-industry-backlash/",
+      "published": "2026-09-18T19:34:24+00:00",
+      "featured": true
+    },
+    {
+      "id": "e6581a8144a4",
+      "source": "The Lever",
+      "headline": "This PR Populist Is Quiet About His Data Center Past",
+      "excerpt": "Iowa Republican Joe Mitchell says he’s fighting insiders and lobbyists, but he worked for a public relations firm that boasts, “Data center developers count on us.”",
+      "link": "https://www.levernews.com/this-pr-populist-is-quiet-about-his-data-center-past/",
+      "published": "2026-09-18T18:15:39+00:00",
+      "featured": true
+    },
+    {
+      "id": "400f72d45150",
+      "source": "ProPublica",
+      "headline": "Judge Denies Efforts to End Oversight of Maricopa County Sheriff’s Office as Racial Profiling of Latinos Persists",
+      "excerpt": "The post Judge Denies Efforts to End Oversight of Maricopa County Sheriff’s Office as Racial Profiling of Latinos Persists appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/maricopa-county-sheriff-oversight-judge-ruling",
+      "published": "2026-09-18T17:10:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "37a8abbada6e",
+      "source": "The Intercept",
+      "headline": "ICE Revives Former “Hellhole” Prison — And Hires the Same Company To Run It",
+      "excerpt": "At Leavenworth, former workers say CoreCivic made conditions dangerous, which led to a near-death attack. The post ICE Revives Former “Hellhole” Prison — And Hires the Same Company To Run It appeared first on The...",
+      "link": "https://theintercept.com/2026/09/18/leavenworth-kansas-corecivic-prison-ice-staffing/",
+      "published": "2026-09-18T16:43:48+00:00",
+      "featured": false
     },
     {
       "id": "a32b11a50ea1",
@@ -17,16 +53,7 @@
       "excerpt": "404 Media and The Intercept talk about how private companies empower government surveillance, and how AI is used in warfare.",
       "link": "https://www.404media.co/404-media-x-the-intercept-live-how-ai-is-used-to-surveil-and-kill/",
       "published": "2026-09-18T15:47:19+00:00",
-      "featured": true
-    },
-    {
-      "id": "0492f6192b75",
-      "source": "Al Jazeera",
-      "headline": "Nigerian forces fire at protesters rallying over deaths of detained miners",
-      "excerpt": "Government has promised to fully investigate after 37 miners died while being held in police custody in Niger State.",
-      "link": "https://www.aljazeera.com/news/2026/9/18/nigerian-forces-fire-at-protesters-rallying-over-deaths-of-detained-miners?traffic_source=rss",
-      "published": "2026-09-18T15:45:45+00:00",
-      "featured": true
+      "featured": false
     },
     {
       "id": "ad35b2e7ff41",
@@ -35,15 +62,6 @@
       "excerpt": "",
       "link": "https://www.occrp.org/en/news/bosnia-seizes-11-tons-of-synthetic-drugs-worth-up-to-eur33-million",
       "published": "2026-09-18T15:26:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "2b05ecdcbd7d",
-      "source": "ProPublica",
-      "headline": "Tennessee Lawmakers Demand Answers on Safety in State Youth Prisons",
-      "excerpt": "The post Tennessee Lawmakers Demand Answers on Safety in State Youth Prisons appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/tennessee-private-youth-prisons-dcs-letter",
-      "published": "2026-09-18T15:00:00+00:00",
       "featured": false
     },
     {
@@ -65,15 +83,6 @@
       "featured": false
     },
     {
-      "id": "bf4e2f2dc1f9",
-      "source": "The Lever",
-      "headline": "The Quiet Corruption Behind Washington’s AI Inaction",
-      "excerpt": "How the “corruption of inaction” in both parties is helping AI oligarchs avoid accountability and endanger the world.",
-      "link": "https://www.levernews.com/the-quiet-corruption-behind-washingtons-ai-inaction/",
-      "published": "2026-09-18T01:55:31+00:00",
-      "featured": false
-    },
-    {
       "id": "ed53fe14754e",
       "source": "Bellingcat",
       "headline": "“A Recurring Pattern”: Civilians Paying the Price in Mali’s Drone Campaign",
@@ -92,21 +101,48 @@
       "featured": false
     },
     {
-      "id": "847766fe0a19",
-      "source": "ICIJ",
-      "headline": "UK Parliament debates infrastructure security after China Capital revelations",
-      "excerpt": "ICIJ and its media partners found that Chinese bank ICBC served as a financing hub for infrastructure in the U.K. and Australia, prompting questions about Beijing’s influence over public projects.",
-      "link": "https://www.icij.org/investigations/china-capital/uk-parliament-debates-infrastructure-security-after-china-capital-revelations/",
-      "published": "2026-09-15T22:22:01+00:00",
-      "featured": false
-    },
-    {
       "id": "b408336eaa2d",
       "source": "More Perfect Union",
       "headline": "We Investigated The Biggest Welfare Scam In The Country",
       "excerpt": "The biggest welfare scam in the country is run by a consulting giant.",
       "link": "https://substack.perfectunion.us/p/we-investigated-the-biggest-welfare",
       "published": "2026-09-11T13:34:41+00:00",
+      "featured": false
+    },
+    {
+      "id": "b4313ee59c4c",
+      "source": "Al Jazeera",
+      "headline": "Russia labels Cannes-winning director Andrey Zvyagintsev a ‘foreign agent’",
+      "excerpt": "Acclaimed Russian film director who won 2026 Grand Prix award at Cannes, ⁠has been critical of the war in Ukraine.",
+      "link": "https://www.aljazeera.com/news/2026/9/18/russia-labels-cannes-winning-director-andrey-zvyagintsev-a-foreign-agent?traffic_source=rss",
+      "published": "2026-09-18T19:39:16+00:00",
+      "featured": false
+    },
+    {
+      "id": "719ecc1d078e",
+      "source": "ICIJ",
+      "headline": "US prosecutors accuse Huawei of ‘far-reaching criminal scheme’ spanning decades",
+      "excerpt": "The Chinese tech giant is on trial in New York for allegedly violating U.S. sanctions on Iran and stealing trade secrets as it built its global telecommunications empire.",
+      "link": "https://www.icij.org/investigations/china-capital/us-prosecutors-accuse-huawei-of-far-reaching-criminal-scheme-spanning-decades/",
+      "published": "2026-09-18T17:28:45+00:00",
+      "featured": false
+    },
+    {
+      "id": "598f5e1fc66c",
+      "source": "The Lever",
+      "headline": "What’s A Little Macklemore?",
+      "excerpt": "Test your knowledge of AI, superstars, and other issues that really matter.",
+      "link": "https://www.levernews.com/levermind-quiz-whats-a-little-macklemore/",
+      "published": "2026-09-18T16:29:23+00:00",
+      "featured": false
+    },
+    {
+      "id": "81dba1454070",
+      "source": "The Intercept",
+      "headline": "Robert Kraft Claims His Donations Help Palestinians. Turns Out He’s Funding Friends of the IDF.",
+      "excerpt": "An analysis of tax forms by The Intercept show Kraft’s charity and LLC have donated to Friends of the IDF and AIPAC’s super PAC. The post Robert Kraft Claims His Donations Help Palestinians. Turns Out He’s Funding...",
+      "link": "https://theintercept.com/2026/09/18/robert-kraft-macklemore-ed-sheeran-israel-donations/",
+      "published": "2026-09-18T16:16:11+00:00",
       "featured": false
     },
     {
@@ -119,21 +155,12 @@
       "featured": false
     },
     {
-      "id": "ec9ffeeb2297",
-      "source": "Al Jazeera",
-      "headline": "Police hit migrants with batons during camp transfer in Ceuta",
-      "excerpt": "Police in Ceuta used batons and fired shots into the air as they began moving migrants from beaches to a new camp.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/18/police-hit-migrants-with-batons-during-camp-transfer-in-ceuta?traffic_source=rss",
-      "published": "2026-09-18T15:24:18+00:00",
-      "featured": false
-    },
-    {
-      "id": "43fa4e9ffb61",
-      "source": "The Intercept",
-      "headline": "Apocalypse Now: Naomi Klein and Astra Taylor Investigate the End-Timers Alliance",
-      "excerpt": "What’s driving religious fundamentalists, tech accelerationists, and anti-immigrant ethnonationalists to bring about the end of the world? The post Apocalypse Now: Naomi Klein and Astra Taylor Investigate the End-Timers...",
-      "link": "https://theintercept.com/2026/09/18/naomi-klein-astra-taylor-ai-religious-apocalypse-doom/",
-      "published": "2026-09-18T13:30:00+00:00",
+      "id": "2b05ecdcbd7d",
+      "source": "ProPublica",
+      "headline": "Tennessee Lawmakers Demand Answers on Safety in State Youth Prisons",
+      "excerpt": "The post Tennessee Lawmakers Demand Answers on Safety in State Youth Prisons appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/tennessee-private-youth-prisons-dcs-letter",
+      "published": "2026-09-18T15:00:00+00:00",
       "featured": false
     },
     {
@@ -146,30 +173,12 @@
       "featured": false
     },
     {
-      "id": "af316448d513",
-      "source": "ProPublica",
-      "headline": "“A Clear Watering Down”: Drug Transparency Bill Stripped of Critical Provisions Ahead of Senate Vote",
-      "excerpt": "The post “A Clear Watering Down”: Drug Transparency Bill Stripped of Critical Provisions Ahead of Senate Vote appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/clear-labels-act-drug-safety-senate-vote",
-      "published": "2026-09-18T10:00:00+00:00",
-      "featured": false
-    },
-    {
       "id": "0df6eca0585f",
       "source": "Dropsite News",
       "headline": "Many of the “Michigan Jewish Dems” Backing Mike Rogers Are Actually Already Republican Supporters, Analysis Finds",
       "excerpt": "A close look at the signatories reveals many have been involved in past GOP efforts—including “Jews For Mitt” in 2012.",
       "link": "https://www.dropsitenews.com/p/michigan-jewish-democrats-mike-rogers",
       "published": "2026-09-17T22:14:37+00:00",
-      "featured": false
-    },
-    {
-      "id": "a8bc04512470",
-      "source": "The Lever",
-      "headline": "What Tech Oligarchs Gain From AI Doomerism",
-      "excerpt": "David Sirota speaks with Ed Zitron and Matt Stoller about the AI panic sweeping Wall Street and Washington — and what Big Tech CEOs really want.",
-      "link": "https://www.levernews.com/what-tech-oligarchs-gain-from-ai-doomerism/",
-      "published": "2026-09-17T21:50:49+00:00",
       "featured": false
     },
     {
@@ -191,15 +200,6 @@
       "featured": false
     },
     {
-      "id": "5d6c8504d771",
-      "source": "ICIJ",
-      "headline": "Chinese banking giant serves firms linked to oligarchs and autocrats to push Beijing’s agenda",
-      "excerpt": "Confidential records reveal how the Industrial and Commercial Bank of China’s London units courted high-risk clients to secure resources and alliances for Xi Jinping’s regime.",
-      "link": "https://www.icij.org/investigations/china-capital/china-banking-icbc-oligarchs-sanctions-london/",
-      "published": "2026-09-14T21:41:45+00:00",
-      "featured": false
-    },
-    {
       "id": "2f58ea755720",
       "source": "Bellingcat",
       "headline": "Bellingcat Official Merch Design Contest",
@@ -218,21 +218,30 @@
       "featured": false
     },
     {
-      "id": "f8461670fe6f",
+      "id": "4feb156ff7fd",
       "source": "Al Jazeera",
-      "headline": "Carrick brushes off questions over his Manchester United future",
-      "excerpt": "Michael Carrick says he expected tough season start as he rebuffs questions about his role as Manchester United manager.",
-      "link": "https://www.aljazeera.com/sports/2026/9/18/carrick-brushes-off-questions-over-his-manchester-united-future?traffic_source=rss",
-      "published": "2026-09-18T15:21:45+00:00",
+      "headline": "Lebanese artist turns Israeli missile debris into art",
+      "excerpt": "In southern Lebanon, visual artist Lina Jouni transforms debris from Israeli missile strikes into pieces of art.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/18/lebanese-artist-turns-israeli-missile-debris-into-art?traffic_source=rss",
+      "published": "2026-09-18T19:31:32+00:00",
       "featured": false
     },
     {
-      "id": "7289c84fda6a",
+      "id": "43fa4e9ffb61",
+      "source": "The Intercept",
+      "headline": "Apocalypse Now: Naomi Klein and Astra Taylor Investigate the End-Timers Alliance",
+      "excerpt": "What’s driving religious fundamentalists, tech accelerationists, and anti-immigrant ethnonationalists to bring about the end of the world? The post Apocalypse Now: Naomi Klein and Astra Taylor Investigate the End-Timers...",
+      "link": "https://theintercept.com/2026/09/18/naomi-klein-astra-taylor-ai-religious-apocalypse-doom/",
+      "published": "2026-09-18T13:30:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "af316448d513",
       "source": "ProPublica",
-      "headline": "Why ProPublica Is Leaning Into Sports Investigations",
-      "excerpt": "The post Why ProPublica Is Leaning Into Sports Investigations appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/propublica-sports-investigations",
-      "published": "2026-09-18T09:00:00+00:00",
+      "headline": "“A Clear Watering Down”: Drug Transparency Bill Stripped of Critical Provisions Ahead of Senate Vote",
+      "excerpt": "The post “A Clear Watering Down”: Drug Transparency Bill Stripped of Critical Provisions Ahead of Senate Vote appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/clear-labels-act-drug-safety-senate-vote",
+      "published": "2026-09-18T10:00:00+00:00",
       "featured": false
     },
     {
@@ -245,30 +254,21 @@
       "featured": false
     },
     {
+      "id": "bf4e2f2dc1f9",
+      "source": "The Lever",
+      "headline": "The Quiet Corruption Behind Washington’s AI Inaction",
+      "excerpt": "How the “corruption of inaction” in both parties is helping AI oligarchs avoid accountability and endanger the world.",
+      "link": "https://www.levernews.com/the-quiet-corruption-behind-washingtons-ai-inaction/",
+      "published": "2026-09-18T01:55:31+00:00",
+      "featured": false
+    },
+    {
       "id": "6bb5f16f0ff0",
       "source": "404 Media",
       "headline": "‘Doom Loop’: OpenAI and Microsoft Admits LLMs Are Destroying the Web and Built on Theft",
       "excerpt": "\"Millions of people around the world will soon consider large models ‘hoovering up’ all their work to be an astonishing theft of unprecedented proportions.\"",
       "link": "https://www.404media.co/doom-loop-openai-and-microsoft-admits-llms-are-destroying-the-web-and-built-on-theft/",
       "published": "2026-09-17T22:01:43+00:00",
-      "featured": false
-    },
-    {
-      "id": "f45ffdc8adaa",
-      "source": "The Lever",
-      "headline": "The Curious Data Center “Gift” Haunting Ken Paxton’s AI Crackdown",
-      "excerpt": "Before vowing to end data center tax breaks, the Texas Senate candidate voted to create them after accepting 100,000 shares in a server company.",
-      "link": "https://www.levernews.com/https-www-levernews-com-the-curious-data-center-gift-haunting-ken-paxtons-ai-crackdown/",
-      "published": "2026-09-17T21:45:32+00:00",
-      "featured": false
-    },
-    {
-      "id": "bc35b64ef8f0",
-      "source": "The Intercept",
-      "headline": "Pete Hegseth’s Unholy War",
-      "excerpt": "What kind of Christianity is being proclaimed when the language of Jesus is attached to military power? The post Pete Hegseth’s Unholy War appeared first on The Intercept.",
-      "link": "https://theintercept.com/2026/09/17/hegseth-christianity-jesus-iran-war/",
-      "published": "2026-09-17T15:10:43+00:00",
       "featured": false
     },
     {
@@ -290,12 +290,12 @@
       "featured": false
     },
     {
-      "id": "4bc6a09b2209",
+      "id": "847766fe0a19",
       "source": "ICIJ",
-      "headline": "Chinese bank helped Huawei spirit $1B out of London days after US indictment of the tech giant",
-      "excerpt": "The urgent operation exposes how readily ICBC’s local branch bypassed internal checks to boost a Beijing favorite.",
-      "link": "https://www.icij.org/investigations/china-capital/huawei-icbc-banking-us-court-beijing-london/",
-      "published": "2026-09-14T21:41:33+00:00",
+      "headline": "UK Parliament debates infrastructure security after China Capital revelations",
+      "excerpt": "ICIJ and its media partners found that Chinese bank ICBC served as a financing hub for infrastructure in the U.K. and Australia, prompting questions about Beijing’s influence over public projects.",
+      "link": "https://www.icij.org/investigations/china-capital/uk-parliament-debates-infrastructure-security-after-china-capital-revelations/",
+      "published": "2026-09-15T22:22:01+00:00",
       "featured": false
     },
     {
@@ -326,12 +326,30 @@
       "featured": false
     },
     {
-      "id": "358259af4a1b",
+      "id": "8e51a6e640b3",
       "source": "Al Jazeera",
-      "headline": "Real Madrid President says Ceuta visit not related to ‘recent news’",
-      "excerpt": "Real Madrid stars including Kylian Mbappe rolled up T-shirts showing support for Ceuta, but President trip 'unrelated'.",
-      "link": "https://www.aljazeera.com/sports/2026/9/18/real-madrid-president-says-ceuta-visit-not-related-to-recent-news?traffic_source=rss",
-      "published": "2026-09-18T14:37:30+00:00",
+      "headline": "Trump bans CNN, MS NOW, Politico from the White House for ‘fake news’",
+      "excerpt": "The US president insists media outlets report 'fiction and lies' as he enforces new bans on White House access.",
+      "link": "https://www.aljazeera.com/news/2026/9/18/trump-bans-news-outlets-cnn-ms-now-and-politico-from-white-house?traffic_source=rss",
+      "published": "2026-09-18T19:25:04+00:00",
+      "featured": false
+    },
+    {
+      "id": "7289c84fda6a",
+      "source": "ProPublica",
+      "headline": "Why ProPublica Is Leaning Into Sports Investigations",
+      "excerpt": "The post Why ProPublica Is Leaning Into Sports Investigations appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/propublica-sports-investigations",
+      "published": "2026-09-18T09:00:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "a8bc04512470",
+      "source": "The Lever",
+      "headline": "What Tech Oligarchs Gain From AI Doomerism",
+      "excerpt": "David Sirota speaks with Ed Zitron and Matt Stoller about the AI panic sweeping Wall Street and Washington — and what Big Tech CEOs really want.",
+      "link": "https://www.levernews.com/what-tech-oligarchs-gain-from-ai-doomerism/",
+      "published": "2026-09-17T21:50:49+00:00",
       "featured": false
     },
     {
@@ -353,30 +371,12 @@
       "featured": false
     },
     {
-      "id": "12d28681652e",
-      "source": "The Lever",
-      "headline": "Trump Freed Bad Bots",
-      "excerpt": "Before artificial intelligence became a midterms issue, Trump regulators erased consequences for an AI firm linked to fake customer reviews.",
-      "link": "https://www.levernews.com/trump-freed-bad-bots/",
-      "published": "2026-09-17T16:55:20+00:00",
-      "featured": false
-    },
-    {
-      "id": "81e8689a0ad5",
+      "id": "bc35b64ef8f0",
       "source": "The Intercept",
-      "headline": "Facing Outraged Residents, Flock Got Help From Group That Uses AI to Rally Public Support",
-      "excerpt": "Beset by critics in Knoxville, Flock partnered with a nonprofit accused of “astroturfing” for a campaign to generate support for its surveillance cameras. The post Facing Outraged Residents, Flock Got Help From Group...",
-      "link": "https://theintercept.com/2026/09/17/flock-cameras-ai-astroturf-support/",
-      "published": "2026-09-17T09:30:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "821ffed74526",
-      "source": "ProPublica",
-      "headline": "Oregon Lawmakers Seek to Open Up Affordable Housing Records Following ProPublica’s Reporting",
-      "excerpt": "The post Oregon Lawmakers Seek to Open Up Affordable Housing Records Following ProPublica’s Reporting appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/oregon-lawmakers-seek-to-open-housing-records",
-      "published": "2026-09-17T09:00:00+00:00",
+      "headline": "Pete Hegseth’s Unholy War",
+      "excerpt": "What kind of Christianity is being proclaimed when the language of Jesus is attached to military power? The post Pete Hegseth’s Unholy War appeared first on The Intercept.",
+      "link": "https://theintercept.com/2026/09/17/hegseth-christianity-jesus-iran-war/",
+      "published": "2026-09-17T15:10:43+00:00",
       "featured": false
     },
     {
@@ -398,12 +398,12 @@
       "featured": false
     },
     {
-      "id": "8d2123036703",
+      "id": "5d6c8504d771",
       "source": "ICIJ",
-      "headline": "ICBC promoted corrupt executive, ignored employee misconduct as it pursued global expansion",
-      "excerpt": "The Chinese banking giant turned a blind eye to alleged fraud and embezzlement within its ranks for years, according to a tranche of confidential files.",
-      "link": "https://www.icij.org/investigations/china-capital/zhang-hongli-icbc-executive-corruption-employee-misconduct/",
-      "published": "2026-09-14T21:41:06+00:00",
+      "headline": "Chinese banking giant serves firms linked to oligarchs and autocrats to push Beijing’s agenda",
+      "excerpt": "Confidential records reveal how the Industrial and Commercial Bank of China’s London units courted high-risk clients to secure resources and alliances for Xi Jinping’s regime.",
+      "link": "https://www.icij.org/investigations/china-capital/china-banking-icbc-oligarchs-sanctions-london/",
+      "published": "2026-09-14T21:41:45+00:00",
       "featured": false
     },
     {
@@ -434,12 +434,21 @@
       "featured": false
     },
     {
-      "id": "92c64d1b9634",
+      "id": "2e7c7e10e0c6",
       "source": "Al Jazeera",
-      "headline": "Real Madrid’s Kylian Mbappe ends Nike partnership to join Swiss brand On",
-      "excerpt": "On, which is set to launch its first football boots next year, also appointed Thierry Henry as its football director.",
-      "link": "https://www.aljazeera.com/sports/2026/9/18/real-madrids-kylian-mbappe-ends-nike-partnership-to-join-swiss-brand-on?traffic_source=rss",
-      "published": "2026-09-18T14:30:18+00:00",
+      "headline": "Two injured by Israeli shelling as troops advance in southern Lebanon",
+      "excerpt": "Israeli forces withdraw from outskirts of a town in southern Lebanon after a standoff with Lebanese forces.",
+      "link": "https://www.aljazeera.com/news/2026/9/18/two-injured-by-israeli-shelling-as-troops-advance-in-southern-lebanon?traffic_source=rss",
+      "published": "2026-09-18T19:14:41+00:00",
+      "featured": false
+    },
+    {
+      "id": "f45ffdc8adaa",
+      "source": "The Lever",
+      "headline": "The Curious Data Center “Gift” Haunting Ken Paxton’s AI Crackdown",
+      "excerpt": "Before vowing to end data center tax breaks, the Texas Senate candidate voted to create them after accepting 100,000 shares in a server company.",
+      "link": "https://www.levernews.com/https-www-levernews-com-the-curious-data-center-gift-haunting-ken-paxtons-ai-crackdown/",
+      "published": "2026-09-17T21:45:32+00:00",
       "featured": false
     },
     {
@@ -461,30 +470,21 @@
       "featured": false
     },
     {
-      "id": "e1f58d8010c4",
-      "source": "The Lever",
-      "headline": "Big AI’s Favorite Democrats Are Writing The Party’s AI Plan",
-      "excerpt": "Hakeem Jeffries’ five-member AI commission is stacked with lawmakers backed by industry super PACs seeking to shape federal policy.",
-      "link": "https://www.levernews.com/big-ais-favorite-democrats-are-writing-the-partys-ai-plan/",
-      "published": "2026-09-16T19:51:12+00:00",
-      "featured": false
-    },
-    {
-      "id": "e90d7c46598f",
+      "id": "81e8689a0ad5",
       "source": "The Intercept",
-      "headline": "The New York Times Conveniently Forgets the Real Stakes of Attacks on Free Speech",
-      "excerpt": "The paper published a long recounting of Trump’s attacks on the press, without ever mentioning Israel, Gaza, or ICE. The post The New York Times Conveniently Forgets the Real Stakes of Attacks on Free Speech appeared...",
-      "link": "https://theintercept.com/2026/09/16/new-york-times-trump-free-speech-press-threat/",
-      "published": "2026-09-16T19:44:28+00:00",
+      "headline": "Facing Outraged Residents, Flock Got Help From Group That Uses AI to Rally Public Support",
+      "excerpt": "Beset by critics in Knoxville, Flock partnered with a nonprofit accused of “astroturfing” for a campaign to generate support for its surveillance cameras. The post Facing Outraged Residents, Flock Got Help From Group...",
+      "link": "https://theintercept.com/2026/09/17/flock-cameras-ai-astroturf-support/",
+      "published": "2026-09-17T09:30:00+00:00",
       "featured": false
     },
     {
-      "id": "c87d0bdefa57",
+      "id": "821ffed74526",
       "source": "ProPublica",
-      "headline": "What to Know About Mail-In Voting for the 2026 Midterms",
-      "excerpt": "The post What to Know About Mail-In Voting for the 2026 Midterms appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/mail-in-voting-rules-midterm-elections",
-      "published": "2026-09-16T17:15:00+00:00",
+      "headline": "Oregon Lawmakers Seek to Open Up Affordable Housing Records Following ProPublica’s Reporting",
+      "excerpt": "The post Oregon Lawmakers Seek to Open Up Affordable Housing Records Following ProPublica’s Reporting appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/oregon-lawmakers-seek-to-open-housing-records",
+      "published": "2026-09-17T09:00:00+00:00",
       "featured": false
     },
     {
@@ -497,12 +497,12 @@
       "featured": false
     },
     {
-      "id": "442d02a40c43",
+      "id": "4bc6a09b2209",
       "source": "ICIJ",
-      "headline": "WATCH: How the world’s biggest bank advances Beijing’s interests",
-      "excerpt": "Based on a trove of 4.8 million records, China Capital reveals how ICBC used its U.K. operations to pursue explicitly political objectives for its majority shareholder, the Chinese government.",
-      "link": "https://www.icij.org/investigations/china-capital/icbc-china-capital-video/",
-      "published": "2026-09-14T21:40:55+00:00",
+      "headline": "Chinese bank helped Huawei spirit $1B out of London days after US indictment of the tech giant",
+      "excerpt": "The urgent operation exposes how readily ICBC’s local branch bypassed internal checks to boost a Beijing favorite.",
+      "link": "https://www.icij.org/investigations/china-capital/huawei-icbc-banking-us-court-beijing-london/",
+      "published": "2026-09-14T21:41:33+00:00",
       "featured": false
     },
     {
@@ -533,12 +533,12 @@
       "featured": false
     },
     {
-      "id": "e6818e762933",
+      "id": "b61b9a9bf2c2",
       "source": "Al Jazeera",
-      "headline": "New Bolivian cat claws its way into species list: What we meow",
-      "excerpt": "Purrfectly new to science: the first new wild cat found in over a century proves that cats do have nine (secret) lives.",
-      "link": "https://www.aljazeera.com/news/2026/9/18/new-bolivian-cat-claws-its-way-into-species-list-what-we-meow?traffic_source=rss",
-      "published": "2026-09-18T14:25:53+00:00",
+      "headline": "England fast bowler Carse to face no charges over alleged nightclub assault",
+      "excerpt": "Derbyshire Police said they were investigating an alleged assault but have now decided no further action will be taken.",
+      "link": "https://www.aljazeera.com/sports/2026/9/18/england-fast-bowler-carse-to-face-no-charges-over-alleged-nightclub-assault?traffic_source=rss",
+      "published": "2026-09-18T19:12:58+00:00",
       "featured": false
     }
   ]
