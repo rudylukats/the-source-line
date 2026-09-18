@@ -1,14 +1,41 @@
 {
-  "generated_at": "2026-09-18T04:44:54.336557+00:00",
+  "generated_at": "2026-09-18T11:16:25.349001+00:00",
   "articles": [
     {
-      "id": "ae83d276e88e",
+      "id": "08062161c705",
       "source": "Al Jazeera",
-      "headline": "Could this economic squeeze sway US voters?",
-      "excerpt": "Americans on the lower end of the economy are feeling the impact of higher borrowing costs and weaker purchasing power.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/18/aje-onl-nf_could-this-economic-squeeze-sway-us-voters-180926?traffic_source=rss",
-      "published": "2026-09-18T04:27:25+00:00",
+      "headline": "Palmer and Alexander-Arnold recalled after England World Cup snub",
+      "excerpt": "Cole Palmer and Trent Alexander-Arnold back for Thomas Tuchel in Nations League, but still no place for Phil Foden.",
+      "link": "https://www.aljazeera.com/sports/2026/9/18/palmer-and-alexander-arnold-recalled-after-england-world-cup-snub?traffic_source=rss",
+      "published": "2026-09-18T10:49:33+00:00",
       "featured": true
+    },
+    {
+      "id": "af316448d513",
+      "source": "ProPublica",
+      "headline": "“A Clear Watering Down”: Drug Transparency Bill Stripped of Critical Provisions Ahead of Senate Vote",
+      "excerpt": "The post “A Clear Watering Down”: Drug Transparency Bill Stripped of Critical Provisions Ahead of Senate Vote appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/clear-labels-act-drug-safety-senate-vote",
+      "published": "2026-09-18T10:00:00+00:00",
+      "featured": true
+    },
+    {
+      "id": "3698b988e451",
+      "source": "Rest of World",
+      "headline": "The case for a robot tax to redistribute wealth",
+      "excerpt": "In an excerpt from his book, “Innovate for Impact: A Roadmap to Sustainable Technology Beyond AI,” Alessandro Crimi explains that a tax on automation is more effective than retraining labor.",
+      "link": "https://restofworld.org/2026/robot-tax-ai-wealth-redistribution/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "published": "2026-09-18T10:00:00+00:00",
+      "featured": true
+    },
+    {
+      "id": "ed115734daa4",
+      "source": "OCCRP",
+      "headline": "Georgia Court Sentences Ex-Security Chief to 13 Years in Prison in Corruption Case",
+      "excerpt": "Former State Security Service of Georgia chief Grigol Liluashvili allegedly collected more than $2 million in bribes, including taking more than $1 million to protect an organized crime group's scam center operation.",
+      "link": "https://www.occrp.org/en/news/georgia-entences-ex-security-chief-to-13-years",
+      "published": "2026-09-18T08:46:00+00:00",
+      "featured": false
     },
     {
       "id": "bf4e2f2dc1f9",
@@ -17,7 +44,7 @@
       "excerpt": "How the “corruption of inaction” in both parties is helping AI oligarchs avoid accountability and endanger the world.",
       "link": "https://www.levernews.com/the-quiet-corruption-behind-washingtons-ai-inaction/",
       "published": "2026-09-18T01:55:31+00:00",
-      "featured": true
+      "featured": false
     },
     {
       "id": "0df6eca0585f",
@@ -26,7 +53,7 @@
       "excerpt": "A close look at the signatories reveals many have been involved in past GOP efforts—including “Jews For Mitt” in 2012.",
       "link": "https://www.dropsitenews.com/p/michigan-jewish-democrats-mike-rogers",
       "published": "2026-09-17T22:14:37+00:00",
-      "featured": true
+      "featured": false
     },
     {
       "id": "6bb5f16f0ff0",
@@ -38,39 +65,12 @@
       "featured": false
     },
     {
-      "id": "3701eed733d3",
-      "source": "OCCRP",
-      "headline": "Six Convicted, €300M Confiscation Ordered in Mafia-Linked EU Tax Fraud",
-      "excerpt": "The latest sentences in the 'Moby Dick' investigation target a network that allegedly used fake electronics invoices to drain 520 million euros ($597.35 million) from European budgets and launder money for the mafia.",
-      "link": "https://www.occrp.org/en/news/six-convicted-eur300m-confiscation-ordered-in-mafia-linked-eu-tax-fraud",
-      "published": "2026-09-17T19:16:00+00:00",
-      "featured": false
-    },
-    {
       "id": "bc35b64ef8f0",
       "source": "The Intercept",
       "headline": "Pete Hegseth’s Unholy War",
       "excerpt": "What kind of Christianity is being proclaimed when the language of Jesus is attached to military power? The post Pete Hegseth’s Unholy War appeared first on The Intercept.",
       "link": "https://theintercept.com/2026/09/17/hegseth-christianity-jesus-iran-war/",
       "published": "2026-09-17T15:10:43+00:00",
-      "featured": false
-    },
-    {
-      "id": "ecaa866e2e26",
-      "source": "Rest of World",
-      "headline": "South Africa joins the global resistance against American data centers",
-      "excerpt": "“A massive data center is trying to jump the queue and take our land, water, and energy.”",
-      "link": "https://restofworld.org/2026/south-africa-ai-data-center-protests/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-      "published": "2026-09-17T10:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "821ffed74526",
-      "source": "ProPublica",
-      "headline": "Oregon Lawmakers Seek to Open Up Affordable Housing Records Following ProPublica’s Reporting",
-      "excerpt": "The post Oregon Lawmakers Seek to Open Up Affordable Housing Records Following ProPublica’s Reporting appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/oregon-lawmakers-seek-to-open-housing-records",
-      "published": "2026-09-17T09:00:00+00:00",
       "featured": false
     },
     {
@@ -110,12 +110,21 @@
       "featured": false
     },
     {
-      "id": "396a38130c68",
+      "id": "7c041e555652",
       "source": "Al Jazeera",
-      "headline": "New tiger cat species identified in Bolivia, first in over a century",
-      "excerpt": "Leopardus tilcayo is the first new living cat species named and described in more than a century.",
-      "link": "https://www.aljazeera.com/news/2026/9/18/new-tiger-cat-species-identified-in-bolivia-first-in-over-a-century?traffic_source=rss",
-      "published": "2026-09-18T04:16:28+00:00",
+      "headline": "United Nations says US may have committed war crimes in Iran: What it means",
+      "excerpt": "UN probe finds US unlawfully struck an Iranian school and sports centre, killing children; White House rejects findings.",
+      "link": "https://www.aljazeera.com/news/2026/9/18/united-nations-says-us-may-have-committed-war-crimes-in-iran-what-it-means?traffic_source=rss",
+      "published": "2026-09-18T10:43:18+00:00",
+      "featured": false
+    },
+    {
+      "id": "7289c84fda6a",
+      "source": "ProPublica",
+      "headline": "Why ProPublica Is Leaning Into Sports Investigations",
+      "excerpt": "The post Why ProPublica Is Leaning Into Sports Investigations appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/propublica-sports-investigations",
+      "published": "2026-09-18T09:00:00+00:00",
       "featured": false
     },
     {
@@ -128,12 +137,12 @@
       "featured": false
     },
     {
-      "id": "3dd5fa9ea50e",
+      "id": "3701eed733d3",
       "source": "OCCRP",
-      "headline": "Former Maduro Ally Pleads Guilty in US to $195M Money Laundering Scheme",
-      "excerpt": "The guilty plea caps a years-long geopolitical saga, spanning a high-profile U.S. prisoner swap and validating early reporting into a corrupt Venezuelan state food program.",
-      "link": "https://www.occrp.org/en/news/former-maduro-ally-pleads-guilty-in-us-to-195m-money-laundering-scheme",
-      "published": "2026-09-17T18:56:00+00:00",
+      "headline": "Six Convicted, €300M Confiscation Ordered in Mafia-Linked EU Tax Fraud",
+      "excerpt": "The latest sentences in the 'Moby Dick' investigation target a network that allegedly used fake electronics invoices to drain 520 million euros ($597.35 million) from European budgets and launder money for the mafia.",
+      "link": "https://www.occrp.org/en/news/six-convicted-eur300m-confiscation-ordered-in-mafia-linked-eu-tax-fraud",
+      "published": "2026-09-17T19:16:00+00:00",
       "featured": false
     },
     {
@@ -155,6 +164,15 @@
       "featured": false
     },
     {
+      "id": "ecaa866e2e26",
+      "source": "Rest of World",
+      "headline": "South Africa joins the global resistance against American data centers",
+      "excerpt": "“A massive data center is trying to jump the queue and take our land, water, and energy.”",
+      "link": "https://restofworld.org/2026/south-africa-ai-data-center-protests/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "published": "2026-09-17T10:00:00+00:00",
+      "featured": false
+    },
+    {
       "id": "81e8689a0ad5",
       "source": "The Intercept",
       "headline": "Facing Outraged Residents, Flock Got Help From Group That Uses AI to Rally Public Support",
@@ -164,30 +182,12 @@
       "featured": false
     },
     {
-      "id": "c87d0bdefa57",
-      "source": "ProPublica",
-      "headline": "What to Know About Mail-In Voting for the 2026 Midterms",
-      "excerpt": "The post What to Know About Mail-In Voting for the 2026 Midterms appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/mail-in-voting-rules-midterm-elections",
-      "published": "2026-09-16T17:15:00+00:00",
-      "featured": false
-    },
-    {
       "id": "30d77e605862",
       "source": "The Markup",
       "headline": "Data brokers have detailed files on you. Here’s what’s in them — and how it impacts you",
       "excerpt": "Data brokers collect thousands of details about your finances, health and habits. See what’s in your profile, who buys it and how companies use it.",
       "link": "https://themarkup.org/privacy/2026/09/16/data-brokers-have-detailed-files-on-you-heres-whats-in-them-and-how-it-impacts-you",
       "published": "2026-09-16T12:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "184944f4828a",
-      "source": "Rest of World",
-      "headline": "Playing both sides of the U.S.-China AI “Cold War”",
-      "excerpt": "From Latin America to Southeast Asia, countries are dividing their AI investments between the two superpowers rather than choosing one over the other.",
-      "link": "https://restofworld.org/2026/ai-us-chips-chinese-open-source-models/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-      "published": "2026-09-16T10:00:00+00:00",
       "featured": false
     },
     {
@@ -218,12 +218,12 @@
       "featured": false
     },
     {
-      "id": "73ea87fd0b41",
+      "id": "e9db01c5a963",
       "source": "Al Jazeera",
-      "headline": "Bank of Japan raises rates to 31-year high of 1.25% as inflation rises",
-      "excerpt": "Bank of Japan raises benchmark interest rate from 1 to 1.25 percent, pledging to help counter inflation risks.",
-      "link": "https://www.aljazeera.com/news/2026/9/18/japans-interest-rate-hiked-to-31-year-high-at-1-25-as-inflation-rises?traffic_source=rss",
-      "published": "2026-09-18T03:20:20+00:00",
+      "headline": "‘My children did not attack Iran’: 2bn South Asians suffer from distant war",
+      "excerpt": "A quarter of the world’s population faces a surging cost of living crisis because of the wars in the Middle East.",
+      "link": "https://www.aljazeera.com/news/2026/9/18/my-children-did-not-attack-iran-2bn-south-asians-suffer-from-distant-war?traffic_source=rss",
+      "published": "2026-09-18T10:33:22+00:00",
       "featured": false
     },
     {
@@ -236,6 +236,15 @@
       "featured": false
     },
     {
+      "id": "3dd5fa9ea50e",
+      "source": "OCCRP",
+      "headline": "Former Maduro Ally Pleads Guilty in US to $195M Money Laundering Scheme",
+      "excerpt": "The guilty plea caps a years-long geopolitical saga, spanning a high-profile U.S. prisoner swap and validating early reporting into a corrupt Venezuelan state food program.",
+      "link": "https://www.occrp.org/en/news/former-maduro-ally-pleads-guilty-in-us-to-195m-money-laundering-scheme",
+      "published": "2026-09-17T18:56:00+00:00",
+      "featured": false
+    },
+    {
       "id": "5f5b6b3f530e",
       "source": "404 Media",
       "headline": "University Rescinds Job Offer to Activist Who Allegedly Wiped Phone Before DHS Could Search It",
@@ -245,12 +254,12 @@
       "featured": false
     },
     {
-      "id": "9060c6a5bb35",
-      "source": "OCCRP",
-      "headline": "Belgian Court Rules Treasury Lacked Authority to Reject Release of Russian Assets",
-      "excerpt": "Belgium’s top administrative court has ruled that the country’s treasury department has no right to decide if frozen Russian assets should remain blocked or be released.",
-      "link": "https://www.occrp.org/en/news/belgian-court-rules-treasury-lacked-authority-to-reject-release-of-russian-assets",
-      "published": "2026-09-17T13:59:00+00:00",
+      "id": "821ffed74526",
+      "source": "ProPublica",
+      "headline": "Oregon Lawmakers Seek to Open Up Affordable Housing Records Following ProPublica’s Reporting",
+      "excerpt": "The post Oregon Lawmakers Seek to Open Up Affordable Housing Records Following ProPublica’s Reporting appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/oregon-lawmakers-seek-to-open-housing-records",
+      "published": "2026-09-17T09:00:00+00:00",
       "featured": false
     },
     {
@@ -272,21 +281,12 @@
       "featured": false
     },
     {
-      "id": "33573d3890c2",
-      "source": "ProPublica",
-      "headline": "Arizona Lowered the Bar for Its English Fluency Test. Experts Say It Will Harm Students in the Long Run.",
-      "excerpt": "The post Arizona Lowered the Bar for Its English Fluency Test. Experts Say It Will Harm Students in the Long Run. appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/arizona-english-language-test-azella",
-      "published": "2026-09-16T09:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "038f69c40c27",
+      "id": "184944f4828a",
       "source": "Rest of World",
-      "headline": "Where in the world is the iPhone cheapest?",
-      "excerpt": "Apple’s high-end models cost more in markets like India and Turkey owing to high taxes and import duties.",
-      "link": "https://restofworld.org/2026/iphone-18-pro-global-prices/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-      "published": "2026-09-15T10:00:00+00:00",
+      "headline": "Playing both sides of the U.S.-China AI “Cold War”",
+      "excerpt": "From Latin America to Southeast Asia, countries are dividing their AI investments between the two superpowers rather than choosing one over the other.",
+      "link": "https://restofworld.org/2026/ai-us-chips-chinese-open-source-models/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "published": "2026-09-16T10:00:00+00:00",
       "featured": false
     },
     {
@@ -326,12 +326,12 @@
       "featured": false
     },
     {
-      "id": "bd6dd163e83b",
+      "id": "89feb226160e",
       "source": "Al Jazeera",
-      "headline": "Critics in meltdown over US cheese giant Tillamook halal label",
-      "excerpt": "Critics have launched a boycott campaign against US cheese giant Tillamook over its new halal labelling.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/18/critics-in-meltdown-over-us-cheese-giant-tillamook-halal-label?traffic_source=rss",
-      "published": "2026-09-18T03:13:48+00:00",
+      "headline": "Israel is killing the people who could end its wars",
+      "excerpt": "From Iran to Gaza and Lebanon, assassinations have repeatedly removed figures capable of negotiating an end to conflict.",
+      "link": "https://www.aljazeera.com/opinions/2026/9/18/israel-is-killing-the-people-who-could-end-its-wars?traffic_source=rss",
+      "published": "2026-09-18T10:29:34+00:00",
       "featured": false
     },
     {
@@ -353,12 +353,12 @@
       "featured": false
     },
     {
-      "id": "c0900837e1ab",
+      "id": "9060c6a5bb35",
       "source": "OCCRP",
-      "headline": "Hackers Demand $3M Ransom in Revolut Data Leak",
-      "excerpt": "Hackers operating under the moniker “iamnotavillain” gave the London-based fintech giant 24 hours to pay 6,000 Monero, while Italian authorities escalate their probe into the compromised government emails used in the...",
-      "link": "https://www.occrp.org/en/news/hackers-demand-3m-ransom-in-revolut-data-leak",
-      "published": "2026-09-17T13:27:00+00:00",
+      "headline": "Belgian Court Rules Treasury Lacked Authority to Reject Release of Russian Assets",
+      "excerpt": "Belgium’s top administrative court has ruled that the country’s treasury department has no right to decide if frozen Russian assets should remain blocked or be released.",
+      "link": "https://www.occrp.org/en/news/belgian-court-rules-treasury-lacked-authority-to-reject-release-of-russian-assets",
+      "published": "2026-09-17T13:59:00+00:00",
       "featured": false
     },
     {
@@ -371,6 +371,15 @@
       "featured": false
     },
     {
+      "id": "c87d0bdefa57",
+      "source": "ProPublica",
+      "headline": "What to Know About Mail-In Voting for the 2026 Midterms",
+      "excerpt": "The post What to Know About Mail-In Voting for the 2026 Midterms appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/mail-in-voting-rules-midterm-elections",
+      "published": "2026-09-16T17:15:00+00:00",
+      "featured": false
+    },
+    {
       "id": "961b9dd10621",
       "source": "Dropsite News",
       "headline": "Trump approves $2.8 billion arms deal for Israel, including 40,000 bombs; Building collapse in Gaza kills at least 21; U.S. diesel prices top $6.30",
@@ -380,12 +389,12 @@
       "featured": false
     },
     {
-      "id": "13eb87d3b943",
-      "source": "ProPublica",
-      "headline": "Top Oversight Dem Opens Investigation of Donald Trump Jr.’s Russian Oligarch-Funded Wedding",
-      "excerpt": "The post Top Oversight Dem Opens Investigation of Donald Trump Jr.’s Russian Oligarch-Funded Wedding appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/donald-trump-jr-wedding-umar-kremlev-payments-investigation",
-      "published": "2026-09-15T21:50:00+00:00",
+      "id": "038f69c40c27",
+      "source": "Rest of World",
+      "headline": "Where in the world is the iPhone cheapest?",
+      "excerpt": "Apple’s high-end models cost more in markets like India and Turkey owing to high taxes and import duties.",
+      "link": "https://restofworld.org/2026/iphone-18-pro-global-prices/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "published": "2026-09-15T10:00:00+00:00",
       "featured": false
     },
     {
@@ -395,15 +404,6 @@
       "excerpt": "The Chinese banking giant turned a blind eye to alleged fraud and embezzlement within its ranks for years, according to a tranche of confidential files.",
       "link": "https://www.icij.org/investigations/china-capital/zhang-hongli-icbc-executive-corruption-employee-misconduct/",
       "published": "2026-09-14T21:41:06+00:00",
-      "featured": false
-    },
-    {
-      "id": "5d4dd6137eb0",
-      "source": "Rest of World",
-      "headline": "The real AI economy is being built by ordinary people",
-      "excerpt": "Far from Silicon Valley pitch decks, workers across Asia and Africa are bypassing tech industry hype to quietly rewire their daily jobs — one prompt, workflow, and local problem at a time.",
-      "link": "https://restofworld.org/2026/global-workers-using-ai-at-work/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-      "published": "2026-09-14T10:00:31+00:00",
       "featured": false
     },
     {
@@ -434,12 +434,12 @@
       "featured": false
     },
     {
-      "id": "1a93566ef14b",
+      "id": "8f8abbbb7b23",
       "source": "Al Jazeera",
-      "headline": "Italy to deploy warships to protect shipping through Bab al-Mandeb",
-      "excerpt": "Italy's defence minister warns of severe economic fallout if Bab al-Mandeb becomes impassable, bypassing EU delays.",
-      "link": "https://www.aljazeera.com/economy/2026/9/18/italy-to-deploy-warships-to-protect-shipping-through-bab-al-mandeb?traffic_source=rss",
-      "published": "2026-09-18T02:53:05+00:00",
+      "headline": "Ukraine fires drone barrage as Russia launches elections",
+      "excerpt": "Russia's first parliamentary election since the invasion opens with no antiwar party on the ballot.",
+      "link": "https://www.aljazeera.com/news/2026/9/18/ukraine-fires-drone-barrage-as-russia-launches-elections?traffic_source=rss",
+      "published": "2026-09-18T10:28:17+00:00",
       "featured": false
     },
     {
@@ -452,12 +452,12 @@
       "featured": false
     },
     {
-      "id": "95bde485dfdd",
+      "id": "c0900837e1ab",
       "source": "OCCRP",
-      "headline": "Israeli Firm May Have Run Angola Influence Campaign",
-      "excerpt": "Citizen Lab uncovers a 14-week campaign in Angola using AI-generated personas, deceptive posts, and a phantom news site to revamp state messaging.",
-      "link": "https://www.occrp.org/en/news/israeli-firm-may-have-run-angola-influence-campaign",
-      "published": "2026-09-17T12:33:00+00:00",
+      "headline": "Hackers Demand $3M Ransom in Revolut Data Leak",
+      "excerpt": "Hackers operating under the moniker “iamnotavillain” gave the London-based fintech giant 24 hours to pay 6,000 Monero, while Italian authorities escalate their probe into the compromised government emails used in the...",
+      "link": "https://www.occrp.org/en/news/hackers-demand-3m-ransom-in-revolut-data-leak",
+      "published": "2026-09-17T13:27:00+00:00",
       "featured": false
     },
     {
@@ -488,12 +488,12 @@
       "featured": false
     },
     {
-      "id": "ade95723284c",
+      "id": "33573d3890c2",
       "source": "ProPublica",
-      "headline": "Papa Johns, Propaganda and Putin: How a MAGA Influencer With Ties to Russia Became Trump’s Arctic Adviser",
-      "excerpt": "The post Papa Johns, Propaganda and Putin: How a MAGA Influencer With Ties to Russia Became Trump’s Arctic Adviser appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/thomas-dans-arctic-research-commission-trump-russia-propaganda",
-      "published": "2026-09-15T10:00:00+00:00",
+      "headline": "Arizona Lowered the Bar for Its English Fluency Test. Experts Say It Will Harm Students in the Long Run.",
+      "excerpt": "The post Arizona Lowered the Bar for Its English Fluency Test. Experts Say It Will Harm Students in the Long Run. appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/arizona-english-language-test-azella",
+      "published": "2026-09-16T09:00:00+00:00",
       "featured": false
     },
     {
@@ -506,12 +506,12 @@
       "featured": false
     },
     {
-      "id": "2cbb34be4852",
+      "id": "5d4dd6137eb0",
       "source": "Rest of World",
-      "headline": "The AI talent war is coming for Big Tech’s Asia executives",
-      "excerpt": "OpenAI and Anthropic are hiring leaders from Meta, Google, Microsoft, and other U.S. tech giants to win new markets across India and Southeast Asia.",
-      "link": "https://restofworld.org/2026/openai-anthropic-big-tech-executives-asia/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-      "published": "2026-09-11T10:00:00+00:00",
+      "headline": "The real AI economy is being built by ordinary people",
+      "excerpt": "Far from Silicon Valley pitch decks, workers across Asia and Africa are bypassing tech industry hype to quietly rewire their daily jobs — one prompt, workflow, and local problem at a time.",
+      "link": "https://restofworld.org/2026/global-workers-using-ai-at-work/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "published": "2026-09-14T10:00:31+00:00",
       "featured": false
     },
     {
@@ -533,12 +533,12 @@
       "featured": false
     },
     {
-      "id": "7267baec9024",
+      "id": "8fd59a103435",
       "source": "Al Jazeera",
-      "headline": "Drone attacks by Colombian armed groups more than double in early 2026",
-      "excerpt": "Civilians are caught in the crossfire of drone attacks between armed groups and government forces.",
-      "link": "https://www.aljazeera.com/news/2026/9/18/drone-attacks-by-colombian-armed-groups-more-than-double-in-early-2026?traffic_source=rss",
-      "published": "2026-09-18T02:51:08+00:00",
+      "headline": "Bomb attack at Pakistan mosque kills at least 15, injures 50",
+      "excerpt": "Attack not immediately claimed, but ISIL and Pakistani Taliban (TTP) active in the region and regularly target troops.",
+      "link": "https://www.aljazeera.com/news/2026/9/18/bomb-attack-at-pakistan-mosque-kills-at-least-15-injures-50?traffic_source=rss",
+      "published": "2026-09-18T10:18:43+00:00",
       "featured": false
     }
   ]
