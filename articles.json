@@ -1,13 +1,22 @@
 {
-  "generated_at": "2026-09-19T11:00:35.054908+00:00",
+  "generated_at": "2026-09-19T15:53:56.595297+00:00",
   "articles": [
     {
-      "id": "ccf9aeba6c35",
+      "id": "ba9a354ef357",
       "source": "Al Jazeera",
-      "headline": "NFL star Azeez Al-Shaair speaks out after fine over Hind Rajab message",
-      "excerpt": "Houston Texans’ linebacker Azeez Al-Shaair has spoken to sports journalists about his $11,941 fine by the NFL.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/19/nfl-star-azeez-al-shaair-speaks-out-after-fine-over-hind-rajab-message?traffic_source=rss",
-      "published": "2026-09-19T10:40:12+00:00",
+      "headline": "Jerusalem Daily: Gaza’s children return to schools",
+      "excerpt": "It's the first official day back to school for Gaza's children.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/19/jerusalem-daily-gazas-children-return-to-schools?traffic_source=rss",
+      "published": "2026-09-19T15:38:58+00:00",
+      "featured": true
+    },
+    {
+      "id": "351dbbc70df4",
+      "source": "The Lever",
+      "headline": "You Love To See It: The Kids Are AI-Right",
+      "excerpt": "AI gets detention, voting rights get legal enforcement, court power stops coal power, and the kid who took on Big Hospital.",
+      "link": "https://www.levernews.com/you-love-to-see-it-the-kids-are-ai-right/",
+      "published": "2026-09-19T13:01:16+00:00",
       "featured": true
     },
     {
@@ -26,7 +35,7 @@
       "excerpt": "The post “Our Dear Friend Umar”: How We Uncovered That a Russian Oligarch Bankrolled Donald Trump Jr.’s Wedding appeared first on ProPublica.",
       "link": "https://www.propublica.org/article/donald-trump-jr-wedding-umar-kremlev-reporting",
       "published": "2026-09-19T09:00:00+00:00",
-      "featured": true
+      "featured": false
     },
     {
       "id": "3883b76c2003",
@@ -35,15 +44,6 @@
       "excerpt": "The convicted fraudster says his new app would enable women to find love safely. The lead trade group for online dating disagrees.",
       "link": "https://www.icij.org/news/2026/09/tinder-swindlers-plan-for-a-dating-app-sparks-industry-backlash/",
       "published": "2026-09-18T19:34:24+00:00",
-      "featured": false
-    },
-    {
-      "id": "e6581a8144a4",
-      "source": "The Lever",
-      "headline": "This PR Populist Is Quiet About His Data Center Past",
-      "excerpt": "Iowa Republican Joe Mitchell says he’s fighting insiders and lobbyists, but he worked for a public relations firm that boasts, “Data center developers count on us.”",
-      "link": "https://www.levernews.com/this-pr-populist-is-quiet-about-his-data-center-past/",
-      "published": "2026-09-18T18:15:39+00:00",
       "featured": false
     },
     {
@@ -110,12 +110,21 @@
       "featured": false
     },
     {
-      "id": "cf56bf437829",
+      "id": "5099bb05ba28",
       "source": "Al Jazeera",
-      "headline": "Trump says US has ‘permanent control’ of Greenland security: Does it?",
-      "excerpt": "New agreement with Denmark falls short of Trump’s previously stated goal of US 'ownership' of the island.",
-      "link": "https://www.aljazeera.com/news/2026/9/19/trump-says-us-has-permanent-control-of-greenland-security-does-it?traffic_source=rss",
-      "published": "2026-09-19T09:50:30+00:00",
+      "headline": "Djibouti refugee crisis worsens as more than 2,700 Yemenis arrive",
+      "excerpt": "More than 2,700 Yemenis have fled to Djibouti, many making dangerous sea crossings to escape the conflict.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/19/djibouti-refugee-crisis-worsens-as-more-than-2700-yemenis-arrive?traffic_source=rss",
+      "published": "2026-09-19T15:31:05+00:00",
+      "featured": false
+    },
+    {
+      "id": "e6581a8144a4",
+      "source": "The Lever",
+      "headline": "This PR Populist Is Quiet About His Data Center Past",
+      "excerpt": "Iowa Republican Joe Mitchell says he’s fighting insiders and lobbyists, but he worked for a public relations firm that boasts, “Data center developers count on us.”",
+      "link": "https://www.levernews.com/this-pr-populist-is-quiet-about-his-data-center-past/",
+      "published": "2026-09-18T18:15:39+00:00",
       "featured": false
     },
     {
@@ -134,15 +143,6 @@
       "excerpt": "The post Judge Denies Efforts to End Oversight of Maricopa County Sheriff’s Office as Racial Profiling of Latinos Persists appeared first on ProPublica.",
       "link": "https://www.propublica.org/article/maricopa-county-sheriff-oversight-judge-ruling",
       "published": "2026-09-18T17:10:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "598f5e1fc66c",
-      "source": "The Lever",
-      "headline": "What’s A Little Macklemore?",
-      "excerpt": "Test your knowledge of AI, superstars, and other issues that really matter.",
-      "link": "https://www.levernews.com/levermind-quiz-whats-a-little-macklemore/",
-      "published": "2026-09-18T16:29:23+00:00",
       "featured": false
     },
     {
@@ -218,12 +218,21 @@
       "featured": false
     },
     {
-      "id": "a8ec3e027c3b",
+      "id": "1f45055188d8",
       "source": "Al Jazeera",
-      "headline": "Africa’s Green Revolution threatens traditional foods",
-      "excerpt": "The promotion of monocultures is hurting the production of much more nutritious and climate-resistant traditional crops.",
-      "link": "https://www.aljazeera.com/opinions/2026/9/19/africas-green-revolution-threatens-traditional-foods?traffic_source=rss",
-      "published": "2026-09-19T09:36:38+00:00",
+      "headline": "Russia reports ‘powerful’ cyberattacks on second day of parliamentary vote",
+      "excerpt": "This is Russia's first election since it invaded Ukraine, and is expected to gauge public support for the ongoing war.",
+      "link": "https://www.aljazeera.com/news/2026/9/19/russia-reports-powerful-cyberattacks-on-second-day-of-parliamentary-vote?traffic_source=rss",
+      "published": "2026-09-19T15:18:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "598f5e1fc66c",
+      "source": "The Lever",
+      "headline": "What’s A Little Macklemore?",
+      "excerpt": "Test your knowledge of AI, superstars, and other issues that really matter.",
+      "link": "https://www.levernews.com/levermind-quiz-whats-a-little-macklemore/",
+      "published": "2026-09-18T16:29:23+00:00",
       "featured": false
     },
     {
@@ -260,15 +269,6 @@
       "excerpt": "Former State Security Service of Georgia chief Grigol Liluashvili allegedly collected more than $2 million in bribes, including taking more than $1 million to protect an organized crime group's scam center operation.",
       "link": "https://www.occrp.org/en/news/georgia-entences-ex-security-chief-to-13-years",
       "published": "2026-09-18T08:46:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "bf4e2f2dc1f9",
-      "source": "The Lever",
-      "headline": "The Quiet Corruption Behind Washington’s AI Inaction",
-      "excerpt": "How the “corruption of inaction” in both parties is helping AI oligarchs avoid accountability and endanger the world.",
-      "link": "https://www.levernews.com/the-quiet-corruption-behind-washingtons-ai-inaction/",
-      "published": "2026-09-18T01:55:31+00:00",
       "featured": false
     },
     {
@@ -326,12 +326,12 @@
       "featured": false
     },
     {
-      "id": "f9e7bc0a5b4b",
+      "id": "f56b347607b3",
       "source": "Al Jazeera",
-      "headline": "EU urges US to lift travel ban on Palestinian delegation for UNGA meeting",
-      "excerpt": "The United Nations General Assembly will allow Palestinian President Mahmoud Abbas to address via a prerecorded video.",
-      "link": "https://www.aljazeera.com/news/2026/9/19/eu-urges-us-to-lift-travel-ban-on-palestinian-delegation-for-unga-meeting?traffic_source=rss",
-      "published": "2026-09-19T09:05:13+00:00",
+      "headline": "UEFA defends policy after rejecting Ireland’s request not to play Israel",
+      "excerpt": "UEFA responds after Ireland's football association says its request to avoid future pairings with Israel was ⁠⁠rejected.",
+      "link": "https://www.aljazeera.com/sports/2026/9/19/uefa-defends-policy-after-rejecting-irelands-request-not-to-play-israel?traffic_source=rss",
+      "published": "2026-09-19T15:04:39+00:00",
       "featured": false
     },
     {
@@ -344,21 +344,21 @@
       "featured": false
     },
     {
+      "id": "bf4e2f2dc1f9",
+      "source": "The Lever",
+      "headline": "The Quiet Corruption Behind Washington’s AI Inaction",
+      "excerpt": "How the “corruption of inaction” in both parties is helping AI oligarchs avoid accountability and endanger the world.",
+      "link": "https://www.levernews.com/the-quiet-corruption-behind-washingtons-ai-inaction/",
+      "published": "2026-09-18T01:55:31+00:00",
+      "featured": false
+    },
+    {
       "id": "6bb5f16f0ff0",
       "source": "404 Media",
       "headline": "‘Doom Loop’: OpenAI and Microsoft Admits LLMs Are Destroying the Web and Built on Theft",
       "excerpt": "\"Millions of people around the world will soon consider large models ‘hoovering up’ all their work to be an astonishing theft of unprecedented proportions.\"",
       "link": "https://www.404media.co/doom-loop-openai-and-microsoft-admits-llms-are-destroying-the-web-and-built-on-theft/",
       "published": "2026-09-17T22:01:43+00:00",
-      "featured": false
-    },
-    {
-      "id": "a8bc04512470",
-      "source": "The Lever",
-      "headline": "What Tech Oligarchs Gain From AI Doomerism",
-      "excerpt": "David Sirota speaks with Ed Zitron and Matt Stoller about the AI panic sweeping Wall Street and Washington — and what Big Tech CEOs really want.",
-      "link": "https://www.levernews.com/what-tech-oligarchs-gain-from-ai-doomerism/",
-      "published": "2026-09-17T21:50:49+00:00",
       "featured": false
     },
     {
@@ -434,12 +434,12 @@
       "featured": false
     },
     {
-      "id": "24b97e2783be",
+      "id": "c382c670232f",
       "source": "Al Jazeera",
-      "headline": "Can Trump ban CNN, news outlets he doesn’t like from the White House?",
-      "excerpt": "The ban is the latest attack by Trump on media outlets that he perceives as unfavourable to his administration.",
-      "link": "https://www.aljazeera.com/news/2026/9/19/can-trump-ban-cnn-news-outlets-he-doesnt-like-from-the-white-house?traffic_source=rss",
-      "published": "2026-09-19T08:47:17+00:00",
+      "headline": "Syria says blast at military site in Deir Az Zor killed 11",
+      "excerpt": "Syrian army holds funeral for soldiers killed in ammunition blast in town of Ayyash, in western Deir Az Zor, on Friday.",
+      "link": "https://www.aljazeera.com/news/2026/9/19/syria-says-blast-at-military-site-in-deir-az-zor-killed-11?traffic_source=rss",
+      "published": "2026-09-19T14:55:18+00:00",
       "featured": false
     },
     {
@@ -452,12 +452,12 @@
       "featured": false
     },
     {
-      "id": "f45ffdc8adaa",
+      "id": "a8bc04512470",
       "source": "The Lever",
-      "headline": "The Curious Data Center “Gift” Haunting Ken Paxton’s AI Crackdown",
-      "excerpt": "Before vowing to end data center tax breaks, the Texas Senate candidate voted to create them after accepting 100,000 shares in a server company.",
-      "link": "https://www.levernews.com/https-www-levernews-com-the-curious-data-center-gift-haunting-ken-paxtons-ai-crackdown/",
-      "published": "2026-09-17T21:45:32+00:00",
+      "headline": "What Tech Oligarchs Gain From AI Doomerism",
+      "excerpt": "David Sirota speaks with Ed Zitron and Matt Stoller about the AI panic sweeping Wall Street and Washington — and what Big Tech CEOs really want.",
+      "link": "https://www.levernews.com/what-tech-oligarchs-gain-from-ai-doomerism/",
+      "published": "2026-09-17T21:50:49+00:00",
       "featured": false
     },
     {
@@ -533,12 +533,12 @@
       "featured": false
     },
     {
-      "id": "45fac26393cb",
+      "id": "e2af7cc32011",
       "source": "Al Jazeera",
-      "headline": "Turkiye revokes operating licence of Iran’s Bank Mellat in Istanbul",
-      "excerpt": "The Iranian lender has faced years of Western sanctions over alleged ties to Tehran's nuclear programme.",
-      "link": "https://www.aljazeera.com/economy/2026/9/19/turkiye-revokes-operating-licence-of-irans-bank-mellat?traffic_source=rss",
-      "published": "2026-09-19T08:18:08+00:00",
+      "headline": "Aston Villa compound Tottenham’s misery despite Spurs ending goal drought",
+      "excerpt": "Unai Emery's side get first league win of season with goals from Johan Manzambi, Nicolas Jackson and Emi Buendia.",
+      "link": "https://www.aljazeera.com/sports/2026/9/19/aston-villa-compound-tottenhams-misery-despite-spurs-ending-goal-drought?traffic_source=rss",
+      "published": "2026-09-19T14:35:01+00:00",
       "featured": false
     }
   ]
