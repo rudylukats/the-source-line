@@ -1,13 +1,31 @@
 {
-  "generated_at": "2026-09-19T04:38:55.317848+00:00",
+  "generated_at": "2026-09-19T11:00:35.054908+00:00",
   "articles": [
     {
-      "id": "1557bfe4befc",
+      "id": "ccf9aeba6c35",
       "source": "Al Jazeera",
-      "headline": "North Korea dismisses UN nuclear watchdog resolution",
-      "excerpt": "The country rebukes the UN atomic agency's 'double standards' and says nuclear status is 'irreversible'.",
-      "link": "https://www.aljazeera.com/news/2026/9/19/north-korea-dismisses-un-nuclear-watchdog-resolution?traffic_source=rss",
-      "published": "2026-09-19T03:29:54+00:00",
+      "headline": "NFL star Azeez Al-Shaair speaks out after fine over Hind Rajab message",
+      "excerpt": "Houston Texans’ linebacker Azeez Al-Shaair has spoken to sports journalists about his $11,941 fine by the NFL.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/19/nfl-star-azeez-al-shaair-speaks-out-after-fine-over-hind-rajab-message?traffic_source=rss",
+      "published": "2026-09-19T10:40:12+00:00",
+      "featured": true
+    },
+    {
+      "id": "f6807c3eec21",
+      "source": "404 Media",
+      "headline": "‘Supermountains’ Buried Under Antarctica Fueled Explosion of Life, Scientists Discover",
+      "excerpt": "Some 600 million years ago, the supercontinent Gondwana produced a colossal mountain range that helped set the stage for all modern complex life, according to a new examination of tiny ancient rocks.",
+      "link": "https://www.404media.co/supermountains-buried-under-antarctica-fueled-explosion-of-life-scientists-discover/",
+      "published": "2026-09-19T10:00:27+00:00",
+      "featured": true
+    },
+    {
+      "id": "8e3f1da1aeca",
+      "source": "ProPublica",
+      "headline": "“Our Dear Friend Umar”: How We Uncovered That a Russian Oligarch Bankrolled Donald Trump Jr.’s Wedding",
+      "excerpt": "The post “Our Dear Friend Umar”: How We Uncovered That a Russian Oligarch Bankrolled Donald Trump Jr.’s Wedding appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/donald-trump-jr-wedding-umar-kremlev-reporting",
+      "published": "2026-09-19T09:00:00+00:00",
       "featured": true
     },
     {
@@ -17,7 +35,7 @@
       "excerpt": "The convicted fraudster says his new app would enable women to find love safely. The lead trade group for online dating disagrees.",
       "link": "https://www.icij.org/news/2026/09/tinder-swindlers-plan-for-a-dating-app-sparks-industry-backlash/",
       "published": "2026-09-18T19:34:24+00:00",
-      "featured": true
+      "featured": false
     },
     {
       "id": "e6581a8144a4",
@@ -26,15 +44,6 @@
       "excerpt": "Iowa Republican Joe Mitchell says he’s fighting insiders and lobbyists, but he worked for a public relations firm that boasts, “Data center developers count on us.”",
       "link": "https://www.levernews.com/this-pr-populist-is-quiet-about-his-data-center-past/",
       "published": "2026-09-18T18:15:39+00:00",
-      "featured": true
-    },
-    {
-      "id": "400f72d45150",
-      "source": "ProPublica",
-      "headline": "Judge Denies Efforts to End Oversight of Maricopa County Sheriff’s Office as Racial Profiling of Latinos Persists",
-      "excerpt": "The post Judge Denies Efforts to End Oversight of Maricopa County Sheriff’s Office as Racial Profiling of Latinos Persists appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/maricopa-county-sheriff-oversight-judge-ruling",
-      "published": "2026-09-18T17:10:00+00:00",
       "featured": false
     },
     {
@@ -44,15 +53,6 @@
       "excerpt": "At Leavenworth, former workers say CoreCivic made conditions dangerous, which led to a near-death attack. The post ICE Revives Former “Hellhole” Prison — And Hires the Same Company To Run It appeared first on The...",
       "link": "https://theintercept.com/2026/09/18/leavenworth-kansas-corecivic-prison-ice-staffing/",
       "published": "2026-09-18T16:43:48+00:00",
-      "featured": false
-    },
-    {
-      "id": "a32b11a50ea1",
-      "source": "404 Media",
-      "headline": "404 Media x The Intercept Live: How AI Is Used to Surveil and Kill",
-      "excerpt": "404 Media and The Intercept talk about how private companies empower government surveillance, and how AI is used in warfare.",
-      "link": "https://www.404media.co/404-media-x-the-intercept-live-how-ai-is-used-to-surveil-and-kill/",
-      "published": "2026-09-18T15:47:19+00:00",
       "featured": false
     },
     {
@@ -110,12 +110,12 @@
       "featured": false
     },
     {
-      "id": "174abf9cb0fe",
+      "id": "cf56bf437829",
       "source": "Al Jazeera",
-      "headline": "Report: More US troops have died in Iran war than Pentagon says",
-      "excerpt": "The Pentagon publicly lists 18 US military deaths since the Iran war began.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/19/report-more-us-troops-have-died-in-iran-war-than-pentagon-says?traffic_source=rss",
-      "published": "2026-09-19T03:02:51+00:00",
+      "headline": "Trump says US has ‘permanent control’ of Greenland security: Does it?",
+      "excerpt": "New agreement with Denmark falls short of Trump’s previously stated goal of US 'ownership' of the island.",
+      "link": "https://www.aljazeera.com/news/2026/9/19/trump-says-us-has-permanent-control-of-greenland-security-does-it?traffic_source=rss",
+      "published": "2026-09-19T09:50:30+00:00",
       "featured": false
     },
     {
@@ -125,6 +125,15 @@
       "excerpt": "The Chinese tech giant is on trial in New York for allegedly violating U.S. sanctions on Iran and stealing trade secrets as it built its global telecommunications empire.",
       "link": "https://www.icij.org/investigations/china-capital/us-prosecutors-accuse-huawei-of-far-reaching-criminal-scheme-spanning-decades/",
       "published": "2026-09-18T17:28:45+00:00",
+      "featured": false
+    },
+    {
+      "id": "400f72d45150",
+      "source": "ProPublica",
+      "headline": "Judge Denies Efforts to End Oversight of Maricopa County Sheriff’s Office as Racial Profiling of Latinos Persists",
+      "excerpt": "The post Judge Denies Efforts to End Oversight of Maricopa County Sheriff’s Office as Racial Profiling of Latinos Persists appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/maricopa-county-sheriff-oversight-judge-ruling",
+      "published": "2026-09-18T17:10:00+00:00",
       "featured": false
     },
     {
@@ -146,21 +155,12 @@
       "featured": false
     },
     {
-      "id": "af04db9be127",
+      "id": "a32b11a50ea1",
       "source": "404 Media",
-      "headline": "Behind the Blog: Eating the Internet",
-      "excerpt": "This week, we discuss just doing it, machines that eat the internet, and an eavesdropping watch.",
-      "link": "https://www.404media.co/behind-the-blog-eating-the-internet/",
-      "published": "2026-09-18T15:34:28+00:00",
-      "featured": false
-    },
-    {
-      "id": "2b05ecdcbd7d",
-      "source": "ProPublica",
-      "headline": "Tennessee Lawmakers Demand Answers on Safety in State Youth Prisons",
-      "excerpt": "The post Tennessee Lawmakers Demand Answers on Safety in State Youth Prisons appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/tennessee-private-youth-prisons-dcs-letter",
-      "published": "2026-09-18T15:00:00+00:00",
+      "headline": "404 Media x The Intercept Live: How AI Is Used to Surveil and Kill",
+      "excerpt": "404 Media and The Intercept talk about how private companies empower government surveillance, and how AI is used in warfare.",
+      "link": "https://www.404media.co/404-media-x-the-intercept-live-how-ai-is-used-to-surveil-and-kill/",
+      "published": "2026-09-18T15:47:19+00:00",
       "featured": false
     },
     {
@@ -218,12 +218,30 @@
       "featured": false
     },
     {
-      "id": "c3667157d0ec",
+      "id": "a8ec3e027c3b",
       "source": "Al Jazeera",
-      "headline": "South Africans voice their anger as hundreds hold femicide vigil",
-      "excerpt": "Hundreds of people gathered at the University of Cape Town on Friday at a vigil for victims of femicide in South Africa.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/19/south-africans-voice-their-anger-as-hundreds-hold-femicide-vigil?traffic_source=rss",
-      "published": "2026-09-19T02:41:57+00:00",
+      "headline": "Africa’s Green Revolution threatens traditional foods",
+      "excerpt": "The promotion of monocultures is hurting the production of much more nutritious and climate-resistant traditional crops.",
+      "link": "https://www.aljazeera.com/opinions/2026/9/19/africas-green-revolution-threatens-traditional-foods?traffic_source=rss",
+      "published": "2026-09-19T09:36:38+00:00",
+      "featured": false
+    },
+    {
+      "id": "af04db9be127",
+      "source": "404 Media",
+      "headline": "Behind the Blog: Eating the Internet",
+      "excerpt": "This week, we discuss just doing it, machines that eat the internet, and an eavesdropping watch.",
+      "link": "https://www.404media.co/behind-the-blog-eating-the-internet/",
+      "published": "2026-09-18T15:34:28+00:00",
+      "featured": false
+    },
+    {
+      "id": "2b05ecdcbd7d",
+      "source": "ProPublica",
+      "headline": "Tennessee Lawmakers Demand Answers on Safety in State Youth Prisons",
+      "excerpt": "The post Tennessee Lawmakers Demand Answers on Safety in State Youth Prisons appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/tennessee-private-youth-prisons-dcs-letter",
+      "published": "2026-09-18T15:00:00+00:00",
       "featured": false
     },
     {
@@ -233,15 +251,6 @@
       "excerpt": "What’s driving religious fundamentalists, tech accelerationists, and anti-immigrant ethnonationalists to bring about the end of the world? The post Apocalypse Now: Naomi Klein and Astra Taylor Investigate the End-Timers...",
       "link": "https://theintercept.com/2026/09/18/naomi-klein-astra-taylor-ai-religious-apocalypse-doom/",
       "published": "2026-09-18T13:30:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "af316448d513",
-      "source": "ProPublica",
-      "headline": "“A Clear Watering Down”: Drug Transparency Bill Stripped of Critical Provisions Ahead of Senate Vote",
-      "excerpt": "The post “A Clear Watering Down”: Drug Transparency Bill Stripped of Critical Provisions Ahead of Senate Vote appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/clear-labels-act-drug-safety-senate-vote",
-      "published": "2026-09-18T10:00:00+00:00",
       "featured": false
     },
     {
@@ -260,15 +269,6 @@
       "excerpt": "How the “corruption of inaction” in both parties is helping AI oligarchs avoid accountability and endanger the world.",
       "link": "https://www.levernews.com/the-quiet-corruption-behind-washingtons-ai-inaction/",
       "published": "2026-09-18T01:55:31+00:00",
-      "featured": false
-    },
-    {
-      "id": "6bb5f16f0ff0",
-      "source": "404 Media",
-      "headline": "‘Doom Loop’: OpenAI and Microsoft Admits LLMs Are Destroying the Web and Built on Theft",
-      "excerpt": "\"Millions of people around the world will soon consider large models ‘hoovering up’ all their work to be an astonishing theft of unprecedented proportions.\"",
-      "link": "https://www.404media.co/doom-loop-openai-and-microsoft-admits-llms-are-destroying-the-web-and-built-on-theft/",
-      "published": "2026-09-17T22:01:43+00:00",
       "featured": false
     },
     {
@@ -326,21 +326,30 @@
       "featured": false
     },
     {
-      "id": "559c7f882412",
+      "id": "f9e7bc0a5b4b",
       "source": "Al Jazeera",
-      "headline": "US court blocks Trump plan to deport migrants to third countries",
-      "excerpt": "US judges affirm migrants must have opportunities to voice safety concerns before deportation to unfamiliar nations.",
-      "link": "https://www.aljazeera.com/news/2026/9/19/us-court-blocks-trump-plan-to-deport-migrants-to-third-countries?traffic_source=rss",
-      "published": "2026-09-19T02:16:45+00:00",
+      "headline": "EU urges US to lift travel ban on Palestinian delegation for UNGA meeting",
+      "excerpt": "The United Nations General Assembly will allow Palestinian President Mahmoud Abbas to address via a prerecorded video.",
+      "link": "https://www.aljazeera.com/news/2026/9/19/eu-urges-us-to-lift-travel-ban-on-palestinian-delegation-for-unga-meeting?traffic_source=rss",
+      "published": "2026-09-19T09:05:13+00:00",
       "featured": false
     },
     {
-      "id": "7289c84fda6a",
+      "id": "af316448d513",
       "source": "ProPublica",
-      "headline": "Why ProPublica Is Leaning Into Sports Investigations",
-      "excerpt": "The post Why ProPublica Is Leaning Into Sports Investigations appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/propublica-sports-investigations",
-      "published": "2026-09-18T09:00:00+00:00",
+      "headline": "“A Clear Watering Down”: Drug Transparency Bill Stripped of Critical Provisions Ahead of Senate Vote",
+      "excerpt": "The post “A Clear Watering Down”: Drug Transparency Bill Stripped of Critical Provisions Ahead of Senate Vote appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/clear-labels-act-drug-safety-senate-vote",
+      "published": "2026-09-18T10:00:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "6bb5f16f0ff0",
+      "source": "404 Media",
+      "headline": "‘Doom Loop’: OpenAI and Microsoft Admits LLMs Are Destroying the Web and Built on Theft",
+      "excerpt": "\"Millions of people around the world will soon consider large models ‘hoovering up’ all their work to be an astonishing theft of unprecedented proportions.\"",
+      "link": "https://www.404media.co/doom-loop-openai-and-microsoft-admits-llms-are-destroying-the-web-and-built-on-theft/",
+      "published": "2026-09-17T22:01:43+00:00",
       "featured": false
     },
     {
@@ -359,15 +368,6 @@
       "excerpt": "The latest sentences in the 'Moby Dick' investigation target a network that allegedly used fake electronics invoices to drain 520 million euros ($597.35 million) from European budgets and launder money for the mafia.",
       "link": "https://www.occrp.org/en/news/six-convicted-eur300m-confiscation-ordered-in-mafia-linked-eu-tax-fraud",
       "published": "2026-09-17T19:16:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "81069f61b83a",
-      "source": "404 Media",
-      "headline": "‘Flock City PD:’ The Fake Flock-Owned ‘Police Department’ That Searched Real Cameras for Real People",
-      "excerpt": "Flock ran searches for “coexist bumper sticker,” “white truck with a trump sticker,” and “Star of David,” apparently to demonstrate what cops shouldn't search for.",
-      "link": "https://www.404media.co/flock-city-pd-the-fake-flock-owned-police-department-that-searched-real-cameras-for-real-people/",
-      "published": "2026-09-17T18:07:20+00:00",
       "featured": false
     },
     {
@@ -434,12 +434,21 @@
       "featured": false
     },
     {
-      "id": "c1e3fbbdcb60",
+      "id": "24b97e2783be",
       "source": "Al Jazeera",
-      "headline": "Iranian women defy law and run Tehran race without hijab",
-      "excerpt": "Hundreds of Iranian women defy hijab law in Tehran 10K race.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/19/iranian-women-defy-law-and-run-tehran-race-without-hijab?traffic_source=rss",
-      "published": "2026-09-19T01:45:36+00:00",
+      "headline": "Can Trump ban CNN, news outlets he doesn’t like from the White House?",
+      "excerpt": "The ban is the latest attack by Trump on media outlets that he perceives as unfavourable to his administration.",
+      "link": "https://www.aljazeera.com/news/2026/9/19/can-trump-ban-cnn-news-outlets-he-doesnt-like-from-the-white-house?traffic_source=rss",
+      "published": "2026-09-19T08:47:17+00:00",
+      "featured": false
+    },
+    {
+      "id": "7289c84fda6a",
+      "source": "ProPublica",
+      "headline": "Why ProPublica Is Leaning Into Sports Investigations",
+      "excerpt": "The post Why ProPublica Is Leaning Into Sports Investigations appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/propublica-sports-investigations",
+      "published": "2026-09-18T09:00:00+00:00",
       "featured": false
     },
     {
@@ -461,12 +470,12 @@
       "featured": false
     },
     {
-      "id": "5f5b6b3f530e",
+      "id": "81069f61b83a",
       "source": "404 Media",
-      "headline": "University Rescinds Job Offer to Activist Who Allegedly Wiped Phone Before DHS Could Search It",
-      "excerpt": "Samuel Tunick allegedly wiped his GrapheneOS phone before CBP officials could search it, in what has become a high profile civil liberties case. Now Georgia State University has rescinded a job offer to him.",
-      "link": "https://www.404media.co/university-rescinds-job-offer-to-activist-who-allegedly-wiped-phone-before-dhs-could-search-it/",
-      "published": "2026-09-17T15:30:38+00:00",
+      "headline": "‘Flock City PD:’ The Fake Flock-Owned ‘Police Department’ That Searched Real Cameras for Real People",
+      "excerpt": "Flock ran searches for “coexist bumper sticker,” “white truck with a trump sticker,” and “Star of David,” apparently to demonstrate what cops shouldn't search for.",
+      "link": "https://www.404media.co/flock-city-pd-the-fake-flock-owned-police-department-that-searched-real-cameras-for-real-people/",
+      "published": "2026-09-17T18:07:20+00:00",
       "featured": false
     },
     {
@@ -476,15 +485,6 @@
       "excerpt": "Beset by critics in Knoxville, Flock partnered with a nonprofit accused of “astroturfing” for a campaign to generate support for its surveillance cameras. The post Facing Outraged Residents, Flock Got Help From Group...",
       "link": "https://theintercept.com/2026/09/17/flock-cameras-ai-astroturf-support/",
       "published": "2026-09-17T09:30:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "821ffed74526",
-      "source": "ProPublica",
-      "headline": "Oregon Lawmakers Seek to Open Up Affordable Housing Records Following ProPublica’s Reporting",
-      "excerpt": "The post Oregon Lawmakers Seek to Open Up Affordable Housing Records Following ProPublica’s Reporting appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/oregon-lawmakers-seek-to-open-housing-records",
-      "published": "2026-09-17T09:00:00+00:00",
       "featured": false
     },
     {
@@ -533,12 +533,12 @@
       "featured": false
     },
     {
-      "id": "b1c3fb60edf1",
+      "id": "45fac26393cb",
       "source": "Al Jazeera",
-      "headline": "Google’s Gemini AI hacks 3 companies in security test, then stops",
-      "excerpt": "Google discloses first breakout by Gemini following similar incidents by Meta, Anthropic and OpenAI.",
-      "link": "https://www.aljazeera.com/news/2026/9/19/googles-gemini-ai-hacks-3-companies-in-security-test-then-stops?traffic_source=rss",
-      "published": "2026-09-19T01:38:02+00:00",
+      "headline": "Turkiye revokes operating licence of Iran’s Bank Mellat in Istanbul",
+      "excerpt": "The Iranian lender has faced years of Western sanctions over alleged ties to Tehran's nuclear programme.",
+      "link": "https://www.aljazeera.com/economy/2026/9/19/turkiye-revokes-operating-licence-of-irans-bank-mellat?traffic_source=rss",
+      "published": "2026-09-19T08:18:08+00:00",
       "featured": false
     }
   ]
