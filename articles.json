@@ -1,14 +1,41 @@
 {
-  "generated_at": "2026-09-20T16:07:38.024495+00:00",
+  "generated_at": "2026-09-20T20:50:15.014270+00:00",
   "articles": [
     {
-      "id": "45e01874210c",
+      "id": "297a18495d7c",
       "source": "Al Jazeera",
-      "headline": "Kenya’s Ngetich breaks women-only half-marathon world record by a second",
-      "excerpt": "Agnes Ngetich finished 50 seconds ahead of compatriot Veronica Loleo, who came second.",
-      "link": "https://www.aljazeera.com/sports/2026/9/20/kenyas-ngetich-breaks-women-only-half-marathon-world-record-by-a-second?traffic_source=rss",
-      "published": "2026-09-20T15:30:10+00:00",
+      "headline": "Eighteen suspects extradited to US over Haitian president’s 2021 killing",
+      "excerpt": "Federal court in Florida to try men accused of orchestrating the transnational plot to kill Jovenel Moise from US soil.",
+      "link": "https://www.aljazeera.com/news/2026/9/20/eighteen-suspects-extradited-to-us-over-haitian-presidents-2021-killing?traffic_source=rss",
+      "published": "2026-09-20T20:31:15+00:00",
       "featured": true
+    },
+    {
+      "id": "5c6d5bf8e5fd",
+      "source": "OCCRP",
+      "headline": "Disappearance of Journalists in Djibouti Raises Concerns for Their Safety",
+      "excerpt": "",
+      "link": "https://www.occrp.org/en/news/disappearnce-journalist-djibouti-raises-concerns",
+      "published": "2026-09-20T20:05:00+00:00",
+      "featured": true
+    },
+    {
+      "id": "1f2d0499027d",
+      "source": "Dropsite News",
+      "headline": "The End of Rojava: Kurds in Northeast Syria Face an Uncertain Future Amid Integration With Damascus",
+      "excerpt": "Despite the formal dissolution of the SDF and the Kurdish-led autonomous zone, northeast Syria remains in a liminal state—not fully Syria, but not entirely separate, either.",
+      "link": "https://www.dropsitenews.com/p/rojava-syria-kurds-ypj-sdf-aanes",
+      "published": "2026-09-20T19:17:16+00:00",
+      "featured": true
+    },
+    {
+      "id": "599156babea6",
+      "source": "ICIJ",
+      "headline": "Statement on missing ICIJ journalist Micah Reddy",
+      "excerpt": "ICIJ lost contact with our colleague Micah Reddy, ICIJ's Africa coordinator, and local journalist Mohamed Willo Ismael (\"Kooki Mahmoud\"), in Djibouti City on Saturday, Sept. 19.",
+      "link": "https://www.icij.org/news/2026/09/statement-on-missing-icij-journalist-micah-reddy/",
+      "published": "2026-09-20T16:17:49+00:00",
+      "featured": false
     },
     {
       "id": "e1db9cd8a03c",
@@ -17,7 +44,7 @@
       "excerpt": "AI doomsday distractions, Big Tech’s Democratic allies, a Cruz-linked attack ad, and more from The Lever this week.",
       "link": "https://www.levernews.com/lever-weekly-everybody-panic-nobody-regulate/",
       "published": "2026-09-20T13:09:21+00:00",
-      "featured": true
+      "featured": false
     },
     {
       "id": "1d459515dccd",
@@ -26,7 +53,7 @@
       "excerpt": "A former public defender and former federal prosecutor both say they’ll make the right call on charging the federal immigration agents who killed Pretti and Good. The post Decision on Charging Renee Good and Alex...",
       "link": "https://theintercept.com/2026/09/19/minneapolis-prosecutor-race-renee-good-alex-pretti-ice/",
       "published": "2026-09-19T19:04:51+00:00",
-      "featured": true
+      "featured": false
     },
     {
       "id": "a0cba93ccbc5",
@@ -35,15 +62,6 @@
       "excerpt": "This article is the result of a collaboration with The Sunday Times. You can find their corresponding piece here. Sign up here to receive Bellingcat’s biggest investigations by email as soon as they are published....",
       "link": "https://www.bellingcat.com/news/2026/09/19/christy-kinahans-uae-residence-visa-cancelled/",
       "published": "2026-09-19T17:46:45+00:00",
-      "featured": false
-    },
-    {
-      "id": "1142bb460c93",
-      "source": "Dropsite News",
-      "headline": "Support Gaza Journalist Huda Skaik's Journey to University of London",
-      "excerpt": "We have until Wednesday to help a Drop Site contributor raise $50,000",
-      "link": "https://www.dropsitenews.com/p/support-gaza-journalist-huda-skaik",
-      "published": "2026-09-19T16:48:11+00:00",
       "featured": false
     },
     {
@@ -62,24 +80,6 @@
       "excerpt": "The post “Our Dear Friend Umar”: How We Uncovered That a Russian Oligarch Bankrolled Donald Trump Jr.’s Wedding appeared first on ProPublica.",
       "link": "https://www.propublica.org/article/donald-trump-jr-wedding-umar-kremlev-reporting",
       "published": "2026-09-19T09:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "3883b76c2003",
-      "source": "ICIJ",
-      "headline": "‘Tinder Swindler’s’ plan for a dating app sparks industry backlash",
-      "excerpt": "The convicted fraudster says his new app would enable women to find love safely. The lead trade group for online dating disagrees.",
-      "link": "https://www.icij.org/news/2026/09/tinder-swindlers-plan-for-a-dating-app-sparks-industry-backlash/",
-      "published": "2026-09-18T19:34:24+00:00",
-      "featured": false
-    },
-    {
-      "id": "ad35b2e7ff41",
-      "source": "OCCRP",
-      "headline": "Bosnia Seizes 1.1 Tons of Synthetic Drugs Worth Up to €33 Million",
-      "excerpt": "",
-      "link": "https://www.occrp.org/en/news/bosnia-seizes-11-tons-of-synthetic-drugs-worth-up-to-eur33-million",
-      "published": "2026-09-18T15:26:00+00:00",
       "featured": false
     },
     {
@@ -110,12 +110,12 @@
       "featured": false
     },
     {
-      "id": "7ca2b224cf4c",
+      "id": "dcec2bb92b44",
       "source": "Al Jazeera",
-      "headline": "Trump says monumental arch in Washington, DC will also be military complex",
-      "excerpt": "Plans for the arch had been met with opposition along with other projects by the US president to reshape capital city.",
-      "link": "https://www.aljazeera.com/news/2026/9/20/trump-says-monumental-arch-in-washington-dc-will-also-be-military-complex?traffic_source=rss",
-      "published": "2026-09-20T15:16:38+00:00",
+      "headline": "Qatar PM describes fallout of US-Israel war on Iran as ‘earthquake’",
+      "excerpt": "Speaking before the UN General Assembly, Sheikh Mohammed also announces a key shift in Qatar's investment strategy.",
+      "link": "https://www.aljazeera.com/news/2026/9/20/qatari-pm-warns-against-cycles-of-escalation-in-the-middle-east?traffic_source=rss",
+      "published": "2026-09-20T20:13:18+00:00",
       "featured": false
     },
     {
@@ -128,12 +128,21 @@
       "featured": false
     },
     {
-      "id": "719ecc1d078e",
+      "id": "1142bb460c93",
+      "source": "Dropsite News",
+      "headline": "Support Gaza Journalist Huda Skaik's Journey to University of London",
+      "excerpt": "We have until Wednesday to help a Drop Site contributor raise $50,000",
+      "link": "https://www.dropsitenews.com/p/support-gaza-journalist-huda-skaik",
+      "published": "2026-09-19T16:48:11+00:00",
+      "featured": false
+    },
+    {
+      "id": "3883b76c2003",
       "source": "ICIJ",
-      "headline": "US prosecutors accuse Huawei of ‘far-reaching criminal scheme’ spanning decades",
-      "excerpt": "The Chinese tech giant is on trial in New York for allegedly violating U.S. sanctions on Iran and stealing trade secrets as it built its global telecommunications empire.",
-      "link": "https://www.icij.org/investigations/china-capital/us-prosecutors-accuse-huawei-of-far-reaching-criminal-scheme-spanning-decades/",
-      "published": "2026-09-18T17:28:45+00:00",
+      "headline": "‘Tinder Swindler’s’ plan for a dating app sparks industry backlash",
+      "excerpt": "The convicted fraudster says his new app would enable women to find love safely. The lead trade group for online dating disagrees.",
+      "link": "https://www.icij.org/news/2026/09/tinder-swindlers-plan-for-a-dating-app-sparks-industry-backlash/",
+      "published": "2026-09-18T19:34:24+00:00",
       "featured": false
     },
     {
@@ -164,21 +173,12 @@
       "featured": false
     },
     {
-      "id": "6b0784a3968d",
-      "source": "Dropsite News",
-      "headline": "Saudi Aramco cuts oil shipments to Europe; Midterm voting begins; 16 killed in Pakistan mosque bombing",
-      "excerpt": "Drop Site Daily: September 18, 2026",
-      "link": "https://www.dropsitenews.com/p/saudi-aramco-oil-yemen-ansarallah-midterm-voting-pakistan-mosque-bombing",
-      "published": "2026-09-18T14:48:51+00:00",
-      "featured": false
-    },
-    {
-      "id": "699f5408af3b",
+      "id": "ad35b2e7ff41",
       "source": "OCCRP",
-      "headline": "Iraq Sentences Former Electricity Director General to Seven Years for illicit enrichment",
-      "excerpt": "An internal investigation into 127 fraudulent transactions led to a seven-year sentence for a former electricity distribution chief who has to pay millions in fines and restitution.",
-      "link": "https://www.occrp.org/en/news/iraq-sentences-former-electricity-director-general-to-seven-years-for-illicit-enrichment",
-      "published": "2026-09-18T12:59:00+00:00",
+      "headline": "Bosnia Seizes 1.1 Tons of Synthetic Drugs Worth Up to €33 Million",
+      "excerpt": "",
+      "link": "https://www.occrp.org/en/news/bosnia-seizes-11-tons-of-synthetic-drugs-worth-up-to-eur33-million",
+      "published": "2026-09-18T15:26:00+00:00",
       "featured": false
     },
     {
@@ -218,12 +218,12 @@
       "featured": false
     },
     {
-      "id": "6a814e9e400e",
+      "id": "33f8eec8affd",
       "source": "Al Jazeera",
-      "headline": "Venezuela quakes rescue dog ‘Tsunami’ honoured with statue",
-      "excerpt": "A Venezuelan rescue dog has been honoured with a statue for his search-and-rescue work after earthquakes in June.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/20/venezuela-quakes-rescue-dog-tsunami-honoured-with-statue?traffic_source=rss",
-      "published": "2026-09-20T14:43:49+00:00",
+      "headline": "US, China open high-level talks ahead of Trump-Xi summit",
+      "excerpt": "Scott Bessent and He Lifeng meet in New York for US-China talks ahead of the Trump-Xi meeting later this week.",
+      "link": "https://www.aljazeera.com/economy/2026/9/20/us-china-open-high-level-talks-ahead-of-trump-xi-summit?traffic_source=rss",
+      "published": "2026-09-20T19:42:13+00:00",
       "featured": false
     },
     {
@@ -233,6 +233,15 @@
       "excerpt": "Alex Bores has a plan to make AI safeguards a central issue in the 2028 Democratic presidential primaries.",
       "link": "https://www.levernews.com/can-democrats-unite-on-ai-regulation/",
       "published": "2026-09-19T17:45:47+00:00",
+      "featured": false
+    },
+    {
+      "id": "719ecc1d078e",
+      "source": "ICIJ",
+      "headline": "US prosecutors accuse Huawei of ‘far-reaching criminal scheme’ spanning decades",
+      "excerpt": "The Chinese tech giant is on trial in New York for allegedly violating U.S. sanctions on Iran and stealing trade secrets as it built its global telecommunications empire.",
+      "link": "https://www.icij.org/investigations/china-capital/us-prosecutors-accuse-huawei-of-far-reaching-criminal-scheme-spanning-decades/",
+      "published": "2026-09-18T17:28:45+00:00",
       "featured": false
     },
     {
@@ -263,21 +272,21 @@
       "featured": false
     },
     {
-      "id": "ed115734daa4",
-      "source": "OCCRP",
-      "headline": "Georgia Court Sentences Ex-Security Chief to 13 Years in Prison in Corruption Case",
-      "excerpt": "Former State Security Service of Georgia chief Grigol Liluashvili allegedly collected more than $2 million in bribes, including taking more than $1 million to protect an organized crime group's scam center operation.",
-      "link": "https://www.occrp.org/en/news/georgia-entences-ex-security-chief-to-13-years",
-      "published": "2026-09-18T08:46:00+00:00",
+      "id": "6b0784a3968d",
+      "source": "Dropsite News",
+      "headline": "Saudi Aramco cuts oil shipments to Europe; Midterm voting begins; 16 killed in Pakistan mosque bombing",
+      "excerpt": "Drop Site Daily: September 18, 2026",
+      "link": "https://www.dropsitenews.com/p/saudi-aramco-oil-yemen-ansarallah-midterm-voting-pakistan-mosque-bombing",
+      "published": "2026-09-18T14:48:51+00:00",
       "featured": false
     },
     {
-      "id": "0df6eca0585f",
-      "source": "Dropsite News",
-      "headline": "Many of the “Michigan Jewish Dems” Backing Mike Rogers Are Actually Already Republican Supporters, Analysis Finds",
-      "excerpt": "A close look at the signatories reveals many have been involved in past GOP efforts—including “Jews For Mitt” in 2012.",
-      "link": "https://www.dropsitenews.com/p/michigan-jewish-democrats-mike-rogers",
-      "published": "2026-09-17T22:14:37+00:00",
+      "id": "699f5408af3b",
+      "source": "OCCRP",
+      "headline": "Iraq Sentences Former Electricity Director General to Seven Years for illicit enrichment",
+      "excerpt": "An internal investigation into 127 fraudulent transactions led to a seven-year sentence for a former electricity distribution chief who has to pay millions in fines and restitution.",
+      "link": "https://www.occrp.org/en/news/iraq-sentences-former-electricity-director-general-to-seven-years-for-illicit-enrichment",
+      "published": "2026-09-18T12:59:00+00:00",
       "featured": false
     },
     {
@@ -287,15 +296,6 @@
       "excerpt": "From Latin America to Southeast Asia, countries are dividing their AI investments between the two superpowers rather than choosing one over the other.",
       "link": "https://restofworld.org/2026/ai-us-chips-chinese-open-source-models/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "published": "2026-09-16T10:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "847766fe0a19",
-      "source": "ICIJ",
-      "headline": "UK Parliament debates infrastructure security after China Capital revelations",
-      "excerpt": "ICIJ and its media partners found that Chinese bank ICBC served as a financing hub for infrastructure in the U.K. and Australia, prompting questions about Beijing’s influence over public projects.",
-      "link": "https://www.icij.org/investigations/china-capital/uk-parliament-debates-infrastructure-security-after-china-capital-revelations/",
-      "published": "2026-09-15T22:22:01+00:00",
       "featured": false
     },
     {
@@ -326,12 +326,12 @@
       "featured": false
     },
     {
-      "id": "2b807babab69",
+      "id": "bf6e49419344",
       "source": "Al Jazeera",
-      "headline": "Hundreds protest in Tunisia for release of jailed Gaza flotilla activists",
-      "excerpt": "Hundreds of Tunisians have protested in Tunis, demanding the release of four Global Sumud Flotilla activists.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/20/hundreds-protest-in-tunisia-for-release-of-jailed-gaza-flotilla-activists?traffic_source=rss",
-      "published": "2026-09-20T14:38:01+00:00",
+      "headline": "Qatar says it is working to revive Iran-US talks",
+      "excerpt": "Qatar’s Foreign Ministry spokesperson tells Bloomberg that mediators are shuttling between Iran and US to revive talks.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/20/qatar-says-it-is-working-to-revive-iran-us-talks?traffic_source=rss",
+      "published": "2026-09-20T19:36:12+00:00",
       "featured": false
     },
     {
@@ -362,6 +362,24 @@
       "featured": false
     },
     {
+      "id": "ed115734daa4",
+      "source": "OCCRP",
+      "headline": "Georgia Court Sentences Ex-Security Chief to 13 Years in Prison in Corruption Case",
+      "excerpt": "Former State Security Service of Georgia chief Grigol Liluashvili allegedly collected more than $2 million in bribes, including taking more than $1 million to protect an organized crime group's scam center operation.",
+      "link": "https://www.occrp.org/en/news/georgia-entences-ex-security-chief-to-13-years",
+      "published": "2026-09-18T08:46:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "0df6eca0585f",
+      "source": "Dropsite News",
+      "headline": "Many of the “Michigan Jewish Dems” Backing Mike Rogers Are Actually Already Republican Supporters, Analysis Finds",
+      "excerpt": "A close look at the signatories reveals many have been involved in past GOP efforts—including “Jews For Mitt” in 2012.",
+      "link": "https://www.dropsitenews.com/p/michigan-jewish-democrats-mike-rogers",
+      "published": "2026-09-17T22:14:37+00:00",
+      "featured": false
+    },
+    {
       "id": "6bb5f16f0ff0",
       "source": "404 Media",
       "headline": "‘Doom Loop’: OpenAI and Microsoft Admits LLMs Are Destroying the Web and Built on Theft",
@@ -371,21 +389,12 @@
       "featured": false
     },
     {
-      "id": "3701eed733d3",
-      "source": "OCCRP",
-      "headline": "Six Convicted, €300M Confiscation Ordered in Mafia-Linked EU Tax Fraud",
-      "excerpt": "The latest sentences in the 'Moby Dick' investigation target a network that allegedly used fake electronics invoices to drain 520 million euros ($597.35 million) from European budgets and launder money for the mafia.",
-      "link": "https://www.occrp.org/en/news/six-convicted-eur300m-confiscation-ordered-in-mafia-linked-eu-tax-fraud",
-      "published": "2026-09-17T19:16:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "4f258743d4da",
-      "source": "Dropsite News",
-      "headline": "UN experts cite possible U.S. war crimes in Iran strikes; Fed hikes interest rates for first time in 3 years; OpenAI flags “concerning” AI behavior",
-      "excerpt": "Drop Site Daily: September 17, 2026",
-      "link": "https://www.dropsitenews.com/p/un-us-war-crimes-iran-fed-interest-rates-openai-ai",
-      "published": "2026-09-17T14:05:49+00:00",
+      "id": "847766fe0a19",
+      "source": "ICIJ",
+      "headline": "UK Parliament debates infrastructure security after China Capital revelations",
+      "excerpt": "ICIJ and its media partners found that Chinese bank ICBC served as a financing hub for infrastructure in the U.K. and Australia, prompting questions about Beijing’s influence over public projects.",
+      "link": "https://www.icij.org/investigations/china-capital/uk-parliament-debates-infrastructure-security-after-china-capital-revelations/",
+      "published": "2026-09-15T22:22:01+00:00",
       "featured": false
     },
     {
@@ -395,15 +404,6 @@
       "excerpt": "Apple’s high-end models cost more in markets like India and Turkey owing to high taxes and import duties.",
       "link": "https://restofworld.org/2026/iphone-18-pro-global-prices/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "published": "2026-09-15T10:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "5d6c8504d771",
-      "source": "ICIJ",
-      "headline": "Chinese banking giant serves firms linked to oligarchs and autocrats to push Beijing’s agenda",
-      "excerpt": "Confidential records reveal how the Industrial and Commercial Bank of China’s London units courted high-risk clients to secure resources and alliances for Xi Jinping’s regime.",
-      "link": "https://www.icij.org/investigations/china-capital/china-banking-icbc-oligarchs-sanctions-london/",
-      "published": "2026-09-14T21:41:45+00:00",
       "featured": false
     },
     {
@@ -434,12 +434,12 @@
       "featured": false
     },
     {
-      "id": "d6563fb41aa1",
+      "id": "00ad11519a0d",
       "source": "Al Jazeera",
-      "headline": "Humanoid robots fight in cage match in Shanghai",
-      "excerpt": "Humanoid robots fight in cage match in Shanghai",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/20/humanoid-robots-fight-in-cage-match-in-shanghai?traffic_source=rss",
-      "published": "2026-09-20T14:12:28+00:00",
+      "headline": "France’s Macron and Canada’s Carney announce plans to build stronger ties",
+      "excerpt": "Announcement comes as Canada seeks a closer relationship with the EU amid a trade war with the US.",
+      "link": "https://www.aljazeera.com/news/2026/9/20/frances-macron-and-canadas-carney-announce-plans-to-build-stronger-ties?traffic_source=rss",
+      "published": "2026-09-20T19:28:43+00:00",
       "featured": false
     },
     {
@@ -461,12 +461,12 @@
       "featured": false
     },
     {
-      "id": "3dd5fa9ea50e",
+      "id": "3701eed733d3",
       "source": "OCCRP",
-      "headline": "Former Maduro Ally Pleads Guilty in US to $195M Money Laundering Scheme",
-      "excerpt": "The guilty plea caps a years-long geopolitical saga, spanning a high-profile U.S. prisoner swap and validating early reporting into a corrupt Venezuelan state food program.",
-      "link": "https://www.occrp.org/en/news/former-maduro-ally-pleads-guilty-in-us-to-195m-money-laundering-scheme",
-      "published": "2026-09-17T18:56:00+00:00",
+      "headline": "Six Convicted, €300M Confiscation Ordered in Mafia-Linked EU Tax Fraud",
+      "excerpt": "The latest sentences in the 'Moby Dick' investigation target a network that allegedly used fake electronics invoices to drain 520 million euros ($597.35 million) from European budgets and launder money for the mafia.",
+      "link": "https://www.occrp.org/en/news/six-convicted-eur300m-confiscation-ordered-in-mafia-linked-eu-tax-fraud",
+      "published": "2026-09-17T19:16:00+00:00",
       "featured": false
     },
     {
@@ -488,21 +488,21 @@
       "featured": false
     },
     {
-      "id": "0fee85b556f4",
+      "id": "4f258743d4da",
       "source": "Dropsite News",
-      "headline": "The Ulm 5 Trial Dramatizes Germany’s Complicity with Israel’s Genocide in Gaza",
-      "excerpt": "Five activists who vandalized an Elbit Systems factory aim to put Germany and the Israeli weapons company on trial.",
-      "link": "https://www.dropsitenews.com/p/ulm5-elbit-israel-gaza-germany",
-      "published": "2026-09-16T20:18:56+00:00",
+      "headline": "UN experts cite possible U.S. war crimes in Iran strikes; Fed hikes interest rates for first time in 3 years; OpenAI flags “concerning” AI behavior",
+      "excerpt": "Drop Site Daily: September 17, 2026",
+      "link": "https://www.dropsitenews.com/p/un-us-war-crimes-iran-fed-interest-rates-openai-ai",
+      "published": "2026-09-17T14:05:49+00:00",
       "featured": false
     },
     {
-      "id": "4bc6a09b2209",
+      "id": "5d6c8504d771",
       "source": "ICIJ",
-      "headline": "Chinese bank helped Huawei spirit $1B out of London days after US indictment of the tech giant",
-      "excerpt": "The urgent operation exposes how readily ICBC’s local branch bypassed internal checks to boost a Beijing favorite.",
-      "link": "https://www.icij.org/investigations/china-capital/huawei-icbc-banking-us-court-beijing-london/",
-      "published": "2026-09-14T21:41:33+00:00",
+      "headline": "Chinese banking giant serves firms linked to oligarchs and autocrats to push Beijing’s agenda",
+      "excerpt": "Confidential records reveal how the Industrial and Commercial Bank of China’s London units courted high-risk clients to secure resources and alliances for Xi Jinping’s regime.",
+      "link": "https://www.icij.org/investigations/china-capital/china-banking-icbc-oligarchs-sanctions-london/",
+      "published": "2026-09-14T21:41:45+00:00",
       "featured": false
     },
     {
@@ -533,12 +533,12 @@
       "featured": false
     },
     {
-      "id": "01ce3bd1fe0d",
+      "id": "8c413f2b8c84",
       "source": "Al Jazeera",
-      "headline": "The pro-Israel censors are starting to lose",
-      "excerpt": "The Macklemore controversy demonstrates that the cost of speaking up for Palestine is diminishing.",
-      "link": "https://www.aljazeera.com/opinions/2026/9/20/the-pro-israel-censors-are-starting-to-lose?traffic_source=rss",
-      "published": "2026-09-20T14:00:32+00:00",
+      "headline": "How will Saudi Arabia deal with the Houthis?",
+      "excerpt": "Yemeni group warns of further attacks on the kingdom.",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/9/20/how-will-saudi-arabia-deal-with-the-houthis?traffic_source=rss",
+      "published": "2026-09-20T18:34:36+00:00",
       "featured": false
     }
   ]
