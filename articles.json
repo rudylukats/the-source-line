@@ -1,14 +1,41 @@
 {
-  "generated_at": "2026-09-21T04:57:21.245290+00:00",
+  "generated_at": "2026-09-21T12:50:02.804406+00:00",
   "articles": [
     {
-      "id": "cdf873fef6ff",
+      "id": "ef52e7c50c23",
       "source": "Al Jazeera",
-      "headline": "Massive explosions at Syrian army weapons depot near Aleppo",
-      "excerpt": "Explosions rocked a Syrian army ammunition depot south of Aleppo, injuring at least four people.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/21/09-21-aleppo-depot-explosions-reported-mp4?traffic_source=rss",
-      "published": "2026-09-21T04:19:00+00:00",
+      "headline": "NFL’s Azeez Al-Shaair pays tribute to slain Palestinian girl Wafaa Akila",
+      "excerpt": "Al-Shaair wears eye black with Akila's name despite being fined for displaying messages about Israel's genocide in Gaza.",
+      "link": "https://www.aljazeera.com/sports/2026/9/21/nfls-azeez-al-shaair-pays-tribute-to-slain-palestinian-girl-wafaa-akila?traffic_source=rss",
+      "published": "2026-09-21T11:26:41+00:00",
       "featured": true
+    },
+    {
+      "id": "15974b08af44",
+      "source": "Rest of World",
+      "headline": "Nvidia’s free AI model could push the UAE closer to the U.S.",
+      "excerpt": "The Emirates owns the machines but rents the intelligence. Nvidia’s next free AI model could change that.",
+      "link": "https://restofworld.org/2026/nvidia-open-source-ai-models-uae/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "published": "2026-09-21T10:00:00+00:00",
+      "featured": true
+    },
+    {
+      "id": "d99fbc8e44ab",
+      "source": "The Lever",
+      "headline": "The Youth Hockey Giant That Can’t Quit Private Equity",
+      "excerpt": "After denying its Wall Street ties, Black Bear quietly installed a private equity executive as CEO.",
+      "link": "https://www.levernews.com/the-youth-hockey-giant-that-cant-quit-private-equity/",
+      "published": "2026-09-21T09:00:13+00:00",
+      "featured": true
+    },
+    {
+      "id": "378484e30fa4",
+      "source": "ProPublica",
+      "headline": "Watch: The New Supreme Court",
+      "excerpt": "The post Watch: The New Supreme Court appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/supreme-court-shadow-docket-explainer",
+      "published": "2026-09-21T09:00:00+00:00",
+      "featured": false
     },
     {
       "id": "5c6d5bf8e5fd",
@@ -17,7 +44,7 @@
       "excerpt": "",
       "link": "https://www.occrp.org/en/news/disappearnce-journalist-djibouti-raises-concerns",
       "published": "2026-09-20T20:05:00+00:00",
-      "featured": true
+      "featured": false
     },
     {
       "id": "1f2d0499027d",
@@ -26,7 +53,7 @@
       "excerpt": "Despite the formal dissolution of the SDF and the Kurdish-led autonomous zone, northeast Syria remains in a liminal state—not fully Syria, but not entirely separate, either.",
       "link": "https://www.dropsitenews.com/p/rojava-syria-kurds-ypj-sdf-aanes",
       "published": "2026-09-20T19:17:16+00:00",
-      "featured": true
+      "featured": false
     },
     {
       "id": "599156babea6",
@@ -35,15 +62,6 @@
       "excerpt": "ICIJ lost contact with our colleague Micah Reddy, ICIJ's Africa coordinator, and local journalist Mohamed Willo Ismael (\"Kooki Mahmoud\"), in Djibouti City on Saturday, Sept. 19.",
       "link": "https://www.icij.org/news/2026/09/statement-on-missing-icij-journalist-micah-reddy/",
       "published": "2026-09-20T16:17:49+00:00",
-      "featured": false
-    },
-    {
-      "id": "e1db9cd8a03c",
-      "source": "The Lever",
-      "headline": "Lever Weekly: Everybody Panic, Nobody Regulate",
-      "excerpt": "AI doomsday distractions, Big Tech’s Democratic allies, a Cruz-linked attack ad, and more from The Lever this week.",
-      "link": "https://www.levernews.com/lever-weekly-everybody-panic-nobody-regulate/",
-      "published": "2026-09-20T13:09:21+00:00",
       "featured": false
     },
     {
@@ -74,24 +92,6 @@
       "featured": false
     },
     {
-      "id": "8e3f1da1aeca",
-      "source": "ProPublica",
-      "headline": "“Our Dear Friend Umar”: How We Uncovered That a Russian Oligarch Bankrolled Donald Trump Jr.’s Wedding",
-      "excerpt": "The post “Our Dear Friend Umar”: How We Uncovered That a Russian Oligarch Bankrolled Donald Trump Jr.’s Wedding appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/donald-trump-jr-wedding-umar-kremlev-reporting",
-      "published": "2026-09-19T09:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "3698b988e451",
-      "source": "Rest of World",
-      "headline": "The case for a robot tax to redistribute wealth",
-      "excerpt": "In an excerpt from his book, “Innovate for Impact: A Roadmap to Sustainable Technology Beyond AI,” Alessandro Crimi explains that a tax on automation is more effective than retraining labor.",
-      "link": "https://restofworld.org/2026/robot-tax-ai-wealth-redistribution/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-      "published": "2026-09-18T10:00:00+00:00",
-      "featured": false
-    },
-    {
       "id": "7f8b3c4cb74e",
       "source": "The Markup",
       "headline": "Who’s buying your personal data: Disney, GM, your insurer and bank. Here’s what they get",
@@ -110,21 +110,21 @@
       "featured": false
     },
     {
-      "id": "d3dfcf2b6cb0",
+      "id": "64e139d2dd7a",
       "source": "Al Jazeera",
-      "headline": "Imran Khan’s family says three sisters detained ahead of Islamabad march",
-      "excerpt": "Imran Khan’s family says three of his sisters have been detained in Lahore ahead of a march demanding his release.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/21/09-21-aleema-khan-arrest-sv?traffic_source=rss",
-      "published": "2026-09-21T02:31:37+00:00",
+      "headline": "Why do Sudan’s humanitarian truces keep failing and who is to blame?",
+      "excerpt": "Efforts to bring about humanitarian truces in Sudan hit a dead end as warring factions prioritise battlefield victories.",
+      "link": "https://www.aljazeera.com/news/2026/9/21/why-do-sudans-humanitarian-truces-keep-failing-and-who-is-to-blame?traffic_source=rss",
+      "published": "2026-09-21T11:22:40+00:00",
       "featured": false
     },
     {
-      "id": "e7d9fa4e06f9",
+      "id": "e1db9cd8a03c",
       "source": "The Lever",
-      "headline": "Is The AI Threat ‘The Terminator’ or ‘The Big Short’?",
-      "excerpt": "An AI apocalypse involving killer robots is terrifying, but don’t overlook a speculative bubble whose collapse will reverberate across the economy.",
-      "link": "https://www.levernews.com/is-the-ai-threat-the-terminator-or-the-big-short/",
-      "published": "2026-09-20T08:01:01+00:00",
+      "headline": "Lever Weekly: Everybody Panic, Nobody Regulate",
+      "excerpt": "AI doomsday distractions, Big Tech’s Democratic allies, a Cruz-linked attack ad, and more from The Lever this week.",
+      "link": "https://www.levernews.com/lever-weekly-everybody-panic-nobody-regulate/",
+      "published": "2026-09-20T13:09:21+00:00",
       "featured": false
     },
     {
@@ -137,21 +137,21 @@
       "featured": false
     },
     {
+      "id": "8e3f1da1aeca",
+      "source": "ProPublica",
+      "headline": "“Our Dear Friend Umar”: How We Uncovered That a Russian Oligarch Bankrolled Donald Trump Jr.’s Wedding",
+      "excerpt": "The post “Our Dear Friend Umar”: How We Uncovered That a Russian Oligarch Bankrolled Donald Trump Jr.’s Wedding appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/donald-trump-jr-wedding-umar-kremlev-reporting",
+      "published": "2026-09-19T09:00:00+00:00",
+      "featured": false
+    },
+    {
       "id": "3883b76c2003",
       "source": "ICIJ",
       "headline": "‘Tinder Swindler’s’ plan for a dating app sparks industry backlash",
       "excerpt": "The convicted fraudster says his new app would enable women to find love safely. The lead trade group for online dating disagrees.",
       "link": "https://www.icij.org/news/2026/09/tinder-swindlers-plan-for-a-dating-app-sparks-industry-backlash/",
       "published": "2026-09-18T19:34:24+00:00",
-      "featured": false
-    },
-    {
-      "id": "400f72d45150",
-      "source": "ProPublica",
-      "headline": "Judge Denies Efforts to End Oversight of Maricopa County Sheriff’s Office as Racial Profiling of Latinos Persists",
-      "excerpt": "The post Judge Denies Efforts to End Oversight of Maricopa County Sheriff’s Office as Racial Profiling of Latinos Persists appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/maricopa-county-sheriff-oversight-judge-ruling",
-      "published": "2026-09-18T17:10:00+00:00",
       "featured": false
     },
     {
@@ -182,12 +182,12 @@
       "featured": false
     },
     {
-      "id": "ecaa866e2e26",
+      "id": "3698b988e451",
       "source": "Rest of World",
-      "headline": "South Africa joins the global resistance against American data centers",
-      "excerpt": "“A massive data center is trying to jump the queue and take our land, water, and energy.”",
-      "link": "https://restofworld.org/2026/south-africa-ai-data-center-protests/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-      "published": "2026-09-17T10:00:00+00:00",
+      "headline": "The case for a robot tax to redistribute wealth",
+      "excerpt": "In an excerpt from his book, “Innovate for Impact: A Roadmap to Sustainable Technology Beyond AI,” Alessandro Crimi explains that a tax on automation is more effective than retraining labor.",
+      "link": "https://restofworld.org/2026/robot-tax-ai-wealth-redistribution/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "published": "2026-09-18T10:00:00+00:00",
       "featured": false
     },
     {
@@ -218,21 +218,21 @@
       "featured": false
     },
     {
-      "id": "d360cce279bb",
+      "id": "9b0bc4f63f79",
       "source": "Al Jazeera",
-      "headline": "Powerful explosions at Syrian army site near Aleppo injure at least four",
-      "excerpt": "Officials urge civilians to stay away from the site in al-Eis near Aleppo after a series of explosions.",
-      "link": "https://www.aljazeera.com/news/2026/9/21/powerful-explosions-at-syrian-army-site-near-aleppo-injures-at-least-four?traffic_source=rss",
-      "published": "2026-09-21T01:30:46+00:00",
+      "headline": "Why is the US trying ‘regime change’ again?",
+      "excerpt": "The US invasions after 9/11 were disasters -- but the US is trying again in Iran anyway",
+      "link": "https://www.aljazeera.com/video/project-force-2/2026/9/21/why-is-the-us-trying-regime-change-again?traffic_source=rss",
+      "published": "2026-09-21T11:00:49+00:00",
       "featured": false
     },
     {
-      "id": "a50b59a434a3",
+      "id": "e7d9fa4e06f9",
       "source": "The Lever",
-      "headline": "Can Democrats Unite on AI Regulation?",
-      "excerpt": "Alex Bores has a plan to make AI safeguards a central issue in the 2028 Democratic presidential primaries.",
-      "link": "https://www.levernews.com/can-democrats-unite-on-ai-regulation/",
-      "published": "2026-09-19T17:45:47+00:00",
+      "headline": "Is The AI Threat ‘The Terminator’ or ‘The Big Short’?",
+      "excerpt": "An AI apocalypse involving killer robots is terrifying, but don’t overlook a speculative bubble whose collapse will reverberate across the economy.",
+      "link": "https://www.levernews.com/is-the-ai-threat-the-terminator-or-the-big-short/",
+      "published": "2026-09-20T08:01:01+00:00",
       "featured": false
     },
     {
@@ -242,6 +242,15 @@
       "excerpt": "The Chinese tech giant is on trial in New York for allegedly violating U.S. sanctions on Iran and stealing trade secrets as it built its global telecommunications empire.",
       "link": "https://www.icij.org/investigations/china-capital/us-prosecutors-accuse-huawei-of-far-reaching-criminal-scheme-spanning-decades/",
       "published": "2026-09-18T17:28:45+00:00",
+      "featured": false
+    },
+    {
+      "id": "400f72d45150",
+      "source": "ProPublica",
+      "headline": "Judge Denies Efforts to End Oversight of Maricopa County Sheriff’s Office as Racial Profiling of Latinos Persists",
+      "excerpt": "The post Judge Denies Efforts to End Oversight of Maricopa County Sheriff’s Office as Racial Profiling of Latinos Persists appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/maricopa-county-sheriff-oversight-judge-ruling",
+      "published": "2026-09-18T17:10:00+00:00",
       "featured": false
     },
     {
@@ -263,15 +272,6 @@
       "featured": false
     },
     {
-      "id": "2b05ecdcbd7d",
-      "source": "ProPublica",
-      "headline": "Tennessee Lawmakers Demand Answers on Safety in State Youth Prisons",
-      "excerpt": "The post Tennessee Lawmakers Demand Answers on Safety in State Youth Prisons appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/tennessee-private-youth-prisons-dcs-letter",
-      "published": "2026-09-18T15:00:00+00:00",
-      "featured": false
-    },
-    {
       "id": "6b0784a3968d",
       "source": "Dropsite News",
       "headline": "Saudi Aramco cuts oil shipments to Europe; Midterm voting begins; 16 killed in Pakistan mosque bombing",
@@ -290,12 +290,12 @@
       "featured": false
     },
     {
-      "id": "184944f4828a",
+      "id": "ecaa866e2e26",
       "source": "Rest of World",
-      "headline": "Playing both sides of the U.S.-China AI “Cold War”",
-      "excerpt": "From Latin America to Southeast Asia, countries are dividing their AI investments between the two superpowers rather than choosing one over the other.",
-      "link": "https://restofworld.org/2026/ai-us-chips-chinese-open-source-models/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-      "published": "2026-09-16T10:00:00+00:00",
+      "headline": "South Africa joins the global resistance against American data centers",
+      "excerpt": "“A massive data center is trying to jump the queue and take our land, water, and energy.”",
+      "link": "https://restofworld.org/2026/south-africa-ai-data-center-protests/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "published": "2026-09-17T10:00:00+00:00",
       "featured": false
     },
     {
@@ -326,21 +326,30 @@
       "featured": false
     },
     {
-      "id": "3a86b0a29ec7",
+      "id": "6eeb98704039",
       "source": "Al Jazeera",
-      "headline": "Trump administration readies sweeping sanctions against ICC, reports say",
-      "excerpt": "Measures targeting the court itself could disrupt payments, IT services and investigations.",
-      "link": "https://www.aljazeera.com/news/2026/9/21/trump-administration-readies-sweeping-sanctions-against-icc-reports-say?traffic_source=rss",
-      "published": "2026-09-21T01:19:42+00:00",
+      "headline": "How oil, gas losses have shrunk Iran’s GDP by 10 percent during war",
+      "excerpt": "The oil and gas sector shrank 26 percent, new official data shows, pointing to the costs of the US-Israel war on Iran.",
+      "link": "https://www.aljazeera.com/news/2026/9/21/how-oil-gas-losses-have-shrunk-irans-gdp-by-10-percent-during-war?traffic_source=rss",
+      "published": "2026-09-21T10:38:41+00:00",
       "featured": false
     },
     {
-      "id": "351dbbc70df4",
+      "id": "a50b59a434a3",
       "source": "The Lever",
-      "headline": "You Love To See It: The Kids Are AI-Right",
-      "excerpt": "AI gets detention, voting rights get legal enforcement, court power stops coal power, and the kid who took on Big Hospital.",
-      "link": "https://www.levernews.com/you-love-to-see-it-the-kids-are-ai-right/",
-      "published": "2026-09-19T13:01:16+00:00",
+      "headline": "Can Democrats Unite on AI Regulation?",
+      "excerpt": "Alex Bores has a plan to make AI safeguards a central issue in the 2028 Democratic presidential primaries.",
+      "link": "https://www.levernews.com/can-democrats-unite-on-ai-regulation/",
+      "published": "2026-09-19T17:45:47+00:00",
+      "featured": false
+    },
+    {
+      "id": "2b05ecdcbd7d",
+      "source": "ProPublica",
+      "headline": "Tennessee Lawmakers Demand Answers on Safety in State Youth Prisons",
+      "excerpt": "The post Tennessee Lawmakers Demand Answers on Safety in State Youth Prisons appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/tennessee-private-youth-prisons-dcs-letter",
+      "published": "2026-09-18T15:00:00+00:00",
       "featured": false
     },
     {
@@ -350,15 +359,6 @@
       "excerpt": "What’s driving religious fundamentalists, tech accelerationists, and anti-immigrant ethnonationalists to bring about the end of the world? The post Apocalypse Now: Naomi Klein and Astra Taylor Investigate the End-Timers...",
       "link": "https://theintercept.com/2026/09/18/naomi-klein-astra-taylor-ai-religious-apocalypse-doom/",
       "published": "2026-09-18T13:30:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "af316448d513",
-      "source": "ProPublica",
-      "headline": "“A Clear Watering Down”: Drug Transparency Bill Stripped of Critical Provisions Ahead of Senate Vote",
-      "excerpt": "The post “A Clear Watering Down”: Drug Transparency Bill Stripped of Critical Provisions Ahead of Senate Vote appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/clear-labels-act-drug-safety-senate-vote",
-      "published": "2026-09-18T10:00:00+00:00",
       "featured": false
     },
     {
@@ -389,21 +389,21 @@
       "featured": false
     },
     {
+      "id": "184944f4828a",
+      "source": "Rest of World",
+      "headline": "Playing both sides of the U.S.-China AI “Cold War”",
+      "excerpt": "From Latin America to Southeast Asia, countries are dividing their AI investments between the two superpowers rather than choosing one over the other.",
+      "link": "https://restofworld.org/2026/ai-us-chips-chinese-open-source-models/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "published": "2026-09-16T10:00:00+00:00",
+      "featured": false
+    },
+    {
       "id": "847766fe0a19",
       "source": "ICIJ",
       "headline": "UK Parliament debates infrastructure security after China Capital revelations",
       "excerpt": "ICIJ and its media partners found that Chinese bank ICBC served as a financing hub for infrastructure in the U.K. and Australia, prompting questions about Beijing’s influence over public projects.",
       "link": "https://www.icij.org/investigations/china-capital/uk-parliament-debates-infrastructure-security-after-china-capital-revelations/",
       "published": "2026-09-15T22:22:01+00:00",
-      "featured": false
-    },
-    {
-      "id": "038f69c40c27",
-      "source": "Rest of World",
-      "headline": "Where in the world is the iPhone cheapest?",
-      "excerpt": "Apple’s high-end models cost more in markets like India and Turkey owing to high taxes and import duties.",
-      "link": "https://restofworld.org/2026/iphone-18-pro-global-prices/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-      "published": "2026-09-15T10:00:00+00:00",
       "featured": false
     },
     {
@@ -434,30 +434,30 @@
       "featured": false
     },
     {
-      "id": "138d04930c7e",
+      "id": "6c1f59758928",
       "source": "Al Jazeera",
-      "headline": "The Sahel and the UN: a smaller footprint, a different role",
-      "excerpt": "As UNGA 81 begins, the UN faces a changing Sahel demanding greater sovereignty.",
-      "link": "https://www.aljazeera.com/news/2026/9/21/the-sahel-and-the-un-a-smaller-footprint-a-different-role?traffic_source=rss",
-      "published": "2026-09-21T00:53:15+00:00",
+      "headline": "Mystery object spotted hovering over Tehran",
+      "excerpt": "A mysterious object filmed hovering over Tehran has sparked online speculation.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/21/mystery-object-spotted-hovering-over-tehran?traffic_source=rss",
+      "published": "2026-09-21T10:10:14+00:00",
       "featured": false
     },
     {
-      "id": "e6581a8144a4",
+      "id": "351dbbc70df4",
       "source": "The Lever",
-      "headline": "This PR Populist Is Quiet About His Data Center Past",
-      "excerpt": "Iowa Republican Joe Mitchell says he’s fighting insiders and lobbyists, but he worked for a public relations firm that boasts, “Data center developers count on us.”",
-      "link": "https://www.levernews.com/this-pr-populist-is-quiet-about-his-data-center-past/",
-      "published": "2026-09-18T18:15:39+00:00",
+      "headline": "You Love To See It: The Kids Are AI-Right",
+      "excerpt": "AI gets detention, voting rights get legal enforcement, court power stops coal power, and the kid who took on Big Hospital.",
+      "link": "https://www.levernews.com/you-love-to-see-it-the-kids-are-ai-right/",
+      "published": "2026-09-19T13:01:16+00:00",
       "featured": false
     },
     {
-      "id": "7289c84fda6a",
+      "id": "af316448d513",
       "source": "ProPublica",
-      "headline": "Why ProPublica Is Leaning Into Sports Investigations",
-      "excerpt": "The post Why ProPublica Is Leaning Into Sports Investigations appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/propublica-sports-investigations",
-      "published": "2026-09-18T09:00:00+00:00",
+      "headline": "“A Clear Watering Down”: Drug Transparency Bill Stripped of Critical Provisions Ahead of Senate Vote",
+      "excerpt": "The post “A Clear Watering Down”: Drug Transparency Bill Stripped of Critical Provisions Ahead of Senate Vote appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/clear-labels-act-drug-safety-senate-vote",
+      "published": "2026-09-18T10:00:00+00:00",
       "featured": false
     },
     {
@@ -497,21 +497,21 @@
       "featured": false
     },
     {
+      "id": "038f69c40c27",
+      "source": "Rest of World",
+      "headline": "Where in the world is the iPhone cheapest?",
+      "excerpt": "Apple’s high-end models cost more in markets like India and Turkey owing to high taxes and import duties.",
+      "link": "https://restofworld.org/2026/iphone-18-pro-global-prices/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "published": "2026-09-15T10:00:00+00:00",
+      "featured": false
+    },
+    {
       "id": "5d6c8504d771",
       "source": "ICIJ",
       "headline": "Chinese banking giant serves firms linked to oligarchs and autocrats to push Beijing’s agenda",
       "excerpt": "Confidential records reveal how the Industrial and Commercial Bank of China’s London units courted high-risk clients to secure resources and alliances for Xi Jinping’s regime.",
       "link": "https://www.icij.org/investigations/china-capital/china-banking-icbc-oligarchs-sanctions-london/",
       "published": "2026-09-14T21:41:45+00:00",
-      "featured": false
-    },
-    {
-      "id": "5d4dd6137eb0",
-      "source": "Rest of World",
-      "headline": "The real AI economy is being built by ordinary people",
-      "excerpt": "Far from Silicon Valley pitch decks, workers across Asia and Africa are bypassing tech industry hype to quietly rewire their daily jobs — one prompt, workflow, and local problem at a time.",
-      "link": "https://restofworld.org/2026/global-workers-using-ai-at-work/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-      "published": "2026-09-14T10:00:31+00:00",
       "featured": false
     },
     {
@@ -533,12 +533,12 @@
       "featured": false
     },
     {
-      "id": "f583cbc26e22",
+      "id": "f69807d54992",
       "source": "Al Jazeera",
-      "headline": "Ethiopian armed groups forge alliance against government",
-      "excerpt": "Former adversaries say they will settle differences as fears grow of expanding war in Ethiopia.",
-      "link": "https://www.aljazeera.com/news/2026/9/21/ethiopian-armed-groups-forge-alliance-against-government?traffic_source=rss",
-      "published": "2026-09-21T00:34:30+00:00",
+      "headline": "A simple guide to the Yemen conflict",
+      "excerpt": "Here’s a brief history of Yemen’s war - from the Houthi takeover in 2014 to the latest escalation.",
+      "link": "https://www.aljazeera.com/news/2026/9/21/a-brief-history-of-the-yemen-conflict?traffic_source=rss",
+      "published": "2026-09-21T10:01:30+00:00",
       "featured": false
     }
   ]
