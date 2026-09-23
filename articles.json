@@ -1,6 +1,51 @@
 {
-  "generated_at": "2026-09-23T17:00:45.745945+00:00",
+  "generated_at": "2026-09-23T21:30:54.114394+00:00",
   "articles": [
+    {
+      "id": "644dcd10f771",
+      "source": "Al Jazeera",
+      "headline": "FBI says investigating breach of ‘very sensitive’ data by hackers",
+      "excerpt": "Hacker group ShinyHunters claims to have detailed data on thousands of FBI employees.",
+      "link": "https://www.aljazeera.com/news/2026/9/23/fbi-says-investigating-breach-of-very-sensitive-data-by-hackers?traffic_source=rss",
+      "published": "2026-09-23T21:18:22+00:00",
+      "featured": true
+    },
+    {
+      "id": "c40c0f446aff",
+      "source": "OCCRP",
+      "headline": "Federal Judge Weighs Limits of U.S. Reach in Trial of Accused Kingpin Sebastián Marset",
+      "excerpt": "Defense lawyers argued in a Virginia courtroom that Sebastián Marset \"studiously avoided\" the United States, asking a federal judge to dismiss narco-terrorism and money laundering charges on the grounds that his alleged...",
+      "link": "https://www.occrp.org/en/news/federal-judge-weighs-limits-of-us-reach-in-trial-of-accused-kingpin-sebastian-marset",
+      "published": "2026-09-23T20:28:00+00:00",
+      "featured": true
+    },
+    {
+      "id": "781bc55ce19c",
+      "source": "Dropsite News",
+      "headline": "Why Rodrigo Paz Is Trying to Distance Himself From “MAGA’s Man in Latin America”",
+      "excerpt": "Fernando Cerimedo, the far-right political operative jailed on murder charges in Bolivia, played a key role in President Rodrigo Paz’s government.",
+      "link": "https://www.dropsitenews.com/p/fernando-cerimedo-rodrigo-paz-trump-rubio",
+      "published": "2026-09-23T19:53:01+00:00",
+      "featured": true
+    },
+    {
+      "id": "19c67877e1fa",
+      "source": "ICIJ",
+      "headline": "China Capital stories reveal how ICBC advanced China’s political goals across four continents",
+      "excerpt": "ICIJ’s media partners uncovered strategic deals and moves the Chinese bank made around the world to further the political priorities of the party-state.",
+      "link": "https://www.icij.org/investigations/china-capital/china-capital-stories-reveal-how-icbc-advanced-chinas-political-goals-across-four-continents/",
+      "published": "2026-09-23T18:29:54+00:00",
+      "featured": false
+    },
+    {
+      "id": "c8d36cd04b91",
+      "source": "The Lever",
+      "headline": "Midterm Madness: Big Crypto’s Double Tap",
+      "excerpt": "An industry super PAC is declaring war on a purple-state Democrat for the second time in two years.",
+      "link": "https://www.levernews.com/midterm-madness-big-cryptos-double-tap/",
+      "published": "2026-09-23T17:23:30+00:00",
+      "featured": false
+    },
     {
       "id": "977e1d2cb197",
       "source": "The Intercept",
@@ -8,16 +53,7 @@
       "excerpt": "In a wage-theft settlement, DoorDash now has to pay its workers around 100 times what it spent trying to beat Zohran Mamdani. The post DoorDash Spent $1.4 Million Trying to Stop Mamdani From Becoming Mayor. Now We Know...",
       "link": "https://theintercept.com/2026/09/23/doordash-delivery-nyc-mamdani-wage-theft-settlement/",
       "published": "2026-09-23T16:52:09+00:00",
-      "featured": true
-    },
-    {
-      "id": "78a87ed90eec",
-      "source": "Al Jazeera",
-      "headline": "Syria’s al-Sharaa warns Israeli attacks endanger delicate post-war recovery",
-      "excerpt": "President Ahmed al-Sharaa calls for Israeli withdrawal, condemning its attacks as Syria emerges from civil war.",
-      "link": "https://www.aljazeera.com/news/2026/9/23/syrias-al-sharaa-warns-israeli-attacks-endanger-delicate-post-war-recovery?traffic_source=rss",
-      "published": "2026-09-23T16:44:01+00:00",
-      "featured": true
+      "featured": false
     },
     {
       "id": "7b3eeabc8b47",
@@ -26,15 +62,6 @@
       "excerpt": "Scientists discovered that diseased fruit flies lived longer when they were removed from Earth’s magnetic field, while healthy flies had shorter lifespans, in a first-of-its kind experiment with surprising results.",
       "link": "https://www.404media.co/earth-magnetic-field-effects-on-aging-study/",
       "published": "2026-09-23T16:39:52+00:00",
-      "featured": true
-    },
-    {
-      "id": "b638cff44ca7",
-      "source": "Dropsite News",
-      "headline": "Trump threatens to “annihilate” Iran, Tehran calls it “strategic desperation”; Greenland signs deal expanding U.S. presence",
-      "excerpt": "Drop Site Daily: September 23, 2026",
-      "link": "https://www.dropsitenews.com/p/trump-us-iran-unga-greenland-deal",
-      "published": "2026-09-23T14:53:40+00:00",
       "featured": false
     },
     {
@@ -44,15 +71,6 @@
       "excerpt": "Regular people are losing the right to fish in Alaska.",
       "link": "https://substack.perfectunion.us/p/we-went-to-alaska-the-fishing-crisis",
       "published": "2026-09-23T14:05:13+00:00",
-      "featured": false
-    },
-    {
-      "id": "508dda1d9bba",
-      "source": "OCCRP",
-      "headline": "Azerbaijan Pardons French Citizen as EU Lifts Sanctions on Russian Billionaire",
-      "excerpt": "",
-      "link": "https://www.occrp.org/en/news/azerbaijan-pardons-french-citizen-as-eu-lifts-sanctions-on-russian-billionaire",
-      "published": "2026-09-23T13:00:00+00:00",
       "featured": false
     },
     {
@@ -74,24 +92,6 @@
       "featured": false
     },
     {
-      "id": "83d528f780dd",
-      "source": "The Lever",
-      "headline": "AI Lending Is Risky Lending",
-      "excerpt": "Banks that adopt artificial intelligence average more “problem” loans and less small business lending.",
-      "link": "https://www.levernews.com/ai-lending-is-risky-lending/",
-      "published": "2026-09-22T18:36:48+00:00",
-      "featured": false
-    },
-    {
-      "id": "b57f918aa7af",
-      "source": "ICIJ",
-      "headline": "ICIJ journalist Micah Reddy freed after 4 days in secretive Djibouti custody",
-      "excerpt": "Reddy and local guide Mohamed Willo Ismael (“Kooki Mahmoud”) went missing Sept. 19 in Djibouti City.",
-      "link": "https://www.icij.org/news/2026/09/icij-journalist-micah-reddy-freed-after-4-days-in-secretive-djibouti-custody/",
-      "published": "2026-09-22T13:40:10+00:00",
-      "featured": false
-    },
-    {
       "id": "a0cba93ccbc5",
       "source": "Bellingcat",
       "headline": "Christy Kinahan’s UAE Residence Visa Cancelled",
@@ -110,12 +110,21 @@
       "featured": false
     },
     {
-      "id": "fecf0fd21997",
+      "id": "c7b8bbdf28be",
       "source": "Al Jazeera",
-      "headline": "How and why the UN General Assembly is gaining prominence",
-      "excerpt": "The gridlock in the UNSC and emerging multipolarity are shifting political weight to the UNGA.",
-      "link": "https://www.aljazeera.com/opinions/2026/9/23/how-and-why-the-un-general-assembly-is-gaining-prominence?traffic_source=rss",
-      "published": "2026-09-23T16:36:09+00:00",
+      "headline": "US aviation sanctions disrupt Iran flights, push travellers overland",
+      "excerpt": "Travel disruptions intensify as Iranian airlines lose access to airspace, pushing civilians towards costly land routes.",
+      "link": "https://www.aljazeera.com/news/2026/9/23/us-aviation-sanctions-disrupt-iran-flights-push-travellers-overland?traffic_source=rss",
+      "published": "2026-09-23T21:05:36+00:00",
+      "featured": false
+    },
+    {
+      "id": "39964eedcc5a",
+      "source": "Dropsite News",
+      "headline": "As Damascus Hangs Back, Syrians Have Been Left to Fend Off Israeli Occupation on Their Own",
+      "excerpt": "The resistance in southwestern Syria to occupying Israeli troops is localized and spontaneous, but fierce. And the government in Damascus has done little to help them on the ground.",
+      "link": "https://www.dropsitenews.com/p/syria-golan-israeli-occupation-resistance-damascus",
+      "published": "2026-09-23T18:12:32+00:00",
       "featured": false
     },
     {
@@ -128,21 +137,12 @@
       "featured": false
     },
     {
-      "id": "32ce8c561900",
-      "source": "Dropsite News",
-      "headline": "Inside the Armed Incursion From Florida Intended to Topple Cuba’s Government",
-      "excerpt": "What happened in the violent clash that left five dead off the coast of Cuba last February?",
-      "link": "https://www.dropsitenews.com/p/inside-the-armed-incursion-from-florida",
-      "published": "2026-09-23T11:01:59+00:00",
-      "featured": false
-    },
-    {
-      "id": "44fa09bfcee2",
+      "id": "508dda1d9bba",
       "source": "OCCRP",
-      "headline": "EPPO Arrests Suspect in $79M Cross-Border VAT Fraud Probe",
+      "headline": "Azerbaijan Pardons French Citizen as EU Lifts Sanctions on Russian Billionaire",
       "excerpt": "",
-      "link": "https://www.occrp.org/en/news/eppo-arrests-suspect-in-79m-cross-border-vat-fraud-probe",
-      "published": "2026-09-23T10:17:00+00:00",
+      "link": "https://www.occrp.org/en/news/azerbaijan-pardons-french-citizen-as-eu-lifts-sanctions-on-russian-billionaire",
+      "published": "2026-09-23T13:00:00+00:00",
       "featured": false
     },
     {
@@ -155,12 +155,21 @@
       "featured": false
     },
     {
-      "id": "9a0b76966af4",
+      "id": "83d528f780dd",
       "source": "The Lever",
-      "headline": "The Fine Print In Democrats’ Hollywood Merger Surrender",
-      "excerpt": "Democrats promised to play hardball, then accepted loophole-ridden pledges leaving Paramount’s $111 billion megamerger intact.",
-      "link": "https://www.levernews.com/the-fine-print-in-democrats-hollywood-merger-surrender/",
-      "published": "2026-09-22T18:21:01+00:00",
+      "headline": "AI Lending Is Risky Lending",
+      "excerpt": "Banks that adopt artificial intelligence average more “problem” loans and less small business lending.",
+      "link": "https://www.levernews.com/ai-lending-is-risky-lending/",
+      "published": "2026-09-22T18:36:48+00:00",
+      "featured": false
+    },
+    {
+      "id": "b57f918aa7af",
+      "source": "ICIJ",
+      "headline": "ICIJ journalist Micah Reddy freed after 4 days in secretive Djibouti custody",
+      "excerpt": "Reddy and local guide Mohamed Willo Ismael (“Kooki Mahmoud”) went missing Sept. 19 in Djibouti City.",
+      "link": "https://www.icij.org/news/2026/09/icij-journalist-micah-reddy-freed-after-4-days-in-secretive-djibouti-custody/",
+      "published": "2026-09-22T13:40:10+00:00",
       "featured": false
     },
     {
@@ -179,15 +188,6 @@
       "excerpt": "The post The FBI Anti-Corruption Squad Was Circling Susan Collins — Until Trump Got in the Way appeared first on ProPublica.",
       "link": "https://www.propublica.org/article/fbi-susan-collins-navatek-campaign-donations-investigation",
       "published": "2026-09-22T09:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "f559e3b4c515",
-      "source": "ICIJ",
-      "headline": "Trump administration gave firm with ties to ballroom donor the green light to do business with a sanctioned Russian bank",
-      "excerpt": "Private equity investor Konstantin Sokolov was also appointed to run a government enterprise fund.",
-      "link": "https://www.icij.org/news/2026/09/trump-administration-gave-firm-with-ties-to-ballroom-donor-the-green-light-to-do-business-with-a-sanctioned-russian-bank/",
-      "published": "2026-09-21T16:56:02+00:00",
       "featured": false
     },
     {
@@ -218,12 +218,21 @@
       "featured": false
     },
     {
-      "id": "121906735c52",
+      "id": "cce9e6d11ace",
       "source": "Al Jazeera",
-      "headline": "US envoy walks out on Pezeshkian UN speech slamming war on Iran",
-      "excerpt": "As Iran’s president began his speech at the UN General Assembly, an official from the US delegation walked out.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/23/us-envoy-walks-out-on-pezeshkian-un-speech-slamming-war-on-iran?traffic_source=rss",
-      "published": "2026-09-23T16:34:47+00:00",
+      "headline": "Gaza flotilla activist on hunger strike in Tunisia jail ‘on verge of death’",
+      "excerpt": "Wael Naouar has been hospitalised as his hunger strike enters its 39th day, the Gaza Sumud Flotilla says.",
+      "link": "https://www.aljazeera.com/news/2026/9/23/gaza-flotilla-activist-on-hunger-strike-in-tunisia-jail-on-verge-of-death?traffic_source=rss",
+      "published": "2026-09-23T20:56:15+00:00",
+      "featured": false
+    },
+    {
+      "id": "b638cff44ca7",
+      "source": "Dropsite News",
+      "headline": "Trump threatens to “annihilate” Iran, Tehran calls it “strategic desperation”; Greenland signs deal expanding U.S. presence",
+      "excerpt": "Drop Site Daily: September 23, 2026",
+      "link": "https://www.dropsitenews.com/p/trump-us-iran-unga-greenland-deal",
+      "published": "2026-09-23T14:53:40+00:00",
       "featured": false
     },
     {
@@ -236,12 +245,12 @@
       "featured": false
     },
     {
-      "id": "d511cf25e7a3",
+      "id": "44fa09bfcee2",
       "source": "OCCRP",
-      "headline": "Human Trafficking Raid Exposes Suspected Cyber Scam Operation in Papua New Guinea",
-      "excerpt": "The discovery of 39 suspected trafficked workers in a Port Moresby home highlights warnings that global cybercrime syndicates are expanding.",
-      "link": "https://www.occrp.org/en/news/human-trafficking-raid-exposes-suspected-cyber-scam-operation-in-papua-new-guinea",
-      "published": "2026-09-23T09:50:00+00:00",
+      "headline": "EPPO Arrests Suspect in $79M Cross-Border VAT Fraud Probe",
+      "excerpt": "",
+      "link": "https://www.occrp.org/en/news/eppo-arrests-suspect-in-79m-cross-border-vat-fraud-probe",
+      "published": "2026-09-23T10:17:00+00:00",
       "featured": false
     },
     {
@@ -254,21 +263,21 @@
       "featured": false
     },
     {
-      "id": "58bd76476700",
-      "source": "Dropsite News",
-      "headline": "D.C. co-opts Troy Jackson campaign; Fierce clashes in Yemen as Saudi reopens pipeline; Paramount clears path for Warner Bros merger",
-      "excerpt": "Drop Site Daily: September 22, 2026",
-      "link": "https://www.dropsitenews.com/p/troy-jackson-maine-yemen-ansarallah-saudi-pipeline-paramount-warner-bros-merger",
-      "published": "2026-09-22T15:01:57+00:00",
+      "id": "9a0b76966af4",
+      "source": "The Lever",
+      "headline": "The Fine Print In Democrats’ Hollywood Merger Surrender",
+      "excerpt": "Democrats promised to play hardball, then accepted loophole-ridden pledges leaving Paramount’s $111 billion megamerger intact.",
+      "link": "https://www.levernews.com/the-fine-print-in-democrats-hollywood-merger-surrender/",
+      "published": "2026-09-22T18:21:01+00:00",
       "featured": false
     },
     {
-      "id": "d3d004b5cb3e",
-      "source": "The Lever",
-      "headline": "What AOC And Ro Khanna Would Do With Trump’s Power",
-      "excerpt": "Should the next Democratic president rein in Trump’s expanded powers — or use them?",
-      "link": "https://www.levernews.com/what-aoc-and-ro-khanna-would-do-with-trumps-power/",
-      "published": "2026-09-22T11:00:11+00:00",
+      "id": "f559e3b4c515",
+      "source": "ICIJ",
+      "headline": "Trump administration gave firm with ties to ballroom donor the green light to do business with a sanctioned Russian bank",
+      "excerpt": "Private equity investor Konstantin Sokolov was also appointed to run a government enterprise fund.",
+      "link": "https://www.icij.org/news/2026/09/trump-administration-gave-firm-with-ties-to-ballroom-donor-the-green-light-to-do-business-with-a-sanctioned-russian-bank/",
+      "published": "2026-09-21T16:56:02+00:00",
       "featured": false
     },
     {
@@ -287,15 +296,6 @@
       "excerpt": "The post Watch: The New Supreme Court appeared first on ProPublica.",
       "link": "https://www.propublica.org/article/supreme-court-shadow-docket-explainer",
       "published": "2026-09-21T09:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "599156babea6",
-      "source": "ICIJ",
-      "headline": "Statement on missing ICIJ journalist Micah Reddy",
-      "excerpt": "ICIJ lost contact with our colleague Micah Reddy, ICIJ's Africa coordinator, and local journalist Mohamed Willo Ismael (\"Kooki Mahmoud\"), in Djibouti City on Saturday, Sept. 19.",
-      "link": "https://www.icij.org/news/2026/09/statement-on-missing-icij-journalist-micah-reddy/",
-      "published": "2026-09-20T16:17:49+00:00",
       "featured": false
     },
     {
@@ -326,21 +326,30 @@
       "featured": false
     },
     {
-      "id": "b056aef66da2",
+      "id": "3ef405893015",
       "source": "Al Jazeera",
-      "headline": "Scientists warn super El Nino could cause 450,000 deaths: Should we worry?",
-      "excerpt": "Global South countries will be worst affected by the phenomenon sweeping the planet from June to February.",
-      "link": "https://www.aljazeera.com/features/2026/9/23/scientists-warn-super-el-nino-could-cause-450000-deaths-should-we-worry?traffic_source=rss",
-      "published": "2026-09-23T16:29:55+00:00",
+      "headline": "Ethiopia warns of ‘destruction’ as Tigray rebels launch offensive",
+      "excerpt": "Ethiopian President Taye Atske Selassie warned of “forces of destruction” as Tigray rebels launched an offensive.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/23/ethiopia-warns-of-destruction-as-tigray-rebels-launch-offensive?traffic_source=rss",
+      "published": "2026-09-23T20:37:18+00:00",
       "featured": false
     },
     {
-      "id": "57953414fc59",
+      "id": "32ce8c561900",
+      "source": "Dropsite News",
+      "headline": "Inside the Armed Incursion From Florida Intended to Topple Cuba’s Government",
+      "excerpt": "What happened in the violent clash that left five dead off the coast of Cuba last February?",
+      "link": "https://www.dropsitenews.com/p/inside-the-armed-incursion-from-florida",
+      "published": "2026-09-23T11:01:59+00:00",
+      "featured": false
+    },
+    {
+      "id": "d511cf25e7a3",
       "source": "OCCRP",
-      "headline": "Former Mother-In-Law of Dismissed Ukraine Prosecutor General Denies Buying Dubai Villa",
-      "excerpt": "The former mother-in-law of recently dismissed Ukrainian Prosecutor General Ruslan Kravchenko owned a Dubai villa while he was an official at a different government body, according to leaked property data. She denies...",
-      "link": "https://www.occrp.org/en/news/former-mother-in-law-of-dismissed-ukraine-prosecutor-general-denies-buying-dubai-villa",
-      "published": "2026-09-23T07:00:00+00:00",
+      "headline": "Human Trafficking Raid Exposes Suspected Cyber Scam Operation in Papua New Guinea",
+      "excerpt": "The discovery of 39 suspected trafficked workers in a Port Moresby home highlights warnings that global cybercrime syndicates are expanding.",
+      "link": "https://www.occrp.org/en/news/human-trafficking-raid-exposes-suspected-cyber-scam-operation-in-papua-new-guinea",
+      "published": "2026-09-23T09:50:00+00:00",
       "featured": false
     },
     {
@@ -362,21 +371,21 @@
       "featured": false
     },
     {
-      "id": "1c6369b3fe20",
-      "source": "Dropsite News",
-      "headline": "Israel Is Expanding and Upgrading Compounds for Palestinian Militias in Gaza",
-      "excerpt": "At least five Israeli-backed Palestinian militias are operating out of compounds close to Israeli military bases across the Gaza Strip in areas east of the yellow line.",
-      "link": "https://www.dropsitenews.com/p/israel-gaza-palestinian-militias-compounds-yellow-line-bases",
-      "published": "2026-09-21T20:26:59+00:00",
+      "id": "d3d004b5cb3e",
+      "source": "The Lever",
+      "headline": "What AOC And Ro Khanna Would Do With Trump’s Power",
+      "excerpt": "Should the next Democratic president rein in Trump’s expanded powers — or use them?",
+      "link": "https://www.levernews.com/what-aoc-and-ro-khanna-would-do-with-trumps-power/",
+      "published": "2026-09-22T11:00:11+00:00",
       "featured": false
     },
     {
-      "id": "4b62e1b898f5",
-      "source": "The Lever",
-      "headline": "Big Crypto Buys Plan B",
-      "excerpt": "The Winklevoss twins gave another multimillion-dollar gift to MAGA Inc. before pushing the Trump administration to pursue cryptocurrency rules that Congress rejected.",
-      "link": "https://www.levernews.com/big-crypto-buys-plan-b/",
-      "published": "2026-09-21T17:11:52+00:00",
+      "id": "599156babea6",
+      "source": "ICIJ",
+      "headline": "Statement on missing ICIJ journalist Micah Reddy",
+      "excerpt": "ICIJ lost contact with our colleague Micah Reddy, ICIJ's Africa coordinator, and local journalist Mohamed Willo Ismael (\"Kooki Mahmoud\"), in Djibouti City on Saturday, Sept. 19.",
+      "link": "https://www.icij.org/news/2026/09/statement-on-missing-icij-journalist-micah-reddy/",
+      "published": "2026-09-20T16:17:49+00:00",
       "featured": false
     },
     {
@@ -386,15 +395,6 @@
       "excerpt": "The post “Our Dear Friend Umar”: How We Uncovered That a Russian Oligarch Bankrolled Donald Trump Jr.’s Wedding appeared first on ProPublica.",
       "link": "https://www.propublica.org/article/donald-trump-jr-wedding-umar-kremlev-reporting",
       "published": "2026-09-19T09:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "3883b76c2003",
-      "source": "ICIJ",
-      "headline": "‘Tinder Swindler’s’ plan for a dating app sparks industry backlash",
-      "excerpt": "The convicted fraudster says his new app would enable women to find love safely. The lead trade group for online dating disagrees.",
-      "link": "https://www.icij.org/news/2026/09/tinder-swindlers-plan-for-a-dating-app-sparks-industry-backlash/",
-      "published": "2026-09-18T19:34:24+00:00",
       "featured": false
     },
     {
@@ -434,21 +434,21 @@
       "featured": false
     },
     {
-      "id": "233371a60120",
+      "id": "9832f152a705",
       "source": "Al Jazeera",
-      "headline": "Yemeni government in military and diplomatic push to reverse Houthi gains",
-      "excerpt": "Government claims battlefield advances as diplomats attempt to put anti-Houthi fight at UN centre stage.",
-      "link": "https://www.aljazeera.com/news/2026/9/23/yemeni-government-in-military-and-diplomatic-push-to-reverse-houthi-gains?traffic_source=rss",
-      "published": "2026-09-23T16:21:18+00:00",
+      "headline": "Trump administration invites Putin to attend G20 summit in Miami",
+      "excerpt": "US Secretary of State Marco Rubio says summit would be opportunity for Russian president to engage with global leaders.",
+      "link": "https://www.aljazeera.com/news/2026/9/23/trump-administration-invites-putin-to-attend-g20-summit-in-miami?traffic_source=rss",
+      "published": "2026-09-23T20:23:31+00:00",
       "featured": false
     },
     {
-      "id": "27891a9f43ff",
+      "id": "57953414fc59",
       "source": "OCCRP",
-      "headline": "Albanian Court Orders House Arrest for Intelligence Chief",
-      "excerpt": "Prime Minister Edi Rama announced Vlora Hyseni’s immediate dismissal after prosecutors implicated her in a sweeping investigation involving manipulated public contracts and the alleged destruction of evidence.",
-      "link": "https://www.occrp.org/en/news/albanian-court-orders-house-arrest-for-intelligence-chief",
-      "published": "2026-09-22T17:04:00+00:00",
+      "headline": "Former Mother-In-Law of Dismissed Ukraine Prosecutor General Denies Buying Dubai Villa",
+      "excerpt": "The former mother-in-law of recently dismissed Ukrainian Prosecutor General Ruslan Kravchenko owned a Dubai villa while he was an official at a different government body, according to leaked property data. She denies...",
+      "link": "https://www.occrp.org/en/news/former-mother-in-law-of-dismissed-ukraine-prosecutor-general-denies-buying-dubai-villa",
+      "published": "2026-09-23T07:00:00+00:00",
       "featured": false
     },
     {
@@ -461,6 +461,15 @@
       "featured": false
     },
     {
+      "id": "58bd76476700",
+      "source": "Dropsite News",
+      "headline": "D.C. co-opts Troy Jackson campaign; Fierce clashes in Yemen as Saudi reopens pipeline; Paramount clears path for Warner Bros merger",
+      "excerpt": "Drop Site Daily: September 22, 2026",
+      "link": "https://www.dropsitenews.com/p/troy-jackson-maine-yemen-ansarallah-saudi-pipeline-paramount-warner-bros-merger",
+      "published": "2026-09-22T15:01:57+00:00",
+      "featured": false
+    },
+    {
       "id": "f5b52f032937",
       "source": "The Intercept",
       "headline": "Pink Supported Macklemore’s Firing. Now Activists Want UNICEF to Cut Ties With Her.",
@@ -470,30 +479,21 @@
       "featured": false
     },
     {
-      "id": "6aed7126063d",
-      "source": "Dropsite News",
-      "headline": "Trump Hiding the Real Death Toll; Why the Saudi Military Can’t Fight; and AI’s Role in Killing Minab Children: The War Brief",
-      "excerpt": "In this week’s episode of The War Brief Murtaza Hussain and Sarmad discuss the steady stream of leaks coming out of the War Department, the real number of deaths among U.S.",
-      "link": "https://www.dropsitenews.com/p/trump-hiding-the-real-death-toll",
-      "published": "2026-09-21T19:33:11+00:00",
-      "featured": false
-    },
-    {
-      "id": "d99fbc8e44ab",
+      "id": "4b62e1b898f5",
       "source": "The Lever",
-      "headline": "The Youth Hockey Giant That Can’t Quit Private Equity",
-      "excerpt": "After denying its Wall Street ties, Black Bear quietly installed a private equity executive as CEO.",
-      "link": "https://www.levernews.com/the-youth-hockey-giant-that-cant-quit-private-equity/",
-      "published": "2026-09-21T09:00:13+00:00",
+      "headline": "Big Crypto Buys Plan B",
+      "excerpt": "The Winklevoss twins gave another multimillion-dollar gift to MAGA Inc. before pushing the Trump administration to pursue cryptocurrency rules that Congress rejected.",
+      "link": "https://www.levernews.com/big-crypto-buys-plan-b/",
+      "published": "2026-09-21T17:11:52+00:00",
       "featured": false
     },
     {
-      "id": "719ecc1d078e",
+      "id": "3883b76c2003",
       "source": "ICIJ",
-      "headline": "US prosecutors accuse Huawei of ‘far-reaching criminal scheme’ spanning decades",
-      "excerpt": "The Chinese tech giant is on trial in New York for allegedly violating U.S. sanctions on Iran and stealing trade secrets as it built its global telecommunications empire.",
-      "link": "https://www.icij.org/investigations/china-capital/us-prosecutors-accuse-huawei-of-far-reaching-criminal-scheme-spanning-decades/",
-      "published": "2026-09-18T17:28:45+00:00",
+      "headline": "‘Tinder Swindler’s’ plan for a dating app sparks industry backlash",
+      "excerpt": "The convicted fraudster says his new app would enable women to find love safely. The lead trade group for online dating disagrees.",
+      "link": "https://www.icij.org/news/2026/09/tinder-swindlers-plan-for-a-dating-app-sparks-industry-backlash/",
+      "published": "2026-09-18T19:34:24+00:00",
       "featured": false
     },
     {
@@ -533,12 +533,12 @@
       "featured": false
     },
     {
-      "id": "e0f779e4f249",
+      "id": "dbbf3fd2bf04",
       "source": "Al Jazeera",
-      "headline": "Argentina to UN: Falkland Islands are a ‘national cause’",
-      "excerpt": "Argentina’s President Javier Milei says the “principle of self-determination does not apply\" to the Falkland Islands.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/23/argentina-to-un-falkland-islands-are-a-national?traffic_source=rss",
-      "published": "2026-09-23T16:12:48+00:00",
+      "headline": "Harvey Weinstein sentenced to 15 years in New York sexual assault retrial",
+      "excerpt": "The ruling seals six years of legal battles after Weinstein’s initial conviction for sexually assaulting TV assistant.",
+      "link": "https://www.aljazeera.com/news/2026/9/23/harvey-weinstein-sentenced-to-15-years-in-sexual-assault-retrial?traffic_source=rss",
+      "published": "2026-09-23T19:58:00+00:00",
       "featured": false
     }
   ]
