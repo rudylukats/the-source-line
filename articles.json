@@ -1,14 +1,41 @@
 {
-  "generated_at": "2026-09-23T21:30:54.114394+00:00",
+  "generated_at": "2026-09-24T04:52:44.386527+00:00",
   "articles": [
     {
-      "id": "644dcd10f771",
-      "source": "Al Jazeera",
-      "headline": "FBI says investigating breach of ‘very sensitive’ data by hackers",
-      "excerpt": "Hacker group ShinyHunters claims to have detailed data on thousands of FBI employees.",
-      "link": "https://www.aljazeera.com/news/2026/9/23/fbi-says-investigating-breach-of-very-sensitive-data-by-hackers?traffic_source=rss",
-      "published": "2026-09-23T21:18:22+00:00",
+      "id": "7926856eedf6",
+      "source": "The Intercept",
+      "headline": "Lifestyles of the Rich & Famous War Profiteers",
+      "excerpt": "The mockumentary “Lords of War” shows how Pentagon money gets funneled into $20-million-plus paydays for weapons company CEOs — and their lavish lifestyles. The post Lifestyles of the Rich & Famous War Profiteers...",
+      "link": "https://theintercept.com/2026/09/24/war-weapons-profits-lockheed-rtx-ceos/",
+      "published": "2026-09-24T04:05:00+00:00",
       "featured": true
+    },
+    {
+      "id": "4ff7f03fc60b",
+      "source": "Al Jazeera",
+      "headline": "‘They uprooted it all’: Israel bulldozes Palestinian-owned olive groves",
+      "excerpt": "Israeli bulldozers uprooted olive groves near Ramallah in the occupied West Bank weeks before the annual harvest.",
+      "link": "https://www.aljazeera.com/news/2026/9/24/they-uprooted-it-all-israel-bulldozes-palestinian-owned-olive-groves?traffic_source=rss",
+      "published": "2026-09-24T03:32:28+00:00",
+      "featured": true
+    },
+    {
+      "id": "b187f9d93998",
+      "source": "ProPublica",
+      "headline": "Susan Collins Dismissed Our Reporting as Old News. Some of Her Claims Aren’t True.",
+      "excerpt": "The post Susan Collins Dismissed Our Reporting as Old News. Some of Her Claims Aren’t True. appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/debunking-susan-collins-fbi-navatek-investigation-claims",
+      "published": "2026-09-23T22:34:10+00:00",
+      "featured": true
+    },
+    {
+      "id": "b30a76f95b98",
+      "source": "404 Media",
+      "headline": "FBI Hack Exposed FBI’s Own Hacking Unit",
+      "excerpt": "The FBI's Remote Operations Unit (ROU) is a highly secretive team of hackers making exploits and tools to break into target’s devices. Some of its members just got exposed.",
+      "link": "https://www.404media.co/fbi-hack-exposed-fbis-own-hacking-unit-remote-operations-shinyhunters/",
+      "published": "2026-09-23T22:15:10+00:00",
+      "featured": false
     },
     {
       "id": "c40c0f446aff",
@@ -17,7 +44,7 @@
       "excerpt": "Defense lawyers argued in a Virginia courtroom that Sebastián Marset \"studiously avoided\" the United States, asking a federal judge to dismiss narco-terrorism and money laundering charges on the grounds that his alleged...",
       "link": "https://www.occrp.org/en/news/federal-judge-weighs-limits-of-us-reach-in-trial-of-accused-kingpin-sebastian-marset",
       "published": "2026-09-23T20:28:00+00:00",
-      "featured": true
+      "featured": false
     },
     {
       "id": "781bc55ce19c",
@@ -26,7 +53,7 @@
       "excerpt": "Fernando Cerimedo, the far-right political operative jailed on murder charges in Bolivia, played a key role in President Rodrigo Paz’s government.",
       "link": "https://www.dropsitenews.com/p/fernando-cerimedo-rodrigo-paz-trump-rubio",
       "published": "2026-09-23T19:53:01+00:00",
-      "featured": true
+      "featured": false
     },
     {
       "id": "19c67877e1fa",
@@ -44,24 +71,6 @@
       "excerpt": "An industry super PAC is declaring war on a purple-state Democrat for the second time in two years.",
       "link": "https://www.levernews.com/midterm-madness-big-cryptos-double-tap/",
       "published": "2026-09-23T17:23:30+00:00",
-      "featured": false
-    },
-    {
-      "id": "977e1d2cb197",
-      "source": "The Intercept",
-      "headline": "DoorDash Spent $1.4 Million Trying to Stop Mamdani From Becoming Mayor. Now We Know Why.",
-      "excerpt": "In a wage-theft settlement, DoorDash now has to pay its workers around 100 times what it spent trying to beat Zohran Mamdani. The post DoorDash Spent $1.4 Million Trying to Stop Mamdani From Becoming Mayor. Now We Know...",
-      "link": "https://theintercept.com/2026/09/23/doordash-delivery-nyc-mamdani-wage-theft-settlement/",
-      "published": "2026-09-23T16:52:09+00:00",
-      "featured": false
-    },
-    {
-      "id": "7b3eeabc8b47",
-      "source": "404 Media",
-      "headline": "An Invisible Force Has a Mysterious Effect on Aging, Scientists Discover in 'Startling' Breakthrough",
-      "excerpt": "Scientists discovered that diseased fruit flies lived longer when they were removed from Earth’s magnetic field, while healthy flies had shorter lifespans, in a first-of-its kind experiment with surprising results.",
-      "link": "https://www.404media.co/earth-magnetic-field-effects-on-aging-study/",
-      "published": "2026-09-23T16:39:52+00:00",
       "featured": false
     },
     {
@@ -83,15 +92,6 @@
       "featured": false
     },
     {
-      "id": "c0e755fbf82d",
-      "source": "ProPublica",
-      "headline": "The Federal Agency That’s Supposed to Protect Consumers Just Made Another Business-Friendly Move",
-      "excerpt": "The post The Federal Agency That’s Supposed to Protect Consumers Just Made Another Business-Friendly Move appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/cfpb-consumer-complaint-database",
-      "published": "2026-09-23T09:00:00+00:00",
-      "featured": false
-    },
-    {
       "id": "a0cba93ccbc5",
       "source": "Bellingcat",
       "headline": "Christy Kinahan’s UAE Residence Visa Cancelled",
@@ -110,12 +110,21 @@
       "featured": false
     },
     {
-      "id": "c7b8bbdf28be",
+      "id": "2983a16694f5",
       "source": "Al Jazeera",
-      "headline": "US aviation sanctions disrupt Iran flights, push travellers overland",
-      "excerpt": "Travel disruptions intensify as Iranian airlines lose access to airspace, pushing civilians towards costly land routes.",
-      "link": "https://www.aljazeera.com/news/2026/9/23/us-aviation-sanctions-disrupt-iran-flights-push-travellers-overland?traffic_source=rss",
-      "published": "2026-09-23T21:05:36+00:00",
+      "headline": "Spain’s Sanchez warns of far-right threat in UNGA speech",
+      "excerpt": "Spanish PM Pedro Sanchez has warned of the growing power of ‘selfish, ignorant and cruel’ forces undermining humanity.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/24/aje-onl-nf_spains-sanchez-warns-of-far-right-in-unga-speech-230926?traffic_source=rss",
+      "published": "2026-09-24T03:30:58+00:00",
+      "featured": false
+    },
+    {
+      "id": "50000bdc7f00",
+      "source": "The Intercept",
+      "headline": "The Ellisons Could Make a Killing in Big Surveillance With the Paramount Merger",
+      "excerpt": "With the Paramount–Warner Bros. merger set to proceed, the Ellisons can stoke Americans’ fears — and sell the government its solution. The post The Ellisons Could Make a Killing in Big Surveillance With the Paramount...",
+      "link": "https://theintercept.com/2026/09/23/paramount-warner-bros-merger-ellisons-surveillance/",
+      "published": "2026-09-23T21:34:27+00:00",
       "featured": false
     },
     {
@@ -128,12 +137,12 @@
       "featured": false
     },
     {
-      "id": "ab937bb74556",
+      "id": "7b3eeabc8b47",
       "source": "404 Media",
-      "headline": "Woman Arrested, Dragged Away After Quietly Speaking About Flock at City Council Meeting",
-      "excerpt": "Citizens of Springfield, Missouri showed up to a city council meeting to discuss the city’s Flock contract. The mayor shut them down and arrested two people for ‘disruption of meetings of city council.’",
-      "link": "https://www.404media.co/woman-arrested-after-city-council-denies-residents-right-to-speak-on-flock-cameras/",
-      "published": "2026-09-23T14:25:34+00:00",
+      "headline": "An Invisible Force Has a Mysterious Effect on Aging, Scientists Discover in 'Startling' Breakthrough",
+      "excerpt": "Scientists discovered that diseased fruit flies lived longer when they were removed from Earth’s magnetic field, while healthy flies had shorter lifespans, in a first-of-its kind experiment with surprising results.",
+      "link": "https://www.404media.co/earth-magnetic-field-effects-on-aging-study/",
+      "published": "2026-09-23T16:39:52+00:00",
       "featured": false
     },
     {
@@ -146,12 +155,12 @@
       "featured": false
     },
     {
-      "id": "00e779044efc",
-      "source": "The Intercept",
-      "headline": "Another U.S. Soldier Is Dead as Iran War Casualties Rise",
-      "excerpt": "An additional 66 U.S. personnel were wounded in action this month, pushing the official count of Iran war casualties above 850. The post Another U.S. Soldier Is Dead as Iran War Casualties Rise appeared first on The...",
-      "link": "https://theintercept.com/2026/09/22/iran-war-military-casualties/",
-      "published": "2026-09-22T20:53:32+00:00",
+      "id": "c0e755fbf82d",
+      "source": "ProPublica",
+      "headline": "The Federal Agency That’s Supposed to Protect Consumers Just Made Another Business-Friendly Move",
+      "excerpt": "The post The Federal Agency That’s Supposed to Protect Consumers Just Made Another Business-Friendly Move appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/cfpb-consumer-complaint-database",
+      "published": "2026-09-23T09:00:00+00:00",
       "featured": false
     },
     {
@@ -182,15 +191,6 @@
       "featured": false
     },
     {
-      "id": "50f2a9fcdaff",
-      "source": "ProPublica",
-      "headline": "The FBI Anti-Corruption Squad Was Circling Susan Collins — Until Trump Got in the Way",
-      "excerpt": "The post The FBI Anti-Corruption Squad Was Circling Susan Collins — Until Trump Got in the Way appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/fbi-susan-collins-navatek-campaign-donations-investigation",
-      "published": "2026-09-22T09:00:00+00:00",
-      "featured": false
-    },
-    {
       "id": "7972d0fe182d",
       "source": "More Perfect Union",
       "headline": "We Cooked With A Former McDonald's Chef. What He Showed Us Was Shocking.",
@@ -218,12 +218,21 @@
       "featured": false
     },
     {
-      "id": "cce9e6d11ace",
+      "id": "47d9c106c3b9",
       "source": "Al Jazeera",
-      "headline": "Gaza flotilla activist on hunger strike in Tunisia jail ‘on verge of death’",
-      "excerpt": "Wael Naouar has been hospitalised as his hunger strike enters its 39th day, the Gaza Sumud Flotilla says.",
-      "link": "https://www.aljazeera.com/news/2026/9/23/gaza-flotilla-activist-on-hunger-strike-in-tunisia-jail-on-verge-of-death?traffic_source=rss",
-      "published": "2026-09-23T20:56:15+00:00",
+      "headline": "Australia says OpenAI agent hacked Medicare portal",
+      "excerpt": "Canberra expressed extreme concern to Sam Altman after OpenAI took three months to report the breach.",
+      "link": "https://www.aljazeera.com/news/2026/9/24/australia-says-openai-agent-hacked-medicare-portal?traffic_source=rss",
+      "published": "2026-09-24T02:34:58+00:00",
+      "featured": false
+    },
+    {
+      "id": "977e1d2cb197",
+      "source": "The Intercept",
+      "headline": "DoorDash Spent $1.4 Million Trying to Stop Mamdani From Becoming Mayor. Now We Know Why.",
+      "excerpt": "In a wage-theft settlement, DoorDash now has to pay its workers around 100 times what it spent trying to beat Zohran Mamdani. The post DoorDash Spent $1.4 Million Trying to Stop Mamdani From Becoming Mayor. Now We Know...",
+      "link": "https://theintercept.com/2026/09/23/doordash-delivery-nyc-mamdani-wage-theft-settlement/",
+      "published": "2026-09-23T16:52:09+00:00",
       "featured": false
     },
     {
@@ -236,12 +245,12 @@
       "featured": false
     },
     {
-      "id": "7d8df367fd5f",
+      "id": "ab937bb74556",
       "source": "404 Media",
-      "headline": "Americans Fear AI Will Make the World Worse, Love It Anyway",
-      "excerpt": "Wealthy countries with many daily AI users tended to fear more for the future in what Gallup called the 'Paradox of the Worried West.'",
-      "link": "https://www.404media.co/americans-love-to-use-ai-but-fear-it-will-make-the-world-worse-according-to-new-study/",
-      "published": "2026-09-23T11:13:53+00:00",
+      "headline": "Woman Arrested, Dragged Away After Quietly Speaking About Flock at City Council Meeting",
+      "excerpt": "Citizens of Springfield, Missouri showed up to a city council meeting to discuss the city’s Flock contract. The mayor shut them down and arrested two people for ‘disruption of meetings of city council.’",
+      "link": "https://www.404media.co/woman-arrested-after-city-council-denies-residents-right-to-speak-on-flock-cameras/",
+      "published": "2026-09-23T14:25:34+00:00",
       "featured": false
     },
     {
@@ -254,21 +263,21 @@
       "featured": false
     },
     {
-      "id": "e685a8d1897b",
-      "source": "The Intercept",
-      "headline": "How a Small Kansas City Became a Critical Hub for Trump’s Deportation Regime Against Its Will",
-      "excerpt": "Leavenworth fought ICE’s reopening of a CoreCivic-run prison to detain immigrants through every available avenue. It still wasn’t enough. The post How a Small Kansas City Became a Critical Hub for Trump’s Deportation...",
-      "link": "https://theintercept.com/2026/09/22/leavenworth-kansas-corecivic-ice-mass-detention-deportation/",
-      "published": "2026-09-22T18:21:20+00:00",
-      "featured": false
-    },
-    {
       "id": "9a0b76966af4",
       "source": "The Lever",
       "headline": "The Fine Print In Democrats’ Hollywood Merger Surrender",
       "excerpt": "Democrats promised to play hardball, then accepted loophole-ridden pledges leaving Paramount’s $111 billion megamerger intact.",
       "link": "https://www.levernews.com/the-fine-print-in-democrats-hollywood-merger-surrender/",
       "published": "2026-09-22T18:21:01+00:00",
+      "featured": false
+    },
+    {
+      "id": "50f2a9fcdaff",
+      "source": "ProPublica",
+      "headline": "The FBI Anti-Corruption Squad Was Circling Susan Collins — Until Trump Got in the Way",
+      "excerpt": "The post The FBI Anti-Corruption Squad Was Circling Susan Collins — Until Trump Got in the Way appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/fbi-susan-collins-navatek-campaign-donations-investigation",
+      "published": "2026-09-22T09:00:00+00:00",
       "featured": false
     },
     {
@@ -287,15 +296,6 @@
       "excerpt": "The Emirates owns the machines but rents the intelligence. Nvidia’s next free AI model could change that.",
       "link": "https://restofworld.org/2026/nvidia-open-source-ai-models-uae/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "published": "2026-09-21T10:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "378484e30fa4",
-      "source": "ProPublica",
-      "headline": "Watch: The New Supreme Court",
-      "excerpt": "The post Watch: The New Supreme Court appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/supreme-court-shadow-docket-explainer",
-      "published": "2026-09-21T09:00:00+00:00",
       "featured": false
     },
     {
@@ -326,12 +326,21 @@
       "featured": false
     },
     {
-      "id": "3ef405893015",
+      "id": "3bc11747ff8c",
       "source": "Al Jazeera",
-      "headline": "Ethiopia warns of ‘destruction’ as Tigray rebels launch offensive",
-      "excerpt": "Ethiopian President Taye Atske Selassie warned of “forces of destruction” as Tigray rebels launched an offensive.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/23/ethiopia-warns-of-destruction-as-tigray-rebels-launch-offensive?traffic_source=rss",
-      "published": "2026-09-23T20:37:18+00:00",
+      "headline": "Venezuela’s Rodriguez pledges elections, path forward in UNGA speech",
+      "excerpt": "Venezuela’s Interim President Delcy Rodriguez says her country must abandon the ‘extremism’ of the past.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/24/venezuelas-rodriguez-pledges-elections-path-forward-in-unga-speech?traffic_source=rss",
+      "published": "2026-09-24T02:23:06+00:00",
+      "featured": false
+    },
+    {
+      "id": "7d8df367fd5f",
+      "source": "404 Media",
+      "headline": "Americans Fear AI Will Make the World Worse, Love It Anyway",
+      "excerpt": "Wealthy countries with many daily AI users tended to fear more for the future in what Gallup called the 'Paradox of the Worried West.'",
+      "link": "https://www.404media.co/americans-love-to-use-ai-but-fear-it-will-make-the-world-worse-according-to-new-study/",
+      "published": "2026-09-23T11:13:53+00:00",
       "featured": false
     },
     {
@@ -353,21 +362,12 @@
       "featured": false
     },
     {
-      "id": "b3a229745acf",
-      "source": "404 Media",
-      "headline": "‘We Hacked the FBI:’ Hackers Say They Have Data on All FBI Employees",
-      "excerpt": "A sample of 5,000 alleged agents seen by 404 Media includes names, addresses, phone numbers, and details on FBI employees' spouses.",
-      "link": "https://www.404media.co/we-hacked-the-fbi-hackers-say-they-have-data-on-all-fbi-employees/",
-      "published": "2026-09-22T16:48:53+00:00",
-      "featured": false
-    },
-    {
-      "id": "8aa366192030",
+      "id": "00e779044efc",
       "source": "The Intercept",
-      "headline": "They Trained to Protect Immigrants From ICE. Now They’re Prepping to Defend the Midterm Elections.",
-      "excerpt": "ICE-watchers-turned-poll-watchers are preparing for the worst, as the Trump administration hints at potential strategies to disrupt the midterm elections. The post They Trained to Protect Immigrants From ICE. Now...",
-      "link": "https://theintercept.com/2026/09/22/ice-voting-midterm-election-polling-sites/",
-      "published": "2026-09-22T16:00:44+00:00",
+      "headline": "Another U.S. Soldier Is Dead as Iran War Casualties Rise",
+      "excerpt": "An additional 66 U.S. personnel were wounded in action this month, pushing the official count of Iran war casualties above 850. The post Another U.S. Soldier Is Dead as Iran War Casualties Rise appeared first on The...",
+      "link": "https://theintercept.com/2026/09/22/iran-war-military-casualties/",
+      "published": "2026-09-22T20:53:32+00:00",
       "featured": false
     },
     {
@@ -380,21 +380,21 @@
       "featured": false
     },
     {
+      "id": "378484e30fa4",
+      "source": "ProPublica",
+      "headline": "Watch: The New Supreme Court",
+      "excerpt": "The post Watch: The New Supreme Court appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/supreme-court-shadow-docket-explainer",
+      "published": "2026-09-21T09:00:00+00:00",
+      "featured": false
+    },
+    {
       "id": "599156babea6",
       "source": "ICIJ",
       "headline": "Statement on missing ICIJ journalist Micah Reddy",
       "excerpt": "ICIJ lost contact with our colleague Micah Reddy, ICIJ's Africa coordinator, and local journalist Mohamed Willo Ismael (\"Kooki Mahmoud\"), in Djibouti City on Saturday, Sept. 19.",
       "link": "https://www.icij.org/news/2026/09/statement-on-missing-icij-journalist-micah-reddy/",
       "published": "2026-09-20T16:17:49+00:00",
-      "featured": false
-    },
-    {
-      "id": "8e3f1da1aeca",
-      "source": "ProPublica",
-      "headline": "“Our Dear Friend Umar”: How We Uncovered That a Russian Oligarch Bankrolled Donald Trump Jr.’s Wedding",
-      "excerpt": "The post “Our Dear Friend Umar”: How We Uncovered That a Russian Oligarch Bankrolled Donald Trump Jr.’s Wedding appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/donald-trump-jr-wedding-umar-kremlev-reporting",
-      "published": "2026-09-19T09:00:00+00:00",
       "featured": false
     },
     {
@@ -434,12 +434,12 @@
       "featured": false
     },
     {
-      "id": "9832f152a705",
+      "id": "41f6b37d10e3",
       "source": "Al Jazeera",
-      "headline": "Trump administration invites Putin to attend G20 summit in Miami",
-      "excerpt": "US Secretary of State Marco Rubio says summit would be opportunity for Russian president to engage with global leaders.",
-      "link": "https://www.aljazeera.com/news/2026/9/23/trump-administration-invites-putin-to-attend-g20-summit-in-miami?traffic_source=rss",
-      "published": "2026-09-23T20:23:31+00:00",
+      "headline": "Iran’s president brings receipts of US strikes on civilians to the UNGA",
+      "excerpt": "Iran’s president delivered his UN General Assembly address after US President Trump threatened to ‘annihilate’ Iran.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/24/aje-onl-nf_iran-president-pushes-back-against-trump-at-unga-230926?traffic_source=rss",
+      "published": "2026-09-24T02:17:36+00:00",
       "featured": false
     },
     {
@@ -452,12 +452,21 @@
       "featured": false
     },
     {
-      "id": "aed259d0a798",
+      "id": "e685a8d1897b",
+      "source": "The Intercept",
+      "headline": "How a Small Kansas City Became a Critical Hub for Trump’s Deportation Regime Against Its Will",
+      "excerpt": "Leavenworth fought ICE’s reopening of a CoreCivic-run prison to detain immigrants through every available avenue. It still wasn’t enough. The post How a Small Kansas City Became a Critical Hub for Trump’s Deportation...",
+      "link": "https://theintercept.com/2026/09/22/leavenworth-kansas-corecivic-ice-mass-detention-deportation/",
+      "published": "2026-09-22T18:21:20+00:00",
+      "featured": false
+    },
+    {
+      "id": "b3a229745acf",
       "source": "404 Media",
-      "headline": "Meta Tests Muse AI Agent Calls That Are Actually Made By Humans in a Call Center",
-      "excerpt": "\"This has potential for so much negative PR. It could portray us as ‘their AI is not good enough so they still need humans’ kind of coverage for this launch.\"",
-      "link": "https://www.404media.co/meta-tests-muse-ai-agent-calls-that-are-actually-made-by-humans-in-a-call-center/",
-      "published": "2026-09-22T16:33:15+00:00",
+      "headline": "‘We Hacked the FBI:’ Hackers Say They Have Data on All FBI Employees",
+      "excerpt": "A sample of 5,000 alleged agents seen by 404 Media includes names, addresses, phone numbers, and details on FBI employees' spouses.",
+      "link": "https://www.404media.co/we-hacked-the-fbi-hackers-say-they-have-data-on-all-fbi-employees/",
+      "published": "2026-09-22T16:48:53+00:00",
       "featured": false
     },
     {
@@ -470,15 +479,6 @@
       "featured": false
     },
     {
-      "id": "f5b52f032937",
-      "source": "The Intercept",
-      "headline": "Pink Supported Macklemore’s Firing. Now Activists Want UNICEF to Cut Ties With Her.",
-      "excerpt": "Activists with Swifties Against Genocide want to impose a cost on trampling pro-Palestine voices. The post Pink Supported Macklemore’s Firing. Now Activists Want UNICEF to Cut Ties With Her. appeared first on The...",
-      "link": "https://theintercept.com/2026/09/22/pink-macklemore-palestine-israel-unicef/",
-      "published": "2026-09-22T09:00:00+00:00",
-      "featured": false
-    },
-    {
       "id": "4b62e1b898f5",
       "source": "The Lever",
       "headline": "Big Crypto Buys Plan B",
@@ -488,21 +488,21 @@
       "featured": false
     },
     {
+      "id": "8e3f1da1aeca",
+      "source": "ProPublica",
+      "headline": "“Our Dear Friend Umar”: How We Uncovered That a Russian Oligarch Bankrolled Donald Trump Jr.’s Wedding",
+      "excerpt": "The post “Our Dear Friend Umar”: How We Uncovered That a Russian Oligarch Bankrolled Donald Trump Jr.’s Wedding appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/donald-trump-jr-wedding-umar-kremlev-reporting",
+      "published": "2026-09-19T09:00:00+00:00",
+      "featured": false
+    },
+    {
       "id": "3883b76c2003",
       "source": "ICIJ",
       "headline": "‘Tinder Swindler’s’ plan for a dating app sparks industry backlash",
       "excerpt": "The convicted fraudster says his new app would enable women to find love safely. The lead trade group for online dating disagrees.",
       "link": "https://www.icij.org/news/2026/09/tinder-swindlers-plan-for-a-dating-app-sparks-industry-backlash/",
       "published": "2026-09-18T19:34:24+00:00",
-      "featured": false
-    },
-    {
-      "id": "400f72d45150",
-      "source": "ProPublica",
-      "headline": "Judge Denies Efforts to End Oversight of Maricopa County Sheriff’s Office as Racial Profiling of Latinos Persists",
-      "excerpt": "The post Judge Denies Efforts to End Oversight of Maricopa County Sheriff’s Office as Racial Profiling of Latinos Persists appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/maricopa-county-sheriff-oversight-judge-ruling",
-      "published": "2026-09-18T17:10:00+00:00",
       "featured": false
     },
     {
@@ -533,12 +533,12 @@
       "featured": false
     },
     {
-      "id": "dbbf3fd2bf04",
+      "id": "11e8e282fc86",
       "source": "Al Jazeera",
-      "headline": "Harvey Weinstein sentenced to 15 years in New York sexual assault retrial",
-      "excerpt": "The ruling seals six years of legal battles after Weinstein’s initial conviction for sexually assaulting TV assistant.",
-      "link": "https://www.aljazeera.com/news/2026/9/23/harvey-weinstein-sentenced-to-15-years-in-sexual-assault-retrial?traffic_source=rss",
-      "published": "2026-09-23T19:58:00+00:00",
+      "headline": "Israel moves to bar both main Arab lists from October election",
+      "excerpt": "Excluding Ra'am and the Joint List leaves Palestinian citizens in Israel without major Knesset representation options.",
+      "link": "https://www.aljazeera.com/news/2026/9/24/israel-moves-to-bar-both-main-arab-lists-from-october-election?traffic_source=rss",
+      "published": "2026-09-24T02:06:59+00:00",
       "featured": false
     }
   ]
