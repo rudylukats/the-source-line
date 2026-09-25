@@ -1,22 +1,31 @@
 {
-  "generated_at": "2026-09-24T21:31:39.730755+00:00",
+  "generated_at": "2026-09-25T04:59:01.327450+00:00",
   "articles": [
     {
-      "id": "d233368898ef",
+      "id": "c9047b7c6c6f",
       "source": "Al Jazeera",
-      "headline": "Netanyahu blames ‘juvenile delinquents’ for violence in occupied West Bank",
-      "excerpt": "As spoke at the UN, Israeli Prime Minister Benjamin Netanyahu downplayed settler violence in the occupied West Bank.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/24/netanyahu-blames-juvenile-delinquents-for-violence-in-occupied-west-bank?traffic_source=rss",
-      "published": "2026-09-24T20:54:28+00:00",
+      "headline": "Pakistani forces kill Afghan Taliban fighters in border escalation",
+      "excerpt": "Pakistan's security forces report ongoing cross-border fire in latest fighting with Afghanistan.",
+      "link": "https://www.aljazeera.com/news/2026/9/25/pakistani-forces-kill-afghan-taliban-fighters-in-border-escalation?traffic_source=rss",
+      "published": "2026-09-25T04:22:10+00:00",
       "featured": true
     },
     {
-      "id": "7b30f8e02b95",
+      "id": "ea8b753da79f",
+      "source": "The Lever",
+      "headline": "AI Regulation Was Coming. Then Trump Killed It.",
+      "excerpt": "After a flood of tech industry cash, President Donald Trump killed a requirement that AI giants disclose their riskiest experiments to national security officials. Now lawmakers are scrambling to catch up.",
+      "link": "https://www.levernews.com/ai-regulation-was-coming-then-trump-killed-it/",
+      "published": "2026-09-25T03:11:04+00:00",
+      "featured": true
+    },
+    {
+      "id": "0b7c32235113",
       "source": "The Intercept",
-      "headline": "Congress Failed Again to Stop Trump’s Iran War. This Group Is Trying Through the Courts.",
-      "excerpt": "“It is all hands on deck to stop this full-blown constitutional crisis,” said the head of NIAC Action, which filed suit on behalf of Iranian Americans. The post Congress Failed Again to Stop Trump’s Iran War. This Group...",
-      "link": "https://theintercept.com/2026/09/24/congress-trump-iran-war-lawsuit-constitution/",
-      "published": "2026-09-24T19:49:24+00:00",
+      "headline": "Flock Wants the Most Detailed Map of Its Surveillance Cameras Taken Offline",
+      "excerpt": "A security researcher’s map revealed more locations of Flock devices than any other. Flock is trying to take it down. The post Flock Wants the Most Detailed Map of Its Surveillance Cameras Taken Offline appeared first...",
+      "link": "https://theintercept.com/2026/09/24/how-many-flock-devices-in-united-states-300000/",
+      "published": "2026-09-24T23:21:24+00:00",
       "featured": true
     },
     {
@@ -26,7 +35,7 @@
       "excerpt": "",
       "link": "https://www.occrp.org/en/news/bosnian-police-officer-dies-by-suicide-following-raid",
       "published": "2026-09-24T18:05:00+00:00",
-      "featured": true
+      "featured": false
     },
     {
       "id": "e18f5b939763",
@@ -35,15 +44,6 @@
       "excerpt": "A former fan made a mod to silence the streamer’s followers who are spamming public spaces with slurs and hate.",
       "link": "https://www.404media.co/this-world-of-warcraft-forever-mod-blocks-all-interactions-with-asmongold-fans/",
       "published": "2026-09-24T17:46:37+00:00",
-      "featured": false
-    },
-    {
-      "id": "19f2acf2a2be",
-      "source": "The Lever",
-      "headline": "The Ellisons Have Made This Movie Before",
-      "excerpt": "With Paramount, you don’t need a catalog of failed consent decrees to understand what is to come. You only need the record of the family making the promises.",
-      "link": "https://www.levernews.com/the-ellisons-have-made-this-movie-before/",
-      "published": "2026-09-24T17:28:56+00:00",
       "featured": false
     },
     {
@@ -110,21 +110,30 @@
       "featured": false
     },
     {
-      "id": "0f5ea95a2853",
+      "id": "b8b85cc580c8",
       "source": "Al Jazeera",
-      "headline": "US citizen injured after wrongly arrested by ICE in Illinois",
-      "excerpt": "US citizen injured after wrongly arrested by ICE in Illinois",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/24/us-citizen-injured-after-wrongly-arrested-by-ice-in-illinois?traffic_source=rss",
-      "published": "2026-09-24T20:23:06+00:00",
+      "headline": "Jewish protestors join Free Palestine march to denounce Netanyahu",
+      "excerpt": "Al Jazeera’s Emma Withrow reports from a Free Palestine march, where Jewish demonstrators rejected Netanyahu.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/25/jewish-protestors-join-free-palestine-march-to-denounce-netanyahu?traffic_source=rss",
+      "published": "2026-09-25T03:49:43+00:00",
       "featured": false
     },
     {
-      "id": "060c086f1f2a",
+      "id": "4ab85f9eced2",
+      "source": "The Lever",
+      "headline": "The Machines Escaped. Their Masters Did So First.",
+      "excerpt": "The most frightening thing about rogue AI agents may be how faithfully they mirror the powerful humans who created them.",
+      "link": "https://www.levernews.com/the-machines-escaped-their-masters-did-so-first/",
+      "published": "2026-09-25T03:10:21+00:00",
+      "featured": false
+    },
+    {
+      "id": "7b30f8e02b95",
       "source": "The Intercept",
-      "headline": "Green Energy Is Coming for the Desert",
-      "excerpt": "Trump’s Bureau of Land Management is pushing to aggressively expand solar farms into the Mojave Desert, which advocates say would decimate its vast biodiversity. The post Green Energy Is Coming for the Desert appeared...",
-      "link": "https://theintercept.com/2026/09/24/solar-farms-mojave-desert-renewable-energy/",
-      "published": "2026-09-24T18:20:46+00:00",
+      "headline": "Congress Failed Again to Stop Trump’s Iran War. This Group Is Trying Through the Courts.",
+      "excerpt": "“It is all hands on deck to stop this full-blown constitutional crisis,” said the head of NIAC Action, which filed suit on behalf of Iranian Americans. The post Congress Failed Again to Stop Trump’s Iran War. This Group...",
+      "link": "https://theintercept.com/2026/09/24/congress-trump-iran-war-lawsuit-constitution/",
+      "published": "2026-09-24T19:49:24+00:00",
       "featured": false
     },
     {
@@ -161,15 +170,6 @@
       "excerpt": "Fernando Cerimedo, the far-right political operative jailed on murder charges in Bolivia, played a key role in President Rodrigo Paz’s government.",
       "link": "https://www.dropsitenews.com/p/fernando-cerimedo-rodrigo-paz-trump-rubio",
       "published": "2026-09-23T19:53:01+00:00",
-      "featured": false
-    },
-    {
-      "id": "c8d36cd04b91",
-      "source": "The Lever",
-      "headline": "Midterm Madness: Big Crypto’s Double Tap",
-      "excerpt": "An industry super PAC is declaring war on a purple-state Democrat for the second time in two years.",
-      "link": "https://www.levernews.com/midterm-madness-big-cryptos-double-tap/",
-      "published": "2026-09-23T17:23:30+00:00",
       "featured": false
     },
     {
@@ -218,12 +218,30 @@
       "featured": false
     },
     {
-      "id": "24bad3051f5b",
+      "id": "8cccd7c98318",
       "source": "Al Jazeera",
-      "headline": "New York sues Polymarket over allegations of illegal gambling operations",
-      "excerpt": "The lawsuit comes two months after the state filed a similar lawsuit against competitor Kalshi.",
-      "link": "https://www.aljazeera.com/economy/2026/9/24/new-york-sues-polymarket-over-allegations-of-illegal-gambling-operations?traffic_source=rss",
-      "published": "2026-09-24T20:15:25+00:00",
+      "headline": "Young men flee Tigray amid fears of forced recruitment",
+      "excerpt": "Years after the war, unresolved tensions are again leaving young people fearful of being drawn into fighting.",
+      "link": "https://www.aljazeera.com/news/2026/9/25/young-men-flee-tigray-amid-fears-of-forced-recruitment?traffic_source=rss",
+      "published": "2026-09-25T03:45:06+00:00",
+      "featured": false
+    },
+    {
+      "id": "9cb9e002d934",
+      "source": "The Lever",
+      "headline": "What’s Hiding In The Paramount Merger Settlement",
+      "excerpt": "Former FTC Commissioner Alvaro Bedoya and antitrust legal expert Lee Hepner dig into the fine print, loopholes, and false promises of the Paramount merger settlement.",
+      "link": "https://www.levernews.com/whats-hiding-in-the-paramount-merger-settlement/",
+      "published": "2026-09-24T23:32:14+00:00",
+      "featured": false
+    },
+    {
+      "id": "060c086f1f2a",
+      "source": "The Intercept",
+      "headline": "Green Energy Is Coming for the Desert",
+      "excerpt": "Trump’s Bureau of Land Management is pushing to aggressively expand solar farms into the Mojave Desert, which advocates say would decimate its vast biodiversity. The post Green Energy Is Coming for the Desert appeared...",
+      "link": "https://theintercept.com/2026/09/24/solar-farms-mojave-desert-renewable-energy/",
+      "published": "2026-09-24T18:20:46+00:00",
       "featured": false
     },
     {
@@ -233,15 +251,6 @@
       "excerpt": "U.S. prosecutors allege that Oxygen Forensics concealed its Russian ownership and Russia-based software development while selling digital forensic tools to American government agencies, including the Secret Service.",
       "link": "https://www.occrp.org/en/news/us-charges-tech-ceo-russian-over-hidden-ownership",
       "published": "2026-09-24T12:47:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "1bb02fdc9112",
-      "source": "The Intercept",
-      "headline": "As the Pentagon Expands Across the Pacific, Guam Offers a Warning",
-      "excerpt": "The U.S. militarization of Guam has left its residents living with a legacy of pollution, environmental degradation, and cultural loss. Other Pacific islands may be next. The post As the Pentagon Expands Across the...",
-      "link": "https://theintercept.com/2026/09/24/guam-military-buildup-base-pollution/",
-      "published": "2026-09-24T08:45:00+00:00",
       "featured": false
     },
     {
@@ -269,15 +278,6 @@
       "excerpt": "The post The Federal Agency That’s Supposed to Protect Consumers Just Made Another Business-Friendly Move appeared first on ProPublica.",
       "link": "https://www.propublica.org/article/cfpb-consumer-complaint-database",
       "published": "2026-09-23T09:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "83d528f780dd",
-      "source": "The Lever",
-      "headline": "AI Lending Is Risky Lending",
-      "excerpt": "Banks that adopt artificial intelligence average more “problem” loans and less small business lending.",
-      "link": "https://www.levernews.com/ai-lending-is-risky-lending/",
-      "published": "2026-09-22T18:36:48+00:00",
       "featured": false
     },
     {
@@ -326,12 +326,21 @@
       "featured": false
     },
     {
-      "id": "1cbf7ab89a0d",
+      "id": "9bf28870c2fd",
       "source": "Al Jazeera",
-      "headline": "Israel moves to ban main Palestinian-led lists from election",
-      "excerpt": "Israel’s election panel has voted to disqualify the two main Palestinian-led lists from next month’s election.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/24/09-24-israel-palestinian-parties-banned-sv?traffic_source=rss",
-      "published": "2026-09-24T19:54:00+00:00",
+      "headline": "Oil prices jump after Yemen’s Houthis claim attacks on Saudi facilities",
+      "excerpt": "Brent crude tops $106 a barrel after Iran-aligned rebel group claims to have successfully attacked Aramco facilities.",
+      "link": "https://www.aljazeera.com/economy/2026/9/25/oil-prices-jump-after-yemens-houthis-claim-attacks-on-saudi-facilities?traffic_source=rss",
+      "published": "2026-09-25T03:41:25+00:00",
+      "featured": false
+    },
+    {
+      "id": "19f2acf2a2be",
+      "source": "The Lever",
+      "headline": "The Ellisons Have Made This Movie Before",
+      "excerpt": "With Paramount, you don’t need a catalog of failed consent decrees to understand what is to come. You only need the record of the family making the promises.",
+      "link": "https://www.levernews.com/the-ellisons-have-made-this-movie-before/",
+      "published": "2026-09-24T17:28:56+00:00",
       "featured": false
     },
     {
@@ -344,12 +353,12 @@
       "featured": false
     },
     {
-      "id": "7926856eedf6",
+      "id": "1bb02fdc9112",
       "source": "The Intercept",
-      "headline": "Lifestyles of the Rich & Famous War Profiteers",
-      "excerpt": "The mockumentary “Lords of War” shows how Pentagon money gets funneled into $20-million-plus paydays for weapons company CEOs — and their lavish lifestyles. The post Lifestyles of the Rich & Famous War Profiteers...",
-      "link": "https://theintercept.com/2026/09/24/war-weapons-profits-lockheed-rtx-ceos/",
-      "published": "2026-09-24T04:05:00+00:00",
+      "headline": "As the Pentagon Expands Across the Pacific, Guam Offers a Warning",
+      "excerpt": "The U.S. militarization of Guam has left its residents living with a legacy of pollution, environmental degradation, and cultural loss. Other Pacific islands may be next. The post As the Pentagon Expands Across the...",
+      "link": "https://theintercept.com/2026/09/24/guam-military-buildup-base-pollution/",
+      "published": "2026-09-24T08:45:00+00:00",
       "featured": false
     },
     {
@@ -368,15 +377,6 @@
       "excerpt": "Drop Site Daily: September 23, 2026",
       "link": "https://www.dropsitenews.com/p/trump-us-iran-unga-greenland-deal",
       "published": "2026-09-23T14:53:40+00:00",
-      "featured": false
-    },
-    {
-      "id": "9a0b76966af4",
-      "source": "The Lever",
-      "headline": "The Fine Print In Democrats’ Hollywood Merger Surrender",
-      "excerpt": "Democrats promised to play hardball, then accepted loophole-ridden pledges leaving Paramount’s $111 billion megamerger intact.",
-      "link": "https://www.levernews.com/the-fine-print-in-democrats-hollywood-merger-surrender/",
-      "published": "2026-09-22T18:21:01+00:00",
       "featured": false
     },
     {
@@ -434,21 +434,21 @@
       "featured": false
     },
     {
-      "id": "47fad502111a",
+      "id": "ea9c062ab256",
       "source": "Al Jazeera",
-      "headline": "What’s triggered the latest violence in Ethiopia?",
-      "excerpt": "Tigrayan forces say they are in a 'full-blown war' with the army.",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/9/24/whats-triggered-the-latest-violence-in-ethiopia?traffic_source=rss",
-      "published": "2026-09-24T19:34:53+00:00",
+      "headline": "Saudi, Turkish, Pakistani chiefs plan urgent talks amid Yemen fighting",
+      "excerpt": "Saudi Arabia, Turkiye and Pakistan move to deepen defence coordination as Houthi attacks and Yemen fighting intensify.",
+      "link": "https://www.aljazeera.com/news/2026/9/25/saudi-turkish-pakistani-chiefs-plan-urgent-talks-amid-yemen-fighting?traffic_source=rss",
+      "published": "2026-09-25T03:35:22+00:00",
       "featured": false
     },
     {
-      "id": "50000bdc7f00",
+      "id": "7926856eedf6",
       "source": "The Intercept",
-      "headline": "The Ellisons Could Make a Killing in Big Surveillance With the Paramount Merger",
-      "excerpt": "With the Paramount–Warner Bros. merger set to proceed, the Ellisons can stoke Americans’ fears — and sell the government its solution. The post The Ellisons Could Make a Killing in Big Surveillance With the Paramount...",
-      "link": "https://theintercept.com/2026/09/23/paramount-warner-bros-merger-ellisons-surveillance/",
-      "published": "2026-09-23T21:34:27+00:00",
+      "headline": "Lifestyles of the Rich & Famous War Profiteers",
+      "excerpt": "The mockumentary “Lords of War” shows how Pentagon money gets funneled into $20-million-plus paydays for weapons company CEOs — and their lavish lifestyles. The post Lifestyles of the Rich & Famous War Profiteers...",
+      "link": "https://theintercept.com/2026/09/24/war-weapons-profits-lockheed-rtx-ceos/",
+      "published": "2026-09-24T04:05:00+00:00",
       "featured": false
     },
     {
@@ -458,6 +458,15 @@
       "excerpt": "Defense lawyers argued in a Virginia courtroom that Sebastián Marset \"studiously avoided\" the United States, asking a federal judge to dismiss narco-terrorism and money laundering charges on the grounds that his alleged...",
       "link": "https://www.occrp.org/en/news/federal-judge-weighs-limits-of-us-reach-in-trial-of-accused-kingpin-sebastian-marset",
       "published": "2026-09-23T20:28:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "c8d36cd04b91",
+      "source": "The Lever",
+      "headline": "Midterm Madness: Big Crypto’s Double Tap",
+      "excerpt": "An industry super PAC is declaring war on a purple-state Democrat for the second time in two years.",
+      "link": "https://www.levernews.com/midterm-madness-big-cryptos-double-tap/",
+      "published": "2026-09-23T17:23:30+00:00",
       "featured": false
     },
     {
@@ -476,15 +485,6 @@
       "excerpt": "What happened in the violent clash that left five dead off the coast of Cuba last February?",
       "link": "https://www.dropsitenews.com/p/inside-the-armed-incursion-from-florida",
       "published": "2026-09-23T11:01:59+00:00",
-      "featured": false
-    },
-    {
-      "id": "d3d004b5cb3e",
-      "source": "The Lever",
-      "headline": "What AOC And Ro Khanna Would Do With Trump’s Power",
-      "excerpt": "Should the next Democratic president rein in Trump’s expanded powers — or use them?",
-      "link": "https://www.levernews.com/what-aoc-and-ro-khanna-would-do-with-trumps-power/",
-      "published": "2026-09-22T11:00:11+00:00",
       "featured": false
     },
     {
@@ -524,21 +524,21 @@
       "featured": false
     },
     {
-      "id": "57c3edf22d95",
+      "id": "b70c89e2f7ce",
       "source": "Al Jazeera",
-      "headline": "US rapper Macklemore announces Free Palestine tour after Ed Sheeran fallout",
-      "excerpt": "Macklemore says 'being apolitical during a genocide doesn’t work', promises to donate proceeds to Palestinian causes.",
-      "link": "https://www.aljazeera.com/news/2026/9/24/us-rapper-macklemore-announces-free-palestine-tour-after-ed-sheeran-fallout?traffic_source=rss",
-      "published": "2026-09-24T19:22:27+00:00",
+      "headline": "When AI’s moving this fast, who’s protecting us?",
+      "excerpt": "The people building the world’s most powerful AI systems are now warning governments about losing control.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/25/when-ais-moving-this-fast-whos-protecting-us?traffic_source=rss",
+      "published": "2026-09-25T03:34:54+00:00",
       "featured": false
     },
     {
-      "id": "977e1d2cb197",
+      "id": "50000bdc7f00",
       "source": "The Intercept",
-      "headline": "DoorDash Spent $1.4 Million Trying to Stop Mamdani From Becoming Mayor. Now We Know Why.",
-      "excerpt": "In a wage-theft settlement, DoorDash now has to pay its workers around 100 times what it spent trying to beat Zohran Mamdani. The post DoorDash Spent $1.4 Million Trying to Stop Mamdani From Becoming Mayor. Now We Know...",
-      "link": "https://theintercept.com/2026/09/23/doordash-delivery-nyc-mamdani-wage-theft-settlement/",
-      "published": "2026-09-23T16:52:09+00:00",
+      "headline": "The Ellisons Could Make a Killing in Big Surveillance With the Paramount Merger",
+      "excerpt": "With the Paramount–Warner Bros. merger set to proceed, the Ellisons can stoke Americans’ fears — and sell the government its solution. The post The Ellisons Could Make a Killing in Big Surveillance With the Paramount...",
+      "link": "https://theintercept.com/2026/09/23/paramount-warner-bros-merger-ellisons-surveillance/",
+      "published": "2026-09-23T21:34:27+00:00",
       "featured": false
     }
   ]
