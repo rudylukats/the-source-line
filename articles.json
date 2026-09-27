@@ -1,13 +1,22 @@
 {
-  "generated_at": "2026-09-27T05:19:46.395011+00:00",
+  "generated_at": "2026-09-27T12:04:11.577580+00:00",
   "articles": [
     {
-      "id": "8704e8a7a747",
+      "id": "0cbe2e7383e4",
       "source": "Al Jazeera",
-      "headline": "Ethiopia’s army promises restraint amid fears of new civil war",
-      "excerpt": "Army chief accuses Eritrea of funding and supporting armed groups to weaken Ethiopia.",
-      "link": "https://www.aljazeera.com/news/2026/9/27/ethiopias-army-promises-restraint-amid-fears-of-new-civil-war?traffic_source=rss",
-      "published": "2026-09-27T04:59:50+00:00",
+      "headline": "‘No role for UNRWA in Gaza’: Does the Board of Peace toe Israeli lines?",
+      "excerpt": "Board of Peace excludes UNRWA from Gaza, aligning with repeated Israeli calls to sideline the refugee aid agency.",
+      "link": "https://www.aljazeera.com/news/2026/9/27/no-role-for-unrwa-in-gaza-does-the-board-of-peace-toe-israeli-lines?traffic_source=rss",
+      "published": "2026-09-27T11:04:30+00:00",
+      "featured": true
+    },
+    {
+      "id": "676103776410",
+      "source": "The Intercept",
+      "headline": "The “Satanic Panic” Made Her a True-Crime Obsession. The Truth Is More Haunting.",
+      "excerpt": "After 30 years on death row, Christa Pike faces execution for a grisly murder she committed at 18. The post The “Satanic Panic” Made Her a True-Crime Obsession. The Truth Is More Haunting. appeared first on The...",
+      "link": "https://theintercept.com/2026/09/27/christa-pike-execution-women-death-row/",
+      "published": "2026-09-27T11:00:00+00:00",
       "featured": true
     },
     {
@@ -26,7 +35,7 @@
       "excerpt": "The post I Deliberately Bet Like a Problem Gambler. DraftKings Made Me a VIP. appeared first on ProPublica.",
       "link": "https://www.propublica.org/article/draftkings-sports-gambling-problem-vip-fanduel",
       "published": "2026-09-26T09:00:00+00:00",
-      "featured": true
+      "featured": false
     },
     {
       "id": "2bf467c29938",
@@ -44,15 +53,6 @@
       "excerpt": "After two failed attempts to nominate a Maine candidate friendly to the party establishment, the consultant class is finding better success with its third approach, co-optation.",
       "link": "https://www.dropsitenews.com/p/democratic-party-consultants-surround",
       "published": "2026-09-25T20:06:44+00:00",
-      "featured": false
-    },
-    {
-      "id": "a80405acf6d2",
-      "source": "The Intercept",
-      "headline": "The Backlash to “NAZA” Shows How Little Israeli Citizenship Really Means",
-      "excerpt": "By threatening the filmmakers, Netanyahu lays bare how fragile the notion of what it means to be Israeli is in the age of its genocide in Gaza. The post The Backlash to “NAZA” Shows How Little Israeli Citizenship Really...",
-      "link": "https://theintercept.com/2026/09/25/naza-documentary-film-netanyahu-israel-revoke-citizenship/",
-      "published": "2026-09-25T18:25:41+00:00",
       "featured": false
     },
     {
@@ -110,12 +110,21 @@
       "featured": false
     },
     {
-      "id": "8b482e77c05b",
+      "id": "e850ba97edd5",
       "source": "Al Jazeera",
-      "headline": "Detained Tunisian flotilla activists: Worsening health amid family anguish",
-      "excerpt": "As activists’ health deteriorates, families describe the toll of separation, hunger strikes and uncertainty.",
-      "link": "https://www.aljazeera.com/news/2026/9/27/detained-tunisian-flotilla-activists-worsening-health-amid-family-anguish?traffic_source=rss",
-      "published": "2026-09-27T03:51:46+00:00",
+      "headline": "‘My hands are empty’: Displaced Palestinians struggle to survive",
+      "excerpt": "In Tulkarem and other West Bank cities, displaced Palestinians are being forced deeper into debt and poverty.",
+      "link": "https://www.aljazeera.com/features/2026/9/27/my-hands-are-empty-displaced-palestinians-struggle-to-survive?traffic_source=rss",
+      "published": "2026-09-27T10:26:21+00:00",
+      "featured": false
+    },
+    {
+      "id": "971e95139dc2",
+      "source": "The Intercept",
+      "headline": "What the Prairieland Jury Never Got to Hear",
+      "excerpt": "Lawyers for an anti-ICE protester tried to argue his shot was a ricochet. The theory was squashed by gaps in the evidence and a judge’s suppression. The post What the Prairieland Jury Never Got to Hear appeared first on...",
+      "link": "https://theintercept.com/2026/09/27/prairieland-appeal-gun-bullet-ricochet-benjamin-song/",
+      "published": "2026-09-27T09:00:00+00:00",
       "featured": false
     },
     {
@@ -164,15 +173,6 @@
       "featured": false
     },
     {
-      "id": "342789b4b531",
-      "source": "The Intercept",
-      "headline": "The Blueprint for Democrats to Win Back Voters",
-      "excerpt": "After suffering major losses last election cycle, Justice Democrats resurrected itself, helping put democratic socialism on the map. So what changed? The post The Blueprint for Democrats to Win Back Voters appeared...",
-      "link": "https://theintercept.com/2026/09/25/progressive-justice-democrats-congress-ice/",
-      "published": "2026-09-25T10:00:00+00:00",
-      "featured": false
-    },
-    {
       "id": "b8b45b57d93a",
       "source": "Rest of World",
       "headline": "Dario Amodei wants to slow AI. China isn’t taking orders",
@@ -218,12 +218,21 @@
       "featured": false
     },
     {
-      "id": "57f3f195faa0",
+      "id": "33ce98fd0a78",
       "source": "Al Jazeera",
-      "headline": "German, Russian foreign ministers hold rare talks amid rising tensions",
-      "excerpt": "Russia's Lavrov dismisses Wadephul's call to abandon 'dangerous path of escalation' with Europe.",
-      "link": "https://www.aljazeera.com/news/2026/9/27/german-russian-foreign-ministers-hold-rare-talks-amid-rising-tensions?traffic_source=rss",
-      "published": "2026-09-27T03:36:19+00:00",
+      "headline": "Israeli minister Bezalel Smotrich calls for war in occupied West Bank",
+      "excerpt": "Comments come as Israeli authorities announce military closure across occupied West Bank, citing Jewish holiday Sukkot.",
+      "link": "https://www.aljazeera.com/news/2026/9/27/israeli-minister-bezalel-smotrich-calls-for-war-in-occupied-west-bank?traffic_source=rss",
+      "published": "2026-09-27T10:01:33+00:00",
+      "featured": false
+    },
+    {
+      "id": "a80405acf6d2",
+      "source": "The Intercept",
+      "headline": "The Backlash to “NAZA” Shows How Little Israeli Citizenship Really Means",
+      "excerpt": "By threatening the filmmakers, Netanyahu lays bare how fragile the notion of what it means to be Israeli is in the age of its genocide in Gaza. The post The Backlash to “NAZA” Shows How Little Israeli Citizenship Really...",
+      "link": "https://theintercept.com/2026/09/25/naza-documentary-film-netanyahu-israel-revoke-citizenship/",
+      "published": "2026-09-25T18:25:41+00:00",
       "featured": false
     },
     {
@@ -251,15 +260,6 @@
       "excerpt": "After a flood of tech industry cash, President Donald Trump killed a requirement that AI giants disclose their riskiest experiments to national security officials. Now lawmakers are scrambling to catch up.",
       "link": "https://www.levernews.com/ai-regulation-was-coming-then-trump-killed-it/",
       "published": "2026-09-25T03:11:04+00:00",
-      "featured": false
-    },
-    {
-      "id": "0b7c32235113",
-      "source": "The Intercept",
-      "headline": "Flock Wants the Most Detailed Map of Its Surveillance Cameras Taken Offline",
-      "excerpt": "A security researcher’s map revealed more locations of Flock devices than any other. Flock is trying to take it down. The post Flock Wants the Most Detailed Map of Its Surveillance Cameras Taken Offline appeared first...",
-      "link": "https://theintercept.com/2026/09/24/how-many-flock-devices-in-united-states-300000/",
-      "published": "2026-09-24T23:21:24+00:00",
       "featured": false
     },
     {
@@ -326,12 +326,12 @@
       "featured": false
     },
     {
-      "id": "97204d88b456",
+      "id": "82be5fc36d48",
       "source": "Al Jazeera",
-      "headline": "Bangkok declared disaster zone after heavy rains submerge roads",
-      "excerpt": "Bangkok has officially been declared a disaster zone after relentless rains triggered widespread flooding.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/27/bangkok-declared-disaster-zone-after-heavy-rains-submerge-roads?traffic_source=rss",
-      "published": "2026-09-27T03:33:13+00:00",
+      "headline": "Yemen government forces widen attacks against Houthis: What we know",
+      "excerpt": "Yemeni government forces claim multiple air and ground operations across Taiz in 24 hours.",
+      "link": "https://www.aljazeera.com/news/2026/9/27/yemen-government-forces-widen-attacks-against-houthis-what-we-know?traffic_source=rss",
+      "published": "2026-09-27T09:59:21+00:00",
       "featured": false
     },
     {
@@ -341,6 +341,15 @@
       "excerpt": "Microsoft and OpenAI admit it; how we got AI slop onto a real band's Spotify page; and AI agent spam is here.",
       "link": "https://www.404media.co/podcast-openai-admits-ai-is-killing-the-internet/",
       "published": "2026-09-25T15:04:37+00:00",
+      "featured": false
+    },
+    {
+      "id": "342789b4b531",
+      "source": "The Intercept",
+      "headline": "The Blueprint for Democrats to Win Back Voters",
+      "excerpt": "After suffering major losses last election cycle, Justice Democrats resurrected itself, helping put democratic socialism on the map. So what changed? The post The Blueprint for Democrats to Win Back Voters appeared...",
+      "link": "https://theintercept.com/2026/09/25/progressive-justice-democrats-congress-ice/",
+      "published": "2026-09-25T10:00:00+00:00",
       "featured": false
     },
     {
@@ -359,15 +368,6 @@
       "excerpt": "The most frightening thing about rogue AI agents may be how faithfully they mirror the powerful humans who created them.",
       "link": "https://www.levernews.com/the-machines-escaped-their-masters-did-so-first/",
       "published": "2026-09-25T03:10:21+00:00",
-      "featured": false
-    },
-    {
-      "id": "7b30f8e02b95",
-      "source": "The Intercept",
-      "headline": "Congress Failed Again to Stop Trump’s Iran War. This Group Is Trying Through the Courts.",
-      "excerpt": "“It is all hands on deck to stop this full-blown constitutional crisis,” said the head of NIAC Action, which filed suit on behalf of Iranian Americans. The post Congress Failed Again to Stop Trump’s Iran War. This Group...",
-      "link": "https://theintercept.com/2026/09/24/congress-trump-iran-war-lawsuit-constitution/",
-      "published": "2026-09-24T19:49:24+00:00",
       "featured": false
     },
     {
@@ -434,12 +434,12 @@
       "featured": false
     },
     {
-      "id": "8a83c297ef67",
+      "id": "439b8964f659",
       "source": "Al Jazeera",
-      "headline": "Thousands protest in Madrid against Spain’s housing crisis",
-      "excerpt": "Thousands of protesters in Madrid demand answers after the eviction of 87-year-old Maricarmen Abascal.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/27/thousands-protest-in-madrid-against-spains-housing-crisis?traffic_source=rss",
-      "published": "2026-09-27T03:17:52+00:00",
+      "headline": "Plane carrying DR Congo military delegation crashes",
+      "excerpt": "A plane carrying a Congolese military delegation crashed in DR Congo, killing 17 people, including four civilians.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/27/plane-carrying-dr-congo-military-delegation-crashes?traffic_source=rss",
+      "published": "2026-09-27T09:44:00+00:00",
       "featured": false
     },
     {
@@ -452,12 +452,12 @@
       "featured": false
     },
     {
-      "id": "060c086f1f2a",
+      "id": "0b7c32235113",
       "source": "The Intercept",
-      "headline": "Green Energy Is Coming for the Desert",
-      "excerpt": "Trump’s Bureau of Land Management is pushing to aggressively expand solar farms into the Mojave Desert, which advocates say would decimate its vast biodiversity. The post Green Energy Is Coming for the Desert appeared...",
-      "link": "https://theintercept.com/2026/09/24/solar-farms-mojave-desert-renewable-energy/",
-      "published": "2026-09-24T18:20:46+00:00",
+      "headline": "Flock Wants the Most Detailed Map of Its Surveillance Cameras Taken Offline",
+      "excerpt": "A security researcher’s map revealed more locations of Flock devices than any other. Flock is trying to take it down. The post Flock Wants the Most Detailed Map of Its Surveillance Cameras Taken Offline appeared first...",
+      "link": "https://theintercept.com/2026/09/24/how-many-flock-devices-in-united-states-300000/",
+      "published": "2026-09-24T23:21:24+00:00",
       "featured": false
     },
     {
@@ -524,21 +524,21 @@
       "featured": false
     },
     {
-      "id": "fc08f16c1222",
+      "id": "e7a9828f74d3",
       "source": "Al Jazeera",
-      "headline": "Powerful storm batters US Northeast disrupting power and travel",
-      "excerpt": "Powerful winds and towering waves are battering the US Northeast, causing flight chaos and blackouts.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/27/powerful-storm-batters-us-northeast-disrupting-power-and-travel?traffic_source=rss",
-      "published": "2026-09-27T02:19:34+00:00",
+      "headline": "Malaysia’s Ng, Subramaniam book LA28 Olympics berth with Asian Games gold",
+      "excerpt": "The top seeds defend their Asian Games squash titles, becoming the first players to qualify for the Los Angeles Games.",
+      "link": "https://www.aljazeera.com/sports/2026/9/27/malaysias-ng-subramaniam-book-la28-olympics-berth-with-asian-games-gold?traffic_source=rss",
+      "published": "2026-09-27T09:19:37+00:00",
       "featured": false
     },
     {
-      "id": "19f2acf2a2be",
-      "source": "The Lever",
-      "headline": "The Ellisons Have Made This Movie Before",
-      "excerpt": "With Paramount, you don’t need a catalog of failed consent decrees to understand what is to come. You only need the record of the family making the promises.",
-      "link": "https://www.levernews.com/the-ellisons-have-made-this-movie-before/",
-      "published": "2026-09-24T17:28:56+00:00",
+      "id": "7b30f8e02b95",
+      "source": "The Intercept",
+      "headline": "Congress Failed Again to Stop Trump’s Iran War. This Group Is Trying Through the Courts.",
+      "excerpt": "“It is all hands on deck to stop this full-blown constitutional crisis,” said the head of NIAC Action, which filed suit on behalf of Iranian Americans. The post Congress Failed Again to Stop Trump’s Iran War. This Group...",
+      "link": "https://theintercept.com/2026/09/24/congress-trump-iran-war-lawsuit-constitution/",
+      "published": "2026-09-24T19:49:24+00:00",
       "featured": false
     }
   ]
