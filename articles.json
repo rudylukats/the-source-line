@@ -1,20 +1,29 @@
 {
-  "generated_at": "2026-09-28T21:14:33.629465+00:00",
+  "generated_at": "2026-09-29T05:44:58.765800+00:00",
   "articles": [
     {
-      "id": "b3812b2fade0",
+      "id": "041be4a58a5b",
       "source": "Al Jazeera",
-      "headline": "Olise scores late to grab France 1-0 Nations League win at Belgium",
-      "excerpt": "Bayern Munich star Olise set off from inside his own half to score the winner in the 88th minute.",
-      "link": "https://www.aljazeera.com/sports/2026/9/28/olise-scores-late-to-grab-france-1-0-nations-league-win-at-belgium?traffic_source=rss",
-      "published": "2026-09-28T21:04:58+00:00",
+      "headline": "Public transport drivers strike in Manila over soaring fuel prices",
+      "excerpt": "Public transport drivers in Manila begin a three-day strike over soaring fuel prices.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/29/public-transport-drivers-strike-in-manila-over-soaring-fuel-prices?traffic_source=rss",
+      "published": "2026-09-29T05:21:50+00:00",
+      "featured": true
+    },
+    {
+      "id": "47efe3370547",
+      "source": "The Intercept",
+      "headline": "U.S. Has Suffered More Casualties In Iran Since the Conclusion of Operation Epic Fury",
+      "excerpt": "The Trump administration’s attempt to rebrand its faltering forever war hasn’t slowed the mounting toll of U.S. casualties. The post U.S. Has Suffered More Casualties In Iran Since the Conclusion of Operation Epic Fury...",
+      "link": "https://theintercept.com/2026/09/28/iran-war-us-casualties-operation-epic-fury/",
+      "published": "2026-09-28T21:45:18+00:00",
       "featured": true
     },
     {
       "id": "31eb85999175",
       "source": "The Lever",
-      "headline": "Banks Fear AI Will Find You A Better Deal",
-      "excerpt": "Banks earn billions by paying depositors as little as possible. Now Wall Street fears AI could disrupt the arrangement.",
+      "headline": "Bankers Rely On Ripping You Off. Wall Street Just Admitted It.",
+      "excerpt": "Banks make billions underpaying depositors — and Wall Street just admitted that consumers finding better deals could threaten the system.",
       "link": "https://www.levernews.com/banks-fear-ai-will-find-you-a-better-deal/",
       "published": "2026-09-28T19:25:02+00:00",
       "featured": true
@@ -26,7 +35,7 @@
       "excerpt": "ShinyHunters, the group that stole data on “all FBI employees” including addresses and details on their spouses, told 404 Media on Monday “Since the very beginning we had made our decision that we would never publish...",
       "link": "https://www.404media.co/fbi-hackers-say-they-wont-publish-massive-trove-of-fbi-employee-data/",
       "published": "2026-09-28T19:17:06+00:00",
-      "featured": true
+      "featured": false
     },
     {
       "id": "3090ddd5b62f",
@@ -35,15 +44,6 @@
       "excerpt": "Murtaza Hussain interviews Gregory Brew",
       "link": "https://www.dropsitenews.com/p/washington-make-energy-crisis-much-worse",
       "published": "2026-09-28T17:25:30+00:00",
-      "featured": false
-    },
-    {
-      "id": "cf3f413323cb",
-      "source": "The Intercept",
-      "headline": "AI Almost Started a U.S.–China War — and No One Seems to Care",
-      "excerpt": "The tech world is too busy dreaming up imaginary doomsday scenarios to focus on a very real one that flared up between nuclear powers. The post AI Almost Started a U.S.–China War — and No One Seems to Care appeared...",
-      "link": "https://theintercept.com/2026/09/28/ai-military-nuclear-war-doomsday/",
-      "published": "2026-09-28T16:54:05+00:00",
       "featured": false
     },
     {
@@ -110,12 +110,12 @@
       "featured": false
     },
     {
-      "id": "c36f0204e65c",
+      "id": "e366347dd3c8",
       "source": "Al Jazeera",
-      "headline": "‘Friendship pandas’ arrive in Atlanta, marking US-China relations moment",
-      "excerpt": "Two giant pandas from China have landed in the United States and are heading to Zoo Atlanta.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/28/friendship-pandas-arrive-in-atlanta-marking-us-china-relations-moment?traffic_source=rss",
-      "published": "2026-09-28T20:53:53+00:00",
+      "headline": "More than 80 reported abducted in Nigeria as police find human remains",
+      "excerpt": "Farmers and women abducted in northern Niger and Zamfara states as police find human remains at suspected gang camps.",
+      "link": "https://www.aljazeera.com/news/2026/9/29/more-than-80-reported-abducted-in-nigeria-as-police-find-human-remains?traffic_source=rss",
+      "published": "2026-09-29T05:17:35+00:00",
       "featured": false
     },
     {
@@ -125,6 +125,15 @@
       "excerpt": "The White House has issued a taxpayer-funded “PSA” that looks a lot like a repurposed MAGA campaign advertisement.",
       "link": "https://www.levernews.com/you-just-paid-to-re-run-a-trump-campaign-ad/",
       "published": "2026-09-28T16:55:48+00:00",
+      "featured": false
+    },
+    {
+      "id": "cf3f413323cb",
+      "source": "The Intercept",
+      "headline": "AI Almost Started a U.S.–China War — and No One Seems to Care",
+      "excerpt": "The tech world is too busy dreaming up imaginary doomsday scenarios to focus on a very real one that flared up between nuclear powers. The post AI Almost Started a U.S.–China War — and No One Seems to Care appeared...",
+      "link": "https://theintercept.com/2026/09/28/ai-military-nuclear-war-doomsday/",
+      "published": "2026-09-28T16:54:05+00:00",
       "featured": false
     },
     {
@@ -161,15 +170,6 @@
       "excerpt": "The post Arizona Lawmaker Proposes More Federal Support for English Fluency Services appeared first on ProPublica.",
       "link": "https://www.propublica.org/article/arizona-english-fluency-legislation-adelita-grijalva",
       "published": "2026-09-28T10:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "676103776410",
-      "source": "The Intercept",
-      "headline": "The “Satanic Panic” Made Her a True-Crime Obsession. The Truth Is More Haunting.",
-      "excerpt": "After 30 years on death row, Christa Pike faces execution for a grisly murder she committed at 18. The post The “Satanic Panic” Made Her a True-Crime Obsession. The Truth Is More Haunting. appeared first on The...",
-      "link": "https://theintercept.com/2026/09/27/christa-pike-execution-women-death-row/",
-      "published": "2026-09-27T11:00:00+00:00",
       "featured": false
     },
     {
@@ -218,12 +218,12 @@
       "featured": false
     },
     {
-      "id": "dd82154cce8c",
+      "id": "37f52181a962",
       "source": "Al Jazeera",
-      "headline": "French far-right leader Bardella refutes anti-Semitism allegations",
-      "excerpt": "Mediapart's explosive report comes a day after France's National Rally party secures a record number of Senate seats.",
-      "link": "https://www.aljazeera.com/news/2026/9/28/french-far-right-leader-bardella-refutes-anti-semitism-allegations?traffic_source=rss",
-      "published": "2026-09-28T20:52:03+00:00",
+      "headline": "Pope Leo says AI risk concerns not ‘fake news’",
+      "excerpt": "Leader of the Catholic Church says AI safety issues should be taken seriously and acted on.",
+      "link": "https://www.aljazeera.com/economy/2026/9/29/pope-leo-says-ai-risk-concerns-not-fake-news?traffic_source=rss",
+      "published": "2026-09-29T04:51:46+00:00",
       "featured": false
     },
     {
@@ -263,12 +263,12 @@
       "featured": false
     },
     {
-      "id": "971e95139dc2",
+      "id": "676103776410",
       "source": "The Intercept",
-      "headline": "Exclusive: Feds Denied Ballistics Expert Access to Prairieland Defendant Who Got 100 Years in Prison",
-      "excerpt": "From gaps in the evidence to a judge's intervention, jurors never got to hear the ricochet theory that would have undermined attempted murder charges. The post Exclusive: Feds Denied Ballistics Expert Access to...",
-      "link": "https://theintercept.com/2026/09/27/prairieland-appeal-gun-bullet-ricochet-benjamin-song/",
-      "published": "2026-09-27T09:00:00+00:00",
+      "headline": "The “Satanic Panic” Made Her a True-Crime Obsession. The Truth Is More Haunting.",
+      "excerpt": "After 30 years on death row, Christa Pike faces execution for a grisly murder she committed at 18. The post The “Satanic Panic” Made Her a True-Crime Obsession. The Truth Is More Haunting. appeared first on The...",
+      "link": "https://theintercept.com/2026/09/27/christa-pike-execution-women-death-row/",
+      "published": "2026-09-27T11:00:00+00:00",
       "featured": false
     },
     {
@@ -326,12 +326,12 @@
       "featured": false
     },
     {
-      "id": "fa028662ba5a",
+      "id": "a88a242abb65",
       "source": "Al Jazeera",
-      "headline": "South Sudan calls for sanctions to be lifted at UNGA",
-      "excerpt": "Speaking at the UN General Assembly, South Sudan’s UN envoy Cecilia Adeng called for sanctions to be lifted",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/28/south-sudan-calls-for-sanctions-to-be-lifted-at-unga?traffic_source=rss",
-      "published": "2026-09-28T20:45:52+00:00",
+      "headline": "Rubio, Saudi Arabia’s foreign minister hold talks on Yemen, Hormuz Strait",
+      "excerpt": "Top US and Saudi diplomats discuss cooperation on security challenges, including hostilities with Yemen's Houthis.",
+      "link": "https://www.aljazeera.com/news/2026/9/29/rubio-saudi-arabias-foreign-minister-hold-talks-on-yemen-hormuz-strait?traffic_source=rss",
+      "published": "2026-09-29T04:46:38+00:00",
       "featured": false
     },
     {
@@ -341,6 +341,15 @@
       "excerpt": "Silicon Valley’s rogue agents, a bad Hollywood ending, and more from The Lever this week.",
       "link": "https://www.levernews.com/lever-weekly-the-humans-broke-containment/",
       "published": "2026-09-27T13:03:04+00:00",
+      "featured": false
+    },
+    {
+      "id": "971e95139dc2",
+      "source": "The Intercept",
+      "headline": "Exclusive: Feds Denied Ballistics Expert Access to Prairieland Defendant Who Got 100 Years in Prison",
+      "excerpt": "From gaps in the evidence to a judge's intervention, jurors never got to hear the ricochet theory that would have undermined attempted murder charges. The post Exclusive: Feds Denied Ballistics Expert Access to...",
+      "link": "https://theintercept.com/2026/09/27/prairieland-appeal-gun-bullet-ricochet-benjamin-song/",
+      "published": "2026-09-27T09:00:00+00:00",
       "featured": false
     },
     {
@@ -368,15 +377,6 @@
       "excerpt": "After two failed attempts to nominate a Maine candidate friendly to the party establishment, the consultant class is finding better success with its third approach, co-optation.",
       "link": "https://www.dropsitenews.com/p/democratic-party-consultants-surround",
       "published": "2026-09-25T20:06:44+00:00",
-      "featured": false
-    },
-    {
-      "id": "a80405acf6d2",
-      "source": "The Intercept",
-      "headline": "The Backlash to “NAZA” Shows How Little Israeli Citizenship Really Means",
-      "excerpt": "By threatening the filmmakers, Netanyahu lays bare how fragile the notion of what it means to be Israeli is in the age of its genocide in Gaza. The post The Backlash to “NAZA” Shows How Little Israeli Citizenship Really...",
-      "link": "https://theintercept.com/2026/09/25/naza-documentary-film-netanyahu-israel-revoke-citizenship/",
-      "published": "2026-09-25T18:25:41+00:00",
       "featured": false
     },
     {
@@ -434,12 +434,12 @@
       "featured": false
     },
     {
-      "id": "3fd4c5f42c1b",
+      "id": "bfa5a9c94788",
       "source": "Al Jazeera",
-      "headline": "Slovenia’s U-turn towards Israel",
-      "excerpt": "Slovenia’s policy towards Palestine has changed sharply following a UNGA sideline meeting with Israeli PM Netanyahu.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/28/aje-onl-nf_slovenias-u-turn-towards-israel-280926?traffic_source=rss",
-      "published": "2026-09-28T20:35:51+00:00",
+      "headline": "Ethiopian army claims to have taken Tigrayan stronghold",
+      "excerpt": "The Ethiopian military and allied militia claim to have overtaken the town of Alamata in the Tigray region.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/29/ethiopian-army-claims-to-have-taken-tigrayan-stronghold?traffic_source=rss",
+      "published": "2026-09-29T04:37:21+00:00",
       "featured": false
     },
     {
@@ -461,6 +461,15 @@
       "featured": false
     },
     {
+      "id": "a80405acf6d2",
+      "source": "The Intercept",
+      "headline": "The Backlash to “NAZA” Shows How Little Israeli Citizenship Really Means",
+      "excerpt": "By threatening the filmmakers, Netanyahu lays bare how fragile the notion of what it means to be Israeli is in the age of its genocide in Gaza. The post The Backlash to “NAZA” Shows How Little Israeli Citizenship Really...",
+      "link": "https://theintercept.com/2026/09/25/naza-documentary-film-netanyahu-israel-revoke-citizenship/",
+      "published": "2026-09-25T18:25:41+00:00",
+      "featured": false
+    },
+    {
       "id": "52d2f4ed682f",
       "source": "The Lever",
       "headline": "LeverMind Quiz: Dude, Where’s My Antitrust Case?",
@@ -476,15 +485,6 @@
       "excerpt": "Drop Site Daily: September 25, 2026",
       "link": "https://www.dropsitenews.com/p/iran-us-war-plan-saudi-defense-pakistan-turkey-yemen-argentina-poverty",
       "published": "2026-09-25T15:31:55+00:00",
-      "featured": false
-    },
-    {
-      "id": "342789b4b531",
-      "source": "The Intercept",
-      "headline": "The Blueprint for Democrats to Win Back Voters",
-      "excerpt": "After suffering major losses last election cycle, Justice Democrats resurrected itself, helping put democratic socialism on the map. So what changed? The post The Blueprint for Democrats to Win Back Voters appeared...",
-      "link": "https://theintercept.com/2026/09/25/progressive-justice-democrats-congress-ice/",
-      "published": "2026-09-25T10:00:00+00:00",
       "featured": false
     },
     {
@@ -524,12 +524,12 @@
       "featured": false
     },
     {
-      "id": "a44417750611",
+      "id": "d44c27d98383",
       "source": "Al Jazeera",
-      "headline": "Gaza’s young inventors build robots with what they have",
-      "excerpt": "At a youth hackathon in Gaza City, young inventors are developing robots.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/28/gazas-young-inventors-build-robots-with-what-they-have?traffic_source=rss",
-      "published": "2026-09-28T20:34:22+00:00",
+      "headline": "Russia pounds Ukraine’s Kyiv after deadly strike on Academy of Sciences",
+      "excerpt": "Footage of attack on Academy shows people leaning out of windows as bright flames engulf part of the historic building.",
+      "link": "https://www.aljazeera.com/news/2026/9/29/russian-strike-hits-ukraines-academy-of-sciences-in-kyiv-killing-2?traffic_source=rss",
+      "published": "2026-09-29T03:38:16+00:00",
       "featured": false
     },
     {
