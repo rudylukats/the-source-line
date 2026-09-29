@@ -1,32 +1,59 @@
 {
-  "generated_at": "2026-09-29T05:44:58.765800+00:00",
+  "generated_at": "2026-09-29T12:54:34.057366+00:00",
   "articles": [
     {
-      "id": "041be4a58a5b",
+      "id": "082b9ed229b3",
       "source": "Al Jazeera",
-      "headline": "Public transport drivers strike in Manila over soaring fuel prices",
-      "excerpt": "Public transport drivers in Manila begin a three-day strike over soaring fuel prices.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/29/public-transport-drivers-strike-in-manila-over-soaring-fuel-prices?traffic_source=rss",
-      "published": "2026-09-29T05:21:50+00:00",
+      "headline": "Malaysia sends Rohingya back to Myanmar despite safety warnings",
+      "excerpt": "Malaysia sends Rohingya back to Myanmar despite safety warnings",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/29/malaysia-sends-rohingya-back-myanmar-despite-safety-warnings?traffic_source=rss",
+      "published": "2026-09-29T12:08:40+00:00",
       "featured": true
     },
     {
-      "id": "47efe3370547",
+      "id": "64a7b6bbec64",
+      "source": "OCCRP",
+      "headline": "Seven Arrested in Massive EU Fraud Scheme Selling Used Phones as New",
+      "excerpt": "",
+      "link": "https://www.occrp.org/en/news/seven-arrested-in-massive-eu-fraud-scheme-selling-used-phones-as-new",
+      "published": "2026-09-29T11:23:00+00:00",
+      "featured": true
+    },
+    {
+      "id": "f9c5d3aa491b",
+      "source": "Rest of World",
+      "headline": "The open-source AI platforms vying to become China’s Hugging Face",
+      "excerpt": "AI model platforms ModelScope and MoArk are competing to serve Chinese-speaking developers behind the Great Firewall.",
+      "link": "https://restofworld.org/2026/china-open-source-ai-hugging-face-modelscope-moark/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "published": "2026-09-29T10:00:00+00:00",
+      "featured": true
+    },
+    {
+      "id": "2e72f6c00656",
       "source": "The Intercept",
-      "headline": "U.S. Has Suffered More Casualties In Iran Since the Conclusion of Operation Epic Fury",
-      "excerpt": "The Trump administration’s attempt to rebrand its faltering forever war hasn’t slowed the mounting toll of U.S. casualties. The post U.S. Has Suffered More Casualties In Iran Since the Conclusion of Operation Epic Fury...",
-      "link": "https://theintercept.com/2026/09/28/iran-war-us-casualties-operation-epic-fury/",
-      "published": "2026-09-28T21:45:18+00:00",
-      "featured": true
+      "headline": "Prison That Didn’t Report Sex Abuse Allegation Against Staffer to Reopen as ICE Camp",
+      "excerpt": "A whistleblower says the warden didn’t make a federally required disclosure. Now the company is turning the Arizona prison into an ICE jail. The post Prison That Didn’t Report Sex Abuse Allegation Against Staffer to...",
+      "link": "https://theintercept.com/2026/09/29/ice-private-prison-mtc-marana-sexual-abuse-arizona/",
+      "published": "2026-09-29T09:56:00+00:00",
+      "featured": false
     },
     {
-      "id": "31eb85999175",
+      "id": "bf51ac09c133",
+      "source": "ProPublica",
+      "headline": "“A Massive Power Grab”: White House Proposal Threatens Funding That Helps Disabled Americans Vote",
+      "excerpt": "The post “A Massive Power Grab”: White House Proposal Threatens Funding That Helps Disabled Americans Vote appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/disabled-voters-nonprofit-funding-cuts-omb",
+      "published": "2026-09-29T09:00:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "abd364a46c23",
       "source": "The Lever",
-      "headline": "Bankers Rely On Ripping You Off. Wall Street Just Admitted It.",
-      "excerpt": "Banks make billions underpaying depositors — and Wall Street just admitted that consumers finding better deals could threaten the system.",
-      "link": "https://www.levernews.com/banks-fear-ai-will-find-you-a-better-deal/",
-      "published": "2026-09-28T19:25:02+00:00",
-      "featured": true
+      "headline": "Why Won’t Congress Stand Up To Trump? (With Chris Van Hollen)",
+      "excerpt": "The Maryland senator says Congress has surrendered too much power to the president — and he knows what Democrats should do about it.",
+      "link": "https://www.levernews.com/why-wont-congress-stand-up-to-trump-with-chris-van-hollen/",
+      "published": "2026-09-29T08:15:21+00:00",
+      "featured": false
     },
     {
       "id": "bfc47390aebb",
@@ -44,33 +71,6 @@
       "excerpt": "Murtaza Hussain interviews Gregory Brew",
       "link": "https://www.dropsitenews.com/p/washington-make-energy-crisis-much-worse",
       "published": "2026-09-28T17:25:30+00:00",
-      "featured": false
-    },
-    {
-      "id": "db77ef27cd18",
-      "source": "ProPublica",
-      "headline": "The Untold Origins of Trump’s Plan to Sharply Restrict Mail-In Voting",
-      "excerpt": "The post The Untold Origins of Trump’s Plan to Sharply Restrict Mail-In Voting appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/trumps-plan-to-restrict-mail-voting",
-      "published": "2026-09-28T15:30:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "d4d3a570d18e",
-      "source": "OCCRP",
-      "headline": "French Prosecutors Seek Prison Time for Ex-Minister Dati in Renault-Nissan Case",
-      "excerpt": "",
-      "link": "https://www.occrp.org/en/news/french-prosecutors-seek-prison-time-for-ex-minister-dati-in-renault-nissan-case",
-      "published": "2026-09-28T15:17:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "1c512e25ba17",
-      "source": "Rest of World",
-      "headline": "South Korea’s AI chip giants are fighting for a bigger role in America’s AI boom",
-      "excerpt": "Samsung and SK Hynix dominate the high-bandwidth memory market. Now they are competing to become indispensable to Nvidia, OpenAI, and other U.S. AI companies.",
-      "link": "https://restofworld.org/2026/samsung-sk-hynix-ai-memory-chip-war-nvidia-openai/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-      "published": "2026-09-28T10:00:00+00:00",
       "featured": false
     },
     {
@@ -110,30 +110,48 @@
       "featured": false
     },
     {
-      "id": "e366347dd3c8",
+      "id": "9845b0d83180",
       "source": "Al Jazeera",
-      "headline": "More than 80 reported abducted in Nigeria as police find human remains",
-      "excerpt": "Farmers and women abducted in northern Niger and Zamfara states as police find human remains at suspected gang camps.",
-      "link": "https://www.aljazeera.com/news/2026/9/29/more-than-80-reported-abducted-in-nigeria-as-police-find-human-remains?traffic_source=rss",
-      "published": "2026-09-29T05:17:35+00:00",
+      "headline": "Journalist ascends to throne in Uganda kingdom after succession dispute",
+      "excerpt": "Edward Rukidi Kijanangoma succeeds King Oyo Nyimba Kabamba Iguru Rukidi IV, who died last month.",
+      "link": "https://www.aljazeera.com/news/2026/9/29/journalist-ascends-to-throne-in-uganda-kingdom-after-succession-dispute?traffic_source=rss",
+      "published": "2026-09-29T12:07:31+00:00",
       "featured": false
     },
     {
-      "id": "033725f5646c",
-      "source": "The Lever",
-      "headline": "You Just Paid To Re-Run A Trump Campaign Ad",
-      "excerpt": "The White House has issued a taxpayer-funded “PSA” that looks a lot like a repurposed MAGA campaign advertisement.",
-      "link": "https://www.levernews.com/you-just-paid-to-re-run-a-trump-campaign-ad/",
-      "published": "2026-09-28T16:55:48+00:00",
+      "id": "996a98f0c396",
+      "source": "OCCRP",
+      "headline": "Lithuanian Mayor Found Guilty in Expense Fraud Case",
+      "excerpt": "",
+      "link": "https://www.occrp.org/en/news/lithuanian-mayor-found-guilty-in-expense-fraud-case",
+      "published": "2026-09-29T11:17:00+00:00",
       "featured": false
     },
     {
-      "id": "cf3f413323cb",
+      "id": "db1984d394ef",
       "source": "The Intercept",
-      "headline": "AI Almost Started a U.S.–China War — and No One Seems to Care",
-      "excerpt": "The tech world is too busy dreaming up imaginary doomsday scenarios to focus on a very real one that flared up between nuclear powers. The post AI Almost Started a U.S.–China War — and No One Seems to Care appeared...",
-      "link": "https://theintercept.com/2026/09/28/ai-military-nuclear-war-doomsday/",
-      "published": "2026-09-28T16:54:05+00:00",
+      "headline": "The Intercept Sues Texas City Over Refusal to Release Police Records on Prairieland Protest",
+      "excerpt": "“This is one of the singularly most distressing cases that I’ve seen in terms of public access to records. This is stonewalling on steroids.” The post The Intercept Sues Texas City Over Refusal to Release Police Records...",
+      "link": "https://theintercept.com/2026/09/29/intercept-sues-police-prairieland-ice-public-records/",
+      "published": "2026-09-29T08:53:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "31eb85999175",
+      "source": "The Lever",
+      "headline": "Bankers Rely On Ripping You Off. Wall Street Just Admitted It.",
+      "excerpt": "Banks make billions underpaying depositors — and Wall Street just admitted that consumers finding better deals could threaten the system.",
+      "link": "https://www.levernews.com/banks-fear-ai-will-find-you-a-better-deal/",
+      "published": "2026-09-28T19:25:02+00:00",
+      "featured": false
+    },
+    {
+      "id": "db77ef27cd18",
+      "source": "ProPublica",
+      "headline": "The Untold Origins of Trump’s Plan to Sharply Restrict Mail-In Voting",
+      "excerpt": "The post The Untold Origins of Trump’s Plan to Sharply Restrict Mail-In Voting appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/trumps-plan-to-restrict-mail-voting",
+      "published": "2026-09-28T15:30:00+00:00",
       "featured": false
     },
     {
@@ -155,30 +173,12 @@
       "featured": false
     },
     {
-      "id": "73821af34f48",
-      "source": "OCCRP",
-      "headline": "Wife, Daughter of Ecuador Gang Boss Arrested in Colombia",
-      "excerpt": "",
-      "link": "https://www.occrp.org/en/news/wife-daughter-of-ecuador-gang-boss-arrested-in-colombia",
-      "published": "2026-09-28T11:05:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "7db3431e1a6f",
-      "source": "ProPublica",
-      "headline": "Arizona Lawmaker Proposes More Federal Support for English Fluency Services",
-      "excerpt": "The post Arizona Lawmaker Proposes More Federal Support for English Fluency Services appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/arizona-english-fluency-legislation-adelita-grijalva",
-      "published": "2026-09-28T10:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "b844be79353e",
+      "id": "1c512e25ba17",
       "source": "Rest of World",
-      "headline": "China is excelling in health tech. That’s good news for the world",
-      "excerpt": "A visitor experiences an artificial intelligence health screening system at the 2026 Ningxia Elderly Care Service Expo on August 28, 2026 in Yinchuan, China.",
-      "link": "https://restofworld.org/2026/china-ai-healthcare-biotech-drugs/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-      "published": "2026-09-24T10:00:00+00:00",
+      "headline": "South Korea’s AI chip giants are fighting for a bigger role in America’s AI boom",
+      "excerpt": "Samsung and SK Hynix dominate the high-bandwidth memory market. Now they are competing to become indispensable to Nvidia, OpenAI, and other U.S. AI companies.",
+      "link": "https://restofworld.org/2026/samsung-sk-hynix-ai-memory-chip-war-nvidia-openai/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "published": "2026-09-28T10:00:00+00:00",
       "featured": false
     },
     {
@@ -218,21 +218,39 @@
       "featured": false
     },
     {
-      "id": "37f52181a962",
+      "id": "686f9c33910f",
       "source": "Al Jazeera",
-      "headline": "Pope Leo says AI risk concerns not ‘fake news’",
-      "excerpt": "Leader of the Catholic Church says AI safety issues should be taken seriously and acted on.",
-      "link": "https://www.aljazeera.com/economy/2026/9/29/pope-leo-says-ai-risk-concerns-not-fake-news?traffic_source=rss",
-      "published": "2026-09-29T04:51:46+00:00",
+      "headline": "Hormuz and Yemen: Iran offers de-escalation at a price others will pay",
+      "excerpt": "Iran is using Hormuz to seek US concessions, relief for the Houthis and greater control over Gulf shipping.",
+      "link": "https://www.aljazeera.com/opinions/2026/9/29/hormuz-and-yemen-iran-offers-de-escalation-at-a-price-others-will-pay?traffic_source=rss",
+      "published": "2026-09-29T12:00:00+00:00",
       "featured": false
     },
     {
-      "id": "8497628763ad",
+      "id": "6fa18f6cd1a5",
+      "source": "OCCRP",
+      "headline": "OCCRP Partner Siraj Wins 2026 Samir Kassir Award",
+      "excerpt": "",
+      "link": "https://www.occrp.org/en/news/occrp-partner-siraj-wins-2026-samir-kassir-award",
+      "published": "2026-09-29T09:14:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "47efe3370547",
+      "source": "The Intercept",
+      "headline": "U.S. Has Suffered More Casualties In Iran Since the Conclusion of Operation Epic Fury",
+      "excerpt": "The Trump administration’s attempt to rebrand its faltering forever war hasn’t slowed the mounting toll of U.S. casualties. The post U.S. Has Suffered More Casualties In Iran Since the Conclusion of Operation Epic Fury...",
+      "link": "https://theintercept.com/2026/09/28/iran-war-us-casualties-operation-epic-fury/",
+      "published": "2026-09-28T21:45:18+00:00",
+      "featured": false
+    },
+    {
+      "id": "033725f5646c",
       "source": "The Lever",
-      "headline": "Trump’s AI Deregulator Has A Billion-Dollar Side Bet",
-      "excerpt": "As David Sacks pushed Trump to reject AI safeguards, his venture capital firm invested in AI startups and is now raising a new $1 billion fund.",
-      "link": "https://www.levernews.com/trumps-ai-deregulator-has-a-billion-dollar-side-bet/",
-      "published": "2026-09-28T16:44:12+00:00",
+      "headline": "You Just Paid To Re-Run A Trump Campaign Ad",
+      "excerpt": "The White House has issued a taxpayer-funded “PSA” that looks a lot like a repurposed MAGA campaign advertisement.",
+      "link": "https://www.levernews.com/you-just-paid-to-re-run-a-trump-campaign-ad/",
+      "published": "2026-09-28T16:55:48+00:00",
       "featured": false
     },
     {
@@ -245,12 +263,12 @@
       "featured": false
     },
     {
-      "id": "a1b3b4e22524",
+      "id": "7db3431e1a6f",
       "source": "ProPublica",
-      "headline": "Two Years After Hurricane Helene, People Are Still Allowed to Live in Harm’s Way",
-      "excerpt": "The post Two Years After Hurricane Helene, People Are Still Allowed to Live in Harm’s Way appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/hurricane-helene-flood-prone-areas",
-      "published": "2026-09-28T09:00:00+00:00",
+      "headline": "Arizona Lawmaker Proposes More Federal Support for English Fluency Services",
+      "excerpt": "The post Arizona Lawmaker Proposes More Federal Support for English Fluency Services appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/arizona-english-fluency-legislation-adelita-grijalva",
+      "published": "2026-09-28T10:00:00+00:00",
       "featured": false
     },
     {
@@ -263,30 +281,12 @@
       "featured": false
     },
     {
-      "id": "676103776410",
-      "source": "The Intercept",
-      "headline": "The “Satanic Panic” Made Her a True-Crime Obsession. The Truth Is More Haunting.",
-      "excerpt": "After 30 years on death row, Christa Pike faces execution for a grisly murder she committed at 18. The post The “Satanic Panic” Made Her a True-Crime Obsession. The Truth Is More Haunting. appeared first on The...",
-      "link": "https://theintercept.com/2026/09/27/christa-pike-execution-women-death-row/",
-      "published": "2026-09-27T11:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "943ddc92e588",
-      "source": "OCCRP",
-      "headline": "Internal Watchdog says Data Leaks and Bribery Push French Police Misconduct Cases to Five-Year High",
-      "excerpt": "An internal report recorded 341 integrity breaches within France’s National Police last year, driven by a sharp rise in unauthorized database queries and bribery, even as the oversight body lacks the power to penalize...",
-      "link": "https://www.occrp.org/en/news/france-corruption-cases-in-the-police-force-surged-in-2025",
-      "published": "2026-09-25T14:22:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "b8b45b57d93a",
+      "id": "b844be79353e",
       "source": "Rest of World",
-      "headline": "Dario Amodei wants to slow AI. China isn’t taking orders",
-      "excerpt": "Chinese officials and engineers see an attempt to preserve the U.S. lead; “Why do you always get to define the game — and change the rules?”",
-      "link": "https://restofworld.org/2026/china-rejects-dario-amodei-anthropic-ai-slowdown-trump-xi/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-      "published": "2026-09-23T10:00:00+00:00",
+      "headline": "China is excelling in health tech. That’s good news for the world",
+      "excerpt": "A visitor experiences an artificial intelligence health screening system at the 2026 Ningxia Elderly Care Service Expo on August 28, 2026 in Yinchuan, China.",
+      "link": "https://restofworld.org/2026/china-ai-healthcare-biotech-drugs/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "published": "2026-09-24T10:00:00+00:00",
       "featured": false
     },
     {
@@ -326,30 +326,48 @@
       "featured": false
     },
     {
-      "id": "a88a242abb65",
+      "id": "11f8bfdcce2f",
       "source": "Al Jazeera",
-      "headline": "Rubio, Saudi Arabia’s foreign minister hold talks on Yemen, Hormuz Strait",
-      "excerpt": "Top US and Saudi diplomats discuss cooperation on security challenges, including hostilities with Yemen's Houthis.",
-      "link": "https://www.aljazeera.com/news/2026/9/29/rubio-saudi-arabias-foreign-minister-hold-talks-on-yemen-hormuz-strait?traffic_source=rss",
-      "published": "2026-09-29T04:46:38+00:00",
+      "headline": "Can Tajikistan’s economic boom survive its debt gamble?",
+      "excerpt": "Rapid growth masks Tajikistan’s reliance on remittances and risky state debt.",
+      "link": "https://www.aljazeera.com/opinions/2026/9/29/can-tajikistans-economic-boom-survive-its-debt-gamble?traffic_source=rss",
+      "published": "2026-09-29T11:58:32+00:00",
       "featured": false
     },
     {
-      "id": "c7e573b3b236",
-      "source": "The Lever",
-      "headline": "Lever Weekly: The Humans Broke Containment",
-      "excerpt": "Silicon Valley’s rogue agents, a bad Hollywood ending, and more from The Lever this week.",
-      "link": "https://www.levernews.com/lever-weekly-the-humans-broke-containment/",
-      "published": "2026-09-27T13:03:04+00:00",
-      "featured": false
-    },
-    {
-      "id": "971e95139dc2",
+      "id": "cf3f413323cb",
       "source": "The Intercept",
-      "headline": "Exclusive: Feds Denied Ballistics Expert Access to Prairieland Defendant Who Got 100 Years in Prison",
-      "excerpt": "From gaps in the evidence to a judge's intervention, jurors never got to hear the ricochet theory that would have undermined attempted murder charges. The post Exclusive: Feds Denied Ballistics Expert Access to...",
-      "link": "https://theintercept.com/2026/09/27/prairieland-appeal-gun-bullet-ricochet-benjamin-song/",
-      "published": "2026-09-27T09:00:00+00:00",
+      "headline": "AI Almost Started a U.S.–China War — and No One Seems to Care",
+      "excerpt": "The tech world is too busy dreaming up imaginary doomsday scenarios to focus on a very real one that flared up between nuclear powers. The post AI Almost Started a U.S.–China War — and No One Seems to Care appeared...",
+      "link": "https://theintercept.com/2026/09/28/ai-military-nuclear-war-doomsday/",
+      "published": "2026-09-28T16:54:05+00:00",
+      "featured": false
+    },
+    {
+      "id": "8497628763ad",
+      "source": "The Lever",
+      "headline": "Trump’s AI Deregulator Has A Billion-Dollar Side Bet",
+      "excerpt": "As David Sacks pushed Trump to reject AI safeguards, his venture capital firm invested in AI startups and is now raising a new $1 billion fund.",
+      "link": "https://www.levernews.com/trumps-ai-deregulator-has-a-billion-dollar-side-bet/",
+      "published": "2026-09-28T16:44:12+00:00",
+      "featured": false
+    },
+    {
+      "id": "d4d3a570d18e",
+      "source": "OCCRP",
+      "headline": "French Prosecutors Seek Prison Time for Ex-Minister Dati in Renault-Nissan Case",
+      "excerpt": "",
+      "link": "https://www.occrp.org/en/news/french-prosecutors-seek-prison-time-for-ex-minister-dati-in-renault-nissan-case",
+      "published": "2026-09-28T15:17:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "a1b3b4e22524",
+      "source": "ProPublica",
+      "headline": "Two Years After Hurricane Helene, People Are Still Allowed to Live in Harm’s Way",
+      "excerpt": "The post Two Years After Hurricane Helene, People Are Still Allowed to Live in Harm’s Way appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/hurricane-helene-flood-prone-areas",
+      "published": "2026-09-28T09:00:00+00:00",
       "featured": false
     },
     {
@@ -362,15 +380,6 @@
       "featured": false
     },
     {
-      "id": "cb854f1d801f",
-      "source": "ProPublica",
-      "headline": "I Deliberately Bet Like a Problem Gambler. DraftKings Made Me a VIP.",
-      "excerpt": "The post I Deliberately Bet Like a Problem Gambler. DraftKings Made Me a VIP. appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/draftkings-sports-gambling-problem-vip-fanduel",
-      "published": "2026-09-26T09:00:00+00:00",
-      "featured": false
-    },
-    {
       "id": "6a8aa7c88ac6",
       "source": "Dropsite News",
       "headline": "Democratic Party Consultants Surround Troy Jackson with Pro-Israel Donors",
@@ -380,21 +389,12 @@
       "featured": false
     },
     {
-      "id": "d157d0b724b9",
-      "source": "OCCRP",
-      "headline": "Guns, Camouflage, and Facebook: How Colombia’s Biggest ‘Narcoinfluencer’ Weaponized Social Media",
-      "excerpt": "Nain Pérez, known as Bendito Menor\" (“Little Blessing”), turned his life as an illegal armed-group commander into social media content that resonated in Colombia. His death in a government raid earlier this month may...",
-      "link": "https://www.occrp.org/en/feature/the-dramatic-death-of-a-social-media-star-shines-a-light-on-colombias-narcoinfluencer-culture",
-      "published": "2026-09-25T10:11:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "239a6d559291",
+      "id": "b8b45b57d93a",
       "source": "Rest of World",
-      "headline": "America is in the wrong AI race with China",
-      "excerpt": "The U.S. is framing its rivalry with China as one of technical superiority, failing to recognize that public trust and robust consumer protections are necessary for long-term dominance.",
-      "link": "https://restofworld.org/2026/america-china-ai-race-trust/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-      "published": "2026-09-22T10:00:00+00:00",
+      "headline": "Dario Amodei wants to slow AI. China isn’t taking orders",
+      "excerpt": "Chinese officials and engineers see an attempt to preserve the U.S. lead; “Why do you always get to define the game — and change the rules?”",
+      "link": "https://restofworld.org/2026/china-rejects-dario-amodei-anthropic-ai-slowdown-trump-xi/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "published": "2026-09-23T10:00:00+00:00",
       "featured": false
     },
     {
@@ -434,21 +434,48 @@
       "featured": false
     },
     {
-      "id": "bfa5a9c94788",
+      "id": "7a610a363418",
       "source": "Al Jazeera",
-      "headline": "Ethiopian army claims to have taken Tigrayan stronghold",
-      "excerpt": "The Ethiopian military and allied militia claim to have overtaken the town of Alamata in the Tigray region.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/29/ethiopian-army-claims-to-have-taken-tigrayan-stronghold?traffic_source=rss",
-      "published": "2026-09-29T04:37:21+00:00",
+      "headline": "What did Yamal say to Messi at World Cup final? ‘Thank you for everything’",
+      "excerpt": "Lamine Yamal shared a warm embrace with Lionel Messi, thanking the Argentinian icon for everything he gave to football.",
+      "link": "https://www.aljazeera.com/sports/2026/9/29/lamine-yamal-lionel-messi-spain-argentina-fifa-world-cup-2026-final?traffic_source=rss",
+      "published": "2026-09-29T11:58:26+00:00",
       "featured": false
     },
     {
-      "id": "b8305af197a3",
+      "id": "73821af34f48",
+      "source": "OCCRP",
+      "headline": "Wife, Daughter of Ecuador Gang Boss Arrested in Colombia",
+      "excerpt": "",
+      "link": "https://www.occrp.org/en/news/wife-daughter-of-ecuador-gang-boss-arrested-in-colombia",
+      "published": "2026-09-28T11:05:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "c7e573b3b236",
+      "source": "The Lever",
+      "headline": "Lever Weekly: The Humans Broke Containment",
+      "excerpt": "Silicon Valley’s rogue agents, a bad Hollywood ending, and more from The Lever this week.",
+      "link": "https://www.levernews.com/lever-weekly-the-humans-broke-containment/",
+      "published": "2026-09-27T13:03:04+00:00",
+      "featured": false
+    },
+    {
+      "id": "676103776410",
+      "source": "The Intercept",
+      "headline": "The “Satanic Panic” Made Her a True-Crime Obsession. The Truth Is More Haunting.",
+      "excerpt": "After 30 years on death row, Christa Pike faces execution for a grisly murder she committed at 18. The post The “Satanic Panic” Made Her a True-Crime Obsession. The Truth Is More Haunting. appeared first on The...",
+      "link": "https://theintercept.com/2026/09/27/christa-pike-execution-women-death-row/",
+      "published": "2026-09-27T11:00:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "cb854f1d801f",
       "source": "ProPublica",
-      "headline": "What Does Your Data Reveal About Sports Betting Apps? Help ProPublica Find Out.",
-      "excerpt": "The post What Does Your Data Reveal About Sports Betting Apps? Help ProPublica Find Out. appeared first on ProPublica.",
-      "link": "https://projects.propublica.org/sports-betting-uploader",
-      "published": "2026-09-26T08:55:00+00:00",
+      "headline": "I Deliberately Bet Like a Problem Gambler. DraftKings Made Me a VIP.",
+      "excerpt": "The post I Deliberately Bet Like a Problem Gambler. DraftKings Made Me a VIP. appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/draftkings-sports-gambling-problem-vip-fanduel",
+      "published": "2026-09-26T09:00:00+00:00",
       "featured": false
     },
     {
@@ -461,24 +488,6 @@
       "featured": false
     },
     {
-      "id": "a80405acf6d2",
-      "source": "The Intercept",
-      "headline": "The Backlash to “NAZA” Shows How Little Israeli Citizenship Really Means",
-      "excerpt": "By threatening the filmmakers, Netanyahu lays bare how fragile the notion of what it means to be Israeli is in the age of its genocide in Gaza. The post The Backlash to “NAZA” Shows How Little Israeli Citizenship Really...",
-      "link": "https://theintercept.com/2026/09/25/naza-documentary-film-netanyahu-israel-revoke-citizenship/",
-      "published": "2026-09-25T18:25:41+00:00",
-      "featured": false
-    },
-    {
-      "id": "52d2f4ed682f",
-      "source": "The Lever",
-      "headline": "LeverMind Quiz: Dude, Where’s My Antitrust Case?",
-      "excerpt": "Test your knowledge of Hollywood mergers, super PACs, and other issues that really matter.",
-      "link": "https://www.levernews.com/levermind-quiz-dude-wheres-my-antitrust-case/",
-      "published": "2026-09-25T16:48:08+00:00",
-      "featured": false
-    },
-    {
       "id": "0773a85fcaa3",
       "source": "Dropsite News",
       "headline": "Iran pushes 7-day plan to end war; Saudi calls on regional pact for defense; Argentina’s poverty rate climbs to over 32%",
@@ -488,21 +497,12 @@
       "featured": false
     },
     {
-      "id": "6cc4d1eb158d",
-      "source": "OCCRP",
-      "headline": "Bosnian Police Officer Dies by Suicide Following Raid",
-      "excerpt": "",
-      "link": "https://www.occrp.org/en/news/bosnian-police-officer-dies-by-suicide-following-raid",
-      "published": "2026-09-24T18:05:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "15974b08af44",
+      "id": "239a6d559291",
       "source": "Rest of World",
-      "headline": "Nvidia’s free AI model could push the UAE closer to the U.S.",
-      "excerpt": "The Emirates owns the machines but rents the intelligence. Nvidia’s next free AI model could change that.",
-      "link": "https://restofworld.org/2026/nvidia-open-source-ai-models-uae/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-      "published": "2026-09-21T10:00:00+00:00",
+      "headline": "America is in the wrong AI race with China",
+      "excerpt": "The U.S. is framing its rivalry with China as one of technical superiority, failing to recognize that public trust and robust consumer protections are necessary for long-term dominance.",
+      "link": "https://restofworld.org/2026/america-china-ai-race-trust/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "published": "2026-09-22T10:00:00+00:00",
       "featured": false
     },
     {
@@ -524,21 +524,21 @@
       "featured": false
     },
     {
-      "id": "d44c27d98383",
+      "id": "2bf1462b21f9",
       "source": "Al Jazeera",
-      "headline": "Russia pounds Ukraine’s Kyiv after deadly strike on Academy of Sciences",
-      "excerpt": "Footage of attack on Academy shows people leaning out of windows as bright flames engulf part of the historic building.",
-      "link": "https://www.aljazeera.com/news/2026/9/29/russian-strike-hits-ukraines-academy-of-sciences-in-kyiv-killing-2?traffic_source=rss",
-      "published": "2026-09-29T03:38:16+00:00",
+      "headline": "Malaysia gave refuge to Rohingya; now it wants them to go",
+      "excerpt": "Malaysia welcomed persecuted Muslim minority but now plans to send them back to Myanmar amid rising hate against them.",
+      "link": "https://www.aljazeera.com/features/2026/9/29/malaysia-gave-refuge-to-rohingya-now-it-wants-them-to-go?traffic_source=rss",
+      "published": "2026-09-29T11:22:40+00:00",
       "featured": false
     },
     {
-      "id": "0a104504132e",
-      "source": "ProPublica",
-      "headline": "Colorado Marijuana Company Voluntarily Recalls Dozens of Contaminated Products Amid State Regulatory Delays",
-      "excerpt": "The post Colorado Marijuana Company Voluntarily Recalls Dozens of Contaminated Products Amid State Regulatory Delays appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/marijuana-vape-recall-craft-colorado-regulatory-delay",
-      "published": "2026-09-25T16:45:00+00:00",
+      "id": "971e95139dc2",
+      "source": "The Intercept",
+      "headline": "Exclusive: Feds Denied Ballistics Expert Access to Prairieland Defendant Who Got 100 Years in Prison",
+      "excerpt": "From gaps in the evidence to a judge's intervention, jurors never got to hear the ricochet theory that would have undermined attempted murder charges. The post Exclusive: Feds Denied Ballistics Expert Access to...",
+      "link": "https://theintercept.com/2026/09/27/prairieland-appeal-gun-bullet-ricochet-benjamin-song/",
+      "published": "2026-09-27T09:00:00+00:00",
       "featured": false
     }
   ]
