@@ -1,13 +1,31 @@
 {
-  "generated_at": "2026-09-30T17:59:55.168292+00:00",
+  "generated_at": "2026-09-30T22:16:58.096323+00:00",
   "articles": [
     {
-      "id": "34b3e56df441",
+      "id": "5a926a6ffec2",
+      "source": "OCCRP",
+      "headline": "The US Blacklists Alleged Venezuelan Cyber Crime Mastermind",
+      "excerpt": "The U.S. Department of the Treasury blacklisted the first cybercriminal on the FBI’s Ten Most Wanted List, accusing the Venezuelan hacker of developing malware that allowed the transnational gang Tren de Aragua and...",
+      "link": "https://www.occrp.org/en/news/the-us-blacklists-alleged-venezuelan-cyber-crime-mastermind",
+      "published": "2026-09-30T21:38:00+00:00",
+      "featured": true
+    },
+    {
+      "id": "44fb4973ccdd",
       "source": "Al Jazeera",
-      "headline": "Netanyahu meets Flydubai passenger who subdued pilot in stabbing attack",
-      "excerpt": "Benjamin Netanyahu has met Yaniv Hayun, the Flydubai passenger that helped restrain a pilot who stabbed a colleague.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/30/netanyahu-meets-flydubai-passenger-who-subdued-pilot-in-stabbing-attack?traffic_source=rss",
-      "published": "2026-09-30T17:36:17+00:00",
+      "headline": "It’s the ‘closest thing to an HIV vaccine’, but who gets access?",
+      "excerpt": "A twice-yearly injection could revolutionise HIV prevention, but who gets access raises bigger questions.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/30/its-the-closest-thing-to-an-hiv-vaccine-but-who-gets-access?traffic_source=rss",
+      "published": "2026-09-30T21:34:30+00:00",
+      "featured": true
+    },
+    {
+      "id": "fc40bfcb96fa",
+      "source": "404 Media",
+      "headline": "Someone ‘Torturing’ LLMs in a Robot Prison Has Triggered the Dumbest Debate in AI Yet",
+      "excerpt": "The \"AI Torture Chamber\" has opened an upsetting and absurd window into the effective altruist obsession with \"model welfare.\"",
+      "link": "https://www.404media.co/someone-torturing-llms-in-a-robot-prison-has-triggered-the-dumbest-debate-in-ai-yet/",
+      "published": "2026-09-30T21:23:11+00:00",
       "featured": true
     },
     {
@@ -17,7 +35,7 @@
       "excerpt": "“I can walk and chew gum at the same time,” said New Mexico gubernatorial candidate Deb Haaland.",
       "link": "https://www.levernews.com/midterm-madness-drought-state-dem-accepts-data-center-cash/",
       "published": "2026-09-30T17:35:40+00:00",
-      "featured": true
+      "featured": false
     },
     {
       "id": "6c01b2080450",
@@ -26,24 +44,6 @@
       "excerpt": "Three-quarters of ICE’s own 2025 death reviews, briefly posted online, raised substandard and “inappropriate” care of ill detainees. The post ICE Deleted Reviews for Deaths in Custody That Cited Shoddy Medical Care...",
       "link": "https://theintercept.com/2026/09/30/ice-custody-deaths-medical-neglect/",
       "published": "2026-09-30T17:23:18+00:00",
-      "featured": true
-    },
-    {
-      "id": "091ba635732d",
-      "source": "OCCRP",
-      "headline": "Egyptian Security Services Arrest Entire Newsroom within 24 Hours",
-      "excerpt": "",
-      "link": "https://www.occrp.org/en/news/egyptian-security-services-arrest-entire-newsroom-in-24-hours",
-      "published": "2026-09-30T16:45:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "5eef6bdd287d",
-      "source": "404 Media",
-      "headline": "USPS To Put Cameras in Trucks That Scan Roads for ‘Community Safety’",
-      "excerpt": "USPS says the cameras, put on USPS truck dashboards, will scan roads, signs, and more.",
-      "link": "https://www.404media.co/usps-to-put-cameras-in-trucks-that-scan-roads-for-community-safety/",
-      "published": "2026-09-30T16:15:10+00:00",
       "featured": false
     },
     {
@@ -110,21 +110,30 @@
       "featured": false
     },
     {
-      "id": "9833d935751a",
+      "id": "fe0c09a90242",
       "source": "Al Jazeera",
-      "headline": "The Burnham bounce: Is Labour gaining ground against Farage’s Reform?",
-      "excerpt": "British opinion polls suggest the Labour Party steadily gaining favour as Reform UK dips.",
-      "link": "https://www.aljazeera.com/news/2026/9/30/burnham-bounce-why-labours-rising-again-reforms-slipping?traffic_source=rss",
-      "published": "2026-09-30T17:34:55+00:00",
+      "headline": "Trump administration files complaint against judges over media comments",
+      "excerpt": "Seven Minnesota judges face ethics complaint after speaking publicly about US president's immigration crackdown.",
+      "link": "https://www.aljazeera.com/news/2026/9/30/trump-administration-files-complaint-against-judges-over-media-comments?traffic_source=rss",
+      "published": "2026-09-30T21:28:43+00:00",
       "featured": false
     },
     {
-      "id": "04be752b4820",
+      "id": "36534b1cb16e",
+      "source": "OCCRP",
+      "headline": "Fiji Overhauls Evidence Security After 52 Kilos of Cocaine Vanish from Court",
+      "excerpt": "More than 50 kilograms of cocaine tied to two major criminal trials vanished from the High Court registry, marking the second major evidence theft this year.",
+      "link": "https://www.occrp.org/en/news/fiji-overhauls-evidence-security-after-52-kilos-of-cocaine-vanish-from-court",
+      "published": "2026-09-30T19:01:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "e5c216711ef1",
       "source": "404 Media",
-      "headline": "Internet Infrastructure Services Empower Deepfake Abuse, New Study Finds",
-      "excerpt": "Cloudflare, Google, and Proton were among the \"dominant\" infrastructure providers to sites dedicated to hosting abusive content, the study found.",
-      "link": "https://www.404media.co/deepfake-abuse-sites-infrastructure-providers-study/",
-      "published": "2026-09-30T16:02:39+00:00",
+      "headline": "Lawyer Cites ChatGPT-Invented Fake Witnesses in Murder Appeal",
+      "excerpt": "\"Do you watch the news? Do you listen to the radio? Do you read anything about what's going on in the world?” one of the judges asked the lawyer, who submitted false testimony and witnesses after using ChatGPT.",
+      "link": "https://www.404media.co/chatgpt-fake-witnesses-testimony-stephen-aarons-new-mexico/",
+      "published": "2026-09-30T18:15:31+00:00",
       "featured": false
     },
     {
@@ -134,15 +143,6 @@
       "excerpt": "Drop Site Daily: September 30, 2026",
       "link": "https://www.dropsitenews.com/p/dubai-israel-flight-canada-goods-ban-trump-deportation-supreme-court",
       "published": "2026-09-30T15:26:09+00:00",
-      "featured": false
-    },
-    {
-      "id": "a85983260879",
-      "source": "OCCRP",
-      "headline": "Dutch Police Arrest Alleged Member of Hacking Group that Targeted FBI",
-      "excerpt": "",
-      "link": "https://www.occrp.org/en/news/dutch-police-arrest-alleged-member-of-hacking-group-that-targeted-fbi",
-      "published": "2026-09-30T14:07:00+00:00",
       "featured": false
     },
     {
@@ -218,30 +218,30 @@
       "featured": false
     },
     {
-      "id": "19157381ade8",
+      "id": "392f43e32709",
       "source": "Al Jazeera",
-      "headline": "Hundreds of Israelis storm Al-Aqsa Mosque compound",
-      "excerpt": "Israeli raids at Al-Aqsa Mosque compound have intensified during the Jewish holiday season.",
-      "link": "https://www.aljazeera.com/news/2026/9/30/over-1300-settlers-raid-al-aqsa-mosque-alongside-israeli-forces?traffic_source=rss",
-      "published": "2026-09-30T17:13:05+00:00",
+      "headline": "Flydubai passengers arrive in Tel Aviv after pilot stabbing",
+      "excerpt": "A replacement Flydubai aircraft has landed in Israel, carrying passengers from the flight on which a pilot was stabbed.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/30/flydubai-passengers-arrive-in-tel-aviv-after-pilot-stabbing?traffic_source=rss",
+      "published": "2026-09-30T21:12:46+00:00",
       "featured": false
     },
     {
-      "id": "54431b67c00a",
-      "source": "404 Media",
-      "headline": "How the Feds Get Your Data",
-      "excerpt": "How local cops are forced to feed their license plate data to the feds, the two loudest birds on the planet, and a very strange video from the FBI.",
-      "link": "https://www.404media.co/how-the-feds-get-your-data/",
-      "published": "2026-09-30T14:50:28+00:00",
-      "featured": false
-    },
-    {
-      "id": "90d4d90d8c0a",
+      "id": "091ba635732d",
       "source": "OCCRP",
-      "headline": "EPPO Indicts Two Polish Nationals in €100 Million Electronics VAT Fraud Scheme",
+      "headline": "Egyptian Security Services Arrest Entire Newsroom within 24 Hours",
       "excerpt": "",
-      "link": "https://www.occrp.org/en/news/eppo-indicts-two-polish-nationals-in-eur100-million-electronics-vat-fraud-scheme",
-      "published": "2026-09-30T14:02:00+00:00",
+      "link": "https://www.occrp.org/en/news/egyptian-security-services-arrest-entire-newsroom-in-24-hours",
+      "published": "2026-09-30T16:45:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "5eef6bdd287d",
+      "source": "404 Media",
+      "headline": "USPS To Put Cameras in Trucks That Scan Roads for ‘Community Safety’",
+      "excerpt": "USPS says the cameras, put on USPS truck dashboards, will scan roads, signs, and more.",
+      "link": "https://www.404media.co/usps-to-put-cameras-in-trucks-that-scan-roads-for-community-safety/",
+      "published": "2026-09-30T16:15:10+00:00",
       "featured": false
     },
     {
@@ -326,21 +326,30 @@
       "featured": false
     },
     {
-      "id": "ad57d19ae24b",
+      "id": "736e296f2597",
       "source": "Al Jazeera",
-      "headline": "MI5 warns UK academics to cut ties with Chinese group over alleged spying",
-      "excerpt": "UK intelligence agency accuses Chinese institute of funding academic research to boost Beijing’s espionage capability.",
-      "link": "https://www.aljazeera.com/news/2026/9/30/mi5-warns-uk-academics-to-cut-ties-with-chinese-group-over-alleged-spying?traffic_source=rss",
-      "published": "2026-09-30T17:07:09+00:00",
+      "headline": "Gas pipeline explodes in Syria, knocks three power plants offline",
+      "excerpt": "Powe rationing hours are to increase as a result of the blast.",
+      "link": "https://www.aljazeera.com/news/2026/9/30/gas-pipeline-explodes-in-syria-knocks-three-power-plants-offline?traffic_source=rss",
+      "published": "2026-09-30T21:01:13+00:00",
       "featured": false
     },
     {
-      "id": "7ec22d701752",
+      "id": "04be752b4820",
       "source": "404 Media",
-      "headline": "How Cities Are Forced to Funnel License Plate Data to a Massive Federal Surveillance Program",
-      "excerpt": "How the federal government built a massive database of license plate reader data through an anti-drug trafficking program.",
-      "link": "https://www.404media.co/how-cities-are-forced-to-funnel-license-plate-data-to-a-massive-federal-surveillance-program-hidta/",
-      "published": "2026-09-30T14:29:15+00:00",
+      "headline": "Internet Infrastructure Services Empower Deepfake Abuse, New Study Finds",
+      "excerpt": "Cloudflare, Google, and Proton were among the \"dominant\" infrastructure providers to sites dedicated to hosting abusive content, the study found.",
+      "link": "https://www.404media.co/deepfake-abuse-sites-infrastructure-providers-study/",
+      "published": "2026-09-30T16:02:39+00:00",
+      "featured": false
+    },
+    {
+      "id": "a85983260879",
+      "source": "OCCRP",
+      "headline": "Dutch Police Arrest Alleged Member of Hacking Group that Targeted FBI",
+      "excerpt": "",
+      "link": "https://www.occrp.org/en/news/dutch-police-arrest-alleged-member-of-hacking-group-that-targeted-fbi",
+      "published": "2026-09-30T14:07:00+00:00",
       "featured": false
     },
     {
@@ -350,15 +359,6 @@
       "excerpt": "MOGADISHU, Somalia—The maritime force for Somalia’s semi-autonomous Puntland region has seized control of two separate hijacked oil tankers, Puntland security sources tell Drop Site News.",
       "link": "https://www.dropsitenews.com/p/two-oil-tankers-freed-from-pirates-somalia-puntland",
       "published": "2026-09-29T19:44:02+00:00",
-      "featured": false
-    },
-    {
-      "id": "7758eea92b78",
-      "source": "OCCRP",
-      "headline": "Trafigura Bought Venezuelan Gold in ‘Historic’ US Deal in March. It’s Still in Storage.",
-      "excerpt": "Experts say lawlessness in Venezuelan gold mining areas makes it hard to meet U.S. standards for import. International commodities trader Trafigura told OCCRP that the Venezuelan gold it bought after the U.S. lifted...",
-      "link": "https://www.occrp.org/en/news/trafigura-bought-venezuelan-gold-in-historic-us-deal-in-march-its-still-in-storage",
-      "published": "2026-09-29T15:30:00+00:00",
       "featured": false
     },
     {
@@ -425,21 +425,30 @@
       "featured": false
     },
     {
-      "id": "50500c48293d",
+      "id": "b9aafb3b2adf",
       "source": "Al Jazeera",
-      "headline": "US appeals court halts Tennessee execution of Christa Pike",
-      "excerpt": "Christa Pike was set to become the first woman executed by Tennessee in more than 200 years.",
-      "link": "https://www.aljazeera.com/news/2026/9/30/us-appeals-court-halts-tennessee-execution-of-christa-pike?traffic_source=rss",
-      "published": "2026-09-30T16:44:16+00:00",
+      "headline": "Israeli attacks across Gaza kill at least eight",
+      "excerpt": "Israeli attacks on residential areas across Gaza killed at least eight civilians and wounded others on Wednesday",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/30/israeli-attacks-across-gaza-kill-at-least-eight?traffic_source=rss",
+      "published": "2026-09-30T20:12:22+00:00",
       "featured": false
     },
     {
-      "id": "323ffac229ef",
+      "id": "54431b67c00a",
       "source": "404 Media",
-      "headline": "Two New Birds Louder Than Jackhammers Just Dropped",
-      "excerpt": "The bare-throated bellbird and the red-legged seriema join the white bellbird in the winner’s circle of the loudest birds on Earth, with calls exceeding 120 decibels—louder than a chainsaw or jackhammer.",
-      "link": "https://www.404media.co/loudest-birds-in-the-world/",
-      "published": "2026-09-29T17:04:37+00:00",
+      "headline": "How the Feds Get Your Data",
+      "excerpt": "How local cops are forced to feed their license plate data to the feds, the two loudest birds on the planet, and a very strange video from the FBI.",
+      "link": "https://www.404media.co/how-the-feds-get-your-data/",
+      "published": "2026-09-30T14:50:28+00:00",
+      "featured": false
+    },
+    {
+      "id": "90d4d90d8c0a",
+      "source": "OCCRP",
+      "headline": "EPPO Indicts Two Polish Nationals in €100 Million Electronics VAT Fraud Scheme",
+      "excerpt": "",
+      "link": "https://www.occrp.org/en/news/eppo-indicts-two-polish-nationals-in-eur100-million-electronics-vat-fraud-scheme",
+      "published": "2026-09-30T14:02:00+00:00",
       "featured": false
     },
     {
@@ -449,15 +458,6 @@
       "excerpt": "Drop Site Daily: September 29, 2026",
       "link": "https://www.dropsitenews.com/p/us-iraq-forces-justice-department-trump-niger-attacks",
       "published": "2026-09-29T15:22:22+00:00",
-      "featured": false
-    },
-    {
-      "id": "c5ddd92684a1",
-      "source": "OCCRP",
-      "headline": "Iraqi Lawmaker Sentenced to 7 Years, Fined $21 Million for Illicit Enrichment",
-      "excerpt": "",
-      "link": "https://www.occrp.org/en/news/iraqi-lawmaker-sentenced-to-7-years-fined-21-million-for-illicit-enrichment",
-      "published": "2026-09-29T13:51:00+00:00",
       "featured": false
     },
     {
@@ -515,30 +515,30 @@
       "featured": false
     },
     {
-      "id": "675695689b36",
+      "id": "049d16a7000a",
       "source": "Al Jazeera",
-      "headline": "Swiss Football Association withdraws support for FIFA boss Gianni Infantino",
-      "excerpt": "Executive committee reverses its support ‌for the ​Swiss football administrator after endorsing his candidacy in June.",
-      "link": "https://www.aljazeera.com/sports/2026/9/30/swiss-football-association-withdraws-support-for-fifa-boss-gianni-infantino?traffic_source=rss",
-      "published": "2026-09-30T16:38:25+00:00",
+      "headline": "US judge rules Wisconsin mosque leader Salah Sarsour can be deported",
+      "excerpt": "Sarsour’s lawyers say the decision threatens free speech protections and plan to fight the ruling.",
+      "link": "https://www.aljazeera.com/news/2026/9/30/us-judge-rules-wisconsin-mosque-leader-salah-sarsour-can-be-deported?traffic_source=rss",
+      "published": "2026-09-30T20:00:36+00:00",
       "featured": false
     },
     {
-      "id": "1432ba9ed75e",
+      "id": "7ec22d701752",
       "source": "404 Media",
-      "headline": "Surveillance Finds a Way",
-      "excerpt": "CEO who wants to add facial recognition to Flock cameras says it's \"the way the world will have to be.\"",
-      "link": "https://www.404media.co/surveillance-finds-a-way/",
-      "published": "2026-09-29T14:05:18+00:00",
+      "headline": "How Cities Are Forced to Funnel License Plate Data to a Massive Federal Surveillance Program",
+      "excerpt": "How the federal government built a massive database of license plate reader data through an anti-drug trafficking program.",
+      "link": "https://www.404media.co/how-cities-are-forced-to-funnel-license-plate-data-to-a-massive-federal-surveillance-program-hidta/",
+      "published": "2026-09-30T14:29:15+00:00",
       "featured": false
     },
     {
-      "id": "64a7b6bbec64",
+      "id": "7758eea92b78",
       "source": "OCCRP",
-      "headline": "Seven Arrested in Massive EU Fraud Scheme Selling Used Phones as New",
-      "excerpt": "",
-      "link": "https://www.occrp.org/en/news/seven-arrested-in-massive-eu-fraud-scheme-selling-used-phones-as-new",
-      "published": "2026-09-29T11:23:00+00:00",
+      "headline": "Trafigura Bought Venezuelan Gold in ‘Historic’ US Deal in March. It’s Still in Storage.",
+      "excerpt": "Experts say lawlessness in Venezuelan gold mining areas makes it hard to meet U.S. standards for import. International commodities trader Trafigura told OCCRP that the Venezuelan gold it bought after the U.S. lifted...",
+      "link": "https://www.occrp.org/en/news/trafigura-bought-venezuelan-gold-in-historic-us-deal-in-march-its-still-in-storage",
+      "published": "2026-09-29T15:30:00+00:00",
       "featured": false
     }
   ]
