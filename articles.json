@@ -1,14 +1,50 @@
 {
-  "generated_at": "2026-10-02T00:48:09.866559+00:00",
+  "generated_at": "2026-10-02T09:47:24.803158+00:00",
   "articles": [
     {
-      "id": "20e648fbc5c9",
+      "id": "585fa9cdddb6",
       "source": "Al Jazeera",
-      "headline": "Iran war live: US moves 2,000 Marines to Middle East, tanker hit in Hormuz",
-      "excerpt": "US deploys Roosevelt strike group and 2,000 Marines to the Middle East as part of a wider buildup around Iran.",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/10/2/iran-war-live-us-moves-2000-marines-to-middle-east-tanker-hit-in-hormuz?traffic_source=rss",
-      "published": "2026-10-02T00:00:00+00:00",
+      "headline": "NBA closes sole Africa training academy in blow to young players",
+      "excerpt": "NBA says its focus is on new global academy opening in Abu Dhabi as Africa, Mexico and Australia hit by closures.",
+      "link": "https://www.aljazeera.com/sports/2026/10/2/nba-closes-sole-africa-training-academy-in-blow-to-young-players?traffic_source=rss",
+      "published": "2026-10-02T09:26:14+00:00",
       "featured": true
+    },
+    {
+      "id": "2bc945548ced",
+      "source": "ProPublica",
+      "headline": "Her Agency Distributes Billions for Housing Projects. Her Husband’s Company Helped Develop Some of Them.",
+      "excerpt": "The post Her Agency Distributes Billions for Housing Projects. Her Husband’s Company Helped Develop Some of Them. appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/oregon-housing-director-husband-conflict",
+      "published": "2026-10-02T09:00:00+00:00",
+      "featured": true
+    },
+    {
+      "id": "ce3fc52fa851",
+      "source": "OCCRP",
+      "headline": "EU Froze Sierra Leone Aid for Harboring Alleged Drug Kingpin, Netherlands Says",
+      "excerpt": "Brussels has frozen roughly $20 million in aid to Sierra Leone's 2026 budget, in a move the Dutch justice minister attributed to the country harboring alleged cocaine kingpin Jos Leijdekkers.",
+      "link": "https://www.occrp.org/en/news/eu-sierra-leone-aid-harboring-alleged-kingpin-netherlands",
+      "published": "2026-10-02T07:18:00+00:00",
+      "featured": true
+    },
+    {
+      "id": "2af2593cf4ff",
+      "source": "The Lever",
+      "headline": "How AI Could Wipe Out Our Brains Before Our Existence",
+      "excerpt": "Cal Newport looks beyond the doomsday predictions and tackles some of the thorniest questions about AI – how it’s changing the way we work, think, and live.",
+      "link": "https://www.levernews.com/how-ai-could-wipe-out-our-brains-before-our-existence/",
+      "published": "2026-10-02T07:10:41+00:00",
+      "featured": false
+    },
+    {
+      "id": "1fe843802ca6",
+      "source": "Dropsite News",
+      "headline": "Cruelty, Deprivation, Indignity: My 22 Months in Israeli Prison",
+      "excerpt": "Palestinian journalist Mujahed Al-Saadi documents his harrowing experience in Israeli detention two years after being arrested from his home in Jenin.",
+      "link": "https://www.dropsitenews.com/p/palestinian-journalist-israeli-megiddo-prison-jenin-mujahed-saadi",
+      "published": "2026-10-02T01:39:30+00:00",
+      "featured": false
     },
     {
       "id": "b410235c0e10",
@@ -17,42 +53,6 @@
       "excerpt": "A Eugene-based publication requested records about a cop accused of misconduct. The city slapped it with a prohibitive fee. The post Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop...",
       "link": "https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/",
       "published": "2026-10-01T21:20:38+00:00",
-      "featured": true
-    },
-    {
-      "id": "7c11ab844e86",
-      "source": "The Lever",
-      "headline": "It’s Not A Bulwark. It’s A Plot.",
-      "excerpt": "The former GOP operatives behind The Bulwark helped sell Democrats a losing strategy. Now they’re positioning themselves to shape the party’s 2028 nominee.",
-      "link": "https://www.levernews.com/bulwark-neocon-democratic-party/",
-      "published": "2026-10-01T20:17:29+00:00",
-      "featured": true
-    },
-    {
-      "id": "55c9da1f14cb",
-      "source": "ProPublica",
-      "headline": "Texas’ Education Board Raised Questions About an AI Learning Tool. The State Then Helped Pilot It in Public Schools.",
-      "excerpt": "The post Texas’ Education Board Raised Questions About an AI Learning Tool. The State Then Helped Pilot It in Public Schools. appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/alpha-school-ai-texas-public-schools-mike-morath",
-      "published": "2026-10-01T20:10:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "18878bc178cc",
-      "source": "Dropsite News",
-      "headline": "How the UAE Financed a Plan to Smear American Muslims",
-      "excerpt": "Leaked documents show how an Emirati defamation campaign extended into the United States, creating a blacklist that includes mainstream Muslim groups and dozens of American citizens.",
-      "link": "https://www.dropsitenews.com/p/uae-alp-services-muslim-brotherhood",
-      "published": "2026-10-01T18:55:03+00:00",
-      "featured": false
-    },
-    {
-      "id": "e112c19abd76",
-      "source": "OCCRP",
-      "headline": "Amnesty Report Documents Morocco's Sustained Spyware Campaign Against Civil Society",
-      "excerpt": "A report from Amnesty International claims the Moroccan government used surveillance systems to silence human rights defenders over the course of the past two decades.",
-      "link": "https://www.occrp.org/en/news/amnesty-report-documents-moroccos-sustained-spyware-campaign-against-civil-society",
-      "published": "2026-10-01T18:50:00+00:00",
       "featured": false
     },
     {
@@ -110,39 +110,48 @@
       "featured": false
     },
     {
-      "id": "a4c33371b4b3",
+      "id": "48ec190a4a26",
       "source": "Al Jazeera",
-      "headline": "Israeli drone kills Palestinian in Gaza, settlers kill another in West Bank",
-      "excerpt": "1,439 Palestinians have been killed in Gaza and 5,052 injured since the 'ceasefire' began in October 2025.",
-      "link": "https://www.aljazeera.com/news/2026/10/1/israeli-drone-kills-palestinian-in-gaza-settlers-kill-another-in-west-bank?traffic_source=rss",
-      "published": "2026-10-01T23:44:39+00:00",
+      "headline": "Arab party leader forced to withdraw from Israeli elections",
+      "excerpt": "Palestinian participation in upcoming Knesset vote continues to shrink with withdrawal of Sami Abu Shehadeh.",
+      "link": "https://www.aljazeera.com/news/2026/10/2/arab-party-leader-forced-to-withdraw-from-israeli-elections?traffic_source=rss",
+      "published": "2026-10-02T09:25:23+00:00",
       "featured": false
     },
     {
-      "id": "566831615288",
+      "id": "7c11ab844e86",
       "source": "The Lever",
-      "headline": "DOGE’s Data Lockdown",
-      "excerpt": "Department of Governmental Efficiency teams are ignoring watchdog requests for information about their access to Americans’ personal data.",
-      "link": "https://www.levernews.com/doges-data-lockdown/",
-      "published": "2026-10-01T16:34:55+00:00",
+      "headline": "It’s Not A Bulwark. It’s A Plot.",
+      "excerpt": "The former GOP operatives behind The Bulwark helped sell Democrats a losing strategy. Now they’re positioning themselves to shape the party’s 2028 nominee.",
+      "link": "https://www.levernews.com/bulwark-neocon-democratic-party/",
+      "published": "2026-10-01T20:17:29+00:00",
       "featured": false
     },
     {
-      "id": "fa2c3c9ecacc",
-      "source": "OCCRP",
-      "headline": "U.K. Sanctions Four Georgians Over Occupied Ukraine Visit",
-      "excerpt": "The new sanctions target political figures and commentators, including the brother-in-law of Tbilisi’s mayor, over a September 2025 meeting with the head of the Russian-backed, so-called Donetsk People’s Republic.",
-      "link": "https://www.occrp.org/en/news/uk-sanctions-four-georgians-over-occupied-ukraine-visit",
-      "published": "2026-10-01T16:27:00+00:00",
+      "id": "55c9da1f14cb",
+      "source": "ProPublica",
+      "headline": "Texas’ Education Board Raised Questions About an AI Learning Tool. The State Then Helped Pilot It in Public Schools.",
+      "excerpt": "The post Texas’ Education Board Raised Questions About an AI Learning Tool. The State Then Helped Pilot It in Public Schools. appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/alpha-school-ai-texas-public-schools-mike-morath",
+      "published": "2026-10-01T20:10:00+00:00",
       "featured": false
     },
     {
-      "id": "b64f32b00fdf",
+      "id": "18878bc178cc",
       "source": "Dropsite News",
-      "headline": "Israel kills another Palestinian journalist; Bolivian attorney general detained; Entire newsroom arrested in Egypt",
-      "excerpt": "Drop Site Daily: October 1, 2026",
-      "link": "https://www.dropsitenews.com/p/israel-gaza-journalist-bolivia-attorney-general-egypt-arrest-newsroom",
-      "published": "2026-10-01T14:22:44+00:00",
+      "headline": "How the UAE Financed a Plan to Smear American Muslims",
+      "excerpt": "Leaked documents show how an Emirati defamation campaign extended into the United States, creating a blacklist that includes mainstream Muslim groups and dozens of American citizens.",
+      "link": "https://www.dropsitenews.com/p/uae-alp-services-muslim-brotherhood",
+      "published": "2026-10-01T18:55:03+00:00",
+      "featured": false
+    },
+    {
+      "id": "e112c19abd76",
+      "source": "OCCRP",
+      "headline": "Amnesty Report Documents Morocco's Sustained Spyware Campaign Against Civil Society",
+      "excerpt": "A report from Amnesty International claims the Moroccan government used surveillance systems to silence human rights defenders over the course of the past two decades.",
+      "link": "https://www.occrp.org/en/news/amnesty-report-documents-moroccos-sustained-spyware-campaign-against-civil-society",
+      "published": "2026-10-01T18:50:00+00:00",
       "featured": false
     },
     {
@@ -161,15 +170,6 @@
       "excerpt": "Trump’s proposed budget hides $1 trillion in military spending from the public by spreading it across disparate government agencies. The post The Pentagon’s Secret Budget appeared first on The Intercept.",
       "link": "https://theintercept.com/2026/10/01/trump-military-true-cost-budget-pentagon-trillions/",
       "published": "2026-10-01T10:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "6460f13c7ee3",
-      "source": "ProPublica",
-      "headline": "Four Kids in One Faith-Healing Family Died. Authorities Could Do Nothing.",
-      "excerpt": "The post Four Kids in One Faith-Healing Family Died. Authorities Could Do Nothing. appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/idaho-faith-healing-multiple-deaths",
-      "published": "2026-10-01T09:00:00+00:00",
       "featured": false
     },
     {
@@ -218,21 +218,39 @@
       "featured": false
     },
     {
-      "id": "4a25225825f9",
+      "id": "1ced9cfaa757",
       "source": "Al Jazeera",
-      "headline": "Brazilian government calls for probe into US funding of far-right causes",
-      "excerpt": "Report stating that Trump administration directed funds towards right-wing groups comes ahead of presidential election.",
-      "link": "https://www.aljazeera.com/news/2026/10/1/brazilian-government-calls-for-probe-into-us-funding-of-far-right-causes?traffic_source=rss",
-      "published": "2026-10-01T22:48:17+00:00",
+      "headline": "Manchester City to launch appeal as financial breach fallout grows",
+      "excerpt": "Friday deadline looms as the legal fallout widens beyond the Premier League case over the alleged breaches.",
+      "link": "https://www.aljazeera.com/sports/2026/10/2/manchester-city-to-launch-deadline-appeal-as-financial-breach-fallout-grows?traffic_source=rss",
+      "published": "2026-10-02T09:24:48+00:00",
       "featured": false
     },
     {
-      "id": "0b57f9183248",
+      "id": "566831615288",
+      "source": "The Lever",
+      "headline": "DOGE’s Data Lockdown",
+      "excerpt": "Department of Governmental Efficiency teams are ignoring watchdog requests for information about their access to Americans’ personal data.",
+      "link": "https://www.levernews.com/doges-data-lockdown/",
+      "published": "2026-10-01T16:34:55+00:00",
+      "featured": false
+    },
+    {
+      "id": "fa2c3c9ecacc",
       "source": "OCCRP",
-      "headline": "Ex-Hungarian Minister Detained in $53 Million Graft Probe",
-      "excerpt": "Balázs Hankó, a former culture minister under Viktor Orbán, was ordered held in pretrial detention over allegations he funneled tens of millions in state cultural grants to political allies, marking a dramatic...",
-      "link": "https://www.occrp.org/en/news/ex-hungarian-minister-detained-in-53-million-graft-probe",
-      "published": "2026-10-01T15:25:00+00:00",
+      "headline": "U.K. Sanctions Four Georgians Over Occupied Ukraine Visit",
+      "excerpt": "The new sanctions target political figures and commentators, including the brother-in-law of Tbilisi’s mayor, over a September 2025 meeting with the head of the Russian-backed, so-called Donetsk People’s Republic.",
+      "link": "https://www.occrp.org/en/news/uk-sanctions-four-georgians-over-occupied-ukraine-visit",
+      "published": "2026-10-01T16:27:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "b64f32b00fdf",
+      "source": "Dropsite News",
+      "headline": "Israel kills another Palestinian journalist; Bolivian attorney general detained; Entire newsroom arrested in Egypt",
+      "excerpt": "Drop Site Daily: October 1, 2026",
+      "link": "https://www.dropsitenews.com/p/israel-gaza-journalist-bolivia-attorney-general-egypt-arrest-newsroom",
+      "published": "2026-10-01T14:22:44+00:00",
       "featured": false
     },
     {
@@ -245,12 +263,12 @@
       "featured": false
     },
     {
-      "id": "aefba0c44016",
-      "source": "The Lever",
-      "headline": "Trump’s SEC Can Now Rewrite Wall Street’s Rules With A Single Vote",
-      "excerpt": "A quiet rule change could signal “the end of independent financial regulators” just as the SEC prepares to deregulate crypto, mega-IPOs, and corporate governance.",
-      "link": "https://www.levernews.com/sec-quorum-rule-single-commissioner/",
-      "published": "2026-10-01T02:09:22+00:00",
+      "id": "6460f13c7ee3",
+      "source": "ProPublica",
+      "headline": "Four Kids in One Faith-Healing Family Died. Authorities Could Do Nothing.",
+      "excerpt": "The post Four Kids in One Faith-Healing Family Died. Authorities Could Do Nothing. appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/idaho-faith-healing-multiple-deaths",
+      "published": "2026-10-01T09:00:00+00:00",
       "featured": false
     },
     {
@@ -260,24 +278,6 @@
       "excerpt": "Three-quarters of ICE’s own 2025 death reviews, briefly posted online, raised substandard and “inappropriate” care of ill detainees. The post ICE Deleted Reviews for Deaths in Custody That Cited Shoddy Medical Care...",
       "link": "https://theintercept.com/2026/09/30/ice-custody-deaths-medical-neglect/",
       "published": "2026-09-30T17:23:18+00:00",
-      "featured": false
-    },
-    {
-      "id": "4ec96a488840",
-      "source": "Dropsite News",
-      "headline": "Trump’s Next War? Leaked Plans Reveal Escalation in Cuba and Iran",
-      "excerpt": "Episode 3 of the Drop Site War Brief",
-      "link": "https://www.dropsitenews.com/p/trumps-next-war-leaked-plans-reveal-cuba-iran-china",
-      "published": "2026-09-30T16:02:50+00:00",
-      "featured": false
-    },
-    {
-      "id": "7153cf749eef",
-      "source": "ProPublica",
-      "headline": "A Girl Nearly Died After Drinking Raw Milk. The State Did Little to Punish the Unlicensed Farmer Who Sold It.",
-      "excerpt": "The post A Girl Nearly Died After Drinking Raw Milk. The State Did Little to Punish the Unlicensed Farmer Who Sold It. appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/california-raw-milk-regulation-emily-marris-moonlight-ridge-farm",
-      "published": "2026-09-30T09:00:00+00:00",
       "featured": false
     },
     {
@@ -326,21 +326,30 @@
       "featured": false
     },
     {
-      "id": "95b74a8b266f",
+      "id": "cce1e8592991",
       "source": "Al Jazeera",
-      "headline": "94-year-old Jewish barrister arrested for supporting Palestine Action",
-      "excerpt": "A 94-year-old Jewish activist was detained at a pro-Palestine rally in the UK for supporting Palestine Action.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/1/94-year-old-jewish-barrister-arrested-for-supporting-palestine-action?traffic_source=rss",
-      "published": "2026-10-01T22:44:56+00:00",
+      "headline": "Israeli court ruling a ‘new threshold’ in Palestinian suppression",
+      "excerpt": "Israel’s top court told Palestinian politician Sami Abu Shehadeh to withdraw from the election or face disqualification.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/2/10-2-ziad-abu-rish-israel-politics-qt-mp4?traffic_source=rss",
+      "published": "2026-10-02T09:24:39+00:00",
       "featured": false
     },
     {
-      "id": "48ee66471356",
+      "id": "0b57f9183248",
       "source": "OCCRP",
-      "headline": "Raids Across Europe Target Far-Right Network Accused of Producing Neo-Nazi Music",
-      "excerpt": "Authorities searched premises across Germany, the Czech Republic, Estonia, Italy and Poland in an investigation into a suspected criminal organization accused of producing and distributing music with Nazi, antisemitic...",
-      "link": "https://www.occrp.org/en/news/raids-across-europe-target-far-right-network-accused-of-producing-neo-nazi-records",
-      "published": "2026-10-01T14:56:00+00:00",
+      "headline": "Ex-Hungarian Minister Detained in $53 Million Graft Probe",
+      "excerpt": "Balázs Hankó, a former culture minister under Viktor Orbán, was ordered held in pretrial detention over allegations he funneled tens of millions in state cultural grants to political allies, marking a dramatic...",
+      "link": "https://www.occrp.org/en/news/ex-hungarian-minister-detained-in-53-million-graft-probe",
+      "published": "2026-10-01T15:25:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "aefba0c44016",
+      "source": "The Lever",
+      "headline": "Trump’s SEC Can Now Rewrite Wall Street’s Rules With A Single Vote",
+      "excerpt": "A quiet rule change could signal “the end of independent financial regulators” just as the SEC prepares to deregulate crypto, mega-IPOs, and corporate governance.",
+      "link": "https://www.levernews.com/sec-quorum-rule-single-commissioner/",
+      "published": "2026-10-01T02:09:22+00:00",
       "featured": false
     },
     {
@@ -353,21 +362,21 @@
       "featured": false
     },
     {
-      "id": "906dfa06787b",
-      "source": "The Lever",
-      "headline": "Midterm Madness: Drought-State Dem Accepts Data Center Cash",
-      "excerpt": "“I can walk and chew gum at the same time,” said New Mexico gubernatorial candidate Deb Haaland.",
-      "link": "https://www.levernews.com/midterm-madness-drought-state-dem-accepts-data-center-cash/",
-      "published": "2026-09-30T17:35:40+00:00",
+      "id": "4ec96a488840",
+      "source": "Dropsite News",
+      "headline": "Trump’s Next War? Leaked Plans Reveal Escalation in Cuba and Iran",
+      "excerpt": "Episode 3 of the Drop Site War Brief",
+      "link": "https://www.dropsitenews.com/p/trumps-next-war-leaked-plans-reveal-cuba-iran-china",
+      "published": "2026-09-30T16:02:50+00:00",
       "featured": false
     },
     {
-      "id": "a794430eae77",
-      "source": "Dropsite News",
-      "headline": "Crash of Tel Aviv flight narrowly averted after pilot fight; Ban on Canadian goods; Supreme Court allows Trump’s deportations to resume",
-      "excerpt": "Drop Site Daily: September 30, 2026",
-      "link": "https://www.dropsitenews.com/p/dubai-israel-flight-canada-goods-ban-trump-deportation-supreme-court",
-      "published": "2026-09-30T15:26:09+00:00",
+      "id": "7153cf749eef",
+      "source": "ProPublica",
+      "headline": "A Girl Nearly Died After Drinking Raw Milk. The State Did Little to Punish the Unlicensed Farmer Who Sold It.",
+      "excerpt": "The post A Girl Nearly Died After Drinking Raw Milk. The State Did Little to Punish the Unlicensed Farmer Who Sold It. appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/california-raw-milk-regulation-emily-marris-moonlight-ridge-farm",
+      "published": "2026-09-30T09:00:00+00:00",
       "featured": false
     },
     {
@@ -377,15 +386,6 @@
       "excerpt": "Despite support from other Democrats, the Senate voted 51–47 against a resolution to force U.S. probes on killings of Americans in the West Bank. The post Israeli Settlers Killed His Constituent. Fetterman Is Sole...",
       "link": "https://theintercept.com/2026/09/30/israel-west-bank-us-citizen-killings-senate-vote-fetterman/",
       "published": "2026-09-30T04:14:52+00:00",
-      "featured": false
-    },
-    {
-      "id": "bf51ac09c133",
-      "source": "ProPublica",
-      "headline": "“A Massive Power Grab”: White House Proposal Threatens Funding That Helps Disabled Americans Vote",
-      "excerpt": "The post “A Massive Power Grab”: White House Proposal Threatens Funding That Helps Disabled Americans Vote appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/disabled-voters-nonprofit-funding-cuts-omb",
-      "published": "2026-09-29T09:00:00+00:00",
       "featured": false
     },
     {
@@ -434,21 +434,21 @@
       "featured": false
     },
     {
-      "id": "7043568169aa",
+      "id": "167d43908430",
       "source": "Al Jazeera",
-      "headline": "France vs Italy: UEFA Nations League – Zidane, Olise, Esposito, teams, form",
-      "excerpt": "France face neighbours Italy in new coach Zinedine Zidane's first home game, with Mbappe out injured.",
-      "link": "https://www.aljazeera.com/sports/2026/10/1/france-italy-uefa-nations-league-zidane-olise-esposito-teams-tv-channel-stream?traffic_source=rss",
-      "published": "2026-10-01T22:31:30+00:00",
+      "headline": "UK arrests British-Iranian suspect over RAF ‘plot’: What we know",
+      "excerpt": "Police investigate 'possible foreign state involvement' as sixth man arrested over RAF Fairford incident.",
+      "link": "https://www.aljazeera.com/news/2026/10/2/uk-arrests-british-iranian-suspect-over-raf-plot-what-we-know?traffic_source=rss",
+      "published": "2026-10-02T09:03:21+00:00",
       "featured": false
     },
     {
-      "id": "49797b9a591e",
+      "id": "48ee66471356",
       "source": "OCCRP",
-      "headline": "Leaked Warrant List Reveals How Turkmenistan Targets Critics Abroad",
-      "excerpt": "Considered one of the world’s most oppressive countries, Turkmenistan has long silenced critics at home. A leaked arrest warrant list reveals how the regime has weaponized the legal system to target dissidents abroad.",
-      "link": "https://www.occrp.org/en/scoop/leaked-warrant-list-reveals-how-turkmenistan-targets-critics-abroad",
-      "published": "2026-10-01T07:04:00+00:00",
+      "headline": "Raids Across Europe Target Far-Right Network Accused of Producing Neo-Nazi Music",
+      "excerpt": "Authorities searched premises across Germany, the Czech Republic, Estonia, Italy and Poland in an investigation into a suspected criminal organization accused of producing and distributing music with Nazi, antisemitic...",
+      "link": "https://www.occrp.org/en/news/raids-across-europe-target-far-right-network-accused-of-producing-neo-nazi-records",
+      "published": "2026-10-01T14:56:00+00:00",
       "featured": false
     },
     {
@@ -461,21 +461,21 @@
       "featured": false
     },
     {
-      "id": "a91a1e58b6ff",
-      "source": "Dropsite News",
-      "headline": "Massacre at Minab: The School That Became a Grave",
-      "excerpt": "The bombing of an Iranian school, killing 120 children, is one of the worst U.S. war crimes since Vietnam. Drop Site spoke to survivors, first responders, parents, and witnesses. This is their story.",
-      "link": "https://www.dropsitenews.com/p/minab-school-massacre-iran-war-children-families",
-      "published": "2026-09-30T12:30:02+00:00",
+      "id": "906dfa06787b",
+      "source": "The Lever",
+      "headline": "Midterm Madness: Drought-State Dem Accepts Data Center Cash",
+      "excerpt": "“I can walk and chew gum at the same time,” said New Mexico gubernatorial candidate Deb Haaland.",
+      "link": "https://www.levernews.com/midterm-madness-drought-state-dem-accepts-data-center-cash/",
+      "published": "2026-09-30T17:35:40+00:00",
       "featured": false
     },
     {
-      "id": "cb681a0fe141",
-      "source": "The Lever",
-      "headline": "The Global Shell Game Hiding Forever Chemicals",
-      "excerpt": "A landmark settlement confronts decades of PFAS pollution — but not the corporate system that keeps moving the toxic waste elsewhere.",
-      "link": "https://www.levernews.com/the-global-shell-game-hiding-forever-chemicals/",
-      "published": "2026-09-30T09:01:30+00:00",
+      "id": "a794430eae77",
+      "source": "Dropsite News",
+      "headline": "Crash of Tel Aviv flight narrowly averted after pilot fight; Ban on Canadian goods; Supreme Court allows Trump’s deportations to resume",
+      "excerpt": "Drop Site Daily: September 30, 2026",
+      "link": "https://www.dropsitenews.com/p/dubai-israel-flight-canada-goods-ban-trump-deportation-supreme-court",
+      "published": "2026-09-30T15:26:09+00:00",
       "featured": false
     },
     {
@@ -488,12 +488,12 @@
       "featured": false
     },
     {
-      "id": "db77ef27cd18",
+      "id": "bf51ac09c133",
       "source": "ProPublica",
-      "headline": "The Untold Origins of Trump’s Plan to Sharply Restrict Mail-In Voting",
-      "excerpt": "The post The Untold Origins of Trump’s Plan to Sharply Restrict Mail-In Voting appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/trumps-plan-to-restrict-mail-voting",
-      "published": "2026-09-28T15:30:00+00:00",
+      "headline": "“A Massive Power Grab”: White House Proposal Threatens Funding That Helps Disabled Americans Vote",
+      "excerpt": "The post “A Massive Power Grab”: White House Proposal Threatens Funding That Helps Disabled Americans Vote appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/disabled-voters-nonprofit-funding-cuts-omb",
+      "published": "2026-09-29T09:00:00+00:00",
       "featured": false
     },
     {
@@ -524,21 +524,21 @@
       "featured": false
     },
     {
-      "id": "fd08050e5109",
+      "id": "a9b6605a8d03",
       "source": "Al Jazeera",
-      "headline": "India vs Pakistan scheduled for October 10, 2027 at Cricket World Cup",
-      "excerpt": "The rivals have been grouped together again, along with holders Australia, as ICC announces schedule for the tournament.",
-      "link": "https://www.aljazeera.com/sports/2026/10/1/india-vs-pakistan-scheduled-for-october-10-2027-at-cricket-world-cup?traffic_source=rss",
-      "published": "2026-10-01T22:30:32+00:00",
+      "headline": "US delivers F-16V fighter jets to Taiwan as island eyes threat from China",
+      "excerpt": "Amid threats from China, Taipai is growing concerned about the Trump administration's commitment to arming the island.",
+      "link": "https://www.aljazeera.com/news/2026/10/2/us-delivers-f-16v-fighter-jets-to-taiwan-as-island-eyes-threat-from-china?traffic_source=rss",
+      "published": "2026-10-02T08:26:22+00:00",
       "featured": false
     },
     {
-      "id": "5a926a6ffec2",
+      "id": "49797b9a591e",
       "source": "OCCRP",
-      "headline": "The US Blacklists Alleged Venezuelan Cyber Crime Mastermind",
-      "excerpt": "The U.S. Department of the Treasury blacklisted the first cybercriminal on the FBI’s Ten Most Wanted List, accusing the Venezuelan hacker of developing malware that allowed the transnational gang Tren de Aragua and...",
-      "link": "https://www.occrp.org/en/news/the-us-blacklists-alleged-venezuelan-cyber-crime-mastermind",
-      "published": "2026-09-30T21:38:00+00:00",
+      "headline": "Leaked Warrant List Reveals How Turkmenistan Targets Critics Abroad",
+      "excerpt": "Considered one of the world’s most oppressive countries, Turkmenistan has long silenced critics at home. A leaked arrest warrant list reveals how the regime has weaponized the legal system to target dissidents abroad.",
+      "link": "https://www.occrp.org/en/scoop/leaked-warrant-list-reveals-how-turkmenistan-targets-critics-abroad",
+      "published": "2026-10-01T07:04:00+00:00",
       "featured": false
     }
   ]
