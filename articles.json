@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-10-01T20:21:14.256027+00:00",
+  "generated_at": "2026-10-02T00:48:09.866559+00:00",
   "articles": [
+    {
+      "id": "20e648fbc5c9",
+      "source": "Al Jazeera",
+      "headline": "Iran war live: US moves 2,000 Marines to Middle East, tanker hit in Hormuz",
+      "excerpt": "US deploys Roosevelt strike group and 2,000 Marines to the Middle East as part of a wider buildup around Iran.",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/10/2/iran-war-live-us-moves-2000-marines-to-middle-east-tanker-hit-in-hormuz?traffic_source=rss",
+      "published": "2026-10-02T00:00:00+00:00",
+      "featured": true
+    },
+    {
+      "id": "b410235c0e10",
+      "source": "The Intercept",
+      "headline": "Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop",
+      "excerpt": "A Eugene-based publication requested records about a cop accused of misconduct. The city slapped it with a prohibitive fee. The post Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop...",
+      "link": "https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/",
+      "published": "2026-10-01T21:20:38+00:00",
+      "featured": true
+    },
     {
       "id": "7c11ab844e86",
       "source": "The Lever",
@@ -17,16 +35,7 @@
       "excerpt": "The post Texas’ Education Board Raised Questions About an AI Learning Tool. The State Then Helped Pilot It in Public Schools. appeared first on ProPublica.",
       "link": "https://www.propublica.org/article/alpha-school-ai-texas-public-schools-mike-morath",
       "published": "2026-10-01T20:10:00+00:00",
-      "featured": true
-    },
-    {
-      "id": "ef6d1d0ae07a",
-      "source": "Al Jazeera",
-      "headline": "UK Parliament told answers on tax implications are needed in Manchester City ruling",
-      "excerpt": "HM Revenue and Customs (HMRC) has been contacted in the United Kingdom about Man City's financial breaches.",
-      "link": "https://www.aljazeera.com/sports/2026/10/1/uk-parliament-told-tax-implication-answers-needed-in-manchester-city-ruling?traffic_source=rss",
-      "published": "2026-10-01T20:08:46+00:00",
-      "featured": true
+      "featured": false
     },
     {
       "id": "18878bc178cc",
@@ -62,15 +71,6 @@
       "excerpt": "Earlier this week, several viral social media posts and news articles stated that Google had updated satellite imagery over Gaza. The imagery shared in these posts and articles shows several areas, including the...",
       "link": "https://www.bellingcat.com/news/middle-east/2026/10/01/viral-google-maps-images-shared-widely-this-week-show-gaza-ruins-we-obtained-more-recent-satellite-imagery/",
       "published": "2026-10-01T13:46:03+00:00",
-      "featured": false
-    },
-    {
-      "id": "b0a30d91eda7",
-      "source": "The Intercept",
-      "headline": "The Pentagon’s Secret Budget",
-      "excerpt": "Trump’s proposed budget hides $1 trillion in military spending from the public by spreading it across disparate government agencies. The post The Pentagon’s Secret Budget appeared first on The Intercept.",
-      "link": "https://theintercept.com/2026/10/01/trump-military-true-cost-budget-pentagon-trillions/",
-      "published": "2026-10-01T10:00:00+00:00",
       "featured": false
     },
     {
@@ -110,12 +110,12 @@
       "featured": false
     },
     {
-      "id": "ab6b12c6e7b4",
+      "id": "a4c33371b4b3",
       "source": "Al Jazeera",
-      "headline": "Syria denies officials held ‘secret’ talks with Hezbollah in Turkiye",
-      "excerpt": "Six sources from Syria, the US and Lebanon told Reuters news agency the reported meeting aimed to calm tensions.",
-      "link": "https://www.aljazeera.com/news/2026/10/1/syria-denies-officials-held-secret-talks-with-hezbollah-in-turkiye?traffic_source=rss",
-      "published": "2026-10-01T20:02:42+00:00",
+      "headline": "Israeli drone kills Palestinian in Gaza, settlers kill another in West Bank",
+      "excerpt": "1,439 Palestinians have been killed in Gaza and 5,052 injured since the 'ceasefire' began in October 2025.",
+      "link": "https://www.aljazeera.com/news/2026/10/1/israeli-drone-kills-palestinian-in-gaza-settlers-kill-another-in-west-bank?traffic_source=rss",
+      "published": "2026-10-01T23:44:39+00:00",
       "featured": false
     },
     {
@@ -155,21 +155,21 @@
       "featured": false
     },
     {
+      "id": "b0a30d91eda7",
+      "source": "The Intercept",
+      "headline": "The Pentagon’s Secret Budget",
+      "excerpt": "Trump’s proposed budget hides $1 trillion in military spending from the public by spreading it across disparate government agencies. The post The Pentagon’s Secret Budget appeared first on The Intercept.",
+      "link": "https://theintercept.com/2026/10/01/trump-military-true-cost-budget-pentagon-trillions/",
+      "published": "2026-10-01T10:00:00+00:00",
+      "featured": false
+    },
+    {
       "id": "6460f13c7ee3",
       "source": "ProPublica",
       "headline": "Four Kids in One Faith-Healing Family Died. Authorities Could Do Nothing.",
       "excerpt": "The post Four Kids in One Faith-Healing Family Died. Authorities Could Do Nothing. appeared first on ProPublica.",
       "link": "https://www.propublica.org/article/idaho-faith-healing-multiple-deaths",
       "published": "2026-10-01T09:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "6c01b2080450",
-      "source": "The Intercept",
-      "headline": "ICE Deleted Reviews for Deaths in Custody That Cited Shoddy Medical Care",
-      "excerpt": "Three-quarters of ICE’s own 2025 death reviews, briefly posted online, raised substandard and “inappropriate” care of ill detainees. The post ICE Deleted Reviews for Deaths in Custody That Cited Shoddy Medical Care...",
-      "link": "https://theintercept.com/2026/09/30/ice-custody-deaths-medical-neglect/",
-      "published": "2026-09-30T17:23:18+00:00",
       "featured": false
     },
     {
@@ -218,12 +218,12 @@
       "featured": false
     },
     {
-      "id": "847c70fe85a4",
+      "id": "4a25225825f9",
       "source": "Al Jazeera",
-      "headline": "Who is Capt. Smit, Machchhar, the pilot of the Flydubai flight?",
-      "excerpt": "Captain Smit Machchhar from India is recovering from stab wounds he suffered in a Flydubai flight altercation.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/1/who-is-capt-smit-machchhar-the-pilot-of-the-flydubai-flight?traffic_source=rss",
-      "published": "2026-10-01T19:54:36+00:00",
+      "headline": "Brazilian government calls for probe into US funding of far-right causes",
+      "excerpt": "Report stating that Trump administration directed funds towards right-wing groups comes ahead of presidential election.",
+      "link": "https://www.aljazeera.com/news/2026/10/1/brazilian-government-calls-for-probe-into-us-funding-of-far-right-causes?traffic_source=rss",
+      "published": "2026-10-01T22:48:17+00:00",
       "featured": false
     },
     {
@@ -254,6 +254,15 @@
       "featured": false
     },
     {
+      "id": "6c01b2080450",
+      "source": "The Intercept",
+      "headline": "ICE Deleted Reviews for Deaths in Custody That Cited Shoddy Medical Care",
+      "excerpt": "Three-quarters of ICE’s own 2025 death reviews, briefly posted online, raised substandard and “inappropriate” care of ill detainees. The post ICE Deleted Reviews for Deaths in Custody That Cited Shoddy Medical Care...",
+      "link": "https://theintercept.com/2026/09/30/ice-custody-deaths-medical-neglect/",
+      "published": "2026-09-30T17:23:18+00:00",
+      "featured": false
+    },
+    {
       "id": "4ec96a488840",
       "source": "Dropsite News",
       "headline": "Trump’s Next War? Leaked Plans Reveal Escalation in Cuba and Iran",
@@ -269,15 +278,6 @@
       "excerpt": "The post A Girl Nearly Died After Drinking Raw Milk. The State Did Little to Punish the Unlicensed Farmer Who Sold It. appeared first on ProPublica.",
       "link": "https://www.propublica.org/article/california-raw-milk-regulation-emily-marris-moonlight-ridge-farm",
       "published": "2026-09-30T09:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "18a6bb53c21a",
-      "source": "The Intercept",
-      "headline": "Israeli Settlers Killed His Constituent. Fetterman Is Sole Democrat Against Investigating Them.",
-      "excerpt": "Despite support from other Democrats, the Senate voted 51–47 against a resolution to force U.S. probes on killings of Americans in the West Bank. The post Israeli Settlers Killed His Constituent. Fetterman Is Sole...",
-      "link": "https://theintercept.com/2026/09/30/israel-west-bank-us-citizen-killings-senate-vote-fetterman/",
-      "published": "2026-09-30T04:14:52+00:00",
       "featured": false
     },
     {
@@ -326,12 +326,12 @@
       "featured": false
     },
     {
-      "id": "89f2c6c46250",
+      "id": "95b74a8b266f",
       "source": "Al Jazeera",
-      "headline": "Cornell rape allegations renew push to change New York sexual assault law",
-      "excerpt": "New York law treats intoxicated victims differently depending on whether they willingly consumed alcohol or drugs.",
-      "link": "https://www.aljazeera.com/editorial/2026/10/1/cornell-rape-allegations-renew-push-to-change-new-york-sexual-assault-law?traffic_source=rss",
-      "published": "2026-10-01T19:47:58+00:00",
+      "headline": "94-year-old Jewish barrister arrested for supporting Palestine Action",
+      "excerpt": "A 94-year-old Jewish activist was detained at a pro-Palestine rally in the UK for supporting Palestine Action.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/1/94-year-old-jewish-barrister-arrested-for-supporting-palestine-action?traffic_source=rss",
+      "published": "2026-10-01T22:44:56+00:00",
       "featured": false
     },
     {
@@ -371,12 +371,12 @@
       "featured": false
     },
     {
-      "id": "471a99ebbd82",
+      "id": "18a6bb53c21a",
       "source": "The Intercept",
-      "headline": "Inside the Business of Trump’s Third-Country Deportations",
-      "excerpt": "As the Trump administration fights to keep deporting immigrants to countries where they have no connections, we studied the system that profits from these grave abuses. The post Inside the Business of Trump’s...",
-      "link": "https://theintercept.com/2026/09/29/ice-third-country-deportation-flights/",
-      "published": "2026-09-29T15:00:00+00:00",
+      "headline": "Israeli Settlers Killed His Constituent. Fetterman Is Sole Democrat Against Investigating Them.",
+      "excerpt": "Despite support from other Democrats, the Senate voted 51–47 against a resolution to force U.S. probes on killings of Americans in the West Bank. The post Israeli Settlers Killed His Constituent. Fetterman Is Sole...",
+      "link": "https://theintercept.com/2026/09/30/israel-west-bank-us-citizen-killings-senate-vote-fetterman/",
+      "published": "2026-09-30T04:14:52+00:00",
       "featured": false
     },
     {
@@ -434,12 +434,12 @@
       "featured": false
     },
     {
-      "id": "ca17023b0173",
+      "id": "7043568169aa",
       "source": "Al Jazeera",
-      "headline": "What’s driving Israeli settler violence in the occupied West Bank?",
-      "excerpt": "Attacks on Palestinians in the area are growing at unprecedented levels.",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/10/1/whats-driving-israeli-settler-violence-in-the-occupied-west-bank?traffic_source=rss",
-      "published": "2026-10-01T19:45:37+00:00",
+      "headline": "France vs Italy: UEFA Nations League – Zidane, Olise, Esposito, teams, form",
+      "excerpt": "France face neighbours Italy in new coach Zinedine Zidane's first home game, with Mbappe out injured.",
+      "link": "https://www.aljazeera.com/sports/2026/10/1/france-italy-uefa-nations-league-zidane-olise-esposito-teams-tv-channel-stream?traffic_source=rss",
+      "published": "2026-10-01T22:31:30+00:00",
       "featured": false
     },
     {
@@ -479,12 +479,12 @@
       "featured": false
     },
     {
-      "id": "2e72f6c00656",
+      "id": "471a99ebbd82",
       "source": "The Intercept",
-      "headline": "Prison That Didn’t Report Sex Abuse Allegation Against Staffer to Reopen as ICE Camp",
-      "excerpt": "A whistleblower says the warden didn’t make a federally required disclosure. Now the company is turning the Arizona prison into an ICE jail. The post Prison That Didn’t Report Sex Abuse Allegation Against Staffer to...",
-      "link": "https://theintercept.com/2026/09/29/ice-private-prison-mtc-marana-sexual-abuse-arizona/",
-      "published": "2026-09-29T09:56:00+00:00",
+      "headline": "Inside the Business of Trump’s Third-Country Deportations",
+      "excerpt": "As the Trump administration fights to keep deporting immigrants to countries where they have no connections, we studied the system that profits from these grave abuses. The post Inside the Business of Trump’s...",
+      "link": "https://theintercept.com/2026/09/29/ice-third-country-deportation-flights/",
+      "published": "2026-09-29T15:00:00+00:00",
       "featured": false
     },
     {
@@ -524,12 +524,12 @@
       "featured": false
     },
     {
-      "id": "ad25a44827d5",
+      "id": "fd08050e5109",
       "source": "Al Jazeera",
-      "headline": "After Red Sea losses, Yemen’s government forces hold the line",
-      "excerpt": "Air strikes and difficult terrain have prevented the Houthis from turning coastal gains into a wider breakthrough.",
-      "link": "https://www.aljazeera.com/news/2026/10/1/after-red-sea-losses-yemens-government-forces-hold-the-line?traffic_source=rss",
-      "published": "2026-10-01T19:05:25+00:00",
+      "headline": "India vs Pakistan scheduled for October 10, 2027 at Cricket World Cup",
+      "excerpt": "The rivals have been grouped together again, along with holders Australia, as ICC announces schedule for the tournament.",
+      "link": "https://www.aljazeera.com/sports/2026/10/1/india-vs-pakistan-scheduled-for-october-10-2027-at-cricket-world-cup?traffic_source=rss",
+      "published": "2026-10-01T22:30:32+00:00",
       "featured": false
     },
     {
