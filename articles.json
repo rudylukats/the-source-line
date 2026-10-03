@@ -1,13 +1,22 @@
 {
-  "generated_at": "2026-10-03T11:40:40.120927+00:00",
+  "generated_at": "2026-10-03T16:18:41.116561+00:00",
   "articles": [
     {
-      "id": "d09cbcac4462",
+      "id": "8c4951c15a87",
       "source": "Al Jazeera",
-      "headline": "Ethiopia’s government forces retake airport from Tigray rebels in Mekelle",
-      "excerpt": "The rebels have been seen leaving the capital of the northern Tigray region, according to local sources.",
-      "link": "https://www.aljazeera.com/news/2026/10/3/rebels-pulling-back-as-addis-ababas-forces-advance-reports-say?traffic_source=rss",
-      "published": "2026-10-03T11:16:43+00:00",
+      "headline": "What we know about the co-pilot accused in Flydubai attack",
+      "excerpt": "The co-pilot accused of attacking a Flydubai captain has reportedly been identified as Hamam al-Hammami.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/3/what-we-know-about-the-co-pilot-accused-in-flydubai-attack?traffic_source=rss",
+      "published": "2026-10-03T15:39:10+00:00",
+      "featured": true
+    },
+    {
+      "id": "e033963069a6",
+      "source": "The Lever",
+      "headline": "You Love To See It: Dolly’s Next Chapter",
+      "excerpt": "A compromised justice gets benched, Dolly Parton gets an encore, vape waste gets smoked, and Kalshi makes a bad bet.",
+      "link": "https://www.levernews.com/you-love-to-see-it-dollys-next-chapter/",
+      "published": "2026-10-03T13:02:45+00:00",
       "featured": true
     },
     {
@@ -26,7 +35,7 @@
       "excerpt": "The post Watch: We Uncovered Bribery Allegations Involving Susan Collins appeared first on ProPublica.",
       "link": "https://www.propublica.org/article/susan-collins-bribery-allegations-explained",
       "published": "2026-10-03T09:00:00+00:00",
-      "featured": true
+      "featured": false
     },
     {
       "id": "0fc95477ae42",
@@ -53,15 +62,6 @@
       "excerpt": "The University of Alabama at Birmingham is rolling over to Trump and his acolytes in the state, rather than stand up for editorial independence. The post Public Radio Station Forced to Call Gulf of Mexico the “Gulf of...",
       "link": "https://theintercept.com/2026/10/02/gulf-america-university-alabama-birmingham-wbhm/",
       "published": "2026-10-02T20:12:13+00:00",
-      "featured": false
-    },
-    {
-      "id": "39898d0a8144",
-      "source": "The Lever",
-      "headline": "LeverMind Quiz: Do Banks Have To Rip Us Off?",
-      "excerpt": "Test your knowledge of PSAs, forever chemicals, and other issues that really matter.",
-      "link": "https://www.levernews.com/levermind-quiz-do-banks-have-to-rip-us-off/",
-      "published": "2026-10-02T17:13:56+00:00",
       "featured": false
     },
     {
@@ -110,12 +110,12 @@
       "featured": false
     },
     {
-      "id": "754d0a01b602",
+      "id": "1e905847da9a",
       "source": "Al Jazeera",
-      "headline": "Palestinians gather for football amid Gaza’s ruins",
-      "excerpt": "Displaced Palestinians gathered to watch a friendly football match in Gaza’s Khan Younis.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/3/palestinians-gather-for-football-amid-gazas-ruins?traffic_source=rss",
-      "published": "2026-10-03T11:08:17+00:00",
+      "headline": "‘Bordering on angry’: The state of play as US midterms enter final month",
+      "excerpt": "Democrats enter final stretch with surprisingly positive outlook as Republican money seeks to stem damage.",
+      "link": "https://www.aljazeera.com/news/2026/10/3/bordering-on-angry-the-state-of-play-as-us-midterms-enter-final-month?traffic_source=rss",
+      "published": "2026-10-03T15:18:28+00:00",
       "featured": false
     },
     {
@@ -125,6 +125,15 @@
       "excerpt": "Flock’s nationwide network is quickly “approaching dragnet-type law enforcement practice” and the cop should have got a warrant, the judge wrote.",
       "link": "https://www.404media.co/federal-judge-rules-a-flock-search-was-indiscriminate-mass-surveillance-and-unconstitutional/",
       "published": "2026-10-02T20:49:15+00:00",
+      "featured": false
+    },
+    {
+      "id": "39898d0a8144",
+      "source": "The Lever",
+      "headline": "LeverMind Quiz: Do Banks Have To Rip Us Off?",
+      "excerpt": "Test your knowledge of PSAs, forever chemicals, and other issues that really matter.",
+      "link": "https://www.levernews.com/levermind-quiz-do-banks-have-to-rip-us-off/",
+      "published": "2026-10-02T17:13:56+00:00",
       "featured": false
     },
     {
@@ -161,15 +170,6 @@
       "excerpt": "Brussels has frozen roughly $20 million in aid to Sierra Leone's 2026 budget, in a move the Dutch justice minister attributed to the country harboring alleged cocaine kingpin Jos Leijdekkers.",
       "link": "https://www.occrp.org/en/news/eu-sierra-leone-aid-harboring-alleged-kingpin-netherlands",
       "published": "2026-10-02T07:18:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "2af2593cf4ff",
-      "source": "The Lever",
-      "headline": "How AI Could Wipe Out Our Brains Before Our Existence",
-      "excerpt": "Cal Newport looks beyond the doomsday predictions and tackles some of the thorniest questions about AI – how it’s changing the way we work, think, and live.",
-      "link": "https://www.levernews.com/how-ai-could-wipe-out-our-brains-before-our-existence/",
-      "published": "2026-10-02T07:10:41+00:00",
       "featured": false
     },
     {
@@ -218,12 +218,12 @@
       "featured": false
     },
     {
-      "id": "f3b079e243f6",
+      "id": "008f8923467f",
       "source": "Al Jazeera",
-      "headline": "How AI is helping Mexico detect breast cancer earlier",
-      "excerpt": "Mexico is turning to AI to speed up breast cancer detection as long waits and a shortage of specialists hamper screening",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/3/10-3-mexico-ai-breast-cancer-julia-pkg?traffic_source=rss",
-      "published": "2026-10-03T10:55:32+00:00",
+      "headline": "Tens of thousands protest in Spain after failed housing reforms",
+      "excerpt": "Latest demonstrations deepen a days-long crisis after parliament struck down two affordable housing decrees.",
+      "link": "https://www.aljazeera.com/news/2026/10/3/tens-of-thousands-protest-in-spain-after-failed-housing-reforms?traffic_source=rss",
+      "published": "2026-10-03T15:06:40+00:00",
       "featured": false
     },
     {
@@ -254,21 +254,21 @@
       "featured": false
     },
     {
+      "id": "2af2593cf4ff",
+      "source": "The Lever",
+      "headline": "How AI Could Wipe Out Our Brains Before Our Existence",
+      "excerpt": "Cal Newport looks beyond the doomsday predictions and tackles some of the thorniest questions about AI – how it’s changing the way we work, think, and live.",
+      "link": "https://www.levernews.com/how-ai-could-wipe-out-our-brains-before-our-existence/",
+      "published": "2026-10-02T07:10:41+00:00",
+      "featured": false
+    },
+    {
       "id": "b410235c0e10",
       "source": "The Intercept",
       "headline": "Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop",
       "excerpt": "A Eugene-based publication requested records about a cop accused of misconduct. The city slapped it with a prohibitive fee. The post Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop...",
       "link": "https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/",
       "published": "2026-10-01T21:20:38+00:00",
-      "featured": false
-    },
-    {
-      "id": "7c11ab844e86",
-      "source": "The Lever",
-      "headline": "It’s Not A Bulwark. It’s A Plot.",
-      "excerpt": "The former GOP operatives behind The Bulwark helped sell Democrats a losing strategy. Now they’re positioning themselves to shape the party’s 2028 nominee.",
-      "link": "https://www.levernews.com/bulwark-neocon-democratic-party/",
-      "published": "2026-10-01T20:17:29+00:00",
       "featured": false
     },
     {
@@ -326,12 +326,12 @@
       "featured": false
     },
     {
-      "id": "6f0b127a40d4",
+      "id": "1923353ad72d",
       "source": "Al Jazeera",
-      "headline": "A Yemeni family spends a week on the road fleeing another Houthi offensive",
-      "excerpt": "Displaced Yemenis are fleeing again, as the Houthis capture the Red Sea coast.",
-      "link": "https://www.aljazeera.com/features/2026/10/3/a-yemeni-family-spend-a-week-on-the-road-fleeing-another-houthi-offensive?traffic_source=rss",
-      "published": "2026-10-03T10:48:28+00:00",
+      "headline": "At least 17 people, mostly pilgrims, killed in Kenya road crash",
+      "excerpt": "The multi-vehicle crash occurred in the Salama area, 90km southeast of Nairobi, killing mostly Catholic pilgrims.",
+      "link": "https://www.aljazeera.com/news/2026/10/3/at-least-17-people-mostly-pilgrims-killed-in-kenya-road-crash?traffic_source=rss",
+      "published": "2026-10-03T14:30:40+00:00",
       "featured": false
     },
     {
@@ -362,12 +362,12 @@
       "featured": false
     },
     {
-      "id": "566831615288",
+      "id": "7c11ab844e86",
       "source": "The Lever",
-      "headline": "DOGE’s Data Lockdown",
-      "excerpt": "Department of Governmental Efficiency teams are ignoring watchdog requests for information about their access to Americans’ personal data.",
-      "link": "https://www.levernews.com/doges-data-lockdown/",
-      "published": "2026-10-01T16:34:55+00:00",
+      "headline": "It’s Not A Bulwark. It’s A Plot.",
+      "excerpt": "The former GOP operatives behind The Bulwark helped sell Democrats a losing strategy. Now they’re positioning themselves to shape the party’s 2028 nominee.",
+      "link": "https://www.levernews.com/bulwark-neocon-democratic-party/",
+      "published": "2026-10-01T20:17:29+00:00",
       "featured": false
     },
     {
@@ -425,12 +425,12 @@
       "featured": false
     },
     {
-      "id": "48edad2234b4",
+      "id": "58b162600fca",
       "source": "Al Jazeera",
-      "headline": "Pakistan summons Indian diplomat over border killing of two Pakistanis",
-      "excerpt": "Foreign Ministry says it summoned India's ⁠charge d'affaires to lodge 'strong protest' over killing of two civilians.",
-      "link": "https://www.aljazeera.com/news/2026/10/3/pakistan-summons-indian-diplomat-over-border-killing-of-two-pakistanis?traffic_source=rss",
-      "published": "2026-10-03T10:46:20+00:00",
+      "headline": "What to know about Brazil’s 2026 presidential election",
+      "excerpt": "Polls show tight race between incumbent Lula and right-wing rival Flavio Bolsonaro amid concerns over crime and economy.",
+      "link": "https://www.aljazeera.com/news/2026/10/3/what-to-know-about-brazils-2026-presidential-election?traffic_source=rss",
+      "published": "2026-10-03T14:23:55+00:00",
       "featured": false
     },
     {
@@ -452,6 +452,15 @@
       "featured": false
     },
     {
+      "id": "566831615288",
+      "source": "The Lever",
+      "headline": "DOGE’s Data Lockdown",
+      "excerpt": "Department of Governmental Efficiency teams are ignoring watchdog requests for information about their access to Americans’ personal data.",
+      "link": "https://www.levernews.com/doges-data-lockdown/",
+      "published": "2026-10-01T16:34:55+00:00",
+      "featured": false
+    },
+    {
       "id": "0b57f9183248",
       "source": "OCCRP",
       "headline": "Ex-Hungarian Minister Detained in $53 Million Graft Probe",
@@ -467,15 +476,6 @@
       "excerpt": "A look at the state of student journalism in light of the Cornell sexual assault case, and much more.",
       "link": "https://www.404media.co/everything-but-censorship-cornell-seven-case/",
       "published": "2026-10-01T14:31:43+00:00",
-      "featured": false
-    },
-    {
-      "id": "aefba0c44016",
-      "source": "The Lever",
-      "headline": "Trump’s SEC Can Now Rewrite Wall Street’s Rules With A Single Vote",
-      "excerpt": "A quiet rule change could signal “the end of independent financial regulators” just as the SEC prepares to deregulate crypto, mega-IPOs, and corporate governance.",
-      "link": "https://www.levernews.com/sec-quorum-rule-single-commissioner/",
-      "published": "2026-10-01T02:09:22+00:00",
       "featured": false
     },
     {
@@ -515,12 +515,12 @@
       "featured": false
     },
     {
-      "id": "85282869217d",
+      "id": "1478a3adf8fb",
       "source": "Al Jazeera",
-      "headline": "What is FC Barcelona’s Negreira case, and what are the charges?",
-      "excerpt": "Real Madrid accuse Barcelona of paying former refereeing official Jose Maria Enriquez Negreira between 2001 and 2018.",
-      "link": "https://www.aljazeera.com/sports/2026/10/3/what-is-fc-barcelonas-negreira-case-and-what-are-the-charges?traffic_source=rss",
-      "published": "2026-10-03T10:12:14+00:00",
+      "headline": "Israel election double standard: Arab leader forced out, far right cleared",
+      "excerpt": "Palestinian Israeli leader forced to withdraw candidature while far-right Israeli leaders allowed to run in polls.",
+      "link": "https://www.aljazeera.com/news/2026/10/3/israel-election-double-standard-arab-leader-forced-out-far-right-cleared?traffic_source=rss",
+      "published": "2026-10-03T14:06:47+00:00",
       "featured": false
     },
     {
