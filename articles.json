@@ -1,13 +1,31 @@
 {
-  "generated_at": "2026-10-08T01:01:11.282080+00:00",
+  "generated_at": "2026-10-08T10:36:25.050737+00:00",
   "articles": [
     {
-      "id": "9518a4c9978b",
+      "id": "79897685b6fc",
       "source": "Al Jazeera",
-      "headline": "US stocks slide as oil prices fluctuate over renewed Iran war fears",
-      "excerpt": "Oil prices rose on fresh concerns about Middle East supplies, before falling on the possible release of more reserves.",
-      "link": "https://www.aljazeera.com/news/2026/10/8/us-stocks-slide-as-oil-prices-fluctuate-over-renewed-iran-war-fears?traffic_source=rss",
-      "published": "2026-10-08T00:33:03+00:00",
+      "headline": "How much does France spend on education compared with the rest of Europe?",
+      "excerpt": "Amid student protests, Al Jazeera visualises how French spending stacks up against defence and healthcare.",
+      "link": "https://www.aljazeera.com/news/2026/10/8/how-much-does-france-spend-on-education-compared-with-the-rest-of-europe?traffic_source=rss",
+      "published": "2026-10-08T10:00:21+00:00",
+      "featured": true
+    },
+    {
+      "id": "6006f29ac466",
+      "source": "ProPublica",
+      "headline": "Club Med, a Disney Cruise and an Exploding Starship: SpaceX Used Bystander Videos to Track Falling Debris",
+      "excerpt": "The post Club Med, a Disney Cruise and an Exploding Starship: SpaceX Used Bystander Videos to Track Falling Debris appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/spacex-starship-caribbean-explosion-report",
+      "published": "2026-10-08T10:00:00+00:00",
+      "featured": true
+    },
+    {
+      "id": "62d0c0c558ea",
+      "source": "The Intercept",
+      "headline": "Armed Border Agents Arrest Protesters, Bulldoze 200-Year-Old Tree to Build Border Wall",
+      "excerpt": "Despite at least 10 arrests and the destruction of the tree at the center of the protest, the standoff continues. The post Armed Border Agents Arrest Protesters, Bulldoze 200-Year-Old Tree to Build Border Wall appeared...",
+      "link": "https://theintercept.com/2026/10/08/border-wall-tree-sit-protest-bulldozed/",
+      "published": "2026-10-08T09:00:00+00:00",
       "featured": true
     },
     {
@@ -17,7 +35,7 @@
       "excerpt": "Baku rejects claims that former BND chief August Hanning leaked classified secrets to its intelligence services, alleging a “smear campaign” aimed at undermining bilateral ties.",
       "link": "https://www.occrp.org/en/news/azerbaijan-denies-link-to-espionage-case-involving-former-german-spy-chief",
       "published": "2026-10-07T18:31:00+00:00",
-      "featured": true
+      "featured": false
     },
     {
       "id": "84698d91ebd6",
@@ -26,7 +44,7 @@
       "excerpt": "Jonathan, a 194-year-old Aldabra giant tortoise, was born before the Civil War. Scientists have now sequenced his genome to reveal what’s behind his extreme longevity, so we can live longer too.",
       "link": "https://www.404media.co/oldest-living-land-animal-jonathan-the-tortoise/",
       "published": "2026-10-07T18:00:38+00:00",
-      "featured": true
+      "featured": false
     },
     {
       "id": "5dd697864b2c",
@@ -35,15 +53,6 @@
       "excerpt": "The GOP Senate candidate holds up to $250,000 in Blackstone’s real estate trust while pitching an affordable-housing plan built around tax breaks for developers.",
       "link": "https://www.levernews.com/the-eviction-candidate/",
       "published": "2026-10-07T17:50:08+00:00",
-      "featured": false
-    },
-    {
-      "id": "d459e7f3367a",
-      "source": "The Intercept",
-      "headline": "Feds Charged Activists Just Before Major Anti-ICE Protest in a Tiny Vermont Town",
-      "excerpt": "Authorities are taking unprecedented steps to charge protesters in a sleepy Vermont town that hosts an ICE intelligence and targeting center. The post Feds Charged Activists Just Before Major Anti-ICE Protest in a Tiny...",
-      "link": "https://theintercept.com/2026/10/07/ice-protest-vermont-surveillance-charges/",
-      "published": "2026-10-07T17:45:50+00:00",
       "featured": false
     },
     {
@@ -74,15 +83,6 @@
       "featured": false
     },
     {
-      "id": "846c7eff33b8",
-      "source": "ProPublica",
-      "headline": "Homeless Shelters Around Phoenix Are Full. His Phone Is the Unofficial Hotline for Struggling Families.",
-      "excerpt": "The post Homeless Shelters Around Phoenix Are Full. His Phone Is the Unofficial Hotline for Struggling Families. appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/arizona-homeless-austin-davis-az-hugs",
-      "published": "2026-10-07T09:00:00+00:00",
-      "featured": false
-    },
-    {
       "id": "c841663e4e81",
       "source": "More Perfect Union",
       "headline": "We Investigated Starlink. The Corruption We Found Will Shock You",
@@ -110,12 +110,30 @@
       "featured": false
     },
     {
-      "id": "e32d86e798ba",
+      "id": "c1184bcdcfc7",
       "source": "Al Jazeera",
-      "headline": "Russia dismisses reports of second plague case as ‘false information’",
-      "excerpt": "Senior WHO official urges Russia to provide more information on the suspected pneumonic plague cases.",
-      "link": "https://www.aljazeera.com/news/2026/10/8/russia-dismisses-reports-of-second-plague-case-as-false-information?traffic_source=rss",
-      "published": "2026-10-08T00:16:41+00:00",
+      "headline": "UK police charge Royal Navy member accused of working with foreign power",
+      "excerpt": "Police say the incident is not connected to ongoing investigations at the RAF Fairford airbase.",
+      "link": "https://www.aljazeera.com/news/2026/10/8/uk-police-charge-royal-navy-member-accused-of-working-with-foreign-power?traffic_source=rss",
+      "published": "2026-10-08T09:40:10+00:00",
+      "featured": false
+    },
+    {
+      "id": "c97eff5450d8",
+      "source": "ProPublica",
+      "headline": "American Academy of Pediatrics Renews Call for Ban on Raw Milk",
+      "excerpt": "The post American Academy of Pediatrics Renews Call for Ban on Raw Milk appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/raw-milk-ban-children-pediatricians-health-safety-parents",
+      "published": "2026-10-08T09:00:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "d459e7f3367a",
+      "source": "The Intercept",
+      "headline": "Feds Charged Activists Just Before Major Anti-ICE Protest in a Tiny Vermont Town",
+      "excerpt": "Authorities are taking unprecedented steps to charge protesters in a sleepy Vermont town that hosts an ICE intelligence and targeting center. The post Feds Charged Activists Just Before Major Anti-ICE Protest in a Tiny...",
+      "link": "https://theintercept.com/2026/10/07/ice-protest-vermont-surveillance-charges/",
+      "published": "2026-10-07T17:45:50+00:00",
       "featured": false
     },
     {
@@ -146,30 +164,12 @@
       "featured": false
     },
     {
-      "id": "d09b57e5c3df",
-      "source": "The Intercept",
-      "headline": "He Confessed to an Afghanistan War Murder. The U.S. Military Promptly Closed the Case.",
-      "excerpt": "A veteran walked into a California police station to make a horrifying confession. The post He Confessed to an Afghanistan War Murder. The U.S. Military Promptly Closed the Case. appeared first on The Intercept.",
-      "link": "https://theintercept.com/2026/10/07/afghanistan-war-crime-confession-accountability/",
-      "published": "2026-10-07T09:00:00+00:00",
-      "featured": false
-    },
-    {
       "id": "0ef31559c52c",
       "source": "Dropsite News",
       "headline": "Why Bagram Air Base Remains a Target Five Years After U.S. Exited Afghanistan",
       "excerpt": "Viral videos and online commentary have alleged that U.S. forces quietly reclaimed Afghanistan’s most notorious military base.",
       "link": "https://www.dropsitenews.com/p/bagram-airbase-afghanistan-taliban",
       "published": "2026-10-06T20:01:30+00:00",
-      "featured": false
-    },
-    {
-      "id": "f3f2e66fb4a6",
-      "source": "ProPublica",
-      "headline": "I’ve Covered Death Row Cases for Nearly a Decade. What Happened to Christa Pike Wasn’t an Anomaly.",
-      "excerpt": "The post I’ve Covered Death Row Cases for Nearly a Decade. What Happened to Christa Pike Wasn’t an Anomaly. appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/christa-pike-tennessee-execution-lethal-injection-failure",
-      "published": "2026-10-06T18:55:00+00:00",
       "featured": false
     },
     {
@@ -218,21 +218,30 @@
       "featured": false
     },
     {
-      "id": "0bbcce320311",
+      "id": "9a9e4e4711b4",
       "source": "Al Jazeera",
-      "headline": "Saudi Arabia confirms three dead in Houthi strikes on its airports",
-      "excerpt": "Saudi Arabia has confirmed that Houthi strikes on two of its international airports have killed three people.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/8/saudi-arabia-confirms-three-dead-in-houthi-strikes-on-its-airports?traffic_source=rss",
-      "published": "2026-10-08T00:16:25+00:00",
+      "headline": "Bosnia’s political future looks increasingly like its past",
+      "excerpt": "Three nationalist parties are poised to dominate again, deepening fears of division and paralysis.",
+      "link": "https://www.aljazeera.com/opinions/2026/10/8/bosnias-political-future-looks-increasingly-like-its-past?traffic_source=rss",
+      "published": "2026-10-08T09:37:07+00:00",
       "featured": false
     },
     {
-      "id": "9cb6c01d414c",
+      "id": "846c7eff33b8",
+      "source": "ProPublica",
+      "headline": "Homeless Shelters Around Phoenix Are Full. His Phone Is the Unofficial Hotline for Struggling Families.",
+      "excerpt": "The post Homeless Shelters Around Phoenix Are Full. His Phone Is the Unofficial Hotline for Struggling Families. appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/arizona-homeless-austin-davis-az-hugs",
+      "published": "2026-10-07T09:00:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "d09b57e5c3df",
       "source": "The Intercept",
-      "headline": "Antisemitism Law Helped Get a Professor Fired for Free Speech, Lawsuit Says",
-      "excerpt": "A hardline anti-Islamic Republic group went after a tenured professor for comments about Iran. When that didn’t work, they cited tweets about Israel and Gaza. The post Antisemitism Law Helped Get a Professor Fired for...",
-      "link": "https://theintercept.com/2026/10/06/professor-fired-free-speech-iran-antisemitism-law/",
-      "published": "2026-10-06T21:40:23+00:00",
+      "headline": "He Confessed to an Afghanistan War Murder. The U.S. Military Promptly Closed the Case.",
+      "excerpt": "A veteran walked into a California police station to make a horrifying confession. The post He Confessed to an Afghanistan War Murder. The U.S. Military Promptly Closed the Case. appeared first on The Intercept.",
+      "link": "https://theintercept.com/2026/10/07/afghanistan-war-crime-confession-accountability/",
+      "published": "2026-10-07T09:00:00+00:00",
       "featured": false
     },
     {
@@ -269,15 +278,6 @@
       "excerpt": "Drop Site Daily: October 6, 2026",
       "link": "https://www.dropsitenews.com/p/saudi-turkey-pakistan-defense-mecca-democrats-house-ethiopia-fighting",
       "published": "2026-10-06T13:52:54+00:00",
-      "featured": false
-    },
-    {
-      "id": "f01b54a00c72",
-      "source": "ProPublica",
-      "headline": "More Than 500 U.S. Citizens Have Been Detained, Including Handcuffed or Held at Gunpoint, in Trump’s Immigration Crackdown",
-      "excerpt": "The post More Than 500 U.S. Citizens Have Been Detained, Including Handcuffed or Held at Gunpoint, in Trump’s Immigration Crackdown appeared first on ProPublica.",
-      "link": "https://projects.propublica.org/american-citizens-detained-dhs-civil-rights/",
-      "published": "2026-10-06T10:00:00+00:00",
       "featured": false
     },
     {
@@ -326,21 +326,30 @@
       "featured": false
     },
     {
-      "id": "10c423ceba9e",
+      "id": "d65467aaa9a9",
       "source": "Al Jazeera",
-      "headline": "Yemen war live: Yemeni forces claim key heights as Houthi attacks go on",
-      "excerpt": "Saudi-backed Yemeni forces claim advances in western Taiz's mountain belt overlooking the coast.",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/10/8/yemen-war-live-yemeni-forces-claim-key-heights-as-houthi-attacks-go-on?traffic_source=rss",
-      "published": "2026-10-08T00:00:00+00:00",
+      "headline": "Jon Rahm to quit LIV Golf tour over ‘unacceptable’ terms",
+      "excerpt": "'Rahm has reviewed the proposed terms of LIV 2.0 and has determined that they are unacceptable,' his lawyer said.",
+      "link": "https://www.aljazeera.com/sports/2026/10/8/jon-rahm-to-quit-liv-golf-tour-over-unacceptable-terms?traffic_source=rss",
+      "published": "2026-10-08T09:00:30+00:00",
       "featured": false
     },
     {
-      "id": "f2eef361339d",
+      "id": "9cb6c01d414c",
       "source": "The Intercept",
-      "headline": "The U.S. Military Struggles to Protect Its Bases Amid Failing Iran War",
-      "excerpt": "From Jordan to Kuwait to the United Kingdom, U.S. outposts are increasingly vulnerable to attack. The post The U.S. Military Struggles to Protect Its Bases Amid Failing Iran War appeared first on The Intercept.",
-      "link": "https://theintercept.com/2026/10/06/iran-war-uk-fairford-overseas-bases/",
-      "published": "2026-10-06T17:25:09+00:00",
+      "headline": "Antisemitism Law Helped Get a Professor Fired for Free Speech, Lawsuit Says",
+      "excerpt": "A hardline anti-Islamic Republic group went after a tenured professor for comments about Iran. When that didn’t work, they cited tweets about Israel and Gaza. The post Antisemitism Law Helped Get a Professor Fired for...",
+      "link": "https://theintercept.com/2026/10/06/professor-fired-free-speech-iran-antisemitism-law/",
+      "published": "2026-10-06T21:40:23+00:00",
+      "featured": false
+    },
+    {
+      "id": "f3f2e66fb4a6",
+      "source": "ProPublica",
+      "headline": "I’ve Covered Death Row Cases for Nearly a Decade. What Happened to Christa Pike Wasn’t an Anomaly.",
+      "excerpt": "The post I’ve Covered Death Row Cases for Nearly a Decade. What Happened to Christa Pike Wasn’t an Anomaly. appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/christa-pike-tennessee-execution-lethal-injection-failure",
+      "published": "2026-10-06T18:55:00+00:00",
       "featured": false
     },
     {
@@ -368,15 +377,6 @@
       "excerpt": "And 404's Flock coverage cited in proposed legislation.",
       "link": "https://www.404media.co/404-at-3-live-show/",
       "published": "2026-10-06T14:08:33+00:00",
-      "featured": false
-    },
-    {
-      "id": "7a14ca8d0bb0",
-      "source": "ProPublica",
-      "headline": "Our Reporter Spent 10 Weeks Gambling on DraftKings. Here Are 5 Things He Learned.",
-      "excerpt": "The post Our Reporter Spent 10 Weeks Gambling on DraftKings. Here Are 5 Things He Learned. appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/sports-gambling-draftkings-takeaways",
-      "published": "2026-10-06T09:00:00+00:00",
       "featured": false
     },
     {
@@ -425,12 +425,21 @@
       "featured": false
     },
     {
-      "id": "ade3d1861aff",
+      "id": "e1bf845d3c6e",
       "source": "Al Jazeera",
-      "headline": "EU-China trade talks begin in Beijing amid escalating pressure",
-      "excerpt": "Talks will focus on the €1bn daily deficit and rare earth export restrictions.",
-      "link": "https://www.aljazeera.com/economy/2026/10/7/eu-china-trade-talks-begin-in-beijing-amid-escalating-pressure?traffic_source=rss",
-      "published": "2026-10-07T23:45:03+00:00",
+      "headline": "‘Nature can recover’: Inside the race to rescue world’s crisis-hit wildlife",
+      "excerpt": "Spark of hope for a natural world beset by crisis, as conservation efforts succeed amid a 73 percent drop in wildlife.",
+      "link": "https://www.aljazeera.com/features/2026/10/8/nature-can-recover-inside-the-race-to-rescue-worlds-crisis-hit-wildlife?traffic_source=rss",
+      "published": "2026-10-08T08:37:15+00:00",
+      "featured": false
+    },
+    {
+      "id": "f2eef361339d",
+      "source": "The Intercept",
+      "headline": "The U.S. Military Struggles to Protect Its Bases Amid Failing Iran War",
+      "excerpt": "From Jordan to Kuwait to the United Kingdom, U.S. outposts are increasingly vulnerable to attack. The post The U.S. Military Struggles to Protect Its Bases Amid Failing Iran War appeared first on The Intercept.",
+      "link": "https://theintercept.com/2026/10/06/iran-war-uk-fairford-overseas-bases/",
+      "published": "2026-10-06T17:25:09+00:00",
       "featured": false
     },
     {
@@ -443,12 +452,12 @@
       "featured": false
     },
     {
-      "id": "da00f9091635",
-      "source": "The Intercept",
-      "headline": "The Key Witness Against Richard Glossip Just Returned to Court. It Didn’t Go Well.",
-      "excerpt": "Decades after blaming Glossip for his own actions, Justin Sneed is less credible than ever — and prosecutors know it. The post The Key Witness Against Richard Glossip Just Returned to Court. It Didn’t Go Well. appeared...",
-      "link": "https://theintercept.com/2026/10/06/justin-sneed-richard-glossip-trial/",
-      "published": "2026-10-06T11:00:00+00:00",
+      "id": "f01b54a00c72",
+      "source": "ProPublica",
+      "headline": "More Than 500 U.S. Citizens Have Been Detained, Including Handcuffed or Held at Gunpoint, in Trump’s Immigration Crackdown",
+      "excerpt": "The post More Than 500 U.S. Citizens Have Been Detained, Including Handcuffed or Held at Gunpoint, in Trump’s Immigration Crackdown appeared first on ProPublica.",
+      "link": "https://projects.propublica.org/american-citizens-detained-dhs-civil-rights/",
+      "published": "2026-10-06T10:00:00+00:00",
       "featured": false
     },
     {
@@ -476,15 +485,6 @@
       "excerpt": "In the remote Colombian smuggling hub of La Guajira, locals say a year of U.S. airstrikes has left behind wrecked vessels and bodies, but done little to stop cocaine-laden speedboats from heading out to sea.",
       "link": "https://www.occrp.org/en/feature/cocaine-boatmen-are-being-blown-up-by-us-airstrikes-but-the-drugs-keep-flowing-from-colombia",
       "published": "2026-10-05T13:25:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "3eb252e0bbc8",
-      "source": "ProPublica",
-      "headline": "How ProPublica Reporters Became Private School Owners in 24 Hours",
-      "excerpt": "The post How ProPublica Reporters Became Private School Owners in 24 Hours appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/propublica-reporters-private-school-owners",
-      "published": "2026-10-05T10:00:00+00:00",
       "featured": false
     },
     {
@@ -524,21 +524,21 @@
       "featured": false
     },
     {
-      "id": "f31d0a864c8b",
+      "id": "641f64b4c17d",
       "source": "Al Jazeera",
-      "headline": "UN peacekeeping force in Lebanon says shots fired at Israeli border post",
-      "excerpt": "The United Nations Interim Force in Lebanon said there were no casualties after small arms fire targeted a border post.",
-      "link": "https://www.aljazeera.com/news/2026/10/7/un-peacekeeping-force-in-lebanon-says-shots-fired-at-israeli-border-post?traffic_source=rss",
-      "published": "2026-10-07T23:33:29+00:00",
+      "headline": "Gaza war sped up India’s shift towards Israel under Modi",
+      "excerpt": "As even Israel's traditional allies are distancing themselves from Netanyahu, Modi's India has embraced the country.",
+      "link": "https://www.aljazeera.com/news/2026/10/8/how-gaza-war-sped-up-indias-shift-towards-israel-under-modi?traffic_source=rss",
+      "published": "2026-10-08T08:31:44+00:00",
       "featured": false
     },
     {
-      "id": "7a7a02919a29",
-      "source": "The Lever",
-      "headline": "He Botched The Epstein Files. Now He’s Trump’s Intelligence And AI Lead.",
-      "excerpt": "The same man who improperly published names of Epstein’s potential victims will oversee the nation’s spy network and artificial intelligence policy.",
-      "link": "https://www.levernews.com/he-botched-the-epstein-files-now-hes-trumps-intelligence-and-ai-lead/",
-      "published": "2026-10-05T18:25:10+00:00",
+      "id": "da00f9091635",
+      "source": "The Intercept",
+      "headline": "The Key Witness Against Richard Glossip Just Returned to Court. It Didn’t Go Well.",
+      "excerpt": "Decades after blaming Glossip for his own actions, Justin Sneed is less credible than ever — and prosecutors know it. The post The Key Witness Against Richard Glossip Just Returned to Court. It Didn’t Go Well. appeared...",
+      "link": "https://theintercept.com/2026/10/06/justin-sneed-richard-glossip-trial/",
+      "published": "2026-10-06T11:00:00+00:00",
       "featured": false
     }
   ]
