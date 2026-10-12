@@ -1,13 +1,31 @@
 {
-  "generated_at": "2026-10-12T00:33:11.589210+00:00",
+  "generated_at": "2026-10-12T10:51:32.079595+00:00",
   "articles": [
     {
-      "id": "11ba8faeb64e",
+      "id": "d265918c0fd8",
       "source": "Al Jazeera",
-      "headline": "Ceuta or Sebta? Why one city has two names and a disputed status",
-      "excerpt": "Felipe VI’s first visit to Ceuta and Melilla as king brings Spain’s territorial dispute with Morocco back into focus.",
-      "link": "https://www.aljazeera.com/news/2026/10/12/ceuta-or-sebta-why-one-city-has-two-names-and-a-disputed-status?traffic_source=rss",
-      "published": "2026-10-12T00:14:46+00:00",
+      "headline": "Ukraine’s Zelenskyy accuses Russia of violating Trump’s ‘energy ceasefire’",
+      "excerpt": "The EU also announced that it officially added almost 1,600 new sanctions on Russia's military industrial complex.",
+      "link": "https://www.aljazeera.com/news/2026/10/12/ukraines-zelenskyy-accuses-russia-of-violating-trumps-energy-ceasefire?traffic_source=rss",
+      "published": "2026-10-12T10:35:51+00:00",
+      "featured": true
+    },
+    {
+      "id": "5d36741a7c30",
+      "source": "The Intercept",
+      "headline": "Trump Wanted Minneapolis 15 Case to Be Another Prairieland. Instead, Twin Cities Rallied Behind Anti-ICE Activists.",
+      "excerpt": "The mainstream of Minnesota’s left-of-center politics — including unions, the backbone of Democratic power — are behind the radical left. The post Trump Wanted Minneapolis 15 Case to Be Another Prairieland. Instead,...",
+      "link": "https://theintercept.com/2026/10/12/minneapolis-15-ice-protesters-prairieland-unions/",
+      "published": "2026-10-12T09:00:00+00:00",
+      "featured": true
+    },
+    {
+      "id": "60e244288a03",
+      "source": "OCCRP",
+      "headline": "Deloitte’s Cyprus Office Helped Abramovich Firms Relocate Billions in Assets in Apparent Bid to Sidestep Tax and Transparency",
+      "excerpt": "A trove of emails shows that Deloitte Cyprus helped firms beneficially owned by Roman Abramovich attempt to skirt tax and disclosure obligations by retroactively transferring assets to British Virgin Islands companies...",
+      "link": "https://www.occrp.org/en/project/cyprus-confidential/deloittes-office-in-cyprus-helped-abramovich-firms-relocate-billions-of-dollars-in-assets-in-apparent-bid-to-sidestep-tax-and-transparency",
+      "published": "2026-10-12T05:00:00+00:00",
       "featured": true
     },
     {
@@ -17,7 +35,7 @@
       "excerpt": "India has launched an unprecedented crackdown on demonstrators after the election commission purged over 130 million people from voter rolls.",
       "link": "https://www.dropsitenews.com/p/india-delhi-protests-voter-purge",
       "published": "2026-10-11T17:50:59+00:00",
-      "featured": true
+      "featured": false
     },
     {
       "id": "d43dc756903e",
@@ -26,7 +44,7 @@
       "excerpt": "Walmart watches, Zionists worry, and more from The Lever this week.",
       "link": "https://www.levernews.com/lever-weekly-cleanup-on-aisle-2026/",
       "published": "2026-10-11T13:01:00+00:00",
-      "featured": true
+      "featured": false
     },
     {
       "id": "95ee95d0d60d",
@@ -53,24 +71,6 @@
       "excerpt": "The post As Trump’s Wall Closes in, DHS Intimidates a Border Tribe With Surveillance, Masked Agents and Drones appeared first on ProPublica.",
       "link": "https://www.propublica.org/article/tohono-oodham-nation-arizona-border-wall",
       "published": "2026-10-10T10:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "bc4893e60c01",
-      "source": "The Intercept",
-      "headline": "A C-Section in Shackles: A Palestinian Woman’s Harrowing Birth in Israeli Detention",
-      "excerpt": "Dana Joudeh was denied proper food and medical care throughout her pregnancy in an Israeli prison. She gave birth to a premature baby surrounded by armed guards. The post A C-Section in Shackles: A Palestinian Woman’s...",
-      "link": "https://theintercept.com/2026/10/10/israel-palestine-prisoner-pregnancy-childbirth/",
-      "published": "2026-10-10T10:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "9d620f692e14",
-      "source": "OCCRP",
-      "headline": "Montenegro Arrests then Expels Russian 'Rybar' Network Leader, Associates",
-      "excerpt": "Montenegrin authorities crack down on the pro-war Telegram channel over \"hybrid warfare\" fears, confiscating drones and digital equipment while ordering the deportation of five Russian nationals.",
-      "link": "https://www.occrp.org/en/news/montenegro-arrests-then-expels-russian-rybar-network-leader-associates",
-      "published": "2026-10-09T17:09:00+00:00",
       "featured": false
     },
     {
@@ -110,12 +110,12 @@
       "featured": false
     },
     {
-      "id": "625e5e7d2c68",
+      "id": "603b3baba232",
       "source": "Al Jazeera",
-      "headline": "Iran war live: Riyadh airport hit again; Tehran says US reply ‘inadequate’",
-      "excerpt": "Iran says US has accepted some of its peace terms but calls the reply 'inadequate' as the Riyadh airport is hit again.",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/10/12/iran-war-live-riyadh-airport-hit-again-tehran-says-us-reply-inadequate?traffic_source=rss",
-      "published": "2026-10-12T00:00:00+00:00",
+      "headline": "What we learned from ‘guilty’ Man City’s win over Liverpool at Anfield",
+      "excerpt": "City beat Reds despite a hostile Anfield reception, but Premier League season still hangs in the balance.",
+      "link": "https://www.aljazeera.com/sports/2026/10/12/manchester-city-guilty-verdict-financial-charges-liverpool-anfield?traffic_source=rss",
+      "published": "2026-10-12T10:18:58+00:00",
       "featured": false
     },
     {
@@ -125,6 +125,15 @@
       "excerpt": "Democracy stages a Southwestern rebellion, abuse victims find shelter, UnitedHealth faces a preexisting investigation, and the anti-Citizens United movement grows.",
       "link": "https://www.levernews.com/you-love-to-see-it-breaking-bad-money/",
       "published": "2026-10-10T13:01:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "bc4893e60c01",
+      "source": "The Intercept",
+      "headline": "A C-Section in Shackles: A Palestinian Woman’s Harrowing Birth in Israeli Detention",
+      "excerpt": "Dana Joudeh was denied proper food and medical care throughout her pregnancy in an Israeli prison. She gave birth to a premature baby surrounded by armed guards. The post A C-Section in Shackles: A Palestinian Woman’s...",
+      "link": "https://theintercept.com/2026/10/10/israel-palestine-prisoner-pregnancy-childbirth/",
+      "published": "2026-10-10T10:00:00+00:00",
       "featured": false
     },
     {
@@ -146,12 +155,12 @@
       "featured": false
     },
     {
-      "id": "c9758c0bb0a2",
-      "source": "The Intercept",
-      "headline": "ICE Shooting in NYC Inflames Mamdani’s Policing Problem",
-      "excerpt": "After ICE shot a young father in Manhattan, New Yorkers asked the mayor to protect them from his police department and federal agents alike. The post ICE Shooting in NYC Inflames Mamdani’s Policing Problem appeared...",
-      "link": "https://theintercept.com/2026/10/09/ice-shooting-mamdani-nypd/",
-      "published": "2026-10-09T21:23:56+00:00",
+      "id": "9d620f692e14",
+      "source": "OCCRP",
+      "headline": "Montenegro Arrests then Expels Russian 'Rybar' Network Leader, Associates",
+      "excerpt": "Montenegrin authorities crack down on the pro-war Telegram channel over \"hybrid warfare\" fears, confiscating drones and digital equipment while ordering the deportation of five Russian nationals.",
+      "link": "https://www.occrp.org/en/news/montenegro-arrests-then-expels-russian-rybar-network-leader-associates",
+      "published": "2026-10-09T17:09:00+00:00",
       "featured": false
     },
     {
@@ -161,15 +170,6 @@
       "excerpt": "Sen. Ron Wyden is seeking a privacy review report about the HIDTA license plate program.",
       "link": "https://www.404media.co/following-404-media-investigation-senator-demands-info-about-white-houses-license-plate-surveillance-program/",
       "published": "2026-10-09T16:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "a4b2d87510dd",
-      "source": "OCCRP",
-      "headline": "Kidnappings and Home Invasions Soar as French Syndicates Extort Crypto",
-      "excerpt": "French authorities have recorded 77 violent incidents targeting cryptocurrency holders so far in 2026, surpassing the total for all of last year. Prosecutors say increasingly organized networks are recruiting young...",
-      "link": "https://www.occrp.org/en/news/kidnappings-and-home-invasions-soar-as-french-syndicates-extort-crypto",
-      "published": "2026-10-09T12:51:00+00:00",
       "featured": false
     },
     {
@@ -218,12 +218,12 @@
       "featured": false
     },
     {
-      "id": "f2f832336686",
+      "id": "3bb6c2b9885f",
       "source": "Al Jazeera",
-      "headline": "Pakistani national killed in second Houthi strike on Riyadh airport",
-      "excerpt": "Saudi authorities say a Pakistani national was killed and several people injured in a second strike on Riyadh’s Airport.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/pakistani-national-killed-second-houthi-strike-riyadh-airport?traffic_source=rss",
-      "published": "2026-10-11T23:20:46+00:00",
+      "headline": "Melbourne man linked to flydubai attack suspect rejects ‘false accusations’",
+      "excerpt": "Samir Mohtadi \"strongly rejects\" any attempt to associate him or Islamic centre in Melbourne with the alleged attacker.",
+      "link": "https://www.aljazeera.com/news/2026/10/12/melbourne-man-linked-to-flydubai-attack-suspect-rejects-false-accusations?traffic_source=rss",
+      "published": "2026-10-12T10:05:19+00:00",
       "featured": false
     },
     {
@@ -236,21 +236,21 @@
       "featured": false
     },
     {
+      "id": "c9758c0bb0a2",
+      "source": "The Intercept",
+      "headline": "ICE Shooting in NYC Inflames Mamdani’s Policing Problem",
+      "excerpt": "After ICE shot a young father in Manhattan, New Yorkers asked the mayor to protect them from his police department and federal agents alike. The post ICE Shooting in NYC Inflames Mamdani’s Policing Problem appeared...",
+      "link": "https://theintercept.com/2026/10/09/ice-shooting-mamdani-nypd/",
+      "published": "2026-10-09T21:23:56+00:00",
+      "featured": false
+    },
+    {
       "id": "7bea21ccda5f",
       "source": "ProPublica",
       "headline": "New York Plans Stronger Sports Betting Regulation to Curb Gambling Addiction",
       "excerpt": "The post New York Plans Stronger Sports Betting Regulation to Curb Gambling Addiction appeared first on ProPublica.",
       "link": "https://www.propublica.org/article/new-york-gaming-commission-sports-betting-regulation",
       "published": "2026-10-09T20:14:42+00:00",
-      "featured": false
-    },
-    {
-      "id": "bf1dafa783b9",
-      "source": "The Intercept",
-      "headline": "Where Are the Iran War Protests?",
-      "excerpt": "Despite a wildly unpopular war with Iran, a mass protest movement for peace hasn’t materialized — at least in the ways we’ve been taught to recognize. The post Where Are the Iran War Protests? appeared first on The...",
-      "link": "https://theintercept.com/2026/10/09/anti-war-peace-protest-marches-iran/",
-      "published": "2026-10-09T18:31:17+00:00",
       "featured": false
     },
     {
@@ -272,12 +272,12 @@
       "featured": false
     },
     {
-      "id": "61b47f70a564",
+      "id": "a4b2d87510dd",
       "source": "OCCRP",
-      "headline": "Lithuanian Minister Condemns Intimidation Campaign against Investigative Reporters",
-      "excerpt": "After news outlet 15min exposed how Bankera’s co-founders allegedly siphoned tens of millions in investor funds into an offshore bank, reporters faced physical tracking, smear campaigns, and a barrage of regulatory...",
-      "link": "https://www.occrp.org/en/news/lithuanian-minister-condemns-intimidation-campaign-against-investigative-reporters",
-      "published": "2026-10-09T12:21:00+00:00",
+      "headline": "Kidnappings and Home Invasions Soar as French Syndicates Extort Crypto",
+      "excerpt": "French authorities have recorded 77 violent incidents targeting cryptocurrency holders so far in 2026, surpassing the total for all of last year. Prosecutors say increasingly organized networks are recruiting young...",
+      "link": "https://www.occrp.org/en/news/kidnappings-and-home-invasions-soar-as-french-syndicates-extort-crypto",
+      "published": "2026-10-09T12:51:00+00:00",
       "featured": false
     },
     {
@@ -326,12 +326,21 @@
       "featured": false
     },
     {
-      "id": "0a02dab2c2a6",
+      "id": "268f423f89f2",
       "source": "Al Jazeera",
-      "headline": "US Homeland Security secretary sees no ‘risk’ from livestreamed execution",
-      "excerpt": "Decision to livestream Nidal Hasan execution has led to harsh criticism and warnings that it could encourage violence.",
-      "link": "https://www.aljazeera.com/news/2026/10/11/us-homeland-security-secretary-sees-no-risk-from-livestreamed-execution?traffic_source=rss",
-      "published": "2026-10-11T23:17:05+00:00",
+      "headline": "Indian YouTuber Dhruv Rathee alleges abduction ahead of Delhi protests",
+      "excerpt": "Indian YouTube star Dhruv Rathee alleges he was abducted from home and held for nearly 24 hours without a lawyer.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/12/10-12-dhruv-rathee-india-protests-sv?traffic_source=rss",
+      "published": "2026-10-12T09:55:11+00:00",
+      "featured": false
+    },
+    {
+      "id": "bf1dafa783b9",
+      "source": "The Intercept",
+      "headline": "Where Are the Iran War Protests?",
+      "excerpt": "Despite a wildly unpopular war with Iran, a mass protest movement for peace hasn’t materialized — at least in the ways we’ve been taught to recognize. The post Where Are the Iran War Protests? appeared first on The...",
+      "link": "https://theintercept.com/2026/10/09/anti-war-peace-protest-marches-iran/",
+      "published": "2026-10-09T18:31:17+00:00",
       "featured": false
     },
     {
@@ -353,21 +362,12 @@
       "featured": false
     },
     {
-      "id": "5032f94d879c",
+      "id": "61b47f70a564",
       "source": "OCCRP",
-      "headline": "IKEA Stopped Selling in Russia. But its Former Belarusian Supplier Filled the Gap — With Strikingly Similar Furniture",
-      "excerpt": "Following the 2022 invasion of Ukraine, IKEA pulled out of Russia, as well as Belarus where it had sourced some furniture. The Belarusian factory stopped supplying IKEA, but kept making similar products for export to...",
-      "link": "https://www.occrp.org/en/news/ikea-stopped-selling-in-russia-but-its-former-belarusian-supplier-filled-the-gap-with-strikingly-similar-furniture",
-      "published": "2026-10-09T11:29:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "715ba93445cc",
-      "source": "The Intercept",
-      "headline": "Prediction Markets Have a Lock on the Midterms",
-      "excerpt": "As Kalshi and Polymarket dodge state regulations, prediction markets are upping the ante on next month’s elections. The post Prediction Markets Have a Lock on the Midterms appeared first on The Intercept.",
-      "link": "https://theintercept.com/2026/10/09/kalshi-polymarket-betting-prediction-election/",
-      "published": "2026-10-09T10:00:00+00:00",
+      "headline": "Lithuanian Minister Condemns Intimidation Campaign against Investigative Reporters",
+      "excerpt": "After news outlet 15min exposed how Bankera’s co-founders allegedly siphoned tens of millions in investor funds into an offshore bank, reporters faced physical tracking, smear campaigns, and a barrage of regulatory...",
+      "link": "https://www.occrp.org/en/news/lithuanian-minister-condemns-intimidation-campaign-against-investigative-reporters",
+      "published": "2026-10-09T12:21:00+00:00",
       "featured": false
     },
     {
@@ -434,12 +434,21 @@
       "featured": false
     },
     {
-      "id": "b42978a69eee",
+      "id": "a91ea356ed10",
       "source": "Al Jazeera",
-      "headline": "Footage shows moment Russian strike hits Ukrainian grocery store",
-      "excerpt": "CCTV footage shows the moment of a Russian strike on a residential street in Kharkiv, Ukraine.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/footage-shows-moment-russian-strike-hits-ukrainian-grocery-store?traffic_source=rss",
-      "published": "2026-10-11T22:49:23+00:00",
+      "headline": "Maps show how Israel’s ‘Yellow Line’ keeps squeezing Palestinians in Gaza",
+      "excerpt": "A year into a 'ceasefire', Israel restricts access to 65 percent of Gaza and crams 2.1 million people into the rest.",
+      "link": "https://www.aljazeera.com/news/2026/10/12/maps-show-how-israels-yellow-line-keeps-squeezing-palestinians-in-gaza?traffic_source=rss",
+      "published": "2026-10-12T09:27:12+00:00",
+      "featured": false
+    },
+    {
+      "id": "5032f94d879c",
+      "source": "OCCRP",
+      "headline": "IKEA Stopped Selling in Russia. But its Former Belarusian Supplier Filled the Gap — With Strikingly Similar Furniture",
+      "excerpt": "Following the 2022 invasion of Ukraine, IKEA pulled out of Russia, as well as Belarus where it had sourced some furniture. The Belarusian factory stopped supplying IKEA, but kept making similar products for export to...",
+      "link": "https://www.occrp.org/en/news/ikea-stopped-selling-in-russia-but-its-former-belarusian-supplier-filled-the-gap-with-strikingly-similar-furniture",
+      "published": "2026-10-09T11:29:00+00:00",
       "featured": false
     },
     {
@@ -452,21 +461,21 @@
       "featured": false
     },
     {
+      "id": "715ba93445cc",
+      "source": "The Intercept",
+      "headline": "Prediction Markets Have a Lock on the Midterms",
+      "excerpt": "As Kalshi and Polymarket dodge state regulations, prediction markets are upping the ante on next month’s elections. The post Prediction Markets Have a Lock on the Midterms appeared first on The Intercept.",
+      "link": "https://theintercept.com/2026/10/09/kalshi-polymarket-betting-prediction-election/",
+      "published": "2026-10-09T10:00:00+00:00",
+      "featured": false
+    },
+    {
       "id": "8228d429b337",
       "source": "The Lever",
       "headline": "Walmart Says It Prices Products, Not People. Its Patents Suggest Otherwise.",
       "excerpt": "A decade of filings reveals technology that could instantly change prices based on what’s in your cart, your perceived personality, and even the specifics of your car.",
       "link": "https://www.levernews.com/walmart-says-it-prices-products-not-people-its-patents-suggest-otherwise/",
       "published": "2026-10-09T09:01:19+00:00",
-      "featured": false
-    },
-    {
-      "id": "c337dd892c23",
-      "source": "The Intercept",
-      "headline": "ICE Agent on Scene of NYC Shooting Was Posing as Construction Worker, Eyewitness Says",
-      "excerpt": "A member of Congress at the scene confirmed to The Intercept that there was a child in the victim’s car when ICE agents shot at it. The post ICE Agent on Scene of NYC Shooting Was Posing as Construction Worker,...",
-      "link": "https://theintercept.com/2026/10/08/ice-nyc-shooting-federal-agent/",
-      "published": "2026-10-08T23:32:38+00:00",
       "featured": false
     },
     {
@@ -485,15 +494,6 @@
       "excerpt": "Cops are getting around a very important iPhone security feature; someone made an LLM torture chamber; and lawyers going wild with ChatGPT.",
       "link": "https://www.404media.co/podcast-leak-show-cops-can-break-into-locked-iphones/",
       "published": "2026-10-08T16:11:25+00:00",
-      "featured": false
-    },
-    {
-      "id": "4d47a11c17e1",
-      "source": "OCCRP",
-      "headline": "Nearly 50 Arrested as Police Target Western Balkan Drug Network",
-      "excerpt": "European authorities have dismantled an international drug ring that hid contraband inside commercial freight and allegedly used grenade attacks and homicides to settle internal feuds.",
-      "link": "https://www.occrp.org/en/news/nearly-50-arrested-as-police-target-western-balkan-drug-network",
-      "published": "2026-10-08T15:56:00+00:00",
       "featured": false
     },
     {
@@ -524,12 +524,12 @@
       "featured": false
     },
     {
-      "id": "bc3de2a7f7d1",
+      "id": "b14e29daf276",
       "source": "Al Jazeera",
-      "headline": "CCTV shows moment of deadly Houthi strike on Riyadh airport",
-      "excerpt": "CCTV footage released by Al Arabiya shows the moment of a Houthi strike on Riyadh’s international airport on Saturday.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/houthi-strike-riyadh-international-airport-cctv-footage?traffic_source=rss",
-      "published": "2026-10-11T22:24:07+00:00",
+      "headline": "Delhi braces for more protests against election chief amid crackdown",
+      "excerpt": "Opposition parties joined by student groups are back on the streets, disrupting New Delhi with flash marches.",
+      "link": "https://www.aljazeera.com/features/2026/10/12/delhi-braces-for-more-protests-against-election-chief-amid-crackdown?traffic_source=rss",
+      "published": "2026-10-12T08:55:46+00:00",
       "featured": false
     },
     {
