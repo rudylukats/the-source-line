@@ -1,13 +1,31 @@
 {
-  "generated_at": "2026-10-14T17:11:33.834418+00:00",
+  "generated_at": "2026-10-14T21:41:50.042809+00:00",
   "articles": [
     {
-      "id": "e4c47e483d39",
+      "id": "33189f4b83f7",
+      "source": "Dropsite News",
+      "headline": "Pulling Out Teeth Just to Live: How Israel Has Devastated Dental Care in Gaza",
+      "excerpt": "Along with other medical supplies, dental materials have not been allowed into Gaza for the past three years, forcing patients to choose between unaffordable treatment, extraction, or painkillers.",
+      "link": "https://www.dropsitenews.com/p/gaza-dentists-dental-care-israeli-siege",
+      "published": "2026-10-14T21:06:32+00:00",
+      "featured": true
+    },
+    {
+      "id": "a843694835a0",
       "source": "Al Jazeera",
-      "headline": "Settlers attack Palestinian mosque near occupied East Jerusalem",
-      "excerpt": "Settlers attack Palestinian mosque near occupied East Jerusalem",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/14/settlers-attack-palestinian-mosque-near-occupied-east-jerusalem?traffic_source=rss",
-      "published": "2026-10-14T17:05:01+00:00",
+      "headline": "West Indies beat India to level T20 series as Hope continues record run",
+      "excerpt": "Shai Hope’s 102 gives West Indies a 24-run series-leveling win over India in fourth cricket T20 as another record falls.",
+      "link": "https://www.aljazeera.com/sports/2026/10/14/west-indies-beat-india-to-level-series-as-hope-continues-record-run?traffic_source=rss",
+      "published": "2026-10-14T20:52:25+00:00",
+      "featured": true
+    },
+    {
+      "id": "a36aeadc85bc",
+      "source": "ICIJ",
+      "headline": "Leaked files reveal how Deloitte Cyprus helped Roman Abramovich hide $10B fortune",
+      "excerpt": "The sanctioned oligarch’s financial advisors in Cyprus falsified financial records in a yearslong a ploy for him to evade taxes, a new investigation by ICIJ’s media partners found.",
+      "link": "https://www.icij.org/investigations/cyprus-confidential/leaked-files-reveal-how-deloitte-cyprus-helped-roman-abramovich-hide-10b-fortune/",
+      "published": "2026-10-14T18:40:26+00:00",
       "featured": true
     },
     {
@@ -17,7 +35,7 @@
       "excerpt": "Earlier this year, the California attorney general said he was still in touch with his former chief of staff-turned lobbyist, who now leads Kalshi’s public affairs in the Golden State.",
       "link": "https://www.levernews.com/midterm-madness-is-kalshi-betting-on-bonta/",
       "published": "2026-10-14T16:49:43+00:00",
-      "featured": true
+      "featured": false
     },
     {
       "id": "580a52ed9378",
@@ -26,7 +44,7 @@
       "excerpt": "Trump’s Lincoln Memorial Reflecting Pool renovation should have been an easy lift. But it quickly became a monument to failure. The post Reflecting on the Trump Era appeared first on The Intercept.",
       "link": "https://theintercept.com/2026/10/14/trump-dc-lincoln-memorial-pool/",
       "published": "2026-10-14T16:34:59+00:00",
-      "featured": true
+      "featured": false
     },
     {
       "id": "7091163f25cf",
@@ -44,15 +62,6 @@
       "excerpt": "",
       "link": "https://www.occrp.org/en/news/five-arrested-in-1-million-euro-fraud-against-nato",
       "published": "2026-10-14T15:24:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "000005f3ff35",
-      "source": "Dropsite News",
-      "headline": "Iranian mine sinks ship in Hormuz; Trump pardons two at Alaska rally; Congo Ebola cases top 9,000",
-      "excerpt": "Drop Site Daily: October 14, 2026",
-      "link": "https://www.dropsitenews.com/p/iran-mine-tanker-hormuz-trump-pardon-alaska-congo-ebola",
-      "published": "2026-10-14T15:12:42+00:00",
       "featured": false
     },
     {
@@ -92,15 +101,6 @@
       "featured": false
     },
     {
-      "id": "89a0d8d45fa1",
-      "source": "ICIJ",
-      "headline": "Tunisian court dismisses case to dissolve publisher of ICIJ partner Inkyfada",
-      "excerpt": "Despite the court victory, Inkyfada and its parent company Al Khatt still struggle to recover funds frozen by authorities.",
-      "link": "https://www.icij.org/news/2026/10/tunisian-court-dismisses-case-to-dissolve-publisher-of-icij-partner-inkyfada/",
-      "published": "2026-10-09T14:21:29+00:00",
-      "featured": false
-    },
-    {
       "id": "9961fdaa30d6",
       "source": "Bellingcat",
       "headline": "Groups Associated With India’s Far-Right Receive Millions Through US Donor-Advised Funds",
@@ -110,12 +110,21 @@
       "featured": false
     },
     {
-      "id": "7e1f6522c486",
+      "id": "63d0577920bc",
       "source": "Al Jazeera",
-      "headline": "Kenya’s health ministry confirms second Ebola case",
-      "excerpt": "A relative of the first case, 39-year-old man's infection raises concerns of a cross-border spread.",
-      "link": "https://www.aljazeera.com/news/2026/10/14/kenyas-health-ministry-confirms-second-ebola-case?traffic_source=rss",
-      "published": "2026-10-14T17:03:19+00:00",
+      "headline": "Israeli quadcopter drone drops bomb in Lebanon",
+      "excerpt": "An Israeli quadcopter drone was filmed dropping a bomb on the outskirts of the village of Zibqin in southern Lebanon.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/14/israeli-quadcopter-drone-drops-bomb-in-lebanon?traffic_source=rss",
+      "published": "2026-10-14T20:47:46+00:00",
+      "featured": false
+    },
+    {
+      "id": "000005f3ff35",
+      "source": "Dropsite News",
+      "headline": "Iranian mine sinks ship in Hormuz; Trump pardons two at Alaska rally; Congo Ebola cases top 9,000",
+      "excerpt": "Drop Site Daily: October 14, 2026",
+      "link": "https://www.dropsitenews.com/p/iran-mine-tanker-hormuz-trump-pardon-alaska-congo-ebola",
+      "published": "2026-10-14T15:12:42+00:00",
       "featured": false
     },
     {
@@ -143,15 +152,6 @@
       "excerpt": "The post New Mexico and El Paso Spent Millions on Climate Plans. Three New Data Centers Could Undo Them. appeared first on ProPublica.",
       "link": "https://www.propublica.org/article/data-centers-texas-new-mexico-greenhouse-gas-emissions",
       "published": "2026-10-14T10:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "95b7ac4954d0",
-      "source": "Dropsite News",
-      "headline": "Mike Rogers’s Wife Raked in Lucrative Government Security Contracts While Rogers Served as Intel Chair",
-      "excerpt": "Before his second marriage, according to financial disclosures, the Michigan Senate candidate had few assets to his name and little wealth. That would soon change as the taxpayer dollars flowed.",
-      "link": "https://www.dropsitenews.com/p/mike-rogers-wife-kristi-military-contracts-aegis-michigan-senate",
-      "published": "2026-10-13T20:55:31+00:00",
       "featured": false
     },
     {
@@ -200,12 +200,12 @@
       "featured": false
     },
     {
-      "id": "172becc8a5f0",
+      "id": "89a0d8d45fa1",
       "source": "ICIJ",
-      "headline": "Five years after the Pandora Papers, transparency laws lose their teeth",
-      "excerpt": "Reforms promised swiftly after ICIJ’s investigation have fallen short in New York and beyond.",
-      "link": "https://www.icij.org/investigations/pandora-papers/five-years-after-the-pandora-papers-transparency-laws-lose-their-teeth/",
-      "published": "2026-10-08T15:52:13+00:00",
+      "headline": "Tunisian court dismisses case to dissolve publisher of ICIJ partner Inkyfada",
+      "excerpt": "Despite the court victory, Inkyfada and its parent company Al Khatt still struggle to recover funds frozen by authorities.",
+      "link": "https://www.icij.org/news/2026/10/tunisian-court-dismisses-case-to-dissolve-publisher-of-icij-partner-inkyfada/",
+      "published": "2026-10-09T14:21:29+00:00",
       "featured": false
     },
     {
@@ -218,12 +218,12 @@
       "featured": false
     },
     {
-      "id": "c2507f076606",
+      "id": "7b1912ed7fe9",
       "source": "Al Jazeera",
-      "headline": "Ukraine accuses Elon Musk’s SpaceX of throttling Starlink terminals",
-      "excerpt": "Officials say ability to block Russian drones restricted as Kyiv reels from second night of ballistic missile attacks.",
-      "link": "https://www.aljazeera.com/news/2026/10/14/ukraine-accuses-elon-musks-spacex-of-throttling-starlink-terminals?traffic_source=rss",
-      "published": "2026-10-14T17:02:31+00:00",
+      "headline": "Families of Trinidadian men killed in US boat strike demand accountability",
+      "excerpt": "The Trump administration has killed at least 239 people in boat strikes denounced as extrajudicial killings.",
+      "link": "https://www.aljazeera.com/news/2026/10/14/families-of-trinidadian-men-killed-in-us-boat-strike-demand-accountability?traffic_source=rss",
+      "published": "2026-10-14T20:42:59+00:00",
       "featured": false
     },
     {
@@ -236,12 +236,12 @@
       "featured": false
     },
     {
-      "id": "5c9138aaadc7",
+      "id": "95b7ac4954d0",
       "source": "Dropsite News",
-      "headline": "Democrats for Mike Rogers Coalition Is Powered by Right-Wingers",
-      "excerpt": "Several self-proclaimed Democratic supporters of Mike Rogers have either broken with the Democratic Party or historically supported Republican politicians.",
-      "link": "https://www.dropsitenews.com/p/democrats-mike-rogers-michigan",
-      "published": "2026-10-13T20:46:53+00:00",
+      "headline": "Mike Rogers’s Wife Raked in Lucrative Government Security Contracts While Rogers Served as Intel Chair",
+      "excerpt": "Before his second marriage, according to financial disclosures, the Michigan Senate candidate had few assets to his name and little wealth. That would soon change as the taxpayer dollars flowed.",
+      "link": "https://www.dropsitenews.com/p/mike-rogers-wife-kristi-military-contracts-aegis-michigan-senate",
+      "published": "2026-10-13T20:55:31+00:00",
       "featured": false
     },
     {
@@ -290,12 +290,12 @@
       "featured": false
     },
     {
-      "id": "8d7781724600",
+      "id": "172becc8a5f0",
       "source": "ICIJ",
-      "headline": "How Hungary’s richest man funneled millions into Orbán’s propaganda machine",
-      "excerpt": "Since 2022, companies belonging to Lőrinc Mészáros, who amassed a fortune from government contracts, donated more than $13 million to an online mouthpiece of the Fidesz party, a new Direkt36 investigation reveals.",
-      "link": "https://www.icij.org/news/2026/10/how-hungarys-richest-man-funneled-millions-into-orbans-propaganda-machine/",
-      "published": "2026-10-07T17:07:27+00:00",
+      "headline": "Five years after the Pandora Papers, transparency laws lose their teeth",
+      "excerpt": "Reforms promised swiftly after ICIJ’s investigation have fallen short in New York and beyond.",
+      "link": "https://www.icij.org/investigations/pandora-papers/five-years-after-the-pandora-papers-transparency-laws-lose-their-teeth/",
+      "published": "2026-10-08T15:52:13+00:00",
       "featured": false
     },
     {
@@ -326,12 +326,12 @@
       "featured": false
     },
     {
-      "id": "1e9022598cb7",
+      "id": "cc669e24247b",
       "source": "Al Jazeera",
-      "headline": "Suspected Israeli online operations cause alarm in Iran and Lebanon",
-      "excerpt": "Suspected online espionage triggers intense security crackdowns and counter-intelligence measures in Iran and Lebanon.",
-      "link": "https://www.aljazeera.com/news/2026/10/14/suspected-israeli-online-operations-cause-alarm-in-iran-and-lebanon?traffic_source=rss",
-      "published": "2026-10-14T16:51:12+00:00",
+      "headline": "Sky turns orange as wildfires rage across Indonesia",
+      "excerpt": "An orange haze is blanketing Indonesia’s Central Kalimantan as wildfires rage across the province.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/14/sky-turns-orange-as-wildfires-rage-across-indonesia?traffic_source=rss",
+      "published": "2026-10-14T20:39:59+00:00",
       "featured": false
     },
     {
@@ -344,12 +344,12 @@
       "featured": false
     },
     {
-      "id": "a118a27732c9",
+      "id": "5c9138aaadc7",
       "source": "Dropsite News",
-      "headline": "Destruction of Gaza Court System Strips Women of Their Rights",
-      "excerpt": "As they struggle to survive a genocide, Palestinian women in Gaza face seemingly insurmountable legal and bureaucratic obstacles to secure rights to inheritance, divorce, alimony, property and more.",
-      "link": "https://www.dropsitenews.com/p/gaza-women-judiciary-sharia-courts-inheritance-rights",
-      "published": "2026-10-13T18:29:37+00:00",
+      "headline": "Democrats for Mike Rogers Coalition Is Powered by Right-Wingers",
+      "excerpt": "Several self-proclaimed Democratic supporters of Mike Rogers have either broken with the Democratic Party or historically supported Republican politicians.",
+      "link": "https://www.dropsitenews.com/p/democrats-mike-rogers-michigan",
+      "published": "2026-10-13T20:46:53+00:00",
       "featured": false
     },
     {
@@ -389,21 +389,21 @@
       "featured": false
     },
     {
+      "id": "8d7781724600",
+      "source": "ICIJ",
+      "headline": "How Hungary’s richest man funneled millions into Orbán’s propaganda machine",
+      "excerpt": "Since 2022, companies belonging to Lőrinc Mészáros, who amassed a fortune from government contracts, donated more than $13 million to an online mouthpiece of the Fidesz party, a new Direkt36 investigation reveals.",
+      "link": "https://www.icij.org/news/2026/10/how-hungarys-richest-man-funneled-millions-into-orbans-propaganda-machine/",
+      "published": "2026-10-07T17:07:27+00:00",
+      "featured": false
+    },
+    {
       "id": "2a699b53d027",
       "source": "Rest of World",
       "headline": "Conflict in the Red Sea is forcing cloud giants to find a new route for the internet",
       "excerpt": "Fishermen motor past a commercial vessel anchored off Yemen's coast at Bab al-Mandeb, in the straits connecting the Red Sea with the Gulf of Aden and the Indian Ocean on September 12, 2026. Yemen's Houthis took over on...",
       "link": "https://restofworld.org/2026/google-meta-red-sea-subsea-cables-houthi-yemen/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "published": "2026-10-07T10:00:41+00:00",
-      "featured": false
-    },
-    {
-      "id": "60824256b741",
-      "source": "ICIJ",
-      "headline": "New documents show how a retail chain’s sales practices helped put guns on US streets",
-      "excerpt": "The public release of the records is part of a legal settlement with a Wisconsin-based company accused of negligence for selling guns that were later used in crimes.",
-      "link": "https://www.icij.org/news/2026/10/new-documents-show-how-a-retail-chains-sales-practices-helped-put-guns-on-u-s-streets/",
-      "published": "2026-10-05T14:13:01+00:00",
       "featured": false
     },
     {
@@ -434,12 +434,12 @@
       "featured": false
     },
     {
-      "id": "264b635c0983",
+      "id": "a455062f48c4",
       "source": "Al Jazeera",
-      "headline": "AI in politics: Is Albania the EU’s testing ground?",
-      "excerpt": "Albania is experimenting with artificial intelligence in politics.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/14/ai-in-politics-is-albania-the-eus-testing-ground?traffic_source=rss",
-      "published": "2026-10-14T16:46:41+00:00",
+      "headline": "World’s oldest shipwreck found off coast of Turkiye",
+      "excerpt": "Clay analysis traces recovered storage jars to early history workshops operating across the Jordan Valley.",
+      "link": "https://www.aljazeera.com/news/2026/10/14/worlds-oldest-shipwreck-found-off-coast-of-turkiye?traffic_source=rss",
+      "published": "2026-10-14T20:33:20+00:00",
       "featured": false
     },
     {
@@ -452,21 +452,21 @@
       "featured": false
     },
     {
+      "id": "a118a27732c9",
+      "source": "Dropsite News",
+      "headline": "Destruction of Gaza Court System Strips Women of Their Rights",
+      "excerpt": "As they struggle to survive a genocide, Palestinian women in Gaza face seemingly insurmountable legal and bureaucratic obstacles to secure rights to inheritance, divorce, alimony, property and more.",
+      "link": "https://www.dropsitenews.com/p/gaza-women-judiciary-sharia-courts-inheritance-rights",
+      "published": "2026-10-13T18:29:37+00:00",
+      "featured": false
+    },
+    {
       "id": "86be2c5a0800",
       "source": "404 Media",
       "headline": "The Creator of ‘Smutstep’ Wants You to ‘Let Your Freak Flag Fly’",
       "excerpt": "DARQ DAGR combined BookTok romantasy and dubstep to create something new and somewhat controversial. “It’s accepting and embracing what you're into within a safe and healthy space,\" he said. \"I think that's a really...",
       "link": "https://www.404media.co/smutstep-dubstep-booktok-growl-darq-dagr/",
       "published": "2026-10-13T16:35:23+00:00",
-      "featured": false
-    },
-    {
-      "id": "0e315af1a491",
-      "source": "Dropsite News",
-      "headline": "Ansarallah threatens to strike Aramco; Elon Musk pours $276 million into midterms; Russia violated Trump’s “energy ceasefire,” Zelenskyy says",
-      "excerpt": "Drop Site Daily: October 13, 2026",
-      "link": "https://www.dropsitenews.com/p/ansarallah-aramco-yemen-saudi-elon-musk-republican-midterms-russia-ukraine-energy",
-      "published": "2026-10-13T15:19:39+00:00",
       "featured": false
     },
     {
@@ -506,12 +506,12 @@
       "featured": false
     },
     {
-      "id": "d129cf9cf505",
+      "id": "60824256b741",
       "source": "ICIJ",
-      "headline": "WATCH: Inside the China Capital investigation — a live panel",
-      "excerpt": "A behind-the-scenes look at ICIJ's investigation into the world's biggest bank, with insights from ICIJ’s reporter and an expert on China's lending practices.",
-      "link": "https://www.icij.org/investigations/china-capital/watch-inside-the-china-capital-investigation-a-live-panel/",
-      "published": "2026-10-02T20:16:45+00:00",
+      "headline": "New documents show how a retail chain’s sales practices helped put guns on US streets",
+      "excerpt": "The public release of the records is part of a legal settlement with a Wisconsin-based company accused of negligence for selling guns that were later used in crimes.",
+      "link": "https://www.icij.org/news/2026/10/new-documents-show-how-a-retail-chains-sales-practices-helped-put-guns-on-u-s-streets/",
+      "published": "2026-10-05T14:13:01+00:00",
       "featured": false
     },
     {
@@ -524,12 +524,12 @@
       "featured": false
     },
     {
-      "id": "15f1eccf93d9",
+      "id": "5b66eb3c8f24",
       "source": "Al Jazeera",
-      "headline": "Tehran municipality accused of ‘overstep’ after launching welfare projects",
-      "excerpt": "Tehran's new municipal welfare projects face intense criticism over funding sources, transparency, and inflation claims.",
-      "link": "https://www.aljazeera.com/economy/2026/10/14/tehran-municipality-accused-of-overstep-after-launching-welfare-projects?traffic_source=rss",
-      "published": "2026-10-14T16:41:42+00:00",
+      "headline": "Woman rescued after being swept away by Istanbul flash flood",
+      "excerpt": "A woman was rescued by passersby after being swept along by floodwaters in Istanbul’s Esenyurt district",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/14/woman-rescued-after-being-swept-away-by-istanbul-flash-flood?traffic_source=rss",
+      "published": "2026-10-14T20:29:50+00:00",
       "featured": false
     },
     {
