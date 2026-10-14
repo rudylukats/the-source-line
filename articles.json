@@ -1,6 +1,78 @@
 {
-  "generated_at": "2026-10-14T11:53:51.491428+00:00",
+  "generated_at": "2026-10-14T17:11:33.834418+00:00",
   "articles": [
+    {
+      "id": "e4c47e483d39",
+      "source": "Al Jazeera",
+      "headline": "Settlers attack Palestinian mosque near occupied East Jerusalem",
+      "excerpt": "Settlers attack Palestinian mosque near occupied East Jerusalem",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/14/settlers-attack-palestinian-mosque-near-occupied-east-jerusalem?traffic_source=rss",
+      "published": "2026-10-14T17:05:01+00:00",
+      "featured": true
+    },
+    {
+      "id": "63b93d15e2d0",
+      "source": "The Lever",
+      "headline": "Midterm Madness: Is Kalshi Betting On Bonta?",
+      "excerpt": "Earlier this year, the California attorney general said he was still in touch with his former chief of staff-turned lobbyist, who now leads Kalshi’s public affairs in the Golden State.",
+      "link": "https://www.levernews.com/midterm-madness-is-kalshi-betting-on-bonta/",
+      "published": "2026-10-14T16:49:43+00:00",
+      "featured": true
+    },
+    {
+      "id": "580a52ed9378",
+      "source": "The Intercept",
+      "headline": "Reflecting on the Trump Era",
+      "excerpt": "Trump’s Lincoln Memorial Reflecting Pool renovation should have been an easy lift. But it quickly became a monument to failure. The post Reflecting on the Trump Era appeared first on The Intercept.",
+      "link": "https://theintercept.com/2026/10/14/trump-dc-lincoln-memorial-pool/",
+      "published": "2026-10-14T16:34:59+00:00",
+      "featured": true
+    },
+    {
+      "id": "7091163f25cf",
+      "source": "404 Media",
+      "headline": "There’s Nothing Mysterious or Unusual About the Viral German Sexual Harassment Robot",
+      "excerpt": "Livestreamers used a robot to harass a woman for social media clout on the street in Germany.",
+      "link": "https://www.404media.co/theres-nothing-mysterious-or-unusual-about-the-viral-german-sexual-harassment-robot/",
+      "published": "2026-10-14T16:14:54+00:00",
+      "featured": false
+    },
+    {
+      "id": "a4ee71e5102f",
+      "source": "OCCRP",
+      "headline": "Five Arrested in 1 Million Euro Fraud Against NATO",
+      "excerpt": "",
+      "link": "https://www.occrp.org/en/news/five-arrested-in-1-million-euro-fraud-against-nato",
+      "published": "2026-10-14T15:24:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "000005f3ff35",
+      "source": "Dropsite News",
+      "headline": "Iranian mine sinks ship in Hormuz; Trump pardons two at Alaska rally; Congo Ebola cases top 9,000",
+      "excerpt": "Drop Site Daily: October 14, 2026",
+      "link": "https://www.dropsitenews.com/p/iran-mine-tanker-hormuz-trump-pardon-alaska-congo-ebola",
+      "published": "2026-10-14T15:12:42+00:00",
+      "featured": false
+    },
+    {
+      "id": "febbb1e99dee",
+      "source": "More Perfect Union",
+      "headline": "Full Conversation: Bernie Sanders AI Roundtable",
+      "excerpt": "We sat Bernie Sanders down with 15 Gen Z students for a messy debate that isn’t happening in the public right now",
+      "link": "https://substack.perfectunion.us/p/full-conversation-bernie-sanders",
+      "published": "2026-10-14T14:57:24+00:00",
+      "featured": false
+    },
+    {
+      "id": "941166593051",
+      "source": "The Markup",
+      "headline": "World’s largest health appointment platform dumps its web trackers after Markup investigation",
+      "excerpt": "Doctoralia said it was removing trackers that communicated with social media companies out of an abundance of caution",
+      "link": "https://themarkup.org/privacy/2026/10/14/worlds-largest-health-appointment-platform-dumps-its-web-trackers-after-markup-investigation",
+      "published": "2026-10-14T12:00:00+00:00",
+      "featured": false
+    },
     {
       "id": "1a22ac9e45eb",
       "source": "ProPublica",
@@ -8,25 +80,7 @@
       "excerpt": "The post These Women Were Trying to Escape Domestic Abuse. ICE Detained Them Instead. appeared first on ProPublica.",
       "link": "https://www.propublica.org/article/domestic-violence-immigrant-victims-ice-detention",
       "published": "2026-10-14T11:42:43+00:00",
-      "featured": true
-    },
-    {
-      "id": "e39d49bd6c77",
-      "source": "OCCRP",
-      "headline": "Bank of America Fined $1.21B Over AML Failures",
-      "excerpt": "U.S. regulators imposed more than $1.21 billion in penalties on Bank of America over failures in its anti-money laundering controls and apparent sanctions violations. The bank admitted to willfully violating the Bank...",
-      "link": "https://www.occrp.org/en/news/bank-of-america-fined-121b-over-aml-failures",
-      "published": "2026-10-14T11:29:00+00:00",
-      "featured": true
-    },
-    {
-      "id": "1fc65d684912",
-      "source": "Al Jazeera",
-      "headline": "Iran steps up Hormuz surveillance: Attacks soar, oil flows crash again",
-      "excerpt": "Ships in the Strait of Hormuz have been experiencing the worst spate of attacks since the start of the war.",
-      "link": "https://www.aljazeera.com/news/2026/10/14/iran-steps-up-hormuz-surveillance-attacks-soar-oil-flows-crash-again?traffic_source=rss",
-      "published": "2026-10-14T11:16:21+00:00",
-      "featured": true
+      "featured": false
     },
     {
       "id": "90c33d7e87bd",
@@ -38,21 +92,66 @@
       "featured": false
     },
     {
+      "id": "89a0d8d45fa1",
+      "source": "ICIJ",
+      "headline": "Tunisian court dismisses case to dissolve publisher of ICIJ partner Inkyfada",
+      "excerpt": "Despite the court victory, Inkyfada and its parent company Al Khatt still struggle to recover funds frozen by authorities.",
+      "link": "https://www.icij.org/news/2026/10/tunisian-court-dismisses-case-to-dissolve-publisher-of-icij-partner-inkyfada/",
+      "published": "2026-10-09T14:21:29+00:00",
+      "featured": false
+    },
+    {
+      "id": "9961fdaa30d6",
+      "source": "Bellingcat",
+      "headline": "Groups Associated With India’s Far-Right Receive Millions Through US Donor-Advised Funds",
+      "excerpt": "Sign up here to receive Bellingcat’s biggest investigations by email as soon as they are published. US non-profits whose founding leaders or organisations have been associated with India’s controversial Rashtriya...",
+      "link": "https://www.bellingcat.com/news/2026/10/06/dafs-india-rss-donations/",
+      "published": "2026-10-06T16:00:41+00:00",
+      "featured": false
+    },
+    {
+      "id": "7e1f6522c486",
+      "source": "Al Jazeera",
+      "headline": "Kenya’s health ministry confirms second Ebola case",
+      "excerpt": "A relative of the first case, 39-year-old man's infection raises concerns of a cross-border spread.",
+      "link": "https://www.aljazeera.com/news/2026/10/14/kenyas-health-ministry-confirms-second-ebola-case?traffic_source=rss",
+      "published": "2026-10-14T17:03:19+00:00",
+      "featured": false
+    },
+    {
+      "id": "6ef8ae18f7ef",
+      "source": "404 Media",
+      "headline": "Character.ai Bankruptcy Is First AI Bubble Domino to Fall",
+      "excerpt": "New music genre just dropped. Also: A Tesla locks out cops, and more from around the web.",
+      "link": "https://www.404media.co/character-ai-bankruptcy-is-first-ai-bubble-domino-to-fall/",
+      "published": "2026-10-14T14:34:54+00:00",
+      "featured": false
+    },
+    {
+      "id": "2b03a905dd17",
+      "source": "OCCRP",
+      "headline": "Russia Detains Japanese Journalist on Espionage Charges",
+      "excerpt": "",
+      "link": "https://www.occrp.org/en/news/russia-detains-japanese-journalist-on-espionage-charges",
+      "published": "2026-10-14T11:36:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "a0e4b2fbedde",
+      "source": "ProPublica",
+      "headline": "New Mexico and El Paso Spent Millions on Climate Plans. Three New Data Centers Could Undo Them.",
+      "excerpt": "The post New Mexico and El Paso Spent Millions on Climate Plans. Three New Data Centers Could Undo Them. appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/data-centers-texas-new-mexico-greenhouse-gas-emissions",
+      "published": "2026-10-14T10:00:00+00:00",
+      "featured": false
+    },
+    {
       "id": "95b7ac4954d0",
       "source": "Dropsite News",
       "headline": "Mike Rogers’s Wife Raked in Lucrative Government Security Contracts While Rogers Served as Intel Chair",
       "excerpt": "Before his second marriage, according to financial disclosures, the Michigan Senate candidate had few assets to his name and little wealth. That would soon change as the taxpayer dollars flowed.",
       "link": "https://www.dropsitenews.com/p/mike-rogers-wife-kristi-military-contracts-aegis-michigan-senate",
       "published": "2026-10-13T20:55:31+00:00",
-      "featured": false
-    },
-    {
-      "id": "6f75bd8d054e",
-      "source": "404 Media",
-      "headline": "Character.ai's Bankruptcy Documents Show the Economics of AI Don't Work",
-      "excerpt": "Character.ai enshittified its product but was still burning tons of cash, its bankruptcy documents say.",
-      "link": "https://www.404media.co/character-ais-bankruptcy-documents-show-the-economics-of-ai-dont-work/",
-      "published": "2026-10-13T20:06:53+00:00",
       "featured": false
     },
     {
@@ -83,87 +182,6 @@
       "featured": false
     },
     {
-      "id": "95ee95d0d60d",
-      "source": "The Markup",
-      "headline": "What it takes for voters to be resilient against AI misinformation",
-      "excerpt": "A conversation with political scientist Thessalia Merivaki",
-      "link": "https://themarkup.org/hello-world/2026/10/10/election-ai-resilience",
-      "published": "2026-10-10T12:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "89a0d8d45fa1",
-      "source": "ICIJ",
-      "headline": "Tunisian court dismisses case to dissolve publisher of ICIJ partner Inkyfada",
-      "excerpt": "Despite the court victory, Inkyfada and its parent company Al Khatt still struggle to recover funds frozen by authorities.",
-      "link": "https://www.icij.org/news/2026/10/tunisian-court-dismisses-case-to-dissolve-publisher-of-icij-partner-inkyfada/",
-      "published": "2026-10-09T14:21:29+00:00",
-      "featured": false
-    },
-    {
-      "id": "9961fdaa30d6",
-      "source": "Bellingcat",
-      "headline": "Groups Associated With India’s Far-Right Receive Millions Through US Donor-Advised Funds",
-      "excerpt": "Sign up here to receive Bellingcat’s biggest investigations by email as soon as they are published. US non-profits whose founding leaders or organisations have been associated with India’s controversial Rashtriya...",
-      "link": "https://www.bellingcat.com/news/2026/10/06/dafs-india-rss-donations/",
-      "published": "2026-10-06T16:00:41+00:00",
-      "featured": false
-    },
-    {
-      "id": "d28a33b02b64",
-      "source": "Al Jazeera",
-      "headline": "Trump plans for ‘massive’ resource exploration in Greenland",
-      "excerpt": "US President Donald Trump announces a plan on Truth Social for oil, gas and mineral exploration in Greenland.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/14/trump-plans-for-massive-resource-exploration-in-greenland?traffic_source=rss",
-      "published": "2026-10-14T11:05:07+00:00",
-      "featured": false
-    },
-    {
-      "id": "572d27bee3cb",
-      "source": "OCCRP",
-      "headline": "Convicted Belgian Cocaine Boss Poured Millions Into Luxury Dubai Properties",
-      "excerpt": "A Belgian drug lord spent millions of dollars investing in luxury real estate in Dubai. Belgian authorities successfully extradited him today, but it’s unclear what has happened to the profits he reaped from his...",
-      "link": "https://www.occrp.org/en/project/dubai-unlocked/convicted-belgian-cocaine-boss-poured-millions-into-luxury-dubai-properties",
-      "published": "2026-10-14T10:27:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "a0e4b2fbedde",
-      "source": "ProPublica",
-      "headline": "New Mexico and El Paso Spent Millions on Climate Plans. Three New Data Centers Could Undo Them.",
-      "excerpt": "The post New Mexico and El Paso Spent Millions on Climate Plans. Three New Data Centers Could Undo Them. appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/data-centers-texas-new-mexico-greenhouse-gas-emissions",
-      "published": "2026-10-14T10:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "5c9138aaadc7",
-      "source": "Dropsite News",
-      "headline": "Democrats for Mike Rogers Coalition Is Powered by Right-Wingers",
-      "excerpt": "Several self-proclaimed Democratic supporters of Mike Rogers have either broken with the Democratic Party or historically supported Republican politicians.",
-      "link": "https://www.dropsitenews.com/p/democrats-mike-rogers-michigan",
-      "published": "2026-10-13T20:46:53+00:00",
-      "featured": false
-    },
-    {
-      "id": "fa3094864031",
-      "source": "404 Media",
-      "headline": "Dubstep and BookTok, a perfect match?",
-      "excerpt": "New music genre just dropped. Also: A Tesla locks out cops, and more from around the web.",
-      "link": "https://www.404media.co/dubstep-and-booktok-a-perfect-match/",
-      "published": "2026-10-13T16:50:28+00:00",
-      "featured": false
-    },
-    {
-      "id": "24873326f885",
-      "source": "The Lever",
-      "headline": "Sheldon Whitehouse’s Day One Plan For A Post-Trump Presidency",
-      "excerpt": "The Rhode Island senator says the next Democratic president should be ready to wield executive power “to its fullest.”",
-      "link": "https://www.levernews.com/sheldon-whitehouses-day-one-plan-for-a-post-trump-presidency/",
-      "published": "2026-10-13T10:01:00+00:00",
-      "featured": false
-    },
-    {
       "id": "53ba0573a15d",
       "source": "Rest of World",
       "headline": "The UAE embraces AI for kindergartners",
@@ -173,12 +191,12 @@
       "featured": false
     },
     {
-      "id": "524fa518f147",
-      "source": "The Intercept",
-      "headline": "Don’t Stop at ICE, Says Progressive Dem: Abolish the Department of Homeland Security",
-      "excerpt": "Rep. Delia Ramirez is bringing a bill to eliminate DHS a day after the raid on Rep. Ilhan Omar’s home. The post Don’t Stop at ICE, Says Progressive Dem: Abolish the Department of Homeland Security appeared first on The...",
-      "link": "https://theintercept.com/2026/10/13/abolish-ice-dhs-delia-ramirez-ilhan-omar/",
-      "published": "2026-10-13T09:49:00+00:00",
+      "id": "95ee95d0d60d",
+      "source": "The Markup",
+      "headline": "What it takes for voters to be resilient against AI misinformation",
+      "excerpt": "A conversation with political scientist Thessalia Merivaki",
+      "link": "https://themarkup.org/hello-world/2026/10/10/election-ai-resilience",
+      "published": "2026-10-10T12:00:00+00:00",
       "featured": false
     },
     {
@@ -191,15 +209,6 @@
       "featured": false
     },
     {
-      "id": "c841663e4e81",
-      "source": "More Perfect Union",
-      "headline": "We Investigated Starlink. The Corruption We Found Will Shock You",
-      "excerpt": "We went to Louisiana, where kids can't do their homework, schools can't support their students, and businesses struggle without a reliable connection.",
-      "link": "https://substack.perfectunion.us/p/we-investigated-starlink-the-corruption",
-      "published": "2026-10-06T17:26:22+00:00",
-      "featured": false
-    },
-    {
       "id": "b97bf805f887",
       "source": "Bellingcat",
       "headline": "Viral Google Maps Images Shared Widely This Week Show Gaza Ruins. We Obtained More Recent Satellite Imagery",
@@ -209,48 +218,48 @@
       "featured": false
     },
     {
-      "id": "7f8b3c4cb74e",
-      "source": "The Markup",
-      "headline": "Who’s buying your personal data: Disney, GM, your insurer and bank. Here’s what they get",
-      "excerpt": "Consumers asked a major data broker for their files. What they got back shows interest in how fat they are, how much they drink, and how likely they are to get a mammogram, among many other characteristics.",
-      "link": "https://themarkup.org/privacy/2026/09/16/whos-buying-your-personal-data-disney-gm-your-insurer-and-bank-heres-what-they-get",
-      "published": "2026-09-16T12:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "600a4fbeb9b2",
+      "id": "c2507f076606",
       "source": "Al Jazeera",
-      "headline": "Settlers set fire to mosque in West Bank as Israeli forces raid villages",
-      "excerpt": "Settlers also attacked a boy in a separate incident in the town of Beita, south of Nablus.",
-      "link": "https://www.aljazeera.com/news/2026/10/14/settlers-set-fire-to-mosque-in-west-bank-as-israeli-forces-raid-villages?traffic_source=rss",
-      "published": "2026-10-14T10:57:35+00:00",
+      "headline": "Ukraine accuses Elon Musk’s SpaceX of throttling Starlink terminals",
+      "excerpt": "Officials say ability to block Russian drones restricted as Kyiv reels from second night of ballistic missile attacks.",
+      "link": "https://www.aljazeera.com/news/2026/10/14/ukraine-accuses-elon-musks-spacex-of-throttling-starlink-terminals?traffic_source=rss",
+      "published": "2026-10-14T17:02:31+00:00",
       "featured": false
     },
     {
-      "id": "e40a6ad92e5f",
+      "id": "e39d49bd6c77",
       "source": "OCCRP",
-      "headline": "The Maldives Plans to Offer Residency to the World’s Ultra Rich – And Create Islands From Scratch to Do It",
-      "excerpt": "The debt-distressed Maldives is poised to sell residency and luxury real estate on artificial islands, raising fears of a new offshore tax and money-laundering haven.",
-      "link": "https://www.occrp.org/en/feature/the-maldives-plans-to-offer-residency-to-the-worlds-ultra-rich-and-create-islands-from-scratch-to-do-it",
-      "published": "2026-10-14T09:05:00+00:00",
+      "headline": "Bank of America Fined $1.21B Over AML Failures",
+      "excerpt": "U.S. regulators imposed more than $1.21 billion in penalties on Bank of America over failures in its anti-money laundering controls and apparent sanctions violations. The bank admitted to willfully violating the Bank...",
+      "link": "https://www.occrp.org/en/news/bank-of-america-fined-121b-over-aml-failures",
+      "published": "2026-10-14T11:29:00+00:00",
       "featured": false
     },
     {
-      "id": "a118a27732c9",
+      "id": "5c9138aaadc7",
       "source": "Dropsite News",
-      "headline": "Destruction of Gaza Court System Strips Women of Their Rights",
-      "excerpt": "As they struggle to survive a genocide, Palestinian women in Gaza face seemingly insurmountable legal and bureaucratic obstacles to secure rights to inheritance, divorce, alimony, property and more.",
-      "link": "https://www.dropsitenews.com/p/gaza-women-judiciary-sharia-courts-inheritance-rights",
-      "published": "2026-10-13T18:29:37+00:00",
+      "headline": "Democrats for Mike Rogers Coalition Is Powered by Right-Wingers",
+      "excerpt": "Several self-proclaimed Democratic supporters of Mike Rogers have either broken with the Democratic Party or historically supported Republican politicians.",
+      "link": "https://www.dropsitenews.com/p/democrats-mike-rogers-michigan",
+      "published": "2026-10-13T20:46:53+00:00",
       "featured": false
     },
     {
-      "id": "86be2c5a0800",
+      "id": "6f75bd8d054e",
       "source": "404 Media",
-      "headline": "The Creator of ‘Smutstep’ Wants You to ‘Let Your Freak Flag Fly’",
-      "excerpt": "DARQ DAGR combined BookTok romantasy and dubstep to create something new and somewhat controversial. “It’s accepting and embracing what you're into within a safe and healthy space,\" he said. \"I think that's a really...",
-      "link": "https://www.404media.co/smutstep-dubstep-booktok-growl-darq-dagr/",
-      "published": "2026-10-13T16:35:23+00:00",
+      "headline": "Character.ai's Bankruptcy Documents Show the Economics of AI Don't Work",
+      "excerpt": "Character.ai enshittified its product but was still burning tons of cash, its bankruptcy documents say.",
+      "link": "https://www.404media.co/character-ais-bankruptcy-documents-show-the-economics-of-ai-dont-work/",
+      "published": "2026-10-13T20:06:53+00:00",
+      "featured": false
+    },
+    {
+      "id": "24873326f885",
+      "source": "The Lever",
+      "headline": "Sheldon Whitehouse’s Day One Plan For A Post-Trump Presidency",
+      "excerpt": "The Rhode Island senator says the next Democratic president should be ready to wield executive power “to its fullest.”",
+      "link": "https://www.levernews.com/sheldon-whitehouses-day-one-plan-for-a-post-trump-presidency/",
+      "published": "2026-10-13T10:01:00+00:00",
       "featured": false
     },
     {
@@ -263,21 +272,12 @@
       "featured": false
     },
     {
-      "id": "8ba8f753f11b",
+      "id": "524fa518f147",
       "source": "The Intercept",
-      "headline": "ICE Raid on Ilhan Omar Shows How Dangerous Two Years of Flailing Trump Could Get",
-      "excerpt": "With his popularity tanking and his grip on power growing tenuous, Trump is becoming a decrepit tyrant — and the checks to stop him are failing. The post ICE Raid on Ilhan Omar Shows How Dangerous Two Years of Flailing...",
-      "link": "https://theintercept.com/2026/10/12/ilhan-omar-raid-ice-trump/",
-      "published": "2026-10-12T19:50:48+00:00",
-      "featured": false
-    },
-    {
-      "id": "d43dc756903e",
-      "source": "The Lever",
-      "headline": "Lever Weekly: Cleanup On Aisle 2026",
-      "excerpt": "Walmart watches, Zionists worry, and more from The Lever this week.",
-      "link": "https://www.levernews.com/lever-weekly-cleanup-on-aisle-2026/",
-      "published": "2026-10-11T13:01:00+00:00",
+      "headline": "Don’t Stop at ICE, Says Progressive Dem: Abolish the Department of Homeland Security",
+      "excerpt": "Rep. Delia Ramirez is bringing a bill to eliminate DHS a day after the raid on Rep. Ilhan Omar’s home. The post Don’t Stop at ICE, Says Progressive Dem: Abolish the Department of Homeland Security appeared first on The...",
+      "link": "https://theintercept.com/2026/10/13/abolish-ice-dhs-delia-ramirez-ilhan-omar/",
+      "published": "2026-10-13T09:49:00+00:00",
       "featured": false
     },
     {
@@ -299,12 +299,12 @@
       "featured": false
     },
     {
-      "id": "eefb66c223be",
+      "id": "c841663e4e81",
       "source": "More Perfect Union",
-      "headline": "We Uncovered The Radical Solution To Our Rigged Tax Code",
-      "excerpt": "How exactly should we tax the rich.",
-      "link": "https://substack.perfectunion.us/p/we-uncovered-the-radical-solution",
-      "published": "2026-09-27T16:31:21+00:00",
+      "headline": "We Investigated Starlink. The Corruption We Found Will Shock You",
+      "excerpt": "We went to Louisiana, where kids can't do their homework, schools can't support their students, and businesses struggle without a reliable connection.",
+      "link": "https://substack.perfectunion.us/p/we-investigated-starlink-the-corruption",
+      "published": "2026-10-06T17:26:22+00:00",
       "featured": false
     },
     {
@@ -317,48 +317,48 @@
       "featured": false
     },
     {
-      "id": "30d77e605862",
+      "id": "7f8b3c4cb74e",
       "source": "The Markup",
-      "headline": "Data brokers have detailed files on you. Here’s what’s in them — and how it impacts you",
-      "excerpt": "Data brokers collect thousands of details about your finances, health and habits. See what’s in your profile, who buys it and how companies use it.",
-      "link": "https://themarkup.org/privacy/2026/09/16/data-brokers-have-detailed-files-on-you-heres-whats-in-them-and-how-it-impacts-you",
+      "headline": "Who’s buying your personal data: Disney, GM, your insurer and bank. Here’s what they get",
+      "excerpt": "Consumers asked a major data broker for their files. What they got back shows interest in how fat they are, how much they drink, and how likely they are to get a mammogram, among many other characteristics.",
+      "link": "https://themarkup.org/privacy/2026/09/16/whos-buying-your-personal-data-disney-gm-your-insurer-and-bank-heres-what-they-get",
       "published": "2026-09-16T12:00:00+00:00",
       "featured": false
     },
     {
-      "id": "529aa9e2be9f",
+      "id": "1e9022598cb7",
       "source": "Al Jazeera",
-      "headline": "Israeli plan to reopen settler ‘Route 463’ threatens to isolate Ramallah",
-      "excerpt": "Israeli plans to reopen Route 463 for settlers threaten to isolate Palestinian villages and fragment Ramallah.",
-      "link": "https://www.aljazeera.com/news/2026/10/14/israeli-plan-to-reopen-settler-route-463-threatens-to-isolate-ramallah?traffic_source=rss",
-      "published": "2026-10-14T10:49:40+00:00",
+      "headline": "Suspected Israeli online operations cause alarm in Iran and Lebanon",
+      "excerpt": "Suspected online espionage triggers intense security crackdowns and counter-intelligence measures in Iran and Lebanon.",
+      "link": "https://www.aljazeera.com/news/2026/10/14/suspected-israeli-online-operations-cause-alarm-in-iran-and-lebanon?traffic_source=rss",
+      "published": "2026-10-14T16:51:12+00:00",
       "featured": false
     },
     {
-      "id": "1641bda17730",
+      "id": "572d27bee3cb",
       "source": "OCCRP",
-      "headline": "Hackers Turn French Supermarket Refrigerators Into Furnaces",
-      "excerpt": "A nationwide cyberattack exploited vulnerable remote controllers to force freezers to 50°C, causing millions of euros in losses and prompting a national cybercrime investigation.",
-      "link": "https://www.occrp.org/en/news/hackers-turn-french-supermarket-refrigerators-into-furnaces",
-      "published": "2026-10-13T16:20:00+00:00",
+      "headline": "Convicted Belgian Cocaine Boss Poured Millions Into Luxury Dubai Properties",
+      "excerpt": "A Belgian drug lord spent millions of dollars investing in luxury real estate in Dubai. Belgian authorities successfully extradited him today, but it’s unclear what has happened to the profits he reaped from his...",
+      "link": "https://www.occrp.org/en/project/dubai-unlocked/convicted-belgian-cocaine-boss-poured-millions-into-luxury-dubai-properties",
+      "published": "2026-10-14T10:27:00+00:00",
       "featured": false
     },
     {
-      "id": "0e315af1a491",
+      "id": "a118a27732c9",
       "source": "Dropsite News",
-      "headline": "Ansarallah threatens to strike Aramco; Elon Musk pours $276 million into midterms; Russia violated Trump’s “energy ceasefire,” Zelenskyy says",
-      "excerpt": "Drop Site Daily: October 13, 2026",
-      "link": "https://www.dropsitenews.com/p/ansarallah-aramco-yemen-saudi-elon-musk-republican-midterms-russia-ukraine-energy",
-      "published": "2026-10-13T15:19:39+00:00",
+      "headline": "Destruction of Gaza Court System Strips Women of Their Rights",
+      "excerpt": "As they struggle to survive a genocide, Palestinian women in Gaza face seemingly insurmountable legal and bureaucratic obstacles to secure rights to inheritance, divorce, alimony, property and more.",
+      "link": "https://www.dropsitenews.com/p/gaza-women-judiciary-sharia-courts-inheritance-rights",
+      "published": "2026-10-13T18:29:37+00:00",
       "featured": false
     },
     {
-      "id": "96c3b84f45c3",
+      "id": "fa3094864031",
       "source": "404 Media",
-      "headline": "Tesla's 'Security Protocols' Stopped DHS From Installing a Tracking Device",
-      "excerpt": "A federal warrant application detailed how Tesla’s security protocols stopped agents from tracking a suspected drug trafficker’s car.",
-      "link": "https://www.404media.co/teslas-security-protocols-stopped-dhs-from-installing-a-tracking-device/",
-      "published": "2026-10-13T14:51:11+00:00",
+      "headline": "Dubstep and BookTok, a perfect match?",
+      "excerpt": "New music genre just dropped. Also: A Tesla locks out cops, and more from around the web.",
+      "link": "https://www.404media.co/dubstep-and-booktok-a-perfect-match/",
+      "published": "2026-10-13T16:50:28+00:00",
       "featured": false
     },
     {
@@ -371,21 +371,21 @@
       "featured": false
     },
     {
-      "id": "1d1420fda082",
+      "id": "8ba8f753f11b",
       "source": "The Intercept",
-      "headline": "Susan Collins-Aligned Super PAC Buys Attack Ads in Portland... Oregon",
-      "excerpt": "The group Defending Main Street, long associated with Susan Collins, spent thousands attacking Troy Jackson in the wrong state. The post Susan Collins-Aligned Super PAC Buys Attack Ads in Portland… Oregon appeared first...",
-      "link": "https://theintercept.com/2026/10/12/susan-collins-super-pac-portland-oregon-ads/",
-      "published": "2026-10-12T16:49:14+00:00",
+      "headline": "ICE Raid on Ilhan Omar Shows How Dangerous Two Years of Flailing Trump Could Get",
+      "excerpt": "With his popularity tanking and his grip on power growing tenuous, Trump is becoming a decrepit tyrant — and the checks to stop him are failing. The post ICE Raid on Ilhan Omar Shows How Dangerous Two Years of Flailing...",
+      "link": "https://theintercept.com/2026/10/12/ilhan-omar-raid-ice-trump/",
+      "published": "2026-10-12T19:50:48+00:00",
       "featured": false
     },
     {
-      "id": "c7e456765cde",
+      "id": "d43dc756903e",
       "source": "The Lever",
-      "headline": "You Love To See It: Breaking Bad Money",
-      "excerpt": "Democracy stages a Southwestern rebellion, abuse victims find shelter, UnitedHealth faces a preexisting investigation, and the anti-Citizens United movement grows.",
-      "link": "https://www.levernews.com/you-love-to-see-it-breaking-bad-money/",
-      "published": "2026-10-10T13:01:00+00:00",
+      "headline": "Lever Weekly: Cleanup On Aisle 2026",
+      "excerpt": "Walmart watches, Zionists worry, and more from The Lever this week.",
+      "link": "https://www.levernews.com/lever-weekly-cleanup-on-aisle-2026/",
+      "published": "2026-10-11T13:01:00+00:00",
       "featured": false
     },
     {
@@ -407,12 +407,12 @@
       "featured": false
     },
     {
-      "id": "f70ab147bb85",
+      "id": "eefb66c223be",
       "source": "More Perfect Union",
-      "headline": "We Went to Alaska. The Fishing Crisis Will Shock You",
-      "excerpt": "Regular people are losing the right to fish in Alaska.",
-      "link": "https://substack.perfectunion.us/p/we-went-to-alaska-the-fishing-crisis",
-      "published": "2026-09-23T14:05:13+00:00",
+      "headline": "We Uncovered The Radical Solution To Our Rigged Tax Code",
+      "excerpt": "How exactly should we tax the rich.",
+      "link": "https://substack.perfectunion.us/p/we-uncovered-the-radical-solution",
+      "published": "2026-09-27T16:31:21+00:00",
       "featured": false
     },
     {
@@ -425,48 +425,66 @@
       "featured": false
     },
     {
-      "id": "2774e46f0812",
+      "id": "30d77e605862",
+      "source": "The Markup",
+      "headline": "Data brokers have detailed files on you. Here’s what’s in them — and how it impacts you",
+      "excerpt": "Data brokers collect thousands of details about your finances, health and habits. See what’s in your profile, who buys it and how companies use it.",
+      "link": "https://themarkup.org/privacy/2026/09/16/data-brokers-have-detailed-files-on-you-heres-whats-in-them-and-how-it-impacts-you",
+      "published": "2026-09-16T12:00:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "264b635c0983",
       "source": "Al Jazeera",
-      "headline": "Russia’s arrest of Japanese journalist: Why are tensions rising?",
-      "excerpt": "Japanese journalist Imai Yuki arrested on Sakhalin for allegedly spying on Russian defence capabilities, says the FSB.",
-      "link": "https://www.aljazeera.com/news/2026/10/14/russias-arrest-of-japanese-journalist-why-are-tensions-rising?traffic_source=rss",
-      "published": "2026-10-14T10:46:55+00:00",
+      "headline": "AI in politics: Is Albania the EU’s testing ground?",
+      "excerpt": "Albania is experimenting with artificial intelligence in politics.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/14/ai-in-politics-is-albania-the-eus-testing-ground?traffic_source=rss",
+      "published": "2026-10-14T16:46:41+00:00",
       "featured": false
     },
     {
-      "id": "01cae12a930b",
+      "id": "e40a6ad92e5f",
       "source": "OCCRP",
-      "headline": "UK Sanctions Dutch Businessman Allegedly Linked to Russian Arms Firms",
-      "excerpt": "The United Kingdom has sanctioned a Dutch businessman and his Turkish company, nearly four months after an investigation by The Kyiv Independent and IrpiMedia revealed they supplied millions of dollars worth of European...",
-      "link": "https://www.occrp.org/en/news/uk-sanctions-dutch-businessman-allegedly-linked-to-russian-arms-firms",
-      "published": "2026-10-13T11:24:00+00:00",
+      "headline": "The Maldives Plans to Offer Residency to the World’s Ultra Rich – And Create Islands From Scratch to Do It",
+      "excerpt": "The debt-distressed Maldives is poised to sell residency and luxury real estate on artificial islands, raising fears of a new offshore tax and money-laundering haven.",
+      "link": "https://www.occrp.org/en/feature/the-maldives-plans-to-offer-residency-to-the-worlds-ultra-rich-and-create-islands-from-scratch-to-do-it",
+      "published": "2026-10-14T09:05:00+00:00",
       "featured": false
     },
     {
-      "id": "5202cf705108",
-      "source": "Dropsite News",
-      "headline": "Trump’s Tough Week, Ansarallah Advances Again, Iran Tightens Control on Strait Of Hormuz",
-      "excerpt": "War Brief: Episode 4",
-      "link": "https://www.dropsitenews.com/p/trumps-tough-week-ansarallah-advances",
-      "published": "2026-10-12T16:02:45+00:00",
-      "featured": false
-    },
-    {
-      "id": "eac17a5f0893",
+      "id": "86be2c5a0800",
       "source": "404 Media",
-      "headline": "Cops can creep on Airbnb",
-      "excerpt": "That washer/dryer combo could be used by cops to identify a property.",
-      "link": "https://www.404media.co/cops-can-creep-on-airbnb/",
-      "published": "2026-10-12T13:54:30+00:00",
+      "headline": "The Creator of ‘Smutstep’ Wants You to ‘Let Your Freak Flag Fly’",
+      "excerpt": "DARQ DAGR combined BookTok romantasy and dubstep to create something new and somewhat controversial. “It’s accepting and embracing what you're into within a safe and healthy space,\" he said. \"I think that's a really...",
+      "link": "https://www.404media.co/smutstep-dubstep-booktok-growl-darq-dagr/",
+      "published": "2026-10-13T16:35:23+00:00",
       "featured": false
     },
     {
-      "id": "3955a532148b",
+      "id": "0e315af1a491",
+      "source": "Dropsite News",
+      "headline": "Ansarallah threatens to strike Aramco; Elon Musk pours $276 million into midterms; Russia violated Trump’s “energy ceasefire,” Zelenskyy says",
+      "excerpt": "Drop Site Daily: October 13, 2026",
+      "link": "https://www.dropsitenews.com/p/ansarallah-aramco-yemen-saudi-elon-musk-republican-midterms-russia-ukraine-energy",
+      "published": "2026-10-13T15:19:39+00:00",
+      "featured": false
+    },
+    {
+      "id": "1d1420fda082",
       "source": "The Intercept",
-      "headline": "Pentagon Finally Counts an Iran War Death — Six Months Late",
-      "excerpt": "After months of questions from The Intercept, the U.S. military finally acknowledged the March death of Maj. Sorffly Davius. The post Pentagon Finally Counts an Iran War Death — Six Months Late appeared first on The...",
-      "link": "https://theintercept.com/2026/10/12/iran-war-casualties-death-toll-accuracy/",
-      "published": "2026-10-12T13:02:11+00:00",
+      "headline": "Susan Collins-Aligned Super PAC Buys Attack Ads in Portland... Oregon",
+      "excerpt": "The group Defending Main Street, long associated with Susan Collins, spent thousands attacking Troy Jackson in the wrong state. The post Susan Collins-Aligned Super PAC Buys Attack Ads in Portland… Oregon appeared first...",
+      "link": "https://theintercept.com/2026/10/12/susan-collins-super-pac-portland-oregon-ads/",
+      "published": "2026-10-12T16:49:14+00:00",
+      "featured": false
+    },
+    {
+      "id": "c7e456765cde",
+      "source": "The Lever",
+      "headline": "You Love To See It: Breaking Bad Money",
+      "excerpt": "Democracy stages a Southwestern rebellion, abuse victims find shelter, UnitedHealth faces a preexisting investigation, and the anti-Citizens United movement grows.",
+      "link": "https://www.levernews.com/you-love-to-see-it-breaking-bad-money/",
+      "published": "2026-10-10T13:01:00+00:00",
       "featured": false
     },
     {
@@ -476,15 +494,6 @@
       "excerpt": "The post As Trump’s Wall Closes in, DHS Intimidates a Border Tribe With Surveillance, Masked Agents and Drones appeared first on ProPublica.",
       "link": "https://www.propublica.org/article/tohono-oodham-nation-arizona-border-wall",
       "published": "2026-10-10T10:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "b0c2073bdbfc",
-      "source": "The Lever",
-      "headline": "Susan Collins’ Hard-Luck Story Has An Assault-Rifle Twist",
-      "excerpt": "An assault-rifle manufacturer helped Collins land a job after a failed gubernatorial campaign. She later backed legislation shielding gunmakers from lawsuits.",
-      "link": "https://www.levernews.com/susan-collins-hard-luck-story-has-an-assault-rifle-twist/",
-      "published": "2026-10-09T23:52:55+00:00",
       "featured": false
     },
     {
@@ -506,39 +515,30 @@
       "featured": false
     },
     {
-      "id": "7972d0fe182d",
+      "id": "f70ab147bb85",
       "source": "More Perfect Union",
-      "headline": "We Cooked With A Former McDonald's Chef. What He Showed Us Was Shocking.",
-      "excerpt": "Here's how fast food is the latest victim of enshittification.",
-      "link": "https://substack.perfectunion.us/p/we-cooked-with-a-former-mcdonalds",
-      "published": "2026-09-21T14:52:45+00:00",
+      "headline": "We Went to Alaska. The Fishing Crisis Will Shock You",
+      "excerpt": "Regular people are losing the right to fish in Alaska.",
+      "link": "https://substack.perfectunion.us/p/we-went-to-alaska-the-fishing-crisis",
+      "published": "2026-09-23T14:05:13+00:00",
       "featured": false
     },
     {
-      "id": "2f58ea755720",
-      "source": "Bellingcat",
-      "headline": "Bellingcat Official Merch Design Contest",
-      "excerpt": "Guess what? Bellingcat is finally launching an official merch line! That’s right: after years of fantasizing and wishing, we’re finally ready to get our name and logo on cool merch that you’ll be able to show off. We’re...",
-      "link": "https://www.bellingcat.com/uncategorized/2026/09/14/bellingcat-official-merch-design-contest/",
-      "published": "2026-09-14T13:36:05+00:00",
-      "featured": false
-    },
-    {
-      "id": "ff44bfdfc3cd",
+      "id": "15f1eccf93d9",
       "source": "Al Jazeera",
-      "headline": "Albanian students clash with police as they protest over education and jobs",
-      "excerpt": "Albanian students clash with police as they protest education costs, poor university conditions and bleak job prospects.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/14/albanian-students-clash-with-police-as-they-protest-over-education-and-jobs?traffic_source=rss",
-      "published": "2026-10-14T10:14:17+00:00",
+      "headline": "Tehran municipality accused of ‘overstep’ after launching welfare projects",
+      "excerpt": "Tehran's new municipal welfare projects face intense criticism over funding sources, transparency, and inflation claims.",
+      "link": "https://www.aljazeera.com/economy/2026/10/14/tehran-municipality-accused-of-overstep-after-launching-welfare-projects?traffic_source=rss",
+      "published": "2026-10-14T16:41:42+00:00",
       "featured": false
     },
     {
-      "id": "1b2e0b664e44",
+      "id": "1641bda17730",
       "source": "OCCRP",
-      "headline": "EU Blacklists Nearly 1,600 in Russian Defense Firms and Executives",
-      "excerpt": "The EU’s largest-ever round of sanctions listings targets key suppliers of components used in Russian weapons, particularly ballistic missiles deployed against Ukraine.",
-      "link": "https://www.occrp.org/en/news/eu-blacklists-nearly-1600-in-russian-defense-firms-and-executives",
-      "published": "2026-10-12T17:50:00+00:00",
+      "headline": "Hackers Turn French Supermarket Refrigerators Into Furnaces",
+      "excerpt": "A nationwide cyberattack exploited vulnerable remote controllers to force freezers to 50°C, causing millions of euros in losses and prompting a national cybercrime investigation.",
+      "link": "https://www.occrp.org/en/news/hackers-turn-french-supermarket-refrigerators-into-furnaces",
+      "published": "2026-10-13T16:20:00+00:00",
       "featured": false
     }
   ]
