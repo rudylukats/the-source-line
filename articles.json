@@ -1,14 +1,41 @@
 {
-  "generated_at": "2026-10-16T11:25:42.432853+00:00",
+  "generated_at": "2026-10-16T16:40:11.820334+00:00",
   "articles": [
     {
-      "id": "20a0fb9611bf",
+      "id": "c4b16112530c",
       "source": "Al Jazeera",
-      "headline": "Poland scrambles fighter jets as Russia strikes western Ukraine",
-      "excerpt": "Countries along NATO’s eastern flank growing increasingly concerned about the risk of escalation of the war in Ukraine.",
-      "link": "https://www.aljazeera.com/news/2026/10/16/poland-scrambles-fighter-jets-as-russia-strikes-western-ukraine?traffic_source=rss",
-      "published": "2026-10-16T10:56:20+00:00",
+      "headline": "The artisanal miners behind Nigeria’s lithium boom",
+      "excerpt": "Nasarawa is at the heart of Nigeria’s lithium boom, where artisanal miners hope to benefit from the clean energy race.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/16/the-artisanal-miners-behind-nigerias-lithium-boom?traffic_source=rss",
+      "published": "2026-10-16T16:23:09+00:00",
       "featured": true
+    },
+    {
+      "id": "b85a55ecf05c",
+      "source": "The Lever",
+      "headline": "I’ve Spent My Life Fighting Corruption. Finally America Is Going To Vote On It.",
+      "excerpt": "The 2026 midterms have become a referendum on legalized corruption — and Democrats are finally connecting it to every other crisis.",
+      "link": "https://www.levernews.com/david-sirota-anti-corruption-election/",
+      "published": "2026-10-16T16:05:09+00:00",
+      "featured": true
+    },
+    {
+      "id": "68fedabd5a75",
+      "source": "404 Media",
+      "headline": "Podcast: Cops Can Use AI to Pinpoint Your Home with Just One Photo",
+      "excerpt": "How Raven, previously known as Geospy, can now find which house a photo was taken in; why a judge ruled a Flock search unconstitutional; and the wild AI video in a court case.",
+      "link": "https://www.404media.co/podcast-cops-can-use-ai-to-pinpoint-your-home-with-just-one-photo/",
+      "published": "2026-10-16T15:40:44+00:00",
+      "featured": true
+    },
+    {
+      "id": "d0e021b2a909",
+      "source": "Dropsite News",
+      "headline": "Record Israeli attacks on Palestinian olive groves; Teen shooter kills children at Oregon school; Poland scrambles jets following Russian strikes",
+      "excerpt": "Drop Site Daily: October 16, 2026",
+      "link": "https://www.dropsitenews.com/p/israel-settlers-west-bank-olive-oregon-school-shooting-poland-russia-jets",
+      "published": "2026-10-16T15:28:56+00:00",
+      "featured": false
     },
     {
       "id": "10e3c62f4d24",
@@ -17,7 +44,7 @@
       "excerpt": "Procurement records reveal that 83 public entities — including a defense and NATO research contractor — purchased cybersecurity products from the Russian company Kaspersky after it was blacklisted over national security...",
       "link": "https://www.occrp.org/en/news/romanian-institutions-bought-banned-russian-cybersecurity-software",
       "published": "2026-10-16T10:54:00+00:00",
-      "featured": true
+      "featured": false
     },
     {
       "id": "1ab2fa02bc2b",
@@ -25,15 +52,6 @@
       "headline": "DHS Was Designed as a Weapon",
       "excerpt": "Rep. Delia Ramirez and writers Rozina Ali and Will Sommer discuss the ICE raid on Ilhan Omar and the years of “counterterror” surveillance that paved the way for the Trump administration’s abuses. The post DHS Was...",
       "link": "https://theintercept.com/2026/10/16/ice-raid-ilhan-omar-dhs-trump/",
-      "published": "2026-10-16T10:00:00+00:00",
-      "featured": true
-    },
-    {
-      "id": "b71b1d9f2080",
-      "source": "The Lever",
-      "headline": "Tim Walz Warns That Democrats Can Win And Still Lose",
-      "excerpt": "The Minnesota governor responds to Barack Obama’s claim that government corruption is down, and to Rahm Emanuel’s call to cast out democratic socialists.",
-      "link": "https://www.levernews.com/tim-walz-warns-that-democrats-can-win-and-still-lose/",
       "published": "2026-10-16T10:00:00+00:00",
       "featured": false
     },
@@ -53,24 +71,6 @@
       "excerpt": "The post “Devoid of Any Factual Basis”: Again and Again, Judges Have Dismissed Trump’s Voter Data Lawsuits appeared first on ProPublica.",
       "link": "https://projects.propublica.org/trump-doj-voter-data-lawsuits",
       "published": "2026-10-16T09:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "6164e7166b26",
-      "source": "404 Media",
-      "headline": "Computers Made of Human Brain Tissue Identify Braille Letters In Breakthrough",
-      "excerpt": "Scientists discovered that human brain organoids, which are small neural clusters derived from stem cells, could identify the Braille alphabet with a high degree of accuracy.",
-      "link": "https://www.404media.co/computers-made-of-human-brain-tissue-identify-braille-letters-in-breakthrough/",
-      "published": "2026-10-16T04:01:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "b522d28db8a6",
-      "source": "Dropsite News",
-      "headline": "Encircled by War, Yemen's Taiz Residents Brace for Fighting and a Renewed Siege",
-      "excerpt": "Ansarallah now controls all entry points to Taiz, tightening a siege on Yemen’s third largest city and causing skyrocketing fuel prices, food shortages, and panic among residents.",
-      "link": "https://www.dropsitenews.com/p/yemen-taiz-ansarallah-siege-fuel-food-crisis",
-      "published": "2026-10-15T21:02:12+00:00",
       "featured": false
     },
     {
@@ -110,12 +110,30 @@
       "featured": false
     },
     {
-      "id": "cfaa42645e12",
+      "id": "08b5bbbd1a85",
       "source": "Al Jazeera",
-      "headline": "India vs West India: Fifth T20 International – teams, start, lineups, Hope",
-      "excerpt": "India host West Indies in the final match of the tour on Saturday with an all-time classic T20 series level at 2-2.",
-      "link": "https://www.aljazeera.com/sports/2026/10/16/india-vs-west-india-firth-t20-international-teams-prediction-lineups?traffic_source=rss",
-      "published": "2026-10-16T10:37:48+00:00",
+      "headline": "Indian protest leaders detained ahead of flag march in New Delhi",
+      "excerpt": "India's Cockroach Janta Party founder Abhijeet Dipke and student leader Neha Bora were detained ahead of a flag march.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/16/indian-protest-leaders-detained-ahead-of-flag-march-in-new-delhi?traffic_source=rss",
+      "published": "2026-10-16T16:16:13+00:00",
+      "featured": false
+    },
+    {
+      "id": "5159ae6165a6",
+      "source": "404 Media",
+      "headline": "Here’s What Telegram Giving Data to the U.S. Government Looks Like",
+      "excerpt": "Newly filed court records include a letter from Telegram to U.S. authorities in which the company shares user data following a court order.",
+      "link": "https://www.404media.co/heres-what-telegram-giving-data-to-the-u-s-government-looks-like/",
+      "published": "2026-10-16T14:32:24+00:00",
+      "featured": false
+    },
+    {
+      "id": "b71b1d9f2080",
+      "source": "The Lever",
+      "headline": "Tim Walz Warns That Democrats Can Win And Still Lose",
+      "excerpt": "The Minnesota governor responds to Barack Obama’s claim that government corruption is down, and to Rahm Emanuel’s call to cast out democratic socialists.",
+      "link": "https://www.levernews.com/tim-walz-warns-that-democrats-can-win-and-still-lose/",
+      "published": "2026-10-16T10:00:00+00:00",
       "featured": false
     },
     {
@@ -137,30 +155,12 @@
       "featured": false
     },
     {
-      "id": "0a0d26ff1e47",
+      "id": "b522d28db8a6",
       "source": "Dropsite News",
-      "headline": "Displaced Civilians Sifting for Gold in Sudan Killed in Bloody Drone Strike",
-      "excerpt": "The Rapid Support Forces were accused of the attack, which killed over 30 children, women, and elders.",
-      "link": "https://www.dropsitenews.com/p/sudan-strike-civilians-rapid-support-forces-blue-nile",
-      "published": "2026-10-15T18:41:46+00:00",
-      "featured": false
-    },
-    {
-      "id": "3e6a3cc9c2ea",
-      "source": "404 Media",
-      "headline": "Nidal Hasan’s Public Execution Is Off, But Propagandists Are Still Using Him as a Martyr",
-      "excerpt": "News that the Pentagon would livestream the killer’s execution turned him into a celebrity in Islamist and extremist circles.",
-      "link": "https://www.404media.co/nidal-hasans-public-execution-is-off-but-propagandists-are-still-using-him-as-a-martyr/",
-      "published": "2026-10-15T18:19:55+00:00",
-      "featured": false
-    },
-    {
-      "id": "2b1be240e851",
-      "source": "The Lever",
-      "headline": "The $430 Million War Against Taxing The Rich",
-      "excerpt": "Ultrawealthy donors have spent nearly half a billion dollars trying to convince voters to keep their taxes low via the ballot this November.",
-      "link": "https://www.levernews.com/the-430-million-war-against-taxing-the-rich/",
-      "published": "2026-10-15T17:27:32+00:00",
+      "headline": "Encircled by War, Yemen's Taiz Residents Brace for Fighting and a Renewed Siege",
+      "excerpt": "Ansarallah now controls all entry points to Taiz, tightening a siege on Yemen’s third largest city and causing skyrocketing fuel prices, food shortages, and panic among residents.",
+      "link": "https://www.dropsitenews.com/p/yemen-taiz-ansarallah-siege-fuel-food-crisis",
+      "published": "2026-10-15T21:02:12+00:00",
       "featured": false
     },
     {
@@ -218,12 +218,21 @@
       "featured": false
     },
     {
-      "id": "f9c21fd2e293",
+      "id": "87bac02a470b",
       "source": "Al Jazeera",
-      "headline": "Palestinian olive trees torched as settler pogroms escalate during harvest",
-      "excerpt": "It is Palestine’s olive harvest, but settlers have set their trees and vehicles on fire.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/16/palestinian-olive-trees-torched-as-settler-pogroms-escalate-during-harvest?traffic_source=rss",
-      "published": "2026-10-16T10:27:20+00:00",
+      "headline": "Division in Lebanon over Hezbollah’s confiscated explosives",
+      "excerpt": "Hezbollah said the explosives were to be used against Israel, though political figures and some analysts fear assassinations",
+      "link": "https://www.aljazeera.com/news/2026/10/16/division-in-lebanon-over-hezbollahs-confiscated-explosives?traffic_source=rss",
+      "published": "2026-10-16T16:09:43+00:00",
+      "featured": false
+    },
+    {
+      "id": "1c43f3c22243",
+      "source": "404 Media",
+      "headline": "Cops Used AI Generated Photos of a Child to Lure Out a Suspected Predator",
+      "excerpt": "Christopher Thomas Mertens, a high school maintenance worker, was arrested after attempting to meet up with an AI persona that he thought was a 15 year old boy.",
+      "link": "https://www.404media.co/undercover-cops-using-ai-generated-child-arrest/",
+      "published": "2026-10-16T13:57:18+00:00",
       "featured": false
     },
     {
@@ -245,30 +254,21 @@
       "featured": false
     },
     {
-      "id": "ba6d175b2bf1",
-      "source": "404 Media",
-      "headline": "Accenture Tells Employees They Can Now Spend Only $29 on Claude Per Month",
-      "excerpt": "Some employees who spend as much as $1,000 on Claude usage each month are scrambling to find ways to maintain access to the tool.",
-      "link": "https://www.404media.co/accenture-tells-employees-they-can-now-spend-only-29-on-claude-per-month/",
-      "published": "2026-10-15T16:46:18+00:00",
-      "featured": false
-    },
-    {
-      "id": "b93750a23532",
-      "source": "The Lever",
-      "headline": "Wall Street Wants Your Vote on Autopilot",
-      "excerpt": "Exxon, Tesla, and Goldman Sachs are turning passive investors into an automatic voting bloc built to crush corporate dissent.",
-      "link": "https://www.levernews.com/wall-street-wants-your-vote-on-autopilot/",
-      "published": "2026-10-15T16:16:49+00:00",
-      "featured": false
-    },
-    {
-      "id": "44affc508b02",
+      "id": "0a0d26ff1e47",
       "source": "Dropsite News",
-      "headline": "Ukraine resumes Russian refinery strikes; U.S. sends troops to Latin America; EU-Gulf summit postponed amid Saudi airport strikes",
-      "excerpt": "Drop Site Daily: October 15, 2026",
-      "link": "https://www.dropsitenews.com/p/ukraine-russia-refinery-us-troops-latin-america-eu-gulf-summit-saudi",
-      "published": "2026-10-15T15:22:54+00:00",
+      "headline": "Displaced Civilians Sifting for Gold in Sudan Killed in Bloody Drone Strike",
+      "excerpt": "The Rapid Support Forces were accused of the attack, which killed over 30 children, women, and elders.",
+      "link": "https://www.dropsitenews.com/p/sudan-strike-civilians-rapid-support-forces-blue-nile",
+      "published": "2026-10-15T18:41:46+00:00",
+      "featured": false
+    },
+    {
+      "id": "2b1be240e851",
+      "source": "The Lever",
+      "headline": "The $430 Million War Against Taxing The Rich",
+      "excerpt": "Ultrawealthy donors have spent nearly half a billion dollars trying to convince voters to keep their taxes low via the ballot this November.",
+      "link": "https://www.levernews.com/the-430-million-war-against-taxing-the-rich/",
+      "published": "2026-10-15T17:27:32+00:00",
       "featured": false
     },
     {
@@ -326,12 +326,21 @@
       "featured": false
     },
     {
-      "id": "9fa874e48503",
+      "id": "102b96d8b399",
       "source": "Al Jazeera",
-      "headline": "Trump rules out using a nuclear bomb on Iran: Why that matters",
-      "excerpt": "It is the first time the president has addressed nuclear weapons, but he didn't deny US could use 'mother of all bombs'.",
-      "link": "https://www.aljazeera.com/news/2026/10/16/trump-rules-out-using-a-nuclear-bomb-on-iran-why-that-matters?traffic_source=rss",
-      "published": "2026-10-16T10:21:12+00:00",
+      "headline": "EU rallies in support of Ukraine amid Trump standoff",
+      "excerpt": "Ukraine's Volodymyr Zelenskyy asks EU leaders for extra $79bn to help fight Russia next year.",
+      "link": "https://www.aljazeera.com/news/2026/10/16/eu-rallies-in-support-of-ukraine-amid-trump-standoff?traffic_source=rss",
+      "published": "2026-10-16T16:02:13+00:00",
+      "featured": false
+    },
+    {
+      "id": "6164e7166b26",
+      "source": "404 Media",
+      "headline": "Computers Made of Human Brain Tissue Identify Braille Letters In Breakthrough",
+      "excerpt": "Scientists discovered that human brain organoids, which are small neural clusters derived from stem cells, could identify the Braille alphabet with a high degree of accuracy.",
+      "link": "https://www.404media.co/computers-made-of-human-brain-tissue-identify-braille-letters-in-breakthrough/",
+      "published": "2026-10-16T04:01:00+00:00",
       "featured": false
     },
     {
@@ -344,12 +353,21 @@
       "featured": false
     },
     {
-      "id": "b53e9e0056c0",
-      "source": "404 Media",
-      "headline": "Video Game Reverse Engineering Community Shuts Down Because AI Has Made It Too Easy",
-      "excerpt": "\"Historically, decompilation has been a brutally difficult, time consuming task.\" Now, AI is trivially doing it.",
-      "link": "https://www.404media.co/video-game-reverse-engineering-community-shuts-down-because-ai-has-made-it-too-easy/",
-      "published": "2026-10-15T16:31:30+00:00",
+      "id": "b93750a23532",
+      "source": "The Lever",
+      "headline": "Wall Street Wants Your Vote on Autopilot",
+      "excerpt": "Exxon, Tesla, and Goldman Sachs are turning passive investors into an automatic voting bloc built to crush corporate dissent.",
+      "link": "https://www.levernews.com/wall-street-wants-your-vote-on-autopilot/",
+      "published": "2026-10-15T16:16:49+00:00",
+      "featured": false
+    },
+    {
+      "id": "44affc508b02",
+      "source": "Dropsite News",
+      "headline": "Ukraine resumes Russian refinery strikes; U.S. sends troops to Latin America; EU-Gulf summit postponed amid Saudi airport strikes",
+      "excerpt": "Drop Site Daily: October 15, 2026",
+      "link": "https://www.dropsitenews.com/p/ukraine-russia-refinery-us-troops-latin-america-eu-gulf-summit-saudi",
+      "published": "2026-10-15T15:22:54+00:00",
       "featured": false
     },
     {
@@ -359,24 +377,6 @@
       "excerpt": "An investigation by the Wildlife Justice Commission (WJC) found that an opportunistic, small-scale trade persists across seven countries, while documenting specific international connections involving Peru and Suriname.",
       "link": "https://www.occrp.org/en/news/jaguar-trafficking-in-latin-america-persists-through-bone-paste-and-pet-smuggling",
       "published": "2026-10-15T15:04:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "715865afa4f2",
-      "source": "Dropsite News",
-      "headline": "After Ashley Moody Epstein Probe, Donors Linked to Him Poured Money Into her Senate Campaign",
-      "excerpt": "As Florida Attorney General, Ashley Moody came up empty handed investigating the work-release program abused by Jeffrey Epstein.",
-      "link": "https://www.dropsitenews.com/p/ashley-moody-epstein-work-release-angie-nixon-florida-senate",
-      "published": "2026-10-15T00:20:51+00:00",
-      "featured": false
-    },
-    {
-      "id": "63b93d15e2d0",
-      "source": "The Lever",
-      "headline": "Midterm Madness: Is Kalshi Betting On Bonta?",
-      "excerpt": "Earlier this year, the California attorney general said he was still in touch with his former chief of staff-turned lobbyist, who now leads Kalshi’s public affairs in the Golden State.",
-      "link": "https://www.levernews.com/midterm-madness-is-kalshi-betting-on-bonta/",
-      "published": "2026-10-14T16:49:43+00:00",
       "featured": false
     },
     {
@@ -434,12 +434,21 @@
       "featured": false
     },
     {
-      "id": "9c5dec9af2ae",
+      "id": "bb68f0165f1e",
       "source": "Al Jazeera",
-      "headline": "UN warns nearly 1 million in Gaza face flood risks as winter approaches",
-      "excerpt": "The UN is warning that nearly one million displaced Palestinians face flooding risks as winter approaches.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/16/un-warns-nearly-1-million-in-gaza-face-flood-risks-as-winter-approaches?traffic_source=rss",
-      "published": "2026-10-16T10:12:34+00:00",
+      "headline": "Manchester Utd have ‘moved on’ from Martinez outburst, says Carrick",
+      "excerpt": "Manchester United manager Michael Carrick says club have 'moved on' from Lisandro Martinez blast before Leeds trip.",
+      "link": "https://www.aljazeera.com/sports/2026/10/16/manchester-utd-have-moved-on-from-martinez-outburst-says-carrick?traffic_source=rss",
+      "published": "2026-10-16T15:52:18+00:00",
+      "featured": false
+    },
+    {
+      "id": "3e6a3cc9c2ea",
+      "source": "404 Media",
+      "headline": "Nidal Hasan’s Public Execution Is Off, But Propagandists Are Still Using Him as a Martyr",
+      "excerpt": "News that the Pentagon would livestream the killer’s execution turned him into a celebrity in Islamist and extremist circles.",
+      "link": "https://www.404media.co/nidal-hasans-public-execution-is-off-but-propagandists-are-still-using-him-as-a-martyr/",
+      "published": "2026-10-15T18:19:55+00:00",
       "featured": false
     },
     {
@@ -461,21 +470,21 @@
       "featured": false
     },
     {
-      "id": "8ac24b7977d9",
-      "source": "404 Media",
-      "headline": "ChatGPT Ads Target Your Phone Number, Email",
-      "excerpt": "OpenAI's ads targeting is pretty creepy, and new research confirms spyware companies are delivering potent malware through advertising networks.",
-      "link": "https://www.404media.co/chatgpt-ads-target-your-phone-number-email/",
-      "published": "2026-10-15T14:31:09+00:00",
+      "id": "715865afa4f2",
+      "source": "Dropsite News",
+      "headline": "After Ashley Moody Epstein Probe, Donors Linked to Him Poured Money Into her Senate Campaign",
+      "excerpt": "As Florida Attorney General, Ashley Moody came up empty handed investigating the work-release program abused by Jeffrey Epstein.",
+      "link": "https://www.dropsitenews.com/p/ashley-moody-epstein-work-release-angie-nixon-florida-senate",
+      "published": "2026-10-15T00:20:51+00:00",
       "featured": false
     },
     {
-      "id": "33189f4b83f7",
-      "source": "Dropsite News",
-      "headline": "Pulling Out Teeth Just to Live: How Israel Has Devastated Dental Care in Gaza",
-      "excerpt": "Along with other medical supplies, dental materials have not been allowed into Gaza for the past three years, forcing patients to choose between unaffordable treatment, extraction, or painkillers.",
-      "link": "https://www.dropsitenews.com/p/gaza-dentists-dental-care-israeli-siege",
-      "published": "2026-10-14T21:06:32+00:00",
+      "id": "63b93d15e2d0",
+      "source": "The Lever",
+      "headline": "Midterm Madness: Is Kalshi Betting On Bonta?",
+      "excerpt": "Earlier this year, the California attorney general said he was still in touch with his former chief of staff-turned lobbyist, who now leads Kalshi’s public affairs in the Golden State.",
+      "link": "https://www.levernews.com/midterm-madness-is-kalshi-betting-on-bonta/",
+      "published": "2026-10-14T16:49:43+00:00",
       "featured": false
     },
     {
@@ -485,15 +494,6 @@
       "excerpt": "The post New Mexico and El Paso Spent Millions on Climate Plans. Three New Data Centers Could Undo Them. appeared first on ProPublica.",
       "link": "https://www.propublica.org/article/data-centers-texas-new-mexico-greenhouse-gas-emissions",
       "published": "2026-10-14T10:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "1fa68e61990d",
-      "source": "The Lever",
-      "headline": "The Billionaire Option",
-      "excerpt": "As Medicare for All experiences a resurgence, Democratic corporatists are undermining the momentum by pushing bandaid solutions that carve out room for private insurers.",
-      "link": "https://www.levernews.com/the-billionaire-option/",
-      "published": "2026-10-13T17:03:41+00:00",
       "featured": false
     },
     {
@@ -524,21 +524,21 @@
       "featured": false
     },
     {
-      "id": "ed53fe14754e",
-      "source": "Bellingcat",
-      "headline": "“A Recurring Pattern”: Civilians Paying the Price in Mali’s Drone Campaign",
-      "excerpt": "Sign up here to receive Bellingcat’s biggest investigations by email as soon as they are published. WARNING: This report contains links to graphic images and footage. A joint Bellingcat and Jeune Afrique investigation...",
-      "link": "https://www.bellingcat.com/news/2026/09/16/drone-strike-civilians-killed-aes-sahel-mali-russia-africa-corps-guilt-by-location-jeune-afrique/",
-      "published": "2026-09-16T16:04:19+00:00",
+      "id": "91eb778d877f",
+      "source": "Al Jazeera",
+      "headline": "Gaza malnutrition and starvation at ‘catastrophic’ levels: Health Ministry",
+      "excerpt": "About 67 percent of Gaza's population projected to face crisis-level food insecurity or worse through the end of 2026.",
+      "link": "https://www.aljazeera.com/news/2026/10/16/gaza-malnutrition-and-starvation-at-catastrophic-levels-health-ministry?traffic_source=rss",
+      "published": "2026-10-16T15:37:25+00:00",
       "featured": false
     },
     {
-      "id": "7f8b3c4cb74e",
-      "source": "The Markup",
-      "headline": "Who’s buying your personal data: Disney, GM, your insurer and bank. Here’s what they get",
-      "excerpt": "Consumers asked a major data broker for their files. What they got back shows interest in how fat they are, how much they drink, and how likely they are to get a mammogram, among many other characteristics.",
-      "link": "https://themarkup.org/privacy/2026/09/16/whos-buying-your-personal-data-disney-gm-your-insurer-and-bank-heres-what-they-get",
-      "published": "2026-09-16T12:00:00+00:00",
+      "id": "ba6d175b2bf1",
+      "source": "404 Media",
+      "headline": "Accenture Tells Employees They Can Now Spend Only $29 on Claude Per Month",
+      "excerpt": "Some employees who spend as much as $1,000 on Claude usage each month are scrambling to find ways to maintain access to the tool.",
+      "link": "https://www.404media.co/accenture-tells-employees-they-can-now-spend-only-29-on-claude-per-month/",
+      "published": "2026-10-15T16:46:18+00:00",
       "featured": false
     }
   ]
