@@ -1,22 +1,31 @@
 {
-  "generated_at": "2026-10-20T19:17:30.556269+00:00",
+  "generated_at": "2026-10-20T23:53:32.345346+00:00",
   "articles": [
     {
-      "id": "a46def539583",
+      "id": "fb99c86dcf71",
       "source": "Al Jazeera",
-      "headline": "UK to deploy fighter jets to defend Saudi Arabia",
-      "excerpt": "British Typhoon jets will carry out defensive missions to protect Saudi Arabia from escalating Houthi attacks.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/20/aje-onl-nf_uk-to-deploy-fighter-jets-to-defend-saudi-arabia_1-201026?traffic_source=rss",
-      "published": "2026-10-20T18:55:52+00:00",
+      "headline": "NATO to send additional patrol planes to Black Sea after drone attacks",
+      "excerpt": "The alliance announces the deployment after a series of deadly drone attacks in the region.",
+      "link": "https://www.aljazeera.com/news/2026/10/20/nato-to-send-additional-patrol-planes-to-black-sea-after-drone-attacks?traffic_source=rss",
+      "published": "2026-10-20T23:19:52+00:00",
       "featured": true
     },
     {
-      "id": "6952c53adbf9",
+      "id": "5232203f1fc6",
+      "source": "The Intercept",
+      "headline": "Kohen Wiley’s Family Says Investigators Didn’t Contact Them Before Concluding Cops Did No Wrong",
+      "excerpt": "Mississippi has yet to release any support for its claim that a “thorough and impartial” review showed the shooting was “justified.” The post Kohen Wiley’s Family Says Investigators Didn’t Contact Them Before Concluding...",
+      "link": "https://theintercept.com/2026/10/20/kohen-wiley-police-shooting-mississippi/",
+      "published": "2026-10-20T22:18:47+00:00",
+      "featured": true
+    },
+    {
+      "id": "9df4495ba462",
       "source": "The Lever",
-      "headline": "Angie Nixon's Formula For Winning Without Corporate Cash",
-      "excerpt": "U.S. Senate candidate Angie Nixon is challenging Republican Sen. Ashley Moody without money from corporate PACs — or the full blessing of the Democratic establishment",
-      "link": "https://www.levernews.com/angie-nixons-formula-for-winning-without-corporate-cash/",
-      "published": "2026-10-20T18:27:46+00:00",
+      "headline": "Lindsay Owens: Who Is Your AI Shopping Agent Working For?",
+      "excerpt": "Swing voters are furious about something most people can barely name: surveillance pricing.",
+      "link": "https://www.levernews.com/lindsay-owens-ai-surveillance-pricing/",
+      "published": "2026-10-20T19:58:14+00:00",
       "featured": true
     },
     {
@@ -26,15 +35,6 @@
       "excerpt": "",
       "link": "https://www.occrp.org/en/news/vucic-rejects-russia-sanctions-blames-foreign-powers-for-protests",
       "published": "2026-10-20T18:16:00+00:00",
-      "featured": true
-    },
-    {
-      "id": "64564639579b",
-      "source": "The Intercept",
-      "headline": "Yemenis Unable to Reach Hospital Are Part of the Iran War Death Toll",
-      "excerpt": "At least 10 patients with kidney failure near Taiz, a city under a Houthi siege, died because they were unable to get to their dialysis treatments. The post Yemenis Unable to Reach Hospital Are Part of the Iran War...",
-      "link": "https://theintercept.com/2026/10/20/yemenis-dialysis-houthi-blockade-iran-war/",
-      "published": "2026-10-20T17:31:05+00:00",
       "featured": false
     },
     {
@@ -110,12 +110,21 @@
       "featured": false
     },
     {
-      "id": "8bffd40f8717",
+      "id": "1d83a3789308",
       "source": "Al Jazeera",
-      "headline": "Oxfam analysis finds Peru’s richest captured 42 percent of all new wealth",
-      "excerpt": "Only 1.4 percent of all new wealth created between 2019 and 2025 went to the poorest 50 percent, report finds.",
-      "link": "https://www.aljazeera.com/news/2026/10/20/oxfam-analysis-finds-perus-richest-captured-42-percent-of-all-new-wealth?traffic_source=rss",
-      "published": "2026-10-20T18:53:51+00:00",
+      "headline": "The Gambia to pay reparations to ex-dictator’s victims from sale of US mansion",
+      "excerpt": "The Gambia confirmed it received $2.5m from the sale of a US mansion belonging to former president Jammeh.",
+      "link": "https://www.aljazeera.com/news/2026/10/20/the-gambia-to-pay-reparations-to-ex-dictators-victims-from-sale-of-us-mansion?traffic_source=rss",
+      "published": "2026-10-20T22:51:35+00:00",
+      "featured": false
+    },
+    {
+      "id": "72098d4ac4ba",
+      "source": "The Lever",
+      "headline": "Medicare For None",
+      "excerpt": "Weeks before the midterms, the Democratic establishment is insisting their party must stand against the public’s policy demands.",
+      "link": "https://www.levernews.com/medicare-for-none/",
+      "published": "2026-10-20T19:42:40+00:00",
       "featured": false
     },
     {
@@ -128,21 +137,21 @@
       "featured": false
     },
     {
+      "id": "64564639579b",
+      "source": "The Intercept",
+      "headline": "Yemenis Unable to Reach Hospital Are Part of the Iran War Death Toll",
+      "excerpt": "At least 10 patients with kidney failure near Taiz, a city under a Houthi siege, died because they were unable to get to their dialysis treatments. The post Yemenis Unable to Reach Hospital Are Part of the Iran War...",
+      "link": "https://theintercept.com/2026/10/20/yemenis-dialysis-houthi-blockade-iran-war/",
+      "published": "2026-10-20T17:31:05+00:00",
+      "featured": false
+    },
+    {
       "id": "555eae0b5176",
       "source": "404 Media",
       "headline": "People Are Using 'AI Decompiling' to Hack Their Things",
       "excerpt": "A gang of hackers targets Staples, but not to buy things from Staples.",
       "link": "https://www.404media.co/people-are-using-ai-decompiling-to-hack-their-things/",
       "published": "2026-10-20T13:51:57+00:00",
-      "featured": false
-    },
-    {
-      "id": "c894aeda3396",
-      "source": "The Intercept",
-      "headline": "Mike Rogers Spent $100K on Private Jets and Luxury Travel Last Quarter",
-      "excerpt": "The Republican running for Senate in Michigan is directing campaign funds toward chartered flights, a Miami car service, and BMW repairs. The post Mike Rogers Spent $100K on Private Jets and Luxury Travel Last Quarter...",
-      "link": "https://theintercept.com/2026/10/19/michigan-senate-mike-rogers-spending-private-jets/",
-      "published": "2026-10-19T21:43:15+00:00",
       "featured": false
     },
     {
@@ -161,15 +170,6 @@
       "excerpt": "Over the past year, attacks by Israel-backed Palestinian militias have become increasingly frequent in Gaza, particularly targeting Palestinians living close to the ever expanding “yellow line.”",
       "link": "https://www.dropsitenews.com/p/gaza-israel-backed-palestinian-militias-yellow-line-jabaliya",
       "published": "2026-10-19T17:25:38+00:00",
-      "featured": false
-    },
-    {
-      "id": "add6503e3104",
-      "source": "The Lever",
-      "headline": "AI Industry Leader Wants 50 Free Kills",
-      "excerpt": "Draft artificial intelligence legislation circulated by Anthropic would permit dozens of projected deaths before triggering government intervention.",
-      "link": "https://www.levernews.com/ai-leader-wants-50-free-kills/",
-      "published": "2026-10-19T16:43:52+00:00",
       "featured": false
     },
     {
@@ -218,12 +218,21 @@
       "featured": false
     },
     {
-      "id": "49b4e8a1e1ed",
+      "id": "dadd66fbb976",
       "source": "Al Jazeera",
-      "headline": "Can a humanitarian crisis in Gaza be averted?",
-      "excerpt": "The World Food Programme says it is forced to cut aid for thousands in the enclave.",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/10/20/can-a-humanitarian-crisis-in-gaza-be-averted?traffic_source=rss",
-      "published": "2026-10-20T18:45:23+00:00",
+      "headline": "‘I don’t care how it’s done’: Trump pressures Ukraine to cut peace deal",
+      "excerpt": "The US president's remarks come amid a deepening feud with Ukraine's President Volodymyr Zelenskyy.",
+      "link": "https://www.aljazeera.com/news/2026/10/20/i-dont-care-how-its-done-trump-pressures-ukraine-to-cut-peace-deal?traffic_source=rss",
+      "published": "2026-10-20T22:20:13+00:00",
+      "featured": false
+    },
+    {
+      "id": "90f8d36677c3",
+      "source": "The Lever",
+      "headline": "The Last-Ditch Effort To Sink El-Sayed",
+      "excerpt": "The GOP’s Mike Rogers curiously joins other Democrats on a “pro-democracy” flyer distributed in Michigan.",
+      "link": "https://www.levernews.com/the-last-ditch-effort-to-sink-el-sayed/",
+      "published": "2026-10-20T19:40:06+00:00",
       "featured": false
     },
     {
@@ -245,6 +254,15 @@
       "featured": false
     },
     {
+      "id": "c894aeda3396",
+      "source": "The Intercept",
+      "headline": "Mike Rogers Spent $100K on Private Jets and Luxury Travel Last Quarter",
+      "excerpt": "The Republican running for Senate in Michigan is directing campaign funds toward chartered flights, a Miami car service, and BMW repairs. The post Mike Rogers Spent $100K on Private Jets and Luxury Travel Last Quarter...",
+      "link": "https://theintercept.com/2026/10/19/michigan-senate-mike-rogers-spending-private-jets/",
+      "published": "2026-10-19T21:43:15+00:00",
+      "featured": false
+    },
+    {
       "id": "7b39fbacc879",
       "source": "Dropsite News",
       "headline": "UN cuts food aid to 500,000 Palestinians in Gaza; 7th ICE detainee found dead in Texas this year; France arrests 2,400 in mass protests",
@@ -260,24 +278,6 @@
       "excerpt": "The post He Tried to Set Limits on His State’s School Vouchers. Billionaires Helped Bankroll a Campaign to Unseat Him. appeared first on ProPublica.",
       "link": "https://www.propublica.org/article/west-virginia-school-choice-billionaires-vernon-criss",
       "published": "2026-10-19T10:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "30ababfdd774",
-      "source": "The Intercept",
-      "headline": "The Army Wants to Sic AI Agents on Its Enemies. What Could Go Wrong?",
-      "excerpt": "Documents obtained by The Intercept show the military is trying to deploy autonomous AI agents to hack its adversaries. The post The Army Wants to Sic AI Agents on Its Enemies. What Could Go Wrong? appeared first on The...",
-      "link": "https://theintercept.com/2026/10/19/army-autonomous-ai-agents-arcyber/",
-      "published": "2026-10-19T10:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "1a7401e135df",
-      "source": "The Lever",
-      "headline": "Lever Weekly: Wall Street Wants You Quiet",
-      "excerpt": "The wealth tax, assault rifles, shareholder antics, and more from The Lever this week.",
-      "link": "https://www.levernews.com/lever-weekly-wall-street-wants-you-quiet/",
-      "published": "2026-10-18T13:06:00+00:00",
       "featured": false
     },
     {
@@ -326,12 +326,21 @@
       "featured": false
     },
     {
-      "id": "132bcb1c7dac",
+      "id": "a9efbe40fa9c",
       "source": "Al Jazeera",
-      "headline": "Lula challenges Bolsonaro to release personal records before election",
-      "excerpt": "Brazil's left-wing president says he will release bank, tax, and phone records if right-wing rival will do the same.",
-      "link": "https://www.aljazeera.com/news/2026/10/20/lula-challenges-bolsonaro-to-release-personal-records-before-election?traffic_source=rss",
-      "published": "2026-10-20T18:43:41+00:00",
+      "headline": "Trump commits more than $400m ahead of high-stakes midterm elections",
+      "excerpt": "The president's Republican Party seeks to maintain its hold over both chambers of Congress, despite declining polls.",
+      "link": "https://www.aljazeera.com/news/2026/10/20/trump-commits-more-than-400m-ahead-of-high-stakes-midterm-elections?traffic_source=rss",
+      "published": "2026-10-20T21:27:38+00:00",
+      "featured": false
+    },
+    {
+      "id": "6952c53adbf9",
+      "source": "The Lever",
+      "headline": "Angie Nixon's Formula For Winning Without Corporate Cash",
+      "excerpt": "U.S. Senate candidate Angie Nixon is challenging Republican Sen. Ashley Moody without money from corporate PACs — or the full blessing of the Democratic establishment",
+      "link": "https://www.levernews.com/angie-nixons-formula-for-winning-without-corporate-cash/",
+      "published": "2026-10-20T18:27:46+00:00",
       "featured": false
     },
     {
@@ -353,6 +362,15 @@
       "featured": false
     },
     {
+      "id": "30ababfdd774",
+      "source": "The Intercept",
+      "headline": "The Army Wants to Sic AI Agents on Its Enemies. What Could Go Wrong?",
+      "excerpt": "Documents obtained by The Intercept show the military is trying to deploy autonomous AI agents to hack its adversaries. The post The Army Wants to Sic AI Agents on Its Enemies. What Could Go Wrong? appeared first on The...",
+      "link": "https://theintercept.com/2026/10/19/army-autonomous-ai-agents-arcyber/",
+      "published": "2026-10-19T10:00:00+00:00",
+      "featured": false
+    },
+    {
       "id": "2b56a2d95364",
       "source": "ProPublica",
       "headline": "Ken Paxton’s Anti-Abortion Influence Already Extended Beyond Texas. He Could Take It Further in the Senate.",
@@ -368,24 +386,6 @@
       "excerpt": "War Brief: Episode 5",
       "link": "https://www.dropsitenews.com/p/trump-turns-to-putin-as-interests",
       "published": "2026-10-18T15:33:06+00:00",
-      "featured": false
-    },
-    {
-      "id": "1a54e4484d79",
-      "source": "The Intercept",
-      "headline": "President Apocalypse",
-      "excerpt": "While Trump campaigns for a Nobel Peace Prize, his war on humanity’s only home continues unabated. The post President Apocalypse appeared first on The Intercept.",
-      "link": "https://theintercept.com/2026/10/18/trump-president-apocalypse-war/",
-      "published": "2026-10-18T11:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "9be64bc6b541",
-      "source": "The Lever",
-      "headline": "You Love To See It: The Phone Tree Gets the Ax",
-      "excerpt": "Indigenous People’s Day raises the alarm, California takes customers off of the endless phone hold — and other wins worth a little noise.",
-      "link": "https://www.levernews.com/you-love-to-see-it-the-phone-tree-gets-the-ax/",
-      "published": "2026-10-17T13:05:00+00:00",
       "featured": false
     },
     {
@@ -425,12 +425,12 @@
       "featured": false
     },
     {
-      "id": "b0831c63992e",
+      "id": "1cb4d33f78ba",
       "source": "Al Jazeera",
-      "headline": "CDC reports third measles death in the United States this year",
-      "excerpt": "The death was added to the federal tally, as the US records more than 4,400 measles cases nationwide.",
-      "link": "https://www.aljazeera.com/news/2026/10/20/cdc-reports-third-measles-death-in-the-united-states-this-year?traffic_source=rss",
-      "published": "2026-10-20T17:58:09+00:00",
+      "headline": "PSG score late to sink Barcelona 4-2 in Champions League blockbuster",
+      "excerpt": "Late strikes by Vitinha and Fabian Ruiz grab victory for PSG as they aim to win the UCL for third season running.",
+      "link": "https://www.aljazeera.com/sports/2026/10/20/psg-sink-barcelona-4-2-for-third-champions-league-win-in-a-row?traffic_source=rss",
+      "published": "2026-10-20T21:24:06+00:00",
       "featured": false
     },
     {
@@ -440,6 +440,15 @@
       "excerpt": "“The Caldwell Technology Park [...] the Stargate facility, and a bunch of other very large hyperscale facilities have gotten regulatory approvals [...] so it's not like a real pause.\"",
       "link": "https://www.404media.co/it-aint-right-texas-said-it-would-halt-data-center-permits-the-state-is-pushing-ahead-anyway/",
       "published": "2026-10-19T21:40:42+00:00",
+      "featured": false
+    },
+    {
+      "id": "add6503e3104",
+      "source": "The Lever",
+      "headline": "AI Industry Leader Wants 50 Free Kills",
+      "excerpt": "Draft artificial intelligence legislation circulated by Anthropic would permit dozens of projected deaths before triggering government intervention.",
+      "link": "https://www.levernews.com/ai-leader-wants-50-free-kills/",
+      "published": "2026-10-19T16:43:52+00:00",
       "featured": false
     },
     {
@@ -461,30 +470,21 @@
       "featured": false
     },
     {
+      "id": "1a54e4484d79",
+      "source": "The Intercept",
+      "headline": "President Apocalypse",
+      "excerpt": "While Trump campaigns for a Nobel Peace Prize, his war on humanity’s only home continues unabated. The post President Apocalypse appeared first on The Intercept.",
+      "link": "https://theintercept.com/2026/10/18/trump-president-apocalypse-war/",
+      "published": "2026-10-18T11:00:00+00:00",
+      "featured": false
+    },
+    {
       "id": "4c8bbf0c0ac8",
       "source": "Dropsite News",
       "headline": "“Win, Lose, or Draw,” Pearson Campaign Builds a Progressive Coalition in Rural Tennessee",
       "excerpt": "Will the GOP lose a district redrawn in its favor?",
       "link": "https://www.dropsitenews.com/p/justin-pearson-tennessee-redistricting-data-centers",
       "published": "2026-10-17T12:09:16+00:00",
-      "featured": false
-    },
-    {
-      "id": "7e44260eb632",
-      "source": "The Intercept",
-      "headline": "Dems Have an Opportunity to Force an End to the Iran War. Will They Take It?",
-      "excerpt": "With Democrats campaigning on ending the war, advocates want them to put their money where their mouth is and risk a lame-duck shutdown. The post Dems Have an Opportunity to Force an End to the Iran War. Will They Take...",
-      "link": "https://theintercept.com/2026/10/17/congress-democrats-iran-war-end-strategy/",
-      "published": "2026-10-17T09:57:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "27af0a82fdf0",
-      "source": "The Lever",
-      "headline": "LeverMind Quiz: Why Is There So Much Money In Elections?",
-      "excerpt": "Test your knowledge of midterm spending, Wall Street loopholes, and other issues that really matter.",
-      "link": "https://www.levernews.com/levermind-quiz-why-is-there-so-much-money-in-elections/",
-      "published": "2026-10-16T17:43:19+00:00",
       "featured": false
     },
     {
@@ -515,12 +515,12 @@
       "featured": false
     },
     {
-      "id": "8851bbcb86ce",
+      "id": "21e37893902c",
       "source": "Al Jazeera",
-      "headline": "Kenya confirms ninth Ebola case amid concerns about regional spread",
-      "excerpt": "A 24-year-old man, who was already being held in quarantine, is the latest to test positive.",
-      "link": "https://www.aljazeera.com/news/2026/10/20/kenya-confirms-ninth-ebola-case?traffic_source=rss",
-      "published": "2026-10-20T17:31:26+00:00",
+      "headline": "US food importer sues Trump over 50 percent tariffs on Canadian goods",
+      "excerpt": "The lawsuit argues Trump bypassed Congress and misused a Depression-era law to impose tariffs on Canadian imports.",
+      "link": "https://www.aljazeera.com/economy/2026/10/20/us-food-importer-sues-trump-over-50-percent-tariffs-on-canadian-goods?traffic_source=rss",
+      "published": "2026-10-20T21:19:12+00:00",
       "featured": false
     },
     {
@@ -533,12 +533,12 @@
       "featured": false
     },
     {
-      "id": "b85a55ecf05c",
+      "id": "1a7401e135df",
       "source": "The Lever",
-      "headline": "I’ve Spent My Life Fighting Corruption. Finally America Is Going To Vote On It.",
-      "excerpt": "The 2026 midterms have become a referendum on legalized corruption — and Democrats are finally connecting it to every other crisis.",
-      "link": "https://www.levernews.com/david-sirota-anti-corruption-election/",
-      "published": "2026-10-16T16:05:09+00:00",
+      "headline": "Lever Weekly: Wall Street Wants You Quiet",
+      "excerpt": "The wealth tax, assault rifles, shareholder antics, and more from The Lever this week.",
+      "link": "https://www.levernews.com/lever-weekly-wall-street-wants-you-quiet/",
+      "published": "2026-10-18T13:06:00+00:00",
       "featured": false
     }
   ]
