@@ -1,14 +1,41 @@
 {
-  "generated_at": "2026-10-19T20:35:47.601601+00:00",
+  "generated_at": "2026-10-20T00:21:09.185742+00:00",
   "articles": [
     {
-      "id": "9bc5635b949c",
+      "id": "73af71d835c7",
       "source": "Al Jazeera",
-      "headline": "Finland seeking one million land mines as it eyes Russian threat",
-      "excerpt": "Helsinki recently joined regional peers in withdrawing from UN Charter banning munitions as it eyes its eastern border.",
-      "link": "https://www.aljazeera.com/news/2026/10/19/finland-seeking-one-million-land-mines-as-it-eyes-russian-threat?traffic_source=rss",
-      "published": "2026-10-19T19:57:10+00:00",
+      "headline": "Hegseth meets Netanyahu in unannounced Israel visit",
+      "excerpt": "Hegseth has travelled to Israel to meet Netanyahu ahead of a closely contested election, Axios reported, citing sources.",
+      "link": "https://www.aljazeera.com/news/2026/10/20/hegseth-meets-netanyahu-in-unannounced-israel-visit?traffic_source=rss",
+      "published": "2026-10-20T00:08:01+00:00",
       "featured": true
+    },
+    {
+      "id": "c894aeda3396",
+      "source": "The Intercept",
+      "headline": "Mike Rogers Spent $100K on Private Jets and Luxury Travel Last Quarter",
+      "excerpt": "The Republican running for Senate in Michigan is directing campaign funds toward chartered flights, a Miami car service, and BMW repairs. The post Mike Rogers Spent $100K on Private Jets and Luxury Travel Last Quarter...",
+      "link": "https://theintercept.com/2026/10/19/michigan-senate-mike-rogers-spending-private-jets/",
+      "published": "2026-10-19T21:43:15+00:00",
+      "featured": true
+    },
+    {
+      "id": "0b32c1bbe0fb",
+      "source": "404 Media",
+      "headline": "'It Ain't Right:' Texas Said It Would Halt Data Center Permits. The State is Pushing Ahead Anyway",
+      "excerpt": "“The Caldwell Technology Park [...] the Stargate facility, and a bunch of other very large hyperscale facilities have gotten regulatory approvals [...] so it's not like a real pause.\"",
+      "link": "https://www.404media.co/it-aint-right-texas-said-it-would-halt-data-center-permits-the-state-is-pushing-ahead-anyway/",
+      "published": "2026-10-19T21:40:42+00:00",
+      "featured": true
+    },
+    {
+      "id": "60f9205055d7",
+      "source": "ProPublica",
+      "headline": "Citing ProPublica, Lawmakers Introduce Bill to Help U.S. Citizens Sue ICE for Wrongful Detentions",
+      "excerpt": "The post Citing ProPublica, Lawmakers Introduce Bill to Help U.S. Citizens Sue ICE for Wrongful Detentions appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/american-citizens-wrongfully-detained-ice-bill",
+      "published": "2026-10-19T20:15:00+00:00",
+      "featured": false
     },
     {
       "id": "4356c7715dea",
@@ -17,7 +44,7 @@
       "excerpt": "Over the past year, attacks by Israel-backed Palestinian militias have become increasingly frequent in Gaza, particularly targeting Palestinians living close to the ever expanding “yellow line.”",
       "link": "https://www.dropsitenews.com/p/gaza-israel-backed-palestinian-militias-yellow-line-jabaliya",
       "published": "2026-10-19T17:25:38+00:00",
-      "featured": true
+      "featured": false
     },
     {
       "id": "add6503e3104",
@@ -26,15 +53,6 @@
       "excerpt": "Draft artificial intelligence legislation circulated by Anthropic would permit dozens of projected deaths before triggering government intervention.",
       "link": "https://www.levernews.com/ai-leader-wants-50-free-kills/",
       "published": "2026-10-19T16:43:52+00:00",
-      "featured": true
-    },
-    {
-      "id": "3cbae43a8346",
-      "source": "404 Media",
-      "headline": "Police Say Scammers Used AI to Clone a Sheriff’s Voice",
-      "excerpt": "The scammers used the voice of a specific sheriff to impersonate him.",
-      "link": "https://www.404media.co/police-say-scammers-used-ai-to-clone-a-sheriffs-voice/",
-      "published": "2026-10-19T16:16:17+00:00",
       "featured": false
     },
     {
@@ -44,24 +62,6 @@
       "excerpt": "The sudden handover of the Kazakh National University of Sports follows a joint investigation by Radio Azattyq and OCCRP, which revealed how President Tokayev’s grandnephew founded educational ventures that received...",
       "link": "https://www.occrp.org/en/news/kazakh-presidents-grandnephew-donates-sport-university-to-state-following-investigative-report",
       "published": "2026-10-19T13:06:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "2d56991742df",
-      "source": "ProPublica",
-      "headline": "He Tried to Set Limits on His State’s School Vouchers. Billionaires Helped Bankroll a Campaign to Unseat Him.",
-      "excerpt": "The post He Tried to Set Limits on His State’s School Vouchers. Billionaires Helped Bankroll a Campaign to Unseat Him. appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/west-virginia-school-choice-billionaires-vernon-criss",
-      "published": "2026-10-19T10:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "30ababfdd774",
-      "source": "The Intercept",
-      "headline": "The Army Wants to Sic AI Agents on Its Enemies. What Could Go Wrong?",
-      "excerpt": "Documents obtained by The Intercept show the military is trying to deploy autonomous AI agents to hack its adversaries. The post The Army Wants to Sic AI Agents on Its Enemies. What Could Go Wrong? appeared first on The...",
-      "link": "https://theintercept.com/2026/10/19/army-autonomous-ai-agents-arcyber/",
-      "published": "2026-10-19T10:00:00+00:00",
       "featured": false
     },
     {
@@ -110,21 +110,21 @@
       "featured": false
     },
     {
-      "id": "aa8f445169ad",
+      "id": "ba476a8fae23",
       "source": "Al Jazeera",
-      "headline": "One killed in US shooting near mosque in Columbus, Ohio",
-      "excerpt": "Local authorities say mosque was not target of attack.",
-      "link": "https://www.aljazeera.com/news/2026/10/19/us-federal-authorities-responding-to-shooting-at-mosque-in-columbus-ohio?traffic_source=rss",
-      "published": "2026-10-19T19:50:20+00:00",
+      "headline": "Exiled critic of Rwandan president found beheaded in Uganda",
+      "excerpt": "Ugandan police say a male body has been found in a village near Kampala, and his head has yet to be located.",
+      "link": "https://www.aljazeera.com/news/2026/10/20/exiled-critic-of-rwandan-president-found-beheaded-in-uganda?traffic_source=rss",
+      "published": "2026-10-20T00:06:00+00:00",
       "featured": false
     },
     {
-      "id": "4fbf3feeae6d",
+      "id": "3cbae43a8346",
       "source": "404 Media",
-      "headline": "The Staples Gift Card Heist",
-      "excerpt": "A gang of hackers targets Staples, but not to buy things from Staples.",
-      "link": "https://www.404media.co/the-staples-gift-card-heist/",
-      "published": "2026-10-19T14:59:51+00:00",
+      "headline": "Police Say Scammers Used AI to Clone a Sheriff’s Voice",
+      "excerpt": "The scammers used the voice of a specific sheriff to impersonate him.",
+      "link": "https://www.404media.co/police-say-scammers-used-ai-to-clone-a-sheriffs-voice/",
+      "published": "2026-10-19T16:16:17+00:00",
       "featured": false
     },
     {
@@ -146,12 +146,21 @@
       "featured": false
     },
     {
-      "id": "2b56a2d95364",
+      "id": "2d56991742df",
       "source": "ProPublica",
-      "headline": "Ken Paxton’s Anti-Abortion Influence Already Extended Beyond Texas. He Could Take It Further in the Senate.",
-      "excerpt": "The post Ken Paxton’s Anti-Abortion Influence Already Extended Beyond Texas. He Could Take It Further in the Senate. appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/ken-paxton-texas-abortion-senate",
-      "published": "2026-10-19T09:30:00+00:00",
+      "headline": "He Tried to Set Limits on His State’s School Vouchers. Billionaires Helped Bankroll a Campaign to Unseat Him.",
+      "excerpt": "The post He Tried to Set Limits on His State’s School Vouchers. Billionaires Helped Bankroll a Campaign to Unseat Him. appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/west-virginia-school-choice-billionaires-vernon-criss",
+      "published": "2026-10-19T10:00:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "30ababfdd774",
+      "source": "The Intercept",
+      "headline": "The Army Wants to Sic AI Agents on Its Enemies. What Could Go Wrong?",
+      "excerpt": "Documents obtained by The Intercept show the military is trying to deploy autonomous AI agents to hack its adversaries. The post The Army Wants to Sic AI Agents on Its Enemies. What Could Go Wrong? appeared first on The...",
+      "link": "https://theintercept.com/2026/10/19/army-autonomous-ai-agents-arcyber/",
+      "published": "2026-10-19T10:00:00+00:00",
       "featured": false
     },
     {
@@ -161,15 +170,6 @@
       "excerpt": "The wealth tax, assault rifles, shareholder antics, and more from The Lever this week.",
       "link": "https://www.levernews.com/lever-weekly-wall-street-wants-you-quiet/",
       "published": "2026-10-18T13:06:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "1a54e4484d79",
-      "source": "The Intercept",
-      "headline": "President Apocalypse",
-      "excerpt": "While Trump campaigns for a Nobel Peace Prize, his war on humanity’s only home continues unabated. The post President Apocalypse appeared first on The Intercept.",
-      "link": "https://theintercept.com/2026/10/18/trump-president-apocalypse-war/",
-      "published": "2026-10-18T11:00:00+00:00",
       "featured": false
     },
     {
@@ -218,30 +218,30 @@
       "featured": false
     },
     {
-      "id": "c24a9c2ae87b",
+      "id": "c217cc3e19b9",
       "source": "Al Jazeera",
-      "headline": "Florida issues arrest warrant for Cuban leader Raul Castro",
-      "excerpt": "The announcement mirrors a federal indictment from May as the US steps up pressure on the Cuban government.",
-      "link": "https://www.aljazeera.com/news/2026/10/19/florida-issues-arrest-warrant-for-cuban-leader-raul-castro?traffic_source=rss",
-      "published": "2026-10-19T19:48:53+00:00",
+      "headline": "Iran war live: Trump says US hits Iran hard ‘economically and militarily’",
+      "excerpt": "Trump says US continues to hit Iran 'economically and militarily' while praising Russia for doing 'nothing' to aid Iran.",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/10/20/draft-3?traffic_source=rss",
+      "published": "2026-10-20T00:00:00+00:00",
       "featured": false
     },
     {
-      "id": "c4faf892a051",
+      "id": "4fbf3feeae6d",
       "source": "404 Media",
-      "headline": "How a Massive Chinese Crime Ring Hacked Staples to Steal Millions",
-      "excerpt": "A sophisticated organized crime gang hacked into Staples, issued millions of dollars worth of gift cards, and went on a spending spree across the U.S.",
-      "link": "https://www.404media.co/how-a-massive-chinese-crime-ring-hacked-staples-to-steal-millions/",
-      "published": "2026-10-19T13:23:31+00:00",
+      "headline": "The Staples Gift Card Heist",
+      "excerpt": "A gang of hackers targets Staples, but not to buy things from Staples.",
+      "link": "https://www.404media.co/the-staples-gift-card-heist/",
+      "published": "2026-10-19T14:59:51+00:00",
       "featured": false
     },
     {
-      "id": "5c0b74bd4c07",
+      "id": "2b56a2d95364",
       "source": "ProPublica",
-      "headline": "Trump Appointees Asked a Federal Cybersecurity Agency to Secretly Acquire a Voting Machine — and Hack It",
-      "excerpt": "The post Trump Appointees Asked a Federal Cybersecurity Agency to Secretly Acquire a Voting Machine — and Hack It appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/cisa-election-security-donald-trump",
-      "published": "2026-10-19T09:00:00+00:00",
+      "headline": "Ken Paxton’s Anti-Abortion Influence Already Extended Beyond Texas. He Could Take It Further in the Senate.",
+      "excerpt": "The post Ken Paxton’s Anti-Abortion Influence Already Extended Beyond Texas. He Could Take It Further in the Senate. appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/ken-paxton-texas-abortion-senate",
+      "published": "2026-10-19T09:30:00+00:00",
       "featured": false
     },
     {
@@ -254,21 +254,21 @@
       "featured": false
     },
     {
+      "id": "1a54e4484d79",
+      "source": "The Intercept",
+      "headline": "President Apocalypse",
+      "excerpt": "While Trump campaigns for a Nobel Peace Prize, his war on humanity’s only home continues unabated. The post President Apocalypse appeared first on The Intercept.",
+      "link": "https://theintercept.com/2026/10/18/trump-president-apocalypse-war/",
+      "published": "2026-10-18T11:00:00+00:00",
+      "featured": false
+    },
+    {
       "id": "9be64bc6b541",
       "source": "The Lever",
       "headline": "You Love To See It: The Phone Tree Gets the Ax",
       "excerpt": "Indigenous People’s Day raises the alarm, California takes customers off of the endless phone hold — and other wins worth a little noise.",
       "link": "https://www.levernews.com/you-love-to-see-it-the-phone-tree-gets-the-ax/",
       "published": "2026-10-17T13:05:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "7e44260eb632",
-      "source": "The Intercept",
-      "headline": "Dems Have an Opportunity to Force an End to the Iran War. Will They Take It?",
-      "excerpt": "With Democrats campaigning on ending the war, advocates want them to put their money where their mouth is and risk a lame-duck shutdown. The post Dems Have an Opportunity to Force an End to the Iran War. Will They Take...",
-      "link": "https://theintercept.com/2026/10/17/congress-democrats-iran-war-end-strategy/",
-      "published": "2026-10-17T09:57:00+00:00",
       "featured": false
     },
     {
@@ -326,21 +326,30 @@
       "featured": false
     },
     {
-      "id": "7be491fe2994",
+      "id": "62b6c890e51b",
       "source": "Al Jazeera",
-      "headline": "Residents hoisted from rooftops amid Spain’s deadly flooding",
-      "excerpt": "Spain’s military is hoisting residents from the rooftops of their flooded homes.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/19/residents-hoisted-from-rooftops-amid-spains-deadly-flooding?traffic_source=rss",
-      "published": "2026-10-19T19:38:40+00:00",
+      "headline": "Mahmoud Khalil takes deportation fight to the US Supreme Court",
+      "excerpt": "Lawyers for the former student leader seek to overturn an appeals court decision that would allow for his removal.",
+      "link": "https://www.aljazeera.com/news/2026/10/19/mahmoud-khalil-takes-deportation-fight-to-the-us-supreme-court?traffic_source=rss",
+      "published": "2026-10-19T23:56:32+00:00",
       "featured": false
     },
     {
-      "id": "acba48578ee7",
+      "id": "c4faf892a051",
       "source": "404 Media",
-      "headline": "This Might Be the Earliest Known Spear Murder In Earth’s History",
-      "excerpt": "Archaeologists have discovered a puncture wound from a spear in the shoulder blade of a Neanderthal that lived 75,000 years ago, offering a possible glimpse of early interpersonal violence.",
-      "link": "https://www.404media.co/this-might-be-the-earliest-known-spear-murder-in-earths-history/",
-      "published": "2026-10-17T13:36:29+00:00",
+      "headline": "How a Massive Chinese Crime Ring Hacked Staples to Steal Millions",
+      "excerpt": "A sophisticated organized crime gang hacked into Staples, issued millions of dollars worth of gift cards, and went on a spending spree across the U.S.",
+      "link": "https://www.404media.co/how-a-massive-chinese-crime-ring-hacked-staples-to-steal-millions/",
+      "published": "2026-10-19T13:23:31+00:00",
+      "featured": false
+    },
+    {
+      "id": "5c0b74bd4c07",
+      "source": "ProPublica",
+      "headline": "Trump Appointees Asked a Federal Cybersecurity Agency to Secretly Acquire a Voting Machine — and Hack It",
+      "excerpt": "The post Trump Appointees Asked a Federal Cybersecurity Agency to Secretly Acquire a Voting Machine — and Hack It appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/cisa-election-security-donald-trump",
+      "published": "2026-10-19T09:00:00+00:00",
       "featured": false
     },
     {
@@ -353,30 +362,21 @@
       "featured": false
     },
     {
+      "id": "7e44260eb632",
+      "source": "The Intercept",
+      "headline": "Dems Have an Opportunity to Force an End to the Iran War. Will They Take It?",
+      "excerpt": "With Democrats campaigning on ending the war, advocates want them to put their money where their mouth is and risk a lame-duck shutdown. The post Dems Have an Opportunity to Force an End to the Iran War. Will They Take...",
+      "link": "https://theintercept.com/2026/10/17/congress-democrats-iran-war-end-strategy/",
+      "published": "2026-10-17T09:57:00+00:00",
+      "featured": false
+    },
+    {
       "id": "27af0a82fdf0",
       "source": "The Lever",
       "headline": "LeverMind Quiz: Why Is There So Much Money In Elections?",
       "excerpt": "Test your knowledge of midterm spending, Wall Street loopholes, and other issues that really matter.",
       "link": "https://www.levernews.com/levermind-quiz-why-is-there-so-much-money-in-elections/",
       "published": "2026-10-16T17:43:19+00:00",
-      "featured": false
-    },
-    {
-      "id": "1ab2fa02bc2b",
-      "source": "The Intercept",
-      "headline": "DHS Was Designed as a Weapon",
-      "excerpt": "Rep. Delia Ramirez and writers Rozina Ali and Will Sommer discuss the ICE raid on Ilhan Omar and the years of “counterterror” surveillance that paved the way for the Trump administration’s abuses. The post DHS Was...",
-      "link": "https://theintercept.com/2026/10/16/ice-raid-ilhan-omar-dhs-trump/",
-      "published": "2026-10-16T10:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "10accce89ccf",
-      "source": "ProPublica",
-      "headline": "“Devoid of Any Factual Basis”: Again and Again, Judges Have Dismissed Trump’s Voter Data Lawsuits",
-      "excerpt": "The post “Devoid of Any Factual Basis”: Again and Again, Judges Have Dismissed Trump’s Voter Data Lawsuits appeared first on ProPublica.",
-      "link": "https://projects.propublica.org/trump-doj-voter-data-lawsuits",
-      "published": "2026-10-16T09:00:00+00:00",
       "featured": false
     },
     {
@@ -425,21 +425,21 @@
       "featured": false
     },
     {
-      "id": "479a318e1207",
+      "id": "0a6d412018cf",
       "source": "Al Jazeera",
-      "headline": "Indian court extends detention of ‘Cockroach’ leaders",
-      "excerpt": "The extension of the custody of the CJP activists comes amid a crackdown on near daily protests against the government.",
-      "link": "https://www.aljazeera.com/news/2026/10/19/indian-court-extends-detention-of-cockroach-leaders?traffic_source=rss",
-      "published": "2026-10-19T19:09:22+00:00",
+      "headline": "Colombia illegal gold mine collapse kills 14 people",
+      "excerpt": "Illegal gold mine collapse in southwestern Columbia leaves 14 people dead, 7 injured.",
+      "link": "https://www.aljazeera.com/news/2026/10/19/colombia-illegal-gold-mine-collapse-kills-14-people?traffic_source=rss",
+      "published": "2026-10-19T23:56:17+00:00",
       "featured": false
     },
     {
-      "id": "9a8033c6eca1",
+      "id": "acba48578ee7",
       "source": "404 Media",
-      "headline": "Behind the Blog: Doing Whatever",
-      "excerpt": "This week, we discuss a new pod setup, video games, and Elon's spending habits.",
-      "link": "https://www.404media.co/behind-the-blog-doing-whatever/",
-      "published": "2026-10-16T16:43:19+00:00",
+      "headline": "This Might Be the Earliest Known Spear Murder In Earth’s History",
+      "excerpt": "Archaeologists have discovered a puncture wound from a spear in the shoulder blade of a Neanderthal that lived 75,000 years ago, offering a possible glimpse of early interpersonal violence.",
+      "link": "https://www.404media.co/this-might-be-the-earliest-known-spear-murder-in-earths-history/",
+      "published": "2026-10-17T13:36:29+00:00",
       "featured": false
     },
     {
@@ -461,12 +461,21 @@
       "featured": false
     },
     {
-      "id": "8e0c6980fc9f",
+      "id": "1ab2fa02bc2b",
       "source": "The Intercept",
-      "headline": "Long After the Maui Fires, Toxic Metals Linger in Residents’ Bodies",
-      "excerpt": "The toxic exposures didn’t begin with the flames. Researchers are examining how fires affected a community already harmed by plantation agriculture, development, and colonialism. The post Long After the Maui Fires,...",
-      "link": "https://theintercept.com/2026/10/16/maui-wildfire-toxic-metals/",
-      "published": "2026-10-16T08:45:00+00:00",
+      "headline": "DHS Was Designed as a Weapon",
+      "excerpt": "Rep. Delia Ramirez and writers Rozina Ali and Will Sommer discuss the ICE raid on Ilhan Omar and the years of “counterterror” surveillance that paved the way for the Trump administration’s abuses. The post DHS Was...",
+      "link": "https://theintercept.com/2026/10/16/ice-raid-ilhan-omar-dhs-trump/",
+      "published": "2026-10-16T10:00:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "10accce89ccf",
+      "source": "ProPublica",
+      "headline": "“Devoid of Any Factual Basis”: Again and Again, Judges Have Dismissed Trump’s Voter Data Lawsuits",
+      "excerpt": "The post “Devoid of Any Factual Basis”: Again and Again, Judges Have Dismissed Trump’s Voter Data Lawsuits appeared first on ProPublica.",
+      "link": "https://projects.propublica.org/trump-doj-voter-data-lawsuits",
+      "published": "2026-10-16T09:00:00+00:00",
       "featured": false
     },
     {
@@ -476,15 +485,6 @@
       "excerpt": "A young Kazakh man founded two major educational ventures that went on to receive significant state support. Reporters found that he is the grand-nephew of Kazakh President Kassym-Jomart Tokayev.",
       "link": "https://www.occrp.org/en/scoop/a-23-year-old-kazakh-owns-two-new-state-backed-universities-hes-the-presidents-great-nephew",
       "published": "2026-10-16T05:30:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "2d3b84c67787",
-      "source": "ProPublica",
-      "headline": "Trump Says the Border Is Secure. Texas Gov. Greg Abbott Keeps Declaring an Emergency.",
-      "excerpt": "The post Trump Says the Border Is Secure. Texas Gov. Greg Abbott Keeps Declaring an Emergency. appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/greg-abbott-border-security-disaster-proclamation",
-      "published": "2026-10-15T10:00:00+00:00",
       "featured": false
     },
     {
@@ -515,21 +515,21 @@
       "featured": false
     },
     {
-      "id": "8dc9a6099a76",
+      "id": "70ce187b8654",
       "source": "Al Jazeera",
-      "headline": "Protesters block Louvre in support of French student movement",
-      "excerpt": "French students are now blockading the world’s busiest museum.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/19/protesters-block-louvre-in-support-of-french-student-movement?traffic_source=rss",
-      "published": "2026-10-19T18:39:27+00:00",
+      "headline": "Tehran rejects any role in plot to kill leaders of German Jewish groups",
+      "excerpt": "Tehran summons German envoy after two men convicted of trying to kill leaders of Jewish groups, rejects any role.",
+      "link": "https://www.aljazeera.com/news/2026/10/19/tehran-rejects-any-role-in-plot-to-kill-leaders-of-jewish-groups?traffic_source=rss",
+      "published": "2026-10-19T23:16:01+00:00",
       "featured": false
     },
     {
-      "id": "68fedabd5a75",
+      "id": "9a8033c6eca1",
       "source": "404 Media",
-      "headline": "Podcast: Cops Can Use AI to Pinpoint Your Home with Just One Photo",
-      "excerpt": "How Raven, previously known as Geospy, can now find which house a photo was taken in; why a judge ruled a Flock search unconstitutional; and the wild AI video in a court case.",
-      "link": "https://www.404media.co/podcast-cops-can-use-ai-to-pinpoint-your-home-with-just-one-photo/",
-      "published": "2026-10-16T15:40:44+00:00",
+      "headline": "Behind the Blog: Doing Whatever",
+      "excerpt": "This week, we discuss a new pod setup, video games, and Elon's spending habits.",
+      "link": "https://www.404media.co/behind-the-blog-doing-whatever/",
+      "published": "2026-10-16T16:43:19+00:00",
       "featured": false
     },
     {
