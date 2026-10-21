@@ -1,13 +1,22 @@
 {
-  "generated_at": "2026-10-20T23:53:32.345346+00:00",
+  "generated_at": "2026-10-21T04:49:37.849963+00:00",
   "articles": [
     {
-      "id": "fb99c86dcf71",
+      "id": "a52d8cf9065a",
       "source": "Al Jazeera",
-      "headline": "NATO to send additional patrol planes to Black Sea after drone attacks",
-      "excerpt": "The alliance announces the deployment after a series of deadly drone attacks in the region.",
-      "link": "https://www.aljazeera.com/news/2026/10/20/nato-to-send-additional-patrol-planes-to-black-sea-after-drone-attacks?traffic_source=rss",
-      "published": "2026-10-20T23:19:52+00:00",
+      "headline": "Italy approves sweeping security measures in response to protests",
+      "excerpt": "Italy's government approves sending 500 troops to Milan after clashes and protests.",
+      "link": "https://www.aljazeera.com/news/2026/10/21/italy-approves-sweeping-security-measures-in-response-to-protests?traffic_source=rss",
+      "published": "2026-10-21T04:13:00+00:00",
+      "featured": true
+    },
+    {
+      "id": "3997f07e5aba",
+      "source": "ProPublica",
+      "headline": "The Secret Terms of Trump’s Venezuelan Oil Deal",
+      "excerpt": "The post The Secret Terms of Trump’s Venezuelan Oil Deal appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/trump-venezuela-oil-agreement-terms",
+      "published": "2026-10-21T01:53:00+00:00",
       "featured": true
     },
     {
@@ -26,7 +35,7 @@
       "excerpt": "Swing voters are furious about something most people can barely name: surveillance pricing.",
       "link": "https://www.levernews.com/lindsay-owens-ai-surveillance-pricing/",
       "published": "2026-10-20T19:58:14+00:00",
-      "featured": true
+      "featured": false
     },
     {
       "id": "41b9301e68b7",
@@ -62,15 +71,6 @@
       "excerpt": "We investigated what's really going on with Flock. We found libertarians, conservatives, liberals and leftists fighting surveillance together.",
       "link": "https://substack.perfectunion.us/p/police-departments-are-cancelling",
       "published": "2026-10-20T12:31:39+00:00",
-      "featured": false
-    },
-    {
-      "id": "fb98dcce3635",
-      "source": "ProPublica",
-      "headline": "How Trump’s FBI Purge Saved Lindsey Graham and James Clyburn From a Bribery Investigation",
-      "excerpt": "The post How Trump’s FBI Purge Saved Lindsey Graham and James Clyburn From a Bribery Investigation appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/navatek-lindsey-graham-jim-clyburn-fbi-anti-corruption-bribery",
-      "published": "2026-10-20T09:00:00+00:00",
       "featured": false
     },
     {
@@ -110,18 +110,18 @@
       "featured": false
     },
     {
-      "id": "1d83a3789308",
+      "id": "722bd29e45dd",
       "source": "Al Jazeera",
-      "headline": "The Gambia to pay reparations to ex-dictator’s victims from sale of US mansion",
-      "excerpt": "The Gambia confirmed it received $2.5m from the sale of a US mansion belonging to former president Jammeh.",
-      "link": "https://www.aljazeera.com/news/2026/10/20/the-gambia-to-pay-reparations-to-ex-dictators-victims-from-sale-of-us-mansion?traffic_source=rss",
-      "published": "2026-10-20T22:51:35+00:00",
+      "headline": "Elon Musk says SpaceX and Tesla exploring largest merger in history",
+      "excerpt": "Tech mogul says tie-up has a 'lot of merit', given firms' complementary work on AI.",
+      "link": "https://www.aljazeera.com/economy/2026/10/21/elon-musk-says-spacex-and-tesla-exploring-largest-merger-in?traffic_source=rss",
+      "published": "2026-10-21T03:51:39+00:00",
       "featured": false
     },
     {
       "id": "72098d4ac4ba",
       "source": "The Lever",
-      "headline": "Medicare For None",
+      "headline": "Why Are Democrats The Party Of No?",
       "excerpt": "Weeks before the midterms, the Democratic establishment is insisting their party must stand against the public’s policy demands.",
       "link": "https://www.levernews.com/medicare-for-none/",
       "published": "2026-10-20T19:42:40+00:00",
@@ -155,12 +155,12 @@
       "featured": false
     },
     {
-      "id": "60f9205055d7",
+      "id": "fb98dcce3635",
       "source": "ProPublica",
-      "headline": "Citing ProPublica, Lawmakers Introduce Bill to Help U.S. Citizens Sue ICE for Wrongful Detentions",
-      "excerpt": "The post Citing ProPublica, Lawmakers Introduce Bill to Help U.S. Citizens Sue ICE for Wrongful Detentions appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/american-citizens-wrongfully-detained-ice-bill",
-      "published": "2026-10-19T20:15:00+00:00",
+      "headline": "How Trump’s FBI Purge Saved Lindsey Graham and James Clyburn From a Bribery Investigation",
+      "excerpt": "The post How Trump’s FBI Purge Saved Lindsey Graham and James Clyburn From a Bribery Investigation appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/navatek-lindsey-graham-jim-clyburn-fbi-anti-corruption-bribery",
+      "published": "2026-10-20T09:00:00+00:00",
       "featured": false
     },
     {
@@ -218,18 +218,18 @@
       "featured": false
     },
     {
-      "id": "dadd66fbb976",
+      "id": "a15363a8c0a8",
       "source": "Al Jazeera",
-      "headline": "‘I don’t care how it’s done’: Trump pressures Ukraine to cut peace deal",
-      "excerpt": "The US president's remarks come amid a deepening feud with Ukraine's President Volodymyr Zelenskyy.",
-      "link": "https://www.aljazeera.com/news/2026/10/20/i-dont-care-how-its-done-trump-pressures-ukraine-to-cut-peace-deal?traffic_source=rss",
-      "published": "2026-10-20T22:20:13+00:00",
+      "headline": "Faecal waste pollutes drinking water in Mexico’s Yucatan, Greenpeace says",
+      "excerpt": "The report says nearby pig farms and municipal wastewater are the likely sources of contamination.",
+      "link": "https://www.aljazeera.com/news/2026/10/21/faecal-waste-pollutes-drinking-water-in-mexicos-yucatan-greenpeace-says?traffic_source=rss",
+      "published": "2026-10-21T03:02:29+00:00",
       "featured": false
     },
     {
       "id": "90f8d36677c3",
       "source": "The Lever",
-      "headline": "The Last-Ditch Effort To Sink El-Sayed",
+      "headline": "The Mystery Voter Guide Using Democrats To Elect Mike Rogers",
       "excerpt": "The GOP’s Mike Rogers curiously joins other Democrats on a “pro-democracy” flyer distributed in Michigan.",
       "link": "https://www.levernews.com/the-last-ditch-effort-to-sink-el-sayed/",
       "published": "2026-10-20T19:40:06+00:00",
@@ -263,21 +263,21 @@
       "featured": false
     },
     {
+      "id": "60f9205055d7",
+      "source": "ProPublica",
+      "headline": "Citing ProPublica, Lawmakers Introduce Bill to Help U.S. Citizens Sue ICE for Wrongful Detentions",
+      "excerpt": "The post Citing ProPublica, Lawmakers Introduce Bill to Help U.S. Citizens Sue ICE for Wrongful Detentions appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/american-citizens-wrongfully-detained-ice-bill",
+      "published": "2026-10-19T20:15:00+00:00",
+      "featured": false
+    },
+    {
       "id": "7b39fbacc879",
       "source": "Dropsite News",
       "headline": "UN cuts food aid to 500,000 Palestinians in Gaza; 7th ICE detainee found dead in Texas this year; France arrests 2,400 in mass protests",
       "excerpt": "Drop Site Daily: October 19, 2026",
       "link": "https://www.dropsitenews.com/p/un-food-aid-palestine-gaza-ice-texas-detainee-france-arrests-protests",
       "published": "2026-10-19T14:42:15+00:00",
-      "featured": false
-    },
-    {
-      "id": "2d56991742df",
-      "source": "ProPublica",
-      "headline": "He Tried to Set Limits on His State’s School Vouchers. Billionaires Helped Bankroll a Campaign to Unseat Him.",
-      "excerpt": "The post He Tried to Set Limits on His State’s School Vouchers. Billionaires Helped Bankroll a Campaign to Unseat Him. appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/west-virginia-school-choice-billionaires-vernon-criss",
-      "published": "2026-10-19T10:00:00+00:00",
       "featured": false
     },
     {
@@ -326,12 +326,12 @@
       "featured": false
     },
     {
-      "id": "a9efbe40fa9c",
+      "id": "5e2a2d6f3a3f",
       "source": "Al Jazeera",
-      "headline": "Trump commits more than $400m ahead of high-stakes midterm elections",
-      "excerpt": "The president's Republican Party seeks to maintain its hold over both chambers of Congress, despite declining polls.",
-      "link": "https://www.aljazeera.com/news/2026/10/20/trump-commits-more-than-400m-ahead-of-high-stakes-midterm-elections?traffic_source=rss",
-      "published": "2026-10-20T21:27:38+00:00",
+      "headline": "Portugal cost-of-living protesters pour back into camps cleared by police",
+      "excerpt": "Police arrested 55 people while clearing protest camps in Lisbon and Porto.",
+      "link": "https://www.aljazeera.com/news/2026/10/21/portugal-cost-of-living-protesters-pour-back-into-camps-cleared-by-police?traffic_source=rss",
+      "published": "2026-10-21T02:19:06+00:00",
       "featured": false
     },
     {
@@ -362,21 +362,21 @@
       "featured": false
     },
     {
+      "id": "2d56991742df",
+      "source": "ProPublica",
+      "headline": "He Tried to Set Limits on His State’s School Vouchers. Billionaires Helped Bankroll a Campaign to Unseat Him.",
+      "excerpt": "The post He Tried to Set Limits on His State’s School Vouchers. Billionaires Helped Bankroll a Campaign to Unseat Him. appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/west-virginia-school-choice-billionaires-vernon-criss",
+      "published": "2026-10-19T10:00:00+00:00",
+      "featured": false
+    },
+    {
       "id": "30ababfdd774",
       "source": "The Intercept",
       "headline": "The Army Wants to Sic AI Agents on Its Enemies. What Could Go Wrong?",
       "excerpt": "Documents obtained by The Intercept show the military is trying to deploy autonomous AI agents to hack its adversaries. The post The Army Wants to Sic AI Agents on Its Enemies. What Could Go Wrong? appeared first on The...",
       "link": "https://theintercept.com/2026/10/19/army-autonomous-ai-agents-arcyber/",
       "published": "2026-10-19T10:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "2b56a2d95364",
-      "source": "ProPublica",
-      "headline": "Ken Paxton’s Anti-Abortion Influence Already Extended Beyond Texas. He Could Take It Further in the Senate.",
-      "excerpt": "The post Ken Paxton’s Anti-Abortion Influence Already Extended Beyond Texas. He Could Take It Further in the Senate. appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/ken-paxton-texas-abortion-senate",
-      "published": "2026-10-19T09:30:00+00:00",
       "featured": false
     },
     {
@@ -425,12 +425,12 @@
       "featured": false
     },
     {
-      "id": "1cb4d33f78ba",
+      "id": "787b9518bd85",
       "source": "Al Jazeera",
-      "headline": "PSG score late to sink Barcelona 4-2 in Champions League blockbuster",
-      "excerpt": "Late strikes by Vitinha and Fabian Ruiz grab victory for PSG as they aim to win the UCL for third season running.",
-      "link": "https://www.aljazeera.com/sports/2026/10/20/psg-sink-barcelona-4-2-for-third-champions-league-win-in-a-row?traffic_source=rss",
-      "published": "2026-10-20T21:24:06+00:00",
+      "headline": "Drone strike on Abyei market near Sudan-South Sudan border kills 150",
+      "excerpt": "Drone strike on Abyei market near Sudan-South Sudan border kills 150",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/21/drone-strike-on-abyei-market-near-sudan-south-sudan-border-kills-150?traffic_source=rss",
+      "published": "2026-10-21T02:18:10+00:00",
       "featured": false
     },
     {
@@ -461,12 +461,12 @@
       "featured": false
     },
     {
-      "id": "5c0b74bd4c07",
+      "id": "2b56a2d95364",
       "source": "ProPublica",
-      "headline": "Trump Appointees Asked a Federal Cybersecurity Agency to Secretly Acquire a Voting Machine — and Hack It",
-      "excerpt": "The post Trump Appointees Asked a Federal Cybersecurity Agency to Secretly Acquire a Voting Machine — and Hack It appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/cisa-election-security-donald-trump",
-      "published": "2026-10-19T09:00:00+00:00",
+      "headline": "Ken Paxton’s Anti-Abortion Influence Already Extended Beyond Texas. He Could Take It Further in the Senate.",
+      "excerpt": "The post Ken Paxton’s Anti-Abortion Influence Already Extended Beyond Texas. He Could Take It Further in the Senate. appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/ken-paxton-texas-abortion-senate",
+      "published": "2026-10-19T09:30:00+00:00",
       "featured": false
     },
     {
@@ -515,12 +515,12 @@
       "featured": false
     },
     {
-      "id": "21e37893902c",
+      "id": "0a20706bc5f2",
       "source": "Al Jazeera",
-      "headline": "US food importer sues Trump over 50 percent tariffs on Canadian goods",
-      "excerpt": "The lawsuit argues Trump bypassed Congress and misused a Depression-era law to impose tariffs on Canadian imports.",
-      "link": "https://www.aljazeera.com/economy/2026/10/20/us-food-importer-sues-trump-over-50-percent-tariffs-on-canadian-goods?traffic_source=rss",
-      "published": "2026-10-20T21:19:12+00:00",
+      "headline": "UN experts call on India to stop using ‘excessive force’ against protesters",
+      "excerpt": "UN experts press for an ⁠independent investigation into Indian authorities' conduct.",
+      "link": "https://www.aljazeera.com/news/2026/10/21/un-experts-call-on-india-to-stop-using-excessive-force-against-protesters?traffic_source=rss",
+      "published": "2026-10-21T01:43:38+00:00",
       "featured": false
     },
     {
@@ -533,12 +533,12 @@
       "featured": false
     },
     {
-      "id": "1a7401e135df",
-      "source": "The Lever",
-      "headline": "Lever Weekly: Wall Street Wants You Quiet",
-      "excerpt": "The wealth tax, assault rifles, shareholder antics, and more from The Lever this week.",
-      "link": "https://www.levernews.com/lever-weekly-wall-street-wants-you-quiet/",
-      "published": "2026-10-18T13:06:00+00:00",
+      "id": "5c0b74bd4c07",
+      "source": "ProPublica",
+      "headline": "Trump Appointees Asked a Federal Cybersecurity Agency to Secretly Acquire a Voting Machine — and Hack It",
+      "excerpt": "The post Trump Appointees Asked a Federal Cybersecurity Agency to Secretly Acquire a Voting Machine — and Hack It appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/cisa-election-security-donald-trump",
+      "published": "2026-10-19T09:00:00+00:00",
       "featured": false
     }
   ]
