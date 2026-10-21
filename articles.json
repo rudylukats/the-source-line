@@ -1,32 +1,59 @@
 {
-  "generated_at": "2026-10-21T11:50:31.185350+00:00",
+  "generated_at": "2026-10-21T17:13:33.055132+00:00",
   "articles": [
     {
-      "id": "e2ef74ca403c",
+      "id": "0ff296c0629c",
+      "source": "404 Media",
+      "headline": "Cops Warned to Look for ‘Suspicious Behavior’ From People Opposing Flock at City Council Meetings",
+      "excerpt": "A surveillance document tells cops to expect \"emotional confrontations\" at Flock city council meetings.",
+      "link": "https://www.404media.co/cops-warned-to-look-for-suspicious-behavior-from-people-opposing-flock-at-city-council-meetings/",
+      "published": "2026-10-21T17:09:47+00:00",
+      "featured": true
+    },
+    {
+      "id": "fc442273ea80",
       "source": "Al Jazeera",
-      "headline": "Cost of living protests aren’t just happening in Europe",
-      "excerpt": "Cost of living protests aren’t just happening in Europe",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/21/cost-of-living-protests-arent-just-happening-in-europe?traffic_source=rss",
-      "published": "2026-10-21T10:49:44+00:00",
+      "headline": "Macron’s surprise ‘solidarity’ visit to Saudi Arabia",
+      "excerpt": "French President Emmanuel Macron made a surprise stop in Riyadh to meet Saudi Crown Prince during his ongoing Gulf tour.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/21/macrons-surprise-solidarity-visit-to-saudi-arabia?traffic_source=rss",
+      "published": "2026-10-21T16:34:27+00:00",
       "featured": true
     },
     {
-      "id": "b83640cd0445",
-      "source": "ProPublica",
-      "headline": "“The River Can’t Be Trusted”",
-      "excerpt": "The post “The River Can’t Be Trusted” appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/wildfire-flood-risk-ruidoso-new-mexico",
-      "published": "2026-10-21T10:00:00+00:00",
-      "featured": true
-    },
-    {
-      "id": "672fa9c4a1e0",
+      "id": "c510ca9d31ee",
       "source": "The Intercept",
-      "headline": "Trump’s Obsession With Somalia Isn’t Just Racist. It’s Been Lethal.",
-      "excerpt": "Beyond targeting Rep. Ilhan Omar, the Trump administration has killed, arrested, deported, and demonized Somalis at home and abroad. The post Trump’s Obsession With Somalia Isn’t Just Racist. It’s Been Lethal. appeared...",
-      "link": "https://theintercept.com/2026/10/21/trump-ilhan-omar-somalia-war/",
-      "published": "2026-10-21T10:00:00+00:00",
+      "headline": "Google DeepMind Engineer Resigns in Protest of Pentagon Contract",
+      "excerpt": "Sofia Liguori stepped down from DeepMind due to current military contracts — not speculative fears of an AI apocalypse. The post Google DeepMind Engineer Resigns in Protest of Pentagon Contract appeared first on The...",
+      "link": "https://theintercept.com/2026/10/21/google-deepmind-resign-ai-military-gaza/",
+      "published": "2026-10-21T16:25:02+00:00",
       "featured": true
+    },
+    {
+      "id": "e06dd7eb8dfd",
+      "source": "ICIJ",
+      "headline": "Kremlin payment firm A7 has been pumping billions in ‘untraceable’ cash into global financial system",
+      "excerpt": "Documents show the sanctioned payments firm has handled at least 283 tons of rubles gathered in Moscow’s giant trading halls, processed and trucked to Russia’s main defense bank.",
+      "link": "https://www.icij.org/news/2026/10/kremlin-payment-firm-a7-has-been-pumping-billions-in-untraceable-cash-into-global-financial-system/",
+      "published": "2026-10-21T16:08:13+00:00",
+      "featured": false
+    },
+    {
+      "id": "5469ad5a4126",
+      "source": "ProPublica",
+      "headline": "Colorado Marijuana Regulators Failed to Protect Consumers From Potential Contamination, Audit Finds",
+      "excerpt": "The post Colorado Marijuana Regulators Failed to Protect Consumers From Potential Contamination, Audit Finds appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/colorado-marijuana-enforcement-division-audit-findings",
+      "published": "2026-10-21T15:35:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "b608216f9c00",
+      "source": "Dropsite News",
+      "headline": "Hospitals in Gaza face power shutdowns; U.S. polling firm admits fabricating data; Water crisis in Yemen",
+      "excerpt": "Drop Site Daily: October 21, 2026",
+      "link": "https://www.dropsitenews.com/p/hospitals-gaza-shutdowns-us-polling-wedgewood-yemen-ansarallah-water-crisis",
+      "published": "2026-10-21T15:22:47+00:00",
+      "featured": false
     },
     {
       "id": "9df4495ba462",
@@ -44,24 +71,6 @@
       "excerpt": "",
       "link": "https://www.occrp.org/en/news/vucic-rejects-russia-sanctions-blames-foreign-powers-for-protests",
       "published": "2026-10-20T18:16:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "8496c0c8602d",
-      "source": "404 Media",
-      "headline": "DHS Said They Searched Man Who Wiped GrapheneOS Phone for Child Abuse Material. They Lied",
-      "excerpt": "Officials said they wanted to search the phone of Samuel Tunick, a Stop Cop City activist, for child abuse material. It was actually because he was suspected of “terrorist activities.”",
-      "link": "https://www.404media.co/dhs-said-they-searched-man-who-wiped-grapheneos-phone-for-child-abuse-material-they-lied/",
-      "published": "2026-10-20T16:00:10+00:00",
-      "featured": false
-    },
-    {
-      "id": "3a6191d77228",
-      "source": "Dropsite News",
-      "headline": "Sudan drone strikes kill 160+; Oil hits five-month high; Mahmoud Khalil appeals to SCOTUS",
-      "excerpt": "Drop Site Daily: October 20, 2026",
-      "link": "https://www.dropsitenews.com/p/sudan-drone-strikes-oil-hormuz--iran-yemen-mahmoud-khalil-scotus",
-      "published": "2026-10-20T15:41:51+00:00",
       "featured": false
     },
     {
@@ -83,15 +92,6 @@
       "featured": false
     },
     {
-      "id": "e5cf0a35cf61",
-      "source": "ICIJ",
-      "headline": "Panama removed from EU’s tax haven ‘blacklist’ a decade after the Panama Papers",
-      "excerpt": "Ten years after ICIJ’s investigation exposed the country as a corporate haven, regulations and checks have been put in place to deal with the reputational damage.",
-      "link": "https://www.icij.org/investigations/panama-papers/panama-removed-from-eus-tax-haven-blacklist-a-decade-after-the-panama-papers/",
-      "published": "2026-10-15T18:44:05+00:00",
-      "featured": false
-    },
-    {
       "id": "2ab0e270aa93",
       "source": "Bellingcat",
       "headline": "Satellite Images Show Extent of Trump Admin’s Tree-Felling at DC Golf Course",
@@ -110,30 +110,39 @@
       "featured": false
     },
     {
-      "id": "d5e98630f32a",
+      "id": "32d8a03dddd9",
       "source": "Al Jazeera",
-      "headline": "Kvaratskhelia, Dembele and Marquinhos out injured after PSG’s win",
-      "excerpt": "Kvaratskhelia out for months with a torn ACL in his right knee, while Dembele and Marquinhos suffer thigh muscle tears.",
-      "link": "https://www.aljazeera.com/sports/2026/10/21/kvaratskhelia-dembele-and-marquinhos-out-injured-after-psgs-win?traffic_source=rss",
-      "published": "2026-10-21T10:45:01+00:00",
+      "headline": "Real Madrid vs RB Leipzig LIVE: Champions League",
+      "excerpt": "Follow updates, with team news, from our live text commentary stream coverage as Mbappe and Bellingham headline.",
+      "link": "https://www.aljazeera.com/sports/liveblog/2026/10/21/real-madrid-vs-rb-leipzig-live-champions-league?traffic_source=rss",
+      "published": "2026-10-21T16:01:56+00:00",
       "featured": false
     },
     {
-      "id": "77d5fe11d8ee",
+      "id": "5c6af7d29d4e",
+      "source": "404 Media",
+      "headline": "Someone Opened a CashApp In Her Name. She Faces Years in Prison",
+      "excerpt": "Amanda Smith is charged with computer fraud due to a scam CashApp account being in her name. But in a Kafkaesque situation, CashApp won't provide her any information because she can't prove she is the owner.",
+      "link": "https://www.404media.co/amanda-smith-opened-a-cashapp-in-her-name-she-faces-years-in-prison-cashapp-fraud/",
+      "published": "2026-10-21T13:59:55+00:00",
+      "featured": false
+    },
+    {
+      "id": "b83640cd0445",
       "source": "ProPublica",
-      "headline": "Town Leaders Said They Were Prepared for Floods. First Responders Disagree.",
-      "excerpt": "The post Town Leaders Said They Were Prepared for Floods. First Responders Disagree. appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/ruidoso-flood-emergency-response-water-rescue",
-      "published": "2026-10-21T09:55:00+00:00",
+      "headline": "“The River Can’t Be Trusted”",
+      "excerpt": "The post “The River Can’t Be Trusted” appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/wildfire-flood-risk-ruidoso-new-mexico",
+      "published": "2026-10-21T10:00:00+00:00",
       "featured": false
     },
     {
-      "id": "5232203f1fc6",
+      "id": "672fa9c4a1e0",
       "source": "The Intercept",
-      "headline": "Kohen Wiley’s Family Says Investigators Didn’t Contact Them Before Concluding Cops Did No Wrong",
-      "excerpt": "Mississippi has yet to release any support for its claim that a “thorough and impartial” review showed the shooting was “justified.” The post Kohen Wiley’s Family Says Investigators Didn’t Contact Them Before Concluding...",
-      "link": "https://theintercept.com/2026/10/20/kohen-wiley-police-shooting-mississippi/",
-      "published": "2026-10-20T22:18:47+00:00",
+      "headline": "Trump’s Obsession With Somalia Isn’t Just Racist. It’s Been Lethal.",
+      "excerpt": "Beyond targeting Rep. Ilhan Omar, the Trump administration has killed, arrested, deported, and demonized Somalis at home and abroad. The post Trump’s Obsession With Somalia Isn’t Just Racist. It’s Been Lethal. appeared...",
+      "link": "https://theintercept.com/2026/10/21/trump-ilhan-omar-somalia-war/",
+      "published": "2026-10-21T10:00:00+00:00",
       "featured": false
     },
     {
@@ -155,21 +164,12 @@
       "featured": false
     },
     {
-      "id": "555eae0b5176",
-      "source": "404 Media",
-      "headline": "People Are Using 'AI Decompiling' to Hack Their Things",
-      "excerpt": "A gang of hackers targets Staples, but not to buy things from Staples.",
-      "link": "https://www.404media.co/people-are-using-ai-decompiling-to-hack-their-things/",
-      "published": "2026-10-20T13:51:57+00:00",
-      "featured": false
-    },
-    {
-      "id": "4356c7715dea",
+      "id": "3a6191d77228",
       "source": "Dropsite News",
-      "headline": "Israel-Backed Palestinian Militias Terrorize Displaced Families in Gaza",
-      "excerpt": "Over the past year, attacks by Israel-backed Palestinian militias have become increasingly frequent in Gaza, particularly targeting Palestinians living close to the ever expanding “yellow line.”",
-      "link": "https://www.dropsitenews.com/p/gaza-israel-backed-palestinian-militias-yellow-line-jabaliya",
-      "published": "2026-10-19T17:25:38+00:00",
+      "headline": "Sudan drone strikes kill 160+; Oil hits five-month high; Mahmoud Khalil appeals to SCOTUS",
+      "excerpt": "Drop Site Daily: October 20, 2026",
+      "link": "https://www.dropsitenews.com/p/sudan-drone-strikes-oil-hormuz--iran-yemen-mahmoud-khalil-scotus",
+      "published": "2026-10-20T15:41:51+00:00",
       "featured": false
     },
     {
@@ -191,21 +191,21 @@
       "featured": false
     },
     {
+      "id": "e5cf0a35cf61",
+      "source": "ICIJ",
+      "headline": "Panama removed from EU’s tax haven ‘blacklist’ a decade after the Panama Papers",
+      "excerpt": "Ten years after ICIJ’s investigation exposed the country as a corporate haven, regulations and checks have been put in place to deal with the reputational damage.",
+      "link": "https://www.icij.org/investigations/panama-papers/panama-removed-from-eus-tax-haven-blacklist-a-decade-after-the-panama-papers/",
+      "published": "2026-10-15T18:44:05+00:00",
+      "featured": false
+    },
+    {
       "id": "d06c183f885a",
       "source": "The Markup",
       "headline": "Patients: All my best tips on how to opt out of data sharing",
       "excerpt": "Even when patients are told they can opt out, medical providers often don’t give patients instructions on how. For patients who are interested in opting out, here are my best tips on how to start.",
       "link": "https://themarkup.org/privacy/2026/10/15/tips-how-to-opt-out-of-data-sharing",
       "published": "2026-10-15T08:30:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "a36aeadc85bc",
-      "source": "ICIJ",
-      "headline": "Leaked files reveal how Deloitte Cyprus helped Roman Abramovich hide $10B fortune",
-      "excerpt": "The sanctioned oligarch’s financial advisors in Cyprus falsified financial records in a yearslong a ploy for him to evade taxes, a new investigation by ICIJ’s media partners found.",
-      "link": "https://www.icij.org/investigations/cyprus-confidential/leaked-files-reveal-how-deloitte-cyprus-helped-roman-abramovich-hide-10b-fortune/",
-      "published": "2026-10-14T18:40:26+00:00",
       "featured": false
     },
     {
@@ -218,21 +218,39 @@
       "featured": false
     },
     {
-      "id": "f6e029263a26",
+      "id": "14e735b1a2b8",
       "source": "Al Jazeera",
-      "headline": "Why are French protesters chanting ‘Bismillah, c’est les ténèbres’?",
-      "excerpt": "The slogan has come to represent a whole array of grievances that lie at the heart of the protest movement.",
-      "link": "https://www.aljazeera.com/news/2026/10/21/why-are-french-protesters-chanting-bismillah-cest-les?traffic_source=rss",
-      "published": "2026-10-21T10:35:34+00:00",
+      "headline": "Bayern Munich vs Arsenal LIVE: Champions League",
+      "excerpt": "Follow updates on the league-phase clash, including the build-up, analysis and live text commentary of the game.",
+      "link": "https://www.aljazeera.com/sports/liveblog/2026/10/21/bayern-munich-vs-arsenal-live-champions-league?traffic_source=rss",
+      "published": "2026-10-21T16:00:00+00:00",
       "featured": false
     },
     {
-      "id": "3997f07e5aba",
+      "id": "94b385cf71d9",
+      "source": "404 Media",
+      "headline": "Chestnuts Roasting on a Data Center",
+      "excerpt": "An endangered American chestnut grove faces a new threat: A massive data center.",
+      "link": "https://www.404media.co/chestnuts-roasting-on-a-data-center/",
+      "published": "2026-10-21T13:56:25+00:00",
+      "featured": false
+    },
+    {
+      "id": "77d5fe11d8ee",
       "source": "ProPublica",
-      "headline": "The Secret Terms of Trump’s Venezuelan Oil Deal",
-      "excerpt": "The post The Secret Terms of Trump’s Venezuelan Oil Deal appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/trump-venezuela-oil-agreement-terms",
-      "published": "2026-10-21T01:53:00+00:00",
+      "headline": "Town Leaders Said They Were Prepared for Floods. First Responders Disagree.",
+      "excerpt": "The post Town Leaders Said They Were Prepared for Floods. First Responders Disagree. appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/ruidoso-flood-emergency-response-water-rescue",
+      "published": "2026-10-21T09:55:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "5232203f1fc6",
+      "source": "The Intercept",
+      "headline": "Kohen Wiley’s Family Says Investigators Didn’t Contact Them Before Concluding Cops Did No Wrong",
+      "excerpt": "Mississippi has yet to release any support for its claim that a “thorough and impartial” review showed the shooting was “justified.” The post Kohen Wiley’s Family Says Investigators Didn’t Contact Them Before Concluding...",
+      "link": "https://theintercept.com/2026/10/20/kohen-wiley-police-shooting-mississippi/",
+      "published": "2026-10-20T22:18:47+00:00",
       "featured": false
     },
     {
@@ -245,24 +263,6 @@
       "featured": false
     },
     {
-      "id": "64564639579b",
-      "source": "The Intercept",
-      "headline": "Yemenis Unable to Reach Hospital Are Part of the Iran War Death Toll",
-      "excerpt": "At least 10 patients with kidney failure near Taiz, a city under a Houthi siege, died because they were unable to get to their dialysis treatments. The post Yemenis Unable to Reach Hospital Are Part of the Iran War...",
-      "link": "https://theintercept.com/2026/10/20/yemenis-dialysis-houthi-blockade-iran-war/",
-      "published": "2026-10-20T17:31:05+00:00",
-      "featured": false
-    },
-    {
-      "id": "b23424a0c980",
-      "source": "404 Media",
-      "headline": "‘Reverse-Engineer Anything’ Is the New Wild West of AI",
-      "excerpt": "Decompiled, cloned, and modified software is going viral and might slopify everything.",
-      "link": "https://www.404media.co/reverse-engineer-anything-is-the-new-wild-west-of-ai/",
-      "published": "2026-10-20T13:42:20+00:00",
-      "featured": false
-    },
-    {
       "id": "bc94a81c93a0",
       "source": "OCCRP",
       "headline": "South Pacific Ponzi Scam “King” Noah Musingku Dies",
@@ -272,12 +272,12 @@
       "featured": false
     },
     {
-      "id": "7b39fbacc879",
+      "id": "4356c7715dea",
       "source": "Dropsite News",
-      "headline": "UN cuts food aid to 500,000 Palestinians in Gaza; 7th ICE detainee found dead in Texas this year; France arrests 2,400 in mass protests",
-      "excerpt": "Drop Site Daily: October 19, 2026",
-      "link": "https://www.dropsitenews.com/p/un-food-aid-palestine-gaza-ice-texas-detainee-france-arrests-protests",
-      "published": "2026-10-19T14:42:15+00:00",
+      "headline": "Israel-Backed Palestinian Militias Terrorize Displaced Families in Gaza",
+      "excerpt": "Over the past year, attacks by Israel-backed Palestinian militias have become increasingly frequent in Gaza, particularly targeting Palestinians living close to the ever expanding “yellow line.”",
+      "link": "https://www.dropsitenews.com/p/gaza-israel-backed-palestinian-militias-yellow-line-jabaliya",
+      "published": "2026-10-19T17:25:38+00:00",
       "featured": false
     },
     {
@@ -287,6 +287,15 @@
       "excerpt": "The developing world’s enthusiastic adoption of AI and necessity-driven innovations offer lessons for an anxiety-ridden West.",
       "link": "https://restofworld.org/2026/west-ai-anxiety-optimism-innovation/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "published": "2026-10-15T10:00:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "a36aeadc85bc",
+      "source": "ICIJ",
+      "headline": "Leaked files reveal how Deloitte Cyprus helped Roman Abramovich hide $10B fortune",
+      "excerpt": "The sanctioned oligarch’s financial advisors in Cyprus falsified financial records in a yearslong a ploy for him to evade taxes, a new investigation by ICIJ’s media partners found.",
+      "link": "https://www.icij.org/investigations/cyprus-confidential/leaked-files-reveal-how-deloitte-cyprus-helped-roman-abramovich-hide-10b-fortune/",
+      "published": "2026-10-14T18:40:26+00:00",
       "featured": false
     },
     {
@@ -308,15 +317,6 @@
       "featured": false
     },
     {
-      "id": "89a0d8d45fa1",
-      "source": "ICIJ",
-      "headline": "Tunisian court dismisses case to dissolve publisher of ICIJ partner Inkyfada",
-      "excerpt": "Despite the court victory, Inkyfada and its parent company Al Khatt still struggle to recover funds frozen by authorities.",
-      "link": "https://www.icij.org/news/2026/10/tunisian-court-dismisses-case-to-dissolve-publisher-of-icij-partner-inkyfada/",
-      "published": "2026-10-09T14:21:29+00:00",
-      "featured": false
-    },
-    {
       "id": "b97bf805f887",
       "source": "Bellingcat",
       "headline": "Viral Google Maps Images Shared Widely This Week Show Gaza Ruins. We Obtained More Recent Satellite Imagery",
@@ -326,12 +326,30 @@
       "featured": false
     },
     {
-      "id": "10dfaff4daa3",
+      "id": "659a7d7cafc6",
       "source": "Al Jazeera",
-      "headline": "UK approves development of Jackdaw gasfield in North Sea",
-      "excerpt": "The decision has drawn sharp criticism from left-wing politicians and environmentalists.",
-      "link": "https://www.aljazeera.com/news/2026/10/21/uk-approves-development-of-jackdaw-gasfield-in-north-sea?traffic_source=rss",
-      "published": "2026-10-21T10:28:18+00:00",
+      "headline": "What’s behind protests in Portugal?",
+      "excerpt": "What's behind protests in Portugal?",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/21/whats-behind-protests-in-portugal?traffic_source=rss",
+      "published": "2026-10-21T15:57:16+00:00",
+      "featured": false
+    },
+    {
+      "id": "2f8f0fc02fd3",
+      "source": "404 Media",
+      "headline": "The Chestnut Grove Caught in the Middle of A Years-Long Data Center Fight",
+      "excerpt": "A small grove of historic American chestnut trees has become the site of resistance against an AI data center in West Virginia.",
+      "link": "https://www.404media.co/west-virginia-american-chestnut-trees-data-center/",
+      "published": "2026-10-21T13:31:16+00:00",
+      "featured": false
+    },
+    {
+      "id": "3997f07e5aba",
+      "source": "ProPublica",
+      "headline": "The Secret Terms of Trump’s Venezuelan Oil Deal",
+      "excerpt": "The post The Secret Terms of Trump’s Venezuelan Oil Deal appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/trump-venezuela-oil-agreement-terms",
+      "published": "2026-10-21T01:53:00+00:00",
       "featured": false
     },
     {
@@ -344,30 +362,21 @@
       "featured": false
     },
     {
-      "id": "b1121ea925c9",
-      "source": "404 Media",
-      "headline": "Scientists Discover A Strange Particle Explains the Origin of Reality",
-      "excerpt": "Why is the universe the way it is? A long-overlooked particle might have given matter an edge over antimatter in the split-seconds after the Big Bang, which researchers say “could transform our understanding of cosmic...",
-      "link": "https://www.404media.co/scientists-discover-a-strange-particle-explains-the-origin-of-reality/",
-      "published": "2026-10-20T11:51:09+00:00",
-      "featured": false
-    },
-    {
-      "id": "fb98dcce3635",
-      "source": "ProPublica",
-      "headline": "How Trump’s FBI Purge Saved Lindsey Graham and James Clyburn From a Bribery Investigation",
-      "excerpt": "The post How Trump’s FBI Purge Saved Lindsey Graham and James Clyburn From a Bribery Investigation appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/navatek-lindsey-graham-jim-clyburn-fbi-anti-corruption-bribery",
-      "published": "2026-10-20T09:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "c894aeda3396",
+      "id": "64564639579b",
       "source": "The Intercept",
-      "headline": "Mike Rogers Spent $100K on Private Jets and Luxury Travel Last Quarter",
-      "excerpt": "The Republican running for Senate in Michigan is directing campaign funds toward chartered flights, a Miami car service, and BMW repairs. The post Mike Rogers Spent $100K on Private Jets and Luxury Travel Last Quarter...",
-      "link": "https://theintercept.com/2026/10/19/michigan-senate-mike-rogers-spending-private-jets/",
-      "published": "2026-10-19T21:43:15+00:00",
+      "headline": "Yemenis Unable to Reach Hospital Are Part of the Iran War Death Toll",
+      "excerpt": "At least 10 patients with kidney failure near Taiz, a city under a Houthi siege, died because they were unable to get to their dialysis treatments. The post Yemenis Unable to Reach Hospital Are Part of the Iran War...",
+      "link": "https://theintercept.com/2026/10/20/yemenis-dialysis-houthi-blockade-iran-war/",
+      "published": "2026-10-20T17:31:05+00:00",
+      "featured": false
+    },
+    {
+      "id": "7b39fbacc879",
+      "source": "Dropsite News",
+      "headline": "UN cuts food aid to 500,000 Palestinians in Gaza; 7th ICE detainee found dead in Texas this year; France arrests 2,400 in mass protests",
+      "excerpt": "Drop Site Daily: October 19, 2026",
+      "link": "https://www.dropsitenews.com/p/un-food-aid-palestine-gaza-ice-texas-detainee-france-arrests-protests",
+      "published": "2026-10-19T14:42:15+00:00",
       "featured": false
     },
     {
@@ -377,15 +386,6 @@
       "excerpt": "The sudden handover of the Kazakh National University of Sports follows a joint investigation by Radio Azattyq and OCCRP, which revealed how President Tokayev’s grandnephew founded educational ventures that received...",
       "link": "https://www.occrp.org/en/news/kazakh-presidents-grandnephew-donates-sport-university-to-state-following-investigative-report",
       "published": "2026-10-19T13:06:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "b1e05ac7595b",
-      "source": "Dropsite News",
-      "headline": "Trump Turns to Putin as Interests Align, Iran Forces Oil and Inflation up, Anasrallah Strikes Aramco",
-      "excerpt": "War Brief: Episode 5",
-      "link": "https://www.dropsitenews.com/p/trump-turns-to-putin-as-interests",
-      "published": "2026-10-18T15:33:06+00:00",
       "featured": false
     },
     {
@@ -416,39 +416,48 @@
       "featured": false
     },
     {
-      "id": "172becc8a5f0",
+      "id": "89a0d8d45fa1",
       "source": "ICIJ",
-      "headline": "Five years after the Pandora Papers, transparency laws lose their teeth",
-      "excerpt": "Reforms promised swiftly after ICIJ’s investigation have fallen short in New York and beyond.",
-      "link": "https://www.icij.org/investigations/pandora-papers/five-years-after-the-pandora-papers-transparency-laws-lose-their-teeth/",
-      "published": "2026-10-08T15:52:13+00:00",
+      "headline": "Tunisian court dismisses case to dissolve publisher of ICIJ partner Inkyfada",
+      "excerpt": "Despite the court victory, Inkyfada and its parent company Al Khatt still struggle to recover funds frozen by authorities.",
+      "link": "https://www.icij.org/news/2026/10/tunisian-court-dismisses-case-to-dissolve-publisher-of-icij-partner-inkyfada/",
+      "published": "2026-10-09T14:21:29+00:00",
       "featured": false
     },
     {
-      "id": "7750651687d2",
+      "id": "284af85d44de",
       "source": "Al Jazeera",
-      "headline": "WW1 to Houthis: British jets for Saudi Arabia build on long military bond",
-      "excerpt": "UK's deployment of jets to defend Saudi Arabia is the latest chapter in a relationship older than the kingdom itself.",
-      "link": "https://www.aljazeera.com/news/2026/10/21/ww1-to-houthis-british-jets-for-saudi-arabia-build-on-long-military-bond?traffic_source=rss",
-      "published": "2026-10-21T10:22:35+00:00",
+      "headline": "Canada wants to expand its LNG business. Critics raise red flags",
+      "excerpt": "As Canada’s LNG exports grow, critics raise concerns over human rights abuses linked to major corporate investors.",
+      "link": "https://www.aljazeera.com/economy/longform/2026/10/21/canada-wants-to-expand-its-lng-business-critics-raise-red-flags-2?traffic_source=rss",
+      "published": "2026-10-21T15:52:46+00:00",
       "featured": false
     },
     {
-      "id": "0b32c1bbe0fb",
+      "id": "8496c0c8602d",
       "source": "404 Media",
-      "headline": "'It Ain't Right:' Texas Said It Would Halt Data Center Permits. The State is Pushing Ahead Anyway",
-      "excerpt": "“The Caldwell Technology Park [...] the Stargate facility, and a bunch of other very large hyperscale facilities have gotten regulatory approvals [...] so it's not like a real pause.\"",
-      "link": "https://www.404media.co/it-aint-right-texas-said-it-would-halt-data-center-permits-the-state-is-pushing-ahead-anyway/",
-      "published": "2026-10-19T21:40:42+00:00",
+      "headline": "DHS Said They Searched Man Who Wiped GrapheneOS Phone for Child Abuse Material. They Lied",
+      "excerpt": "Officials said they wanted to search the phone of Samuel Tunick, a Stop Cop City activist, for child abuse material. It was actually because he was suspected of “terrorist activities.”",
+      "link": "https://www.404media.co/dhs-said-they-searched-man-who-wiped-grapheneos-phone-for-child-abuse-material-they-lied/",
+      "published": "2026-10-20T16:00:10+00:00",
       "featured": false
     },
     {
-      "id": "60f9205055d7",
+      "id": "fb98dcce3635",
       "source": "ProPublica",
-      "headline": "Citing ProPublica, Lawmakers Introduce Bill to Help U.S. Citizens Sue ICE for Wrongful Detentions",
-      "excerpt": "The post Citing ProPublica, Lawmakers Introduce Bill to Help U.S. Citizens Sue ICE for Wrongful Detentions appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/american-citizens-wrongfully-detained-ice-bill",
-      "published": "2026-10-19T20:15:00+00:00",
+      "headline": "How Trump’s FBI Purge Saved Lindsey Graham and James Clyburn From a Bribery Investigation",
+      "excerpt": "The post How Trump’s FBI Purge Saved Lindsey Graham and James Clyburn From a Bribery Investigation appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/navatek-lindsey-graham-jim-clyburn-fbi-anti-corruption-bribery",
+      "published": "2026-10-20T09:00:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "c894aeda3396",
+      "source": "The Intercept",
+      "headline": "Mike Rogers Spent $100K on Private Jets and Luxury Travel Last Quarter",
+      "excerpt": "The Republican running for Senate in Michigan is directing campaign funds toward chartered flights, a Miami car service, and BMW repairs. The post Mike Rogers Spent $100K on Private Jets and Luxury Travel Last Quarter...",
+      "link": "https://theintercept.com/2026/10/19/michigan-senate-mike-rogers-spending-private-jets/",
+      "published": "2026-10-19T21:43:15+00:00",
       "featured": false
     },
     {
@@ -470,21 +479,12 @@
       "featured": false
     },
     {
-      "id": "30ababfdd774",
-      "source": "The Intercept",
-      "headline": "The Army Wants to Sic AI Agents on Its Enemies. What Could Go Wrong?",
-      "excerpt": "Documents obtained by The Intercept show the military is trying to deploy autonomous AI agents to hack its adversaries. The post The Army Wants to Sic AI Agents on Its Enemies. What Could Go Wrong? appeared first on The...",
-      "link": "https://theintercept.com/2026/10/19/army-autonomous-ai-agents-arcyber/",
-      "published": "2026-10-19T10:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "4c8bbf0c0ac8",
+      "id": "b1e05ac7595b",
       "source": "Dropsite News",
-      "headline": "“Win, Lose, or Draw,” Pearson Campaign Builds a Progressive Coalition in Rural Tennessee",
-      "excerpt": "Will the GOP lose a district redrawn in its favor?",
-      "link": "https://www.dropsitenews.com/p/justin-pearson-tennessee-redistricting-data-centers",
-      "published": "2026-10-17T12:09:16+00:00",
+      "headline": "Trump Turns to Putin as Interests Align, Iran Forces Oil and Inflation up, Anasrallah Strikes Aramco",
+      "excerpt": "War Brief: Episode 5",
+      "link": "https://www.dropsitenews.com/p/trump-turns-to-putin-as-interests",
+      "published": "2026-10-18T15:33:06+00:00",
       "featured": false
     },
     {
@@ -497,12 +497,12 @@
       "featured": false
     },
     {
-      "id": "8d7781724600",
+      "id": "172becc8a5f0",
       "source": "ICIJ",
-      "headline": "How Hungary’s richest man funneled millions into Orbán’s propaganda machine",
-      "excerpt": "Since 2022, companies belonging to Lőrinc Mészáros, who amassed a fortune from government contracts, donated more than $13 million to an online mouthpiece of the Fidesz party, a new Direkt36 investigation reveals.",
-      "link": "https://www.icij.org/news/2026/10/how-hungarys-richest-man-funneled-millions-into-orbans-propaganda-machine/",
-      "published": "2026-10-07T17:07:27+00:00",
+      "headline": "Five years after the Pandora Papers, transparency laws lose their teeth",
+      "excerpt": "Reforms promised swiftly after ICIJ’s investigation have fallen short in New York and beyond.",
+      "link": "https://www.icij.org/investigations/pandora-papers/five-years-after-the-pandora-papers-transparency-laws-lose-their-teeth/",
+      "published": "2026-10-08T15:52:13+00:00",
       "featured": false
     },
     {
@@ -515,30 +515,30 @@
       "featured": false
     },
     {
-      "id": "0e41075ccdac",
+      "id": "16534559b399",
       "source": "Al Jazeera",
-      "headline": "Paramilitary hitman linked to British right-wing group Turning Point UK",
-      "excerpt": "Al Jazeera exposes UK far right's links to criminal underworld.",
-      "link": "https://www.aljazeera.com/news/2026/10/21/paramilitary-hitman-linked-to-british-right-wing-group-turning-point-uk?traffic_source=rss",
-      "published": "2026-10-21T10:20:41+00:00",
+      "headline": "Catalonia’s new far right: How anti-Muslim sentiment is reshaping politics",
+      "excerpt": "The rise of Catalan Alliance is causing alarm among Muslims ahead of Spain's snap election in November.",
+      "link": "https://www.aljazeera.com/news/2026/10/21/catalonias-new-far-right-how-anti-muslim-sentiment-is-reshaping-politics?traffic_source=rss",
+      "published": "2026-10-21T15:36:42+00:00",
       "featured": false
     },
     {
-      "id": "3cbae43a8346",
+      "id": "555eae0b5176",
       "source": "404 Media",
-      "headline": "Police Say Scammers Used AI to Clone a Sheriff’s Voice",
-      "excerpt": "The scammers used the voice of a specific sheriff to impersonate him.",
-      "link": "https://www.404media.co/police-say-scammers-used-ai-to-clone-a-sheriffs-voice/",
-      "published": "2026-10-19T16:16:17+00:00",
+      "headline": "People Are Using 'AI Decompiling' to Hack Their Things",
+      "excerpt": "A gang of hackers targets Staples, but not to buy things from Staples.",
+      "link": "https://www.404media.co/people-are-using-ai-decompiling-to-hack-their-things/",
+      "published": "2026-10-20T13:51:57+00:00",
       "featured": false
     },
     {
-      "id": "2d56991742df",
+      "id": "60f9205055d7",
       "source": "ProPublica",
-      "headline": "He Tried to Set Limits on His State’s School Vouchers. Billionaires Helped Bankroll a Campaign to Unseat Him.",
-      "excerpt": "The post He Tried to Set Limits on His State’s School Vouchers. Billionaires Helped Bankroll a Campaign to Unseat Him. appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/west-virginia-school-choice-billionaires-vernon-criss",
-      "published": "2026-10-19T10:00:00+00:00",
+      "headline": "Citing ProPublica, Lawmakers Introduce Bill to Help U.S. Citizens Sue ICE for Wrongful Detentions",
+      "excerpt": "The post Citing ProPublica, Lawmakers Introduce Bill to Help U.S. Citizens Sue ICE for Wrongful Detentions appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/american-citizens-wrongfully-detained-ice-bill",
+      "published": "2026-10-19T20:15:00+00:00",
       "featured": false
     }
   ]
