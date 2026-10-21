@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-10-21T17:13:33.055132+00:00",
+  "generated_at": "2026-10-21T21:43:29.919185+00:00",
   "articles": [
+    {
+      "id": "c17e8163e500",
+      "source": "Al Jazeera",
+      "headline": "Mexico charges prosecutor with treason over US involvement in drug raid",
+      "excerpt": "The participation of US agents in an April drug operation has raised questions about whether Mexico's laws were upheld.",
+      "link": "https://www.aljazeera.com/news/2026/10/21/mexico-charges-prosecutor-with-treason-over-us-involvement-in-drug-raid?traffic_source=rss",
+      "published": "2026-10-21T21:25:21+00:00",
+      "featured": true
+    },
+    {
+      "id": "3a86e00b4716",
+      "source": "Dropsite News",
+      "headline": "The War Tehran Believes Is Coming",
+      "excerpt": "Iran believes the U.S. and Israel may strike before the midterms. Top security official Gen. Mohsen Rezaei tells Drop Site Iran has new targets in its sights.",
+      "link": "https://www.dropsitenews.com/p/iran-war-israel-netanyahu-trump-hormuz-mohsen-rezaei",
+      "published": "2026-10-21T21:21:27+00:00",
+      "featured": true
+    },
+    {
+      "id": "776440d348c7",
+      "source": "The Lever",
+      "headline": "Ken Salazar Is Campaigning Against A Tax On People Like Ken Salazar",
+      "excerpt": "Obama’s former interior secretary is using workers and right-wing spin to attack a tax measure that could cost someone earning his former salary an extra $111,000 a year.",
+      "link": "https://www.levernews.com/ken-salazar-is-campaigning-against-a-tax-on-people-like-ken-salazar/",
+      "published": "2026-10-21T20:49:01+00:00",
+      "featured": true
+    },
+    {
+      "id": "dcf9be1e6676",
+      "source": "ICIJ",
+      "headline": "New US law requires dating apps to include warnings on romance scams",
+      "excerpt": "As romance scams incur record losses, the law requires apps to notify users if someone they’ve been talking to is banned for fraud.",
+      "link": "https://www.icij.org/news/2026/10/new-us-law-requires-dating-apps-to-include-warnings-on-romance-scams/",
+      "published": "2026-10-21T20:33:01+00:00",
+      "featured": false
+    },
     {
       "id": "0ff296c0629c",
       "source": "404 Media",
@@ -8,16 +44,16 @@
       "excerpt": "A surveillance document tells cops to expect \"emotional confrontations\" at Flock city council meetings.",
       "link": "https://www.404media.co/cops-warned-to-look-for-suspicious-behavior-from-people-opposing-flock-at-city-council-meetings/",
       "published": "2026-10-21T17:09:47+00:00",
-      "featured": true
+      "featured": false
     },
     {
-      "id": "fc442273ea80",
-      "source": "Al Jazeera",
-      "headline": "Macron’s surprise ‘solidarity’ visit to Saudi Arabia",
-      "excerpt": "French President Emmanuel Macron made a surprise stop in Riyadh to meet Saudi Crown Prince during his ongoing Gulf tour.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/21/macrons-surprise-solidarity-visit-to-saudi-arabia?traffic_source=rss",
-      "published": "2026-10-21T16:34:27+00:00",
-      "featured": true
+      "id": "d3d29aaf130c",
+      "source": "OCCRP",
+      "headline": "In a Vienna Bakery, Fresh Pastries and a Backdoor for Serbian Votes",
+      "excerpt": "Ahead of a defining parliamentary election in Serbia, an unofficial voting pipeline for the diaspora in Vienna offers a glimpse of what election monitors have described as an uneven playing field tipped in the favor of...",
+      "link": "https://www.occrp.org/en/scoop/in-a-vienna-bakery-a-sweet-scent-of-pastry-and-a-backdoor-for-serbian-votes",
+      "published": "2026-10-21T16:51:00+00:00",
+      "featured": false
     },
     {
       "id": "c510ca9d31ee",
@@ -26,15 +62,6 @@
       "excerpt": "Sofia Liguori stepped down from DeepMind due to current military contracts — not speculative fears of an AI apocalypse. The post Google DeepMind Engineer Resigns in Protest of Pentagon Contract appeared first on The...",
       "link": "https://theintercept.com/2026/10/21/google-deepmind-resign-ai-military-gaza/",
       "published": "2026-10-21T16:25:02+00:00",
-      "featured": true
-    },
-    {
-      "id": "e06dd7eb8dfd",
-      "source": "ICIJ",
-      "headline": "Kremlin payment firm A7 has been pumping billions in ‘untraceable’ cash into global financial system",
-      "excerpt": "Documents show the sanctioned payments firm has handled at least 283 tons of rubles gathered in Moscow’s giant trading halls, processed and trucked to Russia’s main defense bank.",
-      "link": "https://www.icij.org/news/2026/10/kremlin-payment-firm-a7-has-been-pumping-billions-in-untraceable-cash-into-global-financial-system/",
-      "published": "2026-10-21T16:08:13+00:00",
       "featured": false
     },
     {
@@ -44,33 +71,6 @@
       "excerpt": "The post Colorado Marijuana Regulators Failed to Protect Consumers From Potential Contamination, Audit Finds appeared first on ProPublica.",
       "link": "https://www.propublica.org/article/colorado-marijuana-enforcement-division-audit-findings",
       "published": "2026-10-21T15:35:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "b608216f9c00",
-      "source": "Dropsite News",
-      "headline": "Hospitals in Gaza face power shutdowns; U.S. polling firm admits fabricating data; Water crisis in Yemen",
-      "excerpt": "Drop Site Daily: October 21, 2026",
-      "link": "https://www.dropsitenews.com/p/hospitals-gaza-shutdowns-us-polling-wedgewood-yemen-ansarallah-water-crisis",
-      "published": "2026-10-21T15:22:47+00:00",
-      "featured": false
-    },
-    {
-      "id": "9df4495ba462",
-      "source": "The Lever",
-      "headline": "Lindsay Owens: Who Is Your AI Shopping Agent Working For?",
-      "excerpt": "Swing voters are furious about something most people can barely name: surveillance pricing.",
-      "link": "https://www.levernews.com/lindsay-owens-ai-surveillance-pricing/",
-      "published": "2026-10-20T19:58:14+00:00",
-      "featured": false
-    },
-    {
-      "id": "41b9301e68b7",
-      "source": "OCCRP",
-      "headline": "Vučić Rejects Russia Sanctions, Blames Foreign Powers for Protests",
-      "excerpt": "",
-      "link": "https://www.occrp.org/en/news/vucic-rejects-russia-sanctions-blames-foreign-powers-for-protests",
-      "published": "2026-10-20T18:16:00+00:00",
       "featured": false
     },
     {
@@ -110,12 +110,39 @@
       "featured": false
     },
     {
-      "id": "32d8a03dddd9",
+      "id": "5e2307b20b2d",
       "source": "Al Jazeera",
-      "headline": "Real Madrid vs RB Leipzig LIVE: Champions League",
-      "excerpt": "Follow updates, with team news, from our live text commentary stream coverage as Mbappe and Bellingham headline.",
-      "link": "https://www.aljazeera.com/sports/liveblog/2026/10/21/real-madrid-vs-rb-leipzig-live-champions-league?traffic_source=rss",
-      "published": "2026-10-21T16:01:56+00:00",
+      "headline": "Trump heads to South Carolina to boost Senator Darline Graham in race",
+      "excerpt": "The race between the sister of late Senator Lindsey Graham and Democrat Annie Andrews has tightened in deep-red state.",
+      "link": "https://www.aljazeera.com/news/2026/10/21/trump-heads-to-south-carolina-to-boost-senator-darline-graham-in-race?traffic_source=rss",
+      "published": "2026-10-21T21:07:43+00:00",
+      "featured": false
+    },
+    {
+      "id": "8dd6170debe2",
+      "source": "Dropsite News",
+      "headline": "Mike Rogers Puts Spotlight on Failed Benghazi Probe in Final Weeks of Senate Race",
+      "excerpt": "Unpacking Rogers’s legal threat against Drop Site",
+      "link": "https://www.dropsitenews.com/p/mike-rogers-puts-spotlight-on-failed-benghazi",
+      "published": "2026-10-21T19:55:53+00:00",
+      "featured": false
+    },
+    {
+      "id": "4ba9651a13bd",
+      "source": "The Lever",
+      "headline": "Kelly Ayotte’s Data Center Reversal Has A Potential Million-Dollar Footnote",
+      "excerpt": "The incumbent New Hampshire governor helped deregulate data center power providers after serving on Bloom Energy's board — and shares she held could now be worth seven figures.",
+      "link": "https://www.levernews.com/kelly-ayottes-data-center-reversal-has-a-potential-million-dollar-footnote/",
+      "published": "2026-10-21T17:24:13+00:00",
+      "featured": false
+    },
+    {
+      "id": "e06dd7eb8dfd",
+      "source": "ICIJ",
+      "headline": "Kremlin payment firm A7 has been pumping billions in ‘untraceable’ cash into global financial system",
+      "excerpt": "Documents show the sanctioned payments firm has handled at least 283 tons of rubles gathered in Moscow’s giant trading halls, processed and trucked to Russia’s main defense bank.",
+      "link": "https://www.icij.org/news/2026/10/kremlin-payment-firm-a7-has-been-pumping-billions-in-untraceable-cash-into-global-financial-system/",
+      "published": "2026-10-21T16:08:13+00:00",
       "featured": false
     },
     {
@@ -146,30 +173,12 @@
       "featured": false
     },
     {
-      "id": "72098d4ac4ba",
-      "source": "The Lever",
-      "headline": "Why Are Democrats The Party Of No?",
-      "excerpt": "Weeks before the midterms, the Democratic establishment is insisting their party must stand against the public’s policy demands.",
-      "link": "https://www.levernews.com/medicare-for-none/",
-      "published": "2026-10-20T19:42:40+00:00",
-      "featured": false
-    },
-    {
-      "id": "4a24f3245463",
+      "id": "41b9301e68b7",
       "source": "OCCRP",
-      "headline": "Albanian PM Offers Dialogue Amid Crackdown on Violent Protests",
-      "excerpt": "As student-led demonstrations enter their second week, Prime Minister Edi Rama calls for unconditional talks while police report mass arrests and an ombudsman probe details systemic abuse against detainees.",
-      "link": "https://www.occrp.org/en/news/albanian-pm-offers-dialogue-amid-crackdown-on-violent-protests",
-      "published": "2026-10-20T17:57:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "3a6191d77228",
-      "source": "Dropsite News",
-      "headline": "Sudan drone strikes kill 160+; Oil hits five-month high; Mahmoud Khalil appeals to SCOTUS",
-      "excerpt": "Drop Site Daily: October 20, 2026",
-      "link": "https://www.dropsitenews.com/p/sudan-drone-strikes-oil-hormuz--iran-yemen-mahmoud-khalil-scotus",
-      "published": "2026-10-20T15:41:51+00:00",
+      "headline": "Vučić Rejects Russia Sanctions, Blames Foreign Powers for Protests",
+      "excerpt": "",
+      "link": "https://www.occrp.org/en/news/vucic-rejects-russia-sanctions-blames-foreign-powers-for-protests",
+      "published": "2026-10-20T18:16:00+00:00",
       "featured": false
     },
     {
@@ -191,15 +200,6 @@
       "featured": false
     },
     {
-      "id": "e5cf0a35cf61",
-      "source": "ICIJ",
-      "headline": "Panama removed from EU’s tax haven ‘blacklist’ a decade after the Panama Papers",
-      "excerpt": "Ten years after ICIJ’s investigation exposed the country as a corporate haven, regulations and checks have been put in place to deal with the reputational damage.",
-      "link": "https://www.icij.org/investigations/panama-papers/panama-removed-from-eus-tax-haven-blacklist-a-decade-after-the-panama-papers/",
-      "published": "2026-10-15T18:44:05+00:00",
-      "featured": false
-    },
-    {
       "id": "d06c183f885a",
       "source": "The Markup",
       "headline": "Patients: All my best tips on how to opt out of data sharing",
@@ -218,12 +218,21 @@
       "featured": false
     },
     {
-      "id": "14e735b1a2b8",
+      "id": "4fad37edd0a8",
       "source": "Al Jazeera",
-      "headline": "Bayern Munich vs Arsenal LIVE: Champions League",
-      "excerpt": "Follow updates on the league-phase clash, including the build-up, analysis and live text commentary of the game.",
-      "link": "https://www.aljazeera.com/sports/liveblog/2026/10/21/bayern-munich-vs-arsenal-live-champions-league?traffic_source=rss",
-      "published": "2026-10-21T16:00:00+00:00",
+      "headline": "Judge orders Meta to pay $25bn in fines for Facebook privacy violations",
+      "excerpt": "A jury found Meta guilty of lying to Facebook users in ⁠⁠⁠⁠⁠⁠⁠⁠New Mexico about access to their data.",
+      "link": "https://www.aljazeera.com/news/2026/10/21/judge-orders-meta-to-pay-25bn-in-fines-for-facebook-privacy-violations?traffic_source=rss",
+      "published": "2026-10-21T21:01:32+00:00",
+      "featured": false
+    },
+    {
+      "id": "b608216f9c00",
+      "source": "Dropsite News",
+      "headline": "Hospitals in Gaza face power shutdowns; U.S. polling firm admits fabricating data; Water crisis in Yemen",
+      "excerpt": "Drop Site Daily: October 21, 2026",
+      "link": "https://www.dropsitenews.com/p/hospitals-gaza-shutdowns-us-polling-wedgewood-yemen-ansarallah-water-crisis",
+      "published": "2026-10-21T15:22:47+00:00",
       "featured": false
     },
     {
@@ -254,30 +263,30 @@
       "featured": false
     },
     {
-      "id": "90f8d36677c3",
+      "id": "9df4495ba462",
       "source": "The Lever",
-      "headline": "The Mystery Voter Guide Using Democrats To Elect Mike Rogers",
-      "excerpt": "The GOP’s Mike Rogers curiously joins other Democrats on a “pro-democracy” flyer distributed in Michigan.",
-      "link": "https://www.levernews.com/the-last-ditch-effort-to-sink-el-sayed/",
-      "published": "2026-10-20T19:40:06+00:00",
+      "headline": "Lindsay Owens: Who Is Your AI Shopping Agent Working For?",
+      "excerpt": "Swing voters are furious about something most people can barely name: surveillance pricing.",
+      "link": "https://www.levernews.com/lindsay-owens-ai-surveillance-pricing/",
+      "published": "2026-10-20T19:58:14+00:00",
       "featured": false
     },
     {
-      "id": "bc94a81c93a0",
+      "id": "4a24f3245463",
       "source": "OCCRP",
-      "headline": "South Pacific Ponzi Scam “King” Noah Musingku Dies",
-      "excerpt": "After defrauding victims of tens of millions in a 1990s pyramid scheme, Noah Musingku spent decades ruling an armed, breakaway pseudo-state in Papua New Guinea. He died earlier this month.",
-      "link": "https://www.occrp.org/en/news/south-pacific-ponzi-scam-king-noah-musingku-dies",
-      "published": "2026-10-20T12:13:00+00:00",
+      "headline": "Albanian PM Offers Dialogue Amid Crackdown on Violent Protests",
+      "excerpt": "As student-led demonstrations enter their second week, Prime Minister Edi Rama calls for unconditional talks while police report mass arrests and an ombudsman probe details systemic abuse against detainees.",
+      "link": "https://www.occrp.org/en/news/albanian-pm-offers-dialogue-amid-crackdown-on-violent-protests",
+      "published": "2026-10-20T17:57:00+00:00",
       "featured": false
     },
     {
-      "id": "4356c7715dea",
-      "source": "Dropsite News",
-      "headline": "Israel-Backed Palestinian Militias Terrorize Displaced Families in Gaza",
-      "excerpt": "Over the past year, attacks by Israel-backed Palestinian militias have become increasingly frequent in Gaza, particularly targeting Palestinians living close to the ever expanding “yellow line.”",
-      "link": "https://www.dropsitenews.com/p/gaza-israel-backed-palestinian-militias-yellow-line-jabaliya",
-      "published": "2026-10-19T17:25:38+00:00",
+      "id": "e5cf0a35cf61",
+      "source": "ICIJ",
+      "headline": "Panama removed from EU’s tax haven ‘blacklist’ a decade after the Panama Papers",
+      "excerpt": "Ten years after ICIJ’s investigation exposed the country as a corporate haven, regulations and checks have been put in place to deal with the reputational damage.",
+      "link": "https://www.icij.org/investigations/panama-papers/panama-removed-from-eus-tax-haven-blacklist-a-decade-after-the-panama-papers/",
+      "published": "2026-10-15T18:44:05+00:00",
       "featured": false
     },
     {
@@ -287,15 +296,6 @@
       "excerpt": "The developing world’s enthusiastic adoption of AI and necessity-driven innovations offer lessons for an anxiety-ridden West.",
       "link": "https://restofworld.org/2026/west-ai-anxiety-optimism-innovation/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "published": "2026-10-15T10:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "a36aeadc85bc",
-      "source": "ICIJ",
-      "headline": "Leaked files reveal how Deloitte Cyprus helped Roman Abramovich hide $10B fortune",
-      "excerpt": "The sanctioned oligarch’s financial advisors in Cyprus falsified financial records in a yearslong a ploy for him to evade taxes, a new investigation by ICIJ’s media partners found.",
-      "link": "https://www.icij.org/investigations/cyprus-confidential/leaked-files-reveal-how-deloitte-cyprus-helped-roman-abramovich-hide-10b-fortune/",
-      "published": "2026-10-14T18:40:26+00:00",
       "featured": false
     },
     {
@@ -326,12 +326,12 @@
       "featured": false
     },
     {
-      "id": "659a7d7cafc6",
+      "id": "b0399455cb0e",
       "source": "Al Jazeera",
-      "headline": "What’s behind protests in Portugal?",
-      "excerpt": "What's behind protests in Portugal?",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/21/whats-behind-protests-in-portugal?traffic_source=rss",
-      "published": "2026-10-21T15:57:16+00:00",
+      "headline": "Will Russia’s diesel shipment to the US lower prices before midterms?",
+      "excerpt": "Moscow dispatches its inaugural diesel shipment to the US, aiming to ease fuel shortages as midterm elections loom.",
+      "link": "https://www.aljazeera.com/economy/2026/10/21/will-russias-diesel-shipment-to-the-us-lower-prices-before-midterms?traffic_source=rss",
+      "published": "2026-10-21T20:54:27+00:00",
       "featured": false
     },
     {
@@ -353,12 +353,12 @@
       "featured": false
     },
     {
-      "id": "6952c53adbf9",
+      "id": "72098d4ac4ba",
       "source": "The Lever",
-      "headline": "Angie Nixon's Formula For Winning Without Corporate Cash",
-      "excerpt": "U.S. Senate candidate Angie Nixon is challenging Republican Sen. Ashley Moody without money from corporate PACs — or the full blessing of the Democratic establishment",
-      "link": "https://www.levernews.com/angie-nixons-formula-for-winning-without-corporate-cash/",
-      "published": "2026-10-20T18:27:46+00:00",
+      "headline": "Why Are Democrats The Party Of No?",
+      "excerpt": "Weeks before the midterms, the Democratic establishment is insisting their party must stand against the public’s policy demands.",
+      "link": "https://www.levernews.com/medicare-for-none/",
+      "published": "2026-10-20T19:42:40+00:00",
       "featured": false
     },
     {
@@ -371,21 +371,30 @@
       "featured": false
     },
     {
-      "id": "7b39fbacc879",
+      "id": "3a6191d77228",
       "source": "Dropsite News",
-      "headline": "UN cuts food aid to 500,000 Palestinians in Gaza; 7th ICE detainee found dead in Texas this year; France arrests 2,400 in mass protests",
-      "excerpt": "Drop Site Daily: October 19, 2026",
-      "link": "https://www.dropsitenews.com/p/un-food-aid-palestine-gaza-ice-texas-detainee-france-arrests-protests",
-      "published": "2026-10-19T14:42:15+00:00",
+      "headline": "Sudan drone strikes kill 160+; Oil hits five-month high; Mahmoud Khalil appeals to SCOTUS",
+      "excerpt": "Drop Site Daily: October 20, 2026",
+      "link": "https://www.dropsitenews.com/p/sudan-drone-strikes-oil-hormuz--iran-yemen-mahmoud-khalil-scotus",
+      "published": "2026-10-20T15:41:51+00:00",
       "featured": false
     },
     {
-      "id": "111651599662",
+      "id": "bc94a81c93a0",
       "source": "OCCRP",
-      "headline": "Kazakh President’s Grandnephew Donates Sport University to State Following Investigative Report",
-      "excerpt": "The sudden handover of the Kazakh National University of Sports follows a joint investigation by Radio Azattyq and OCCRP, which revealed how President Tokayev’s grandnephew founded educational ventures that received...",
-      "link": "https://www.occrp.org/en/news/kazakh-presidents-grandnephew-donates-sport-university-to-state-following-investigative-report",
-      "published": "2026-10-19T13:06:00+00:00",
+      "headline": "South Pacific Ponzi Scam “King” Noah Musingku Dies",
+      "excerpt": "After defrauding victims of tens of millions in a 1990s pyramid scheme, Noah Musingku spent decades ruling an armed, breakaway pseudo-state in Papua New Guinea. He died earlier this month.",
+      "link": "https://www.occrp.org/en/news/south-pacific-ponzi-scam-king-noah-musingku-dies",
+      "published": "2026-10-20T12:13:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "a36aeadc85bc",
+      "source": "ICIJ",
+      "headline": "Leaked files reveal how Deloitte Cyprus helped Roman Abramovich hide $10B fortune",
+      "excerpt": "The sanctioned oligarch’s financial advisors in Cyprus falsified financial records in a yearslong a ploy for him to evade taxes, a new investigation by ICIJ’s media partners found.",
+      "link": "https://www.icij.org/investigations/cyprus-confidential/leaked-files-reveal-how-deloitte-cyprus-helped-roman-abramovich-hide-10b-fortune/",
+      "published": "2026-10-14T18:40:26+00:00",
       "featured": false
     },
     {
@@ -416,21 +425,21 @@
       "featured": false
     },
     {
-      "id": "89a0d8d45fa1",
-      "source": "ICIJ",
-      "headline": "Tunisian court dismisses case to dissolve publisher of ICIJ partner Inkyfada",
-      "excerpt": "Despite the court victory, Inkyfada and its parent company Al Khatt still struggle to recover funds frozen by authorities.",
-      "link": "https://www.icij.org/news/2026/10/tunisian-court-dismisses-case-to-dissolve-publisher-of-icij-partner-inkyfada/",
-      "published": "2026-10-09T14:21:29+00:00",
+      "id": "a9531dd1053a",
+      "source": "Al Jazeera",
+      "headline": "Colombia seizes 7.6 tonnes of cocaine in biggest haul in a decade",
+      "excerpt": "Colombian authorities have seized 7.6 tonnes of cocaine at the Caribbean port of Cartagena",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/21/colombia-seizes-7-6-tonnes-of-cocaine-in-biggest-haul-in-a-decade?traffic_source=rss",
+      "published": "2026-10-21T20:51:23+00:00",
       "featured": false
     },
     {
-      "id": "284af85d44de",
-      "source": "Al Jazeera",
-      "headline": "Canada wants to expand its LNG business. Critics raise red flags",
-      "excerpt": "As Canada’s LNG exports grow, critics raise concerns over human rights abuses linked to major corporate investors.",
-      "link": "https://www.aljazeera.com/economy/longform/2026/10/21/canada-wants-to-expand-its-lng-business-critics-raise-red-flags-2?traffic_source=rss",
-      "published": "2026-10-21T15:52:46+00:00",
+      "id": "90f8d36677c3",
+      "source": "The Lever",
+      "headline": "The Mystery Voter Guide Using Democrats To Elect Mike Rogers",
+      "excerpt": "The GOP’s Mike Rogers curiously joins other Democrats on a “pro-democracy” flyer distributed in Michigan.",
+      "link": "https://www.levernews.com/the-last-ditch-effort-to-sink-el-sayed/",
+      "published": "2026-10-20T19:40:06+00:00",
       "featured": false
     },
     {
@@ -461,30 +470,21 @@
       "featured": false
     },
     {
-      "id": "add6503e3104",
-      "source": "The Lever",
-      "headline": "AI Industry Leader Wants 50 Free Kills",
-      "excerpt": "Draft artificial intelligence legislation circulated by Anthropic would permit dozens of projected deaths before triggering government intervention.",
-      "link": "https://www.levernews.com/ai-leader-wants-50-free-kills/",
-      "published": "2026-10-19T16:43:52+00:00",
-      "featured": false
-    },
-    {
-      "id": "6d3c8293494a",
-      "source": "OCCRP",
-      "headline": "Five Questions About What’s Behind Nigeria’s Romance Scam Industry",
-      "excerpt": "Carlos Barragán, author of “The Yahoo Boys: Love, Deception, and the Real Lives of Nigeria's Romance Scammers,” immersed himself in the lives of four modern romance scammers in a neighborhood in Lagos to find out why...",
-      "link": "https://www.occrp.org/en/feature/five-questions-about-nigerias-romance-scammers",
-      "published": "2026-10-19T10:52:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "b1e05ac7595b",
+      "id": "4356c7715dea",
       "source": "Dropsite News",
-      "headline": "Trump Turns to Putin as Interests Align, Iran Forces Oil and Inflation up, Anasrallah Strikes Aramco",
-      "excerpt": "War Brief: Episode 5",
-      "link": "https://www.dropsitenews.com/p/trump-turns-to-putin-as-interests",
-      "published": "2026-10-18T15:33:06+00:00",
+      "headline": "Israel-Backed Palestinian Militias Terrorize Displaced Families in Gaza",
+      "excerpt": "Over the past year, attacks by Israel-backed Palestinian militias have become increasingly frequent in Gaza, particularly targeting Palestinians living close to the ever expanding “yellow line.”",
+      "link": "https://www.dropsitenews.com/p/gaza-israel-backed-palestinian-militias-yellow-line-jabaliya",
+      "published": "2026-10-19T17:25:38+00:00",
+      "featured": false
+    },
+    {
+      "id": "111651599662",
+      "source": "OCCRP",
+      "headline": "Kazakh President’s Grandnephew Donates Sport University to State Following Investigative Report",
+      "excerpt": "The sudden handover of the Kazakh National University of Sports follows a joint investigation by Radio Azattyq and OCCRP, which revealed how President Tokayev’s grandnephew founded educational ventures that received...",
+      "link": "https://www.occrp.org/en/news/kazakh-presidents-grandnephew-donates-sport-university-to-state-following-investigative-report",
+      "published": "2026-10-19T13:06:00+00:00",
       "featured": false
     },
     {
@@ -497,12 +497,12 @@
       "featured": false
     },
     {
-      "id": "172becc8a5f0",
+      "id": "89a0d8d45fa1",
       "source": "ICIJ",
-      "headline": "Five years after the Pandora Papers, transparency laws lose their teeth",
-      "excerpt": "Reforms promised swiftly after ICIJ’s investigation have fallen short in New York and beyond.",
-      "link": "https://www.icij.org/investigations/pandora-papers/five-years-after-the-pandora-papers-transparency-laws-lose-their-teeth/",
-      "published": "2026-10-08T15:52:13+00:00",
+      "headline": "Tunisian court dismisses case to dissolve publisher of ICIJ partner Inkyfada",
+      "excerpt": "Despite the court victory, Inkyfada and its parent company Al Khatt still struggle to recover funds frozen by authorities.",
+      "link": "https://www.icij.org/news/2026/10/tunisian-court-dismisses-case-to-dissolve-publisher-of-icij-partner-inkyfada/",
+      "published": "2026-10-09T14:21:29+00:00",
       "featured": false
     },
     {
@@ -515,12 +515,21 @@
       "featured": false
     },
     {
-      "id": "16534559b399",
+      "id": "2ea278005e5e",
       "source": "Al Jazeera",
-      "headline": "Catalonia’s new far right: How anti-Muslim sentiment is reshaping politics",
-      "excerpt": "The rise of Catalan Alliance is causing alarm among Muslims ahead of Spain's snap election in November.",
-      "link": "https://www.aljazeera.com/news/2026/10/21/catalonias-new-far-right-how-anti-muslim-sentiment-is-reshaping-politics?traffic_source=rss",
-      "published": "2026-10-21T15:36:42+00:00",
+      "headline": "Video shows Israeli settler assaulting Palestinian child",
+      "excerpt": "An Israeli settler was filmed shouting at and assaulting a Palestinian child during an attack on a family east of Yatta.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/21/video-shows-israeli-settler-assaulting-palestinian-child?traffic_source=rss",
+      "published": "2026-10-21T20:34:57+00:00",
+      "featured": false
+    },
+    {
+      "id": "6952c53adbf9",
+      "source": "The Lever",
+      "headline": "Angie Nixon's Formula For Winning Without Corporate Cash",
+      "excerpt": "U.S. Senate candidate Angie Nixon is challenging Republican Sen. Ashley Moody without money from corporate PACs — or the full blessing of the Democratic establishment",
+      "link": "https://www.levernews.com/angie-nixons-formula-for-winning-without-corporate-cash/",
+      "published": "2026-10-20T18:27:46+00:00",
       "featured": false
     },
     {
@@ -530,15 +539,6 @@
       "excerpt": "A gang of hackers targets Staples, but not to buy things from Staples.",
       "link": "https://www.404media.co/people-are-using-ai-decompiling-to-hack-their-things/",
       "published": "2026-10-20T13:51:57+00:00",
-      "featured": false
-    },
-    {
-      "id": "60f9205055d7",
-      "source": "ProPublica",
-      "headline": "Citing ProPublica, Lawmakers Introduce Bill to Help U.S. Citizens Sue ICE for Wrongful Detentions",
-      "excerpt": "The post Citing ProPublica, Lawmakers Introduce Bill to Help U.S. Citizens Sue ICE for Wrongful Detentions appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/american-citizens-wrongfully-detained-ice-bill",
-      "published": "2026-10-19T20:15:00+00:00",
       "featured": false
     }
   ]
