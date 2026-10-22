@@ -1,14 +1,50 @@
 {
-  "generated_at": "2026-10-22T04:48:18.695162+00:00",
+  "generated_at": "2026-10-22T11:54:14.352936+00:00",
   "articles": [
     {
-      "id": "1b29431fd9c8",
+      "id": "686f5d438c62",
       "source": "Al Jazeera",
-      "headline": "Australian TV reporter rescues man from sinking car",
-      "excerpt": "Australian TV reporter rescues man from sinking car",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/22/australian-tv-reporter-rescues-man-from-sinking-car?traffic_source=rss",
-      "published": "2026-10-22T04:19:33+00:00",
+      "headline": "What is the Turkiye-Libya maritime deal, and why are the EU, Egypt opposed?",
+      "excerpt": "Eastern Libya’s parliament backs a sea border pact with Ankara, a shift that analysts say redraws Libya’s alliances.",
+      "link": "https://www.aljazeera.com/news/2026/10/22/what-is-the-turkiye-libya-maritime-deal-and-why-are-the-eu-egypt-opposed?traffic_source=rss",
+      "published": "2026-10-22T11:36:02+00:00",
       "featured": true
+    },
+    {
+      "id": "4ef41757ead6",
+      "source": "Bellingcat",
+      "headline": "Can LLMs Supercharge Geolocations? Our Tests Show Big Improvements But Humans Remain Key",
+      "excerpt": "Sign up here to receive Bellingcat’s biggest investigations by email as soon as they are published. In September, the AI company Anthropic published a blog post that claimed its models were approaching “superhuman...",
+      "link": "https://www.bellingcat.com/resources/2026/10/22/can-llms-supercharge-geolocations-our-tests-show-big-improvements-but-humans-remain-key/",
+      "published": "2026-10-22T11:06:57+00:00",
+      "featured": true
+    },
+    {
+      "id": "f218513416a6",
+      "source": "ProPublica",
+      "headline": "Ballot Rejections Soared in Rural Counties After USPS Reduced Mail Service",
+      "excerpt": "The post Ballot Rejections Soared in Rural Counties After USPS Reduced Mail Service appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/mail-ballot-delays-postal-service-midterms",
+      "published": "2026-10-22T10:00:00+00:00",
+      "featured": true
+    },
+    {
+      "id": "460b4305ee13",
+      "source": "Rest of World",
+      "headline": "Big Tech’s thirst for water is sparking a global resistance",
+      "excerpt": "This photograph taken on September 6, 2026 shows a placard opposing data centers displayed on a water dispenser during the People's Convention on AI Data Centers event at Visakhapatnam in India's Andhra Pradesh state....",
+      "link": "https://restofworld.org/2026/ai-datacenters-water-resistance-global/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "published": "2026-10-22T10:00:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "7e4ccfac5842",
+      "source": "OCCRP",
+      "headline": "Collapsed Surrogacy Agency Loses U.S. Civil Case After Court No-Show",
+      "excerpt": "World Center of Baby plunged surrogates and prospective parents into chaos when it announced it was filing for bankruptcy. Now the agency’s U.S. corporate entity must pay out tens of thousands of dollars to a couple...",
+      "link": "https://www.occrp.org/en/news/collapsed-surrogacy-agency-loses-us-civil-case-after-court-no-show",
+      "published": "2026-10-22T04:46:00+00:00",
+      "featured": false
     },
     {
       "id": "3a86e00b4716",
@@ -17,7 +53,7 @@
       "excerpt": "Iran believes the U.S. and Israel may strike before the midterms. Top security official Gen. Mohsen Rezaei tells Drop Site Iran has new targets in its sights.",
       "link": "https://www.dropsitenews.com/p/iran-war-israel-netanyahu-trump-hormuz-mohsen-rezaei",
       "published": "2026-10-21T21:21:27+00:00",
-      "featured": true
+      "featured": false
     },
     {
       "id": "776440d348c7",
@@ -26,7 +62,7 @@
       "excerpt": "Obama’s former interior secretary is using workers and right-wing spin to attack a tax measure that could cost someone earning his former salary an extra $111,000 a year.",
       "link": "https://www.levernews.com/ken-salazar-is-campaigning-against-a-tax-on-people-like-ken-salazar/",
       "published": "2026-10-21T20:49:01+00:00",
-      "featured": true
+      "featured": false
     },
     {
       "id": "dcf9be1e6676",
@@ -47,30 +83,12 @@
       "featured": false
     },
     {
-      "id": "d3d29aaf130c",
-      "source": "OCCRP",
-      "headline": "In a Vienna Bakery, Fresh Pastries and a Backdoor for Serbian Votes",
-      "excerpt": "Ahead of a defining parliamentary election in Serbia, an unofficial voting pipeline for the diaspora in Vienna offers a glimpse of what election monitors have described as an uneven playing field tipped in the favor of...",
-      "link": "https://www.occrp.org/en/scoop/in-a-vienna-bakery-a-sweet-scent-of-pastry-and-a-backdoor-for-serbian-votes",
-      "published": "2026-10-21T16:51:00+00:00",
-      "featured": false
-    },
-    {
       "id": "c510ca9d31ee",
       "source": "The Intercept",
       "headline": "Google DeepMind Engineer Resigns in Protest of Pentagon Contract",
       "excerpt": "Sofia Liguori stepped down from DeepMind due to current military contracts — not speculative fears of an AI apocalypse. The post Google DeepMind Engineer Resigns in Protest of Pentagon Contract appeared first on The...",
       "link": "https://theintercept.com/2026/10/21/google-deepmind-resign-ai-military-gaza/",
       "published": "2026-10-21T16:25:02+00:00",
-      "featured": false
-    },
-    {
-      "id": "5469ad5a4126",
-      "source": "ProPublica",
-      "headline": "Colorado Marijuana Regulators Failed to Protect Consumers From Potential Contamination, Audit Finds",
-      "excerpt": "The post Colorado Marijuana Regulators Failed to Protect Consumers From Potential Contamination, Audit Finds appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/colorado-marijuana-enforcement-division-audit-findings",
-      "published": "2026-10-21T15:35:00+00:00",
       "featured": false
     },
     {
@@ -83,24 +101,6 @@
       "featured": false
     },
     {
-      "id": "3e6b84130ba8",
-      "source": "Rest of World",
-      "headline": "Will developing nations be able to handle millions of AI agents?",
-      "excerpt": "It may be some time before AI agents can fully navigate the complexities and cultural nuances of developing nations.",
-      "link": "https://restofworld.org/2026/meta-muse-openai-dots-ai-agents-global-south/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-      "published": "2026-10-19T10:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "2ab0e270aa93",
-      "source": "Bellingcat",
-      "headline": "Satellite Images Show Extent of Trump Admin’s Tree-Felling at DC Golf Course",
-      "excerpt": "Sign up here to receive Bellingcat’s biggest investigations by email as soon as they are published. Satellite imagery obtained by Bellingcat lays bare the extent of tree-felling at a Washington DC golf course that...",
-      "link": "https://www.bellingcat.com/news/us-canada/2026/10/15/satellite-images-show-extent-of-trump-admins-tree-felling-at-dc-golf-course/",
-      "published": "2026-10-15T10:33:36+00:00",
-      "featured": false
-    },
-    {
       "id": "bf589732ab65",
       "source": "The Markup",
       "headline": "MyChart and a major hospital said I could opt out of sharing my health data. But they didn’t make it easy",
@@ -110,12 +110,21 @@
       "featured": false
     },
     {
-      "id": "a9b04ec202f9",
+      "id": "faa3ce2ed8d9",
       "source": "Al Jazeera",
-      "headline": "Trump administration seeks Supreme Court approval to build Big Bend wall",
-      "excerpt": "US federal judge blocked wall's construction on Texas-Mexico border amid an ongoing legal battle.",
-      "link": "https://www.aljazeera.com/news/2026/10/22/trump-administration-seeks-supreme-court-approval-to-build-big-bend-wall?traffic_source=rss",
-      "published": "2026-10-22T03:19:38+00:00",
+      "headline": "France reports first human Shamonda virus case, says no health risk",
+      "excerpt": "Until now, the virus was considered non-transferable to humans, making the patient the first documented human case.",
+      "link": "https://www.aljazeera.com/news/2026/10/22/france-reports-first-human-shamonda-virus-case-says-no-health-risk?traffic_source=rss",
+      "published": "2026-10-22T11:28:05+00:00",
+      "featured": false
+    },
+    {
+      "id": "8a0fa6c4ed0e",
+      "source": "ProPublica",
+      "headline": "Trump’s Education Department Scaled Back Investigations Into Discrimination and Sexual Assault on Campus, New Data Shows",
+      "excerpt": "The post Trump’s Education Department Scaled Back Investigations Into Discrimination and Sexual Assault on Campus, New Data Shows appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/civil-rights-office-education-department-investigations",
+      "published": "2026-10-22T09:00:00+00:00",
       "featured": false
     },
     {
@@ -137,6 +146,15 @@
       "featured": false
     },
     {
+      "id": "d3d29aaf130c",
+      "source": "OCCRP",
+      "headline": "In a Vienna Bakery, Fresh Pastries and a Backdoor for Serbian Votes",
+      "excerpt": "Ahead of a defining parliamentary election in Serbia, an unofficial voting pipeline for the diaspora in Vienna offers a glimpse of what election monitors have described as an uneven playing field tipped in the favor of...",
+      "link": "https://www.occrp.org/en/scoop/in-a-vienna-bakery-a-sweet-scent-of-pastry-and-a-backdoor-for-serbian-votes",
+      "published": "2026-10-21T16:51:00+00:00",
+      "featured": false
+    },
+    {
       "id": "e06dd7eb8dfd",
       "source": "ICIJ",
       "headline": "Kremlin payment firm A7 has been pumping billions in ‘untraceable’ cash into global financial system",
@@ -155,15 +173,6 @@
       "featured": false
     },
     {
-      "id": "b83640cd0445",
-      "source": "ProPublica",
-      "headline": "“The River Can’t Be Trusted”",
-      "excerpt": "The post “The River Can’t Be Trusted” appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/wildfire-flood-risk-ruidoso-new-mexico",
-      "published": "2026-10-21T10:00:00+00:00",
-      "featured": false
-    },
-    {
       "id": "672fa9c4a1e0",
       "source": "The Intercept",
       "headline": "Trump’s Obsession With Somalia Isn’t Just Racist. It’s Been Lethal.",
@@ -173,12 +182,12 @@
       "featured": false
     },
     {
-      "id": "41b9301e68b7",
-      "source": "OCCRP",
-      "headline": "Vučić Rejects Russia Sanctions, Blames Foreign Powers for Protests",
-      "excerpt": "",
-      "link": "https://www.occrp.org/en/news/vucic-rejects-russia-sanctions-blames-foreign-powers-for-protests",
-      "published": "2026-10-20T18:16:00+00:00",
+      "id": "3e6b84130ba8",
+      "source": "Rest of World",
+      "headline": "Will developing nations be able to handle millions of AI agents?",
+      "excerpt": "It may be some time before AI agents can fully navigate the complexities and cultural nuances of developing nations.",
+      "link": "https://restofworld.org/2026/meta-muse-openai-dots-ai-agents-global-south/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "published": "2026-10-19T10:00:00+00:00",
       "featured": false
     },
     {
@@ -191,12 +200,12 @@
       "featured": false
     },
     {
-      "id": "7039f948d4f3",
-      "source": "Rest of World",
-      "headline": "Western open-weight models still can’t beat China",
-      "excerpt": "Chinese open-weight AI models offer high capability at significantly lower costs than U.S. frontier systems, but face monetization and compute challenges, experts said at a Rest of World event in San Francisco.",
-      "link": "https://restofworld.org/2026/china-open-weight-models/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-      "published": "2026-10-16T10:00:00+00:00",
+      "id": "2ab0e270aa93",
+      "source": "Bellingcat",
+      "headline": "Satellite Images Show Extent of Trump Admin’s Tree-Felling at DC Golf Course",
+      "excerpt": "Sign up here to receive Bellingcat’s biggest investigations by email as soon as they are published. Satellite imagery obtained by Bellingcat lays bare the extent of tree-felling at a Washington DC golf course that...",
+      "link": "https://www.bellingcat.com/news/us-canada/2026/10/15/satellite-images-show-extent-of-trump-admins-tree-felling-at-dc-golf-course/",
+      "published": "2026-10-15T10:33:36+00:00",
       "featured": false
     },
     {
@@ -209,21 +218,21 @@
       "featured": false
     },
     {
-      "id": "9961fdaa30d6",
-      "source": "Bellingcat",
-      "headline": "Groups Associated With India’s Far-Right Receive Millions Through US Donor-Advised Funds",
-      "excerpt": "Sign up here to receive Bellingcat’s biggest investigations by email as soon as they are published. US non-profits whose founding leaders or organisations have been associated with India’s controversial Rashtriya...",
-      "link": "https://www.bellingcat.com/news/2026/10/06/dafs-india-rss-donations/",
-      "published": "2026-10-06T16:00:41+00:00",
+      "id": "4847f4e5b02e",
+      "source": "Al Jazeera",
+      "headline": "Southeast Asia’s toxic haze spurs calls for legal action against polluters",
+      "excerpt": "ASEAN's consensus-driven approach and a lack of enforcement mechanisms make legal action difficult, experts say.",
+      "link": "https://www.aljazeera.com/economy/2026/10/22/southeast-asias-toxic-haze-spurs-calls-for-legal-action-against-polluters?traffic_source=rss",
+      "published": "2026-10-22T11:19:38+00:00",
       "featured": false
     },
     {
-      "id": "0c2dd3670075",
-      "source": "Al Jazeera",
-      "headline": "Can Trump deport Congresswoman Ilhan Omar?",
-      "excerpt": "Can Trump deport Congresswoman Ilhan Omar?",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/22/can-trump-deport-congresswoman-ilhan-omar?traffic_source=rss",
-      "published": "2026-10-22T02:34:46+00:00",
+      "id": "5469ad5a4126",
+      "source": "ProPublica",
+      "headline": "Colorado Marijuana Regulators Failed to Protect Consumers From Potential Contamination, Audit Finds",
+      "excerpt": "The post Colorado Marijuana Regulators Failed to Protect Consumers From Potential Contamination, Audit Finds appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/colorado-marijuana-enforcement-division-audit-findings",
+      "published": "2026-10-21T15:35:00+00:00",
       "featured": false
     },
     {
@@ -245,12 +254,12 @@
       "featured": false
     },
     {
-      "id": "77d5fe11d8ee",
-      "source": "ProPublica",
-      "headline": "Town Leaders Said They Were Prepared for Floods. First Responders Disagree.",
-      "excerpt": "The post Town Leaders Said They Were Prepared for Floods. First Responders Disagree. appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/ruidoso-flood-emergency-response-water-rescue",
-      "published": "2026-10-21T09:55:00+00:00",
+      "id": "6800d8f0e04d",
+      "source": "OCCRP",
+      "headline": "Liechtenstein Discontinued Investigation into Swiss Banker",
+      "excerpt": "",
+      "link": "https://www.occrp.org/en/news/liechtenstein-discontinued-investigation-into-swiss-banker",
+      "published": "2026-10-21T07:44:00+00:00",
       "featured": false
     },
     {
@@ -272,12 +281,12 @@
       "featured": false
     },
     {
-      "id": "4a24f3245463",
-      "source": "OCCRP",
-      "headline": "Albanian PM Offers Dialogue Amid Crackdown on Violent Protests",
-      "excerpt": "As student-led demonstrations enter their second week, Prime Minister Edi Rama calls for unconditional talks while police report mass arrests and an ombudsman probe details systemic abuse against detainees.",
-      "link": "https://www.occrp.org/en/news/albanian-pm-offers-dialogue-amid-crackdown-on-violent-protests",
-      "published": "2026-10-20T17:57:00+00:00",
+      "id": "7039f948d4f3",
+      "source": "Rest of World",
+      "headline": "Western open-weight models still can’t beat China",
+      "excerpt": "Chinese open-weight AI models offer high capability at significantly lower costs than U.S. frontier systems, but face monetization and compute challenges, experts said at a Rest of World event in San Francisco.",
+      "link": "https://restofworld.org/2026/china-open-weight-models/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "published": "2026-10-16T10:00:00+00:00",
       "featured": false
     },
     {
@@ -287,15 +296,6 @@
       "excerpt": "Ten years after ICIJ’s investigation exposed the country as a corporate haven, regulations and checks have been put in place to deal with the reputational damage.",
       "link": "https://www.icij.org/investigations/panama-papers/panama-removed-from-eus-tax-haven-blacklist-a-decade-after-the-panama-papers/",
       "published": "2026-10-15T18:44:05+00:00",
-      "featured": false
-    },
-    {
-      "id": "ae8053d8e161",
-      "source": "Rest of World",
-      "headline": "What the West can learn from AI optimists in the rest of the world",
-      "excerpt": "The developing world’s enthusiastic adoption of AI and necessity-driven innovations offer lessons for an anxiety-ridden West.",
-      "link": "https://restofworld.org/2026/west-ai-anxiety-optimism-innovation/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-      "published": "2026-10-15T10:00:00+00:00",
       "featured": false
     },
     {
@@ -317,21 +317,21 @@
       "featured": false
     },
     {
-      "id": "b97bf805f887",
+      "id": "9961fdaa30d6",
       "source": "Bellingcat",
-      "headline": "Viral Google Maps Images Shared Widely This Week Show Gaza Ruins. We Obtained More Recent Satellite Imagery",
-      "excerpt": "Earlier this week, several viral social media posts and news articles stated that Google had updated satellite imagery over Gaza. The imagery shared in these posts and articles shows several areas, including the...",
-      "link": "https://www.bellingcat.com/news/middle-east/2026/10/01/viral-google-maps-images-shared-widely-this-week-show-gaza-ruins-we-obtained-more-recent-satellite-imagery/",
-      "published": "2026-10-01T13:46:03+00:00",
+      "headline": "Groups Associated With India’s Far-Right Receive Millions Through US Donor-Advised Funds",
+      "excerpt": "Sign up here to receive Bellingcat’s biggest investigations by email as soon as they are published. US non-profits whose founding leaders or organisations have been associated with India’s controversial Rashtriya...",
+      "link": "https://www.bellingcat.com/news/2026/10/06/dafs-india-rss-donations/",
+      "published": "2026-10-06T16:00:41+00:00",
       "featured": false
     },
     {
-      "id": "6bb1c849e664",
+      "id": "5103fa551803",
       "source": "Al Jazeera",
-      "headline": "Russia frees American Stephen Hubbard after 4 years behind bars",
-      "excerpt": "Russia frees American Stephen Hubbard after 4 years behind bars",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/22/russia-frees-american-stephen-hubbard-after-4-years-behind-bars?traffic_source=rss",
-      "published": "2026-10-22T02:16:25+00:00",
+      "headline": "Trump praises man who punched protester at rally in South Carolina",
+      "excerpt": "US President Donald Trump praised a man who punched a protester at a midterm election rally held in South Carolina.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/22/trump-praises-man-who-punched-protester-at-rally-in-south-carolina?traffic_source=rss",
+      "published": "2026-10-22T10:58:20+00:00",
       "featured": false
     },
     {
@@ -344,12 +344,12 @@
       "featured": false
     },
     {
-      "id": "3997f07e5aba",
+      "id": "b83640cd0445",
       "source": "ProPublica",
-      "headline": "The Secret Terms of Trump’s Venezuelan Oil Deal",
-      "excerpt": "The post The Secret Terms of Trump’s Venezuelan Oil Deal appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/trump-venezuela-oil-agreement-terms",
-      "published": "2026-10-21T01:53:00+00:00",
+      "headline": "“The River Can’t Be Trusted”",
+      "excerpt": "The post “The River Can’t Be Trusted” appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/wildfire-flood-risk-ruidoso-new-mexico",
+      "published": "2026-10-21T10:00:00+00:00",
       "featured": false
     },
     {
@@ -359,6 +359,15 @@
       "excerpt": "Weeks before the midterms, the Democratic establishment is insisting their party must stand against the public’s policy demands.",
       "link": "https://www.levernews.com/medicare-for-none/",
       "published": "2026-10-20T19:42:40+00:00",
+      "featured": false
+    },
+    {
+      "id": "41b9301e68b7",
+      "source": "OCCRP",
+      "headline": "Vučić Rejects Russia Sanctions, Blames Foreign Powers for Protests",
+      "excerpt": "",
+      "link": "https://www.occrp.org/en/news/vucic-rejects-russia-sanctions-blames-foreign-powers-for-protests",
+      "published": "2026-10-20T18:16:00+00:00",
       "featured": false
     },
     {
@@ -380,12 +389,12 @@
       "featured": false
     },
     {
-      "id": "bc94a81c93a0",
-      "source": "OCCRP",
-      "headline": "South Pacific Ponzi Scam “King” Noah Musingku Dies",
-      "excerpt": "After defrauding victims of tens of millions in a 1990s pyramid scheme, Noah Musingku spent decades ruling an armed, breakaway pseudo-state in Papua New Guinea. He died earlier this month.",
-      "link": "https://www.occrp.org/en/news/south-pacific-ponzi-scam-king-noah-musingku-dies",
-      "published": "2026-10-20T12:13:00+00:00",
+      "id": "ae8053d8e161",
+      "source": "Rest of World",
+      "headline": "What the West can learn from AI optimists in the rest of the world",
+      "excerpt": "The developing world’s enthusiastic adoption of AI and necessity-driven innovations offer lessons for an anxiety-ridden West.",
+      "link": "https://restofworld.org/2026/west-ai-anxiety-optimism-innovation/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "published": "2026-10-15T10:00:00+00:00",
       "featured": false
     },
     {
@@ -395,15 +404,6 @@
       "excerpt": "The sanctioned oligarch’s financial advisors in Cyprus falsified financial records in a yearslong a ploy for him to evade taxes, a new investigation by ICIJ’s media partners found.",
       "link": "https://www.icij.org/investigations/cyprus-confidential/leaked-files-reveal-how-deloitte-cyprus-helped-roman-abramovich-hide-10b-fortune/",
       "published": "2026-10-14T18:40:26+00:00",
-      "featured": false
-    },
-    {
-      "id": "90c33d7e87bd",
-      "source": "Rest of World",
-      "headline": "BYD expands EV shipping fleet as wars upend freight costs and key trade routes",
-      "excerpt": "The ''BYD Explorer No. 1'' car carrier, loaded with new energy vehicles, is setting sail from Yantai Port in Yantai, China, on January 10, 2024.",
-      "link": "https://restofworld.org/2026/byd-expands-cargo-ship-ev-exports/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-      "published": "2026-10-14T10:00:00+00:00",
       "featured": false
     },
     {
@@ -425,12 +425,30 @@
       "featured": false
     },
     {
-      "id": "40bf5748c53b",
+      "id": "b97bf805f887",
+      "source": "Bellingcat",
+      "headline": "Viral Google Maps Images Shared Widely This Week Show Gaza Ruins. We Obtained More Recent Satellite Imagery",
+      "excerpt": "Earlier this week, several viral social media posts and news articles stated that Google had updated satellite imagery over Gaza. The imagery shared in these posts and articles shows several areas, including the...",
+      "link": "https://www.bellingcat.com/news/middle-east/2026/10/01/viral-google-maps-images-shared-widely-this-week-show-gaza-ruins-we-obtained-more-recent-satellite-imagery/",
+      "published": "2026-10-01T13:46:03+00:00",
+      "featured": false
+    },
+    {
+      "id": "f4b909b08ccb",
       "source": "Al Jazeera",
-      "headline": "Tigray resumes daily life amid fears of wider war",
-      "excerpt": "Mekelle’s reopening offers little relief as instability and economic hardship persist.",
-      "link": "https://www.aljazeera.com/news/2026/10/22/tigray-resumes-daily-life-amid-fears-of-wider-war?traffic_source=rss",
-      "published": "2026-10-22T02:08:05+00:00",
+      "headline": "US ambassador to Turkiye: Rethinking US role in the Middle East",
+      "excerpt": "Tom Barrack says Washington's relationship with the Middle East needs to change from one of control to one of support.",
+      "link": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/10/22/us-ambassador-to-turkiye-rethinking-us-role-in-the-middle-east?traffic_source=rss",
+      "published": "2026-10-22T10:51:11+00:00",
+      "featured": false
+    },
+    {
+      "id": "77d5fe11d8ee",
+      "source": "ProPublica",
+      "headline": "Town Leaders Said They Were Prepared for Floods. First Responders Disagree.",
+      "excerpt": "The post Town Leaders Said They Were Prepared for Floods. First Responders Disagree. appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/ruidoso-flood-emergency-response-water-rescue",
+      "published": "2026-10-21T09:55:00+00:00",
       "featured": false
     },
     {
@@ -443,21 +461,21 @@
       "featured": false
     },
     {
+      "id": "4a24f3245463",
+      "source": "OCCRP",
+      "headline": "Albanian PM Offers Dialogue Amid Crackdown on Violent Protests",
+      "excerpt": "As student-led demonstrations enter their second week, Prime Minister Edi Rama calls for unconditional talks while police report mass arrests and an ombudsman probe details systemic abuse against detainees.",
+      "link": "https://www.occrp.org/en/news/albanian-pm-offers-dialogue-amid-crackdown-on-violent-protests",
+      "published": "2026-10-20T17:57:00+00:00",
+      "featured": false
+    },
+    {
       "id": "8496c0c8602d",
       "source": "404 Media",
       "headline": "DHS Said They Searched Man Who Wiped GrapheneOS Phone for Child Abuse Material. They Lied",
       "excerpt": "Officials said they wanted to search the phone of Samuel Tunick, a Stop Cop City activist, for child abuse material. It was actually because he was suspected of “terrorist activities.”",
       "link": "https://www.404media.co/dhs-said-they-searched-man-who-wiped-grapheneos-phone-for-child-abuse-material-they-lied/",
       "published": "2026-10-20T16:00:10+00:00",
-      "featured": false
-    },
-    {
-      "id": "fb98dcce3635",
-      "source": "ProPublica",
-      "headline": "How Trump’s FBI Purge Saved Lindsey Graham and James Clyburn From a Bribery Investigation",
-      "excerpt": "The post How Trump’s FBI Purge Saved Lindsey Graham and James Clyburn From a Bribery Investigation appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/navatek-lindsey-graham-jim-clyburn-fbi-anti-corruption-bribery",
-      "published": "2026-10-20T09:00:00+00:00",
       "featured": false
     },
     {
@@ -479,21 +497,12 @@
       "featured": false
     },
     {
-      "id": "111651599662",
-      "source": "OCCRP",
-      "headline": "Kazakh President’s Grandnephew Donates Sport University to State Following Investigative Report",
-      "excerpt": "The sudden handover of the Kazakh National University of Sports follows a joint investigation by Radio Azattyq and OCCRP, which revealed how President Tokayev’s grandnephew founded educational ventures that received...",
-      "link": "https://www.occrp.org/en/news/kazakh-presidents-grandnephew-donates-sport-university-to-state-following-investigative-report",
-      "published": "2026-10-19T13:06:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "53ba0573a15d",
+      "id": "90c33d7e87bd",
       "source": "Rest of World",
-      "headline": "The UAE embraces AI for kindergartners",
-      "excerpt": "The country’s approach offers a glimpse of what education could look like if AI literacy becomes as fundamental as reading and writing.",
-      "link": "https://restofworld.org/2026/uae-mandates-k12-ai-education-schools/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-      "published": "2026-10-13T10:00:00+00:00",
+      "headline": "BYD expands EV shipping fleet as wars upend freight costs and key trade routes",
+      "excerpt": "The ''BYD Explorer No. 1'' car carrier, loaded with new energy vehicles, is setting sail from Yantai Port in Yantai, China, on January 10, 2024.",
+      "link": "https://restofworld.org/2026/byd-expands-cargo-ship-ev-exports/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "published": "2026-10-14T10:00:00+00:00",
       "featured": false
     },
     {
@@ -515,30 +524,21 @@
       "featured": false
     },
     {
-      "id": "fcade75d5251",
+      "id": "ce2c211cf581",
       "source": "Al Jazeera",
-      "headline": "What is the FDLR, and why does its anti-Tutsi ideology endure?",
-      "excerpt": "Four former FDLR officers reveal how its anti-Tutsi ideology took root and endured in Africa.",
-      "link": "https://www.aljazeera.com/news/2026/10/22/what-is-the-fdlr-and-why-does-its-anti-tutsi-ideology-endure?traffic_source=rss",
-      "published": "2026-10-22T02:02:55+00:00",
+      "headline": "Is Neha Bora, India’s new red star, Modi’s real Gen Z threat?",
+      "excerpt": "Firebrand student leader has become face of the youth protest movement taking on Modi's Hindu majoritarian government.",
+      "link": "https://www.aljazeera.com/features/2026/10/22/is-neha-bora-indias-new-red-star-modis-real-gen-z-threat?traffic_source=rss",
+      "published": "2026-10-22T10:45:01+00:00",
       "featured": false
     },
     {
-      "id": "6952c53adbf9",
-      "source": "The Lever",
-      "headline": "Angie Nixon's Formula For Winning Without Corporate Cash",
-      "excerpt": "U.S. Senate candidate Angie Nixon is challenging Republican Sen. Ashley Moody without money from corporate PACs — or the full blessing of the Democratic establishment",
-      "link": "https://www.levernews.com/angie-nixons-formula-for-winning-without-corporate-cash/",
-      "published": "2026-10-20T18:27:46+00:00",
-      "featured": false
-    },
-    {
-      "id": "555eae0b5176",
-      "source": "404 Media",
-      "headline": "People Are Using 'AI Decompiling' to Hack Their Things",
-      "excerpt": "A gang of hackers targets Staples, but not to buy things from Staples.",
-      "link": "https://www.404media.co/people-are-using-ai-decompiling-to-hack-their-things/",
-      "published": "2026-10-20T13:51:57+00:00",
+      "id": "3997f07e5aba",
+      "source": "ProPublica",
+      "headline": "The Secret Terms of Trump’s Venezuelan Oil Deal",
+      "excerpt": "The post The Secret Terms of Trump’s Venezuelan Oil Deal appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/trump-venezuela-oil-agreement-terms",
+      "published": "2026-10-21T01:53:00+00:00",
       "featured": false
     }
   ]
