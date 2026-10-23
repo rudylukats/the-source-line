@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-10-22T21:36:51.477104+00:00",
+  "generated_at": "2026-10-23T04:50:57.136463+00:00",
   "articles": [
+    {
+      "id": "ae1637aae470",
+      "source": "Al Jazeera",
+      "headline": "Keeping Madhubala alive: The fight for Karachi’s captive elephants",
+      "excerpt": "Karachi's last two African elephants remain in captivity. Their sisters are already dead. Will they survive?",
+      "link": "https://www.aljazeera.com/features/2026/10/23/keeping-madhubala-alive-the-fight-for-karachis-captive-elephants?traffic_source=rss",
+      "published": "2026-10-23T04:27:55+00:00",
+      "featured": true
+    },
+    {
+      "id": "9842cb5f64a9",
+      "source": "Dropsite News",
+      "headline": "UAE Paid Swiss Intelligence Firm to Compile Database of “Hostile” Facebook Users",
+      "excerpt": "Leaked documents reveal a project to compile lists of UAE residents from their Facebook likes of news articles considered critical of the Emirati government.",
+      "link": "https://www.dropsitenews.com/p/uae-alp-services-facebook-crackdown",
+      "published": "2026-10-23T00:01:22+00:00",
+      "featured": true
+    },
     {
       "id": "da8437b384e2",
       "source": "The Lever",
@@ -11,22 +29,13 @@
       "featured": true
     },
     {
-      "id": "8f9cdf7f86e4",
-      "source": "Al Jazeera",
-      "headline": "Magnitude 7 earthquake kills 16 people in China’s Tibet, Xinhua reports",
-      "excerpt": "The powerful earthquake has killed 16 people and wounded 32 so far, local medics reported.",
-      "link": "https://www.aljazeera.com/news/2026/10/22/magnitude-7-earthquake-kills-16-people-in-chinas-tibet-xinhua-reports?traffic_source=rss",
-      "published": "2026-10-22T21:23:01+00:00",
-      "featured": true
-    },
-    {
       "id": "a418f0f71f38",
       "source": "404 Media",
       "headline": "Portal Texas Used to ‘Rubber Stamp’ Data Centers Down After 404 Media Reporting",
       "excerpt": "Commissioners in Texas said they’re making sure ‘all applications are reviewed by agency staff to determine if they are related to data centers.’",
       "link": "https://www.404media.co/texas-commission-on-environmental-quality-portal-down/",
       "published": "2026-10-22T20:26:43+00:00",
-      "featured": true
+      "featured": false
     },
     {
       "id": "9fbc8cf05cd0",
@@ -44,15 +53,6 @@
       "excerpt": "The New York City mayor has said he doesn’t want to “normalize” ICE. But the NYPD, led by Jessica Tisch, has other plans. The post Mamdani’s High-Wire Balancing Act Between ICE and NYPD Can’t Last appeared first on The...",
       "link": "https://theintercept.com/2026/10/22/mamdani-tisch-ice-shooting-nypd/",
       "published": "2026-10-22T17:45:20+00:00",
-      "featured": false
-    },
-    {
-      "id": "4548bba9e3b7",
-      "source": "Dropsite News",
-      "headline": "Exclusive: UN abandons Rafah crossing; PHP flaws expose websites; AIPAC ends endorsements",
-      "excerpt": "Drop Site Daily: October 22, 2026",
-      "link": "https://www.dropsitenews.com/p/un-rafah-gaza-israel-php-flaws-websites-aipac-end-endorsements",
-      "published": "2026-10-22T15:22:06+00:00",
       "featured": false
     },
     {
@@ -110,12 +110,12 @@
       "featured": false
     },
     {
-      "id": "ef6dfbb19cf0",
+      "id": "dd6cd0671797",
       "source": "Al Jazeera",
-      "headline": "Trump ordered to sit for deposition in BBC defamation lawsuit",
-      "excerpt": "Judge says Trump must sit for questioning from a BBC lawyer by December 11 or face possible dismissal of lawsuit.",
-      "link": "https://www.aljazeera.com/news/2026/10/22/trump-ordered-to-sit-for-deposition-in-bbc-defamation-lawsuit?traffic_source=rss",
-      "published": "2026-10-22T21:20:32+00:00",
+      "headline": "Israel arrests 36 Palestinians in the West Bank, attacks on farmers ramp up",
+      "excerpt": "Israeli pogroms on Palestinian farmers and their lands during the olive harvest season intensify.",
+      "link": "https://www.aljazeera.com/news/2026/10/23/israel-arrests-36-palestinians-in-the-west-bank-attacks-on-farmers-ramp-up?traffic_source=rss",
+      "published": "2026-10-23T04:09:28+00:00",
       "featured": false
     },
     {
@@ -137,6 +137,15 @@
       "featured": false
     },
     {
+      "id": "4548bba9e3b7",
+      "source": "Dropsite News",
+      "headline": "Exclusive: UN abandons Rafah crossing; PHP flaws expose websites; AIPAC ends endorsements",
+      "excerpt": "Drop Site Daily: October 22, 2026",
+      "link": "https://www.dropsitenews.com/p/un-rafah-gaza-israel-php-flaws-websites-aipac-end-endorsements",
+      "published": "2026-10-22T15:22:06+00:00",
+      "featured": false
+    },
+    {
       "id": "6d2b4635eba2",
       "source": "OCCRP",
       "headline": "Smugglers Collected Up to $509M on Europe Routes in 2025",
@@ -152,15 +161,6 @@
       "excerpt": "The post Ballot Rejections Soared in Rural Counties After USPS Reduced Mail Service appeared first on ProPublica.",
       "link": "https://www.propublica.org/article/mail-ballot-delays-postal-service-midterms",
       "published": "2026-10-22T10:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "3a86e00b4716",
-      "source": "Dropsite News",
-      "headline": "The War Tehran Believes Is Coming",
-      "excerpt": "Iran believes the U.S. and Israel may strike before the midterms. Top security official Gen. Mohsen Rezaei tells Drop Site Iran has new targets in its sights.",
-      "link": "https://www.dropsitenews.com/p/iran-war-israel-netanyahu-trump-hormuz-mohsen-rezaei",
-      "published": "2026-10-21T21:21:27+00:00",
       "featured": false
     },
     {
@@ -218,12 +218,12 @@
       "featured": false
     },
     {
-      "id": "a04027369e36",
+      "id": "377ad1e255bc",
       "source": "Al Jazeera",
-      "headline": "Can Pakistan save the last two of its four captive African elephants?",
-      "excerpt": "Of four elephants brought to Pakistan in 2009, two have died. Now, two others are ill, raising welfare concerns.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/22/10-22-karachi-captive-elephants-sv?traffic_source=rss",
-      "published": "2026-10-22T21:19:47+00:00",
+      "headline": "US tech stocks tumble as investors fret over AI spending",
+      "excerpt": "Tech-heavy Nasdaq falls 2.6 percent as debate rages over whether AI is a bubble.",
+      "link": "https://www.aljazeera.com/economy/2026/10/23/us-tech-stocks-tumble-as-investors-fret-over-ai-spending?traffic_source=rss",
+      "published": "2026-10-23T03:13:13+00:00",
       "featured": false
     },
     {
@@ -263,12 +263,12 @@
       "featured": false
     },
     {
-      "id": "8dd6170debe2",
+      "id": "3a86e00b4716",
       "source": "Dropsite News",
-      "headline": "Mike Rogers Puts Spotlight on Failed Benghazi Probe in Final Weeks of Senate Race",
-      "excerpt": "Unpacking Rogers’s legal threat against Drop Site",
-      "link": "https://www.dropsitenews.com/p/mike-rogers-puts-spotlight-on-failed-benghazi",
-      "published": "2026-10-21T19:55:53+00:00",
+      "headline": "The War Tehran Believes Is Coming",
+      "excerpt": "Iran believes the U.S. and Israel may strike before the midterms. Top security official Gen. Mohsen Rezaei tells Drop Site Iran has new targets in its sights.",
+      "link": "https://www.dropsitenews.com/p/iran-war-israel-netanyahu-trump-hormuz-mohsen-rezaei",
+      "published": "2026-10-21T21:21:27+00:00",
       "featured": false
     },
     {
@@ -326,12 +326,12 @@
       "featured": false
     },
     {
-      "id": "90b2725031ce",
+      "id": "f722311fd491",
       "source": "Al Jazeera",
-      "headline": "Ballon d’Or 2026: Can Bayern’s Harry Kane end England’s 25 years of hurt?",
-      "excerpt": "Bayern Munich striker Kane faces tough competition from Lamine Yamal and Kylian Mbappe, who are also in the ‌‌running.",
-      "link": "https://www.aljazeera.com/sports/2026/10/22/ballon-dor-2026-can-bayerns-harry-kane-end-englands-25-years-of-hurt?traffic_source=rss",
-      "published": "2026-10-22T21:03:48+00:00",
+      "headline": "Venezuelans demand elections in first national protest in nearly two years",
+      "excerpt": "No date has been set to decide on a successor for Nicolas Maduro after the former president was captured by US forces.",
+      "link": "https://www.aljazeera.com/news/2026/10/23/venezuelans-demand-elections-in-first-national-protest-in-nearly-two-years?traffic_source=rss",
+      "published": "2026-10-23T03:12:12+00:00",
       "featured": false
     },
     {
@@ -362,21 +362,21 @@
       "featured": false
     },
     {
+      "id": "8dd6170debe2",
+      "source": "Dropsite News",
+      "headline": "Mike Rogers Puts Spotlight on Failed Benghazi Probe in Final Weeks of Senate Race",
+      "excerpt": "Unpacking Rogers’s legal threat against Drop Site",
+      "link": "https://www.dropsitenews.com/p/mike-rogers-puts-spotlight-on-failed-benghazi",
+      "published": "2026-10-21T19:55:53+00:00",
+      "featured": false
+    },
+    {
       "id": "5469ad5a4126",
       "source": "ProPublica",
       "headline": "Colorado Marijuana Regulators Failed to Protect Consumers From Potential Contamination, Audit Finds",
       "excerpt": "The post Colorado Marijuana Regulators Failed to Protect Consumers From Potential Contamination, Audit Finds appeared first on ProPublica.",
       "link": "https://www.propublica.org/article/colorado-marijuana-enforcement-division-audit-findings",
       "published": "2026-10-21T15:35:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "b608216f9c00",
-      "source": "Dropsite News",
-      "headline": "Hospitals in Gaza face power shutdowns; U.S. polling firm admits fabricating data; Water crisis in Yemen",
-      "excerpt": "Drop Site Daily: October 21, 2026",
-      "link": "https://www.dropsitenews.com/p/hospitals-gaza-shutdowns-us-polling-wedgewood-yemen-ansarallah-water-crisis",
-      "published": "2026-10-21T15:22:47+00:00",
       "featured": false
     },
     {
@@ -434,12 +434,12 @@
       "featured": false
     },
     {
-      "id": "5081747a155a",
+      "id": "ad537577e07c",
       "source": "Al Jazeera",
-      "headline": "Why measles outbreak in Pennsylvania poses risks beyond US borders",
-      "excerpt": "The United States is facing its largest outbreak of measles since the virus was declared eliminated in 2000.",
-      "link": "https://www.aljazeera.com/news/2026/10/22/why-measles-outbreak-in-pennsylvania-poses-risks-beyond-us-borders?traffic_source=rss",
-      "published": "2026-10-22T21:02:30+00:00",
+      "headline": "Indian developer turns ‘Cockroach’ protests into video game",
+      "excerpt": "A 27-year-old Indian developer has created a satirical video game inspired by the Cockroach Party-led protests.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/23/indian-developer-turns-cockroach-protests-into-video-game?traffic_source=rss",
+      "published": "2026-10-23T02:44:35+00:00",
       "featured": false
     },
     {
@@ -470,6 +470,15 @@
       "featured": false
     },
     {
+      "id": "b608216f9c00",
+      "source": "Dropsite News",
+      "headline": "Hospitals in Gaza face power shutdowns; U.S. polling firm admits fabricating data; Water crisis in Yemen",
+      "excerpt": "Drop Site Daily: October 21, 2026",
+      "link": "https://www.dropsitenews.com/p/hospitals-gaza-shutdowns-us-polling-wedgewood-yemen-ansarallah-water-crisis",
+      "published": "2026-10-21T15:22:47+00:00",
+      "featured": false
+    },
+    {
       "id": "b83640cd0445",
       "source": "ProPublica",
       "headline": "“The River Can’t Be Trusted”",
@@ -485,15 +494,6 @@
       "excerpt": "At least 10 patients with kidney failure near Taiz, a city under a Houthi siege, died because they were unable to get to their dialysis treatments. The post Yemenis Unable to Reach Hospital Are Part of the Iran War...",
       "link": "https://theintercept.com/2026/10/20/yemenis-dialysis-houthi-blockade-iran-war/",
       "published": "2026-10-20T17:31:05+00:00",
-      "featured": false
-    },
-    {
-      "id": "3a6191d77228",
-      "source": "Dropsite News",
-      "headline": "Sudan drone strikes kill 160+; Oil hits five-month high; Mahmoud Khalil appeals to SCOTUS",
-      "excerpt": "Drop Site Daily: October 20, 2026",
-      "link": "https://www.dropsitenews.com/p/sudan-drone-strikes-oil-hormuz--iran-yemen-mahmoud-khalil-scotus",
-      "published": "2026-10-20T15:41:51+00:00",
       "featured": false
     },
     {
@@ -524,12 +524,12 @@
       "featured": false
     },
     {
-      "id": "89e925c7636f",
+      "id": "b18c9fdaee26",
       "source": "Al Jazeera",
-      "headline": "IEA chief warns energy is becoming a geopolitical weapon",
-      "excerpt": "Dr. Fatih Birol, Executive Director of the IEA, warns that energy is becoming a geopolitical weapon.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/22/aje-onl-nf_iea-warns-energy-becoming-a-geopolitical-weapon-221026?traffic_source=rss",
-      "published": "2026-10-22T20:51:26+00:00",
+      "headline": "Trump backs Ramaswamy ad featuring rival Amy Acton’s estranged mother",
+      "excerpt": "Trump advises the Republican gubernatorial candidate to keep running the controversial advertisement.",
+      "link": "https://www.aljazeera.com/news/2026/10/23/trump-backs-ramaswamy-ad-featuring-rival-amy-actons-estranged-mother?traffic_source=rss",
+      "published": "2026-10-23T02:22:24+00:00",
       "featured": false
     },
     {
