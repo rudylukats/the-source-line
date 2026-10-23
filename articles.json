@@ -1,14 +1,41 @@
 {
-  "generated_at": "2026-10-23T17:08:24.118303+00:00",
+  "generated_at": "2026-10-23T21:25:11.244692+00:00",
   "articles": [
     {
-      "id": "0dfd1335f734",
+      "id": "7d133e8d5a34",
       "source": "Al Jazeera",
-      "headline": "Many feared trapped after Kenya building collapse",
-      "excerpt": "Many people are feared trapped after a multi-storey building collapsed in the Kenyan capital of Nairobi.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/23/many-feared-trapped-after-kenya-building-collapse?traffic_source=rss",
-      "published": "2026-10-23T17:01:05+00:00",
+      "headline": "‘Generation Right’: Israeli youth show strong support for the right",
+      "excerpt": "Some three quarters of Jewish first-time voters identify as right or centre-right, higher than rest of Israeli society.",
+      "link": "https://www.aljazeera.com/news/2026/10/23/generation-right-israeli-youth-show-strong-support-for-the-right?traffic_source=rss",
+      "published": "2026-10-23T20:52:32+00:00",
       "featured": true
+    },
+    {
+      "id": "bfe15fd2672d",
+      "source": "The Intercept",
+      "headline": "Bodycam: Cop Was Not in Danger When He Fired Shots That Killed 1-Year-Old Kohen Wiley",
+      "excerpt": "Mississippi investigators said the shooting was “justified,” but new body camera footage shows the cop firing into the passenger’s side as the car passed by him. The post Bodycam: Cop Was Not in Danger When He Fired...",
+      "link": "https://theintercept.com/2026/10/23/kohen-wiley-body-camera-police-shooting-justification/",
+      "published": "2026-10-23T20:36:17+00:00",
+      "featured": true
+    },
+    {
+      "id": "294a483da3e2",
+      "source": "Dropsite News",
+      "headline": "Sudanese Army Drone Strikes Kill Scores of Civilians in Crowded Market",
+      "excerpt": "A drone strike on a market in the disputed Abyei region killed over 150 people, part of a wave of large scale attacks by the Sudanese army.",
+      "link": "https://www.dropsitenews.com/p/sudan-saf-army-drone-strikes-abyei-market-kordofan",
+      "published": "2026-10-23T20:07:09+00:00",
+      "featured": true
+    },
+    {
+      "id": "467973b301aa",
+      "source": "ProPublica",
+      "headline": "After Millions in Stolen SNAP Benefits, Trump Administration Moves to Fight Theft",
+      "excerpt": "The post After Millions in Stolen SNAP Benefits, Trump Administration Moves to Fight Theft appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/snap-theft-chip-cards-trump-rule",
+      "published": "2026-10-23T17:45:00+00:00",
+      "featured": false
     },
     {
       "id": "93445e539241",
@@ -17,16 +44,7 @@
       "excerpt": "How people are removing surveillance ads from their TVs; a big AI shakeup at Accenture; and the Character.ai bankruptcy.",
       "link": "https://www.404media.co/podcast-reverse-engineer-anything-is-the-next-wave-of-ai-slop/",
       "published": "2026-10-23T16:36:40+00:00",
-      "featured": true
-    },
-    {
-      "id": "0c4933bea3c3",
-      "source": "ProPublica",
-      "headline": "Ken Paxton Says He’s Tough on Crime. His Trust Invested $600,000 in a Convicted Fraudster’s Company.",
-      "excerpt": "The post Ken Paxton Says He’s Tough on Crime. His Trust Invested $600,000 in a Convicted Fraudster’s Company. appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/ken-paxton-investment-scott-sherman-wildcatter",
-      "published": "2026-10-23T16:00:00+00:00",
-      "featured": true
+      "featured": false
     },
     {
       "id": "2c5ea0bf1bfb",
@@ -35,24 +53,6 @@
       "excerpt": "Cypriot officials faced questioning from parliamentarians following an investigation by OCCRP and partners, which found that corporate services firms backdated documents to help companies tied to Russian billionaire...",
       "link": "https://www.occrp.org/en/news/cyprus-parliament-reviews-reports-on-abramovich-linked-asset-transfers",
       "published": "2026-10-23T15:51:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "b30268fe5466",
-      "source": "Dropsite News",
-      "headline": "Netanyahu orders full lockdown of West Bank after shooting; Bombshell report on Kushner’s $2B slush fund; Brent crude hits $114",
-      "excerpt": "Drop Site Daily: October 23, 2026",
-      "link": "https://www.dropsitenews.com/p/netanyahu-west-bank-hebron-kushner-slush-fund-brent-crude-iran-trump",
-      "published": "2026-10-23T15:31:55+00:00",
-      "featured": false
-    },
-    {
-      "id": "4d8def2be9e9",
-      "source": "The Intercept",
-      "headline": "Giant Crypto Super PAC Funnels Big Money to Former Trump Official’s Firm to Support… Democrats?",
-      "excerpt": "The Fellowship PAC routed more than half a million dollars in support of Democrats through a firm co-founded by former Trump crypto adviser Bo Hines. The post Giant Crypto Super PAC Funnels Big Money to Former Trump...",
-      "link": "https://theintercept.com/2026/10/23/crypto-donations-democrats-elections-bo-hines/",
-      "published": "2026-10-23T14:27:48+00:00",
       "featured": false
     },
     {
@@ -110,12 +110,30 @@
       "featured": false
     },
     {
-      "id": "9de1432dd159",
+      "id": "146bcd971e2e",
       "source": "Al Jazeera",
-      "headline": "Indonesia seizes more than a tonne of ketamine from tanker",
-      "excerpt": "Indonesian authorities seized 1.16 tonnes of ketamine from a Malaysian vessel in the Strait of Malacca.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/23/aje-onl-nf_indonesia-seizes-more-than-a-tonne-of-ketamine-231026?traffic_source=rss",
-      "published": "2026-10-23T17:00:22+00:00",
+      "headline": "FCC Democrat warns broadcasters to resist Trump’s media pressure tactics",
+      "excerpt": "Democrat Anna Gomez warns broadcasters against yielding to the Trump-era FCC's claims of fake polls and news distortions.",
+      "link": "https://www.aljazeera.com/economy/2026/10/23/fcc-democrat-warns-broadcasters-to-resist-trumps-media-pressure-tactics?traffic_source=rss",
+      "published": "2026-10-23T20:44:14+00:00",
+      "featured": false
+    },
+    {
+      "id": "2d38e92cc1da",
+      "source": "The Intercept",
+      "headline": "The Intercept Live in Conversation With Robert Reich",
+      "excerpt": "Inequality Media co-founder Robert Reich and The Intercept’s Akela Lacy break down the most pressing issues of the midterm elections. The post The Intercept Live in Conversation With Robert Reich appeared first on The...",
+      "link": "https://theintercept.com/2026/10/23/robert-reich-live-midterm-elections-democracy/",
+      "published": "2026-10-23T18:34:26+00:00",
+      "featured": false
+    },
+    {
+      "id": "0c4933bea3c3",
+      "source": "ProPublica",
+      "headline": "Ken Paxton Says He’s Tough on Crime. His Trust Invested $600,000 in a Convicted Fraudster’s Company.",
+      "excerpt": "The post Ken Paxton Says He’s Tough on Crime. His Trust Invested $600,000 in a Convicted Fraudster’s Company. appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/ken-paxton-investment-scott-sherman-wildcatter",
+      "published": "2026-10-23T16:00:00+00:00",
       "featured": false
     },
     {
@@ -128,6 +146,15 @@
       "featured": false
     },
     {
+      "id": "b30268fe5466",
+      "source": "Dropsite News",
+      "headline": "Netanyahu orders full lockdown of West Bank after shooting; Bombshell report on Kushner’s $2B slush fund; Brent crude hits $114",
+      "excerpt": "Drop Site Daily: October 23, 2026",
+      "link": "https://www.dropsitenews.com/p/netanyahu-west-bank-hebron-kushner-slush-fund-brent-crude-iran-trump",
+      "published": "2026-10-23T15:31:55+00:00",
+      "featured": false
+    },
+    {
       "id": "2b9384011fa8",
       "source": "OCCRP",
       "headline": "Many in Serbia’s Youth Movement Fear a Rigged Election on Sunday",
@@ -137,39 +164,12 @@
       "featured": false
     },
     {
-      "id": "f92969d68336",
-      "source": "The Intercept",
-      "headline": "The Stakes of Brazil’s Presidential Election",
-      "excerpt": "“Almost all of the worst ideas in the United States have been intentionally exported to Brazil as a way to make Brazil a worse country that’s more in line with U.S. interests.” The post The Stakes of Brazil’s...",
-      "link": "https://theintercept.com/2026/10/23/brazil-president-election-lula-bolsonaro-meta/",
-      "published": "2026-10-23T10:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "839784e79f8c",
-      "source": "ProPublica",
-      "headline": "Bird Flu Is Raging on a Mink Farm. It Could Spark a Human Pandemic, Experts Say, but Officials Won’t Act.",
-      "excerpt": "The post Bird Flu Is Raging on a Mink Farm. It Could Spark a Human Pandemic, Experts Say, but Officials Won’t Act. appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/bird-flu-mink-farm-utah-human-risk",
-      "published": "2026-10-23T09:00:00+00:00",
-      "featured": false
-    },
-    {
       "id": "21946f308ac4",
       "source": "The Lever",
       "headline": "Angie Nixon's Battle Cry Against Corporate Power",
       "excerpt": "Lever columnist Morgan Harper sits down with the U.S. Senate candidate from Florida to discuss why calling out corporations is essential to empowering Black Americans.",
       "link": "https://www.levernews.com/angie-nixons-battle-cry-against-corporate-power/",
       "published": "2026-10-23T09:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "9842cb5f64a9",
-      "source": "Dropsite News",
-      "headline": "UAE Paid Swiss Intelligence Firm to Compile Database of “Hostile” Facebook Users",
-      "excerpt": "Leaked documents reveal a project to compile lists of UAE residents from their Facebook likes of news articles considered critical of the Emirati government.",
-      "link": "https://www.dropsitenews.com/p/uae-alp-services-facebook-crackdown",
-      "published": "2026-10-23T00:01:22+00:00",
       "featured": false
     },
     {
@@ -218,12 +218,21 @@
       "featured": false
     },
     {
-      "id": "0624c4717176",
+      "id": "889a68295e98",
       "source": "Al Jazeera",
-      "headline": "Brazil’s right has already changed the balance of power",
-      "excerpt": "Bolsonaro’s party has strengthened its position in Congress, posing a formidable challenge to another Lula presidency.",
-      "link": "https://www.aljazeera.com/opinions/2026/10/23/brazils-right-has-already-changed-the-balance-of-power?traffic_source=rss",
-      "published": "2026-10-23T16:41:09+00:00",
+      "headline": "Time ‘running out’ to reach Yemen’s Taiz amid deepening crisis, UN says",
+      "excerpt": "More than 800,000 people have been cut off from aid since the Houthis encircled Taiz city in early October.",
+      "link": "https://www.aljazeera.com/news/2026/10/23/time-running-out-to-reach-yemens-taiz-amid-deepening-crisis-un-says?traffic_source=rss",
+      "published": "2026-10-23T20:44:02+00:00",
+      "featured": false
+    },
+    {
+      "id": "4d8def2be9e9",
+      "source": "The Intercept",
+      "headline": "Giant Crypto Super PAC Funnels Big Money to Former Trump Official’s Firm to Support… Democrats?",
+      "excerpt": "The Fellowship PAC routed more than half a million dollars in support of Democrats through a firm co-founded by former Trump crypto adviser Bo Hines. The post Giant Crypto Super PAC Funnels Big Money to Former Trump...",
+      "link": "https://theintercept.com/2026/10/23/crypto-donations-democrats-elections-bo-hines/",
+      "published": "2026-10-23T14:27:48+00:00",
       "featured": false
     },
     {
@@ -233,6 +242,24 @@
       "excerpt": "Brendon Luo was sanctioned by the U.S. Treasury in June. He still owns a mansion in California worth an estimated $5 million.",
       "link": "https://www.occrp.org/en/news/sanctioned-investor-in-cambodian-scam-compound-owns-california-mansion",
       "published": "2026-10-23T09:40:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "839784e79f8c",
+      "source": "ProPublica",
+      "headline": "Bird Flu Is Raging on a Mink Farm. It Could Spark a Human Pandemic, Experts Say, but Officials Won’t Act.",
+      "excerpt": "The post Bird Flu Is Raging on a Mink Farm. It Could Spark a Human Pandemic, Experts Say, but Officials Won’t Act. appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/bird-flu-mink-farm-utah-human-risk",
+      "published": "2026-10-23T09:00:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "9842cb5f64a9",
+      "source": "Dropsite News",
+      "headline": "UAE Paid Swiss Intelligence Firm to Compile Database of “Hostile” Facebook Users",
+      "excerpt": "Leaked documents reveal a project to compile lists of UAE residents from their Facebook likes of news articles considered critical of the Emirati government.",
+      "link": "https://www.dropsitenews.com/p/uae-alp-services-facebook-crackdown",
+      "published": "2026-10-23T00:01:22+00:00",
       "featured": false
     },
     {
@@ -251,33 +278,6 @@
       "excerpt": "Commissioners in Texas said they’re making sure ‘all applications are reviewed by agency staff to determine if they are related to data centers.’",
       "link": "https://www.404media.co/texas-commission-on-environmental-quality-portal-down/",
       "published": "2026-10-22T20:26:43+00:00",
-      "featured": false
-    },
-    {
-      "id": "4415095af0a0",
-      "source": "The Intercept",
-      "headline": "Mamdani’s High-Wire Balancing Act Between ICE and NYPD Can’t Last",
-      "excerpt": "The New York City mayor has said he doesn’t want to “normalize” ICE. But the NYPD, led by Jessica Tisch, has other plans. The post Mamdani’s High-Wire Balancing Act Between ICE and NYPD Can’t Last appeared first on The...",
-      "link": "https://theintercept.com/2026/10/22/mamdani-tisch-ice-shooting-nypd/",
-      "published": "2026-10-22T17:45:20+00:00",
-      "featured": false
-    },
-    {
-      "id": "4548bba9e3b7",
-      "source": "Dropsite News",
-      "headline": "Exclusive: UN abandons Rafah crossing; PHP flaws expose websites; AIPAC ends endorsements",
-      "excerpt": "Drop Site Daily: October 22, 2026",
-      "link": "https://www.dropsitenews.com/p/un-rafah-gaza-israel-php-flaws-websites-aipac-end-endorsements",
-      "published": "2026-10-22T15:22:06+00:00",
-      "featured": false
-    },
-    {
-      "id": "17d63d7efe65",
-      "source": "ProPublica",
-      "headline": "Nuclear Weapons Waste Made Workers Sick. Despite a Law Meant to Help, the DOE Keeps Fighting Their Claims.",
-      "excerpt": "The post Nuclear Weapons Waste Made Workers Sick. Despite a Law Meant to Help, the DOE Keeps Fighting Their Claims. appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/hanford-nuclear-workers-compensation-washington-doe",
-      "published": "2026-10-22T12:00:00+00:00",
       "featured": false
     },
     {
@@ -326,12 +326,21 @@
       "featured": false
     },
     {
-      "id": "f2a9120d11eb",
+      "id": "75f28b8f0461",
       "source": "Al Jazeera",
-      "headline": "Israeli roadblocks disrupt schools and medical care in West Bank village",
-      "excerpt": "Residents of Madama describe being cut off from hospitals, schools, and olive groves as Israeli forces blockade village.",
-      "link": "https://www.aljazeera.com/news/2026/10/23/israeli-roadblocks-disrupt-schools-and-medical-care-in-west-bank-village?traffic_source=rss",
-      "published": "2026-10-23T16:37:59+00:00",
+      "headline": "Why is the UK at the forefront of AI-driven job cuts?",
+      "excerpt": "AI-linked job losses in the UK are running at twice the rate of US and Germany.",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/10/23/why-is-the-uk-at-the-forefront-of-ai-driven-job-cuts?traffic_source=rss",
+      "published": "2026-10-23T20:43:47+00:00",
+      "featured": false
+    },
+    {
+      "id": "f92969d68336",
+      "source": "The Intercept",
+      "headline": "The Stakes of Brazil’s Presidential Election",
+      "excerpt": "“Almost all of the worst ideas in the United States have been intentionally exported to Brazil as a way to make Brazil a worse country that’s more in line with U.S. interests.” The post The Stakes of Brazil’s...",
+      "link": "https://theintercept.com/2026/10/23/brazil-president-election-lula-bolsonaro-meta/",
+      "published": "2026-10-23T10:00:00+00:00",
       "featured": false
     },
     {
@@ -362,30 +371,21 @@
       "featured": false
     },
     {
-      "id": "f218513416a6",
-      "source": "ProPublica",
-      "headline": "Ballot Rejections Soared in Rural Counties After USPS Reduced Mail Service",
-      "excerpt": "The post Ballot Rejections Soared in Rural Counties After USPS Reduced Mail Service appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/mail-ballot-delays-postal-service-midterms",
-      "published": "2026-10-22T10:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "3a86e00b4716",
+      "id": "4548bba9e3b7",
       "source": "Dropsite News",
-      "headline": "The War Tehran Believes Is Coming",
-      "excerpt": "Iran believes the U.S. and Israel may strike before the midterms. Top security official Gen. Mohsen Rezaei tells Drop Site Iran has new targets in its sights.",
-      "link": "https://www.dropsitenews.com/p/iran-war-israel-netanyahu-trump-hormuz-mohsen-rezaei",
-      "published": "2026-10-21T21:21:27+00:00",
+      "headline": "Exclusive: UN abandons Rafah crossing; PHP flaws expose websites; AIPAC ends endorsements",
+      "excerpt": "Drop Site Daily: October 22, 2026",
+      "link": "https://www.dropsitenews.com/p/un-rafah-gaza-israel-php-flaws-websites-aipac-end-endorsements",
+      "published": "2026-10-22T15:22:06+00:00",
       "featured": false
     },
     {
-      "id": "c510ca9d31ee",
-      "source": "The Intercept",
-      "headline": "Google DeepMind Engineer Resigns in Protest of Pentagon Contract",
-      "excerpt": "Sofia Liguori stepped down from DeepMind due to current military contracts — not speculative fears of an AI apocalypse. The post Google DeepMind Engineer Resigns in Protest of Pentagon Contract appeared first on The...",
-      "link": "https://theintercept.com/2026/10/21/google-deepmind-resign-ai-military-gaza/",
-      "published": "2026-10-21T16:25:02+00:00",
+      "id": "17d63d7efe65",
+      "source": "ProPublica",
+      "headline": "Nuclear Weapons Waste Made Workers Sick. Despite a Law Meant to Help, the DOE Keeps Fighting Their Claims.",
+      "excerpt": "The post Nuclear Weapons Waste Made Workers Sick. Despite a Law Meant to Help, the DOE Keeps Fighting Their Claims. appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/hanford-nuclear-workers-compensation-washington-doe",
+      "published": "2026-10-22T12:00:00+00:00",
       "featured": false
     },
     {
@@ -434,12 +434,12 @@
       "featured": false
     },
     {
-      "id": "4cda5f4ce749",
+      "id": "46bf7963872f",
       "source": "Al Jazeera",
-      "headline": "European, Middle East ministers urge US-Iran diplomacy, not new attacks",
-      "excerpt": "A further escalation would 'create nothing but losers', the French foreign minister warns after joint Istanbul meeting .",
-      "link": "https://www.aljazeera.com/news/2026/10/23/european-middle-east-ministers-urge-us-iran-diplomacy-not-new-attacks?traffic_source=rss",
-      "published": "2026-10-23T16:29:51+00:00",
+      "headline": "Why is Trump questioning Ilhan Omar’s name?",
+      "excerpt": "A Justice Department filing listed a different name for her, prompting Trump to call for her resignation.",
+      "link": "https://www.aljazeera.com/news/2026/10/23/why-is-trump-questioning-ilhan-omars-name?traffic_source=rss",
+      "published": "2026-10-23T20:37:19+00:00",
       "featured": false
     },
     {
@@ -449,6 +449,15 @@
       "excerpt": "",
       "link": "https://www.occrp.org/en/feature/cambodia-cracked-down-on-banks-allegedly-linked-to-cyber-scams-the-imf-says-the-problem-persists",
       "published": "2026-10-23T07:40:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "4415095af0a0",
+      "source": "The Intercept",
+      "headline": "Mamdani’s High-Wire Balancing Act Between ICE and NYPD Can’t Last",
+      "excerpt": "The New York City mayor has said he doesn’t want to “normalize” ICE. But the NYPD, led by Jessica Tisch, has other plans. The post Mamdani’s High-Wire Balancing Act Between ICE and NYPD Can’t Last appeared first on The...",
+      "link": "https://theintercept.com/2026/10/22/mamdani-tisch-ice-shooting-nypd/",
+      "published": "2026-10-22T17:45:20+00:00",
       "featured": false
     },
     {
@@ -470,30 +479,21 @@
       "featured": false
     },
     {
-      "id": "8a0fa6c4ed0e",
+      "id": "f218513416a6",
       "source": "ProPublica",
-      "headline": "Sexual Assaults on Campus No Longer Scrutinized as Closely Under Trump’s Education Department",
-      "excerpt": "The post Sexual Assaults on Campus No Longer Scrutinized as Closely Under Trump’s Education Department appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/civil-rights-office-education-department-investigations",
-      "published": "2026-10-22T09:00:00+00:00",
+      "headline": "Ballot Rejections Soared in Rural Counties After USPS Reduced Mail Service",
+      "excerpt": "The post Ballot Rejections Soared in Rural Counties After USPS Reduced Mail Service appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/mail-ballot-delays-postal-service-midterms",
+      "published": "2026-10-22T10:00:00+00:00",
       "featured": false
     },
     {
-      "id": "8dd6170debe2",
+      "id": "3a86e00b4716",
       "source": "Dropsite News",
-      "headline": "Mike Rogers Puts Spotlight on Failed Benghazi Probe in Final Weeks of Senate Race",
-      "excerpt": "Unpacking Rogers’s legal threat against Drop Site",
-      "link": "https://www.dropsitenews.com/p/mike-rogers-puts-spotlight-on-failed-benghazi",
-      "published": "2026-10-21T19:55:53+00:00",
-      "featured": false
-    },
-    {
-      "id": "672fa9c4a1e0",
-      "source": "The Intercept",
-      "headline": "Trump’s Obsession With Somalia Isn’t Just Racist. It’s Been Lethal.",
-      "excerpt": "Beyond targeting Rep. Ilhan Omar, the Trump administration has killed, arrested, deported, and demonized Somalis at home and abroad. The post Trump’s Obsession With Somalia Isn’t Just Racist. It’s Been Lethal. appeared...",
-      "link": "https://theintercept.com/2026/10/21/trump-ilhan-omar-somalia-war/",
-      "published": "2026-10-21T10:00:00+00:00",
+      "headline": "The War Tehran Believes Is Coming",
+      "excerpt": "Iran believes the U.S. and Israel may strike before the midterms. Top security official Gen. Mohsen Rezaei tells Drop Site Iran has new targets in its sights.",
+      "link": "https://www.dropsitenews.com/p/iran-war-israel-netanyahu-trump-hormuz-mohsen-rezaei",
+      "published": "2026-10-21T21:21:27+00:00",
       "featured": false
     },
     {
@@ -524,12 +524,12 @@
       "featured": false
     },
     {
-      "id": "9dc69106812c",
+      "id": "dcfed4b2e0b1",
       "source": "Al Jazeera",
-      "headline": "One person killed in suspected ‘Islamophobic’ shooting near Paris",
-      "excerpt": "Antiterrorism prosecutors investigating motive of attack that seriously wounded five, including a 12-year-old girl.",
-      "link": "https://www.aljazeera.com/news/2026/10/23/one-person-killed-in-suspected-islamophobic-shooting-near-paris?traffic_source=rss",
-      "published": "2026-10-23T16:08:04+00:00",
+      "headline": "Russia, Ukraine agree to Melania Trump-brokered localised ceasefire",
+      "excerpt": "President Trump says it was First Lady Melania Trump’s initiative that led to a ceasefire in Oleshky.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/23/russia-ukraine-agree-to-melania-trump-brokered-localised-ceasefire?traffic_source=rss",
+      "published": "2026-10-23T20:02:21+00:00",
       "featured": false
     },
     {
