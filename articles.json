@@ -1,6 +1,33 @@
 {
-  "generated_at": "2026-10-24T11:02:29.075373+00:00",
+  "generated_at": "2026-10-24T15:57:46.191913+00:00",
   "articles": [
+    {
+      "id": "cd4dcbb52d31",
+      "source": "Al Jazeera",
+      "headline": "Security forces deploy as Milan braces for another day of protests",
+      "excerpt": "The Italian government has sent hundreds of soldiers to the country's financial hub ahead of anticipated unrest.",
+      "link": "https://www.aljazeera.com/news/2026/10/24/security-forces-deploy-as-milan-braces-for-another-day-of-protests?traffic_source=rss",
+      "published": "2026-10-24T15:05:58+00:00",
+      "featured": true
+    },
+    {
+      "id": "f5f6907eb37b",
+      "source": "The Lever",
+      "headline": "You Love To See It: Cantering For Good News",
+      "excerpt": "New York City progresses at a gallop pace, California preserves its Indigenous heritage, and other good news.",
+      "link": "https://www.levernews.com/you-love-to-see-it-cantering-for-good-news/",
+      "published": "2026-10-24T13:07:00+00:00",
+      "featured": true
+    },
+    {
+      "id": "a74c2b299f93",
+      "source": "404 Media",
+      "headline": "An Ancient Virus Explains Why the Human Brain Is Special",
+      "excerpt": "Scientists have discovered a family of retroviruses that invaded the genomes of chimps and other primates, silencing genes involved with brain development, while humans were left unaffected.",
+      "link": "https://www.404media.co/an-ancient-virus-explains-why-the-human-brain-is-special/",
+      "published": "2026-10-24T12:27:54+00:00",
+      "featured": true
+    },
     {
       "id": "98a43cc47b21",
       "source": "The Intercept",
@@ -8,16 +35,7 @@
       "excerpt": "Centrist Democrats’ calls to fall in line behind the party’s nominee only ever seem to cut one way — and fall apart when their candidate loses. The post The Spirit of “Party Unity, My Ass” Is Back and Coming for the DSA...",
       "link": "https://theintercept.com/2026/10/24/centrist-democrats-dsa-el-sayed/",
       "published": "2026-10-24T10:52:00+00:00",
-      "featured": true
-    },
-    {
-      "id": "d6b75725b06c",
-      "source": "Al Jazeera",
-      "headline": "France braces for another day of mass protests as security on high alert",
-      "excerpt": "Several planned marches in major cities in France have been banned by authorities, provoking an uproar by rights groups.",
-      "link": "https://www.aljazeera.com/news/2026/10/24/france-braces-for-another-day-of-mass-protests-as-security-on-high-alert?traffic_source=rss",
-      "published": "2026-10-24T10:04:25+00:00",
-      "featured": true
+      "featured": false
     },
     {
       "id": "294a483da3e2",
@@ -26,7 +44,7 @@
       "excerpt": "A drone strike on a market in the disputed Abyei region killed over 150 people, part of a wave of large scale attacks by the Sudanese army.",
       "link": "https://www.dropsitenews.com/p/sudan-saf-army-drone-strikes-abyei-market-kordofan",
       "published": "2026-10-23T20:07:09+00:00",
-      "featured": true
+      "featured": false
     },
     {
       "id": "467973b301aa",
@@ -38,30 +56,12 @@
       "featured": false
     },
     {
-      "id": "93445e539241",
-      "source": "404 Media",
-      "headline": "Podcast: ‘Reverse-Engineer Anything’ Is the Next Wave of AI Slop",
-      "excerpt": "How people are removing surveillance ads from their TVs; a big AI shakeup at Accenture; and the Character.ai bankruptcy.",
-      "link": "https://www.404media.co/podcast-reverse-engineer-anything-is-the-next-wave-of-ai-slop/",
-      "published": "2026-10-23T16:36:40+00:00",
-      "featured": false
-    },
-    {
       "id": "2c5ea0bf1bfb",
       "source": "OCCRP",
       "headline": "Cyprus Parliament Reviews Reports on Abramovich-Linked Asset Transfers",
       "excerpt": "Cypriot officials faced questioning from parliamentarians following an investigation by OCCRP and partners, which found that corporate services firms backdated documents to help companies tied to Russian billionaire...",
       "link": "https://www.occrp.org/en/news/cyprus-parliament-reviews-reports-on-abramovich-linked-asset-transfers",
       "published": "2026-10-23T15:51:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "fc783c3d6517",
-      "source": "The Lever",
-      "headline": "America’s Most Fascist Candidate, Brought To You By Big Oil",
-      "excerpt": "A Texas candidate trafficking in white-nationalist politics has found powerful allies among the oil interests he promises to deregulate.",
-      "link": "https://www.levernews.com/americas-most-fascist-candidate-brought-to-you-by-big-oil/",
-      "published": "2026-10-23T13:36:00+00:00",
       "featured": false
     },
     {
@@ -110,12 +110,12 @@
       "featured": false
     },
     {
-      "id": "a6a60cc77c13",
+      "id": "77f1879b6057",
       "source": "Al Jazeera",
-      "headline": "Brazil’s Lula and Bolsonaro debate policy proposals before run-off",
-      "excerpt": "Polls indicate Brazil's presidential candidates are neck and neck before Sunday's voting.",
-      "link": "https://www.aljazeera.com/news/2026/10/24/brazils-lula-and-bolsonaro-debate-policy-proposals-before-run-off?traffic_source=rss",
-      "published": "2026-10-24T09:41:56+00:00",
+      "headline": "Why Israeli tourists and investors are unsettling Cypriots",
+      "excerpt": "Cypriots say the influx of Israelis is threatening local businesses and pushing communities out of their neighbourhoods.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/aje-onl-nf_why-israeli-investors-are-unsettling-cypriots-241026?traffic_source=rss",
+      "published": "2026-10-24T14:56:47+00:00",
       "featured": false
     },
     {
@@ -128,21 +128,21 @@
       "featured": false
     },
     {
+      "id": "93445e539241",
+      "source": "404 Media",
+      "headline": "Podcast: ‘Reverse-Engineer Anything’ Is the Next Wave of AI Slop",
+      "excerpt": "How people are removing surveillance ads from their TVs; a big AI shakeup at Accenture; and the Character.ai bankruptcy.",
+      "link": "https://www.404media.co/podcast-reverse-engineer-anything-is-the-next-wave-of-ai-slop/",
+      "published": "2026-10-23T16:36:40+00:00",
+      "featured": false
+    },
+    {
       "id": "0c4933bea3c3",
       "source": "ProPublica",
       "headline": "Ken Paxton Says He’s Tough on Crime. His Trust Invested $600,000 in a Convicted Fraudster’s Company.",
       "excerpt": "The post Ken Paxton Says He’s Tough on Crime. His Trust Invested $600,000 in a Convicted Fraudster’s Company. appeared first on ProPublica.",
       "link": "https://www.propublica.org/article/ken-paxton-investment-scott-sherman-wildcatter",
       "published": "2026-10-23T16:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "8d9e8c52af47",
-      "source": "404 Media",
-      "headline": "Behind the Blog: Brute Forces",
-      "excerpt": "This week, we discuss reverse engineering and some wild court docs.",
-      "link": "https://www.404media.co/behind-the-blog-brute-forces/",
-      "published": "2026-10-23T15:41:49+00:00",
       "featured": false
     },
     {
@@ -164,12 +164,12 @@
       "featured": false
     },
     {
-      "id": "21946f308ac4",
+      "id": "fc783c3d6517",
       "source": "The Lever",
-      "headline": "Angie Nixon's Battle Cry Against Corporate Power",
-      "excerpt": "Lever columnist Morgan Harper sits down with the U.S. Senate candidate from Florida to discuss why calling out corporations is essential to empowering Black Americans.",
-      "link": "https://www.levernews.com/angie-nixons-battle-cry-against-corporate-power/",
-      "published": "2026-10-23T09:00:00+00:00",
+      "headline": "America’s Most Fascist Candidate, Brought To You By Big Oil",
+      "excerpt": "A Texas candidate trafficking in white-nationalist politics has found powerful allies among the oil interests he promises to deregulate.",
+      "link": "https://www.levernews.com/americas-most-fascist-candidate-brought-to-you-by-big-oil/",
+      "published": "2026-10-23T13:36:00+00:00",
       "featured": false
     },
     {
@@ -218,12 +218,12 @@
       "featured": false
     },
     {
-      "id": "f602f65fce2b",
+      "id": "2861c27cad41",
       "source": "Al Jazeera",
-      "headline": "Ethiopian PM’s advisor: Tigrayan forces and others hinder stability",
-      "excerpt": "Advisor to Ethiopia’s Prime Minister stated that Tigrayan forces and regional actors are hindering regional stability.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/ethiopian-pms-advisor-tigrayan-forces-and-others-hinder-stability?traffic_source=rss",
-      "published": "2026-10-24T09:32:22+00:00",
+      "headline": "Full lockdown of occupied West Bank begins",
+      "excerpt": "The Israeli army begins its lockdown and military operations across the West Bank.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/full-lockdown-of-occupied-west-bank-begins-2?traffic_source=rss",
+      "published": "2026-10-24T14:24:19+00:00",
       "featured": false
     },
     {
@@ -233,6 +233,15 @@
       "excerpt": "Inequality Media co-founder Robert Reich and The Intercept’s Akela Lacy break down the most pressing issues of the midterm elections. The post The Intercept Live in Conversation With Robert Reich appeared first on The...",
       "link": "https://theintercept.com/2026/10/23/robert-reich-live-midterm-elections-democracy/",
       "published": "2026-10-23T18:34:26+00:00",
+      "featured": false
+    },
+    {
+      "id": "8d9e8c52af47",
+      "source": "404 Media",
+      "headline": "Behind the Blog: Brute Forces",
+      "excerpt": "This week, we discuss reverse engineering and some wild court docs.",
+      "link": "https://www.404media.co/behind-the-blog-brute-forces/",
+      "published": "2026-10-23T15:41:49+00:00",
       "featured": false
     },
     {
@@ -254,30 +263,21 @@
       "featured": false
     },
     {
+      "id": "21946f308ac4",
+      "source": "The Lever",
+      "headline": "Angie Nixon's Battle Cry Against Corporate Power",
+      "excerpt": "Lever columnist Morgan Harper sits down with the U.S. Senate candidate from Florida to discuss why calling out corporations is essential to empowering Black Americans.",
+      "link": "https://www.levernews.com/angie-nixons-battle-cry-against-corporate-power/",
+      "published": "2026-10-23T09:00:00+00:00",
+      "featured": false
+    },
+    {
       "id": "9842cb5f64a9",
       "source": "Dropsite News",
       "headline": "UAE Paid Swiss Intelligence Firm to Compile Database of “Hostile” Facebook Users",
       "excerpt": "Leaked documents reveal a project to compile lists of UAE residents from their Facebook likes of news articles considered critical of the Emirati government.",
       "link": "https://www.dropsitenews.com/p/uae-alp-services-facebook-crackdown",
       "published": "2026-10-23T00:01:22+00:00",
-      "featured": false
-    },
-    {
-      "id": "da8437b384e2",
-      "source": "The Lever",
-      "headline": "Rahm Emanuel’s Plan Is Exactly How Dems Will Keep Losing",
-      "excerpt": "Desperate to cast a do-nothing, pro-oligarch agenda as good politics, Democratic elites pretend the key swing vote is country-club Republicans rather than enraged working-class voters.",
-      "link": "https://www.levernews.com/rahm-emanuels-plan-is-exactly-how-dems-will-keep-losing/",
-      "published": "2026-10-22T21:25:30+00:00",
-      "featured": false
-    },
-    {
-      "id": "a418f0f71f38",
-      "source": "404 Media",
-      "headline": "Portal Texas Used to ‘Rubber Stamp’ Data Centers Down After 404 Media Reporting",
-      "excerpt": "Commissioners in Texas said they’re making sure ‘all applications are reviewed by agency staff to determine if they are related to data centers.’",
-      "link": "https://www.404media.co/texas-commission-on-environmental-quality-portal-down/",
-      "published": "2026-10-22T20:26:43+00:00",
       "featured": false
     },
     {
@@ -326,12 +326,12 @@
       "featured": false
     },
     {
-      "id": "f5ff9840ba1c",
+      "id": "9b5397f83bd4",
       "source": "Al Jazeera",
-      "headline": "Just Eat apologises after AI-generated images blunder",
-      "excerpt": "Just Eat has apologised after its AI-generated food images went viral for grossly misrepresenting menu items.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/just-eat-apologises-after-ai-generated-images-blunder?traffic_source=rss",
-      "published": "2026-10-24T09:29:37+00:00",
+      "headline": "Ukraine says Starlink restored as attacks continue in Russia and Ukraine",
+      "excerpt": "Negotiators from Ukraine, Russia and the US are expected to meet in Abu Dhabi next month.",
+      "link": "https://www.aljazeera.com/news/2026/10/24/ukraine-says-starlink-restored-as-attacks-continue-in-russia-and-ukraine?traffic_source=rss",
+      "published": "2026-10-24T14:23:40+00:00",
       "featured": false
     },
     {
@@ -353,21 +353,21 @@
       "featured": false
     },
     {
-      "id": "fa6369b6044d",
+      "id": "da8437b384e2",
       "source": "The Lever",
-      "headline": "The Blue-State Democrats Fighting To Shield Billionaires From Taxes",
-      "excerpt": "Class solidarity is one helluva drug among Democratic tycoons-turned-governors.",
-      "link": "https://www.levernews.com/the-blue-state-democrats-fighting-to-shield-billionaires-from-taxes/",
-      "published": "2026-10-22T17:13:43+00:00",
+      "headline": "Rahm Emanuel’s Plan Is Exactly How Dems Will Keep Losing",
+      "excerpt": "Desperate to cast a do-nothing, pro-oligarch agenda as good politics, Democratic elites pretend the key swing vote is country-club Republicans rather than enraged working-class voters.",
+      "link": "https://www.levernews.com/rahm-emanuels-plan-is-exactly-how-dems-will-keep-losing/",
+      "published": "2026-10-22T21:25:30+00:00",
       "featured": false
     },
     {
-      "id": "a5af69d36be5",
+      "id": "a418f0f71f38",
       "source": "404 Media",
-      "headline": "This Woman's Living a CashApp Scam Nightmare",
-      "excerpt": "A CashApp scam mess, Airbnb hosts crashing out, and much more.",
-      "link": "https://www.404media.co/this-womans-living-a-cashapp-scam-nightmare/",
-      "published": "2026-10-22T15:33:44+00:00",
+      "headline": "Portal Texas Used to ‘Rubber Stamp’ Data Centers Down After 404 Media Reporting",
+      "excerpt": "Commissioners in Texas said they’re making sure ‘all applications are reviewed by agency staff to determine if they are related to data centers.’",
+      "link": "https://www.404media.co/texas-commission-on-environmental-quality-portal-down/",
+      "published": "2026-10-22T20:26:43+00:00",
       "featured": false
     },
     {
@@ -434,12 +434,12 @@
       "featured": false
     },
     {
-      "id": "b78d1231de6c",
+      "id": "ff0d74a08864",
       "source": "Al Jazeera",
-      "headline": "Ilhan Omar votes as Trump renews attacks amid federal probe",
-      "excerpt": "US Congresswoman Ilhan Omar has cast her ballot ahead of the US midterms.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/ilhan-omar-votes-us-midterms-federal-investigation?traffic_source=rss",
-      "published": "2026-10-24T09:16:19+00:00",
+      "headline": "Ballon d’Or 2026: Can Kylian Mbappe’s Real Madrid and France record win it?",
+      "excerpt": "Despite not winning silverware last season, Mbappe has been clear his goal to clinch the Ballon d'Or.",
+      "link": "https://www.aljazeera.com/sports/2026/10/24/ballon-dor-2026-can-kylian-mbappes-real-madrid-and-france-record-win-it?traffic_source=rss",
+      "published": "2026-10-24T14:21:34+00:00",
       "featured": false
     },
     {
@@ -461,21 +461,21 @@
       "featured": false
     },
     {
-      "id": "76beaf8635fc",
+      "id": "fa6369b6044d",
       "source": "The Lever",
-      "headline": "What’s So Radical About Angie Nixon?",
-      "excerpt": "The Florida Democrat says she’s no extremist. She’s just running ‘toward the people and what it is that they need.’",
-      "link": "https://www.levernews.com/whats-so-radical-about-angie-nixon/",
-      "published": "2026-10-22T14:39:52+00:00",
+      "headline": "The Blue-State Democrats Fighting To Shield Billionaires From Taxes",
+      "excerpt": "Class solidarity is one helluva drug among Democratic tycoons-turned-governors.",
+      "link": "https://www.levernews.com/the-blue-state-democrats-fighting-to-shield-billionaires-from-taxes/",
+      "published": "2026-10-22T17:13:43+00:00",
       "featured": false
     },
     {
-      "id": "c4002e66c861",
+      "id": "a5af69d36be5",
       "source": "404 Media",
-      "headline": "AI Is Changing Everything About Hacking. No One Knows What Happens Next",
-      "excerpt": "'Black October:' The PHP vulnerabilities and a series of other hacks and bugs have cybersecurity experts freaking out and unsure what happens next.",
-      "link": "https://www.404media.co/php2shell-black-october-ai-is-changing-everything-about-hacking-no-one-knows-what-happens-next/",
-      "published": "2026-10-22T14:23:36+00:00",
+      "headline": "This Woman's Living a CashApp Scam Nightmare",
+      "excerpt": "A CashApp scam mess, Airbnb hosts crashing out, and much more.",
+      "link": "https://www.404media.co/this-womans-living-a-cashapp-scam-nightmare/",
+      "published": "2026-10-22T15:33:44+00:00",
       "featured": false
     },
     {
@@ -524,12 +524,12 @@
       "featured": false
     },
     {
-      "id": "956716ace419",
+      "id": "307a06b202f6",
       "source": "Al Jazeera",
-      "headline": "Why is Israel launching a new military operation in the occupied West Bank?",
-      "excerpt": "Netanyahu says 'we will destroy this place' as Israeli forces begin days-long operation with raids and demolitions.",
-      "link": "https://www.aljazeera.com/news/2026/10/24/why-is-israel-launching-a-new-military-operation-in-the-occupied-west-bank?traffic_source=rss",
-      "published": "2026-10-24T09:14:40+00:00",
+      "headline": "Man City beaten at Aston Villa as perfect Premier League start ends",
+      "excerpt": "Nicolas Jackson scores twice - either side of an Erling Haaland header - as Aston Villa beat Man City 2-1 at Villa Park.",
+      "link": "https://www.aljazeera.com/sports/2026/10/24/aston-villa-inflict-man-citys-first-premier-league-defeat-of-the-season?traffic_source=rss",
+      "published": "2026-10-24T14:04:27+00:00",
       "featured": false
     },
     {
