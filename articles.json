@@ -1,13 +1,31 @@
 {
-  "generated_at": "2026-10-24T23:15:51.476322+00:00",
+  "generated_at": "2026-10-25T04:42:35.637499+00:00",
   "articles": [
     {
-      "id": "8586632337f3",
+      "id": "2e6f81b88d77",
       "source": "Al Jazeera",
-      "headline": "Gunmen kill at least 10 people in eastern Nigeria, police say",
-      "excerpt": "Nigerian police say a large group carried out the attack on Binnari village in Taraba State.",
-      "link": "https://www.aljazeera.com/news/2026/10/24/gunmen-kill-at-least-10-people-in-eastern-nigeria-police-say?traffic_source=rss",
-      "published": "2026-10-24T22:35:45+00:00",
+      "headline": "Obama joins El-Sayed in Michigan rally cry before key midterms",
+      "excerpt": "Former US President Barack Obama joined Michigan Senate candidate Abdul El-Sayed at a Detroit rally ahead of midterms.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/25/obama-joins-el-sayed-in-michigan-rally-cry-before-key-midterms?traffic_source=rss",
+      "published": "2026-10-25T04:06:28+00:00",
+      "featured": true
+    },
+    {
+      "id": "663e02011368",
+      "source": "ProPublica",
+      "headline": "A Texas Cop Signed on to Help ICE Deport His Neighbors. It Tore the Town Apart.",
+      "excerpt": "The post A Texas Cop Signed on to Help ICE Deport His Neighbors. It Tore the Town Apart. appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/deportations-ingram-texas-287g-jaron-alexander",
+      "published": "2026-10-25T04:00:00+00:00",
+      "featured": true
+    },
+    {
+      "id": "2b50f3f55c8f",
+      "source": "OCCRP",
+      "headline": "Sri Lanka Records Zero Prosecutions Amid Online Scam Surge",
+      "excerpt": "As criminal syndicates flee crackdowns in Southeast Asia, Sri Lankan police have detained over 1,000 foreign fraud suspects this year—yet an outdated legal code has left authorities unable to secure a single conviction.",
+      "link": "https://www.occrp.org/en/news/sri-lanka-records-zero-prosecutions-amid-online-scam-surge",
+      "published": "2026-10-25T03:30:00+00:00",
       "featured": true
     },
     {
@@ -17,7 +35,7 @@
       "excerpt": "A Lever investigation traces how the Israel lobby is routing millions through groups promoting women, reproductive rights, and Latino candidates — and how AI interests and other power brokers are adopting the strategy.",
       "link": "https://www.levernews.com/aipac-is-spending-millions-just-not-under-its-own-name/",
       "published": "2026-10-24T18:01:04+00:00",
-      "featured": true
+      "featured": false
     },
     {
       "id": "a74c2b299f93",
@@ -26,7 +44,7 @@
       "excerpt": "Scientists have discovered a family of retroviruses that invaded the genomes of chimps and other primates, silencing genes involved with brain development, while humans were left unaffected.",
       "link": "https://www.404media.co/an-ancient-virus-explains-why-the-human-brain-is-special/",
       "published": "2026-10-24T12:27:54+00:00",
-      "featured": true
+      "featured": false
     },
     {
       "id": "98a43cc47b21",
@@ -44,24 +62,6 @@
       "excerpt": "A drone strike on a market in the disputed Abyei region killed over 150 people, part of a wave of large scale attacks by the Sudanese army.",
       "link": "https://www.dropsitenews.com/p/sudan-saf-army-drone-strikes-abyei-market-kordofan",
       "published": "2026-10-23T20:07:09+00:00",
-      "featured": false
-    },
-    {
-      "id": "467973b301aa",
-      "source": "ProPublica",
-      "headline": "After Millions in Stolen SNAP Benefits, Trump Administration Moves to Fight Theft",
-      "excerpt": "The post After Millions in Stolen SNAP Benefits, Trump Administration Moves to Fight Theft appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/snap-theft-chip-cards-trump-rule",
-      "published": "2026-10-23T17:45:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "2c5ea0bf1bfb",
-      "source": "OCCRP",
-      "headline": "Cyprus Parliament Reviews Reports on Abramovich-Linked Asset Transfers",
-      "excerpt": "Cypriot officials faced questioning from parliamentarians following an investigation by OCCRP and partners, which found that corporate services firms backdated documents to help companies tied to Russian billionaire...",
-      "link": "https://www.occrp.org/en/news/cyprus-parliament-reviews-reports-on-abramovich-linked-asset-transfers",
-      "published": "2026-10-23T15:51:00+00:00",
       "featured": false
     },
     {
@@ -110,12 +110,21 @@
       "featured": false
     },
     {
-      "id": "b5e8121a445c",
+      "id": "7e551548c43a",
       "source": "Al Jazeera",
-      "headline": "How have Democrats’ policies shifted since the last major US election?",
-      "excerpt": "From trans rights to Israel's war on Gaza, the party's candidates have responded to voter shifts on a slew of issues.",
-      "link": "https://www.aljazeera.com/economy/2026/10/24/how-have-democrats-policies-shifted-since-the-last-major-us-election?traffic_source=rss",
-      "published": "2026-10-24T22:28:37+00:00",
+      "headline": "New York Archdiocese agrees to pay $800m to 1,300 sexual abuse survivors",
+      "excerpt": "The settlement is the second-largest after an $880m ​deal reached by the Archdiocese of Los ​Angeles in 2024.",
+      "link": "https://www.aljazeera.com/news/2026/10/25/new-york-archdiocese-agrees-to-pay-800m-to-1300-sexual-abuse-survivors?traffic_source=rss",
+      "published": "2026-10-25T03:57:13+00:00",
+      "featured": false
+    },
+    {
+      "id": "5ec6b30d222f",
+      "source": "OCCRP",
+      "headline": "Chinese Scam Boss Murdered in Sri Lanka Had Multiple Identities",
+      "excerpt": "An investigation into the abduction and murder of a Chinese cyber scam boss uncovers his shadow identities and how he was operating across borders without consequence.",
+      "link": "https://www.occrp.org/en/news/chinese-scam-boss-murdered-in-sri-lanka-had-multiple-identities",
+      "published": "2026-10-25T03:30:00+00:00",
       "featured": false
     },
     {
@@ -137,6 +146,15 @@
       "featured": false
     },
     {
+      "id": "467973b301aa",
+      "source": "ProPublica",
+      "headline": "After Millions in Stolen SNAP Benefits, Trump Administration Moves to Fight Theft",
+      "excerpt": "The post After Millions in Stolen SNAP Benefits, Trump Administration Moves to Fight Theft appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/snap-theft-chip-cards-trump-rule",
+      "published": "2026-10-23T17:45:00+00:00",
+      "featured": false
+    },
+    {
       "id": "93445e539241",
       "source": "404 Media",
       "headline": "Podcast: ‘Reverse-Engineer Anything’ Is the Next Wave of AI Slop",
@@ -146,30 +164,12 @@
       "featured": false
     },
     {
-      "id": "0c4933bea3c3",
-      "source": "ProPublica",
-      "headline": "Ken Paxton Says He’s Tough on Crime. His Trust Invested $600,000 in a Convicted Fraudster’s Company.",
-      "excerpt": "The post Ken Paxton Says He’s Tough on Crime. His Trust Invested $600,000 in a Convicted Fraudster’s Company. appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/ken-paxton-investment-scott-sherman-wildcatter",
-      "published": "2026-10-23T16:00:00+00:00",
-      "featured": false
-    },
-    {
       "id": "b30268fe5466",
       "source": "Dropsite News",
       "headline": "Netanyahu orders full lockdown of West Bank after shooting; Bombshell report on Kushner’s $2B slush fund; Brent crude hits $114",
       "excerpt": "Drop Site Daily: October 23, 2026",
       "link": "https://www.dropsitenews.com/p/netanyahu-west-bank-hebron-kushner-slush-fund-brent-crude-iran-trump",
       "published": "2026-10-23T15:31:55+00:00",
-      "featured": false
-    },
-    {
-      "id": "2b9384011fa8",
-      "source": "OCCRP",
-      "headline": "Many in Serbia’s Youth Movement Fear a Rigged Election on Sunday",
-      "excerpt": "Serbia’s student-led opposition enters Sunday’s parliamentary election locked in a dead heat with Aleksandar Vučić—even as voters brace for ballot manipulation.",
-      "link": "https://www.occrp.org/en/news/many-in-serbias-youth-movement-fear-a-rigged-election-on-sunday",
-      "published": "2026-10-23T14:48:00+00:00",
       "featured": false
     },
     {
@@ -218,12 +218,12 @@
       "featured": false
     },
     {
-      "id": "75f599f360ac",
+      "id": "c1428068d52f",
       "source": "Al Jazeera",
-      "headline": "Brazil’s Lula, Bolsonaro draw thousands to election-eve rallies",
-      "excerpt": "The pivotal run-off will determine whether Brazilians stick with their left-wing leader or shift towards the right.",
-      "link": "https://www.aljazeera.com/news/2026/10/24/brazils-lula-bolsonaro-draw-thousands-to-election-eve-rallies?traffic_source=rss",
-      "published": "2026-10-24T21:39:29+00:00",
+      "headline": "Thousands rally in Turkiye over journalist arrests, media shutdowns",
+      "excerpt": "Thousands have protested across Turkiye against the arrests of journalists and restrictions on independent media.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/25/10-25-turkiye-media-crackdown-sv?traffic_source=rss",
+      "published": "2026-10-25T03:47:56+00:00",
       "featured": false
     },
     {
@@ -233,6 +233,24 @@
       "excerpt": "Inequality Media co-founder Robert Reich and The Intercept’s Akela Lacy break down the most pressing issues of the midterm elections. The post The Intercept Live in Conversation With Robert Reich appeared first on The...",
       "link": "https://theintercept.com/2026/10/23/robert-reich-live-midterm-elections-democracy/",
       "published": "2026-10-23T18:34:26+00:00",
+      "featured": false
+    },
+    {
+      "id": "0c4933bea3c3",
+      "source": "ProPublica",
+      "headline": "Ken Paxton Says He’s Tough on Crime. His Trust Invested $600,000 in a Convicted Fraudster’s Company.",
+      "excerpt": "The post Ken Paxton Says He’s Tough on Crime. His Trust Invested $600,000 in a Convicted Fraudster’s Company. appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/ken-paxton-investment-scott-sherman-wildcatter",
+      "published": "2026-10-23T16:00:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "2c5ea0bf1bfb",
+      "source": "OCCRP",
+      "headline": "Cyprus Parliament Reviews Reports on Abramovich-Linked Asset Transfers",
+      "excerpt": "Cypriot officials faced questioning from parliamentarians following an investigation by OCCRP and partners, which found that corporate services firms backdated documents to help companies tied to Russian billionaire...",
+      "link": "https://www.occrp.org/en/news/cyprus-parliament-reviews-reports-on-abramovich-linked-asset-transfers",
+      "published": "2026-10-23T15:51:00+00:00",
       "featured": false
     },
     {
@@ -251,24 +269,6 @@
       "excerpt": "A Texas candidate trafficking in white-nationalist politics has found powerful allies among the oil interests he promises to deregulate.",
       "link": "https://www.levernews.com/americas-most-fascist-candidate-brought-to-you-by-big-oil/",
       "published": "2026-10-23T13:36:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "3721de2e2231",
-      "source": "OCCRP",
-      "headline": "Sanctioned Investor in Cambodian Scam Compound Owns California Mansion",
-      "excerpt": "Brendon Luo was sanctioned by the U.S. Treasury in June. He still owns a mansion in California worth an estimated $5 million.",
-      "link": "https://www.occrp.org/en/news/sanctioned-investor-in-cambodian-scam-compound-owns-california-mansion",
-      "published": "2026-10-23T09:40:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "839784e79f8c",
-      "source": "ProPublica",
-      "headline": "Bird Flu Is Raging on a Mink Farm. It Could Spark a Human Pandemic, Experts Say, but Officials Won’t Act.",
-      "excerpt": "The post Bird Flu Is Raging on a Mink Farm. It Could Spark a Human Pandemic, Experts Say, but Officials Won’t Act. appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/bird-flu-mink-farm-utah-human-risk",
-      "published": "2026-10-23T09:00:00+00:00",
       "featured": false
     },
     {
@@ -326,12 +326,21 @@
       "featured": false
     },
     {
-      "id": "4b98dfed139f",
+      "id": "935aa1adb077",
       "source": "Al Jazeera",
-      "headline": "Brazil’s candidates hold final rallies before knife-edge run off",
-      "excerpt": "Brazil’s candidates hold final rallies before knife-edge run off",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/brazils-candidates-hold-final-rallies-before-knife-edge-run-off?traffic_source=rss",
-      "published": "2026-10-24T21:36:23+00:00",
+      "headline": "El Clasico awaits a Yamal vs Mbappe showdown on Mourinho’s return to La Liga",
+      "excerpt": "Barcelona vs Real Madrid will mark the return of Spanish football's fiercest rivalry between two star-studded teams.",
+      "link": "https://www.aljazeera.com/sports/2026/10/25/el-clasico-awaits-a-yamal-vs-mbappe-showdown-on-mourinhos-return-to-la-liga?traffic_source=rss",
+      "published": "2026-10-25T03:40:52+00:00",
+      "featured": false
+    },
+    {
+      "id": "2b9384011fa8",
+      "source": "OCCRP",
+      "headline": "Many in Serbia’s Youth Movement Fear a Rigged Election on Sunday",
+      "excerpt": "Serbia’s student-led opposition enters Sunday’s parliamentary election locked in a dead heat with Aleksandar Vučić—even as voters brace for ballot manipulation.",
+      "link": "https://www.occrp.org/en/news/many-in-serbias-youth-movement-fear-a-rigged-election-on-sunday",
+      "published": "2026-10-23T14:48:00+00:00",
       "featured": false
     },
     {
@@ -344,12 +353,12 @@
       "featured": false
     },
     {
-      "id": "c6f842aa4e72",
-      "source": "OCCRP",
-      "headline": "US Court Orders Lebanese Ex-Minister to Pay $35M in Torture and Fraud Case",
-      "excerpt": "A U.S. district court found four Lebanese defendants liable for fraud, torture and civil conspiracy in the 2019 detention of Elie and Lara Samaha, a couple who say they were held in an underground military prison after...",
-      "link": "https://www.occrp.org/en/news/us-court-orders-lebanese-ex-minister-to-pay-35m-in-torture-and-fraud-case",
-      "published": "2026-10-23T09:32:00+00:00",
+      "id": "839784e79f8c",
+      "source": "ProPublica",
+      "headline": "Bird Flu Is Raging on a Mink Farm. It Could Spark a Human Pandemic, Experts Say, but Officials Won’t Act.",
+      "excerpt": "The post Bird Flu Is Raging on a Mink Farm. It Could Spark a Human Pandemic, Experts Say, but Officials Won’t Act. appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/bird-flu-mink-farm-utah-human-risk",
+      "published": "2026-10-23T09:00:00+00:00",
       "featured": false
     },
     {
@@ -377,15 +386,6 @@
       "excerpt": "Drop Site Daily: October 22, 2026",
       "link": "https://www.dropsitenews.com/p/un-rafah-gaza-israel-php-flaws-websites-aipac-end-endorsements",
       "published": "2026-10-22T15:22:06+00:00",
-      "featured": false
-    },
-    {
-      "id": "17d63d7efe65",
-      "source": "ProPublica",
-      "headline": "Nuclear Weapons Waste Made Workers Sick. Despite a Law Meant to Help, the DOE Keeps Fighting Their Claims.",
-      "excerpt": "The post Nuclear Weapons Waste Made Workers Sick. Despite a Law Meant to Help, the DOE Keeps Fighting Their Claims. appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/hanford-nuclear-workers-compensation-washington-doe",
-      "published": "2026-10-22T12:00:00+00:00",
       "featured": false
     },
     {
@@ -434,12 +434,12 @@
       "featured": false
     },
     {
-      "id": "42d3f00a8fa6",
+      "id": "8ff3510ef1d1",
       "source": "Al Jazeera",
-      "headline": "Iran blames US for deal failure, urges new try amid fear of new attacks",
-      "excerpt": "Tehran warns that even limited strikes would trigger a response 'several times greater'.",
-      "link": "https://www.aljazeera.com/news/2026/10/24/iran-blames-us-for-deal-failure-urges-new-try-amid-fear-of-new-attacks?traffic_source=rss",
-      "published": "2026-10-24T21:30:11+00:00",
+      "headline": "Bulgarians vote for president in shadow of Russia’s war in Ukraine",
+      "excerpt": "The two leading candidates condemn recent deadly Black Sea drone strikes, but differ on the Ukraine war more broadly.",
+      "link": "https://www.aljazeera.com/news/2026/10/25/bulgarians-vote-for-president-in-shadow-of-russias-war-in-ukraine?traffic_source=rss",
+      "published": "2026-10-25T02:45:43+00:00",
       "featured": false
     },
     {
@@ -452,12 +452,12 @@
       "featured": false
     },
     {
-      "id": "44dae0c52e23",
+      "id": "3721de2e2231",
       "source": "OCCRP",
-      "headline": "Cambodia Cracked Down on Banks Allegedly Linked to Cyber-Scams. The IMF Says the Problem Persists.",
-      "excerpt": "",
-      "link": "https://www.occrp.org/en/feature/cambodia-cracked-down-on-banks-allegedly-linked-to-cyber-scams-the-imf-says-the-problem-persists",
-      "published": "2026-10-23T07:40:00+00:00",
+      "headline": "Sanctioned Investor in Cambodian Scam Compound Owns California Mansion",
+      "excerpt": "Brendon Luo was sanctioned by the U.S. Treasury in June. He still owns a mansion in California worth an estimated $5 million.",
+      "link": "https://www.occrp.org/en/news/sanctioned-investor-in-cambodian-scam-compound-owns-california-mansion",
+      "published": "2026-10-23T09:40:00+00:00",
       "featured": false
     },
     {
@@ -479,12 +479,12 @@
       "featured": false
     },
     {
-      "id": "f218513416a6",
+      "id": "17d63d7efe65",
       "source": "ProPublica",
-      "headline": "Ballot Rejections Soared in Rural Counties After USPS Reduced Mail Service",
-      "excerpt": "The post Ballot Rejections Soared in Rural Counties After USPS Reduced Mail Service appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/mail-ballot-delays-postal-service-midterms",
-      "published": "2026-10-22T10:00:00+00:00",
+      "headline": "Nuclear Weapons Waste Made Workers Sick. Despite a Law Meant to Help, the DOE Keeps Fighting Their Claims.",
+      "excerpt": "The post Nuclear Weapons Waste Made Workers Sick. Despite a Law Meant to Help, the DOE Keeps Fighting Their Claims. appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/hanford-nuclear-workers-compensation-washington-doe",
+      "published": "2026-10-22T12:00:00+00:00",
       "featured": false
     },
     {
@@ -524,21 +524,21 @@
       "featured": false
     },
     {
-      "id": "250c5583ffcd",
+      "id": "c2f1350c5dd5",
       "source": "Al Jazeera",
-      "headline": "Houthis launch attacks on Saudi Arabia and Yemen’s Aden",
-      "excerpt": "Houthi missiles reportedly struck a number of targets in Yemen, including Aden's airport and a coastguard base.",
-      "link": "https://www.aljazeera.com/news/2026/10/24/houthis-launch-attacks-on-saudi-arabia-and-yemens-aden?traffic_source=rss",
-      "published": "2026-10-24T21:08:51+00:00",
+      "headline": "Mass rally against Netanyahu ahead of pivotal Israeli election",
+      "excerpt": "Thousands of Israelis rallied against PM Benjamin Netanyahu ahead of elections on Tuesday.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/25/mass-rally-against-netanyahu-ahead-of-pivotal-israeli-election?traffic_source=rss",
+      "published": "2026-10-25T02:07:29+00:00",
       "featured": false
     },
     {
-      "id": "9fbc8cf05cd0",
+      "id": "c6f842aa4e72",
       "source": "OCCRP",
-      "headline": "EU Sanctions Envoy Pushes for Action Against Rusal’s Irish Alumina Refinery",
-      "excerpt": "The EU’s sanctions envoy said alumina from Ireland’s Aughinish refinery is reaching Russia’s military-industrial complex and something should be done about that. The statement adds pressure on Brussels to close a...",
-      "link": "https://www.occrp.org/en/news/eu-sanctions-envoy-pushes-for-action-against-rusals-irish-alumina-refinery",
-      "published": "2026-10-22T18:56:00+00:00",
+      "headline": "US Court Orders Lebanese Ex-Minister to Pay $35M in Torture and Fraud Case",
+      "excerpt": "A U.S. district court found four Lebanese defendants liable for fraud, torture and civil conspiracy in the 2019 detention of Elie and Lara Samaha, a couple who say they were held in an underground military prison after...",
+      "link": "https://www.occrp.org/en/news/us-court-orders-lebanese-ex-minister-to-pay-35m-in-torture-and-fraud-case",
+      "published": "2026-10-23T09:32:00+00:00",
       "featured": false
     }
   ]
