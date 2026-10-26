@@ -1,14 +1,50 @@
 {
-  "generated_at": "2026-10-26T13:04:56.577425+00:00",
+  "generated_at": "2026-10-26T20:29:20.540261+00:00",
   "articles": [
     {
-      "id": "02e206a4876c",
+      "id": "2230e639aa19",
       "source": "Al Jazeera",
-      "headline": "Key takeaways from Real Madrid’s El Clasico win over Barcelona",
-      "excerpt": "Real won their fifth straight game across all competitions and are finding their footing under veteran Jose Mourinho.",
-      "link": "https://www.aljazeera.com/sports/2026/10/26/real-madrid-barcelona-el-clasico-mourinho-mbappe-takeaways?traffic_source=rss",
-      "published": "2026-10-26T12:23:44+00:00",
+      "headline": "How a WhatsApp channel helped Lula win Brazil’s election",
+      "excerpt": "Over 10 million Lula supporters joined a WhatsApp channel to help boost his campaign.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/brazil-lula-victory-whatsapp-campaign-janones?traffic_source=rss",
+      "published": "2026-10-26T20:20:09+00:00",
       "featured": true
+    },
+    {
+      "id": "51591f2531c3",
+      "source": "404 Media",
+      "headline": "Proton To ‘Re-Interview’ Staff About AI To See Who Gets To Keep Their Job",
+      "excerpt": "“These re-interviews are consequential,” a leaked email seen by 404 Media reads.",
+      "link": "https://www.404media.co/proton-to-re-interview-staff-about-ai-to-see-who-gets-to-keep-their-job/",
+      "published": "2026-10-26T20:16:02+00:00",
+      "featured": true
+    },
+    {
+      "id": "a892169c6fea",
+      "source": "Dropsite News",
+      "headline": "SAUDI QUAGMIRE: The War MBS Can't Win",
+      "excerpt": "Ryan Grim interviews Shireen Al-Adeimi & Annelle Sheline",
+      "link": "https://www.dropsitenews.com/p/saudi-quagmire-the-war-mbs-cant-win",
+      "published": "2026-10-26T19:59:01+00:00",
+      "featured": true
+    },
+    {
+      "id": "d8b9b8f7e0f7",
+      "source": "OCCRP",
+      "headline": "‘Students Have Won’: Overwhelming Turnout Shatters Serbia’s Entrenched Regime",
+      "excerpt": "Dismissed two years ago as schoolkids skipping class, Serbia’s student-led opposition channeled public fury over state corruption into a historic election landslide, forcing President Aleksandar Vučić into an...",
+      "link": "https://www.occrp.org/en/news/students-have-won-overwhelming-turnout-shatters-serbias-entrenched-regime",
+      "published": "2026-10-26T18:39:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "550fb75aace5",
+      "source": "The Lever",
+      "headline": "Schumer, Jeffries Face A Voter Revolt",
+      "excerpt": "Voters in crucial election battlegrounds want to see Hakeem Jeffries and Chuck Schumer ousted from Dem leadership.",
+      "link": "https://www.levernews.com/schumer-jeffries-face-a-voter-revolt/",
+      "published": "2026-10-26T18:15:00+00:00",
+      "featured": false
     },
     {
       "id": "95b8aaa26fb4",
@@ -17,7 +53,7 @@
       "excerpt": "The Pentagon and private capital have teamed up to militarize the island nation. The post Bankrolling American Empire in the Philippines appeared first on The Intercept.",
       "link": "https://theintercept.com/2026/10/26/philippines-military-base-cerberus-private-capital/",
       "published": "2026-10-26T11:00:00+00:00",
-      "featured": true
+      "featured": false
     },
     {
       "id": "a49626014bba",
@@ -26,7 +62,7 @@
       "excerpt": "Some languages require far more tokens for AI models to process, raising costs and reducing context for the people who use them.",
       "link": "https://restofworld.org/2026/ai-tokenizer-tax-non-english-languages-cost-inequity/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "published": "2026-10-26T10:00:22+00:00",
-      "featured": true
+      "featured": false
     },
     {
       "id": "02b8cbaa224c",
@@ -38,48 +74,12 @@
       "featured": false
     },
     {
-      "id": "23830c9b8edb",
-      "source": "OCCRP",
-      "headline": "Hungarian Tycoon’s Firm Funded Pro-Orbán Advertising Agency, Records Show",
-      "excerpt": "Megafon Digital Incubator Center ran political advertising campaigns supporting the party of Hungary’s former prime minister, Viktor Orbán. Financial records show that Megafon received donations from a firm owned by...",
-      "link": "https://www.occrp.org/en/news/hungarian-tycoons-firm-funded-pro-orban-advertising-agency-records-show",
-      "published": "2026-10-26T08:24:00+00:00",
-      "featured": false
-    },
-    {
       "id": "a3d031bf31ad",
       "source": "ICIJ",
       "headline": "How Beijing’s Africa ambitions, financed by China’s mega banks, triggered a crisis in Zambia",
       "excerpt": "Chinese banking giants piled loans onto the debt-ridden country, then adopted a hardball stance when it came time to repay, documents show.",
       "link": "https://www.icij.org/investigations/china-capital/how-beijings-africa-ambitions-financed-by-chinas-mega-banks-triggered-a-crisis-in-zambia/",
       "published": "2026-10-26T04:01:17+00:00",
-      "featured": false
-    },
-    {
-      "id": "d2f2356d7a17",
-      "source": "Dropsite News",
-      "headline": "Trump Threatens Global Economy, Iran Promises Broad Response, Israel Kills 29 Palestinians",
-      "excerpt": "War Brief: Episode 6",
-      "link": "https://www.dropsitenews.com/p/trump-threatens-global-economy-iran",
-      "published": "2026-10-25T20:18:04+00:00",
-      "featured": false
-    },
-    {
-      "id": "be905e60bf26",
-      "source": "The Lever",
-      "headline": "Lever Weekly: Masked Money, Zombie Votes, And 50 Free Kills",
-      "excerpt": "Camouflaged election cash, corporate America’s autopilot voters, AI’s body-count threshold, and more from The Lever this week.",
-      "link": "https://www.levernews.com/lever-weekly-masked-money-zombie-votes-and-50-free-kills/",
-      "published": "2026-10-25T13:06:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "a74c2b299f93",
-      "source": "404 Media",
-      "headline": "An Ancient Virus Explains Why the Human Brain Is Special",
-      "excerpt": "Scientists have discovered a family of retroviruses that invaded the genomes of chimps and other primates, silencing genes involved with brain development, while humans were left unaffected.",
-      "link": "https://www.404media.co/an-ancient-virus-explains-why-the-human-brain-is-special/",
-      "published": "2026-10-24T12:27:54+00:00",
       "featured": false
     },
     {
@@ -110,12 +110,39 @@
       "featured": false
     },
     {
-      "id": "08da36184934",
+      "id": "8d277a70d86c",
       "source": "Al Jazeera",
-      "headline": "Manchester United crisis: What are the top five problems facing the club?",
-      "excerpt": "Manchester United hit a new low on Sunday with a home loss to Bournemouth. So, how can they solve their issues?",
-      "link": "https://www.aljazeera.com/sports/2026/10/26/manchester-united-crisis-what-are-the-top-five-problems-facing-the-club?traffic_source=rss",
-      "published": "2026-10-26T12:18:12+00:00",
+      "headline": "‘Deflections’: Abdul El-Sayed responds to Trump’s anti-Muslim attacks",
+      "excerpt": "The Democratic candidate for the US Senate has been the subject of Islamophobic attacks from Trump.",
+      "link": "https://www.aljazeera.com/news/2026/10/26/deflections-abdul-el-sayed-responds-to-trumps-anti-muslim-attacks?traffic_source=rss",
+      "published": "2026-10-26T20:17:09+00:00",
+      "featured": false
+    },
+    {
+      "id": "ad43991b97f0",
+      "source": "404 Media",
+      "headline": "In Leaked Audio, Flock CEO Tells Cops Backlash to the Company Isn’t Real",
+      "excerpt": "In comments at a private police conference, Garrett Langley also said his wife advised him to never apologize.",
+      "link": "https://www.404media.co/in-leaked-audio-flock-ceo-tells-cops-backlash-to-the-company-isnt-real/",
+      "published": "2026-10-26T17:43:23+00:00",
+      "featured": false
+    },
+    {
+      "id": "1f9a93acadf3",
+      "source": "OCCRP",
+      "headline": "FBI Cybercrime Operation Nets Nine Arrests in Nigeria",
+      "excerpt": "",
+      "link": "https://www.occrp.org/en/news/fbi-cybercrime-operation-nets-nine-arrests-in-nigeria",
+      "published": "2026-10-26T16:43:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "e13795437212",
+      "source": "Dropsite News",
+      "headline": "Lula beats Bolsonaro; Israel expels 3,100+ Palestinians in Hebron; Student-led movement defeats Vučić in Serbia",
+      "excerpt": "Drop Site Daily: October 26, 2026",
+      "link": "https://www.dropsitenews.com/p/lula-bolsonaro-brazil-israel-west-bank-hebron-serbia-student-movement",
+      "published": "2026-10-26T15:26:59+00:00",
       "featured": false
     },
     {
@@ -137,39 +164,12 @@
       "featured": false
     },
     {
-      "id": "95ea75f59fb4",
+      "id": "be905e60bf26",
       "source": "The Lever",
-      "headline": "How Far Will The AI Sector Go?",
-      "excerpt": "Test your knowledge of AI legislation, dark money groups, and other issues that really matter.",
-      "link": "https://www.levernews.com/how-far-will-the-ai-sector-go/",
-      "published": "2026-10-25T09:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "2b50f3f55c8f",
-      "source": "OCCRP",
-      "headline": "Sri Lanka Records Zero Prosecutions Amid Online Scam Surge",
-      "excerpt": "As criminal syndicates flee crackdowns in Southeast Asia, Sri Lankan police have detained over 1,000 foreign fraud suspects this year—yet an outdated legal code has left authorities unable to secure a single conviction.",
-      "link": "https://www.occrp.org/en/news/sri-lanka-records-zero-prosecutions-amid-online-scam-surge",
-      "published": "2026-10-25T03:30:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "294a483da3e2",
-      "source": "Dropsite News",
-      "headline": "Sudanese Army Drone Strikes Kill Scores of Civilians in Crowded Market",
-      "excerpt": "A drone strike on a market in the disputed Abyei region killed over 150 people, part of a wave of large scale attacks by the Sudanese army.",
-      "link": "https://www.dropsitenews.com/p/sudan-saf-army-drone-strikes-abyei-market-kordofan",
-      "published": "2026-10-23T20:07:09+00:00",
-      "featured": false
-    },
-    {
-      "id": "93445e539241",
-      "source": "404 Media",
-      "headline": "Podcast: ‘Reverse-Engineer Anything’ Is the Next Wave of AI Slop",
-      "excerpt": "How people are removing surveillance ads from their TVs; a big AI shakeup at Accenture; and the Character.ai bankruptcy.",
-      "link": "https://www.404media.co/podcast-reverse-engineer-anything-is-the-next-wave-of-ai-slop/",
-      "published": "2026-10-23T16:36:40+00:00",
+      "headline": "Lever Weekly: Masked Money, Zombie Votes, And 50 Free Kills",
+      "excerpt": "Camouflaged election cash, corporate America’s autopilot voters, AI’s body-count threshold, and more from The Lever this week.",
+      "link": "https://www.levernews.com/lever-weekly-masked-money-zombie-votes-and-50-free-kills/",
+      "published": "2026-10-25T13:06:00+00:00",
       "featured": false
     },
     {
@@ -218,12 +218,39 @@
       "featured": false
     },
     {
-      "id": "d59fc7e1559c",
+      "id": "2312f109b425",
       "source": "Al Jazeera",
-      "headline": "Israeli forces kill at least five people in Gaza, including 7-year-old girl",
-      "excerpt": "The death toll in Israel's genocidal war on Gaza climbs to 74,555, including 1,559 killed since 'ceasefire' last year.",
-      "link": "https://www.aljazeera.com/news/2026/10/26/israeli-forces-kill-at-least-five-people-in-gaza-including-7-year-old-girl?traffic_source=rss",
-      "published": "2026-10-26T12:17:02+00:00",
+      "headline": "80 injured after bus plunges down embankment near Barcelona",
+      "excerpt": "80 injured after bus plunges down embankment near Barcelona",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/80-injured-after-bus-plunges-down-embankment-near-barcelona?traffic_source=rss",
+      "published": "2026-10-26T19:49:31+00:00",
+      "featured": false
+    },
+    {
+      "id": "542c405ff3cd",
+      "source": "404 Media",
+      "headline": "iPhone Duo Users Are Already Seeing a Big Old Crease in the Middle of Their $2,000 Foldable iPhone",
+      "excerpt": "\"Crackgate\" has come for Apple's new folding phone.",
+      "link": "https://www.404media.co/iphone-duo-crackgate-crease-folding-phone/",
+      "published": "2026-10-26T16:10:30+00:00",
+      "featured": false
+    },
+    {
+      "id": "23830c9b8edb",
+      "source": "OCCRP",
+      "headline": "Hungarian Tycoon’s Firm Funded Pro-Orbán Advertising Agency, Records Show",
+      "excerpt": "Megafon Digital Incubator Center ran political advertising campaigns supporting the party of Hungary’s former prime minister, Viktor Orbán. Financial records show that Megafon received donations from a firm owned by...",
+      "link": "https://www.occrp.org/en/news/hungarian-tycoons-firm-funded-pro-orban-advertising-agency-records-show",
+      "published": "2026-10-26T08:24:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "d2f2356d7a17",
+      "source": "Dropsite News",
+      "headline": "Trump Threatens Global Economy, Iran Promises Broad Response, Israel Kills 29 Palestinians",
+      "excerpt": "War Brief: Episode 6",
+      "link": "https://www.dropsitenews.com/p/trump-threatens-global-economy-iran",
+      "published": "2026-10-25T20:18:04+00:00",
       "featured": false
     },
     {
@@ -236,48 +263,21 @@
       "featured": false
     },
     {
+      "id": "95ea75f59fb4",
+      "source": "The Lever",
+      "headline": "How Far Will The AI Sector Go?",
+      "excerpt": "Test your knowledge of AI legislation, dark money groups, and other issues that really matter.",
+      "link": "https://www.levernews.com/how-far-will-the-ai-sector-go/",
+      "published": "2026-10-25T09:00:00+00:00",
+      "featured": false
+    },
+    {
       "id": "663e02011368",
       "source": "ProPublica",
       "headline": "A Texas Cop Signed on to Help ICE Deport His Neighbors. It Tore the Town Apart.",
       "excerpt": "The post A Texas Cop Signed on to Help ICE Deport His Neighbors. It Tore the Town Apart. appeared first on ProPublica.",
       "link": "https://www.propublica.org/article/deportations-ingram-texas-287g-jaron-alexander",
       "published": "2026-10-25T04:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "5ec6b30d222f",
-      "source": "OCCRP",
-      "headline": "Chinese Scam Boss Murdered in Sri Lanka Had Multiple Identities",
-      "excerpt": "An investigation into the abduction and murder of a Chinese cyber scam boss uncovers his shadow identities and how he was operating across borders without consequence.",
-      "link": "https://www.occrp.org/en/news/chinese-scam-boss-murdered-in-sri-lanka-had-multiple-identities",
-      "published": "2026-10-25T03:30:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "c0aad6e2ff23",
-      "source": "The Lever",
-      "headline": "AIPAC Is Spending Millions — Just Not Under Its Own Name",
-      "excerpt": "A Lever investigation traces how the Israel lobby is routing millions through groups promoting women, reproductive rights, and Latino candidates — and how AI interests and other power brokers are adopting the strategy.",
-      "link": "https://www.levernews.com/aipac-is-spending-millions-just-not-under-its-own-name/",
-      "published": "2026-10-24T18:01:04+00:00",
-      "featured": false
-    },
-    {
-      "id": "8d9e8c52af47",
-      "source": "404 Media",
-      "headline": "Behind the Blog: Brute Forces",
-      "excerpt": "This week, we discuss reverse engineering and some wild court docs.",
-      "link": "https://www.404media.co/behind-the-blog-brute-forces/",
-      "published": "2026-10-23T15:41:49+00:00",
-      "featured": false
-    },
-    {
-      "id": "b30268fe5466",
-      "source": "Dropsite News",
-      "headline": "Netanyahu orders full lockdown of West Bank after shooting; Bombshell report on Kushner’s $2B slush fund; Brent crude hits $114",
-      "excerpt": "Drop Site Daily: October 23, 2026",
-      "link": "https://www.dropsitenews.com/p/netanyahu-west-bank-hebron-kushner-slush-fund-brent-crude-iran-trump",
-      "published": "2026-10-23T15:31:55+00:00",
       "featured": false
     },
     {
@@ -326,21 +326,39 @@
       "featured": false
     },
     {
-      "id": "505a881765e4",
+      "id": "ee000f77c487",
       "source": "Al Jazeera",
-      "headline": "Shadab Khan’s record-breaking innings gives Pakistan ODI win over England",
-      "excerpt": "Pakistan came back from 154-9 to beat England by one wicket, thanks to a historic innings by all-rounder Shadab Khan.",
-      "link": "https://www.aljazeera.com/sports/2026/10/26/shadab-khans-record-breaking-innings-gives-pakistan-odi-win-over-england?traffic_source=rss",
-      "published": "2026-10-26T12:11:59+00:00",
+      "headline": "Jordan arrests three suspects over deadly church attack",
+      "excerpt": "Jordanian authorities have arrested three relatives over a church attack in Karak that killed eight people.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/jordan-arrests-three-suspects-over-deadly-church-attack?traffic_source=rss",
+      "published": "2026-10-26T19:25:53+00:00",
       "featured": false
     },
     {
-      "id": "f5f6907eb37b",
+      "id": "9e1b24f2811f",
+      "source": "404 Media",
+      "headline": "ChatGPT Says 404 Media Is Tech Support for Huge Corporations",
+      "excerpt": "\"Draft an email to Jason Koebler at 404 Media.\"",
+      "link": "https://www.404media.co/chatgpt-says-404-media-is-tech-support-for-huge-corporations/",
+      "published": "2026-10-26T15:59:23+00:00",
+      "featured": false
+    },
+    {
+      "id": "2b50f3f55c8f",
+      "source": "OCCRP",
+      "headline": "Sri Lanka Records Zero Prosecutions Amid Online Scam Surge",
+      "excerpt": "As criminal syndicates flee crackdowns in Southeast Asia, Sri Lankan police have detained over 1,000 foreign fraud suspects this year—yet an outdated legal code has left authorities unable to secure a single conviction.",
+      "link": "https://www.occrp.org/en/news/sri-lanka-records-zero-prosecutions-amid-online-scam-surge",
+      "published": "2026-10-25T03:30:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "c0aad6e2ff23",
       "source": "The Lever",
-      "headline": "You Love To See It: Cantering For Good News",
-      "excerpt": "New York City progresses at a gallop pace, California preserves its Indigenous heritage, and other good news.",
-      "link": "https://www.levernews.com/you-love-to-see-it-cantering-for-good-news/",
-      "published": "2026-10-24T13:07:00+00:00",
+      "headline": "AIPAC Is Spending Millions — Just Not Under Its Own Name",
+      "excerpt": "A Lever investigation traces how the Israel lobby is routing millions through groups promoting women, reproductive rights, and Latino candidates — and how AI interests and other power brokers are adopting the strategy.",
+      "link": "https://www.levernews.com/aipac-is-spending-millions-just-not-under-its-own-name/",
+      "published": "2026-10-24T18:01:04+00:00",
       "featured": false
     },
     {
@@ -353,39 +371,21 @@
       "featured": false
     },
     {
+      "id": "294a483da3e2",
+      "source": "Dropsite News",
+      "headline": "Sudanese Army Drone Strikes Kill Scores of Civilians in Crowded Market",
+      "excerpt": "A drone strike on a market in the disputed Abyei region killed over 150 people, part of a wave of large scale attacks by the Sudanese army.",
+      "link": "https://www.dropsitenews.com/p/sudan-saf-army-drone-strikes-abyei-market-kordofan",
+      "published": "2026-10-23T20:07:09+00:00",
+      "featured": false
+    },
+    {
       "id": "467973b301aa",
       "source": "ProPublica",
       "headline": "After Millions in Stolen SNAP Benefits, Trump Administration Moves to Fight Theft",
       "excerpt": "The post After Millions in Stolen SNAP Benefits, Trump Administration Moves to Fight Theft appeared first on ProPublica.",
       "link": "https://www.propublica.org/article/snap-theft-chip-cards-trump-rule",
       "published": "2026-10-23T17:45:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "2c5ea0bf1bfb",
-      "source": "OCCRP",
-      "headline": "Cyprus Parliament Reviews Reports on Abramovich-Linked Asset Transfers",
-      "excerpt": "Cypriot officials faced questioning from parliamentarians following an investigation by OCCRP and partners, which found that corporate services firms backdated documents to help companies tied to Russian billionaire...",
-      "link": "https://www.occrp.org/en/news/cyprus-parliament-reviews-reports-on-abramovich-linked-asset-transfers",
-      "published": "2026-10-23T15:51:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "9842cb5f64a9",
-      "source": "Dropsite News",
-      "headline": "UAE Paid Swiss Intelligence Firm to Compile Database of “Hostile” Facebook Users",
-      "excerpt": "Leaked documents reveal a project to compile lists of UAE residents from their Facebook likes of news articles considered critical of the Emirati government.",
-      "link": "https://www.dropsitenews.com/p/uae-alp-services-facebook-crackdown",
-      "published": "2026-10-23T00:01:22+00:00",
-      "featured": false
-    },
-    {
-      "id": "a418f0f71f38",
-      "source": "404 Media",
-      "headline": "Portal Texas Used to ‘Rubber Stamp’ Data Centers Down After 404 Media Reporting",
-      "excerpt": "Commissioners in Texas said they’re making sure ‘all applications are reviewed by agency staff to determine if they are related to data centers.’",
-      "link": "https://www.404media.co/texas-commission-on-environmental-quality-portal-down/",
-      "published": "2026-10-22T20:26:43+00:00",
       "featured": false
     },
     {
@@ -434,12 +434,39 @@
       "featured": false
     },
     {
-      "id": "5119674f2a5d",
+      "id": "b730dd0446ae",
       "source": "Al Jazeera",
-      "headline": "Serbia after Vucic: Who will be PM and when will a government be formed?",
-      "excerpt": "Uncertainty remains over key positions after student-led movement deals a blow to longtime leader's political dominance.",
-      "link": "https://www.aljazeera.com/news/2026/10/26/serbia-after-vucic-who-will-be-pm-and-when-will-a-government-be-formed?traffic_source=rss",
-      "published": "2026-10-26T11:28:25+00:00",
+      "headline": "Trump faces private citizens lawsuit over limiting White House media access",
+      "excerpt": "The plaintiffs argue they are losing access to vital information media outlets covering Trump used to provide.",
+      "link": "https://www.aljazeera.com/news/2026/10/26/trump-faces-private-citizens-lawsuit-over-limiting-white-house-media-access?traffic_source=rss",
+      "published": "2026-10-26T18:29:26+00:00",
+      "featured": false
+    },
+    {
+      "id": "dab7127a70ba",
+      "source": "404 Media",
+      "headline": "ChatGPT Keeps Telling People 404 Media Can Solve Their Tech Support Problems",
+      "excerpt": "Because big tech doesn't do customer service, we are being inundated with AI-generated emails begging us for help.",
+      "link": "https://www.404media.co/chatgpt-keeps-telling-people-404-media-can-solve-their-tech-support-problems/",
+      "published": "2026-10-26T15:49:44+00:00",
+      "featured": false
+    },
+    {
+      "id": "5ec6b30d222f",
+      "source": "OCCRP",
+      "headline": "Chinese Scam Boss Murdered in Sri Lanka Had Multiple Identities",
+      "excerpt": "An investigation into the abduction and murder of a Chinese cyber scam boss uncovers his shadow identities and how he was operating across borders without consequence.",
+      "link": "https://www.occrp.org/en/news/chinese-scam-boss-murdered-in-sri-lanka-had-multiple-identities",
+      "published": "2026-10-25T03:30:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "f5f6907eb37b",
+      "source": "The Lever",
+      "headline": "You Love To See It: Cantering For Good News",
+      "excerpt": "New York City progresses at a gallop pace, California preserves its Indigenous heritage, and other good news.",
+      "link": "https://www.levernews.com/you-love-to-see-it-cantering-for-good-news/",
+      "published": "2026-10-24T13:07:00+00:00",
       "featured": false
     },
     {
@@ -461,39 +488,12 @@
       "featured": false
     },
     {
-      "id": "2b9384011fa8",
-      "source": "OCCRP",
-      "headline": "Many in Serbia’s Youth Movement Fear a Rigged Election on Sunday",
-      "excerpt": "Serbia’s student-led opposition enters Sunday’s parliamentary election locked in a dead heat with Aleksandar Vučić—even as voters brace for ballot manipulation.",
-      "link": "https://www.occrp.org/en/news/many-in-serbias-youth-movement-fear-a-rigged-election-on-sunday",
-      "published": "2026-10-23T14:48:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "fc783c3d6517",
-      "source": "The Lever",
-      "headline": "America’s Most Fascist Candidate, Brought To You By Big Oil",
-      "excerpt": "A Texas candidate trafficking in white-nationalist politics has found powerful allies among the oil interests he promises to deregulate.",
-      "link": "https://www.levernews.com/americas-most-fascist-candidate-brought-to-you-by-big-oil/",
-      "published": "2026-10-23T13:36:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "a5af69d36be5",
-      "source": "404 Media",
-      "headline": "This Woman's Living a CashApp Scam Nightmare",
-      "excerpt": "A CashApp scam mess, Airbnb hosts crashing out, and much more.",
-      "link": "https://www.404media.co/this-womans-living-a-cashapp-scam-nightmare/",
-      "published": "2026-10-22T15:33:44+00:00",
-      "featured": false
-    },
-    {
-      "id": "4548bba9e3b7",
+      "id": "b30268fe5466",
       "source": "Dropsite News",
-      "headline": "Exclusive: UN abandons Rafah crossing; PHP flaws expose websites; AIPAC ends endorsements",
-      "excerpt": "Drop Site Daily: October 22, 2026",
-      "link": "https://www.dropsitenews.com/p/un-rafah-gaza-israel-php-flaws-websites-aipac-end-endorsements",
-      "published": "2026-10-22T15:22:06+00:00",
+      "headline": "Netanyahu orders full lockdown of West Bank after shooting; Bombshell report on Kushner’s $2B slush fund; Brent crude hits $114",
+      "excerpt": "Drop Site Daily: October 23, 2026",
+      "link": "https://www.dropsitenews.com/p/netanyahu-west-bank-hebron-kushner-slush-fund-brent-crude-iran-trump",
+      "published": "2026-10-23T15:31:55+00:00",
       "featured": false
     },
     {
@@ -524,21 +524,21 @@
       "featured": false
     },
     {
-      "id": "1c4f8c9da40a",
+      "id": "7a6de4fa1595",
       "source": "Al Jazeera",
-      "headline": "Jordan arrests three suspects over church attack in dawn raid: What to know",
-      "excerpt": "Jordanian authorities have not named the individuals or any group involved in the 'terrorist incident'.",
-      "link": "https://www.aljazeera.com/news/2026/10/26/jordan-arrests-three-suspects-over-church-attack-in-dawn-raid-what-to-know?traffic_source=rss",
-      "published": "2026-10-26T11:08:48+00:00",
+      "headline": "Brazil’s real sinks after Lula’s re-election victory",
+      "excerpt": "Investors react to Lula's victory with a sharp decline in the real and concern over increased spending and fiscal challenges.",
+      "link": "https://www.aljazeera.com/economy/2026/10/26/brazils-real-sinks-after-lulas-re-election-victory?traffic_source=rss",
+      "published": "2026-10-26T18:27:23+00:00",
       "featured": false
     },
     {
-      "id": "2d38e92cc1da",
-      "source": "The Intercept",
-      "headline": "The Intercept Live in Conversation With Robert Reich",
-      "excerpt": "Inequality Media co-founder Robert Reich and The Intercept’s Akela Lacy break down the most pressing issues of the midterm elections. The post The Intercept Live in Conversation With Robert Reich appeared first on The...",
-      "link": "https://theintercept.com/2026/10/23/robert-reich-live-midterm-elections-democracy/",
-      "published": "2026-10-23T18:34:26+00:00",
+      "id": "a74c2b299f93",
+      "source": "404 Media",
+      "headline": "An Ancient Virus Explains Why the Human Brain Is Special",
+      "excerpt": "Scientists have discovered a family of retroviruses that invaded the genomes of chimps and other primates, silencing genes involved with brain development, while humans were left unaffected.",
+      "link": "https://www.404media.co/an-ancient-virus-explains-why-the-human-brain-is-special/",
+      "published": "2026-10-24T12:27:54+00:00",
       "featured": false
     }
   ]
