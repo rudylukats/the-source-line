@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-10-27T00:26:33.861456+00:00",
+  "generated_at": "2026-10-27T09:00:50.539495+00:00",
   "articles": [
+    {
+      "id": "44d5a520a9bb",
+      "source": "Al Jazeera",
+      "headline": "Cruise ship crashes into two container ships during storm",
+      "excerpt": "A captain whose cruise liner collided with container ships in strong winds is being investigated by German police.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/27/cruise-ship-crashes-into-two-container-ships-during-storm?traffic_source=rss",
+      "published": "2026-10-27T08:46:19+00:00",
+      "featured": true
+    },
+    {
+      "id": "70ed818bb621",
+      "source": "The Lever",
+      "headline": "Lever Live: Behind AIPAC’s $13.1M Money Trail",
+      "excerpt": "David Sirota sits down with Lever reporters Katya Schwenk and Luke Goldstein to dive into their investigation that traces how the Israel lobby is furtively routing millions.",
+      "link": "https://www.levernews.com/lever-live-behind-aipacs-money-trail/",
+      "published": "2026-10-27T01:32:33+00:00",
+      "featured": true
+    },
     {
       "id": "d0097798f2af",
       "source": "Dropsite News",
@@ -11,22 +29,13 @@
       "featured": true
     },
     {
-      "id": "040fb06b22bb",
-      "source": "Al Jazeera",
-      "headline": "Iran war live: Iran says US ‘not serious’ about talks; ship ablaze off Iraq",
-      "excerpt": "Iran says the United States is \"not serious\" about negotiations as UKMTO reports a ship on fire off the coast of Iraq.",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/10/27/iran-war-live-iran-says-us-not-serious-on-talks-ship-on-fire-off-iraq?traffic_source=rss",
-      "published": "2026-10-27T00:00:00+00:00",
-      "featured": true
-    },
-    {
       "id": "51591f2531c3",
       "source": "404 Media",
       "headline": "Proton To ‘Re-Interview’ Staff About AI To See Who Gets To Keep Their Job",
       "excerpt": "“These re-interviews are consequential,” a leaked email seen by 404 Media reads.",
       "link": "https://www.404media.co/proton-to-re-interview-staff-about-ai-to-see-who-gets-to-keep-their-job/",
       "published": "2026-10-26T20:16:02+00:00",
-      "featured": true
+      "featured": false
     },
     {
       "id": "d8b9b8f7e0f7",
@@ -35,15 +44,6 @@
       "excerpt": "Dismissed two years ago as schoolkids skipping class, Serbia’s student-led opposition channeled public fury over state corruption into a historic election landslide, forcing President Aleksandar Vučić into an...",
       "link": "https://www.occrp.org/en/news/students-have-won-overwhelming-turnout-shatters-serbias-entrenched-regime",
       "published": "2026-10-26T18:39:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "550fb75aace5",
-      "source": "The Lever",
-      "headline": "Schumer, Jeffries Face A Voter Revolt",
-      "excerpt": "Voters in crucial election battlegrounds want to see Hakeem Jeffries and Chuck Schumer ousted from Dem leadership.",
-      "link": "https://www.levernews.com/schumer-jeffries-face-a-voter-revolt/",
-      "published": "2026-10-26T18:15:00+00:00",
       "featured": false
     },
     {
@@ -110,12 +110,12 @@
       "featured": false
     },
     {
-      "id": "efb0551b57b5",
+      "id": "9bf9a3f7336a",
       "source": "Al Jazeera",
-      "headline": "Bolsonaro says police demand passports after Brazil election defeat",
-      "excerpt": "Flavio Bolsonaro posted a video on social media saying police ordered him to surrender his passports",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/bolsonaro-says-police-demand-passports-after-brazil-election-defeat?traffic_source=rss",
-      "published": "2026-10-26T23:53:45+00:00",
+      "headline": "Israelis begin voting as Netanyahu fights for political survival",
+      "excerpt": "Israelis vote as Netanyahu faces Gadi Eisenkot amid divisions over the wars in Gaza and Iran and growing isolation.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/27/israelis-begin-voting-as-netanyahu-fights-for-political-survival?traffic_source=rss",
+      "published": "2026-10-27T08:38:44+00:00",
       "featured": false
     },
     {
@@ -125,6 +125,15 @@
       "excerpt": "Ryan Grim interviews Shireen Al-Adeimi & Annelle Sheline",
       "link": "https://www.dropsitenews.com/p/saudi-quagmire-the-war-mbs-cant-win",
       "published": "2026-10-26T19:59:01+00:00",
+      "featured": false
+    },
+    {
+      "id": "550fb75aace5",
+      "source": "The Lever",
+      "headline": "Schumer, Jeffries Face A Voter Revolt",
+      "excerpt": "Voters in crucial election battlegrounds want to see Hakeem Jeffries and Chuck Schumer ousted from Dem leadership.",
+      "link": "https://www.levernews.com/schumer-jeffries-face-a-voter-revolt/",
+      "published": "2026-10-26T18:15:00+00:00",
       "featured": false
     },
     {
@@ -161,15 +170,6 @@
       "excerpt": "The post Cybersecurity CEO Indicted for Allegedly Scamming Millions From Ransomware Victims appeared first on ProPublica.",
       "link": "https://www.propublica.org/article/zohar-pinhasi-monstercloud-ransomware-indictment",
       "published": "2026-10-26T09:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "be905e60bf26",
-      "source": "The Lever",
-      "headline": "Lever Weekly: Masked Money, Zombie Votes, And 50 Free Kills",
-      "excerpt": "Camouflaged election cash, corporate America’s autopilot voters, AI’s body-count threshold, and more from The Lever this week.",
-      "link": "https://www.levernews.com/lever-weekly-masked-money-zombie-votes-and-50-free-kills/",
-      "published": "2026-10-25T13:06:00+00:00",
       "featured": false
     },
     {
@@ -218,12 +218,12 @@
       "featured": false
     },
     {
-      "id": "25cfbc19dbf6",
+      "id": "c9a196af41c4",
       "source": "Al Jazeera",
-      "headline": "Jordan launches air strikes in Syria in response to a fatal church shooting",
-      "excerpt": "Syria denies prior coordination with Jordan after deadly air strikes hit two provinces, killing at least seven people.",
-      "link": "https://www.aljazeera.com/news/2026/10/26/jordan-launches-air-strikes-in-syria-in-response-to-a-fatal-church-shooting?traffic_source=rss",
-      "published": "2026-10-26T23:50:11+00:00",
+      "headline": "Drone strike kills at least 21 and injures 40 in Sudan’s Nyala",
+      "excerpt": "A resident says the attack took place on Monday evening at a market in the north of Nyala city in the Darfur region.",
+      "link": "https://www.aljazeera.com/news/2026/10/27/drone-strike-kills-at-least-21-and-injures-40-in-sudans-nyala?traffic_source=rss",
+      "published": "2026-10-27T08:35:27+00:00",
       "featured": false
     },
     {
@@ -254,21 +254,21 @@
       "featured": false
     },
     {
+      "id": "be905e60bf26",
+      "source": "The Lever",
+      "headline": "Lever Weekly: Masked Money, Zombie Votes, And 50 Free Kills",
+      "excerpt": "Camouflaged election cash, corporate America’s autopilot voters, AI’s body-count threshold, and more from The Lever this week.",
+      "link": "https://www.levernews.com/lever-weekly-masked-money-zombie-votes-and-50-free-kills/",
+      "published": "2026-10-25T13:06:00+00:00",
+      "featured": false
+    },
+    {
       "id": "7ddde09d4c50",
       "source": "The Intercept",
       "headline": "Hegseth Built a New Pentagon Office for Religion. Military Religious Leaders Wish He Hadn’t.",
       "excerpt": "“What do I tell a soldier who believes an action is immoral, but also believes that God commanded it?” one Army chaplain told The Intercept. The post Hegseth Built a New Pentagon Office for Religion. Military Religious...",
       "link": "https://theintercept.com/2026/10/25/hegseth-military-christian-religion/",
       "published": "2026-10-25T10:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "95ea75f59fb4",
-      "source": "The Lever",
-      "headline": "How Far Will The AI Sector Go?",
-      "excerpt": "Test your knowledge of AI legislation, dark money groups, and other issues that really matter.",
-      "link": "https://www.levernews.com/how-far-will-the-ai-sector-go/",
-      "published": "2026-10-25T09:00:00+00:00",
       "featured": false
     },
     {
@@ -326,12 +326,12 @@
       "featured": false
     },
     {
-      "id": "88016e2dab13",
+      "id": "871be98cd4a0",
       "source": "Al Jazeera",
-      "headline": "Jordan attacks Syria in response to Karak church attack",
-      "excerpt": "Jordan’s air force has carried out several strikes in southern Syria in response to Friday’s church attack.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/jordan-attacks-syria-in-response-to-karak-church-attack?traffic_source=rss",
-      "published": "2026-10-26T23:48:51+00:00",
+      "headline": "India evacuates tens of thousands as ‘very severe’ Cyclone Arnab nears",
+      "excerpt": "The cyclonic storm is set to make landfall on Wednesday, with 400,000 people in need of evacuation.",
+      "link": "https://www.aljazeera.com/news/2026/10/27/india-evacuates-tens-of-thousands-as-very-severe-cyclone-arnab-nears?traffic_source=rss",
+      "published": "2026-10-27T08:02:37+00:00",
       "featured": false
     },
     {
@@ -353,21 +353,21 @@
       "featured": false
     },
     {
+      "id": "95ea75f59fb4",
+      "source": "The Lever",
+      "headline": "How Far Will The AI Sector Go?",
+      "excerpt": "Test your knowledge of AI legislation, dark money groups, and other issues that really matter.",
+      "link": "https://www.levernews.com/how-far-will-the-ai-sector-go/",
+      "published": "2026-10-25T09:00:00+00:00",
+      "featured": false
+    },
+    {
       "id": "2b50f3f55c8f",
       "source": "OCCRP",
       "headline": "Sri Lanka Records Zero Prosecutions Amid Online Scam Surge",
       "excerpt": "As criminal syndicates flee crackdowns in Southeast Asia, Sri Lankan police have detained over 1,000 foreign fraud suspects this year—yet an outdated legal code has left authorities unable to secure a single conviction.",
       "link": "https://www.occrp.org/en/news/sri-lanka-records-zero-prosecutions-amid-online-scam-surge",
       "published": "2026-10-25T03:30:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "c0aad6e2ff23",
-      "source": "The Lever",
-      "headline": "AIPAC Is Spending Millions — Just Not Under Its Own Name",
-      "excerpt": "A Lever investigation traces how the Israel lobby is routing millions through groups promoting women, reproductive rights, and Latino candidates — and how AI interests and other power brokers are adopting the strategy.",
-      "link": "https://www.levernews.com/aipac-is-spending-millions-just-not-under-its-own-name/",
-      "published": "2026-10-24T18:01:04+00:00",
       "featured": false
     },
     {
@@ -434,12 +434,12 @@
       "featured": false
     },
     {
-      "id": "7cc840bd2526",
+      "id": "2529340fb010",
       "source": "Al Jazeera",
-      "headline": "England’s Harry Kane wins Ballon d’Or, Alexia Putellas takes women’s award",
-      "excerpt": "Bayern Munich striker becomes the first Englishman to win the prestigious award in 25 years, after Michael Owen in 2001.",
-      "link": "https://www.aljazeera.com/sports/2026/10/26/englands-harry-kane-wins-ballon-dor-alexia-putellas-takes-womens-award?traffic_source=rss",
-      "published": "2026-10-26T23:25:29+00:00",
+      "headline": "Qatar’s path to defence autonomy",
+      "excerpt": "Qatar needs a strategy built on national resilience and diversified security guarantees.",
+      "link": "https://www.aljazeera.com/news-analysis/2026/10/27/qatars-path-to-defence-autonomy?traffic_source=rss",
+      "published": "2026-10-27T07:55:01+00:00",
       "featured": false
     },
     {
@@ -461,12 +461,12 @@
       "featured": false
     },
     {
-      "id": "f5f6907eb37b",
+      "id": "c0aad6e2ff23",
       "source": "The Lever",
-      "headline": "You Love To See It: Cantering For Good News",
-      "excerpt": "New York City progresses at a gallop pace, California preserves its Indigenous heritage, and other good news.",
-      "link": "https://www.levernews.com/you-love-to-see-it-cantering-for-good-news/",
-      "published": "2026-10-24T13:07:00+00:00",
+      "headline": "AIPAC Is Spending Millions — Just Not Under Its Own Name",
+      "excerpt": "A Lever investigation traces how the Israel lobby is routing millions through groups promoting women, reproductive rights, and Latino candidates — and how AI interests and other power brokers are adopting the strategy.",
+      "link": "https://www.levernews.com/aipac-is-spending-millions-just-not-under-its-own-name/",
+      "published": "2026-10-24T18:01:04+00:00",
       "featured": false
     },
     {
@@ -524,21 +524,21 @@
       "featured": false
     },
     {
-      "id": "4a01c051dc06",
+      "id": "5f1b7e8739a9",
       "source": "Al Jazeera",
-      "headline": "Mass brawl between Galatasaray and Fenerbahce after Istanbul derby",
-      "excerpt": "A mass brawl erupted between players of the Turkish football teams Galatasaray and Fenerbahce.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/mass-brawl-between-galatasaray-and-fenerbahce-after-istanbul-derby?traffic_source=rss",
-      "published": "2026-10-26T23:18:31+00:00",
+      "headline": "Wales first minister : ‘We’re within a union that is not a union of equals’",
+      "excerpt": "Rhun ap Iorwerth says his country’s relationship with the United Kingdom is unequal and needs to change.",
+      "link": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/10/27/wales-first-minister-were-within-a-union-that-is-not-a-union-of?traffic_source=rss",
+      "published": "2026-10-27T07:14:25+00:00",
       "featured": false
     },
     {
-      "id": "a74c2b299f93",
-      "source": "404 Media",
-      "headline": "An Ancient Virus Explains Why the Human Brain Is Special",
-      "excerpt": "Scientists have discovered a family of retroviruses that invaded the genomes of chimps and other primates, silencing genes involved with brain development, while humans were left unaffected.",
-      "link": "https://www.404media.co/an-ancient-virus-explains-why-the-human-brain-is-special/",
-      "published": "2026-10-24T12:27:54+00:00",
+      "id": "f5f6907eb37b",
+      "source": "The Lever",
+      "headline": "You Love To See It: Cantering For Good News",
+      "excerpt": "New York City progresses at a gallop pace, California preserves its Indigenous heritage, and other good news.",
+      "link": "https://www.levernews.com/you-love-to-see-it-cantering-for-good-news/",
+      "published": "2026-10-24T13:07:00+00:00",
       "featured": false
     }
   ]
