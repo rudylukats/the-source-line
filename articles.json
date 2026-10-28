@@ -1,6 +1,69 @@
 {
-  "generated_at": "2026-10-28T12:56:14.219457+00:00",
+  "generated_at": "2026-10-28T20:16:03.637522+00:00",
   "articles": [
+    {
+      "id": "0538f3088cc6",
+      "source": "Al Jazeera",
+      "headline": "Spain demands answers after deadliest train disaster in over a decade",
+      "excerpt": "At least 68 people have been killed and more than 100 injured after two high-speed trains collided south of Madrid.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/28/spain-demands-answers-after-deadliest-train-disaster-in-over-a-decade?traffic_source=rss",
+      "published": "2026-10-28T19:32:57+00:00",
+      "featured": true
+    },
+    {
+      "id": "86cc8fc17d02",
+      "source": "The Lever",
+      "headline": "The Progressive Revolt Stops At Hakeem Jeffries",
+      "excerpt": "The Democratic left bets it can win more by working with the House Speaker. That could cost them.",
+      "link": "https://www.levernews.com/the-progressive-revolt-stops-at-hakeem-jeffries/",
+      "published": "2026-10-28T19:25:09+00:00",
+      "featured": true
+    },
+    {
+      "id": "31ee6c3135f8",
+      "source": "The Intercept",
+      "headline": "Trump Vows to Send Election “Monitors” to Maine After Far-Right Conspiracies Spread",
+      "excerpt": "As right-wing Trump allies fearmongered about Somali American voter fraud, Maine trained local law enforcement officers on keeping armed federal agents out. The post Trump Vows to Send Election “Monitors” to Maine After...",
+      "link": "https://theintercept.com/2026/10/28/maine-trump-election-monitors-voting-polls/",
+      "published": "2026-10-28T18:36:46+00:00",
+      "featured": true
+    },
+    {
+      "id": "263063b644f7",
+      "source": "OCCRP",
+      "headline": "Lawyers for ‘King of the South’ Try to Chip Away at U.S. Drug Trafficking Case",
+      "excerpt": "Lawyers for alleged drug capo Sebastián Marset have challenged the DEA’s search of a phone that was seized in uncertain circumstances in Bolivia. Marset’s defense team argues the phone only became part of the court...",
+      "link": "https://www.occrp.org/en/news/lawyers-for-king-of-the-south-try-to-chip-away-at-us-drug-trafficking-case",
+      "published": "2026-10-28T16:09:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "99228d912599",
+      "source": "ProPublica",
+      "headline": "Meet ProPublica’s 2026 Class of Emerging Reporters",
+      "excerpt": "The post Meet ProPublica’s 2026 Class of Emerging Reporters appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/propublica-emerging-reporters-2026",
+      "published": "2026-10-28T15:45:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "90d91b68233c",
+      "source": "Dropsite News",
+      "headline": "U.S. boat strike kills five; No clear winner in Israeli elections; 100+ killed in Sudan attack",
+      "excerpt": "Drop Site Daily: October 28, 2026",
+      "link": "https://www.dropsitenews.com/p/us-boat-strike-pacific-israel-elections-netanyahu-sudan-market",
+      "published": "2026-10-28T15:20:21+00:00",
+      "featured": false
+    },
+    {
+      "id": "7afb8c0cfb61",
+      "source": "404 Media",
+      "headline": "Objection, your honor",
+      "excerpt": "If you're in the EU or UK, you might be able to object to Meta's new AI scraping terms. Also: this week's pod's out and more from around the web.",
+      "link": "https://www.404media.co/objection-your-honor/",
+      "published": "2026-10-28T14:41:07+00:00",
+      "featured": false
+    },
     {
       "id": "da1b826c4e4e",
       "source": "More Perfect Union",
@@ -8,42 +71,6 @@
       "excerpt": "We took Democrat Angie Nixon to Putnam County, which Trump won with nearly 74 percent. It has the worst health score in the entire state.",
       "link": "https://substack.perfectunion.us/p/we-spoke-to-trump-voters-in-rural",
       "published": "2026-10-28T12:45:42+00:00",
-      "featured": true
-    },
-    {
-      "id": "e260ee193ab5",
-      "source": "Al Jazeera",
-      "headline": "Israel’s election: The battle between change and anti-Palestinian sentiment",
-      "excerpt": "With both blocs short of a majority, parties face a choice: to break the taboo on Arab allies or return to the polls.",
-      "link": "https://www.aljazeera.com/news/2026/10/28/israels-election-the-battle-between-change-and-anti-palestinian-sentiment?traffic_source=rss",
-      "published": "2026-10-28T12:22:20+00:00",
-      "featured": true
-    },
-    {
-      "id": "177e6bcc006b",
-      "source": "OCCRP",
-      "headline": "Russian Billionaire Takes Tiny Norwegian News Outlet to Court in London",
-      "excerpt": "Billionaire fishing oligarch Vitaly Orlov is claiming damages for defamation in a U.K. court from The Barents Observer, a Norwegian publication. The tycoon alleges the outlet's reports on E.U. sanctions on his fishing...",
-      "link": "https://www.occrp.org/en/news/russian-billionaire-takes-tiny-norwegian-news-outlet-to-court-in-london",
-      "published": "2026-10-28T11:54:00+00:00",
-      "featured": true
-    },
-    {
-      "id": "fa11aa7044f5",
-      "source": "The Intercept",
-      "headline": "Prosecutors Want to Keep a Man in Prison for His Wife’s Murder — Despite Judge Saying Their Evidence is Junk",
-      "excerpt": "Slamming the bogus bite-mark analysis that sent Charles McCrory to prison in 1985, the judge vacated his conviction. The post Prosecutors Want to Keep a Man in Prison for His Wife’s Murder — Despite Judge Saying Their...",
-      "link": "https://theintercept.com/2026/10/28/bite-mark-forensics-junk-science-mccrory/",
-      "published": "2026-10-28T10:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "11370eb62727",
-      "source": "ProPublica",
-      "headline": "How Cleta Mitchell Turned Trump’s “Big Lie” Into a Movement",
-      "excerpt": "The post How Cleta Mitchell Turned Trump’s “Big Lie” Into a Movement appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/cleta-mitchell-elections-trump",
-      "published": "2026-10-28T09:00:00+00:00",
       "featured": false
     },
     {
@@ -53,33 +80,6 @@
       "excerpt": "Journalists in the South American country have called for the U.N. to intervene as the president’s public attacks become more hostile.",
       "link": "https://www.icij.org/news/2026/10/bought-off-corrupt-argentine-president-attacks-icij-member-hugo-alconada-mon/",
       "published": "2026-10-27T21:45:21+00:00",
-      "featured": false
-    },
-    {
-      "id": "97487c764196",
-      "source": "Dropsite News",
-      "headline": "AIPAC-Aligned Groups Gift Doris Matsui a $785k Blitz of Last-Minute Attack Ads",
-      "excerpt": "The ads attack Mai Vang, a progressive challenging the 11-term Democratic incumbent in California’s 7th district.",
-      "link": "https://www.dropsitenews.com/p/aipac-aligned-groups-gift-doris-matsui",
-      "published": "2026-10-27T21:31:54+00:00",
-      "featured": false
-    },
-    {
-      "id": "57d7c6176976",
-      "source": "The Lever",
-      "headline": "Corporate Dems Lost Red States. Can Populists Win Them Back?",
-      "excerpt": "Even in Texas, Florida, and Nebraska, voters are rallying behind populist candidates who want to tax the rich.",
-      "link": "https://www.levernews.com/corporate-dems-lost-red-states-can-populist-dems-win-them-back/",
-      "published": "2026-10-27T20:38:43+00:00",
-      "featured": false
-    },
-    {
-      "id": "8ee6a630e9d3",
-      "source": "404 Media",
-      "headline": "It's not the bots, Flock",
-      "excerpt": "'Crackgate,' catty patties, and more in today's newsletter.",
-      "link": "https://www.404media.co/its-not-the-bots-flock/",
-      "published": "2026-10-27T13:53:39+00:00",
       "featured": false
     },
     {
@@ -110,57 +110,66 @@
       "featured": false
     },
     {
-      "id": "31a3ef99d266",
+      "id": "0a27853e88f2",
       "source": "Al Jazeera",
-      "headline": "Israeli voters: hope and despair as election ballots are counted",
-      "excerpt": "Israeli voters in Tel Aviv expressed mixed emotions as ballots were counted after the election.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/28/israeli-voters-hope-and-despair-as-election-ballots-are-counted?traffic_source=rss",
-      "published": "2026-10-28T11:55:08+00:00",
+      "headline": "Putin: Russia is African continent’s best partner, not ‘colonial’ West",
+      "excerpt": "Russian President Vladimir Putin told the leaders of dozens of African nations that Moscow was their best partner.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/28/putin-russia-is-african-continents-best-partner-not-colonial-west?traffic_source=rss",
+      "published": "2026-10-28T19:13:32+00:00",
       "featured": false
     },
     {
-      "id": "e0ac4e95ae7a",
+      "id": "5e3c11aec374",
       "source": "The Intercept",
-      "headline": "The Bolsonaro Family Playbook: Lose, Cry Fraud, and Run to Trump’s America",
-      "excerpt": "Brazil’s Supreme court tried to strip Flávio Bolsonaro's passport, but the Trump administration granted him a visa, according to reports. The post The Bolsonaro Family Playbook: Lose, Cry Fraud, and Run to Trump’s...",
-      "link": "https://theintercept.com/2026/10/27/flavio-bolsonaro-trump-visa/",
-      "published": "2026-10-28T03:11:52+00:00",
+      "headline": "The Incredible Shrinking Superpower",
+      "excerpt": "The failing war with Iran marks a dramatic retreat by the U.S. from the Middle East. The post The Incredible Shrinking Superpower appeared first on The Intercept.",
+      "link": "https://theintercept.com/2026/10/28/yemen-saudi-arabia-iran/",
+      "published": "2026-10-28T17:04:39+00:00",
       "featured": false
     },
     {
-      "id": "119a8c57a852",
-      "source": "Dropsite News",
-      "headline": "The UAE Is Secretly Helping Ansarallah Fight Saudi Arabia in Yemen",
-      "excerpt": "In an extraordinary move, the UAE has been covertly sharing targeting assistance with the Iranian-aligned Ansarallah in its conflict against Saudi-backed forces inside Yemen.",
-      "link": "https://www.dropsitenews.com/p/uae-yemen-ansarallah-houthis-saudi-arabia-covert",
-      "published": "2026-10-27T20:51:09+00:00",
-      "featured": false
-    },
-    {
-      "id": "42d23b9f143a",
+      "id": "60127b4241c0",
       "source": "The Lever",
-      "headline": "The Blackmail Warning In Anthropic’s $2 Trillion IPO",
-      "excerpt": "The artificial intelligence company is vying for a historic IPO. Its paperwork reveals key weaknesses.",
-      "link": "https://www.levernews.com/the-blackmail-warning-in-anthropics-2-trillion-ipo/",
-      "published": "2026-10-27T19:25:56+00:00",
+      "headline": "Midterm Madness: Big Business Wants To Delete Your Tax Cut",
+      "excerpt": "Corporate interests are throwing a Hail Mary to keep tax reform off the ballot.",
+      "link": "https://www.levernews.com/midterm-madness-big-business-wants-to-delete-your-tax-cut/",
+      "published": "2026-10-28T16:54:43+00:00",
       "featured": false
     },
     {
-      "id": "72f122362ebd",
+      "id": "1b5d74901fec",
       "source": "OCCRP",
-      "headline": "‘Is This Real?’: A Serbian Investigative Journalist Reflects on the Country’s Stunning Election",
-      "excerpt": "Stevan Dojčinović is the editor-in-chief of KRIK, which has spent over a decade exposing corruption and criminality that permeated the Serbian state. Here he reflects on how a student-led movement defeated the country’s...",
-      "link": "https://www.occrp.org/en/feature/is-this-real-a-serbian-investigative-journalist-reflects-on-the-countrys-stunning-election",
-      "published": "2026-10-27T15:05:00+00:00",
+      "headline": "Flávio Bolsonaro Flees Brazil After Election Defeat and Amid Fraud Probes",
+      "excerpt": "Just hours after the Supreme Court voided his passport, the defeated presidential candidate fled across the Argentine border to evade mounting fraud and money laundering probes. He landed in the United States.",
+      "link": "https://www.occrp.org/en/news/flavio-bolsonaro-flees-brazil-after-election-defeat-and-amid-fraud-probes",
+      "published": "2026-10-28T15:04:00+00:00",
       "featured": false
     },
     {
-      "id": "da9b5bca912b",
+      "id": "e8da8b048f18",
       "source": "404 Media",
-      "headline": "Marissa Mayer Can’t Keep Pretending 'Gender Doesn't Matter'",
-      "excerpt": "The former CEO of Yahoo! and current founder of a chatbot app is going viral for using AI to list things she loves about her daughter. But what she has to say about women in tech in 2026 is worth talking about.",
-      "link": "https://www.404media.co/marissa-mayer-nyt-interview/",
-      "published": "2026-10-27T13:08:07+00:00",
+      "headline": "If You're In the UK or EU, Here's How to Object to Meta's AI Training",
+      "excerpt": "In light of Meta's new terms that will allow it to scrape users' data for AI, people in the EU and UK have the option to \"object\" to certain uses of their information, for now.",
+      "link": "https://www.404media.co/meta-ai-training-uk-eu/",
+      "published": "2026-10-28T14:18:35+00:00",
+      "featured": false
+    },
+    {
+      "id": "11370eb62727",
+      "source": "ProPublica",
+      "headline": "How Cleta Mitchell Turned Trump’s “Big Lie” Into a Movement",
+      "excerpt": "The post How Cleta Mitchell Turned Trump’s “Big Lie” Into a Movement appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/cleta-mitchell-elections-trump",
+      "published": "2026-10-28T09:00:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "97487c764196",
+      "source": "Dropsite News",
+      "headline": "AIPAC-Aligned Groups Gift Doris Matsui a $785k Blitz of Last-Minute Attack Ads",
+      "excerpt": "The ads attack Mai Vang, a progressive challenging the 11-term Democratic incumbent in California’s 7th district.",
+      "link": "https://www.dropsitenews.com/p/aipac-aligned-groups-gift-doris-matsui",
+      "published": "2026-10-27T21:31:54+00:00",
       "featured": false
     },
     {
@@ -170,15 +179,6 @@
       "excerpt": "How do you get money out of politics without overturning Citizens United?",
       "link": "https://substack.perfectunion.us/p/hawaii-just-made-citizens-united",
       "published": "2026-10-27T12:28:33+00:00",
-      "featured": false
-    },
-    {
-      "id": "19fedc81bbf2",
-      "source": "ProPublica",
-      "headline": "This Oil Company Is Linked to 1,000 Pollution Incidents and Other Violations. Oklahoma Never Punished It.",
-      "excerpt": "The post This Oil Company Is Linked to 1,000 Pollution Incidents and Other Violations. Oklahoma Never Punished It. appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/oklahoma-oil-pollution-citation-violations",
-      "published": "2026-10-27T09:00:00+00:00",
       "featured": false
     },
     {
@@ -218,66 +218,66 @@
       "featured": false
     },
     {
-      "id": "bf84ba29f508",
+      "id": "06833ae161df",
       "source": "Al Jazeera",
-      "headline": "Hackers target US campaign finance system days before midterm elections",
-      "excerpt": "An FEC email said a 'bad actor' tried to breach its systems as the US prepares for its most expensive elections ever.",
-      "link": "https://www.aljazeera.com/news/2026/10/28/hackers-target-us-campaign-finance-system-days-before-midterm-elections?traffic_source=rss",
-      "published": "2026-10-28T11:47:10+00:00",
+      "headline": "Fed leaves interest rates unchanged despite inflation in the US",
+      "excerpt": "Rates will remain 3.75-4 percent even as inflation continues to rise.",
+      "link": "https://www.aljazeera.com/economy/2026/10/28/fed-leaves-interest-rates-unchanged-despite-inflation-in-the-us?traffic_source=rss",
+      "published": "2026-10-28T19:05:44+00:00",
       "featured": false
     },
     {
-      "id": "958558263029",
-      "source": "The Intercept",
-      "headline": "The Elon Musk Funder Trying to Sway the Race for LA’s Top Lawyer",
-      "excerpt": "The leading candidate for LA city attorney has the backing of the local DSA and vows to regulate Big Tech. Tech investors are spending millions against her. The post The Elon Musk Funder Trying to Sway the Race for LA’s...",
-      "link": "https://theintercept.com/2026/10/27/la-city-attorney-roy-mckinney-big-tech-billionaires/",
-      "published": "2026-10-27T20:49:40+00:00",
-      "featured": false
-    },
-    {
-      "id": "0fe0fc56cede",
-      "source": "The Lever",
-      "headline": "Political Strategists Are Hacking AI To Influence Voters",
-      "excerpt": "As voters turn to AI for research, strategists are employing slimy tactics to control the narrative.",
-      "link": "https://www.levernews.com/political-strategists-are-hacking-ai-to-influence-voters/",
-      "published": "2026-10-27T17:19:08+00:00",
-      "featured": false
-    },
-    {
-      "id": "32c2eae68431",
-      "source": "Dropsite News",
-      "headline": "Egypt shuts down Mada Masr, convicts editor; Israelis vote as UN panel concludes genocide is ongoing; U.S. demands AI execs’ testimony",
-      "excerpt": "Drop Site Daily: October 27, 2026",
-      "link": "https://www.dropsitenews.com/p/egypt-mada-masr-journalism-israel-elections-gaza-genocide-us-ai",
-      "published": "2026-10-27T15:58:27+00:00",
-      "featured": false
-    },
-    {
-      "id": "9707d1f92d92",
+      "id": "d05f9d9c027b",
       "source": "OCCRP",
-      "headline": "U.S. Court Sentences Lender to 15 Years over $76M Ponzi Scheme",
+      "headline": "China Sentences Ex Anti-Graft Official to Suspended Death for Bribery",
       "excerpt": "",
-      "link": "https://www.occrp.org/en/news/us-court-sentences-lender-to-15-years-over-76m-ponzi-scheme",
-      "published": "2026-10-27T13:10:00+00:00",
+      "link": "https://www.occrp.org/en/news/china-sentences-ex-anti-graft-official-to-to-suspended-death-for-bribery",
+      "published": "2026-10-28T14:56:00+00:00",
       "featured": false
     },
     {
-      "id": "51591f2531c3",
+      "id": "fa11aa7044f5",
+      "source": "The Intercept",
+      "headline": "Prosecutors Want to Keep a Man in Prison for His Wife’s Murder — Despite Judge Saying Their Evidence is Junk",
+      "excerpt": "Slamming the bogus bite-mark analysis that sent Charles McCrory to prison in 1985, the judge vacated his conviction. The post Prosecutors Want to Keep a Man in Prison for His Wife’s Murder — Despite Judge Saying Their...",
+      "link": "https://theintercept.com/2026/10/28/bite-mark-forensics-junk-science-mccrory/",
+      "published": "2026-10-28T10:00:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "119a8c57a852",
+      "source": "Dropsite News",
+      "headline": "The UAE Is Secretly Helping Ansarallah Fight Saudi Arabia in Yemen",
+      "excerpt": "In an extraordinary move, the UAE has been covertly sharing targeting assistance with the Iranian-aligned Ansarallah in its conflict against Saudi-backed forces inside Yemen.",
+      "link": "https://www.dropsitenews.com/p/uae-yemen-ansarallah-houthis-saudi-arabia-covert",
+      "published": "2026-10-27T20:51:09+00:00",
+      "featured": false
+    },
+    {
+      "id": "57d7c6176976",
+      "source": "The Lever",
+      "headline": "Corporate Dems Lost Red States. Can Populists Win Them Back?",
+      "excerpt": "Even in Texas, Florida, and Nebraska, voters are rallying behind populist candidates who want to tax the rich.",
+      "link": "https://www.levernews.com/corporate-dems-lost-red-states-can-populist-dems-win-them-back/",
+      "published": "2026-10-27T20:38:43+00:00",
+      "featured": false
+    },
+    {
+      "id": "8ee6a630e9d3",
       "source": "404 Media",
-      "headline": "Proton To ‘Re-Interview’ Staff About AI To See Who Gets To Keep Their Job",
-      "excerpt": "“These re-interviews are consequential,” a leaked email seen by 404 Media reads.",
-      "link": "https://www.404media.co/proton-to-re-interview-staff-about-ai-to-see-who-gets-to-keep-their-job/",
-      "published": "2026-10-26T20:16:02+00:00",
+      "headline": "It's not the bots, Flock",
+      "excerpt": "'Crackgate,' catty patties, and more in today's newsletter.",
+      "link": "https://www.404media.co/its-not-the-bots-flock/",
+      "published": "2026-10-27T13:53:39+00:00",
       "featured": false
     },
     {
-      "id": "02b8cbaa224c",
+      "id": "19fedc81bbf2",
       "source": "ProPublica",
-      "headline": "In a Newly Drawn District, Black Voters May Get a Representative Who Spent Years Undermining Their Interests",
-      "excerpt": "The post In a Newly Drawn District, Black Voters May Get a Representative Who Spent Years Undermining Their Interests appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/brent-taylor-memphis-tennessee-preemption-laws",
-      "published": "2026-10-26T10:00:00+00:00",
+      "headline": "This Oil Company Is Linked to 1,000 Pollution Incidents and Other Violations. Oklahoma Never Punished It.",
+      "excerpt": "The post This Oil Company Is Linked to 1,000 Pollution Incidents and Other Violations. Oklahoma Never Punished It. appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/oklahoma-oil-pollution-citation-violations",
+      "published": "2026-10-27T09:00:00+00:00",
       "featured": false
     },
     {
@@ -326,66 +326,66 @@
       "featured": false
     },
     {
-      "id": "0771f3388fbb",
+      "id": "2dd72aafdd59",
       "source": "Al Jazeera",
-      "headline": "Nigerian artist reframes children with albinism as heroes",
-      "excerpt": "Nigerian artist reframes children with albinism as heroes",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/28/nigerian-artist-reframes-children-with-albinism-as-heroes?traffic_source=rss",
-      "published": "2026-10-28T11:46:49+00:00",
+      "headline": "What are the implications of Israel’s elections?",
+      "excerpt": "No clear winner in Israel's first election since the October 7 attacks and genocidal war in Gaza.",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/10/28/what-are-the-implications-of-israels-elections?traffic_source=rss",
+      "published": "2026-10-28T19:03:03+00:00",
       "featured": false
     },
     {
-      "id": "4edb4f70da5c",
-      "source": "The Intercept",
-      "headline": "Pentagon Fears Drone Attacks on U.S. and Foreign Bases",
-      "excerpt": "Government officials said a series of recent attacks and threats have highlighted the vulnerability of U.S. military bases. The post Pentagon Fears Drone Attacks on U.S. and Foreign Bases appeared first on The Intercept.",
-      "link": "https://theintercept.com/2026/10/27/pentagon-drone-attacks-military-bases/",
-      "published": "2026-10-27T15:00:07+00:00",
-      "featured": false
-    },
-    {
-      "id": "70ed818bb621",
-      "source": "The Lever",
-      "headline": "Lever Live: Behind AIPAC’s $13.1M Money Trail",
-      "excerpt": "David Sirota sits down with Lever reporters Katya Schwenk and Luke Goldstein to dive into their investigation that traces how the Israel lobby is furtively routing millions.",
-      "link": "https://www.levernews.com/lever-live-behind-aipacs-money-trail/",
-      "published": "2026-10-27T01:32:33+00:00",
-      "featured": false
-    },
-    {
-      "id": "d0097798f2af",
-      "source": "Dropsite News",
-      "headline": "Violent Crackdown in Northwest Pakistan Aims to Neutralize Party of Imran Khan",
-      "excerpt": "The Pakistani government’s removal of the country’s last opposition provincial government is the latest stage in a long-running confrontation between the military and former Prime Minister Imran Khan.",
-      "link": "https://www.dropsitenews.com/p/pakistan-imran-khan-emergency-rule-khyber-pakhtunkhwa",
-      "published": "2026-10-27T00:20:22+00:00",
-      "featured": false
-    },
-    {
-      "id": "d8b9b8f7e0f7",
+      "id": "177e6bcc006b",
       "source": "OCCRP",
-      "headline": "‘Students Have Won’: Overwhelming Turnout Shatters Serbia’s Entrenched Regime",
-      "excerpt": "Dismissed two years ago as schoolkids skipping class, Serbia’s student-led opposition channeled public fury over state corruption into a historic election landslide, forcing President Aleksandar Vučić into an...",
-      "link": "https://www.occrp.org/en/news/students-have-won-overwhelming-turnout-shatters-serbias-entrenched-regime",
-      "published": "2026-10-26T18:39:00+00:00",
+      "headline": "Russian Billionaire Takes Tiny Norwegian News Outlet to Court in London",
+      "excerpt": "Billionaire fishing oligarch Vitaly Orlov is claiming damages for defamation in a U.K. court from The Barents Observer, a Norwegian publication. The tycoon alleges the outlet's reports on E.U. sanctions on his fishing...",
+      "link": "https://www.occrp.org/en/news/russian-billionaire-takes-tiny-norwegian-news-outlet-to-court-in-london",
+      "published": "2026-10-28T11:54:00+00:00",
       "featured": false
     },
     {
-      "id": "ad43991b97f0",
+      "id": "e0ac4e95ae7a",
+      "source": "The Intercept",
+      "headline": "The Bolsonaro Family Playbook: Lose, Cry Fraud, and Run to Trump’s America",
+      "excerpt": "Brazil’s Supreme Court tried to strip Flávio Bolsonaro’s passport, but the Trump administration granted him a visa, according to reports. The post The Bolsonaro Family Playbook: Lose, Cry Fraud, and Run to Trump’s...",
+      "link": "https://theintercept.com/2026/10/27/flavio-bolsonaro-trump-visa/",
+      "published": "2026-10-28T03:11:52+00:00",
+      "featured": false
+    },
+    {
+      "id": "42d23b9f143a",
+      "source": "The Lever",
+      "headline": "The Blackmail Warning In Anthropic’s $2 Trillion IPO",
+      "excerpt": "The artificial intelligence company is vying for a historic IPO. Its paperwork reveals key weaknesses.",
+      "link": "https://www.levernews.com/the-blackmail-warning-in-anthropics-2-trillion-ipo/",
+      "published": "2026-10-27T19:25:56+00:00",
+      "featured": false
+    },
+    {
+      "id": "32c2eae68431",
+      "source": "Dropsite News",
+      "headline": "Egypt shuts down Mada Masr, convicts editor; Israelis vote as UN panel concludes genocide is ongoing; U.S. demands AI execs’ testimony",
+      "excerpt": "Drop Site Daily: October 27, 2026",
+      "link": "https://www.dropsitenews.com/p/egypt-mada-masr-journalism-israel-elections-gaza-genocide-us-ai",
+      "published": "2026-10-27T15:58:27+00:00",
+      "featured": false
+    },
+    {
+      "id": "da9b5bca912b",
       "source": "404 Media",
-      "headline": "In Leaked Audio, Flock CEO Tells Cops Backlash to the Company Isn’t Real",
-      "excerpt": "In comments at a private police conference, Garrett Langley also said his wife advised him to never apologize.",
-      "link": "https://www.404media.co/in-leaked-audio-flock-ceo-tells-cops-backlash-to-the-company-isnt-real/",
-      "published": "2026-10-26T17:43:23+00:00",
+      "headline": "Marissa Mayer Can’t Keep Pretending 'Gender Doesn't Matter'",
+      "excerpt": "The former CEO of Yahoo! and current founder of a chatbot app is going viral for using AI to list things she loves about her daughter. But what she has to say about women in tech in 2026 is worth talking about.",
+      "link": "https://www.404media.co/marissa-mayer-nyt-interview/",
+      "published": "2026-10-27T13:08:07+00:00",
       "featured": false
     },
     {
-      "id": "c262499572fe",
+      "id": "02b8cbaa224c",
       "source": "ProPublica",
-      "headline": "Cybersecurity CEO Indicted for Allegedly Scamming Millions From Ransomware Victims",
-      "excerpt": "The post Cybersecurity CEO Indicted for Allegedly Scamming Millions From Ransomware Victims appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/zohar-pinhasi-monstercloud-ransomware-indictment",
-      "published": "2026-10-26T09:00:00+00:00",
+      "headline": "In a Newly Drawn District, Black Voters May Get a Representative Who Spent Years Undermining Their Interests",
+      "excerpt": "The post In a Newly Drawn District, Black Voters May Get a Representative Who Spent Years Undermining Their Interests appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/brent-taylor-memphis-tennessee-preemption-laws",
+      "published": "2026-10-26T10:00:00+00:00",
       "featured": false
     },
     {
@@ -434,66 +434,66 @@
       "featured": false
     },
     {
-      "id": "733cd97b55f3",
+      "id": "12b7f0e0a4ad",
       "source": "Al Jazeera",
-      "headline": "Cyclone leaves trail of destruction in India as thousands evacuated",
-      "excerpt": "Cyclone Arnab has left a trail of destruction along India’s eastern coast.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/28/cyclone-leaves-trail-of-destruction-in-india-as-thousands-evacuated?traffic_source=rss",
-      "published": "2026-10-28T11:41:04+00:00",
+      "headline": "US jury convicts Rwandan American of lying about role in genocide",
+      "excerpt": "Jurors heard competing witness testimony on where Eric Nshimiye was and what he was doing in April 1994.",
+      "link": "https://www.aljazeera.com/news/2026/10/28/us-jury-convicts-rwandan-american-of-lying-about-role-in-genocide?traffic_source=rss",
+      "published": "2026-10-28T19:02:38+00:00",
       "featured": false
     },
     {
-      "id": "a892169c6fea",
-      "source": "Dropsite News",
-      "headline": "SAUDI QUAGMIRE: The War MBS Can't Win",
-      "excerpt": "Ryan Grim interviews Shireen Al-Adeimi & Annelle Sheline",
-      "link": "https://www.dropsitenews.com/p/saudi-quagmire-the-war-mbs-cant-win",
-      "published": "2026-10-26T19:59:01+00:00",
-      "featured": false
-    },
-    {
-      "id": "550fb75aace5",
-      "source": "The Lever",
-      "headline": "Schumer, Jeffries Face A Voter Revolt",
-      "excerpt": "Voters in crucial election battlegrounds want to see Hakeem Jeffries and Chuck Schumer ousted from Dem leadership.",
-      "link": "https://www.levernews.com/schumer-jeffries-face-a-voter-revolt/",
-      "published": "2026-10-26T18:15:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "1f9a93acadf3",
-      "source": "OCCRP",
-      "headline": "FBI Cybercrime Operation Nets Nine Arrests in Nigeria",
-      "excerpt": "",
-      "link": "https://www.occrp.org/en/news/fbi-cybercrime-operation-nets-nine-arrests-in-nigeria",
-      "published": "2026-10-26T16:43:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "542c405ff3cd",
-      "source": "404 Media",
-      "headline": "iPhone Duo Users Are Already Seeing a Big Old Crease in the Middle of Their $2,000 Foldable iPhone",
-      "excerpt": "\"Crackgate\" has come for Apple's new folding phone.",
-      "link": "https://www.404media.co/iphone-duo-crackgate-crease-folding-phone/",
-      "published": "2026-10-26T16:10:30+00:00",
-      "featured": false
-    },
-    {
-      "id": "95b8aaa26fb4",
+      "id": "958558263029",
       "source": "The Intercept",
-      "headline": "Bankrolling American Empire in the Philippines",
-      "excerpt": "The Pentagon and private capital have teamed up to militarize the island nation. The post Bankrolling American Empire in the Philippines appeared first on The Intercept.",
-      "link": "https://theintercept.com/2026/10/26/philippines-military-base-cerberus-private-capital/",
-      "published": "2026-10-26T11:00:00+00:00",
+      "headline": "The Elon Musk Funder Trying to Sway the Race for LA’s Top Lawyer",
+      "excerpt": "The leading candidate for LA city attorney has the backing of the local DSA and vows to regulate Big Tech. Tech investors are spending millions against her. The post The Elon Musk Funder Trying to Sway the Race for LA’s...",
+      "link": "https://theintercept.com/2026/10/27/la-city-attorney-roy-mckinney-big-tech-billionaires/",
+      "published": "2026-10-27T20:49:40+00:00",
       "featured": false
     },
     {
-      "id": "663e02011368",
+      "id": "0fe0fc56cede",
+      "source": "The Lever",
+      "headline": "Political Strategists Are Hacking AI To Influence Voters",
+      "excerpt": "As voters turn to AI for research, strategists are employing slimy tactics to control the narrative.",
+      "link": "https://www.levernews.com/political-strategists-are-hacking-ai-to-influence-voters/",
+      "published": "2026-10-27T17:19:08+00:00",
+      "featured": false
+    },
+    {
+      "id": "72f122362ebd",
+      "source": "OCCRP",
+      "headline": "‘Is This Real?’: A Serbian Investigative Journalist Reflects on the Country’s Stunning Election",
+      "excerpt": "Stevan Dojčinović is the editor-in-chief of KRIK, which has spent over a decade exposing corruption and criminality that permeated the Serbian state. Here he reflects on how a student-led movement defeated the country’s...",
+      "link": "https://www.occrp.org/en/feature/is-this-real-a-serbian-investigative-journalist-reflects-on-the-countrys-stunning-election",
+      "published": "2026-10-27T15:05:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "d0097798f2af",
+      "source": "Dropsite News",
+      "headline": "Violent Crackdown in Northwest Pakistan Aims to Neutralize Party of Imran Khan",
+      "excerpt": "The Pakistani government’s removal of the country’s last opposition provincial government is the latest stage in a long-running confrontation between the military and former Prime Minister Imran Khan.",
+      "link": "https://www.dropsitenews.com/p/pakistan-imran-khan-emergency-rule-khyber-pakhtunkhwa",
+      "published": "2026-10-27T00:20:22+00:00",
+      "featured": false
+    },
+    {
+      "id": "51591f2531c3",
+      "source": "404 Media",
+      "headline": "Proton To ‘Re-Interview’ Staff About AI To See Who Gets To Keep Their Job",
+      "excerpt": "“These re-interviews are consequential,” a leaked email seen by 404 Media reads.",
+      "link": "https://www.404media.co/proton-to-re-interview-staff-about-ai-to-see-who-gets-to-keep-their-job/",
+      "published": "2026-10-26T20:16:02+00:00",
+      "featured": false
+    },
+    {
+      "id": "c262499572fe",
       "source": "ProPublica",
-      "headline": "A Texas Cop Signed on to Help ICE Deport His Neighbors. It Tore the Town Apart.",
-      "excerpt": "The post A Texas Cop Signed on to Help ICE Deport His Neighbors. It Tore the Town Apart. appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/deportations-ingram-texas-287g-jaron-alexander",
-      "published": "2026-10-25T04:00:00+00:00",
+      "headline": "Cybersecurity CEO Indicted for Allegedly Scamming Millions From Ransomware Victims",
+      "excerpt": "The post Cybersecurity CEO Indicted for Allegedly Scamming Millions From Ransomware Victims appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/zohar-pinhasi-monstercloud-ransomware-indictment",
+      "published": "2026-10-26T09:00:00+00:00",
       "featured": false
     },
     {
@@ -524,21 +524,21 @@
       "featured": false
     },
     {
-      "id": "e14e22da1be4",
+      "id": "bba270ce39ff",
       "source": "Al Jazeera",
-      "headline": "Families brace for a fourth winter of wind, rain and floods in Gaza’s camps",
-      "excerpt": "Gaza's impending winter is likely to lead to further devastation for Palestinians.",
-      "link": "https://www.aljazeera.com/features/2026/10/28/gaza-families-brace-for-a-fourth-winter-of-wind-rain-and-floods-in-camps?traffic_source=rss",
-      "published": "2026-10-28T11:36:04+00:00",
+      "headline": "Putin tells African leaders Moscow will not pursue ‘neo-colonialism’",
+      "excerpt": "Speaking at the third Russia-Africa Summit, Putin frames Moscow as an alternative to former colonial powers.",
+      "link": "https://www.aljazeera.com/news/2026/10/28/putin-tells-african-leaders-moscow-will-not-pursue-neo-colonialism?traffic_source=rss",
+      "published": "2026-10-28T19:01:46+00:00",
       "featured": false
     },
     {
-      "id": "9e1b24f2811f",
-      "source": "404 Media",
-      "headline": "ChatGPT Says 404 Media Is Tech Support for Huge Corporations",
-      "excerpt": "\"Draft an email to Jason Koebler at 404 Media.\"",
-      "link": "https://www.404media.co/chatgpt-says-404-media-is-tech-support-for-huge-corporations/",
-      "published": "2026-10-26T15:59:23+00:00",
+      "id": "4edb4f70da5c",
+      "source": "The Intercept",
+      "headline": "Pentagon Fears Drone Attacks on U.S. and Foreign Bases",
+      "excerpt": "Government officials said a series of recent attacks and threats have highlighted the vulnerability of U.S. military bases. The post Pentagon Fears Drone Attacks on U.S. and Foreign Bases appeared first on The Intercept.",
+      "link": "https://theintercept.com/2026/10/27/pentagon-drone-attacks-military-bases/",
+      "published": "2026-10-27T15:00:07+00:00",
       "featured": false
     }
   ]
