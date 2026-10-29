@@ -1,13 +1,22 @@
 {
-  "generated_at": "2026-10-28T20:16:03.637522+00:00",
+  "generated_at": "2026-10-29T00:57:52.303730+00:00",
   "articles": [
     {
-      "id": "0538f3088cc6",
+      "id": "bbb36ee048b3",
       "source": "Al Jazeera",
-      "headline": "Spain demands answers after deadliest train disaster in over a decade",
-      "excerpt": "At least 68 people have been killed and more than 100 injured after two high-speed trains collided south of Madrid.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/28/spain-demands-answers-after-deadliest-train-disaster-in-over-a-decade?traffic_source=rss",
-      "published": "2026-10-28T19:32:57+00:00",
+      "headline": "Riot police deployed in Madrid as protests erupt over deadly train crash",
+      "excerpt": "A deadly train crash fuelled anger in Spain as far-right demonstrators clashed with police",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/29/riot-police-deployed-in-madrid-as-protests-erupt-over-deadly-train-crash?traffic_source=rss",
+      "published": "2026-10-29T00:36:33+00:00",
+      "featured": true
+    },
+    {
+      "id": "7207da9fbae1",
+      "source": "Dropsite News",
+      "headline": "“Mediacide”: Francesca Albanese on Israel’s War on Journalism",
+      "excerpt": "The UN Special Rapporteur joins Sharif Abdel Kouddous to discuss her new report on media in the time of genocide.",
+      "link": "https://www.dropsitenews.com/p/mediacide-francesca-albanese-on-israels",
+      "published": "2026-10-28T22:41:30+00:00",
       "featured": true
     },
     {
@@ -26,7 +35,7 @@
       "excerpt": "As right-wing Trump allies fearmongered about Somali American voter fraud, Maine trained local law enforcement officers on keeping armed federal agents out. The post Trump Vows to Send Election “Monitors” to Maine After...",
       "link": "https://theintercept.com/2026/10/28/maine-trump-election-monitors-voting-polls/",
       "published": "2026-10-28T18:36:46+00:00",
-      "featured": true
+      "featured": false
     },
     {
       "id": "263063b644f7",
@@ -44,15 +53,6 @@
       "excerpt": "The post Meet ProPublica’s 2026 Class of Emerging Reporters appeared first on ProPublica.",
       "link": "https://www.propublica.org/article/propublica-emerging-reporters-2026",
       "published": "2026-10-28T15:45:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "90d91b68233c",
-      "source": "Dropsite News",
-      "headline": "U.S. boat strike kills five; No clear winner in Israeli elections; 100+ killed in Sudan attack",
-      "excerpt": "Drop Site Daily: October 28, 2026",
-      "link": "https://www.dropsitenews.com/p/us-boat-strike-pacific-israel-elections-netanyahu-sudan-market",
-      "published": "2026-10-28T15:20:21+00:00",
       "featured": false
     },
     {
@@ -110,12 +110,21 @@
       "featured": false
     },
     {
-      "id": "0a27853e88f2",
+      "id": "d34cd8dfe155",
       "source": "Al Jazeera",
-      "headline": "Putin: Russia is African continent’s best partner, not ‘colonial’ West",
-      "excerpt": "Russian President Vladimir Putin told the leaders of dozens of African nations that Moscow was their best partner.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/28/putin-russia-is-african-continents-best-partner-not-colonial-west?traffic_source=rss",
-      "published": "2026-10-28T19:13:32+00:00",
+      "headline": "Israelis rally for Jewish-Arab government after election gains",
+      "excerpt": "Israelis rallied for a Jewish-Arab gov’t after parties representing Israel’s Arab citizens made gains in the election.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/29/israelis-rally-for-jewish-arab-government-after-election-gains?traffic_source=rss",
+      "published": "2026-10-29T00:34:24+00:00",
+      "featured": false
+    },
+    {
+      "id": "144c8c98666b",
+      "source": "Dropsite News",
+      "headline": "Company Linked to Darline Graham’s Husband Was Sanctioned for Arming Russia Against Ukraine",
+      "excerpt": "The friction between Graham’s stated politics and her husband’s career, it turns out, goes significantly further than his company’s reliance on Chinese manufacturing.",
+      "link": "https://www.dropsitenews.com/p/darline-graham-lindsey-husband-russia-ukraine-sanctions",
+      "published": "2026-10-28T20:24:39+00:00",
       "featured": false
     },
     {
@@ -164,15 +173,6 @@
       "featured": false
     },
     {
-      "id": "97487c764196",
-      "source": "Dropsite News",
-      "headline": "AIPAC-Aligned Groups Gift Doris Matsui a $785k Blitz of Last-Minute Attack Ads",
-      "excerpt": "The ads attack Mai Vang, a progressive challenging the 11-term Democratic incumbent in California’s 7th district.",
-      "link": "https://www.dropsitenews.com/p/aipac-aligned-groups-gift-doris-matsui",
-      "published": "2026-10-27T21:31:54+00:00",
-      "featured": false
-    },
-    {
       "id": "ba98ff9c2a46",
       "source": "More Perfect Union",
       "headline": "Hawaii Just Made Citizens United Irrelevant. Your State Could Be Next.",
@@ -218,12 +218,21 @@
       "featured": false
     },
     {
-      "id": "06833ae161df",
+      "id": "93c97ed93490",
       "source": "Al Jazeera",
-      "headline": "Fed leaves interest rates unchanged despite inflation in the US",
-      "excerpt": "Rates will remain 3.75-4 percent even as inflation continues to rise.",
-      "link": "https://www.aljazeera.com/economy/2026/10/28/fed-leaves-interest-rates-unchanged-despite-inflation-in-the-us?traffic_source=rss",
-      "published": "2026-10-28T19:05:44+00:00",
+      "headline": "No clear winner in Israel election with nearly 90 percent of votes counted",
+      "excerpt": "Netanyahu's right-wing bloc leads but is falling short of the votes needed to form a government.",
+      "link": "https://www.aljazeera.com/news/2026/10/29/no-clear-winner-in-israeli-election-with-nearly-90-percent-of-votes-counted?traffic_source=rss",
+      "published": "2026-10-29T00:01:07+00:00",
+      "featured": false
+    },
+    {
+      "id": "90d91b68233c",
+      "source": "Dropsite News",
+      "headline": "U.S. boat strike kills five; No clear winner in Israeli elections; 100+ killed in Sudan attack",
+      "excerpt": "Drop Site Daily: October 28, 2026",
+      "link": "https://www.dropsitenews.com/p/us-boat-strike-pacific-israel-elections-netanyahu-sudan-market",
+      "published": "2026-10-28T15:20:21+00:00",
       "featured": false
     },
     {
@@ -242,15 +251,6 @@
       "excerpt": "Slamming the bogus bite-mark analysis that sent Charles McCrory to prison in 1985, the judge vacated his conviction. The post Prosecutors Want to Keep a Man in Prison for His Wife’s Murder — Despite Judge Saying Their...",
       "link": "https://theintercept.com/2026/10/28/bite-mark-forensics-junk-science-mccrory/",
       "published": "2026-10-28T10:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "119a8c57a852",
-      "source": "Dropsite News",
-      "headline": "The UAE Is Secretly Helping Ansarallah Fight Saudi Arabia in Yemen",
-      "excerpt": "In an extraordinary move, the UAE has been covertly sharing targeting assistance with the Iranian-aligned Ansarallah in its conflict against Saudi-backed forces inside Yemen.",
-      "link": "https://www.dropsitenews.com/p/uae-yemen-ansarallah-houthis-saudi-arabia-covert",
-      "published": "2026-10-27T20:51:09+00:00",
       "featured": false
     },
     {
@@ -326,12 +326,12 @@
       "featured": false
     },
     {
-      "id": "2dd72aafdd59",
+      "id": "ce0b2b4291c7",
       "source": "Al Jazeera",
-      "headline": "What are the implications of Israel’s elections?",
-      "excerpt": "No clear winner in Israel's first election since the October 7 attacks and genocidal war in Gaza.",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/10/28/what-are-the-implications-of-israels-elections?traffic_source=rss",
-      "published": "2026-10-28T19:03:03+00:00",
+      "headline": "Iran war live: Tehran presses 7-day Hormuz plan; Trump denies peace talks",
+      "excerpt": "Araghchi says Iran is in close contact with mediators on ideas to implement its seven-day plan to reopen Hormuz strait.",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/10/29/iran-war-live-tehran-presses-7-day-hormuz-plan-trump-denies-peace-talks?traffic_source=rss",
+      "published": "2026-10-29T00:00:00+00:00",
       "featured": false
     },
     {
@@ -353,21 +353,21 @@
       "featured": false
     },
     {
+      "id": "97487c764196",
+      "source": "Dropsite News",
+      "headline": "AIPAC-Aligned Groups Gift Doris Matsui a $785k Blitz of Last-Minute Attack Ads",
+      "excerpt": "The ads attack Mai Vang, a progressive challenging the 11-term Democratic incumbent in California’s 7th district.",
+      "link": "https://www.dropsitenews.com/p/aipac-aligned-groups-gift-doris-matsui",
+      "published": "2026-10-27T21:31:54+00:00",
+      "featured": false
+    },
+    {
       "id": "42d23b9f143a",
       "source": "The Lever",
       "headline": "The Blackmail Warning In Anthropic’s $2 Trillion IPO",
       "excerpt": "The artificial intelligence company is vying for a historic IPO. Its paperwork reveals key weaknesses.",
       "link": "https://www.levernews.com/the-blackmail-warning-in-anthropics-2-trillion-ipo/",
       "published": "2026-10-27T19:25:56+00:00",
-      "featured": false
-    },
-    {
-      "id": "32c2eae68431",
-      "source": "Dropsite News",
-      "headline": "Egypt shuts down Mada Masr, convicts editor; Israelis vote as UN panel concludes genocide is ongoing; U.S. demands AI execs’ testimony",
-      "excerpt": "Drop Site Daily: October 27, 2026",
-      "link": "https://www.dropsitenews.com/p/egypt-mada-masr-journalism-israel-elections-gaza-genocide-us-ai",
-      "published": "2026-10-27T15:58:27+00:00",
       "featured": false
     },
     {
@@ -434,12 +434,21 @@
       "featured": false
     },
     {
-      "id": "12b7f0e0a4ad",
+      "id": "104d3fd68f86",
       "source": "Al Jazeera",
-      "headline": "US jury convicts Rwandan American of lying about role in genocide",
-      "excerpt": "Jurors heard competing witness testimony on where Eric Nshimiye was and what he was doing in April 1994.",
-      "link": "https://www.aljazeera.com/news/2026/10/28/us-jury-convicts-rwandan-american-of-lying-about-role-in-genocide?traffic_source=rss",
-      "published": "2026-10-28T19:02:38+00:00",
+      "headline": "Romania extends pre-trial detention of far-right politician Calin Georgescu",
+      "excerpt": "The Bucharest court has extended the pre-trial detention of Calin Georgescu by 30 days, appealing a lower court ruling.",
+      "link": "https://www.aljazeera.com/news/2026/10/28/romania-extends-pre-trial-detention-of-far-right-politician-calin-georgescu?traffic_source=rss",
+      "published": "2026-10-28T23:43:06+00:00",
+      "featured": false
+    },
+    {
+      "id": "119a8c57a852",
+      "source": "Dropsite News",
+      "headline": "The UAE Is Secretly Helping Ansarallah Fight Saudi Arabia in Yemen",
+      "excerpt": "In an extraordinary move, the UAE has been covertly sharing targeting assistance with the Iranian-aligned Ansarallah in its conflict against Saudi-backed forces inside Yemen.",
+      "link": "https://www.dropsitenews.com/p/uae-yemen-ansarallah-houthis-saudi-arabia-covert",
+      "published": "2026-10-27T20:51:09+00:00",
       "featured": false
     },
     {
@@ -467,15 +476,6 @@
       "excerpt": "Stevan Dojčinović is the editor-in-chief of KRIK, which has spent over a decade exposing corruption and criminality that permeated the Serbian state. Here he reflects on how a student-led movement defeated the country’s...",
       "link": "https://www.occrp.org/en/feature/is-this-real-a-serbian-investigative-journalist-reflects-on-the-countrys-stunning-election",
       "published": "2026-10-27T15:05:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "d0097798f2af",
-      "source": "Dropsite News",
-      "headline": "Violent Crackdown in Northwest Pakistan Aims to Neutralize Party of Imran Khan",
-      "excerpt": "The Pakistani government’s removal of the country’s last opposition provincial government is the latest stage in a long-running confrontation between the military and former Prime Minister Imran Khan.",
-      "link": "https://www.dropsitenews.com/p/pakistan-imran-khan-emergency-rule-khyber-pakhtunkhwa",
-      "published": "2026-10-27T00:20:22+00:00",
       "featured": false
     },
     {
@@ -524,21 +524,21 @@
       "featured": false
     },
     {
-      "id": "bba270ce39ff",
+      "id": "5839a08c278f",
       "source": "Al Jazeera",
-      "headline": "Putin tells African leaders Moscow will not pursue ‘neo-colonialism’",
-      "excerpt": "Speaking at the third Russia-Africa Summit, Putin frames Moscow as an alternative to former colonial powers.",
-      "link": "https://www.aljazeera.com/news/2026/10/28/putin-tells-african-leaders-moscow-will-not-pursue-neo-colonialism?traffic_source=rss",
-      "published": "2026-10-28T19:01:46+00:00",
+      "headline": "UN experts sound alarm at excessive use of force in French student protests",
+      "excerpt": "UN experts have condemned police crackdowns, warning they deter demonstrators from exercising their rights.",
+      "link": "https://www.aljazeera.com/news/2026/10/28/un-experts-sound-alarm-at-excessive-use-of-force-in-french-student-protests?traffic_source=rss",
+      "published": "2026-10-28T22:34:51+00:00",
       "featured": false
     },
     {
-      "id": "4edb4f70da5c",
-      "source": "The Intercept",
-      "headline": "Pentagon Fears Drone Attacks on U.S. and Foreign Bases",
-      "excerpt": "Government officials said a series of recent attacks and threats have highlighted the vulnerability of U.S. military bases. The post Pentagon Fears Drone Attacks on U.S. and Foreign Bases appeared first on The Intercept.",
-      "link": "https://theintercept.com/2026/10/27/pentagon-drone-attacks-military-bases/",
-      "published": "2026-10-27T15:00:07+00:00",
+      "id": "32c2eae68431",
+      "source": "Dropsite News",
+      "headline": "Egypt shuts down Mada Masr, convicts editor; Israelis vote as UN panel concludes genocide is ongoing; U.S. demands AI execs’ testimony",
+      "excerpt": "Drop Site Daily: October 27, 2026",
+      "link": "https://www.dropsitenews.com/p/egypt-mada-masr-journalism-israel-elections-gaza-genocide-us-ai",
+      "published": "2026-10-27T15:58:27+00:00",
       "featured": false
     }
   ]
