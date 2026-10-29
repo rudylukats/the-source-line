@@ -1,0 +1,1211 @@
+{
+  "generated_at": "2026-10-29T00:31:39.146364+00:00",
+  "date": "2026-10-30",
+  "theme": "Kitchen Table",
+  "word_search": {
+    "size": 14,
+    "grid": [
+      [
+        "A",
+        "G",
+        "G",
+        "X",
+        "S",
+        "B",
+        "K",
+        "D",
+        "H",
+        "P",
+        "S",
+        "T",
+        "Z",
+        "P"
+      ],
+      [
+        "B",
+        "L",
+        "E",
+        "N",
+        "D",
+        "E",
+        "R",
+        "T",
+        "G",
+        "O",
+        "H",
+        "B",
+        "T",
+        "X"
+      ],
+      [
+        "T",
+        "X",
+        "U",
+        "W",
+        "P",
+        "U",
+        "U",
+        "X",
+        "B",
+        "C",
+        "D",
+        "R",
+        "K",
+        "P"
+      ],
+      [
+        "Y",
+        "U",
+        "L",
+        "T",
+        "G",
+        "A",
+        "R",
+        "L",
+        "I",
+        "C",
+        "E",
+        "K",
+        "T",
+        "E"
+      ],
+      [
+        "E",
+        "R",
+        "Y",
+        "W",
+        "A",
+        "R",
+        "B",
+        "Q",
+        "O",
+        "Z",
+        "R",
+        "C",
+        "L",
+        "U"
+      ],
+      [
+        "S",
+        "P",
+        "T",
+        "V",
+        "G",
+        "P",
+        "D",
+        "J",
+        "I",
+        "F",
+        "I",
+        "O",
+        "D",
+        "S"
+      ],
+      [
+        "W",
+        "Z",
+        "I",
+        "N",
+        "Z",
+        "X",
+        "S",
+        "T",
+        "A",
+        "N",
+        "R",
+        "Y",
+        "K",
+        "Z"
+      ],
+      [
+        "L",
+        "H",
+        "Y",
+        "C",
+        "A",
+        "T",
+        "E",
+        "D",
+        "N",
+        "E",
+        "G",
+        "I",
+        "S",
+        "W"
+      ],
+      [
+        "K",
+        "O",
+        "I",
+        "N",
+        "E",
+        "P",
+        "J",
+        "A",
+        "S",
+        "N",
+        "L",
+        "I",
+        "I",
+        "R"
+      ],
+      [
+        "D",
+        "E",
+        "C",
+        "S",
+        "P",
+        "R",
+        "M",
+        "S",
+        "K",
+        "L",
+        "O",
+        "D",
+        "M",
+        "X"
+      ],
+      [
+        "K",
+        "B",
+        "T",
+        "A",
+        "K",
+        "O",
+        "A",
+        "E",
+        "E",
+        "S",
+        "C",
+        "P",
+        "M",
+        "Z"
+      ],
+      [
+        "P",
+        "X",
+        "R",
+        "T",
+        "N",
+        "C",
+        "D",
+        "T",
+        "Q",
+        "V",
+        "G",
+        "E",
+        "E",
+        "E"
+      ],
+      [
+        "H",
+        "Z",
+        "A",
+        "H",
+        "L",
+        "Q",
+        "B",
+        "G",
+        "T",
+        "M",
+        "M",
+        "B",
+        "R",
+        "C"
+      ],
+      [
+        "N",
+        "O",
+        "N",
+        "D",
+        "H",
+        "E",
+        "T",
+        "P",
+        "A",
+        "F",
+        "S",
+        "H",
+        "Q",
+        "Q"
+      ]
+    ],
+    "words": [
+      "APPETIZER",
+      "CASSEROLE",
+      "CINNAMON",
+      "SPATULA",
+      "BLENDER",
+      "SKILLET",
+      "KETTLE",
+      "PANTRY",
+      "SIMMER",
+      "RECIPE",
+      "GARLIC",
+      "WHISK"
+    ]
+  },
+  "crossword": {
+    "width": 21,
+    "height": 21,
+    "grid": [
+      [
+        null,
+        null,
+        null,
+        null,
+        {
+          "letter": "G",
+          "number": 1
+        },
+        {
+          "letter": "A",
+          "number": null
+        },
+        {
+          "letter": "R",
+          "number": null
+        },
+        {
+          "letter": "L",
+          "number": null
+        },
+        {
+          "letter": "I",
+          "number": null
+        },
+        {
+          "letter": "C",
+          "number": 2
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "letter": "I",
+          "number": null
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "letter": "N",
+          "number": null
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "letter": "N",
+          "number": null
+        },
+        null,
+        {
+          "letter": "A",
+          "number": 3
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "letter": "A",
+          "number": null
+        },
+        null,
+        {
+          "letter": "P",
+          "number": null
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "letter": "M",
+          "number": null
+        },
+        null,
+        {
+          "letter": "P",
+          "number": null
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "letter": "O",
+          "number": null
+        },
+        null,
+        {
+          "letter": "E",
+          "number": null
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "letter": "O",
+          "number": 4
+        },
+        null,
+        null,
+        {
+          "letter": "S",
+          "number": 5
+        }
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "letter": "M",
+          "number": 6
+        },
+        {
+          "letter": "A",
+          "number": null
+        },
+        {
+          "letter": "R",
+          "number": null
+        },
+        {
+          "letter": "I",
+          "number": null
+        },
+        {
+          "letter": "N",
+          "number": null
+        },
+        {
+          "letter": "A",
+          "number": null
+        },
+        {
+          "letter": "T",
+          "number": null
+        },
+        {
+          "letter": "E",
+          "number": null
+        },
+        null,
+        {
+          "letter": "D",
+          "number": 7
+        },
+        null,
+        null,
+        {
+          "letter": "M",
+          "number": null
+        },
+        null,
+        null,
+        {
+          "letter": "P",
+          "number": null
+        }
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "letter": "I",
+          "number": null
+        },
+        null,
+        null,
+        {
+          "letter": "E",
+          "number": null
+        },
+        null,
+        null,
+        {
+          "letter": "E",
+          "number": null
+        },
+        null,
+        null,
+        {
+          "letter": "A",
+          "number": null
+        }
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "letter": "Z",
+          "number": null
+        },
+        null,
+        null,
+        {
+          "letter": "S",
+          "number": 8
+        },
+        {
+          "letter": "K",
+          "number": null
+        },
+        {
+          "letter": "I",
+          "number": null
+        },
+        {
+          "letter": "L",
+          "number": null
+        },
+        {
+          "letter": "L",
+          "number": null
+        },
+        {
+          "letter": "E",
+          "number": null
+        },
+        {
+          "letter": "T",
+          "number": null
+        }
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "letter": "E",
+          "number": null
+        },
+        null,
+        null,
+        {
+          "letter": "S",
+          "number": null
+        },
+        null,
+        null,
+        {
+          "letter": "E",
+          "number": null
+        },
+        null,
+        null,
+        {
+          "letter": "U",
+          "number": null
+        }
+      ],
+      [
+        null,
+        null,
+        {
+          "letter": "B",
+          "number": 9
+        },
+        null,
+        null,
+        null,
+        {
+          "letter": "C",
+          "number": 10
+        },
+        {
+          "letter": "A",
+          "number": null
+        },
+        {
+          "letter": "S",
+          "number": null
+        },
+        {
+          "letter": "S",
+          "number": null
+        },
+        {
+          "letter": "E",
+          "number": null
+        },
+        {
+          "letter": "R",
+          "number": null
+        },
+        {
+          "letter": "O",
+          "number": null
+        },
+        {
+          "letter": "L",
+          "number": null
+        },
+        {
+          "letter": "E",
+          "number": null
+        },
+        null,
+        null,
+        {
+          "letter": "T",
+          "number": null
+        },
+        null,
+        null,
+        {
+          "letter": "L",
+          "number": null
+        }
+      ],
+      [
+        null,
+        null,
+        {
+          "letter": "L",
+          "number": null
+        },
+        null,
+        null,
+        null,
+        {
+          "letter": "O",
+          "number": null
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "letter": "R",
+          "number": null
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "letter": "A",
+          "number": null
+        }
+      ],
+      [
+        {
+          "letter": "P",
+          "number": 11
+        },
+        {
+          "letter": "R",
+          "number": null
+        },
+        {
+          "letter": "E",
+          "number": null
+        },
+        {
+          "letter": "T",
+          "number": null
+        },
+        {
+          "letter": "Z",
+          "number": null
+        },
+        {
+          "letter": "E",
+          "number": null
+        },
+        {
+          "letter": "L",
+          "number": null
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "letter": "K",
+          "number": 12
+        },
+        {
+          "letter": "E",
+          "number": null
+        },
+        {
+          "letter": "T",
+          "number": null
+        },
+        {
+          "letter": "T",
+          "number": null
+        },
+        {
+          "letter": "L",
+          "number": null
+        },
+        {
+          "letter": "E",
+          "number": null
+        },
+        null,
+        null,
+        null
+      ],
+      [
+        {
+          "letter": "A",
+          "number": null
+        },
+        null,
+        {
+          "letter": "N",
+          "number": null
+        },
+        null,
+        null,
+        null,
+        {
+          "letter": "A",
+          "number": null
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        {
+          "letter": "N",
+          "number": null
+        },
+        null,
+        {
+          "letter": "D",
+          "number": null
+        },
+        null,
+        {
+          "letter": "V",
+          "number": 13
+        },
+        {
+          "letter": "I",
+          "number": null
+        },
+        {
+          "letter": "N",
+          "number": null
+        },
+        {
+          "letter": "E",
+          "number": null
+        },
+        {
+          "letter": "G",
+          "number": null
+        },
+        {
+          "letter": "A",
+          "number": null
+        },
+        {
+          "letter": "R",
+          "number": 14
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        {
+          "letter": "T",
+          "number": null
+        },
+        null,
+        {
+          "letter": "E",
+          "number": null
+        },
+        null,
+        null,
+        null,
+        {
+          "letter": "D",
+          "number": null
+        },
+        null,
+        null,
+        null,
+        {
+          "letter": "E",
+          "number": null
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        {
+          "letter": "R",
+          "number": null
+        },
+        null,
+        {
+          "letter": "R",
+          "number": null
+        },
+        null,
+        null,
+        null,
+        {
+          "letter": "E",
+          "number": null
+        },
+        null,
+        null,
+        null,
+        {
+          "letter": "C",
+          "number": null
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        {
+          "letter": "Y",
+          "number": null
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "letter": "R",
+          "number": null
+        },
+        null,
+        {
+          "letter": "W",
+          "number": 15
+        },
+        {
+          "letter": "H",
+          "number": null
+        },
+        {
+          "letter": "I",
+          "number": null
+        },
+        {
+          "letter": "S",
+          "number": null
+        },
+        {
+          "letter": "K",
+          "number": null
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "letter": "P",
+          "number": null
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "letter": "S",
+          "number": 16
+        },
+        {
+          "letter": "I",
+          "number": null
+        },
+        {
+          "letter": "M",
+          "number": null
+        },
+        {
+          "letter": "M",
+          "number": null
+        },
+        {
+          "letter": "E",
+          "number": null
+        },
+        {
+          "letter": "R",
+          "number": null
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "across": [
+      {
+        "number": 1,
+        "clue": "Pungent bulb used in cooking",
+        "answer": "GARLIC",
+        "row": 0,
+        "col": 4,
+        "length": 6
+      },
+      {
+        "number": 6,
+        "clue": "Soak food in seasoned liquid",
+        "answer": "MARINATE",
+        "row": 7,
+        "col": 5,
+        "length": 8
+      },
+      {
+        "number": 8,
+        "clue": "Flat-bottomed pan for frying",
+        "answer": "SKILLET",
+        "row": 9,
+        "col": 14,
+        "length": 7
+      },
+      {
+        "number": 10,
+        "clue": "Baked dish made in one pan",
+        "answer": "CASSEROLE",
+        "row": 11,
+        "col": 6,
+        "length": 9
+      },
+      {
+        "number": 11,
+        "clue": "Salty, twisted baked snack",
+        "answer": "PRETZEL",
+        "row": 13,
+        "col": 0,
+        "length": 7
+      },
+      {
+        "number": 12,
+        "clue": "Container for boiling water",
+        "answer": "KETTLE",
+        "row": 13,
+        "col": 12,
+        "length": 6
+      },
+      {
+        "number": 13,
+        "clue": "Sour liquid used in dressings",
+        "answer": "VINEGAR",
+        "row": 15,
+        "col": 4,
+        "length": 7
+      },
+      {
+        "number": 15,
+        "clue": "Tool for beating eggs or batter",
+        "answer": "WHISK",
+        "row": 18,
+        "col": 8,
+        "length": 5
+      },
+      {
+        "number": 16,
+        "clue": "Cook gently just below boiling",
+        "answer": "SIMMER",
+        "row": 20,
+        "col": 6,
+        "length": 6
+      }
+    ],
+    "down": [
+      {
+        "number": 2,
+        "clue": "Warm, sweet spice from bark",
+        "answer": "CINNAMON",
+        "row": 0,
+        "col": 9,
+        "length": 8
+      },
+      {
+        "number": 3,
+        "clue": "Small dish served before the meal",
+        "answer": "APPETIZER",
+        "row": 3,
+        "col": 11,
+        "length": 9
+      },
+      {
+        "number": 4,
+        "clue": "Folded dish made of beaten eggs",
+        "answer": "OMELET",
+        "row": 6,
+        "col": 17,
+        "length": 6
+      },
+      {
+        "number": 5,
+        "clue": "Flat tool for flipping food",
+        "answer": "SPATULA",
+        "row": 6,
+        "col": 20,
+        "length": 7
+      },
+      {
+        "number": 7,
+        "clue": "Sweet course at the end of a meal",
+        "answer": "DESSERT",
+        "row": 7,
+        "col": 14,
+        "length": 7
+      },
+      {
+        "number": 9,
+        "clue": "Appliance that purees or mixes",
+        "answer": "BLENDER",
+        "row": 11,
+        "col": 2,
+        "length": 7
+      },
+      {
+        "number": 10,
+        "clue": "Bowl with holes for draining",
+        "answer": "COLANDER",
+        "row": 11,
+        "col": 6,
+        "length": 8
+      },
+      {
+        "number": 11,
+        "clue": "Small room for storing food",
+        "answer": "PANTRY",
+        "row": 13,
+        "col": 0,
+        "length": 6
+      },
+      {
+        "number": 14,
+        "clue": "Instructions for making a dish",
+        "answer": "RECIPE",
+        "row": 15,
+        "col": 10,
+        "length": 6
+      }
+    ],
+    "placed_count": 18,
+    "skipped": []
+  }
+}
