@@ -1,13 +1,31 @@
 {
-  "generated_at": "2026-10-30T01:00:28.736109+00:00",
+  "generated_at": "2026-10-30T10:02:21.911735+00:00",
   "articles": [
     {
-      "id": "222db4baa015",
+      "id": "363e906c7c88",
+      "source": "The Intercept",
+      "headline": "How AIPAC and AI Spent Their Money This Midterm Election",
+      "excerpt": "Intercept staff take stock of the big spenders this election cycle. The post How AIPAC and AI Spent Their Money This Midterm Election appeared first on The Intercept.",
+      "link": "https://theintercept.com/2026/10/30/aipac-ai-spending-midterm-election/",
+      "published": "2026-10-30T10:00:00+00:00",
+      "featured": true
+    },
+    {
+      "id": "a280861732e1",
       "source": "Al Jazeera",
-      "headline": "Armenian parliament turns into a boxing ring, third time in a month",
-      "excerpt": "Armenia’s parliament descended into fisticuffs after a ruling-party MP mocked the opposition leader’s family.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/30/armenian-parliament-turns-into-a-boxing-ring-third-time-in-a-month?traffic_source=rss",
-      "published": "2026-10-30T00:36:03+00:00",
+      "headline": "Sharp-shooting Dream beat Valkyries 80-69 to force Game 7 in WNBA Finals",
+      "excerpt": "Atlanta Dream made sure the series went the distance with an 80-69 victory over the visiting Golden State Valkyries.",
+      "link": "https://www.aljazeera.com/sports/2026/10/30/sharp-shooting-dream-beat-valkyries-80-69-to-force-game-7-in-wnba-finals?traffic_source=rss",
+      "published": "2026-10-30T09:32:14+00:00",
+      "featured": true
+    },
+    {
+      "id": "e1f48c76e1cc",
+      "source": "ProPublica",
+      "headline": "Federal and State Officials Ramp Up Scrutiny of DraftKings, Other Sports Betting Apps",
+      "excerpt": "The post Federal and State Officials Ramp Up Scrutiny of DraftKings, Other Sports Betting Apps appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/sports-betting-impact-louisiana-ohio-congress",
+      "published": "2026-10-30T09:00:00+00:00",
       "featured": true
     },
     {
@@ -17,7 +35,7 @@
       "excerpt": "The arrest highlights the selective use of drug-trafficking accusations to advance U.S. interests in Latin America.",
       "link": "https://www.dropsitenews.com/p/bolivia-attorney-general-arrest-fernando-cerimedo",
       "published": "2026-10-29T23:31:15+00:00",
-      "featured": true
+      "featured": false
     },
     {
       "id": "605d7f1edbe4",
@@ -26,7 +44,7 @@
       "excerpt": "The surging Texas gubernatorial candidate is explicitly campaigning against Corporate Democrats’ old formula and its useless labels.",
       "link": "https://www.levernews.com/gina-hinojosa-explains-the-democratic-divide/",
       "published": "2026-10-29T23:12:01+00:00",
-      "featured": true
+      "featured": false
     },
     {
       "id": "c869b0dd1854",
@@ -65,30 +83,12 @@
       "featured": false
     },
     {
-      "id": "36fad5689b33",
-      "source": "ProPublica",
-      "headline": "Search More Than 500 Cases of U.S. Citizens Detained by Immigration Agents",
-      "excerpt": "The post Search More Than 500 Cases of U.S. Citizens Detained by Immigration Agents appeared first on ProPublica.",
-      "link": "https://projects.propublica.org/american-citizens-detained-dhs-civil-rights/list",
-      "published": "2026-10-29T17:50:00+00:00",
-      "featured": false
-    },
-    {
       "id": "9421c80e088a",
       "source": "More Perfect Union",
       "headline": "Arkansas' Farmer Crisis Could Flip The Senate. Here's How.",
       "excerpt": "Arkansas is one of the Senate races that Republicans are quietly panicking about.",
       "link": "https://substack.perfectunion.us/p/arkansas-farmer-crisis-could-flip",
       "published": "2026-10-29T14:11:55+00:00",
-      "featured": false
-    },
-    {
-      "id": "a5c456b38c3d",
-      "source": "The Intercept",
-      "headline": "AIPAC Isn’t Retreating. Here’s How It’s Already Shaping the Next Congress.",
-      "excerpt": "A new project by The Intercept reveals the hundreds of candidates still taking the pro-Israel lobby’s cash, and how AIPAC is obscuring its spending. The post AIPAC Isn’t Retreating. Here’s How It’s Already Shaping the...",
-      "link": "https://theintercept.com/2026/10/29/aipac-israel-midterms-spending-elections-congress/",
-      "published": "2026-10-29T10:00:00+00:00",
       "featured": false
     },
     {
@@ -110,12 +110,21 @@
       "featured": false
     },
     {
-      "id": "89ced9fa4bae",
+      "id": "b5e59cd98268",
       "source": "Al Jazeera",
-      "headline": "Binance says $2.54bn in crypto funds frozen amid ‘potential security issue’",
-      "excerpt": "Binance founder says world's largest crypto exchange appears to have been hacked.",
-      "link": "https://www.aljazeera.com/economy/2026/10/30/binance-says-2-54bn-in-crypto-funds-frozen-amid-potential-security-issue?traffic_source=rss",
-      "published": "2026-10-30T00:29:24+00:00",
+      "headline": "Russian oil refinery struck as Ukraine renews drone attacks",
+      "excerpt": "Russian authorities say they intercepted more than 1,000 Ukrainian drones over multiple regions overnight.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/30/russian-oil-refinery-struck-as-ukraine-renews-drone-attacks?traffic_source=rss",
+      "published": "2026-10-30T09:14:16+00:00",
+      "featured": false
+    },
+    {
+      "id": "36fad5689b33",
+      "source": "ProPublica",
+      "headline": "Search More Than 500 Cases of U.S. Citizens Detained by Immigration Agents",
+      "excerpt": "The post Search More Than 500 Cases of U.S. Citizens Detained by Immigration Agents appeared first on ProPublica.",
+      "link": "https://projects.propublica.org/american-citizens-detained-dhs-civil-rights/list",
+      "published": "2026-10-29T17:50:00+00:00",
       "featured": false
     },
     {
@@ -155,20 +164,11 @@
       "featured": false
     },
     {
-      "id": "e016f2268a1d",
-      "source": "ProPublica",
-      "headline": "Detroit Could Block Billionaire-Owned Concrete Plant From Further Neighborhood Expansion",
-      "excerpt": "The post Detroit Could Block Billionaire-Owned Concrete Plant From Further Neighborhood Expansion appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/kronos-moroun-cadillac-heights-detroit-concrete-impact",
-      "published": "2026-10-29T10:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "d39694e337ae",
+      "id": "a5c456b38c3d",
       "source": "The Intercept",
-      "headline": "AI Tried to Buy the Midterms — Then the Lobby Learned Everyone Hates AI",
-      "excerpt": "Facing bipartisan backlash and a decaying reputation, AI super PACs are changing tactics. We tracked their election spending so far. The post AI Tried to Buy the Midterms — Then the Lobby Learned Everyone Hates AI...",
-      "link": "https://theintercept.com/2026/10/29/midterms-election-money-ai-super-pac/",
+      "headline": "AIPAC Isn’t Retreating. Here’s How It’s Already Shaping the Next Congress.",
+      "excerpt": "A new project by The Intercept reveals the hundreds of candidates still taking the pro-Israel lobby’s cash, and how AIPAC is obscuring its spending. The post AIPAC Isn’t Retreating. Here’s How It’s Already Shaping the...",
+      "link": "https://theintercept.com/2026/10/29/aipac-israel-midterms-spending-elections-congress/",
       "published": "2026-10-29T10:00:00+00:00",
       "featured": false
     },
@@ -218,12 +218,12 @@
       "featured": false
     },
     {
-      "id": "e13a203d3372",
+      "id": "d6bdff54c628",
       "source": "Al Jazeera",
-      "headline": "Houthi forces claim six attacks on Saudi airports, oil facilities",
-      "excerpt": "The announcement comes despite talks between Iran and the Mecca pact countries in Tehran earlier this week.",
-      "link": "https://www.aljazeera.com/news/2026/10/30/houthi-forces-claim-six-attacks-on-saudi-airports-oil-facilities?traffic_source=rss",
-      "published": "2026-10-30T00:11:20+00:00",
+      "headline": "Oil flows are up as Iran war turmoil eases. Why do prices keep rising?",
+      "excerpt": "Brent crude prices are up more than 60 percent compared with pre-war levels, despite rebound in supply.",
+      "link": "https://www.aljazeera.com/economy/2026/10/30/oil-flows-are-up-as-iran-war-turmoil-eases-why-do-prices-keep-rising?traffic_source=rss",
+      "published": "2026-10-30T08:36:11+00:00",
       "featured": false
     },
     {
@@ -263,21 +263,21 @@
       "featured": false
     },
     {
-      "id": "3c86e1176447",
+      "id": "e016f2268a1d",
       "source": "ProPublica",
-      "headline": "Top U.S. Health Official Backed a Medication Policy Shift That Benefited a Company She Has Stock In",
-      "excerpt": "The post Top U.S. Health Official Backed a Medication Policy Shift That Benefited a Company She Has Stock In appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/hhs-alicia-jackson-menopause-treatment-policy",
-      "published": "2026-10-29T09:30:00+00:00",
+      "headline": "Detroit Could Block Billionaire-Owned Concrete Plant From Further Neighborhood Expansion",
+      "excerpt": "The post Detroit Could Block Billionaire-Owned Concrete Plant From Further Neighborhood Expansion appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/kronos-moroun-cadillac-heights-detroit-concrete-impact",
+      "published": "2026-10-29T10:00:00+00:00",
       "featured": false
     },
     {
-      "id": "31ee6c3135f8",
+      "id": "d39694e337ae",
       "source": "The Intercept",
-      "headline": "Trump Vows to Send Election “Monitors” to Maine After Far-Right Conspiracies Spread",
-      "excerpt": "As right-wing Trump allies fearmongered about Somali American voter fraud, Maine trained local law enforcement officers on keeping armed federal agents out. The post Trump Vows to Send Election “Monitors” to Maine After...",
-      "link": "https://theintercept.com/2026/10/28/maine-trump-election-monitors-voting-polls/",
-      "published": "2026-10-28T18:36:46+00:00",
+      "headline": "AI Tried to Buy the Midterms — Then the Lobby Learned Everyone Hates AI",
+      "excerpt": "Facing bipartisan backlash and a decaying reputation, AI super PACs are changing tactics. We tracked their election spending so far. The post AI Tried to Buy the Midterms — Then the Lobby Learned Everyone Hates AI...",
+      "link": "https://theintercept.com/2026/10/29/midterms-election-money-ai-super-pac/",
+      "published": "2026-10-29T10:00:00+00:00",
       "featured": false
     },
     {
@@ -326,12 +326,12 @@
       "featured": false
     },
     {
-      "id": "5834ee5b8bf9",
+      "id": "2a23af1e37f4",
       "source": "Al Jazeera",
-      "headline": "What does bourbon have to do with the US midterms?",
-      "excerpt": "The US-Canada trade war is hurting Kentucky’s bourbon industry, which generates billions of dollars annually.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/30/what-does-bourbon-have-to-do-with-the-us-midterms?traffic_source=rss",
-      "published": "2026-10-30T00:08:50+00:00",
+      "headline": "NBA: Cameron Boozer tallies first triple-double, Grizzlies remain unbeaten",
+      "excerpt": "Pelicans earn first victory over still-winless Kings as Hawks withstand late push to hold off Cavaliers.",
+      "link": "https://www.aljazeera.com/sports/2026/10/30/nba-cameron-boozer-tallies-first-triple-double-grizzlies-remain-unbeaten?traffic_source=rss",
+      "published": "2026-10-30T08:24:43+00:00",
       "featured": false
     },
     {
@@ -344,12 +344,12 @@
       "featured": false
     },
     {
-      "id": "dcffbb51be3d",
+      "id": "3c86e1176447",
       "source": "ProPublica",
-      "headline": "“Peak Greenwashing”: Two Bills in Congress Endorse Misleading Recycling Claims",
-      "excerpt": "The post “Peak Greenwashing”: Two Bills in Congress Endorse Misleading Recycling Claims appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/plastics-industry-recycling-legislation-congress",
-      "published": "2026-10-29T09:00:00+00:00",
+      "headline": "Top U.S. Health Official Backed a Medication Policy Shift That Benefited a Company She Has Stock In",
+      "excerpt": "The post Top U.S. Health Official Backed a Medication Policy Shift That Benefited a Company She Has Stock In appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/hhs-alicia-jackson-menopause-treatment-policy",
+      "published": "2026-10-29T09:30:00+00:00",
       "featured": false
     },
     {
@@ -371,12 +371,12 @@
       "featured": false
     },
     {
-      "id": "5e3c11aec374",
+      "id": "31ee6c3135f8",
       "source": "The Intercept",
-      "headline": "The Incredible Shrinking Superpower",
-      "excerpt": "The failing war with Iran marks a dramatic retreat by the U.S. from the Middle East. The post The Incredible Shrinking Superpower appeared first on The Intercept.",
-      "link": "https://theintercept.com/2026/10/28/yemen-saudi-arabia-iran/",
-      "published": "2026-10-28T17:04:39+00:00",
+      "headline": "Trump Vows to Send Election “Monitors” to Maine After Far-Right Conspiracies Spread",
+      "excerpt": "As right-wing Trump allies fearmongered about Somali American voter fraud, Maine trained local law enforcement officers on keeping armed federal agents out. The post Trump Vows to Send Election “Monitors” to Maine After...",
+      "link": "https://theintercept.com/2026/10/28/maine-trump-election-monitors-voting-polls/",
+      "published": "2026-10-28T18:36:46+00:00",
       "featured": false
     },
     {
@@ -434,12 +434,21 @@
       "featured": false
     },
     {
-      "id": "8e53baee8325",
+      "id": "9f8fda1c176a",
       "source": "Al Jazeera",
-      "headline": "Iran war live: IRGC says four tankers struck mines in Strait of Hormuz",
-      "excerpt": "Iran's IRGC says four tankers have struck naval mines after using \"unauthorised\" Strait of Hormuz routes.",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/10/30/iran-war-live-irgc-says-four-tankers-struck-mines-in-strait-of-hormuz?traffic_source=rss",
-      "published": "2026-10-30T00:00:00+00:00",
+      "headline": "Sudan investigation maps commanders linked to wartime rape",
+      "excerpt": "Investigative unit CIR identifies 25 commanders present at five sites during periods of reported sexual violence.",
+      "link": "https://www.aljazeera.com/features/2026/10/30/sudan-investigation-maps-commanders-linked-wartime-rape?traffic_source=rss",
+      "published": "2026-10-30T08:20:40+00:00",
+      "featured": false
+    },
+    {
+      "id": "dcffbb51be3d",
+      "source": "ProPublica",
+      "headline": "“Peak Greenwashing”: Two Bills in Congress Endorse Misleading Recycling Claims",
+      "excerpt": "The post “Peak Greenwashing”: Two Bills in Congress Endorse Misleading Recycling Claims appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/plastics-industry-recycling-legislation-congress",
+      "published": "2026-10-29T09:00:00+00:00",
       "featured": false
     },
     {
@@ -452,21 +461,21 @@
       "featured": false
     },
     {
+      "id": "5e3c11aec374",
+      "source": "The Intercept",
+      "headline": "The Incredible Shrinking Superpower",
+      "excerpt": "The failing war with Iran marks a dramatic retreat by the U.S. from the Middle East. The post The Incredible Shrinking Superpower appeared first on The Intercept.",
+      "link": "https://theintercept.com/2026/10/28/yemen-saudi-arabia-iran/",
+      "published": "2026-10-28T17:04:39+00:00",
+      "featured": false
+    },
+    {
       "id": "60127b4241c0",
       "source": "The Lever",
       "headline": "Big Business Wants To Delete Your Tax Cut",
       "excerpt": "Corporate interests are throwing a Hail Mary to keep tax reform off the ballot.",
       "link": "https://www.levernews.com/midterm-madness-big-business-wants-to-delete-your-tax-cut/",
       "published": "2026-10-28T16:54:43+00:00",
-      "featured": false
-    },
-    {
-      "id": "99228d912599",
-      "source": "ProPublica",
-      "headline": "Meet ProPublica’s 2026 Class of Emerging Reporters",
-      "excerpt": "The post Meet ProPublica’s 2026 Class of Emerging Reporters appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/propublica-emerging-reporters-2026",
-      "published": "2026-10-28T15:45:00+00:00",
       "featured": false
     },
     {
@@ -485,15 +494,6 @@
       "excerpt": "If you're in the EU or UK, you might be able to object to Meta's new AI scraping terms. Also: this week's pod's out and more from around the web.",
       "link": "https://www.404media.co/objection-your-honor/",
       "published": "2026-10-28T14:41:07+00:00",
-      "featured": false
-    },
-    {
-      "id": "fa11aa7044f5",
-      "source": "The Intercept",
-      "headline": "Prosecutors Want to Keep a Man in Prison for His Wife’s Murder — Despite Judge Saying Their Evidence is Junk",
-      "excerpt": "Slamming the bogus bite-mark analysis that sent Charles McCrory to prison in 1985, the judge vacated his conviction. The post Prosecutors Want to Keep a Man in Prison for His Wife’s Murder — Despite Judge Saying Their...",
-      "link": "https://theintercept.com/2026/10/28/bite-mark-forensics-junk-science-mccrory/",
-      "published": "2026-10-28T10:00:00+00:00",
       "featured": false
     },
     {
@@ -533,12 +533,12 @@
       "featured": false
     },
     {
-      "id": "5017844e0aa9",
+      "id": "cbeb091a6e23",
       "source": "Al Jazeera",
-      "headline": "France braces for ‘very high risk’ of disorder at Halloween protests",
-      "excerpt": "Authorities vow firm action against violence as yellow vest and student movements announce widespread demonstrations.",
-      "link": "https://www.aljazeera.com/news/2026/10/29/france-braces-for-very-high-risk-of-disorder-at-halloween-protests?traffic_source=rss",
-      "published": "2026-10-29T23:52:30+00:00",
+      "headline": "Smoke from wildfires killed 3,500 people in Indonesia in September: Report",
+      "excerpt": "Persistent wildfires sparked by drought have enveloped the region in smog.",
+      "link": "https://www.aljazeera.com/news/2026/10/30/smoke-from-wildfires-killed-3500-people-in-indonesia-in-september-report?traffic_source=rss",
+      "published": "2026-10-30T08:20:30+00:00",
       "featured": false
     }
   ]
