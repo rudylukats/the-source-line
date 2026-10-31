@@ -1,13 +1,22 @@
 {
-  "generated_at": "2026-10-30T22:21:04.675808+00:00",
+  "generated_at": "2026-10-31T05:42:51.868738+00:00",
   "articles": [
     {
-      "id": "a763542b3b8c",
+      "id": "b4e7dbd1f15d",
       "source": "Al Jazeera",
-      "headline": "Swiss supreme court upholds Liberian ex-rebel commander’s 20-year sentence",
-      "excerpt": "Alieu Kosiah killed civilians and unarmed soldiers, and ordered lootings and other crimes against humanity.",
-      "link": "https://www.aljazeera.com/news/2026/10/30/swiss-supreme-court-upholds-liberian-ex-rebel-commanders-20-year-sentence?traffic_source=rss",
-      "published": "2026-10-30T21:00:51+00:00",
+      "headline": "Mohammed Deif, rare footage and October 7 documents",
+      "excerpt": "Rare footage obtained by Al Jazeera offers a look at the life of former Hamas military commander, Mohammed Deif.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/31/mohammed-deif-rare-footage-and-october-7-documents?traffic_source=rss",
+      "published": "2026-10-31T05:07:34+00:00",
+      "featured": true
+    },
+    {
+      "id": "54030c4e0e1a",
+      "source": "The Lever",
+      "headline": "Big Tech To Democrats: Investigate Trump, Not Us",
+      "excerpt": "The Chamber of Progress is pushing Democrats to investigate Trump — but not the Big Tech companies that bankrolled and benefited from his presidency.",
+      "link": "https://www.levernews.com/big-tech-to-democrats-investigate-trump-not-us/",
+      "published": "2026-10-30T22:43:32+00:00",
       "featured": true
     },
     {
@@ -17,15 +26,6 @@
       "excerpt": "Writer and readers share what they're feeling and doing in the aftermath of the AO3 outage. It's anything but Wattpad.",
       "link": "https://www.404media.co/ao3-down-outage-reactions/",
       "published": "2026-10-30T18:51:02+00:00",
-      "featured": true
-    },
-    {
-      "id": "4b0197e645e4",
-      "source": "The Lever",
-      "headline": "Who’s Running The Democratic Party?",
-      "excerpt": "Test your knowledge of the Democratic Party, A.I. chatbots, and other issues that really matter.",
-      "link": "https://www.levernews.com/levermind-quiz-whos-running-the-democratic-party/",
-      "published": "2026-10-30T17:19:17+00:00",
       "featured": true
     },
     {
@@ -110,12 +110,12 @@
       "featured": false
     },
     {
-      "id": "7c66173dee57",
+      "id": "a8a721f97e9a",
       "source": "Al Jazeera",
-      "headline": "US appeals court again rejects Trump bid to set aside California ballots",
-      "excerpt": "The 9th Circuit Court calls the petition to remove 20,000 ballots from California's vote count unconstitutional.",
-      "link": "https://www.aljazeera.com/news/2026/10/30/us-appeals-court-again-rejects-trump-bid-to-set-aside-california-ballots?traffic_source=rss",
-      "published": "2026-10-30T20:39:50+00:00",
+      "headline": "Trump tells voters to send El-Sayed ‘back to where he came from’",
+      "excerpt": "Speaking at a campaign rally, Donald Trump told voters to send Michigan’s Abdul El-Sayed ‘back to where he came from’.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/31/trump-tells-voters-to-send-el-sayed-back-to-where-he-came?traffic_source=rss",
+      "published": "2026-10-31T05:07:25+00:00",
       "featured": false
     },
     {
@@ -125,6 +125,15 @@
       "excerpt": "A newly released database of more than 25,000 anonymized calls from the Fireside Project’s Psychedelic Support Line opens a rare window into psychedelic experiences outside of clinical settings.",
       "link": "https://www.404media.co/fireside-project-psychedelic-support-line-study/",
       "published": "2026-10-30T18:00:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "4b0197e645e4",
+      "source": "The Lever",
+      "headline": "Who’s Running The Democratic Party?",
+      "excerpt": "Test your knowledge of the Democratic Party, A.I. chatbots, and other issues that really matter.",
+      "link": "https://www.levernews.com/levermind-quiz-whos-running-the-democratic-party/",
+      "published": "2026-10-30T17:19:17+00:00",
       "featured": false
     },
     {
@@ -143,15 +152,6 @@
       "excerpt": "When U.S. voters head to the polls on November 3 for midterm elections, the future of efforts to contain corruption at home and abroad will be at stake.",
       "link": "https://www.occrp.org/en/feature/defanging-laws-and-bringing-home-billions-how-trump-has-rewritten-the-corruption-rulebook-at-home-and-abroad",
       "published": "2026-10-30T14:19:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "a4270b66ace2",
-      "source": "The Lever",
-      "headline": "Robert Reich Is Nauseously Optimistic About The Midterms",
-      "excerpt": "Some Democrats want to chase “Romney Republicans.” Here’s why Robert Reich thinks that’s a losing bet, which candidates he’s watching, and why Chuck Schumer should go if Democrats win the Senate.",
-      "link": "https://www.levernews.com/robert-reich-is-nauseously-optimistic-about-the-midterms/",
-      "published": "2026-10-30T11:14:00+00:00",
       "featured": false
     },
     {
@@ -218,12 +218,12 @@
       "featured": false
     },
     {
-      "id": "0256683fc3eb",
+      "id": "3c45ba35ac82",
       "source": "Al Jazeera",
-      "headline": "G20 drops group photo as Europeans refuse to stand with Lavrov",
-      "excerpt": "Sanctioned Russian FM attends Atlanta talks as Iran war, Hormuz disruption and Ukraine divide G20 members.",
-      "link": "https://www.aljazeera.com/news/2026/10/30/g20-drops-group-photo-as-europeans-refuse-to-stand-with-lavrov?traffic_source=rss",
-      "published": "2026-10-30T20:37:20+00:00",
+      "headline": "US greenlights $2.1bn Patriot missile sale to Ukraine",
+      "excerpt": "Deal would be one of the most significant steps to supply defensive weapons to Kyiv since ​Trump took office in 2025.",
+      "link": "https://www.aljazeera.com/news/2026/10/31/us-greenlights-2-1bn-patriot-missile-sale-to-ukraine?traffic_source=rss",
+      "published": "2026-10-31T04:51:25+00:00",
       "featured": false
     },
     {
@@ -254,21 +254,21 @@
       "featured": false
     },
     {
+      "id": "a4270b66ace2",
+      "source": "The Lever",
+      "headline": "Robert Reich Is Nauseously Optimistic About The Midterms",
+      "excerpt": "Some Democrats want to chase “Romney Republicans.” Here’s why Robert Reich thinks that’s a losing bet, which candidates he’s watching, and why Chuck Schumer should go if Democrats win the Senate.",
+      "link": "https://www.levernews.com/robert-reich-is-nauseously-optimistic-about-the-midterms/",
+      "published": "2026-10-30T11:14:00+00:00",
+      "featured": false
+    },
+    {
       "id": "e1f48c76e1cc",
       "source": "ProPublica",
       "headline": "Federal and State Officials Ramp Up Scrutiny of DraftKings, Other Sports Betting Apps",
       "excerpt": "The post Federal and State Officials Ramp Up Scrutiny of DraftKings, Other Sports Betting Apps appeared first on ProPublica.",
       "link": "https://www.propublica.org/article/sports-betting-impact-louisiana-ohio-congress",
       "published": "2026-10-30T09:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "605d7f1edbe4",
-      "source": "The Lever",
-      "headline": "Gina Hinojosa Flips Off Corporate Democrats",
-      "excerpt": "The surging Texas gubernatorial candidate is explicitly campaigning against Corporate Democrats’ old formula and its useless labels.",
-      "link": "https://www.levernews.com/gina-hinojosa-explains-the-democratic-divide/",
-      "published": "2026-10-29T23:12:01+00:00",
       "featured": false
     },
     {
@@ -326,12 +326,12 @@
       "featured": false
     },
     {
-      "id": "9b118c5e42df",
+      "id": "6d8b49944c91",
       "source": "Al Jazeera",
-      "headline": "Rubio hosts G20 talks as Russia’s Lavrov presence sparks tensions",
-      "excerpt": "US Secretary of State Marco Rubio urged G20 officials to work together to confront threats to the economic order.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/30/aje-onl-nf_rubio-hosts-g20-talks-as-russias-lavrov-present-301026?traffic_source=rss",
-      "published": "2026-10-30T20:13:36+00:00",
+      "headline": "US jails two Chinese nationals for spying",
+      "excerpt": "Liren Lai and Yuance Chen admitted to facilitating 'dead drop' cash payments worth at least $30,000 to people in the US.",
+      "link": "https://www.aljazeera.com/news/2026/10/31/us-jails-two-chinese-nationals-for-spying?traffic_source=rss",
+      "published": "2026-10-31T04:41:32+00:00",
       "featured": false
     },
     {
@@ -353,6 +353,15 @@
       "featured": false
     },
     {
+      "id": "605d7f1edbe4",
+      "source": "The Lever",
+      "headline": "Gina Hinojosa Flips Off Corporate Democrats",
+      "excerpt": "The surging Texas gubernatorial candidate is explicitly campaigning against Corporate Democrats’ old formula and its useless labels.",
+      "link": "https://www.levernews.com/gina-hinojosa-explains-the-democratic-divide/",
+      "published": "2026-10-29T23:12:01+00:00",
+      "featured": false
+    },
+    {
       "id": "7103ddad9519",
       "source": "OCCRP",
       "headline": "Criminal Probe Launched in South Africa Over Contraband Baobabs Bound for Georgia",
@@ -368,15 +377,6 @@
       "excerpt": "The post Search More Than 500 Cases of U.S. Citizens Detained by Immigration Agents appeared first on ProPublica.",
       "link": "https://projects.propublica.org/american-citizens-detained-dhs-civil-rights/list",
       "published": "2026-10-29T17:50:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "94abe7f3811e",
-      "source": "The Lever",
-      "headline": "Prediction Markets Are Shaping Elections — And Getting Them Wrong",
-      "excerpt": "Do Kalshi’s odds favor the establishment?",
-      "link": "https://www.levernews.com/prediction-markets-are-shaping-elections-and-getting-them-wrong/",
-      "published": "2026-10-29T17:12:40+00:00",
       "featured": false
     },
     {
@@ -434,12 +434,12 @@
       "featured": false
     },
     {
-      "id": "af37e332c1a2",
+      "id": "8afbb59b1482",
       "source": "Al Jazeera",
-      "headline": "Port Sudan families can barely afford water as shortages persist",
-      "excerpt": "Despite efforts to restore damaged infrastructure, residents face soaring water costs as war, displacement strain supply",
-      "link": "https://www.aljazeera.com/news/2026/10/30/port-sudan-families-can-barely-afford-water-as-shortages-persist?traffic_source=rss",
-      "published": "2026-10-30T20:10:22+00:00",
+      "headline": "Iran says four tankers on fire after striking mines in Hormuz",
+      "excerpt": "Iran's Revolutionary Guard says four tankers have caught fire in the Strait of Hormuz.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/31/iran-says-four-tankers-on-fire-after-striking-mines-in-hormuz?traffic_source=rss",
+      "published": "2026-10-31T03:55:48+00:00",
       "featured": false
     },
     {
@@ -449,6 +449,15 @@
       "excerpt": "I might finally buy an iPhone now that Apple has been taken down a peg.",
       "link": "https://www.404media.co/apple-is-entering-its-slop-era/",
       "published": "2026-10-30T12:31:04+00:00",
+      "featured": false
+    },
+    {
+      "id": "94abe7f3811e",
+      "source": "The Lever",
+      "headline": "Prediction Markets Are Shaping Elections — And Getting Them Wrong",
+      "excerpt": "Do Kalshi’s odds favor the establishment?",
+      "link": "https://www.levernews.com/prediction-markets-are-shaping-elections-and-getting-them-wrong/",
+      "published": "2026-10-29T17:12:40+00:00",
       "featured": false
     },
     {
@@ -467,15 +476,6 @@
       "excerpt": "",
       "link": "https://www.occrp.org/en/news/iraqi-mp-gets-six-years-20m-fine-for-oil-graft",
       "published": "2026-10-29T13:26:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "4b7f3cb4f7c8",
-      "source": "The Lever",
-      "headline": "He Helped Make Karen Bass Mayor. Now He’s Funding Her Defeat.",
-      "excerpt": "A longtime establishment power broker is backing socialist Nithya Raman over Los Angeles Mayor Karen Bass — a sign that some in the donor class are following voters to the left.",
-      "link": "https://www.levernews.com/he-helped-make-karen-bass-mayor-now-hes-funding-her-defeat/",
-      "published": "2026-10-29T10:01:00+00:00",
       "featured": false
     },
     {
@@ -533,12 +533,12 @@
       "featured": false
     },
     {
-      "id": "0a82c8a7cd47",
+      "id": "84035753526e",
       "source": "Al Jazeera",
-      "headline": "EU and Canada seek deeper ties amid worsening global uncertainty",
-      "excerpt": "Both sides signed a digital trade deal, as Trump's trade threats push Washington's allies to seek closer ties elsewhere.",
-      "link": "https://www.aljazeera.com/news/2026/10/30/eu-and-canada-seek-deeper-ties-amid-worsening-global-uncertainty?traffic_source=rss",
-      "published": "2026-10-30T20:00:10+00:00",
+      "headline": "US execution survivor Christa Pike says she is now in ‘constant pain’",
+      "excerpt": "Pike, 50, is being held in solitary confinement and faces an uncertain future after surviving a failed lethal injection.",
+      "link": "https://www.aljazeera.com/news/2026/10/31/us-execution-survivor-christa-pike-says-she-is-now-in-constant?traffic_source=rss",
+      "published": "2026-10-31T03:42:14+00:00",
       "featured": false
     }
   ]
