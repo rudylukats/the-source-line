@@ -1,13 +1,31 @@
 {
-  "generated_at": "2026-11-01T13:26:08.043935+00:00",
+  "generated_at": "2026-11-01T19:41:11.896698+00:00",
   "articles": [
     {
-      "id": "b11ae889621c",
+      "id": "15252ed0d100",
       "source": "Al Jazeera",
-      "headline": "Iran and US explore diplomacy amid rising threats of war",
-      "excerpt": "Iran says could reopen Hormuz in shorter period if conditions met, as Trump says US still has targets to 'take care of'.",
-      "link": "https://www.aljazeera.com/news/2026/11/1/iran-and-us-explore-diplomacy-amid-rising-threats-of-war?traffic_source=rss",
-      "published": "2026-11-01T13:02:10+00:00",
+      "headline": "Arsenal go top after narrow win at Liverpool",
+      "excerpt": "Arsenal pick up their first win at Anfield since 2012 to go three points clear of Man City",
+      "link": "https://www.aljazeera.com/sports/2026/11/1/arsenal-go-top-after-narrow-win-at-liverpool?traffic_source=rss",
+      "published": "2026-11-01T19:09:18+00:00",
+      "featured": true
+    },
+    {
+      "id": "4f6701b91233",
+      "source": "Dropsite News",
+      "headline": "Cancer, Water, and Big Ag: What Rural America Is Voting On",
+      "excerpt": "The balance of power in Congress is up for grabs on Tuesday.",
+      "link": "https://www.dropsitenews.com/p/cancer-water-and-big-ag-what-rural",
+      "published": "2026-11-01T16:09:02+00:00",
+      "featured": true
+    },
+    {
+      "id": "c1fda240e17e",
+      "source": "The Lever",
+      "headline": "Lever Weekly: The Final Countdown",
+      "excerpt": "Wayward donors, progressive revolts, and more from The Lever this week.",
+      "link": "https://www.levernews.com/lever-weekly-the-final-countdown/",
+      "published": "2026-11-01T14:03:00+00:00",
       "featured": true
     },
     {
@@ -17,16 +35,7 @@
       "excerpt": "With Marco Rubio’s public plea for Cubans to work with the CIA, the administration is eyeing its next imperial conquest. The post The CIA Is Resorting to an Open Casting Call for Would-Be Cuban Assets appeared first on...",
       "link": "https://theintercept.com/2026/11/01/marco-rubio-cuba-cia-recruitment/",
       "published": "2026-11-01T11:00:00+00:00",
-      "featured": true
-    },
-    {
-      "id": "c505fe563229",
-      "source": "The Lever",
-      "headline": "The Left’s Donors Don’t Hold Grudges. The Establishment’s Do.",
-      "excerpt": "Midterm campaign filings reveal a one-way loyalty test: Progressive donors rally behind Democratic nominees, while establishment money disappears — or moves to Republicans — when those nominees are populists.",
-      "link": "https://www.levernews.com/the-lefts-donors-dont-hold-grudges-the-establishments-do/",
-      "published": "2026-10-31T23:18:06+00:00",
-      "featured": true
+      "featured": false
     },
     {
       "id": "fe93e4aa1433",
@@ -35,15 +44,6 @@
       "excerpt": "In a new study perfectly timed for Halloween, scientists dug into the chemical properties of a once-popular beverage with purported medicinal benefits: wine made with ground-up Egyptian mummies.",
       "link": "https://www.404media.co/people-used-to-drink-wine-made-from-ground-up-mummies-now-scientists-are-studying-it/",
       "published": "2026-10-31T11:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "ee61486a5d94",
-      "source": "Dropsite News",
-      "headline": "Record-High Heating Oil Prices Are Closing Argument in Maine Senate Race",
-      "excerpt": "The Iran War is driving Maine heating oil prices through the roof, leaving Mainers in dire straits days ahead of the U.S. Senate election.",
-      "link": "https://www.dropsitenews.com/p/maine-heating-oil-prices-senate-susan-collins-troy-jackson",
-      "published": "2026-10-30T17:11:04+00:00",
       "featured": false
     },
     {
@@ -110,12 +110,30 @@
       "featured": false
     },
     {
-      "id": "eebf46ed5b28",
+      "id": "7a63247dca30",
       "source": "Al Jazeera",
-      "headline": "Binance restarts withdrawals after $6.3bn heist",
-      "excerpt": "The FBI says hackers from North Korea are responsible for the theft.",
-      "link": "https://www.aljazeera.com/news/2026/11/1/binance-restarts-withdrawals-after-6-3bn-heist?traffic_source=rss",
-      "published": "2026-11-01T12:50:55+00:00",
+      "headline": "How will the Iran war shape the outcome of the US midterm vote?",
+      "excerpt": "The conflict has become a central issue ahead of Tuesday's polls.",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/11/1/how-will-the-iran-war-shape-the-outcome-of-the-u-s-midterm-vote?traffic_source=rss",
+      "published": "2026-11-01T19:00:32+00:00",
+      "featured": false
+    },
+    {
+      "id": "7411b089ddfe",
+      "source": "Dropsite News",
+      "headline": "A Guide to the Races That Matter to Rural America",
+      "excerpt": "A selection of races we’ve covered and others to watch on Election Day",
+      "link": "https://www.dropsitenews.com/p/midterms-guide-rural-america",
+      "published": "2026-11-01T15:53:44+00:00",
+      "featured": false
+    },
+    {
+      "id": "c505fe563229",
+      "source": "The Lever",
+      "headline": "The Left’s Donors Don’t Hold Grudges. The Establishment’s Do.",
+      "excerpt": "Midterm campaign filings reveal a one-way loyalty test: Progressive donors rally behind Democratic nominees, while establishment money disappears — or moves to Republicans — when those nominees are populists.",
+      "link": "https://www.levernews.com/the-lefts-donors-dont-hold-grudges-the-establishments-do/",
+      "published": "2026-10-31T23:18:06+00:00",
       "featured": false
     },
     {
@@ -128,30 +146,12 @@
       "featured": false
     },
     {
-      "id": "ba770fe4e23b",
-      "source": "The Lever",
-      "headline": "You Love To See It: No Tricks At The Polls",
-      "excerpt": "Democracy establishes a no-ICE zone, the revolution gets a routing number, survivors score an $800 million reckoning, and Meta pays up.",
-      "link": "https://www.levernews.com/you-love-to-see-it-no-tricks-at-the-polls/",
-      "published": "2026-10-31T13:01:00+00:00",
-      "featured": false
-    },
-    {
       "id": "e216d6b9da00",
       "source": "404 Media",
       "headline": "‘Wake Up Call:’ Fanfiction Writers and Readers React to AO3 Outage",
       "excerpt": "Writer and readers share what they're feeling and doing in the aftermath of the AO3 outage. It's anything but Wattpad.",
       "link": "https://www.404media.co/ao3-down-outage-reactions/",
       "published": "2026-10-30T18:51:02+00:00",
-      "featured": false
-    },
-    {
-      "id": "04716a8aa6b4",
-      "source": "Dropsite News",
-      "headline": "Republican Senators Took Campaign Cash from Trump Nominees They Backed",
-      "excerpt": "Sens. Marsha Blackburn, Bill Hagerty, and Tommy Tuberville received tens of thousands of dollars in campaign donations from nominees to the board of the Tennessee Valley Authority.",
-      "link": "https://www.dropsitenews.com/p/blackburn-hagery-tuberville-campaign-cash-trump-nominees-tennesee-valley-authority",
-      "published": "2026-10-30T16:49:58+00:00",
       "featured": false
     },
     {
@@ -218,12 +218,21 @@
       "featured": false
     },
     {
-      "id": "688c66d0fba0",
+      "id": "7f5416b35717",
       "source": "Al Jazeera",
-      "headline": "Senegal kicks off the Youth Games 2026",
-      "excerpt": "Senegal kicks off the Youth Games 2026",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/1/senegal-kicks-off-the-youth-games-2026?traffic_source=rss",
-      "published": "2026-11-01T12:45:44+00:00",
+      "headline": "France opens ‘attempted murder’ probe into petrol bomb attacks on police",
+      "excerpt": "No arrests made after several security officers were reportedly injured during incidents at Saturday's protests.",
+      "link": "https://www.aljazeera.com/news/2026/11/1/france-opens-attempted-murder-probe-into-molotov-attacks-on-police?traffic_source=rss",
+      "published": "2026-11-01T18:58:23+00:00",
+      "featured": false
+    },
+    {
+      "id": "ba770fe4e23b",
+      "source": "The Lever",
+      "headline": "You Love To See It: No Tricks At The Polls",
+      "excerpt": "Democracy establishes a no-ICE zone, the revolution gets a routing number, survivors score an $800 million reckoning, and Meta pays up.",
+      "link": "https://www.levernews.com/you-love-to-see-it-no-tricks-at-the-polls/",
+      "published": "2026-10-31T13:01:00+00:00",
       "featured": false
     },
     {
@@ -232,15 +241,6 @@
       "headline": "How Trump Destroyed South Africa’s Effort to Slow HIV Transmission",
       "excerpt": "In South Africa, home to the world’s largest population of people living with HIV, efforts to contain the virus have been upended. The post How Trump Destroyed South Africa’s Effort to Slow HIV Transmission appeared...",
       "link": "https://theintercept.com/2026/10/31/trump-south-africa-hiv-aids-funding-cuts/",
-      "published": "2026-10-31T10:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "206fe17205e9",
-      "source": "The Lever",
-      "headline": "Democrats Could Win The Election And Lose The War",
-      "excerpt": "The right spent decades building a political ecosystem. Democrats are still acting as if one election can defeat it.",
-      "link": "https://www.levernews.com/democrats-could-win-election-lose-war/",
       "published": "2026-10-31T10:00:00+00:00",
       "featured": false
     },
@@ -254,12 +254,12 @@
       "featured": false
     },
     {
-      "id": "a6ed4bba6455",
+      "id": "ee61486a5d94",
       "source": "Dropsite News",
-      "headline": "Trump’s “insane” Iran war plan; Ukraine strikes Russian refinery in defiance of Trump; Dockworkers stage global antiwar strike",
-      "excerpt": "Drop Site Daily: October 30, 2026",
-      "link": "https://www.dropsitenews.com/p/trump-iran-war-ukraine-russia-refinery-dockworkers-ports-strike-antiwar",
-      "published": "2026-10-30T14:53:51+00:00",
+      "headline": "Record-High Heating Oil Prices Are Closing Argument in Maine Senate Race",
+      "excerpt": "The Iran War is driving Maine heating oil prices through the roof, leaving Mainers in dire straits days ahead of the U.S. Senate election.",
+      "link": "https://www.dropsitenews.com/p/maine-heating-oil-prices-senate-susan-collins-troy-jackson",
+      "published": "2026-10-30T17:11:04+00:00",
       "featured": false
     },
     {
@@ -326,21 +326,21 @@
       "featured": false
     },
     {
-      "id": "1da5e24db4ce",
+      "id": "4a0f3abb0b62",
       "source": "Al Jazeera",
-      "headline": "Yamaha pulls out of Qatar MotoGP over ‘situation in the Middle East’",
-      "excerpt": "MotoGP says Yamaha's lack of participation at next weekend's event in Lusail 'carries sporting implications'.",
-      "link": "https://www.aljazeera.com/sports/2026/11/1/yamaha-pulls-out-of-qatar-motogp-over-situation-in-the-middle-east?traffic_source=rss",
-      "published": "2026-11-01T12:32:24+00:00",
+      "headline": "Michigan Dem Haley Stevens endorses Republican Senate candidate Mike Rogers",
+      "excerpt": "US Rep Stevens lost Democratic primary to Abdul El-Sayed and now endorses his Republican opponent in the Senate race.",
+      "link": "https://www.aljazeera.com/news/2026/11/1/michigan-dem-haley-stevens-endorses-republican-senate-candidate-mike-rogers?traffic_source=rss",
+      "published": "2026-11-01T18:51:07+00:00",
       "featured": false
     },
     {
-      "id": "54030c4e0e1a",
+      "id": "206fe17205e9",
       "source": "The Lever",
-      "headline": "Big Tech’s Democratic Front Group: Investigate Trump, Not Big Tech",
-      "excerpt": "The liberal-flavored Chamber of Progress is pressing Democrats to scrutinize the White House — but avoid probing tech giants that bankrolled and benefited from Trump's presidency.",
-      "link": "https://www.levernews.com/big-tech-to-democrats-investigate-trump-not-us/",
-      "published": "2026-10-30T22:43:32+00:00",
+      "headline": "Democrats Could Win The Election And Lose The War",
+      "excerpt": "The right spent decades building a political ecosystem. Democrats are still acting as if one election can defeat it.",
+      "link": "https://www.levernews.com/democrats-could-win-election-lose-war/",
+      "published": "2026-10-31T10:00:00+00:00",
       "featured": false
     },
     {
@@ -353,21 +353,21 @@
       "featured": false
     },
     {
+      "id": "04716a8aa6b4",
+      "source": "Dropsite News",
+      "headline": "Republican Senators Took Campaign Cash from Trump Nominees They Backed",
+      "excerpt": "Sens. Marsha Blackburn, Bill Hagerty, and Tommy Tuberville received tens of thousands of dollars in campaign donations from nominees to the board of the Tennessee Valley Authority.",
+      "link": "https://www.dropsitenews.com/p/blackburn-hagery-tuberville-campaign-cash-trump-nominees-tennesee-valley-authority",
+      "published": "2026-10-30T16:49:58+00:00",
+      "featured": false
+    },
+    {
       "id": "88726a3bff9a",
       "source": "404 Media",
       "headline": "Proton’s CEO Cancels AI ‘Re-Interviews’",
       "excerpt": "The move came after 404 Media published an investigation into how Proton CEO Andy Yen was aggressively pushing AI across Proton despite security concerns and the culture of fear he has created.",
       "link": "https://www.404media.co/protons-ceo-cancels-ai-re-interviews/",
       "published": "2026-10-30T16:40:39+00:00",
-      "featured": false
-    },
-    {
-      "id": "118f9ea2a0a2",
-      "source": "Dropsite News",
-      "headline": "Bolivian Attorney General Was Arrested After Investigating Trump-Aligned Operative",
-      "excerpt": "The arrest highlights the selective use of drug-trafficking accusations to advance U.S. interests in Latin America.",
-      "link": "https://www.dropsitenews.com/p/bolivia-attorney-general-arrest-fernando-cerimedo",
-      "published": "2026-10-29T23:31:15+00:00",
       "featured": false
     },
     {
@@ -434,21 +434,21 @@
       "featured": false
     },
     {
-      "id": "30385a4d4159",
+      "id": "2ce0570060fc",
       "source": "Al Jazeera",
-      "headline": "Fire engulfs hotel in Nepal along Everest Base Camp route",
-      "excerpt": "A fire broke out at a hotel in Dingboche, Nepal along the popular trekking route to Mount Everest Base Camp.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/1/fire-engulfs-hotel-in-nepal-along-everest-base-camp-route?traffic_source=rss",
-      "published": "2026-11-01T12:12:31+00:00",
+      "headline": "Sullivan vows to honour Alaska race outcome, US judge dismisses DOJ lawsuit",
+      "excerpt": "Senator Sullivan's pledge contrasts with the Trump administration's effort to challenge Alaska's election certification.",
+      "link": "https://www.aljazeera.com/news/2026/11/1/sullivan-vows-to-honour-alaska-race-outcome-us-judge-dismisses-doj-lawsuit?traffic_source=rss",
+      "published": "2026-11-01T18:37:37+00:00",
       "featured": false
     },
     {
-      "id": "4b0197e645e4",
+      "id": "54030c4e0e1a",
       "source": "The Lever",
-      "headline": "Who’s Running The Democratic Party?",
-      "excerpt": "Test your knowledge of the Democratic Party, A.I. chatbots, and other issues that really matter.",
-      "link": "https://www.levernews.com/levermind-quiz-whos-running-the-democratic-party/",
-      "published": "2026-10-30T17:19:17+00:00",
+      "headline": "Big Tech’s Democratic Front Group: Investigate Trump, Not Big Tech",
+      "excerpt": "The liberal-flavored Chamber of Progress is pressing Democrats to scrutinize the White House — but avoid probing tech giants that bankrolled and benefited from Trump's presidency.",
+      "link": "https://www.levernews.com/big-tech-to-democrats-investigate-trump-not-us/",
+      "published": "2026-10-30T22:43:32+00:00",
       "featured": false
     },
     {
@@ -461,21 +461,21 @@
       "featured": false
     },
     {
+      "id": "a6ed4bba6455",
+      "source": "Dropsite News",
+      "headline": "Trump’s “insane” Iran war plan; Ukraine strikes Russian refinery in defiance of Trump; Dockworkers stage global antiwar strike",
+      "excerpt": "Drop Site Daily: October 30, 2026",
+      "link": "https://www.dropsitenews.com/p/trump-iran-war-ukraine-russia-refinery-dockworkers-ports-strike-antiwar",
+      "published": "2026-10-30T14:53:51+00:00",
+      "featured": false
+    },
+    {
       "id": "363e906c7c88",
       "source": "The Intercept",
       "headline": "How AIPAC and AI Spent Their Money This Midterm Election",
       "excerpt": "Intercept staff take stock of the big spenders this election cycle. The post How AIPAC and AI Spent Their Money This Midterm Election appeared first on The Intercept.",
       "link": "https://theintercept.com/2026/10/30/aipac-ai-spending-midterm-election/",
       "published": "2026-10-30T10:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "bd576a0444bb",
-      "source": "Dropsite News",
-      "headline": "GOP’s Corporate Funders Target Minnesota Attorney General",
-      "excerpt": "ICE resistance, antitrust enforcement, and a state fraud scandal fuel attacks on Keith Ellison.",
-      "link": "https://www.dropsitenews.com/p/minnesota-keith-ellison-ron-schutz-republicans",
-      "published": "2026-10-29T16:50:15+00:00",
       "featured": false
     },
     {
@@ -524,21 +524,21 @@
       "featured": false
     },
     {
-      "id": "b42ae36a3b27",
+      "id": "17b9135c5bba",
       "source": "Al Jazeera",
-      "headline": "Thousands rally in New Delhi to demand India’s election chief resign",
-      "excerpt": "Hundreds of police, some carrying batons and shields, are deployed around the rally site.",
-      "link": "https://www.aljazeera.com/news/2026/11/1/thousands-rally-in-delhi-demanding-indias-election-chief-resign?traffic_source=rss",
-      "published": "2026-11-01T11:26:08+00:00",
+      "headline": "Israel’s first ambassador to Somaliland presents credentials in Hargeisa",
+      "excerpt": "Israel expands ties with the breakaway territory as Somalia challenges its motives and war intensifies in Yemen.",
+      "link": "https://www.aljazeera.com/news/2026/11/1/israels-first-ambassador-to-somaliland-presents-credentials-in-hargeisa?traffic_source=rss",
+      "published": "2026-11-01T18:23:57+00:00",
       "featured": false
     },
     {
-      "id": "dfcf66b343c0",
-      "source": "404 Media",
-      "headline": "Apple Is Entering Its Slop Era",
-      "excerpt": "I might finally buy an iPhone now that Apple has been taken down a peg.",
-      "link": "https://www.404media.co/apple-is-entering-its-slop-era/",
-      "published": "2026-10-30T12:31:04+00:00",
+      "id": "4b0197e645e4",
+      "source": "The Lever",
+      "headline": "Who’s Running The Democratic Party?",
+      "excerpt": "Test your knowledge of the Democratic Party, A.I. chatbots, and other issues that really matter.",
+      "link": "https://www.levernews.com/levermind-quiz-whos-running-the-democratic-party/",
+      "published": "2026-10-30T17:19:17+00:00",
       "featured": false
     }
   ]
