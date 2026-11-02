@@ -1,14 +1,50 @@
 {
-  "generated_at": "2026-11-02T00:45:22.357692+00:00",
+  "generated_at": "2026-11-02T11:09:46.413731+00:00",
   "articles": [
     {
-      "id": "7b66f0410aa1",
-      "source": "Al Jazeera",
-      "headline": "Bollywood star greets fans in bulletproof glass after bomb threat",
-      "excerpt": "Bollywood legend Amitabh Bachchan had greeted fans from a bulletproof enclosure outside his residence in Mumbai.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/2/bollywood-star-greets-fans-in-bulletproof-glass-after-bomb-threat?traffic_source=rss",
-      "published": "2026-11-02T00:14:22+00:00",
+      "id": "061e50c4dccc",
+      "source": "Rest of World",
+      "headline": "Startups recalibrate Chinese AI for the West",
+      "excerpt": "A growing number of startups are editing powerful Chinese open-weight models for Western businesses that are concerned about censorship and security.",
+      "link": "https://restofworld.org/2026/western-startups-realigning-chinese-ai-models/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "published": "2026-11-02T11:00:00+00:00",
       "featured": true
+    },
+    {
+      "id": "3774be2f5bb1",
+      "source": "The Intercept",
+      "headline": "Warnings About ICE at the Polls Risk Their Own Kind of Voter Suppression",
+      "excerpt": "Voting rights advocates in Texas warn that spreading awareness of voter intimidation could become a self-fulfilling prophecy. The post Warnings About ICE at the Polls Risk Their Own Kind of Voter Suppression appeared...",
+      "link": "https://theintercept.com/2026/11/02/texas-election-day-ice-voter-suppression/",
+      "published": "2026-11-02T10:51:00+00:00",
+      "featured": true
+    },
+    {
+      "id": "2f5029e9c5ae",
+      "source": "Al Jazeera",
+      "headline": "Sudan files complaints against Ethiopia with UN over deadly drone spree",
+      "excerpt": "One-way drone attacks have killed or wounded 484 civilians since February, Khartoum says.",
+      "link": "https://www.aljazeera.com/news/2026/11/2/sudan-files-complaints-against-ethiopia-with-un-over-deadly-drone-spree?traffic_source=rss",
+      "published": "2026-11-02T10:25:22+00:00",
+      "featured": true
+    },
+    {
+      "id": "17b17a416038",
+      "source": "ProPublica",
+      "headline": "Tribal Leaders Warned Border Wall Construction Would Disturb Native American Remains. They Were Right.",
+      "excerpt": "The post Tribal Leaders Warned Border Wall Construction Would Disturb Native American Remains. They Were Right. appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/border-wall-remains-native-american-organ-pipe",
+      "published": "2026-11-02T10:00:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "f37aed6c869e",
+      "source": "ICIJ",
+      "headline": "Pharma giants pay millions to Russian distributor entangled in corruption allegations to win cancer drug business",
+      "excerpt": "Confidential whistleblower reports allege that Western companies offer huge bonuses to Russian middlemen, inflating prices for lifesaving treatments at the expense of patients.",
+      "link": "https://www.icij.org/investigations/cancer-calculus/pharma-giants-pay-millions-to-russian-distributor-entangled-in-corruption-allegations-to-win-cancer-drug-business/",
+      "published": "2026-11-02T05:59:21+00:00",
+      "featured": false
     },
     {
       "id": "09262dff5126",
@@ -17,7 +53,7 @@
       "excerpt": "By endorsing Republican Mike Rogers, Abdul El-Sayed’s defeated primary rival proved that Democrats’ pro-oligarch faction is willing to destroy their own party.",
       "link": "https://www.levernews.com/haley-stevens-mike-rogers-endorsement/",
       "published": "2026-11-01T21:43:43+00:00",
-      "featured": true
+      "featured": false
     },
     {
       "id": "ff3ad05922d1",
@@ -26,15 +62,6 @@
       "excerpt": "Abigail Ronson and Jesse Stokes have been working for the government of Israel since May and last October, respectively, while also working on the campaign of Mike Rogers for Senate.",
       "link": "https://www.dropsitenews.com/p/mike-rogers-campaign-spokesperson",
       "published": "2026-11-01T21:30:13+00:00",
-      "featured": true
-    },
-    {
-      "id": "fe8a778ed27e",
-      "source": "The Intercept",
-      "headline": "The CIA Is Resorting to an Open Casting Call for Would-Be Cuban Assets",
-      "excerpt": "With Marco Rubio’s public plea for Cubans to work with the CIA, the administration is eyeing its next imperial conquest. The post The CIA Is Resorting to an Open Casting Call for Would-Be Cuban Assets appeared first on...",
-      "link": "https://theintercept.com/2026/11/01/marco-rubio-cuba-cia-recruitment/",
-      "published": "2026-11-01T11:00:00+00:00",
       "featured": false
     },
     {
@@ -56,30 +83,12 @@
       "featured": false
     },
     {
-      "id": "5a8e12291dea",
-      "source": "ProPublica",
-      "headline": "Trump Has Tried to Exert More Control Over Elections. Here Are the Key Findings From Our Reporting.",
-      "excerpt": "The post Trump Has Tried to Exert More Control Over Elections. Here Are the Key Findings From Our Reporting. appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/midterm-election-propublica-reporting-findings",
-      "published": "2026-10-30T15:10:00+00:00",
-      "featured": false
-    },
-    {
       "id": "1338af2d9b5a",
       "source": "More Perfect Union",
       "headline": "The Most Surprising Election In America",
       "excerpt": "Independent Dan Osborn is looking to take a long-time GOP Senate seat, and he’s running to represent working people betrayed by companies like Tyson.",
       "link": "https://substack.perfectunion.us/p/the-most-surprising-election-in-america",
       "published": "2026-10-30T14:49:43+00:00",
-      "featured": false
-    },
-    {
-      "id": "e921621281e7",
-      "source": "ICIJ",
-      "headline": "Egyptian court orders closure of news site Mada Masr and fines editor Lina Attalah, sparking international outcry",
-      "excerpt": "Attalah was briefly detained and ordered to pay more than $50,000 amid a government crackdown on independent media.",
-      "link": "https://www.icij.org/news/2026/10/egyptian-court-orders-closure-of-news-site-mada-masr-and-fines-editor-lina-attalah-sparking-international-outcry/",
-      "published": "2026-10-30T14:02:55+00:00",
       "featured": false
     },
     {
@@ -92,15 +101,6 @@
       "featured": false
     },
     {
-      "id": "6410e8e67945",
-      "source": "Rest of World",
-      "headline": "Why Africa needs its own AI off switch",
-      "excerpt": "Africa must develop AI systems with local control to protect critical infrastructure such as mobile money networks from growing AI-powered cyberthreats.",
-      "link": "https://restofworld.org/2026/africa-sovereign-ai-off-switch/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-      "published": "2026-10-29T10:00:00+00:00",
-      "featured": false
-    },
-    {
       "id": "bf589732ab65",
       "source": "The Markup",
       "headline": "MyChart and a major hospital said I could opt out of sharing my health data. But they didn’t make it easy",
@@ -110,12 +110,12 @@
       "featured": false
     },
     {
-      "id": "6ee149854410",
+      "id": "1477eaa02e74",
       "source": "Al Jazeera",
-      "headline": "Iran war live: Tankers hit in Hormuz; Trump again says conflict to end soon",
-      "excerpt": "US president warns Iran to make a deal, as IRGC says two tankers have hit mines and caught fire in the Strait of Hormuz.",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/11/2/iran-war-live-tankers-hit-in-hormuz-trump-again-says-conflict-to-end-soon?traffic_source=rss",
-      "published": "2026-11-02T00:00:00+00:00",
+      "headline": "Jailed PKK founder Ocalan moved to new section of Turkish island prison",
+      "excerpt": "Improving prison conditions for Abdullah Ocalan has been a key Kurdish demand in push to end PKK-Turkiye conflict.",
+      "link": "https://www.aljazeera.com/news/2026/11/2/jailed-pkk-founder-ocalan-moved-to-new-section-of-turkish-island-prison?traffic_source=rss",
+      "published": "2026-11-02T10:24:47+00:00",
       "featured": false
     },
     {
@@ -137,12 +137,12 @@
       "featured": false
     },
     {
-      "id": "33d99c519a4d",
+      "id": "fe8a778ed27e",
       "source": "The Intercept",
-      "headline": "Centrist Democrats Would Rather Lose the Senate Than Win With El-Sayed",
-      "excerpt": "With Haley Stevens’s demand for an apology from the candidate who beat her, the party’s moderates are making clear they’d rather lose than empower a progressive wing critical of Israel. The post Centrist Democrats Would...",
-      "link": "https://theintercept.com/2026/10/31/centrist-democrats-el-sayed-senate-israel/",
-      "published": "2026-10-31T18:49:42+00:00",
+      "headline": "The CIA Is Resorting to an Open Casting Call for Would-Be Cuban Assets",
+      "excerpt": "With Marco Rubio’s public plea for Cubans to work with the CIA, the administration is eyeing its next imperial conquest. The post The CIA Is Resorting to an Open Casting Call for Would-Be Cuban Assets appeared first on...",
+      "link": "https://theintercept.com/2026/11/01/marco-rubio-cuba-cia-recruitment/",
+      "published": "2026-11-01T11:00:00+00:00",
       "featured": false
     },
     {
@@ -155,6 +155,15 @@
       "featured": false
     },
     {
+      "id": "5a8e12291dea",
+      "source": "ProPublica",
+      "headline": "Trump Has Tried to Exert More Control Over Elections. Here Are the Key Findings From Our Reporting.",
+      "excerpt": "The post Trump Has Tried to Exert More Control Over Elections. Here Are the Key Findings From Our Reporting. appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/midterm-election-propublica-reporting-findings",
+      "published": "2026-10-30T15:10:00+00:00",
+      "featured": false
+    },
+    {
       "id": "35d0e77617f4",
       "source": "OCCRP",
       "headline": "Defanging Laws and Bringing Home Billions: How Trump Has Rewritten the Corruption Rulebook At Home and Abroad",
@@ -164,21 +173,12 @@
       "featured": false
     },
     {
-      "id": "33fb5e8be678",
-      "source": "ProPublica",
-      "headline": "How a Secret Vote by U.N. Scientists Legitimized Carbon Capture and Skewed Decades of Climate Policy",
-      "excerpt": "The post How a Secret Vote by U.N. Scientists Legitimized Carbon Capture and Skewed Decades of Climate Policy appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/carbon-capture-storage-fossil-fuel-sally-benson",
-      "published": "2026-10-30T10:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "f3fce3d601ab",
+      "id": "e921621281e7",
       "source": "ICIJ",
-      "headline": "Amazon mining boss wanted by Brazil for sheltering Jair Bolsonaro’s spy chief has businesses, properties in Florida",
-      "excerpt": "Bolsonaro’s son Flávio landed in Florida yesterday after he lost Brazil’s presidential election, claiming himself the legitimate winner.",
-      "link": "https://www.icij.org/news/2026/10/amazon-mining-boss-wanted-by-brazil-for-sheltering-jair-bolsonaros-spy-chief-has-businesses-properties-in-florida/",
-      "published": "2026-10-29T21:43:47+00:00",
+      "headline": "Egyptian court orders closure of news site Mada Masr and fines editor Lina Attalah, sparking international outcry",
+      "excerpt": "Attalah was briefly detained and ordered to pay more than $50,000 amid a government crackdown on independent media.",
+      "link": "https://www.icij.org/news/2026/10/egyptian-court-orders-closure-of-news-site-mada-masr-and-fines-editor-lina-attalah-sparking-international-outcry/",
+      "published": "2026-10-30T14:02:55+00:00",
       "featured": false
     },
     {
@@ -191,12 +191,12 @@
       "featured": false
     },
     {
-      "id": "a49626014bba",
+      "id": "6410e8e67945",
       "source": "Rest of World",
-      "headline": "AI models cost more when you don’t use English",
-      "excerpt": "Some languages require far more tokens for AI models to process, raising costs and reducing context for the people who use them.",
-      "link": "https://restofworld.org/2026/ai-tokenizer-tax-non-english-languages-cost-inequity/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-      "published": "2026-10-26T10:00:22+00:00",
+      "headline": "Why Africa needs its own AI off switch",
+      "excerpt": "Africa must develop AI systems with local control to protect critical infrastructure such as mobile money networks from growing AI-powered cyberthreats.",
+      "link": "https://restofworld.org/2026/africa-sovereign-ai-off-switch/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "published": "2026-10-29T10:00:00+00:00",
       "featured": false
     },
     {
@@ -218,12 +218,12 @@
       "featured": false
     },
     {
-      "id": "7caaf7864a06",
+      "id": "4320b1c2c132",
       "source": "Al Jazeera",
-      "headline": "Nine people dead after Learjet crashes in Florida",
-      "excerpt": "A private jet travelling from Austin, Texas, to the Bahamas crashed in Greenacres, near West Palm Beach, Florida.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/1/nine-people-dead-after-learjet-crashes-in-florida?traffic_source=rss",
-      "published": "2026-11-01T23:29:48+00:00",
+      "headline": "As aid situation worsens, displaced Sudanese worry about warnings of famine",
+      "excerpt": "Sudan's displaced people now face a mounting food crisis, with warnings of famine.",
+      "link": "https://www.aljazeera.com/features/2026/11/2/as-aid-situation-worsens-displaced-sudanese-worry-about-warnings-of-famine?traffic_source=rss",
+      "published": "2026-11-02T10:16:58+00:00",
       "featured": false
     },
     {
@@ -245,12 +245,12 @@
       "featured": false
     },
     {
-      "id": "c2f853171583",
+      "id": "33d99c519a4d",
       "source": "The Intercept",
-      "headline": "How Trump Destroyed South Africa’s Effort to Slow HIV Transmission",
-      "excerpt": "In South Africa, home to the world’s largest population of people living with HIV, efforts to contain the virus have been upended. The post How Trump Destroyed South Africa’s Effort to Slow HIV Transmission appeared...",
-      "link": "https://theintercept.com/2026/10/31/trump-south-africa-hiv-aids-funding-cuts/",
-      "published": "2026-10-31T10:00:00+00:00",
+      "headline": "Centrist Democrats Would Rather Lose the Senate Than Win With El-Sayed",
+      "excerpt": "With Haley Stevens’s demand for an apology from the candidate who beat her, the party’s moderates are making clear they’d rather lose than empower a progressive wing critical of Israel. The post Centrist Democrats Would...",
+      "link": "https://theintercept.com/2026/10/31/centrist-democrats-el-sayed-senate-israel/",
+      "published": "2026-10-31T18:49:42+00:00",
       "featured": false
     },
     {
@@ -272,21 +272,21 @@
       "featured": false
     },
     {
-      "id": "e1f48c76e1cc",
+      "id": "33fb5e8be678",
       "source": "ProPublica",
-      "headline": "Federal and State Officials Ramp Up Scrutiny of DraftKings, Other Sports Betting Apps",
-      "excerpt": "The post Federal and State Officials Ramp Up Scrutiny of DraftKings, Other Sports Betting Apps appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/sports-betting-impact-louisiana-ohio-congress",
-      "published": "2026-10-30T09:00:00+00:00",
+      "headline": "How a Secret Vote by U.N. Scientists Legitimized Carbon Capture and Skewed Decades of Climate Policy",
+      "excerpt": "The post How a Secret Vote by U.N. Scientists Legitimized Carbon Capture and Skewed Decades of Climate Policy appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/carbon-capture-storage-fossil-fuel-sally-benson",
+      "published": "2026-10-30T10:00:00+00:00",
       "featured": false
     },
     {
-      "id": "30c947d557f4",
+      "id": "f3fce3d601ab",
       "source": "ICIJ",
-      "headline": "New evidence links Singapore palm oil giant to Indonesian deforesters, despite denials",
-      "excerpt": "Two environmental groups have uncovered operational, commercial, personnel and logistical links between First Resources and Indonesian suppliers accused of forest destruction. It’s not the first time the company has...",
-      "link": "https://www.icij.org/investigations/deforestation-inc/new-evidence-links-singapore-palm-oil-giant-to-indonesian-deforesters-despite-denials/",
-      "published": "2026-10-29T09:20:14+00:00",
+      "headline": "Amazon mining boss wanted by Brazil for sheltering Jair Bolsonaro’s spy chief has businesses, properties in Florida",
+      "excerpt": "Bolsonaro’s son Flávio landed in Florida yesterday after he lost Brazil’s presidential election, claiming himself the legitimate winner.",
+      "link": "https://www.icij.org/news/2026/10/amazon-mining-boss-wanted-by-brazil-for-sheltering-jair-bolsonaros-spy-chief-has-businesses-properties-in-florida/",
+      "published": "2026-10-29T21:43:47+00:00",
       "featured": false
     },
     {
@@ -299,12 +299,12 @@
       "featured": false
     },
     {
-      "id": "460b4305ee13",
+      "id": "a49626014bba",
       "source": "Rest of World",
-      "headline": "Big Tech’s thirst for water is sparking a global resistance",
-      "excerpt": "This photograph taken on September 6, 2026 shows a placard opposing data centers displayed on a water dispenser during the People's Convention on AI Data Centers event at Visakhapatnam in India's Andhra Pradesh state....",
-      "link": "https://restofworld.org/2026/ai-datacenters-water-resistance-global/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-      "published": "2026-10-22T10:00:00+00:00",
+      "headline": "AI models cost more when you don’t use English",
+      "excerpt": "Some languages require far more tokens for AI models to process, raising costs and reducing context for the people who use them.",
+      "link": "https://restofworld.org/2026/ai-tokenizer-tax-non-english-languages-cost-inequity/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "published": "2026-10-26T10:00:22+00:00",
       "featured": false
     },
     {
@@ -326,12 +326,12 @@
       "featured": false
     },
     {
-      "id": "a24f76a5f52d",
+      "id": "99987efac3e0",
       "source": "Al Jazeera",
-      "headline": "Why governors’ races are important in the 2026 US midterms",
-      "excerpt": "Historic turnover in this election will allow dozens of states to vote on significant changes in leadership.",
-      "link": "https://www.aljazeera.com/news/2026/11/1/why-governors-races-are-important-in-the-2026-us-midterms?traffic_source=rss",
-      "published": "2026-11-01T23:24:56+00:00",
+      "headline": "‘Just the beginning’ for Antonelli, F1’s prodigious, charismatic new king",
+      "excerpt": "Kimi Antonelli, F1’s youngest world champion at 20, has become the life and soul of the paddock with his personality.",
+      "link": "https://www.aljazeera.com/sports/2026/11/2/just-the-beginning-for-antonelli-f1s-prodigious-charismatic-new-king?traffic_source=rss",
+      "published": "2026-11-02T10:00:21+00:00",
       "featured": false
     },
     {
@@ -344,21 +344,21 @@
       "featured": false
     },
     {
+      "id": "c2f853171583",
+      "source": "The Intercept",
+      "headline": "How Trump Destroyed South Africa’s Effort to Slow HIV Transmission",
+      "excerpt": "In South Africa, home to the world’s largest population of people living with HIV, efforts to contain the virus have been upended. The post How Trump Destroyed South Africa’s Effort to Slow HIV Transmission appeared...",
+      "link": "https://theintercept.com/2026/10/31/trump-south-africa-hiv-aids-funding-cuts/",
+      "published": "2026-10-31T10:00:00+00:00",
+      "featured": false
+    },
+    {
       "id": "ee61486a5d94",
       "source": "Dropsite News",
       "headline": "Record-High Heating Oil Prices Are Closing Argument in Maine Senate Race",
       "excerpt": "The Iran War is driving Maine heating oil prices through the roof, leaving Mainers in dire straits days ahead of the U.S. Senate election.",
       "link": "https://www.dropsitenews.com/p/maine-heating-oil-prices-senate-susan-collins-troy-jackson",
       "published": "2026-10-30T17:11:04+00:00",
-      "featured": false
-    },
-    {
-      "id": "fcfa2190bafc",
-      "source": "The Intercept",
-      "headline": "The Rise of the Christian Left in Texas",
-      "excerpt": "James Talarico, Frederick D. Haynes, and Gina Hinojosa are all Christians running for public office — as Democrats — in Texas. The post The Rise of the Christian Left in Texas appeared first on The Intercept.",
-      "link": "https://theintercept.com/2026/10/30/texas-christian-left-democrats-haynes-talarico-hinojosa/",
-      "published": "2026-10-30T16:55:07+00:00",
       "featured": false
     },
     {
@@ -371,6 +371,15 @@
       "featured": false
     },
     {
+      "id": "e1f48c76e1cc",
+      "source": "ProPublica",
+      "headline": "Federal and State Officials Ramp Up Scrutiny of DraftKings, Other Sports Betting Apps",
+      "excerpt": "The post Federal and State Officials Ramp Up Scrutiny of DraftKings, Other Sports Betting Apps appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/sports-betting-impact-louisiana-ohio-congress",
+      "published": "2026-10-30T09:00:00+00:00",
+      "featured": false
+    },
+    {
       "id": "7103ddad9519",
       "source": "OCCRP",
       "headline": "Criminal Probe Launched in South Africa Over Contraband Baobabs Bound for Georgia",
@@ -380,21 +389,12 @@
       "featured": false
     },
     {
-      "id": "36fad5689b33",
-      "source": "ProPublica",
-      "headline": "Search More Than 500 Cases of U.S. Citizens Detained by Immigration Agents",
-      "excerpt": "The post Search More Than 500 Cases of U.S. Citizens Detained by Immigration Agents appeared first on ProPublica.",
-      "link": "https://projects.propublica.org/american-citizens-detained-dhs-civil-rights/list",
-      "published": "2026-10-29T17:50:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "ebc117a4199c",
+      "id": "30c947d557f4",
       "source": "ICIJ",
-      "headline": "‘Bought-off, corrupt’: Argentine president attacks ICIJ member Hugo Alconada Mon",
-      "excerpt": "Journalists in the South American country have called for the U.N. to intervene as the president’s public attacks become more hostile.",
-      "link": "https://www.icij.org/news/2026/10/bought-off-corrupt-argentine-president-attacks-icij-member-hugo-alconada-mon/",
-      "published": "2026-10-27T21:45:21+00:00",
+      "headline": "New evidence links Singapore palm oil giant to Indonesian deforesters, despite denials",
+      "excerpt": "Two environmental groups have uncovered operational, commercial, personnel and logistical links between First Resources and Indonesian suppliers accused of forest destruction. It’s not the first time the company has...",
+      "link": "https://www.icij.org/investigations/deforestation-inc/new-evidence-links-singapore-palm-oil-giant-to-indonesian-deforesters-despite-denials/",
+      "published": "2026-10-29T09:20:14+00:00",
       "featured": false
     },
     {
@@ -407,12 +407,12 @@
       "featured": false
     },
     {
-      "id": "3e6b84130ba8",
+      "id": "460b4305ee13",
       "source": "Rest of World",
-      "headline": "Will developing nations be able to handle millions of AI agents?",
-      "excerpt": "It may be some time before AI agents can fully navigate the complexities and cultural nuances of developing nations.",
-      "link": "https://restofworld.org/2026/meta-muse-openai-dots-ai-agents-global-south/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-      "published": "2026-10-19T10:00:00+00:00",
+      "headline": "Big Tech’s thirst for water is sparking a global resistance",
+      "excerpt": "This photograph taken on September 6, 2026 shows a placard opposing data centers displayed on a water dispenser during the People's Convention on AI Data Centers event at Visakhapatnam in India's Andhra Pradesh state....",
+      "link": "https://restofworld.org/2026/ai-datacenters-water-resistance-global/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "published": "2026-10-22T10:00:00+00:00",
       "featured": false
     },
     {
@@ -434,12 +434,12 @@
       "featured": false
     },
     {
-      "id": "100871a6f9ff",
+      "id": "40667ea8111e",
       "source": "Al Jazeera",
-      "headline": "UN warns of security risks in Western Sahara as peacekeeping mission ends",
-      "excerpt": "The mission, known as MINURSO, has been in place in the disputed region since a ceasefire in 1991.",
-      "link": "https://www.aljazeera.com/news/2026/11/1/un-warns-of-security-risks-in-western-sahara-as-peacekeeping-mission-ends?traffic_source=rss",
-      "published": "2026-11-01T23:19:51+00:00",
+      "headline": "Saudi-led coalition intercepts a missile as fighting rages in Yemen’s al-Jawf",
+      "excerpt": "Houthi-affiliated media report that seven people were wounded in strikes on the city of Hodeidah.",
+      "link": "https://www.aljazeera.com/news/2026/11/2/saudi-led-coalition-intercepts-a-missile-as-fighting-rages-in-yemens-al-jawf?traffic_source=rss",
+      "published": "2026-11-02T09:43:59+00:00",
       "featured": false
     },
     {
@@ -449,6 +449,15 @@
       "excerpt": "The right spent decades building a political ecosystem. Democrats are still acting as if one election can defeat it.",
       "link": "https://www.levernews.com/democrats-could-win-election-lose-war/",
       "published": "2026-10-31T10:00:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "fcfa2190bafc",
+      "source": "The Intercept",
+      "headline": "The Rise of the Christian Left in Texas",
+      "excerpt": "James Talarico, Frederick D. Haynes, and Gina Hinojosa are all Christians running for public office — as Democrats — in Texas. The post The Rise of the Christian Left in Texas appeared first on The Intercept.",
+      "link": "https://theintercept.com/2026/10/30/texas-christian-left-democrats-haynes-talarico-hinojosa/",
+      "published": "2026-10-30T16:55:07+00:00",
       "featured": false
     },
     {
@@ -470,12 +479,12 @@
       "featured": false
     },
     {
-      "id": "363e906c7c88",
-      "source": "The Intercept",
-      "headline": "How AIPAC and AI Spent Their Money This Midterm Election",
-      "excerpt": "Intercept staff take stock of the big spenders this election cycle. The post How AIPAC and AI Spent Their Money This Midterm Election appeared first on The Intercept.",
-      "link": "https://theintercept.com/2026/10/30/aipac-ai-spending-midterm-election/",
-      "published": "2026-10-30T10:00:00+00:00",
+      "id": "36fad5689b33",
+      "source": "ProPublica",
+      "headline": "Search More Than 500 Cases of U.S. Citizens Detained by Immigration Agents",
+      "excerpt": "The post Search More Than 500 Cases of U.S. Citizens Detained by Immigration Agents appeared first on ProPublica.",
+      "link": "https://projects.propublica.org/american-citizens-detained-dhs-civil-rights/list",
+      "published": "2026-10-29T17:50:00+00:00",
       "featured": false
     },
     {
@@ -488,21 +497,12 @@
       "featured": false
     },
     {
-      "id": "e016f2268a1d",
-      "source": "ProPublica",
-      "headline": "Detroit Could Block Billionaire-Owned Concrete Plant From Further Neighborhood Expansion",
-      "excerpt": "The post Detroit Could Block Billionaire-Owned Concrete Plant From Further Neighborhood Expansion appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/kronos-moroun-cadillac-heights-detroit-concrete-impact",
-      "published": "2026-10-29T10:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "a3d031bf31ad",
+      "id": "ebc117a4199c",
       "source": "ICIJ",
-      "headline": "How Beijing’s Africa ambitions, financed by China’s mega banks, triggered a crisis in Zambia",
-      "excerpt": "Chinese banking giants piled loans onto the debt-ridden country, then adopted a hardball stance when it came time to repay, documents show.",
-      "link": "https://www.icij.org/investigations/china-capital/how-beijings-africa-ambitions-financed-by-chinas-mega-banks-triggered-a-crisis-in-zambia/",
-      "published": "2026-10-26T04:01:17+00:00",
+      "headline": "‘Bought-off, corrupt’: Argentine president attacks ICIJ member Hugo Alconada Mon",
+      "excerpt": "Journalists in the South American country have called for the U.N. to intervene as the president’s public attacks become more hostile.",
+      "link": "https://www.icij.org/news/2026/10/bought-off-corrupt-argentine-president-attacks-icij-member-hugo-alconada-mon/",
+      "published": "2026-10-27T21:45:21+00:00",
       "featured": false
     },
     {
@@ -515,21 +515,21 @@
       "featured": false
     },
     {
-      "id": "7039f948d4f3",
+      "id": "3e6b84130ba8",
       "source": "Rest of World",
-      "headline": "Western open-weight models still can’t beat China",
-      "excerpt": "Chinese open-weight AI models offer high capability at significantly lower costs than U.S. frontier systems, but face monetization and compute challenges, experts said at a Rest of World event in San Francisco.",
-      "link": "https://restofworld.org/2026/china-open-weight-models/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-      "published": "2026-10-16T10:00:00+00:00",
+      "headline": "Will developing nations be able to handle millions of AI agents?",
+      "excerpt": "It may be some time before AI agents can fully navigate the complexities and cultural nuances of developing nations.",
+      "link": "https://restofworld.org/2026/meta-muse-openai-dots-ai-agents-global-south/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "published": "2026-10-19T10:00:00+00:00",
       "featured": false
     },
     {
-      "id": "1ada51851a16",
+      "id": "68053c446ecc",
       "source": "Al Jazeera",
-      "headline": "High-ranking US Democratic senator suffers stroke",
-      "excerpt": "Senator Chris Murphy, a fierce Trump critic who is not up for re-election in the midterms, is 'alert' after a stroke.",
-      "link": "https://www.aljazeera.com/news/2026/11/1/high-ranking-us-democratic-senator-suffers-stroke?traffic_source=rss",
-      "published": "2026-11-01T22:32:54+00:00",
+      "headline": "Nuclear radiation in Russia, Ukraine? No, just hacked warning alerts",
+      "excerpt": "Warnings startle people in Ukraine, but authorities say they cleared up the confusion in under an hour.",
+      "link": "https://www.aljazeera.com/news/2026/11/2/nuclear-radiation-in-russia-ukraine-no-just-hacked-warning-alerts?traffic_source=rss",
+      "published": "2026-11-02T09:35:46+00:00",
       "featured": false
     },
     {
