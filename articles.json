@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-11-07T13:02:51.641571+00:00",
+  "generated_at": "2026-11-07T19:26:07.099876+00:00",
   "articles": [
+    {
+      "id": "7bcbf4fe40fc",
+      "source": "Al Jazeera",
+      "headline": "Latvian farmers protest over ‘blood grain’ trade with Russia",
+      "excerpt": "Latvian farmers are protesting Russian grain transit, arguing that it helps fund Moscow’s war in Ukraine.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/7-11-sv-latvia-farmers-protest-russian-grain-transit?traffic_source=rss",
+      "published": "2026-11-07T19:10:34+00:00",
+      "featured": true
+    },
+    {
+      "id": "4d8b4d0a35d5",
+      "source": "Dropsite News",
+      "headline": "In Jericho, Israeli Settlers Violently Seize and Occupy Palestinian Homes",
+      "excerpt": "The takeover by Israeli settlers of homes inside a Palestinian city in the occupied West Bank represents a dangerous escalation in Israel’s dispossession of Palestinians across the territory.",
+      "link": "https://www.dropsitenews.com/p/jericho-israeli-settlers-palestinians-takeover-soldiers",
+      "published": "2026-11-07T15:35:55+00:00",
+      "featured": true
+    },
+    {
+      "id": "2fc8a75910e1",
+      "source": "More Perfect Union",
+      "headline": "Democrats Won Back the Working Class: The Five Things They Should Do Now.",
+      "excerpt": "To keep and maintain working-class majorities, Democrats need to champion these priorities.",
+      "link": "https://substack.perfectunion.us/p/democrats-won-back-the-working-class",
+      "published": "2026-11-07T14:37:33+00:00",
+      "featured": true
+    },
+    {
+      "id": "9079cb4fab15",
+      "source": "The Lever",
+      "headline": "You Love To See It: The Other Winners Of Election Night",
+      "excerpt": "The rich get their tax bill, the freedom state strikes back, voters cut the corporate money cord, and the AI overlords get evicted.",
+      "link": "https://www.levernews.com/you-love-to-see-it-the-other-winners-of-election-night/",
+      "published": "2026-11-07T14:31:00+00:00",
+      "featured": false
+    },
     {
       "id": "889b0feabde8",
       "source": "404 Media",
@@ -8,16 +44,7 @@
       "excerpt": "Earth is missing a huge chunk of its geological record before the Cambrian period 538 million years ago, when complex life emerged. A new study suggests that the gap was caused by the rise and fall of ancient...",
       "link": "https://www.404media.co/how-earth-lost-a-billion-years-of-its-history/",
       "published": "2026-11-07T13:00:00+00:00",
-      "featured": true
-    },
-    {
-      "id": "d8fcb7ab2e57",
-      "source": "Al Jazeera",
-      "headline": "Pro-Russian hackers leak Italian foreign minister’s data on dark web",
-      "excerpt": "The prime minister blames pro-Russian hackers for the leak, as her top diplomat says the cyberthreat was ongoing.",
-      "link": "https://www.aljazeera.com/news/2026/11/7/pro-russian-hackers-leak-italian-foreign-ministers-data-on-dark-web?traffic_source=rss",
-      "published": "2026-11-07T12:29:48+00:00",
-      "featured": true
+      "featured": false
     },
     {
       "id": "e5052e83a8da",
@@ -26,7 +53,7 @@
       "excerpt": "The post Texas’ School Voucher Program Could Be “Unrecognizable, If Not Extinct,” Says Democratic Lawmaker appeared first on ProPublica.",
       "link": "https://www.propublica.org/article/texas-school-vouchers-gina-hinojosa",
       "published": "2026-11-07T11:00:00+00:00",
-      "featured": true
+      "featured": false
     },
     {
       "id": "27a1671fee65",
@@ -44,24 +71,6 @@
       "excerpt": "Former Paraguayan President Santiago Peña has been removed from office and arrested. Among other allegations, he is accused of trying to protect a digital bank he formerly held ownership in. Authorities this week...",
       "link": "https://www.occrp.org/en/news/paraguayan-president-impeached-and-arrested-amid-financial-meltdown-and-mass-protests",
       "published": "2026-11-07T09:04:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "9d8469083d28",
-      "source": "The Lever",
-      "headline": "We Exposed Democrats’ Billionaire Backers. Now They’re Blocking Our Reporters.",
-      "excerpt": "A billionaire-backed group is gathering top Democrats to shape the party's future — while blocking our reporters after we exposed its funding.",
-      "link": "https://www.levernews.com/we-exposed-democrats-billionaire-backers-now-theyre-blocking-our-reporters/",
-      "published": "2026-11-06T22:10:22+00:00",
-      "featured": false
-    },
-    {
-      "id": "6dc6a64d39e1",
-      "source": "Dropsite News",
-      "headline": "Latest U.S. Strikes on Qeshm Island Hit Fishermen Who Clung to Wreckage for Hours",
-      "excerpt": "Recent U.S. strikes on Iran in the Strait of Hormuz left survivors on Iran’s coastline shaken and came on the eve of the midterms elections that were seen as a rebuke of the war.",
-      "link": "https://www.dropsitenews.com/p/iran-qeshm-island-hormuz-us-strikes-trump-midterms",
-      "published": "2026-11-06T18:01:24+00:00",
       "featured": false
     },
     {
@@ -92,15 +101,6 @@
       "featured": false
     },
     {
-      "id": "fa9d17d5cc26",
-      "source": "More Perfect Union",
-      "headline": "We Investigated The $400 Million Corruption Machine Deciding The Midterm Elections",
-      "excerpt": "It all happens through MAGA Inc., and oligarchs are spending big to defend their cash cow this election.",
-      "link": "https://substack.perfectunion.us/p/we-investigated-the-400-million-corruption",
-      "published": "2026-11-02T18:58:12+00:00",
-      "featured": false
-    },
-    {
       "id": "bf589732ab65",
       "source": "The Markup",
       "headline": "MyChart and a major hospital said I could opt out of sharing my health data. But they didn’t make it easy",
@@ -110,12 +110,21 @@
       "featured": false
     },
     {
-      "id": "32dbf104fcb3",
+      "id": "566a74c7d2b4",
       "source": "Al Jazeera",
-      "headline": "Atletico Madrid vs Barcelona: La Liga – predictions, team news, lineups",
-      "excerpt": "Barcelona and Atletico clash on Sunday in a blockbuster encounter which could upend the La Liga title race this season.",
-      "link": "https://www.aljazeera.com/sports/2026/11/7/atletico-madrid-barcelona-la-liga-prediction-team-news-lineups-preview?traffic_source=rss",
-      "published": "2026-11-07T12:27:58+00:00",
+      "headline": "Yemeni gov’t forces report advances as Houthis say deadly strikes hit Sanaa",
+      "excerpt": "Civilians bear the brunt of fighting as 27 people reported killed in strikes on a village in Sanaa province.",
+      "link": "https://www.aljazeera.com/news/2026/11/7/yemeni-govt-forces-report-advances-as-houthis-say-deadly-strikes-hit-sanaa?traffic_source=rss",
+      "published": "2026-11-07T19:06:31+00:00",
+      "featured": false
+    },
+    {
+      "id": "9d8469083d28",
+      "source": "The Lever",
+      "headline": "We Exposed Democrats’ Billionaire Backers. Now They’re Blocking Our Reporters.",
+      "excerpt": "A billionaire-backed group is gathering top Democrats to shape the party's future — while blocking our reporters after we exposed its funding.",
+      "link": "https://www.levernews.com/we-exposed-democrats-billionaire-backers-now-theyre-blocking-our-reporters/",
+      "published": "2026-11-06T22:10:22+00:00",
       "featured": false
     },
     {
@@ -128,15 +137,6 @@
       "featured": false
     },
     {
-      "id": "88cd784f6490",
-      "source": "The Lever",
-      "headline": "El-Sayed: Fire The Parliamentarian If She Blocks Healthcare Reform",
-      "excerpt": "In an exclusive interview, Michigan’s senator-elect says Democrats should replace the Senate parliamentarian if she uses “arcane” rules to block health care legislation.",
-      "link": "https://www.levernews.com/el-sayed-fire-the-parliamentarian-if-she-blocks-healthcare-reform/",
-      "published": "2026-11-06T20:44:06+00:00",
-      "featured": false
-    },
-    {
       "id": "f38483b0fc7a",
       "source": "ProPublica",
       "headline": "On the Ground in the Final Days Before Trump’s Midterm Debacle",
@@ -146,21 +146,21 @@
       "featured": false
     },
     {
+      "id": "6dc6a64d39e1",
+      "source": "Dropsite News",
+      "headline": "Latest U.S. Strikes on Qeshm Island Hit Fishermen Who Clung to Wreckage for Hours",
+      "excerpt": "Recent U.S. strikes on Iran in the Strait of Hormuz left survivors on Iran’s coastline shaken and came on the eve of the midterms elections that were seen as a rebuke of the war.",
+      "link": "https://www.dropsitenews.com/p/iran-qeshm-island-hormuz-us-strikes-trump-midterms",
+      "published": "2026-11-06T18:01:24+00:00",
+      "featured": false
+    },
+    {
       "id": "b7bcb1cedc49",
       "source": "404 Media",
       "headline": "Behind the Blog: Dam's Bursting",
       "excerpt": "This week, we discuss election outcomes and code as a human endeavor.",
       "link": "https://www.404media.co/behind-the-blog-dams-bursting/",
       "published": "2026-11-06T17:12:55+00:00",
-      "featured": false
-    },
-    {
-      "id": "0194688b6dc4",
-      "source": "Dropsite News",
-      "headline": "The push to replace Schumer as Senate leader; 94% of Gaza’s population needs shelter assistance; Paraguay’s president resigns",
-      "excerpt": "Drop Site Daily: November 6, 2026",
-      "link": "https://www.dropsitenews.com/p/schumer-senate-leader-gaza-shelter-israel-paraguay-resignation-protests",
-      "published": "2026-11-06T16:05:03+00:00",
       "featured": false
     },
     {
@@ -182,6 +182,15 @@
       "featured": false
     },
     {
+      "id": "fa9d17d5cc26",
+      "source": "More Perfect Union",
+      "headline": "We Investigated The $400 Million Corruption Machine Deciding The Midterm Elections",
+      "excerpt": "It all happens through MAGA Inc., and oligarchs are spending big to defend their cash cow this election.",
+      "link": "https://substack.perfectunion.us/p/we-investigated-the-400-million-corruption",
+      "published": "2026-11-02T18:58:12+00:00",
+      "featured": false
+    },
+    {
       "id": "a77780e327c4",
       "source": "Bellingcat",
       "headline": "Inside the Secretive, Contradictory World of Campaign Ads Funded by AI Super PACs",
@@ -200,15 +209,6 @@
       "featured": false
     },
     {
-      "id": "1338af2d9b5a",
-      "source": "More Perfect Union",
-      "headline": "The Most Surprising Election In America",
-      "excerpt": "Independent Dan Osborn is looking to take a long-time GOP Senate seat, and he’s running to represent working people betrayed by companies like Tyson.",
-      "link": "https://substack.perfectunion.us/p/the-most-surprising-election-in-america",
-      "published": "2026-10-30T14:49:43+00:00",
-      "featured": false
-    },
-    {
       "id": "d06c183f885a",
       "source": "The Markup",
       "headline": "Patients: All my best tips on how to opt out of data sharing",
@@ -218,12 +218,21 @@
       "featured": false
     },
     {
-      "id": "5805658a2588",
+      "id": "1d5f7eb7aeb5",
       "source": "Al Jazeera",
-      "headline": "Why are oil traders refusing to buy Russian diesel after Trump-Putin deal?",
-      "excerpt": "Zero Russian diesel has reached the US as tankers divert and buyers fear legal action.",
-      "link": "https://www.aljazeera.com/news/2026/11/7/why-are-oil-traders-refusing-to-buy-russian-diesel-after-trump-putin-deal?traffic_source=rss",
-      "published": "2026-11-07T12:24:11+00:00",
+      "headline": "Demonstration in Berlin calls for an end to arming Israel",
+      "excerpt": "Demonstration in Berlin calls for an end to arming Israel",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/demonstration-in-berlin-calls-for-an-end-to-arming-israel?traffic_source=rss",
+      "published": "2026-11-07T19:04:04+00:00",
+      "featured": false
+    },
+    {
+      "id": "88cd784f6490",
+      "source": "The Lever",
+      "headline": "El-Sayed: Fire The Parliamentarian If She Blocks Healthcare Reform",
+      "excerpt": "In an exclusive interview, Michigan’s senator-elect says Democrats should replace the Senate parliamentarian if she uses “arcane” rules to block health care legislation.",
+      "link": "https://www.levernews.com/el-sayed-fire-the-parliamentarian-if-she-blocks-healthcare-reform/",
+      "published": "2026-11-06T20:44:06+00:00",
       "featured": false
     },
     {
@@ -236,12 +245,12 @@
       "featured": false
     },
     {
-      "id": "acddd97c55c2",
-      "source": "The Lever",
-      "headline": "Don’t F#*k It Up, Democrats: The Battle To Break Big Tech’s Power",
-      "excerpt": "In Episode 2 of The Lever’s new video series, David Sirota asks Gil Duran and Saikat Chakrabarti whether Democrats will confront the tech broligarchy — or bail it out.",
-      "link": "https://www.levernews.com/dont-f-k-it-up-democrats-the-battle-to-break-big-techs-power/",
-      "published": "2026-11-06T19:44:57+00:00",
+      "id": "0194688b6dc4",
+      "source": "Dropsite News",
+      "headline": "The push to replace Schumer as Senate leader; 94% of Gaza’s population needs shelter assistance; Paraguay’s president resigns",
+      "excerpt": "Drop Site Daily: November 6, 2026",
+      "link": "https://www.dropsitenews.com/p/schumer-senate-leader-gaza-shelter-israel-paraguay-resignation-protests",
+      "published": "2026-11-06T16:05:03+00:00",
       "featured": false
     },
     {
@@ -263,15 +272,6 @@
       "featured": false
     },
     {
-      "id": "f672abbd194e",
-      "source": "Dropsite News",
-      "headline": "Encircled and Besieged, Taiz City Is a Refuge for Displaced Yemenis Fleeing War",
-      "excerpt": "Over 50,000 people have arrived in Taiz city in the past several weeks, according to local officials, as fighting rages around it.",
-      "link": "https://www.dropsitenews.com/p/taiz-yemen-displaced-ansarallah-saudi-siege",
-      "published": "2026-11-05T22:19:00+00:00",
-      "featured": false
-    },
-    {
       "id": "5db471149247",
       "source": "OCCRP",
       "headline": "Ukraine Uncovers Crime Ring Allegedly Shielded by Officials",
@@ -290,21 +290,21 @@
       "featured": false
     },
     {
+      "id": "1338af2d9b5a",
+      "source": "More Perfect Union",
+      "headline": "The Most Surprising Election In America",
+      "excerpt": "Independent Dan Osborn is looking to take a long-time GOP Senate seat, and he’s running to represent working people betrayed by companies like Tyson.",
+      "link": "https://substack.perfectunion.us/p/the-most-surprising-election-in-america",
+      "published": "2026-10-30T14:49:43+00:00",
+      "featured": false
+    },
+    {
       "id": "c869b0dd1854",
       "source": "Bellingcat",
       "headline": "EU Satellite Imagery Delayed Over Gaza and Parts of West Bank by 24-hours",
       "excerpt": "Sign up here to receive Bellingcat’s biggest investigations by email as soon as they are published. Become a member and support our work here. Imagery captured by the European Space Agency’s freely available Sentinel-2...",
       "link": "https://www.bellingcat.com/news/2026/10/29/eu-satellite-imagery-delayed-over-gaza-and-parts-of-west-bank-by-24-hours/",
       "published": "2026-10-29T22:15:59+00:00",
-      "featured": false
-    },
-    {
-      "id": "9421c80e088a",
-      "source": "More Perfect Union",
-      "headline": "Arkansas' Farmer Crisis Could Flip The Senate. Here's How.",
-      "excerpt": "Arkansas is one of the Senate races that Republicans are quietly panicking about.",
-      "link": "https://substack.perfectunion.us/p/arkansas-farmer-crisis-could-flip",
-      "published": "2026-10-29T14:11:55+00:00",
       "featured": false
     },
     {
@@ -326,21 +326,21 @@
       "featured": false
     },
     {
-      "id": "1ed61bc0c753",
+      "id": "7df0375eb2a6",
       "source": "Al Jazeera",
-      "headline": "Qeshm island and Hormuz hit, as mediators try to prevent US-Iran escalation",
-      "excerpt": "US strikes have continued on Iran after more ships in the Strait of Hormuz were attacked.",
-      "link": "https://www.aljazeera.com/news/2026/11/7/qeshm-island-and-hormuz-hit-as-mediators-try-to-prevent-us-iran-escalation?traffic_source=rss",
-      "published": "2026-11-07T12:22:18+00:00",
+      "headline": "Houston mayor orders police to limit cooperation with ICE",
+      "excerpt": "Houston Mayor John Whitmire has instructed police to limit contact with ICE, reversing the city’s previous approach.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/houston-mayor-orders-police-to-limit-cooperation-with-ice?traffic_source=rss",
+      "published": "2026-11-07T18:55:40+00:00",
       "featured": false
     },
     {
-      "id": "d48af63dc0d1",
+      "id": "acddd97c55c2",
       "source": "The Lever",
-      "headline": "Who Got Washed Out By The Blue Tsunami?",
-      "excerpt": "Test your knowledge of the blue wave, ballot initiatives, and other issues that really matter.",
-      "link": "https://www.levernews.com/levermind-quiz-who-got-washed-out-by-the-blue-tsunami/",
-      "published": "2026-11-06T17:37:25+00:00",
+      "headline": "Don’t F#*k It Up, Democrats: The Battle To Break Big Tech’s Power",
+      "excerpt": "In Episode 2 of The Lever’s new video series, David Sirota asks Gil Duran and Saikat Chakrabarti whether Democrats will confront the tech broligarchy — or bail it out.",
+      "link": "https://www.levernews.com/dont-f-k-it-up-democrats-the-battle-to-break-big-techs-power/",
+      "published": "2026-11-06T19:44:57+00:00",
       "featured": false
     },
     {
@@ -350,6 +350,15 @@
       "excerpt": "“All I know is that the populist lane is wide open for someone to seize it.” The post Is There a Left Candidate for President? appeared first on The Intercept.",
       "link": "https://theintercept.com/2026/11/06/democrats-left-presidential-candidate-2028/",
       "published": "2026-11-06T17:06:47+00:00",
+      "featured": false
+    },
+    {
+      "id": "f672abbd194e",
+      "source": "Dropsite News",
+      "headline": "Encircled and Besieged, Taiz City Is a Refuge for Displaced Yemenis Fleeing War",
+      "excerpt": "Over 50,000 people have arrived in Taiz city in the past several weeks, according to local officials, as fighting rages around it.",
+      "link": "https://www.dropsitenews.com/p/taiz-yemen-displaced-ansarallah-saudi-siege",
+      "published": "2026-11-05T22:19:00+00:00",
       "featured": false
     },
     {
@@ -371,15 +380,6 @@
       "featured": false
     },
     {
-      "id": "a0a53ad3daf3",
-      "source": "Dropsite News",
-      "headline": "GOP infighting begins; Civil-society groups propose delaying fight over Iran war until 2027; Saudi-Syria defense deal",
-      "excerpt": "Drop Site Daily: November 5, 2026",
-      "link": "https://www.dropsitenews.com/p/gop-infighting-trump-hegseth-civil-society-iran-saudi-syria-defense",
-      "published": "2026-11-05T16:49:27+00:00",
-      "featured": false
-    },
-    {
       "id": "5ba40998af09",
       "source": "OCCRP",
       "headline": "Hackers Steal Estimated 118 Million Euros in Cyberattack on French Bank",
@@ -398,12 +398,12 @@
       "featured": false
     },
     {
-      "id": "da1b826c4e4e",
+      "id": "9421c80e088a",
       "source": "More Perfect Union",
-      "headline": "We Spoke To Trump Voters In Rural Florida. They Want Help.",
-      "excerpt": "We took Democrat Angie Nixon to Putnam County, which Trump won with nearly 74 percent. It has the worst health score in the entire state.",
-      "link": "https://substack.perfectunion.us/p/we-spoke-to-trump-voters-in-rural",
-      "published": "2026-10-28T12:45:42+00:00",
+      "headline": "Arkansas' Farmer Crisis Could Flip The Senate. Here's How.",
+      "excerpt": "Arkansas is one of the Senate races that Republicans are quietly panicking about.",
+      "link": "https://substack.perfectunion.us/p/arkansas-farmer-crisis-could-flip",
+      "published": "2026-10-29T14:11:55+00:00",
       "featured": false
     },
     {
@@ -434,12 +434,21 @@
       "featured": false
     },
     {
-      "id": "10e7c1452b4a",
+      "id": "08ca84292909",
       "source": "Al Jazeera",
-      "headline": "Dozens killed as humanitarian crisis mounts in Yemen: What next for war?",
-      "excerpt": "Government forces reclaim key territories in Taiz and Lahij but face setbacks under Houthi resistance in certain areas.",
-      "link": "https://www.aljazeera.com/news/2026/11/7/dozens-killed-as-humanitarian-crisis-mounts-in-yemen-what-next-for-war?traffic_source=rss",
-      "published": "2026-11-07T11:59:26+00:00",
+      "headline": "Paraguay’s ousted president charged over banking scandal",
+      "excerpt": "Santiago Pena was impeached over the collapse of Ueno Bank, which left millions unable to access their accounts.",
+      "link": "https://www.aljazeera.com/economy/2026/11/7/paraguays-ousted-president-charged-over-banking-scandal?traffic_source=rss",
+      "published": "2026-11-07T18:35:15+00:00",
+      "featured": false
+    },
+    {
+      "id": "d48af63dc0d1",
+      "source": "The Lever",
+      "headline": "Who Got Washed Out By The Blue Tsunami?",
+      "excerpt": "Test your knowledge of the blue wave, ballot initiatives, and other issues that really matter.",
+      "link": "https://www.levernews.com/levermind-quiz-who-got-washed-out-by-the-blue-tsunami/",
+      "published": "2026-11-06T17:37:25+00:00",
       "featured": false
     },
     {
@@ -452,21 +461,21 @@
       "featured": false
     },
     {
-      "id": "fd21bc33e5eb",
-      "source": "The Lever",
-      "headline": "The Blue Wave Might Have Washed Away Progressives’ Leverage",
-      "excerpt": "Democrats’ landslide strengthened Hakeem Jeffries’s bid for House speaker, weakening progressive insurgents’ bargaining power even as their Senate allies challenge Chuck Schumer.",
-      "link": "https://www.levernews.com/did-the-blue-wave-wash-away-progressives-leverage/",
-      "published": "2026-11-05T21:44:00+00:00",
-      "featured": false
-    },
-    {
       "id": "4216e6969ea8",
       "source": "404 Media",
       "headline": "Oldest Evidence of Getting High on Cannabis Discovered In 2,800-Year-Old Tomb: ‘Absolutely Crazy’",
       "excerpt": "Archaeologists have discovered the oldest direct evidence of psychoactive cannabis use in a Siberian tomb that was used for human and horse sacrifices, a finding that sheds light on ancient rituals and could help revive...",
       "link": "https://www.404media.co/oldest-evidence-of-getting-high-on-cannabis-discovered-in-2800-year-old-tomb/",
       "published": "2026-11-05T19:00:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "a0a53ad3daf3",
+      "source": "Dropsite News",
+      "headline": "GOP infighting begins; Civil-society groups propose delaying fight over Iran war until 2027; Saudi-Syria defense deal",
+      "excerpt": "Drop Site Daily: November 5, 2026",
+      "link": "https://www.dropsitenews.com/p/gop-infighting-trump-hegseth-civil-society-iran-saudi-syria-defense",
+      "published": "2026-11-05T16:49:27+00:00",
       "featured": false
     },
     {
@@ -488,15 +497,6 @@
       "featured": false
     },
     {
-      "id": "83cb9bfda8af",
-      "source": "Dropsite News",
-      "headline": "Israel's 11-Day Escalated Assault on Hebron",
-      "excerpt": "Thousands of Palestinians faced forced displacement during the duration of a heavy Israeli military operation on Hebron.",
-      "link": "https://www.dropsitenews.com/p/hebron-forced-displacement-israeli-operation",
-      "published": "2026-11-04T21:03:48+00:00",
-      "featured": false
-    },
-    {
       "id": "f3fce3d601ab",
       "source": "ICIJ",
       "headline": "Amazon mining boss wanted by Brazil for sheltering Jair Bolsonaro’s spy chief has businesses, properties in Florida",
@@ -506,12 +506,12 @@
       "featured": false
     },
     {
-      "id": "ba98ff9c2a46",
+      "id": "da1b826c4e4e",
       "source": "More Perfect Union",
-      "headline": "Hawaii Just Made Citizens United Irrelevant. Your State Could Be Next.",
-      "excerpt": "How do you get money out of politics without overturning Citizens United?",
-      "link": "https://substack.perfectunion.us/p/hawaii-just-made-citizens-united",
-      "published": "2026-10-27T12:28:33+00:00",
+      "headline": "We Spoke To Trump Voters In Rural Florida. They Want Help.",
+      "excerpt": "We took Democrat Angie Nixon to Putnam County, which Trump won with nearly 74 percent. It has the worst health score in the entire state.",
+      "link": "https://substack.perfectunion.us/p/we-spoke-to-trump-voters-in-rural",
+      "published": "2026-10-28T12:45:42+00:00",
       "featured": false
     },
     {
@@ -533,12 +533,12 @@
       "featured": false
     },
     {
-      "id": "11a6ac0df9df",
+      "id": "c8b62b99b72a",
       "source": "Al Jazeera",
-      "headline": "Nepal’s fight to rebuild after flood disaster",
-      "excerpt": "101 East reveals Nepal's efforts to save lives and rebuild communities after a devastating natural disaster.",
-      "link": "https://www.aljazeera.com/video/101-east/2026/11/7/nepals-fight-to-rebuild-after-flood-disaster?traffic_source=rss",
-      "published": "2026-11-07T11:30:00+00:00",
+      "headline": "Pope Leo hold first mass in Uruguay, urges crowd to be ‘bridge builders’",
+      "excerpt": "Vatican says some 40,000 people gathered to listen to the head of the Roman Catholic Church in western city of Paysandu.",
+      "link": "https://www.aljazeera.com/news/2026/11/7/pope-leo-hold-first-mass-in-uruguay-urges-crowd-to-be-bridge-builders?traffic_source=rss",
+      "published": "2026-11-07T18:00:21+00:00",
       "featured": false
     }
   ]
