@@ -1,0 +1,1258 @@
+{
+  "generated_at": "2026-11-10T03:03:31.639707+00:00",
+  "date": "2026-11-11",
+  "theme": "World Landmarks",
+  "word_search": {
+    "size": 14,
+    "grid": [
+      [
+        "X",
+        "N",
+        "I",
+        "H",
+        "P",
+        "S",
+        "Y",
+        "U",
+        "M",
+        "B",
+        "E",
+        "I",
+        "W",
+        "P"
+      ],
+      [
+        "V",
+        "O",
+        "I",
+        "G",
+        "N",
+        "I",
+        "G",
+        "F",
+        "I",
+        "R",
+        "N",
+        "W",
+        "C",
+        "L"
+      ],
+      [
+        "H",
+        "O",
+        "X",
+        "Z",
+        "Q",
+        "R",
+        "J",
+        "G",
+        "E",
+        "I",
+        "S",
+        "E",
+        "Z",
+        "M"
+      ],
+      [
+        "G",
+        "P",
+        "J",
+        "X",
+        "F",
+        "J",
+        "B",
+        "Y",
+        "L",
+        "T",
+        "S",
+        "D",
+        "X",
+        "T"
+      ],
+      [
+        "N",
+        "V",
+        "A",
+        "V",
+        "V",
+        "E",
+        "H",
+        "M",
+        "O",
+        "I",
+        "R",
+        "M",
+        "Q",
+        "A"
+      ],
+      [
+        "A",
+        "A",
+        "L",
+        "R",
+        "N",
+        "D",
+        "E",
+        "N",
+        "L",
+        "R",
+        "U",
+        "T",
+        "Q",
+        "J"
+      ],
+      [
+        "C",
+        "L",
+        "C",
+        "K",
+        "T",
+        "R",
+        "E",
+        "O",
+        "L",
+        "E",
+        "B",
+        "B",
+        "Z",
+        "M"
+      ],
+      [
+        "I",
+        "H",
+        "F",
+        "U",
+        "K",
+        "H",
+        "P",
+        "M",
+        "S",
+        "E",
+        "Y",
+        "H",
+        "P",
+        "A"
+      ],
+      [
+        "T",
+        "W",
+        "W",
+        "F",
+        "E",
+        "O",
+        "E",
+        "S",
+        "E",
+        "P",
+        "F",
+        "Y",
+        "W",
+        "H"
+      ],
+      [
+        "A",
+        "N",
+        "W",
+        "N",
+        "R",
+        "T",
+        "O",
+        "N",
+        "Q",
+        "A",
+        "R",
+        "F",
+        "N",
+        "A"
+      ],
+      [
+        "V",
+        "I",
+        "G",
+        "C",
+        "T",
+        "L",
+        "O",
+        "H",
+        "O",
+        "A",
+        "L",
+        "P",
+        "I",
+        "L"
+      ],
+      [
+        "D",
+        "E",
+        "A",
+        "Y",
+        "O",
+        "T",
+        "B",
+        "P",
+        "M",
+        "N",
+        "S",
+        "K",
+        "R",
+        "E"
+      ],
+      [
+        "J",
+        "Y",
+        "U",
+        "C",
+        "V",
+        "O",
+        "V",
+        "I",
+        "H",
+        "S",
+        "M",
+        "I",
+        "U",
+        "X"
+      ],
+      [
+        "L",
+        "O",
+        "U",
+        "V",
+        "R",
+        "E",
+        "D",
+        "L",
+        "F",
+        "V",
+        "O",
+        "F",
+        "Y",
+        "E"
+      ]
+    ],
+    "words": [
+      "STONEHENGE",
+      "COLOSSEUM",
+      "PARTHENON",
+      "ACROPOLIS",
+      "TAJMAHAL",
+      "PYRAMID",
+      "VATICAN",
+      "KREMLIN",
+      "BIGBEN",
+      "SPHINX",
+      "EIFFEL",
+      "LOUVRE"
+    ]
+  },
+  "crossword": {
+    "width": 17,
+    "height": 26,
+    "grid": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "letter": "B",
+          "number": 1
+        },
+        null,
+        {
+          "letter": "S",
+          "number": 2
+        },
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "letter": "I",
+          "number": null
+        },
+        null,
+        {
+          "letter": "P",
+          "number": 3
+        },
+        {
+          "letter": "E",
+          "number": null
+        },
+        {
+          "letter": "T",
+          "number": null
+        },
+        {
+          "letter": "R",
+          "number": null
+        },
+        {
+          "letter": "A",
+          "number": null
+        }
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "letter": "G",
+          "number": null
+        },
+        null,
+        {
+          "letter": "H",
+          "number": null
+        },
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "letter": "P",
+          "number": 4
+        },
+        null,
+        null,
+        null,
+        {
+          "letter": "B",
+          "number": null
+        },
+        null,
+        {
+          "letter": "I",
+          "number": null
+        },
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "letter": "P",
+          "number": 5
+        },
+        {
+          "letter": "A",
+          "number": null
+        },
+        {
+          "letter": "N",
+          "number": null
+        },
+        {
+          "letter": "T",
+          "number": null
+        },
+        {
+          "letter": "H",
+          "number": null
+        },
+        {
+          "letter": "E",
+          "number": null
+        },
+        {
+          "letter": "O",
+          "number": null
+        },
+        {
+          "letter": "N",
+          "number": null
+        },
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "letter": "R",
+          "number": null
+        },
+        null,
+        null,
+        null,
+        {
+          "letter": "N",
+          "number": null
+        },
+        null,
+        {
+          "letter": "X",
+          "number": null
+        },
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "letter": "T",
+          "number": null
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "letter": "H",
+          "number": null
+        },
+        null,
+        {
+          "letter": "C",
+          "number": 6
+        },
+        {
+          "letter": "O",
+          "number": 7
+        },
+        {
+          "letter": "L",
+          "number": null
+        },
+        {
+          "letter": "O",
+          "number": null
+        },
+        {
+          "letter": "S",
+          "number": null
+        },
+        {
+          "letter": "S",
+          "number": null
+        },
+        {
+          "letter": "E",
+          "number": null
+        },
+        {
+          "letter": "U",
+          "number": null
+        },
+        {
+          "letter": "M",
+          "number": null
+        }
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "letter": "E",
+          "number": null
+        },
+        null,
+        null,
+        {
+          "letter": "P",
+          "number": null
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        {
+          "letter": "S",
+          "number": 8
+        },
+        {
+          "letter": "T",
+          "number": null
+        },
+        {
+          "letter": "O",
+          "number": null
+        },
+        {
+          "letter": "N",
+          "number": null
+        },
+        {
+          "letter": "E",
+          "number": null
+        },
+        {
+          "letter": "H",
+          "number": null
+        },
+        {
+          "letter": "E",
+          "number": null
+        },
+        {
+          "letter": "N",
+          "number": null
+        },
+        {
+          "letter": "G",
+          "number": null
+        },
+        {
+          "letter": "E",
+          "number": null
+        },
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "letter": "O",
+          "number": null
+        },
+        null,
+        null,
+        {
+          "letter": "R",
+          "number": null
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        {
+          "letter": "K",
+          "number": 9
+        },
+        {
+          "letter": "R",
+          "number": null
+        },
+        {
+          "letter": "E",
+          "number": null
+        },
+        {
+          "letter": "M",
+          "number": null
+        },
+        {
+          "letter": "L",
+          "number": null
+        },
+        {
+          "letter": "I",
+          "number": null
+        },
+        {
+          "letter": "N",
+          "number": null
+        },
+        null,
+        {
+          "letter": "T",
+          "number": 10
+        },
+        {
+          "letter": "A",
+          "number": null
+        },
+        {
+          "letter": "J",
+          "number": null
+        },
+        {
+          "letter": "M",
+          "number": null
+        },
+        {
+          "letter": "A",
+          "number": null
+        },
+        {
+          "letter": "H",
+          "number": null
+        },
+        {
+          "letter": "A",
+          "number": null
+        },
+        {
+          "letter": "L",
+          "number": 11
+        },
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "letter": "H",
+          "number": null
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "letter": "O",
+          "number": null
+        },
+        null
+      ],
+      [
+        {
+          "letter": "A",
+          "number": 12
+        },
+        {
+          "letter": "L",
+          "number": null
+        },
+        {
+          "letter": "H",
+          "number": null
+        },
+        {
+          "letter": "A",
+          "number": 13
+        },
+        {
+          "letter": "M",
+          "number": null
+        },
+        {
+          "letter": "B",
+          "number": null
+        },
+        {
+          "letter": "R",
+          "number": null
+        },
+        {
+          "letter": "A",
+          "number": null
+        },
+        null,
+        {
+          "letter": "O",
+          "number": null
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "letter": "U",
+          "number": null
+        },
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        {
+          "letter": "C",
+          "number": null
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "letter": "U",
+          "number": null
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "letter": "V",
+          "number": null
+        },
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        {
+          "letter": "R",
+          "number": null
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "letter": "S",
+          "number": null
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "letter": "R",
+          "number": null
+        },
+        null
+      ],
+      [
+        null,
+        null,
+        {
+          "letter": "F",
+          "number": 14
+        },
+        {
+          "letter": "O",
+          "number": null
+        },
+        {
+          "letter": "R",
+          "number": null
+        },
+        {
+          "letter": "B",
+          "number": null
+        },
+        {
+          "letter": "I",
+          "number": null
+        },
+        {
+          "letter": "D",
+          "number": null
+        },
+        {
+          "letter": "D",
+          "number": null
+        },
+        {
+          "letter": "E",
+          "number": null
+        },
+        {
+          "letter": "N",
+          "number": null
+        },
+        null,
+        null,
+        null,
+        null,
+        {
+          "letter": "E",
+          "number": null
+        },
+        null
+      ],
+      [
+        null,
+        {
+          "letter": "P",
+          "number": 15
+        },
+        null,
+        {
+          "letter": "P",
+          "number": null
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        {
+          "letter": "Y",
+          "number": null
+        },
+        null,
+        {
+          "letter": "O",
+          "number": null
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        {
+          "letter": "R",
+          "number": null
+        },
+        null,
+        {
+          "letter": "L",
+          "number": null
+        },
+        null,
+        {
+          "letter": "G",
+          "number": 16
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        {
+          "letter": "V",
+          "number": 17
+        },
+        {
+          "letter": "A",
+          "number": null
+        },
+        {
+          "letter": "T",
+          "number": null
+        },
+        {
+          "letter": "I",
+          "number": null
+        },
+        {
+          "letter": "C",
+          "number": null
+        },
+        {
+          "letter": "A",
+          "number": null
+        },
+        {
+          "letter": "N",
+          "number": null
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        {
+          "letter": "M",
+          "number": null
+        },
+        null,
+        {
+          "letter": "S",
+          "number": null
+        },
+        null,
+        {
+          "letter": "T",
+          "number": null
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        {
+          "letter": "I",
+          "number": null
+        },
+        null,
+        null,
+        null,
+        {
+          "letter": "E",
+          "number": 18
+        },
+        {
+          "letter": "I",
+          "number": null
+        },
+        {
+          "letter": "F",
+          "number": null
+        },
+        {
+          "letter": "F",
+          "number": null
+        },
+        {
+          "letter": "E",
+          "number": null
+        },
+        {
+          "letter": "L",
+          "number": null
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        {
+          "letter": "D",
+          "number": null
+        },
+        null,
+        null,
+        null,
+        {
+          "letter": "W",
+          "number": null
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "letter": "A",
+          "number": null
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "letter": "Y",
+          "number": null
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "across": [
+      {
+        "number": 3,
+        "clue": "Rose-red city carved in rock",
+        "answer": "PETRA",
+        "row": 1,
+        "col": 12,
+        "length": 5
+      },
+      {
+        "number": 5,
+        "clue": "Domed temple in Rome",
+        "answer": "PANTHEON",
+        "row": 4,
+        "col": 5,
+        "length": 8
+      },
+      {
+        "number": 6,
+        "clue": "Ancient Roman arena",
+        "answer": "COLOSSEUM",
+        "row": 7,
+        "col": 8,
+        "length": 9
+      },
+      {
+        "number": 8,
+        "clue": "Ring of ancient standing stones",
+        "answer": "STONEHENGE",
+        "row": 9,
+        "col": 3,
+        "length": 10
+      },
+      {
+        "number": 9,
+        "clue": "Fortress at the heart of Moscow",
+        "answer": "KREMLIN",
+        "row": 11,
+        "col": 0,
+        "length": 7
+      },
+      {
+        "number": 10,
+        "clue": "White marble tomb in India",
+        "answer": "TAJMAHAL",
+        "row": 11,
+        "col": 8,
+        "length": 8
+      },
+      {
+        "number": 12,
+        "clue": "Moorish palace in Spain",
+        "answer": "ALHAMBRA",
+        "row": 13,
+        "col": 0,
+        "length": 8
+      },
+      {
+        "number": 14,
+        "clue": "Vast palace city in Beijing",
+        "answer": "FORBIDDEN",
+        "row": 16,
+        "col": 2,
+        "length": 9
+      },
+      {
+        "number": 17,
+        "clue": "Tiny city within Rome",
+        "answer": "VATICAN",
+        "row": 20,
+        "col": 0,
+        "length": 7
+      },
+      {
+        "number": 18,
+        "clue": "Famous iron tower in Paris",
+        "answer": "EIFFEL",
+        "row": 22,
+        "col": 5,
+        "length": 6
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Famous London clock tower",
+        "answer": "BIGBEN",
+        "row": 0,
+        "col": 10,
+        "length": 6
+      },
+      {
+        "number": 2,
+        "clue": "Lion-bodied statue in Egypt",
+        "answer": "SPHINX",
+        "row": 0,
+        "col": 12,
+        "length": 6
+      },
+      {
+        "number": 4,
+        "clue": "Temple atop the Acropolis",
+        "answer": "PARTHENON",
+        "row": 3,
+        "col": 6,
+        "length": 9
+      },
+      {
+        "number": 7,
+        "clue": "Sail-shaped Sydney landmark",
+        "answer": "OPERAHOUSE",
+        "row": 7,
+        "col": 9,
+        "length": 10
+      },
+      {
+        "number": 11,
+        "clue": "Paris museum with the Mona Lisa",
+        "answer": "LOUVRE",
+        "row": 11,
+        "col": 15,
+        "length": 6
+      },
+      {
+        "number": 13,
+        "clue": "Ancient hilltop citadel",
+        "answer": "ACROPOLIS",
+        "row": 13,
+        "col": 3,
+        "length": 9
+      },
+      {
+        "number": 15,
+        "clue": "Ancient Egyptian monument",
+        "answer": "PYRAMID",
+        "row": 17,
+        "col": 1,
+        "length": 7
+      },
+      {
+        "number": 16,
+        "clue": "St. Louis arch",
+        "answer": "GATEWAY",
+        "row": 19,
+        "col": 5,
+        "length": 7
+      }
+    ],
+    "placed_count": 18,
+    "skipped": []
+  }
+}
