@@ -1,6 +1,33 @@
 {
-  "generated_at": "2026-11-09T19:49:46.932173+00:00",
+  "generated_at": "2026-11-10T03:34:34.697634+00:00",
   "articles": [
+    {
+      "id": "1e8eade9d411",
+      "source": "Al Jazeera",
+      "headline": "Saudi Arabia downs missiles fired at Riyadh after Houthi attack on pipeline",
+      "excerpt": "Saudi forces intercept two missiles fired towards Riyadh, hours after reporting damage to key East-West pipeline.",
+      "link": "https://www.aljazeera.com/news/2026/11/10/saudi-arabia-downs-missiles-fired-at-riyadh-after-houthi-attack-on-pipeline?traffic_source=rss",
+      "published": "2026-11-10T03:17:51+00:00",
+      "featured": true
+    },
+    {
+      "id": "90a8b601199a",
+      "source": "The Lever",
+      "headline": "The Coming Democratic Party Battle On Taxing The Rich",
+      "excerpt": "The midterms gave Democrats power to tax millionaires and billionaires. Their corporate wing may offer the donor class an escape route.",
+      "link": "https://www.levernews.com/the-coming-democratic-party-battle-on-taxing-the-rich/",
+      "published": "2026-11-09T21:42:58+00:00",
+      "featured": true
+    },
+    {
+      "id": "c313ef29f59a",
+      "source": "404 Media",
+      "headline": "Dad Asked 6-Year-Old Daughter if ‘She Had the Gun’ Before He Left Her in Line for Pokémon Cards",
+      "excerpt": "Police arrested a man in South Carolina after he left his daughter asleep in a Target parking lot so he could keep his place in line.",
+      "link": "https://www.404media.co/dad-asked-6-year-old-daughter-if-she-had-the-gun-before-he-left-her-in-line-for-pokemon-cards/",
+      "published": "2026-11-09T20:42:34+00:00",
+      "featured": true
+    },
     {
       "id": "9fe386931096",
       "source": "The Intercept",
@@ -8,16 +35,7 @@
       "excerpt": "“I think there’s a high chance that it will be successful,” a member of Congress told The Intercept. The post Impeachment Vote Looms for Hegseth appeared first on The Intercept.",
       "link": "https://theintercept.com/2026/11/09/impeachment-vote-looms-hegseth/",
       "published": "2026-11-09T19:15:52+00:00",
-      "featured": true
-    },
-    {
-      "id": "e1524bbf7627",
-      "source": "Al Jazeera",
-      "headline": "US agencies unite to combat rogue drone threats nationwide",
-      "excerpt": "More than $40bn allocated by NATO for counter-drone technologies as US agencies ramp up measures against aerial threats.",
-      "link": "https://www.aljazeera.com/news/2026/11/9/us-agencies-unite-to-combat-rogue-drone-threats-nationwide?traffic_source=rss",
-      "published": "2026-11-09T19:07:56+00:00",
-      "featured": true
+      "featured": false
     },
     {
       "id": "34707f272cb7",
@@ -26,15 +44,6 @@
       "excerpt": "Big Tech can't sneak data centers into communities anymore, so they try to buy people out.",
       "link": "https://substack.perfectunion.us/p/a-10000-bribe-to-build-a-data-center",
       "published": "2026-11-09T19:01:03+00:00",
-      "featured": true
-    },
-    {
-      "id": "9362e83cd1e0",
-      "source": "The Lever",
-      "headline": "Democrats Won An Anti-Corruption Mandate. Now They Must Deliver.",
-      "excerpt": "The Blue Wave rejected a government for sale. Publicly financed elections could keep it from being bought again.",
-      "link": "https://www.levernews.com/democrats-won-an-anti-corruption-mandate-now-they-must-deliver/",
-      "published": "2026-11-09T17:38:49+00:00",
       "featured": false
     },
     {
@@ -53,15 +62,6 @@
       "excerpt": "The post Watch: Where Do Our Generic Drugs Come From? We Dug to Find Out. appeared first on ProPublica.",
       "link": "https://www.propublica.org/article/generic-prescription-drug-supply-fda-explained",
       "published": "2026-11-09T15:55:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "145ce2e3d337",
-      "source": "404 Media",
-      "headline": "Bad news for kinky Brits",
-      "excerpt": "Also: Wanna get off this planet? There's a job open on the moon.",
-      "link": "https://www.404media.co/bad-news-for-kinky-brits/",
-      "published": "2026-11-09T14:29:53+00:00",
       "featured": false
     },
     {
@@ -110,12 +110,30 @@
       "featured": false
     },
     {
-      "id": "873f11b357f1",
+      "id": "3d70b2a4e8c7",
       "source": "Al Jazeera",
-      "headline": "Trump reverses stance, alleges fraud in recent US midterm elections",
-      "excerpt": "Democratic Senate leader Schumer criticises Trump's poll denialism, calling it an avoidable return to baseless claims.",
-      "link": "https://www.aljazeera.com/news/2026/11/9/trump-reverses-stance-alleges-fraud-in-recent-us-midterm-elections?traffic_source=rss",
-      "published": "2026-11-09T19:07:42+00:00",
+      "headline": "Newly-elected Democrats react to Hegseth impeachment bid",
+      "excerpt": "Newly-elected Democrats say holding Defense Secretary Pete Hegseth accountable, will be a priority in the next Congress.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/10/newly-elected-democrats-react-to-hegseth-impeachment-bid?traffic_source=rss",
+      "published": "2026-11-10T03:16:44+00:00",
+      "featured": false
+    },
+    {
+      "id": "9362e83cd1e0",
+      "source": "The Lever",
+      "headline": "Democrats Won An Anti-Corruption Mandate. Now They Must Deliver.",
+      "excerpt": "The Blue Wave rejected a government for sale. Publicly financed elections could keep it from being bought again.",
+      "link": "https://www.levernews.com/democrats-won-an-anti-corruption-mandate-now-they-must-deliver/",
+      "published": "2026-11-09T17:38:49+00:00",
+      "featured": false
+    },
+    {
+      "id": "145ce2e3d337",
+      "source": "404 Media",
+      "headline": "Bad news for kinky Brits",
+      "excerpt": "Also: Wanna get off this planet? There's a job open on the moon.",
+      "link": "https://www.404media.co/bad-news-for-kinky-brits/",
+      "published": "2026-11-09T14:29:53+00:00",
       "featured": false
     },
     {
@@ -155,30 +173,12 @@
       "featured": false
     },
     {
-      "id": "28f938ba2920",
-      "source": "The Lever",
-      "headline": "Lever Weekly: The Wave Is Over. The Fight Isn’t.",
-      "excerpt": "Billionaire backfires, Democratic power struggles, and more from The Lever this week.",
-      "link": "https://www.levernews.com/lever-weekly-the-wave-is-over-the-fight-isnt/",
-      "published": "2026-11-08T13:26:00+00:00",
-      "featured": false
-    },
-    {
       "id": "2fc8a75910e1",
       "source": "More Perfect Union",
       "headline": "Democrats Won Back the Working Class: The Five Things They Should Do Now.",
       "excerpt": "To keep and maintain working-class majorities, Democrats need to champion these priorities.",
       "link": "https://substack.perfectunion.us/p/democrats-won-back-the-working-class",
       "published": "2026-11-07T14:37:33+00:00",
-      "featured": false
-    },
-    {
-      "id": "889b0feabde8",
-      "source": "404 Media",
-      "headline": "How Earth Lost a Billion Years of Its History",
-      "excerpt": "Earth is missing a huge chunk of its geological record before the Cambrian period 538 million years ago, when complex life emerged. A new study suggests that the gap was caused by the rise and fall of ancient...",
-      "link": "https://www.404media.co/how-earth-lost-a-billion-years-of-its-history/",
-      "published": "2026-11-07T13:00:00+00:00",
       "featured": false
     },
     {
@@ -218,12 +218,12 @@
       "featured": false
     },
     {
-      "id": "b69efd8a54ac",
+      "id": "1ccab107978d",
       "source": "Al Jazeera",
-      "headline": "What’s next for US Republicans and Trumpism?",
-      "excerpt": "Republican politician Tom Garrett argues his party lost US midterm elections because it made promises it couldn’t keep.",
-      "link": "https://www.aljazeera.com/video/the-bottom-line/2026/11/9/whats-next-for-us-republicans-and-trumpism?traffic_source=rss",
-      "published": "2026-11-09T19:02:54+00:00",
+      "headline": "Harare demolitions leave families homeless after years of building",
+      "excerpt": "Residents who say they legally bought land have seen their homes demolished.",
+      "link": "https://www.aljazeera.com/news/2026/11/10/harare-demolitions-leave-families-homeless-after-years-of-building?traffic_source=rss",
+      "published": "2026-11-10T02:48:19+00:00",
       "featured": false
     },
     {
@@ -236,21 +236,21 @@
       "featured": false
     },
     {
-      "id": "458bd81d80f9",
-      "source": "The Intercept",
-      "headline": "The Pressure on LA’s First Socialist Mayor",
-      "excerpt": "Nithya Raman carried the democratic socialist label without running a socialist campaign. Will she govern like one? The post The Pressure on LA’s First Socialist Mayor appeared first on The Intercept.",
-      "link": "https://theintercept.com/2026/11/08/nithya-raman-la-mayor-socialist-progressive/",
-      "published": "2026-11-08T11:00:00+00:00",
+      "id": "28f938ba2920",
+      "source": "The Lever",
+      "headline": "Lever Weekly: The Wave Is Over. The Fight Isn’t.",
+      "excerpt": "Billionaire backfires, Democratic power struggles, and more from The Lever this week.",
+      "link": "https://www.levernews.com/lever-weekly-the-wave-is-over-the-fight-isnt/",
+      "published": "2026-11-08T13:26:00+00:00",
       "featured": false
     },
     {
-      "id": "7f66fed8cfdf",
-      "source": "The Lever",
-      "headline": "Corporate Democrats Just Admitted Bernie Was Right",
-      "excerpt": "After declaring war on the left, Third Way is celebrating James Talarico — and admitting that Bernie Sanders-style populism is now the political mainstream.",
-      "link": "https://www.levernews.com/corporate-democrats-just-admitted-bernie-was-right/",
-      "published": "2026-11-08T00:16:30+00:00",
+      "id": "458bd81d80f9",
+      "source": "The Intercept",
+      "headline": "The Pressure on LA’s First Self-Proclaimed Socialist Mayor",
+      "excerpt": "Nithya Raman carried the democratic socialist label without running a socialist campaign. Will she govern like one? The post The Pressure on LA’s First Self-Proclaimed Socialist Mayor appeared first on The Intercept.",
+      "link": "https://theintercept.com/2026/11/08/nithya-raman-la-mayor-socialist-progressive/",
+      "published": "2026-11-08T11:00:00+00:00",
       "featured": false
     },
     {
@@ -263,21 +263,21 @@
       "featured": false
     },
     {
+      "id": "889b0feabde8",
+      "source": "404 Media",
+      "headline": "How Earth Lost a Billion Years of Its History",
+      "excerpt": "Earth is missing a huge chunk of its geological record before the Cambrian period 538 million years ago, when complex life emerged. A new study suggests that the gap was caused by the rise and fall of ancient...",
+      "link": "https://www.404media.co/how-earth-lost-a-billion-years-of-its-history/",
+      "published": "2026-11-07T13:00:00+00:00",
+      "featured": false
+    },
+    {
       "id": "1b7aa24944b2",
       "source": "OCCRP",
       "headline": "Paraguayan President Impeached and Arrested Amid Financial Meltdown and Mass Protests",
       "excerpt": "Former Paraguayan President Santiago Peña has been removed from office and arrested. Among other allegations, he is accused of trying to protect a digital bank he formerly held ownership in. Authorities this week...",
       "link": "https://www.occrp.org/en/news/paraguayan-president-impeached-and-arrested-amid-financial-meltdown-and-mass-protests",
       "published": "2026-11-07T09:04:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "b7bcb1cedc49",
-      "source": "404 Media",
-      "headline": "Behind the Blog: Dam's Bursting",
-      "excerpt": "This week, we discuss election outcomes and code as a human endeavor.",
-      "link": "https://www.404media.co/behind-the-blog-dams-bursting/",
-      "published": "2026-11-06T17:12:55+00:00",
       "featured": false
     },
     {
@@ -326,12 +326,12 @@
       "featured": false
     },
     {
-      "id": "6b2cbe07192f",
+      "id": "a04fd7adeba6",
       "source": "Al Jazeera",
-      "headline": "Two security breaches near White House prompt brief lockdown",
-      "excerpt": "Active investigations are under way after a vehicle crashed at Lafayette Park and a second individual jumped a barrier.",
-      "link": "https://www.aljazeera.com/news/2026/11/9/two-security-breaches-near-white-house-prompt-brief-lockdown?traffic_source=rss",
-      "published": "2026-11-09T18:57:01+00:00",
+      "headline": "Russia, Ukraine and US to meet as Zelenskyy claims battlefield successes",
+      "excerpt": "Zelenskyy claims Russia 'suffering record losses' as Trump says US seeing 'strong inclination' to end war in Ukraine.",
+      "link": "https://www.aljazeera.com/news/2026/11/10/russia-ukraine-and-us-to-meet-as-zelenskyy-claims-battlefield-successes?traffic_source=rss",
+      "published": "2026-11-10T02:45:14+00:00",
       "featured": false
     },
     {
@@ -344,12 +344,12 @@
       "featured": false
     },
     {
-      "id": "9079cb4fab15",
+      "id": "7f66fed8cfdf",
       "source": "The Lever",
-      "headline": "You Love To See It: The Other Winners Of Election Night",
-      "excerpt": "The rich get their tax bill, the freedom state strikes back, voters cut the corporate money cord, and the AI overlords get evicted.",
-      "link": "https://www.levernews.com/you-love-to-see-it-the-other-winners-of-election-night/",
-      "published": "2026-11-07T14:31:00+00:00",
+      "headline": "Corporate Democrats Just Admitted Bernie Was Right",
+      "excerpt": "After declaring war on the left, Third Way is celebrating James Talarico — and admitting that Bernie Sanders-style populism is now the political mainstream.",
+      "link": "https://www.levernews.com/corporate-democrats-just-admitted-bernie-was-right/",
+      "published": "2026-11-08T00:16:30+00:00",
       "featured": false
     },
     {
@@ -371,12 +371,12 @@
       "featured": false
     },
     {
-      "id": "d1ca0eb42c34",
+      "id": "b7bcb1cedc49",
       "source": "404 Media",
-      "headline": "UK Sex Workers Wake Up to Sites Purging Their Content Following Porn Ban",
-      "excerpt": "Adult creators are left in the dark as content that they didn't believe broke the law disappears from clip sites.",
-      "link": "https://www.404media.co/clips4sale-content-removed-uk-porn-law/",
-      "published": "2026-11-06T15:53:36+00:00",
+      "headline": "Behind the Blog: Dam's Bursting",
+      "excerpt": "This week, we discuss election outcomes and code as a human endeavor.",
+      "link": "https://www.404media.co/behind-the-blog-dams-bursting/",
+      "published": "2026-11-06T17:12:55+00:00",
       "featured": false
     },
     {
@@ -425,12 +425,21 @@
       "featured": false
     },
     {
-      "id": "f47f2c083c04",
+      "id": "6d640a431463",
       "source": "Al Jazeera",
-      "headline": "Al Jazeera.net co-founder and cartoonist Shujaat Ali dies aged 54",
-      "excerpt": "Ali was an award-winning pioneer of animated political caricatures and Pakistan's first court artist.",
-      "link": "https://www.aljazeera.com/news/2026/11/9/al-jazeera-net-co-founder-and-cartoonist-shujaat-ali-dies-aged-54?traffic_source=rss",
-      "published": "2026-11-09T18:50:29+00:00",
+      "headline": "Cameroon sets date for twice-delayed legislative and local elections",
+      "excerpt": "President Paul Biya, the world's oldest leader, sets February 7 for Cameroon's delayed legislative and local polls.",
+      "link": "https://www.aljazeera.com/news/2026/11/10/cameroon-sets-date-for-twice-delayed-legislative-and-local-elections?traffic_source=rss",
+      "published": "2026-11-10T02:03:59+00:00",
+      "featured": false
+    },
+    {
+      "id": "9079cb4fab15",
+      "source": "The Lever",
+      "headline": "You Love To See It: The Other Winners Of Election Night",
+      "excerpt": "The rich get their tax bill, the freedom state strikes back, voters cut the corporate money cord, and the AI overlords get evicted.",
+      "link": "https://www.levernews.com/you-love-to-see-it-the-other-winners-of-election-night/",
+      "published": "2026-11-07T14:31:00+00:00",
       "featured": false
     },
     {
@@ -440,15 +449,6 @@
       "excerpt": "The post Texas’ School Voucher Program Could Be “Unrecognizable, If Not Extinct,” Says Democratic Lawmaker appeared first on ProPublica.",
       "link": "https://www.propublica.org/article/texas-school-vouchers-gina-hinojosa",
       "published": "2026-11-07T11:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "9d8469083d28",
-      "source": "The Lever",
-      "headline": "We Exposed Democrats’ Billionaire Backers. Now They’re Blocking Our Reporters.",
-      "excerpt": "A billionaire-backed group is gathering top Democrats to shape the party's future — while blocking our reporters after we exposed its funding.",
-      "link": "https://www.levernews.com/we-exposed-democrats-billionaire-backers-now-theyre-blocking-our-reporters/",
-      "published": "2026-11-06T22:10:22+00:00",
       "featured": false
     },
     {
@@ -470,12 +470,12 @@
       "featured": false
     },
     {
-      "id": "e5fc377c4c19",
+      "id": "d1ca0eb42c34",
       "source": "404 Media",
-      "headline": "Everyone Everywhere Hated Meta’s New AI Training Terms. Now, They’re On Pause",
-      "excerpt": "Back to the drawing board!",
-      "link": "https://www.404media.co/meta-generative-ai-commercial-terms-on-pause/",
-      "published": "2026-11-05T21:01:55+00:00",
+      "headline": "UK Sex Workers Wake Up to Sites Purging Their Content Following Porn Ban",
+      "excerpt": "Adult creators are left in the dark as content that they didn't believe broke the law disappears from clip sites.",
+      "link": "https://www.404media.co/clips4sale-content-removed-uk-porn-law/",
+      "published": "2026-11-06T15:53:36+00:00",
       "featured": false
     },
     {
@@ -524,21 +524,21 @@
       "featured": false
     },
     {
-      "id": "ca7c41fb3361",
+      "id": "68b9aafc5a8c",
       "source": "Al Jazeera",
-      "headline": "Qatar PM meets with Trump for talks on ending war on Iran",
-      "excerpt": "Qatari Prime Minister Sheikh Mohammed bin Abdulrahman bin Jassim Al Thani has met with US President Donald Trump.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/9/qatar-pm-meets-with-trump-for-talks-on-ending-war-on-iran?traffic_source=rss",
-      "published": "2026-11-09T18:48:00+00:00",
+      "headline": "Israel’s Shin Bet finds no evidence of foreign election interference",
+      "excerpt": "Israel's internal security service has found no evidence of foreign interference in last month’s election.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/10/israels-shin-bet-finds-no-evidence-of-foreign-election-interference?traffic_source=rss",
+      "published": "2026-11-10T01:59:59+00:00",
       "featured": false
     },
     {
-      "id": "88cd784f6490",
+      "id": "9d8469083d28",
       "source": "The Lever",
-      "headline": "El-Sayed: Fire The Parliamentarian If She Blocks Healthcare Reform",
-      "excerpt": "In an exclusive interview, Michigan’s senator-elect says Democrats should replace the Senate parliamentarian if she uses “arcane” rules to block health care legislation.",
-      "link": "https://www.levernews.com/el-sayed-fire-the-parliamentarian-if-she-blocks-healthcare-reform/",
-      "published": "2026-11-06T20:44:06+00:00",
+      "headline": "We Exposed Democrats’ Billionaire Backers. Now They’re Blocking Our Reporters.",
+      "excerpt": "A billionaire-backed group is gathering top Democrats to shape the party's future — while blocking our reporters after we exposed its funding.",
+      "link": "https://www.levernews.com/we-exposed-democrats-billionaire-backers-now-theyre-blocking-our-reporters/",
+      "published": "2026-11-06T22:10:22+00:00",
       "featured": false
     }
   ]
