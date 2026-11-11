@@ -1,14 +1,41 @@
 {
-  "generated_at": "2026-11-11T06:22:59.929922+00:00",
+  "generated_at": "2026-11-11T17:08:01.947808+00:00",
   "articles": [
     {
-      "id": "799def459ef7",
+      "id": "6caa14892c69",
       "source": "Al Jazeera",
-      "headline": "South African swimmer Tatjana Smith switches allegiance to Netherlands",
-      "excerpt": "Double Olympic gold medallist cites 'financial and practical challenges' of swimming.",
-      "link": "https://www.aljazeera.com/sports/2026/11/11/south-african-swimmer-tatjana-smith-switches-allegiance-to-netherlands?traffic_source=rss",
-      "published": "2026-11-11T05:52:28+00:00",
+      "headline": "Russia-Ukraine talks in UAE secure major prisoner exchange deal",
+      "excerpt": "Russia and Ukraine have agreed to a major prisoner exchange following two days of US-mediated talks in Abu Dhabi",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/11/russia-ukraine-talks-in-uae-secure-major-prisoner-exchange-deal?traffic_source=rss",
+      "published": "2026-11-11T16:58:32+00:00",
       "featured": true
+    },
+    {
+      "id": "5ebb44aed5fb",
+      "source": "404 Media",
+      "headline": "It's One Banana Michael, What Could It Cost?",
+      "excerpt": "Silicon Valley tries to understand the election.",
+      "link": "https://www.404media.co/its-one-banana-michael-what-could-it-cost/",
+      "published": "2026-11-11T16:11:40+00:00",
+      "featured": true
+    },
+    {
+      "id": "f8234fe9f85a",
+      "source": "ProPublica",
+      "headline": "A Newborn Died in a Faith-Healing Sect. The State — and One Ex-Believer — Stepped in to Save Her Twin.",
+      "excerpt": "The post A Newborn Died in a Faith-Healing Sect. The State — and One Ex-Believer — Stepped in to Save Her Twin. appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/followers-of-christ-oregon-city-evelyn-marshall-phillips",
+      "published": "2026-11-11T13:05:00+00:00",
+      "featured": true
+    },
+    {
+      "id": "04bf3f94d14c",
+      "source": "OCCRP",
+      "headline": "Kyrgyz Government Sold Mountain Resort to NGO Tied to Sanctioned Russian Influence Effort",
+      "excerpt": "The luxurious Bars resort, seized from a slain underworld figure, was quietly sold to a little-known entity that received funding from ‘Evrazia,’ a Russian organization sanctioned for pro-Kremlin influence operations...",
+      "link": "https://www.occrp.org/en/investigation/kyrgyz-government-sold-mountain-resort-to-ngo-tied-to-sanctioned-russian-influence-effort",
+      "published": "2026-11-11T11:00:00+00:00",
+      "featured": false
     },
     {
       "id": "47f457e0e924",
@@ -17,7 +44,7 @@
       "excerpt": "House Republicans voted together to sideline an attempt by Rep. Thomas Massie, R-Ky., to impeach War Secretary Pete Hegseth. The post Hegseth Survives Impeachment Attempt appeared first on The Intercept.",
       "link": "https://theintercept.com/2026/11/10/hegseth-no-impeachment-house-vote/",
       "published": "2026-11-11T00:23:03+00:00",
-      "featured": true
+      "featured": false
     },
     {
       "id": "38cbb9720fc5",
@@ -26,7 +53,7 @@
       "excerpt": "A federal appeals court says forcing corporations to disclose their biggest sources of climate pollution is likely unconstitutional.",
       "link": "https://www.levernews.com/corporations-win-free-speech-right-to-hide-pollution/",
       "published": "2026-11-10T21:46:53+00:00",
-      "featured": true
+      "featured": false
     },
     {
       "id": "ae920e9276e6",
@@ -38,39 +65,12 @@
       "featured": false
     },
     {
-      "id": "aa2c4fadee61",
-      "source": "ProPublica",
-      "headline": "A Natural Gas Project Off Alaska’s Coast May Be a Russian Ploy for Intel on the Arctic",
-      "excerpt": "The post A Natural Gas Project Off Alaska’s Coast May Be a Russian Ploy for Intel on the Arctic appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/alaska-prudhoe-lng-polar-novatek",
-      "published": "2026-11-10T19:00:00+00:00",
-      "featured": false
-    },
-    {
       "id": "19f92bb3f004",
       "source": "More Perfect Union",
       "headline": "The Midterms’ Biggest Loser is a Political Lesson",
       "excerpt": "Voters were clear: regulate data centers or lose hard.",
       "link": "https://substack.perfectunion.us/p/the-midterms-biggest-loser-is-a-political",
       "published": "2026-11-10T17:00:59+00:00",
-      "featured": false
-    },
-    {
-      "id": "2e4cfdd6aef3",
-      "source": "404 Media",
-      "headline": "Come and Take It",
-      "excerpt": "AI companies crack down on 'reverse engineer anything.'",
-      "link": "https://www.404media.co/come-and-take-it/",
-      "published": "2026-11-10T14:41:26+00:00",
-      "featured": false
-    },
-    {
-      "id": "670e8fd5e7d9",
-      "source": "OCCRP",
-      "headline": "Interpol Crackdown on Migrant Smuggling Nets 262 Arrests",
-      "excerpt": "",
-      "link": "https://www.occrp.org/en/news/interpol-crackdown-on-migrant-smuggling-nets-262-arrests",
-      "published": "2026-11-10T13:47:00+00:00",
       "featured": false
     },
     {
@@ -110,12 +110,30 @@
       "featured": false
     },
     {
-      "id": "81c38962384c",
+      "id": "ba272f0fc57b",
       "source": "Al Jazeera",
-      "headline": "Yemeni forces, Houthis exchange attacks, claim to inflict heavy losses",
-      "excerpt": "Yemen's government says 190 rebel fighters killed and wounded, as Houthis also claim inflicting heavy losses.",
-      "link": "https://www.aljazeera.com/news/2026/11/11/yemeni-forces-houthis-exchange-attacks-claim-to-inflict-heavy-losses?traffic_source=rss",
-      "published": "2026-11-11T05:39:26+00:00",
+      "headline": "Palestinian American activist refused UK entry for Gaza fundraiser",
+      "excerpt": "A Palestinian American activist has been refused entry to the UK to attend his charity’s annual Gaza fundraiser.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/11/palestinian-american-activist-refused-uk-entry-for-gaza-fundraiser?traffic_source=rss",
+      "published": "2026-11-11T16:52:59+00:00",
+      "featured": false
+    },
+    {
+      "id": "a459f82848a6",
+      "source": "404 Media",
+      "headline": "Silicon Valley Podcast Hosts Try to Understand Why Regular People Are Mad",
+      "excerpt": "The All-In podcast contemplates the \"ornery mood\" of America's \"bottom half of non-equity holders.\"",
+      "link": "https://www.404media.co/silicon-valley-podcast-hosts-try-to-understand-why-regular-people-are-mad/",
+      "published": "2026-11-11T15:12:05+00:00",
+      "featured": false
+    },
+    {
+      "id": "9213fa358173",
+      "source": "ProPublica",
+      "headline": "Prophecy, Scorn and a Rejection of This World: The Forbidding Vision of a Faith-Healing Preacher",
+      "excerpt": "The post Prophecy, Scorn and a Rejection of This World: The Forbidding Vision of a Faith-Healing Preacher appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/walter-white-faith-healing-oregon",
+      "published": "2026-11-11T13:00:00+00:00",
       "featured": false
     },
     {
@@ -146,30 +164,12 @@
       "featured": false
     },
     {
-      "id": "e8edc7a56f97",
-      "source": "404 Media",
-      "headline": "'Reverse Engineer Anything': AI Companies Crack Down on the Coolest Thing People Were Doing With AI",
-      "excerpt": "The future of hacking your devices is in local and open-weight AI.",
-      "link": "https://www.404media.co/reverse-engineer-anything-ai-companies-crack-down-on-the-coolest-thing-people-were-doing-with-ai/",
-      "published": "2026-11-10T14:21:37+00:00",
-      "featured": false
-    },
-    {
-      "id": "1db3044e0f49",
+      "id": "670e8fd5e7d9",
       "source": "OCCRP",
-      "headline": "From Politicians to Academics, Hundreds Around the Globe Interviewed and Featured in Notorious Russian Disinformation Campaign",
-      "excerpt": "Former American, French, and Spanish intelligence officers, nearly a dozen far-right German politicians, and academics from around the globe: These are some of the hundreds of personalities who have been interviewed and...",
-      "link": "https://www.occrp.org/en/investigation/from-politicians-to-academics-hundreds-around-the-globe-interviewed-and-featured-in-notorious-russian-disinformation-campaign",
-      "published": "2026-11-10T11:56:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "4d8e4f100736",
-      "source": "ProPublica",
-      "headline": "The Garbage Man: Bill Gates Has Earned Billions Investing in Climate-Polluting Landfills",
-      "excerpt": "The post The Garbage Man: Bill Gates Has Earned Billions Investing in Climate-Polluting Landfills appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/bill-gates-republic-landfill-methane-pollution",
-      "published": "2026-11-10T10:00:00+00:00",
+      "headline": "Interpol Crackdown on Migrant Smuggling Nets 262 Arrests",
+      "excerpt": "",
+      "link": "https://www.occrp.org/en/news/interpol-crackdown-on-migrant-smuggling-nets-262-arrests",
+      "published": "2026-11-10T13:47:00+00:00",
       "featured": false
     },
     {
@@ -218,12 +218,21 @@
       "featured": false
     },
     {
-      "id": "92a0a78d8ebb",
+      "id": "48cbc287b0c9",
       "source": "Al Jazeera",
-      "headline": "‘I pay $500 for 5 square metres’: Spain’s protesters, in their own words",
-      "excerpt": "Young people are stuck in the family home or forced into cramped, overpriced rentals with little security or control.",
-      "link": "https://www.aljazeera.com/news/2026/11/11/i-pay-500-for-5-square-metres-spains-protesters-in-their-own-words?traffic_source=rss",
-      "published": "2026-11-11T05:16:57+00:00",
+      "headline": "Israeli army kills Palestinian footballer Mahmoud Kamal Abdel-Malek in Gaza",
+      "excerpt": "Abdel-Malek, the captain and goalkeeper of Gaza Sports Club, recently played in the Thousand Martyrs Cup final.",
+      "link": "https://www.aljazeera.com/sports/2026/11/11/israeli-army-kills-palestinian-footballer-mahmoud-kamal-abdel-malek-in-gaza?traffic_source=rss",
+      "published": "2026-11-11T16:48:48+00:00",
+      "featured": false
+    },
+    {
+      "id": "0d2f26772ea3",
+      "source": "ProPublica",
+      "headline": "“We Have No One”: How Trump’s Dismantling of the VA Left a Veterans Hospital in Crisis",
+      "excerpt": "The post “We Have No One”: How Trump’s Dismantling of the VA Left a Veterans Hospital in Crisis appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/east-orange-va-hospital-veterans-decline-new-jersey",
+      "published": "2026-11-11T10:00:00+00:00",
       "featured": false
     },
     {
@@ -254,30 +263,21 @@
       "featured": false
     },
     {
-      "id": "c313ef29f59a",
+      "id": "2e4cfdd6aef3",
       "source": "404 Media",
-      "headline": "Dad Asked 6-Year-Old Daughter if ‘She Had the Gun’ Before He Left Her in Line for Pokémon Cards",
-      "excerpt": "Police arrested a man in South Carolina after he left his daughter asleep in a Target parking lot so he could keep his place in line.",
-      "link": "https://www.404media.co/dad-asked-6-year-old-daughter-if-she-had-the-gun-before-he-left-her-in-line-for-pokemon-cards/",
-      "published": "2026-11-09T20:42:34+00:00",
+      "headline": "Come and Take It",
+      "excerpt": "AI companies crack down on 'reverse engineer anything.'",
+      "link": "https://www.404media.co/come-and-take-it/",
+      "published": "2026-11-10T14:41:26+00:00",
       "featured": false
     },
     {
-      "id": "a9e1177c27eb",
-      "source": "ProPublica",
-      "headline": "Watch: Where Do Our Generic Drugs Come From? We Dug to Find Out.",
-      "excerpt": "The post Watch: Where Do Our Generic Drugs Come From? We Dug to Find Out. appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/generic-prescription-drug-supply-fda-explained",
-      "published": "2026-11-09T15:55:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "466ef5d9380b",
+      "id": "1db3044e0f49",
       "source": "OCCRP",
-      "headline": "Ex-Belgrade Police Chief Denies Charges in 'Body in a Barrel' Case",
-      "excerpt": "Prosecutors dropped the most severe charges against Veselin Milić, who remains a top police official despite his alleged ties to the gruesome killing.",
-      "link": "https://www.occrp.org/en/news/ex-belgrade-police-chief-denies-charges-in-body-in-a-barrel-case",
-      "published": "2026-11-09T14:00:00+00:00",
+      "headline": "From Politicians to Academics, Hundreds Around the Globe Interviewed and Featured in Notorious Russian Disinformation Campaign",
+      "excerpt": "Former American, French, and Spanish intelligence officers, nearly a dozen far-right German politicians, and academics from around the globe: These are some of the hundreds of personalities who have been interviewed and...",
+      "link": "https://www.occrp.org/en/investigation/from-politicians-to-academics-hundreds-around-the-globe-interviewed-and-featured-in-notorious-russian-disinformation-campaign",
+      "published": "2026-11-10T11:56:00+00:00",
       "featured": false
     },
     {
@@ -326,12 +326,21 @@
       "featured": false
     },
     {
-      "id": "82fd68db9e99",
+      "id": "06dbca5b3b1c",
       "source": "Al Jazeera",
-      "headline": "US charges three men for allegedly plotting attack on UK base",
-      "excerpt": "The US has charged three men over alleged involvement in a plot to attack a Royal Air Force Base in Fairford, UK.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/11/us-charges-three-men-for-allegedly-plotting-attack-on-uk-base?traffic_source=rss",
-      "published": "2026-11-11T05:01:47+00:00",
+      "headline": "‘It’s just too expensive’: Housing and wages at the heart of Spain’s strike",
+      "excerpt": "Mass walkout across several cities marks first general strike in 14 years.",
+      "link": "https://www.aljazeera.com/news/2026/11/11/its-just-too-expensive-housing-and-wages-at-the-heart-of-spains-strike?traffic_source=rss",
+      "published": "2026-11-11T16:20:13+00:00",
+      "featured": false
+    },
+    {
+      "id": "aa2c4fadee61",
+      "source": "ProPublica",
+      "headline": "A Natural Gas Project Off Alaska’s Coast May Be a Russian Ploy for Intel on the Arctic",
+      "excerpt": "The post A Natural Gas Project Off Alaska’s Coast May Be a Russian Ploy for Intel on the Arctic appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/alaska-prudhoe-lng-polar-novatek",
+      "published": "2026-11-10T19:00:00+00:00",
       "featured": false
     },
     {
@@ -341,6 +350,15 @@
       "excerpt": "A new report highlights Kalshi and Polymarket’s Democratic hires and spending just as Congress is expected to launch probes into betting markets. The post Kalshi Is Cozy With Trump — But It’s Ramping Up Dem Hires and...",
       "link": "https://theintercept.com/2026/11/10/kalshi-polymarket-betting-hiring-democrats/",
       "published": "2026-11-10T17:35:50+00:00",
+      "featured": false
+    },
+    {
+      "id": "e8edc7a56f97",
+      "source": "404 Media",
+      "headline": "'Reverse Engineer Anything': AI Companies Crack Down on the Coolest Thing People Were Doing With AI",
+      "excerpt": "The future of hacking your devices is in local and open-weight AI.",
+      "link": "https://www.404media.co/reverse-engineer-anything-ai-companies-crack-down-on-the-coolest-thing-people-were-doing-with-ai/",
+      "published": "2026-11-10T14:21:37+00:00",
       "featured": false
     },
     {
@@ -362,30 +380,12 @@
       "featured": false
     },
     {
-      "id": "145ce2e3d337",
-      "source": "404 Media",
-      "headline": "Bad news for kinky Brits",
-      "excerpt": "Also: Wanna get off this planet? There's a job open on the moon.",
-      "link": "https://www.404media.co/bad-news-for-kinky-brits/",
-      "published": "2026-11-09T14:29:53+00:00",
-      "featured": false
-    },
-    {
-      "id": "2ab4610d890d",
+      "id": "466ef5d9380b",
       "source": "OCCRP",
-      "headline": "High-Profile Smuggling Raids in Hungary Point to Former PM's Brother",
-      "excerpt": "Police arrested multiple suspects Monday in an alleged visa fraud operation, with local media and politicians quickly linking the sweep to Áron Orbán.",
-      "link": "https://www.occrp.org/en/news/high-profile-smuggling-raids-in-hungary-point-to-former-pms-brother",
-      "published": "2026-11-09T11:18:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "5721de704e75",
-      "source": "ProPublica",
-      "headline": "Firm Linked to Trump’s Sons Got Nearly $40 Million in Federal Contracts to Screen for Ebola and Other Diseases",
-      "excerpt": "The post Firm Linked to Trump’s Sons Got Nearly $40 Million in Federal Contracts to Screen for Ebola and Other Diseases appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/trump-sons-xwell-xprestest-government-contracts",
-      "published": "2026-11-09T11:00:00+00:00",
+      "headline": "Ex-Belgrade Police Chief Denies Charges in 'Body in a Barrel' Case",
+      "excerpt": "Prosecutors dropped the most severe charges against Veselin Milić, who remains a top police official despite his alleged ties to the gruesome killing.",
+      "link": "https://www.occrp.org/en/news/ex-belgrade-police-chief-denies-charges-in-body-in-a-barrel-case",
+      "published": "2026-11-09T14:00:00+00:00",
       "featured": false
     },
     {
@@ -425,12 +425,21 @@
       "featured": false
     },
     {
-      "id": "0a9abcb5b5fc",
+      "id": "e2eacfb44139",
       "source": "Al Jazeera",
-      "headline": "Malaysia’s ex-PM transferred to house arrest for 1MDB graft sentence",
-      "excerpt": "Former Malaysian Prime Minister Najib Razak has been transferred from prison to his Kuala Lumpur home for house arrest.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/11/malaysias-ex-pm-transferred-to-house-arrest-for-1mdb-graft-sentence?traffic_source=rss",
-      "published": "2026-11-11T04:56:22+00:00",
+      "headline": "Israel is ‘disrupting entire ecosystems’, including Lebanon’s wheat crop",
+      "excerpt": "Lebanese wheat production hit by war as farmlands face severe destruction in the south and Bekaa Valley.",
+      "link": "https://www.aljazeera.com/news/2026/11/11/israel-is-disrupting-entire-ecosystems-including-lebanons-wheat-crop?traffic_source=rss",
+      "published": "2026-11-11T15:48:39+00:00",
+      "featured": false
+    },
+    {
+      "id": "4d8e4f100736",
+      "source": "ProPublica",
+      "headline": "The Garbage Man: Bill Gates Has Earned Billions Investing in Climate-Polluting Landfills",
+      "excerpt": "The post The Garbage Man: Bill Gates Has Earned Billions Investing in Climate-Polluting Landfills appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/bill-gates-republic-landfill-methane-pollution",
+      "published": "2026-11-10T10:00:00+00:00",
       "featured": false
     },
     {
@@ -440,6 +449,15 @@
       "excerpt": "The midterms gave Democrats power to tax millionaires and billionaires. Their corporate wing may offer the donor class an escape route.",
       "link": "https://www.levernews.com/the-coming-democratic-party-battle-on-taxing-the-rich/",
       "published": "2026-11-09T21:42:58+00:00",
+      "featured": false
+    },
+    {
+      "id": "c313ef29f59a",
+      "source": "404 Media",
+      "headline": "Dad Asked 6-Year-Old Daughter if ‘She Had the Gun’ Before He Left Her in Line for Pokémon Cards",
+      "excerpt": "Police arrested a man in South Carolina after he left his daughter asleep in a Target parking lot so he could keep his place in line.",
+      "link": "https://www.404media.co/dad-asked-6-year-old-daughter-if-she-had-the-gun-before-he-left-her-in-line-for-pokemon-cards/",
+      "published": "2026-11-09T20:42:34+00:00",
       "featured": false
     },
     {
@@ -461,30 +479,12 @@
       "featured": false
     },
     {
-      "id": "897cc99107ca",
-      "source": "ProPublica",
-      "headline": "Lawyers in This State Are Allowed to Ghost Clients for Years. Why Don’t More Judges Stop Them?",
-      "excerpt": "The post Lawyers in This State Are Allowed to Ghost Clients for Years. Why Don’t More Judges Stop Them? appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/post-conviction-legal-system-finley-judges-pennsylvania",
-      "published": "2026-11-09T10:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "889b0feabde8",
-      "source": "404 Media",
-      "headline": "How Earth Lost a Billion Years of Its History",
-      "excerpt": "Earth is missing a huge chunk of its geological record before the Cambrian period 538 million years ago, when complex life emerged. A new study suggests that the gap was caused by the rise and fall of ancient...",
-      "link": "https://www.404media.co/how-earth-lost-a-billion-years-of-its-history/",
-      "published": "2026-11-07T13:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "1b7aa24944b2",
+      "id": "2ab4610d890d",
       "source": "OCCRP",
-      "headline": "Paraguayan President Impeached and Arrested Amid Financial Meltdown and Mass Protests",
-      "excerpt": "Former Paraguayan President Santiago Peña has been removed from office and arrested. Among other allegations, he is accused of trying to protect a digital bank he formerly held ownership in. Authorities this week...",
-      "link": "https://www.occrp.org/en/news/paraguayan-president-impeached-and-arrested-amid-financial-meltdown-and-mass-protests",
-      "published": "2026-11-07T09:04:00+00:00",
+      "headline": "High-Profile Smuggling Raids in Hungary Point to Former PM's Brother",
+      "excerpt": "Police arrested multiple suspects Monday in an alleged visa fraud operation, with local media and politicians quickly linking the sweep to Áron Orbán.",
+      "link": "https://www.occrp.org/en/news/high-profile-smuggling-raids-in-hungary-point-to-former-pms-brother",
+      "published": "2026-11-09T11:18:00+00:00",
       "featured": false
     },
     {
@@ -524,12 +524,12 @@
       "featured": false
     },
     {
-      "id": "5af8dc7177f5",
+      "id": "7ba3efb1a146",
       "source": "Al Jazeera",
-      "headline": "Ebola cases in DR Congo pass 11,000, with 5,387 deaths",
-      "excerpt": "Authorities struggling to contain DRC's largest Ebola outbreak due to delayed detection and conflict.",
-      "link": "https://www.aljazeera.com/news/2026/11/11/ebola-cases-in-dr-congo-pass-11000-with-5387-deaths?traffic_source=rss",
-      "published": "2026-11-11T04:44:18+00:00",
+      "headline": "Russia bans two French lawmakers, two journalists in tit-for-tat move",
+      "excerpt": "Kremlin spokeswoman says ban responds to the expulsion of a Russian commentator who used to head RT France.",
+      "link": "https://www.aljazeera.com/news/2026/11/11/russia-bans-two-french-lawmakers-two-journalists-in-tit-for-tat-move?traffic_source=rss",
+      "published": "2026-11-11T15:47:37+00:00",
       "featured": false
     },
     {
