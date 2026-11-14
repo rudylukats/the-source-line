@@ -1,13 +1,31 @@
 {
-  "generated_at": "2026-11-14T10:27:32.093600+00:00",
+  "generated_at": "2026-11-14T18:03:02.498265+00:00",
   "articles": [
     {
-      "id": "df12b63379bf",
+      "id": "592620f6fb06",
       "source": "Al Jazeera",
-      "headline": "Sabalenka crashes out of season-ending WTA Finals after losing to Svitolina",
-      "excerpt": "World number two Sabalenka's season came to a disappointing end after she failed to reach the WTA Finals semifinals.",
-      "link": "https://www.aljazeera.com/sports/2026/11/14/aryna-sabalenka-elina-svitolina-wta-finals-indian-wells-semifinals-tennis?traffic_source=rss",
-      "published": "2026-11-14T10:03:12+00:00",
+      "headline": "Rising costs and arrests fuel protests in Central African Republic",
+      "excerpt": "Hundreds take to the streets of Bangui to protest rising fuel prices and arrests in the Central African Republic.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/rising-costs-and-arrests-fuel-protests-in-central-african-republic?traffic_source=rss",
+      "published": "2026-11-14T17:50:28+00:00",
+      "featured": true
+    },
+    {
+      "id": "0a49136a7fc6",
+      "source": "The Lever",
+      "headline": "You Love To See It: A Dose Of Good News",
+      "excerpt": "A supermarket gets its sweet desserts, Hawaiian records get a discount, and other good news.",
+      "link": "https://www.levernews.com/you-love-to-see-it-a-dose-of-good-news/",
+      "published": "2026-11-14T14:04:00+00:00",
+      "featured": true
+    },
+    {
+      "id": "b12aa5024068",
+      "source": "404 Media",
+      "headline": "Scientists Made Monkeys Watch Minions to Study Their Brains",
+      "excerpt": "To better understand how primates make meaning from visuals, a team studied the brainwaves and eye movements of humans and macaques as they watched Minions and nature documentaries.",
+      "link": "https://www.404media.co/scientists-made-monkeys-watch-minions-to-study-their-brains/",
+      "published": "2026-11-14T13:00:00+00:00",
       "featured": true
     },
     {
@@ -17,7 +35,7 @@
       "excerpt": "The post I Investigated the Online Sports Betting Industry. DraftKings Shut Down My Account. appeared first on ProPublica.",
       "link": "https://www.propublica.org/article/draftkings-investigation-closed-account",
       "published": "2026-11-14T10:00:00+00:00",
-      "featured": true
+      "featured": false
     },
     {
       "id": "2c20201a0398",
@@ -26,15 +44,6 @@
       "excerpt": "Advocates said the bill was necessary because of protests outside synagogues hosting real estate expos for Israeli settlement land. The post Will Senate Religious Freedom Bill Actually Protect Land Sales for Israeli...",
       "link": "https://theintercept.com/2026/11/14/religious-freedom-protest-israeli-settlement-sales/",
       "published": "2026-11-14T10:00:00+00:00",
-      "featured": true
-    },
-    {
-      "id": "0762c50ca271",
-      "source": "The Lever",
-      "headline": "Can You Count Votes?",
-      "excerpt": "Test your knowledge of the midterms, Congress, and other issues that really matter.",
-      "link": "https://www.levernews.com/levermind-quiz-can-you-count-votes/",
-      "published": "2026-11-13T18:26:47+00:00",
       "featured": false
     },
     {
@@ -53,15 +62,6 @@
       "excerpt": "Supporters say the measures would bring cheaper medicines to the market sooner, but business groups are pushing back.",
       "link": "https://www.icij.org/investigations/cancer-calculus/with-the-new-shift-in-the-u-s-congress-time-is-running-out-on-bills-targeting-drug-patents/",
       "published": "2026-11-13T17:48:40+00:00",
-      "featured": false
-    },
-    {
-      "id": "07bfc6e99784",
-      "source": "404 Media",
-      "headline": "Behind the Blog: Priorities, Priorities",
-      "excerpt": "This week, we discuss getting inspired and how things get prioritized.",
-      "link": "https://www.404media.co/behind-the-blog-priorities-priorities/",
-      "published": "2026-11-13T17:28:17+00:00",
       "featured": false
     },
     {
@@ -101,12 +101,12 @@
       "featured": false
     },
     {
-      "id": "91e96731aad8",
+      "id": "bb8f3f72dec0",
       "source": "Al Jazeera",
-      "headline": "Migrant caravan heads to US from Mexico after Democrats’ midterm win",
-      "excerpt": "A migrant caravan of more than a thousand people is heading towards the US border from southern Mexico.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/migrant-caravan-heads-to-us-from-mexico-after-democrats-midterm-win?traffic_source=rss",
-      "published": "2026-11-14T09:43:54+00:00",
+      "headline": "US suggested Ukraine cede parts of Donbas to Russia to become part of NATO",
+      "excerpt": "Zelenskyy rejected the possibility of Ukraine committing to neutrality and said he refused to cede territory to Russia.",
+      "link": "https://www.aljazeera.com/news/2026/11/14/us-suggested-ukraine-cede-parts-of-donbas-to-russia-to-become-part-of-nato?traffic_source=rss",
+      "published": "2026-11-14T16:53:39+00:00",
       "featured": false
     },
     {
@@ -128,12 +128,21 @@
       "featured": false
     },
     {
-      "id": "df324333346b",
+      "id": "0762c50ca271",
       "source": "The Lever",
-      "headline": "The Revolving Door In The Desert",
-      "excerpt": "A new report alleges that politically connected players advanced a massive data center project in drought-stricken New Mexico through corruption and backroom dealings.",
-      "link": "https://www.levernews.com/the-revolving-door-in-the-desert/",
-      "published": "2026-11-13T17:01:13+00:00",
+      "headline": "Can You Count Votes?",
+      "excerpt": "Test your knowledge of the midterms, Congress, and other issues that really matter.",
+      "link": "https://www.levernews.com/levermind-quiz-can-you-count-votes/",
+      "published": "2026-11-13T18:26:47+00:00",
+      "featured": false
+    },
+    {
+      "id": "07bfc6e99784",
+      "source": "404 Media",
+      "headline": "Behind the Blog: Priorities, Priorities",
+      "excerpt": "This week, we discuss getting inspired and how things get prioritized.",
+      "link": "https://www.404media.co/behind-the-blog-priorities-priorities/",
+      "published": "2026-11-13T17:28:17+00:00",
       "featured": false
     },
     {
@@ -143,15 +152,6 @@
       "excerpt": "Drop Site Daily: November 13, 2026",
       "link": "https://www.dropsitenews.com/p/iran-hits-us-radar-in-bahrain-van",
       "published": "2026-11-13T15:56:52+00:00",
-      "featured": false
-    },
-    {
-      "id": "ff4d0b33a233",
-      "source": "404 Media",
-      "headline": "Podcast: Election Fallout",
-      "excerpt": "All those Malfoid memes meant nothing?",
-      "link": "https://www.404media.co/podcast-election-fallout/",
-      "published": "2026-11-13T15:38:09+00:00",
       "featured": false
     },
     {
@@ -200,12 +200,12 @@
       "featured": false
     },
     {
-      "id": "345e727de947",
+      "id": "0585c9950330",
       "source": "Al Jazeera",
-      "headline": "Netanyahu may fall, but his far-right legacy in Israel is going nowhere",
-      "excerpt": "Israel’s far-right is accused of embedding a hardline agenda so deeply that reversing it may prove almost impossible.",
-      "link": "https://www.aljazeera.com/news/2026/11/14/netanyahu-may-fall-but-his-far-right-legacy-in-israel-is-going-nowhere?traffic_source=rss",
-      "published": "2026-11-14T09:43:27+00:00",
+      "headline": "Portugal vs Denmark LIVE: UEFA Nations League",
+      "excerpt": "Follow updates from the Group A4 clash, including the build-up, analysis and live text commentary of the game.",
+      "link": "https://www.aljazeera.com/sports/liveblog/2026/11/14/portugal-vs-denmark-live-uefa-nations-league?traffic_source=rss",
+      "published": "2026-11-14T16:45:00+00:00",
       "featured": false
     },
     {
@@ -215,6 +215,24 @@
       "excerpt": "“That’s not complicity,\" said a U.S. doctor. \"That's active participation in the murder of physicians and other healthcare workers.” The post Israel Used a U.S.-Made Missile to Kill Six at Gaza’s Nasser Hospital...",
       "link": "https://theintercept.com/2026/11/13/israel-gaza-nasser-hospital-attack/",
       "published": "2026-11-13T19:29:19+00:00",
+      "featured": false
+    },
+    {
+      "id": "df324333346b",
+      "source": "The Lever",
+      "headline": "The Revolving Door In The Desert",
+      "excerpt": "A new report alleges that politically connected players advanced a massive data center project in drought-stricken New Mexico through corruption and backroom dealings.",
+      "link": "https://www.levernews.com/the-revolving-door-in-the-desert/",
+      "published": "2026-11-13T17:01:13+00:00",
+      "featured": false
+    },
+    {
+      "id": "ff4d0b33a233",
+      "source": "404 Media",
+      "headline": "Podcast: Election Fallout",
+      "excerpt": "All those Malfoid memes meant nothing?",
+      "link": "https://www.404media.co/podcast-election-fallout/",
+      "published": "2026-11-13T15:38:09+00:00",
       "featured": false
     },
     {
@@ -242,24 +260,6 @@
       "excerpt": "The Florida county, the world’s largest municipal investor in Israeli bonds, this month let its holdings drop from $1 billion to $932.5 million.",
       "link": "https://www.dropsitenews.com/p/palm-beach-county-israel-bonds",
       "published": "2026-11-13T01:03:41+00:00",
-      "featured": false
-    },
-    {
-      "id": "e854b0c64d79",
-      "source": "The Lever",
-      "headline": "Voters Said No To Data Centers — Now So Is Josh Hawley",
-      "excerpt": "The data center revolt just got a new high-ranking new ally.",
-      "link": "https://www.levernews.com/voters-are-rejecting-data-centers-now-so-is-josh-hawley/",
-      "published": "2026-11-12T20:50:32+00:00",
-      "featured": false
-    },
-    {
-      "id": "6867f8e0d88c",
-      "source": "404 Media",
-      "headline": "'Way more terrifying than I expected'",
-      "excerpt": "Muse's boundary-pushing problems, sinking boats and stocks, supermassive space objects, and more.",
-      "link": "https://www.404media.co/way-more-terrifying-than-i-expected/",
-      "published": "2026-11-12T16:46:42+00:00",
       "featured": false
     },
     {
@@ -299,12 +299,12 @@
       "featured": false
     },
     {
-      "id": "d5accaef2143",
+      "id": "76b99879a97e",
       "source": "Al Jazeera",
-      "headline": "Pochettino bids emotional farewell to US football ahead of Man Utd move",
-      "excerpt": "Mauricio Pochettino has bid an emotional farewell to US football as he prepares to take charge of Manchester United.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/pochettino-bids-emotional-farewell-to-us-football-ahead-of-man-utd-move?traffic_source=rss",
-      "published": "2026-11-14T09:27:59+00:00",
+      "headline": "Italy fines Meta $880m over photo privacy",
+      "excerpt": "Regulator said Meta's 'lack of cooperation' and the large number of people affected contributed to size of the fine.",
+      "link": "https://www.aljazeera.com/news/2026/11/14/italy-fines-meta-880m-over-photo-privacy?traffic_source=rss",
+      "published": "2026-11-14T16:16:15+00:00",
       "featured": false
     },
     {
@@ -326,6 +326,15 @@
       "featured": false
     },
     {
+      "id": "e854b0c64d79",
+      "source": "The Lever",
+      "headline": "Voters Said No To Data Centers — Now So Is Josh Hawley",
+      "excerpt": "The data center revolt just got a new high-ranking new ally.",
+      "link": "https://www.levernews.com/voters-are-rejecting-data-centers-now-so-is-josh-hawley/",
+      "published": "2026-11-12T20:50:32+00:00",
+      "featured": false
+    },
+    {
       "id": "c8c5ec9f13e7",
       "source": "Dropsite News",
       "headline": "Democrats Missed Hegseth Impeachment Vote While at a Fundraiser with Defense Lobbyists",
@@ -335,21 +344,12 @@
       "featured": false
     },
     {
-      "id": "1ea64fa21007",
-      "source": "The Lever",
-      "headline": "Voters Rejected Data Centers. Democrats Could Supercharge Trump’s AI Boom.",
-      "excerpt": "Twenty-one Senate Democrats advanced a lame-duck permitting bill that could fast-track the fossil fuel infrastructure powering the White House’s data-center buildout.",
-      "link": "https://www.levernews.com/voters-rejected-data-centers-democrats-could-supercharge-trumps-ai-boom/",
-      "published": "2026-11-12T17:11:05+00:00",
-      "featured": false
-    },
-    {
-      "id": "587601176aa0",
+      "id": "6867f8e0d88c",
       "source": "404 Media",
-      "headline": "'No One Is Like This:' Muse Sexts While Roleplaying as Real People",
-      "excerpt": "Vanniall wanted to see if Muse would stop a boundary-pushing fan scenario. She found that it only encouraged this kind of behavior.",
-      "link": "https://www.404media.co/muse-sexts-roleplaying-real-people/",
-      "published": "2026-11-12T16:25:29+00:00",
+      "headline": "'Way more terrifying than I expected'",
+      "excerpt": "Muse's boundary-pushing problems, sinking boats and stocks, supermassive space objects, and more.",
+      "link": "https://www.404media.co/way-more-terrifying-than-i-expected/",
+      "published": "2026-11-12T16:46:42+00:00",
       "featured": false
     },
     {
@@ -398,12 +398,12 @@
       "featured": false
     },
     {
-      "id": "77bc0d5b3703",
+      "id": "76a9ec4bdeba",
       "source": "Al Jazeera",
-      "headline": "Qatar and Turkiye sign a mutual defence pact: What do we know?",
-      "excerpt": "Analysts say the pact, agreed amid the US-Iran war, aims to deter attacks rather than build an offensive alliance.",
-      "link": "https://www.aljazeera.com/news/2026/11/14/qatar-and-turkiye-sign-a-mutual-defence-pact-what-do-we-know?traffic_source=rss",
-      "published": "2026-11-14T09:19:43+00:00",
+      "headline": "Myanmar airstrike kills 12 at displacement camp in Rakhine state",
+      "excerpt": "A Myanmar military airstrike on a displacement camp in Rakhine state killed 12 people.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/myanmar-airstrike-displacement-camp-rakhine?traffic_source=rss",
+      "published": "2026-11-14T16:13:43+00:00",
       "featured": false
     },
     {
@@ -425,12 +425,21 @@
       "featured": false
     },
     {
-      "id": "e205aafed05a",
+      "id": "1ea64fa21007",
       "source": "The Lever",
-      "headline": "Don’t F#*k It Up, Democrats, Ep. 4: Stopping Fascism After Trump",
-      "excerpt": "David Sirota asks Naomi Klein and Astra Taylor whether Democrats will use their new power to defeat fascism — or merely oppose Trump.",
-      "link": "https://www.levernews.com/dont-f-k-it-up-democrats-ep-4-stopping-fascism-after-trump/",
-      "published": "2026-11-12T17:08:33+00:00",
+      "headline": "Voters Rejected Data Centers. Democrats Could Supercharge Trump’s AI Boom.",
+      "excerpt": "Twenty-one Senate Democrats advanced a lame-duck permitting bill that could fast-track the fossil fuel infrastructure powering the White House’s data-center buildout.",
+      "link": "https://www.levernews.com/voters-rejected-data-centers-democrats-could-supercharge-trumps-ai-boom/",
+      "published": "2026-11-12T17:11:05+00:00",
+      "featured": false
+    },
+    {
+      "id": "587601176aa0",
+      "source": "404 Media",
+      "headline": "'No One Is Like This:' Muse Sexts While Roleplaying as Real People",
+      "excerpt": "Vanniall wanted to see if Muse would stop a boundary-pushing fan scenario. She found that it only encouraged this kind of behavior.",
+      "link": "https://www.404media.co/muse-sexts-roleplaying-real-people/",
+      "published": "2026-11-12T16:25:29+00:00",
       "featured": false
     },
     {
@@ -449,15 +458,6 @@
       "excerpt": "A parliamentary inquiry implicated top government officials in the improper issuance of the documents to foreign nationals.",
       "link": "https://www.occrp.org/en/news/more-than-1300-diplomatic-passports-missing-in-vanuatu-report-finds",
       "published": "2026-11-12T14:52:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "e0437dd8307b",
-      "source": "404 Media",
-      "headline": "Scientists Discovered An ‘Invisible’ Object In Space. It’s Challenging Our Understanding of the Cosmos",
-      "excerpt": "It's likely an ultra-rare supermassive neutron star.",
-      "link": "https://www.404media.co/scientists-discovered-an-invisible-object-in-space/",
-      "published": "2026-11-11T19:00:00+00:00",
       "featured": false
     },
     {
@@ -488,21 +488,12 @@
       "featured": false
     },
     {
-      "id": "2ab0e270aa93",
-      "source": "Bellingcat",
-      "headline": "Satellite Images Show Extent of Trump Admin’s Tree-Felling at DC Golf Course",
-      "excerpt": "Sign up here to receive Bellingcat’s biggest investigations by email as soon as they are published. Satellite imagery obtained by Bellingcat lays bare the extent of tree-felling at a Washington DC golf course that...",
-      "link": "https://www.bellingcat.com/news/us-canada/2026/10/15/satellite-images-show-extent-of-trump-admins-tree-felling-at-dc-golf-course/",
-      "published": "2026-10-15T10:33:36+00:00",
-      "featured": false
-    },
-    {
-      "id": "8e3c7560b30f",
+      "id": "aba212013333",
       "source": "Al Jazeera",
-      "headline": "Nearly $20m found in Hungary’s forests, buildings amid corruption probe",
-      "excerpt": "An ex-minister faces a bribery probe as Hungary's new government investigates alleged corruption during Orban's rule.",
-      "link": "https://www.aljazeera.com/news/2026/11/14/hungarian-investigators-uncover-19-5m-hidden-in-forests-and-buildings?traffic_source=rss",
-      "published": "2026-11-14T09:08:21+00:00",
+      "headline": "EU calls for immediate humanitarian access to Gaza",
+      "excerpt": "The EU said that “Israel must enable the work of the UN and its agencies\" after the group was blocked access into Gaza.",
+      "link": "https://www.aljazeera.com/news/2026/11/14/eu-calls-for-immediate-humanitarian-access-to-gaza?traffic_source=rss",
+      "published": "2026-11-14T15:57:22+00:00",
       "featured": false
     },
     {
@@ -512,6 +503,15 @@
       "excerpt": "When Democrats take power, they should take aim at the president’s censors, like Hegseth and FCC Chair Brendan Carr. The post Next Time, Impeach Pete Hegseth for Press Censorship appeared first on The Intercept.",
       "link": "https://theintercept.com/2026/11/13/pete-hegseth-impeachment-censorship-brendan-carr/",
       "published": "2026-11-13T10:00:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "e205aafed05a",
+      "source": "The Lever",
+      "headline": "Don’t F#*k It Up, Democrats, Ep. 4: Stopping Fascism After Trump",
+      "excerpt": "David Sirota asks Naomi Klein and Astra Taylor whether Democrats will use their new power to defeat fascism — or merely oppose Trump.",
+      "link": "https://www.levernews.com/dont-f-k-it-up-democrats-ep-4-stopping-fascism-after-trump/",
+      "published": "2026-11-12T17:08:33+00:00",
       "featured": false
     },
     {
@@ -533,12 +533,12 @@
       "featured": false
     },
     {
-      "id": "19c18e087d15",
-      "source": "The Lever",
-      "headline": "The Blue Wave Could Make The Popular Vote Count",
-      "excerpt": "Democratic victories in key states put the country within reach of a compact that would make the national popular-vote winner president.",
-      "link": "https://www.levernews.com/the-blue-wave-could-make-the-popular-vote-count/",
-      "published": "2026-11-11T19:14:49+00:00",
+      "id": "e0437dd8307b",
+      "source": "404 Media",
+      "headline": "Scientists Discovered An ‘Invisible’ Object In Space. It’s Challenging Our Understanding of the Cosmos",
+      "excerpt": "It's likely an ultra-rare supermassive neutron star.",
+      "link": "https://www.404media.co/scientists-discovered-an-invisible-object-in-space/",
+      "published": "2026-11-11T19:00:00+00:00",
       "featured": false
     }
   ]
