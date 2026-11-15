@@ -1,14 +1,41 @@
 {
-  "generated_at": "2026-11-15T06:33:20.018080+00:00",
+  "generated_at": "2026-11-15T16:22:11.227252+00:00",
   "articles": [
     {
-      "id": "6b6054b17b50",
+      "id": "e02355c7a550",
       "source": "Al Jazeera",
-      "headline": "Francophone summit opens in Cambodia amid Rwanda-DR Congo rift",
-      "excerpt": "Democratic Republic of the Congo and Rwanda clash over who should lead the organisation of French-speaking nations.",
-      "link": "https://www.aljazeera.com/news/2026/11/15/francophone-summit-opens-in-cambodia-amid-rwanda-dr-congo-rift?traffic_source=rss",
-      "published": "2026-11-15T05:05:02+00:00",
+      "headline": "British tourist smashes Jesus statue outside Vilnius church",
+      "excerpt": "A man removed a statue of the crucified Jesus from a church in Vilnius and it smashed to the ground.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/british-tourist-smashes-jesus-statue-outside-vilnius-church?traffic_source=rss",
+      "published": "2026-11-15T16:04:22+00:00",
       "featured": true
+    },
+    {
+      "id": "27af6daaf71b",
+      "source": "The Lever",
+      "headline": "Lever Weekly: The Donors Would Like A Word",
+      "excerpt": "Data center betrayals, billion-dollar ICE deals, and more from The Lever this week.",
+      "link": "https://www.levernews.com/lever-weekly-the-donors-would-like-a-word/",
+      "published": "2026-11-15T13:57:00+00:00",
+      "featured": true
+    },
+    {
+      "id": "be3c86b2a424",
+      "source": "404 Media",
+      "headline": "This Comic Kills Technofascists",
+      "excerpt": "'Exploit' is an action thriller inspired by the battle raging right now between the tech oligarchy and the independent press.",
+      "link": "https://www.404media.co/this-comic-kills-technofascists/",
+      "published": "2026-11-15T13:00:00+00:00",
+      "featured": true
+    },
+    {
+      "id": "6ca2c76ae8ae",
+      "source": "ProPublica",
+      "headline": "A Cop Was Charged With Causing His Wife’s Miscarriage. Alabama’s Laws Came Down Harder on Pregnant Women Who Used Drugs.",
+      "excerpt": "The post A Cop Was Charged With Causing His Wife’s Miscarriage. Alabama’s Laws Came Down Harder on Pregnant Women Who Used Drugs. appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/alabama-fetal-personhood-laws-punishment",
+      "published": "2026-11-15T10:00:00+00:00",
+      "featured": false
     },
     {
       "id": "ab909ca8775c",
@@ -17,33 +44,6 @@
       "excerpt": "Gaza, “peace,” and surviving a zombie conflict. The post The Ceaseless Ceasefire appeared first on The Intercept.",
       "link": "https://theintercept.com/2026/11/14/israel-gaza-ceasefire-violations/",
       "published": "2026-11-14T18:59:33+00:00",
-      "featured": true
-    },
-    {
-      "id": "0a49136a7fc6",
-      "source": "The Lever",
-      "headline": "You Love To See It: A Dose Of Good News",
-      "excerpt": "A supermarket gets its sweet desserts, Hawaiian records get a discount, and other good news.",
-      "link": "https://www.levernews.com/you-love-to-see-it-a-dose-of-good-news/",
-      "published": "2026-11-14T14:04:00+00:00",
-      "featured": true
-    },
-    {
-      "id": "b12aa5024068",
-      "source": "404 Media",
-      "headline": "Scientists Made Monkeys Watch Minions to Study Their Brains",
-      "excerpt": "To better understand how primates make meaning from visuals, a team studied the brainwaves and eye movements of humans and macaques as they watched Minions and nature documentaries.",
-      "link": "https://www.404media.co/scientists-made-monkeys-watch-minions-to-study-their-brains/",
-      "published": "2026-11-14T13:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "eb531acc9b4b",
-      "source": "ProPublica",
-      "headline": "I Investigated the Online Sports Betting Industry. DraftKings Shut Down My Account.",
-      "excerpt": "The post I Investigated the Online Sports Betting Industry. DraftKings Shut Down My Account. appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/draftkings-investigation-closed-account",
-      "published": "2026-11-14T10:00:00+00:00",
       "featured": false
     },
     {
@@ -101,12 +101,39 @@
       "featured": false
     },
     {
-      "id": "d8af2c1b6e71",
+      "id": "311e9be033ea",
       "source": "Al Jazeera",
-      "headline": "New York Democratic Socialists urge Ocasio-Cortez to run for US president",
-      "excerpt": "Delegates at NYC-DSA convention pass resolution formally calling on Congresswoman AOC to run in 2028 presidential race.",
-      "link": "https://www.aljazeera.com/news/2026/11/15/new-york-democratic-socialists-urge-ocasio-cortez-to-run-for-us-president?traffic_source=rss",
-      "published": "2026-11-15T04:44:57+00:00",
+      "headline": "70 bodies recovered from Gaza rubble, thousands still missing",
+      "excerpt": "70 bodies recovered from Gaza rubble, thousands still missing",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/70-bodies-recovered-from-gaza-rubble-thousands-still-missing?traffic_source=rss",
+      "published": "2026-11-15T15:32:43+00:00",
+      "featured": false
+    },
+    {
+      "id": "0a49136a7fc6",
+      "source": "The Lever",
+      "headline": "You Love To See It: A Dose Of Good News",
+      "excerpt": "A supermarket gets its sweet desserts, Hawaiian records get a discount, and other good news.",
+      "link": "https://www.levernews.com/you-love-to-see-it-a-dose-of-good-news/",
+      "published": "2026-11-14T14:04:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "b12aa5024068",
+      "source": "404 Media",
+      "headline": "Scientists Made Monkeys Watch Minions to Study Their Brains",
+      "excerpt": "To better understand how primates make meaning from visuals, a team studied the brainwaves and eye movements of humans and macaques as they watched Minions and nature documentaries.",
+      "link": "https://www.404media.co/scientists-made-monkeys-watch-minions-to-study-their-brains/",
+      "published": "2026-11-14T13:00:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "eb531acc9b4b",
+      "source": "ProPublica",
+      "headline": "I Investigated the Online Sports Betting Industry. DraftKings Shut Down My Account.",
+      "excerpt": "The post I Investigated the Online Sports Betting Industry. DraftKings Shut Down My Account. appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/draftkings-investigation-closed-account",
+      "published": "2026-11-14T10:00:00+00:00",
       "featured": false
     },
     {
@@ -116,33 +143,6 @@
       "excerpt": "Advocates said the bill was necessary because of protests outside synagogues hosting real estate expos for Israeli settlement land. The post Will Senate Religious Freedom Bill Actually Protect Land Sales for Israeli...",
       "link": "https://theintercept.com/2026/11/14/religious-freedom-protest-israeli-settlement-sales/",
       "published": "2026-11-14T10:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "1e6360226ba2",
-      "source": "ProPublica",
-      "headline": "Ethics Watchdog Urges Investigation Into Top Health Official, Alleging Conflict of Interest Over Hormone Therapy Policy",
-      "excerpt": "The post Ethics Watchdog Urges Investigation Into Top Health Official, Alleging Conflict of Interest Over Hormone Therapy Policy appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/hhs-alicia-jackson-ethics-complaint",
-      "published": "2026-11-13T21:50:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "0762c50ca271",
-      "source": "The Lever",
-      "headline": "Can You Count Votes?",
-      "excerpt": "Test your knowledge of the midterms, Congress, and other issues that really matter.",
-      "link": "https://www.levernews.com/levermind-quiz-can-you-count-votes/",
-      "published": "2026-11-13T18:26:47+00:00",
-      "featured": false
-    },
-    {
-      "id": "07bfc6e99784",
-      "source": "404 Media",
-      "headline": "Behind the Blog: Priorities, Priorities",
-      "excerpt": "This week, we discuss getting inspired and how things get prioritized.",
-      "link": "https://www.404media.co/behind-the-blog-priorities-priorities/",
-      "published": "2026-11-13T17:28:17+00:00",
       "featured": false
     },
     {
@@ -200,12 +200,21 @@
       "featured": false
     },
     {
-      "id": "a2139cf8c1d6",
+      "id": "e6c7e401883d",
       "source": "Al Jazeera",
-      "headline": "Video shows moment of Brooklyn building collapse from inside",
-      "excerpt": "Newly released nanny cam footage shows the moment an apartment building collapsed in Brooklyn as children played inside.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/video-shows-moment-of-brooklyn-building-collapse-from-inside?traffic_source=rss",
-      "published": "2026-11-15T04:31:55+00:00",
+      "headline": "Will Iraq’s oil smuggling crackdown disarm militias without a conflict?",
+      "excerpt": "Iraq has dismantled an alleged smuggling ring in Jurf al-Sakhar which could squeeze militias and avert internal strife",
+      "link": "https://www.aljazeera.com/news/2026/11/15/will-iraqs-oil-smuggllng-crackdown-disarm-militias-without-a-conflict?traffic_source=rss",
+      "published": "2026-11-15T15:21:21+00:00",
+      "featured": false
+    },
+    {
+      "id": "1e6360226ba2",
+      "source": "ProPublica",
+      "headline": "Ethics Watchdog Urges Investigation Into Top Health Official, Alleging Conflict of Interest Over Hormone Therapy Policy",
+      "excerpt": "The post Ethics Watchdog Urges Investigation Into Top Health Official, Alleging Conflict of Interest Over Hormone Therapy Policy appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/hhs-alicia-jackson-ethics-complaint",
+      "published": "2026-11-13T21:50:00+00:00",
       "featured": false
     },
     {
@@ -218,30 +227,21 @@
       "featured": false
     },
     {
-      "id": "df324333346b",
+      "id": "0762c50ca271",
       "source": "The Lever",
-      "headline": "The Revolving Door In The Desert",
-      "excerpt": "A new report alleges that politically connected players advanced a massive data center project in drought-stricken New Mexico through corruption and backroom dealings.",
-      "link": "https://www.levernews.com/the-revolving-door-in-the-desert/",
-      "published": "2026-11-13T17:01:13+00:00",
+      "headline": "Can You Count Votes?",
+      "excerpt": "Test your knowledge of the midterms, Congress, and other issues that really matter.",
+      "link": "https://www.levernews.com/levermind-quiz-can-you-count-votes/",
+      "published": "2026-11-13T18:26:47+00:00",
       "featured": false
     },
     {
-      "id": "ff4d0b33a233",
+      "id": "07bfc6e99784",
       "source": "404 Media",
-      "headline": "Podcast: Election Fallout",
-      "excerpt": "All those Malfoid memes meant nothing?",
-      "link": "https://www.404media.co/podcast-election-fallout/",
-      "published": "2026-11-13T15:38:09+00:00",
-      "featured": false
-    },
-    {
-      "id": "126e50ce4855",
-      "source": "ProPublica",
-      "headline": "Members of Georgia’s Election Board Have Been Coordinating With Cleta Mitchell’s Network",
-      "excerpt": "The post Members of Georgia’s Election Board Have Been Coordinating With Cleta Mitchell’s Network appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/georgia-election-board-cleta-mitchell-midterms",
-      "published": "2026-11-13T11:00:00+00:00",
+      "headline": "Behind the Blog: Priorities, Priorities",
+      "excerpt": "This week, we discuss getting inspired and how things get prioritized.",
+      "link": "https://www.404media.co/behind-the-blog-priorities-priorities/",
+      "published": "2026-11-13T17:28:17+00:00",
       "featured": false
     },
     {
@@ -299,12 +299,12 @@
       "featured": false
     },
     {
-      "id": "314a35f02ae6",
+      "id": "915dae1d552c",
       "source": "Al Jazeera",
-      "headline": "Zimbabwe’s HIV gains face a test among young people",
-      "excerpt": "New prevention tools offer hope, but reaching young people remains a challenge.",
-      "link": "https://www.aljazeera.com/news/2026/11/15/zimbabwes-hiv-gains-face-a-test-among-young-people?traffic_source=rss",
-      "published": "2026-11-15T04:13:00+00:00",
+      "headline": "20 years of Al Jazeera English: Our story is still being written",
+      "excerpt": "As we celebrate our 20th anniversary, we remain committed to our values and the quality of our journalism.",
+      "link": "https://www.aljazeera.com/opinions/2026/11/15/20-years-of-al-jazeera-english-our-story-is-still-being-written?traffic_source=rss",
+      "published": "2026-11-15T15:21:12+00:00",
       "featured": false
     },
     {
@@ -317,21 +317,30 @@
       "featured": false
     },
     {
-      "id": "928a7c21d27c",
-      "source": "ProPublica",
-      "headline": "His Church or His Child? A Sixth-Generation Member of a Faith-Healing Sect Had to Choose.",
-      "excerpt": "The post His Church or His Child? A Sixth-Generation Member of a Faith-Healing Sect Had to Choose. appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/followers-of-christ-faith-healing-documentary",
-      "published": "2026-11-13T10:30:00+00:00",
+      "id": "df324333346b",
+      "source": "The Lever",
+      "headline": "The Revolving Door In The Desert",
+      "excerpt": "A new report alleges that politically connected players advanced a massive data center project in drought-stricken New Mexico through corruption and backroom dealings.",
+      "link": "https://www.levernews.com/the-revolving-door-in-the-desert/",
+      "published": "2026-11-13T17:01:13+00:00",
       "featured": false
     },
     {
-      "id": "e854b0c64d79",
-      "source": "The Lever",
-      "headline": "Voters Said No To Data Centers — Now So Is Josh Hawley",
-      "excerpt": "The data center revolt just got a new high-ranking new ally.",
-      "link": "https://www.levernews.com/voters-are-rejecting-data-centers-now-so-is-josh-hawley/",
-      "published": "2026-11-12T20:50:32+00:00",
+      "id": "ff4d0b33a233",
+      "source": "404 Media",
+      "headline": "Podcast: Election Fallout",
+      "excerpt": "All those Malfoid memes meant nothing?",
+      "link": "https://www.404media.co/podcast-election-fallout/",
+      "published": "2026-11-13T15:38:09+00:00",
+      "featured": false
+    },
+    {
+      "id": "126e50ce4855",
+      "source": "ProPublica",
+      "headline": "Members of Georgia’s Election Board Have Been Coordinating With Cleta Mitchell’s Network",
+      "excerpt": "The post Members of Georgia’s Election Board Have Been Coordinating With Cleta Mitchell’s Network appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/georgia-election-board-cleta-mitchell-midterms",
+      "published": "2026-11-13T11:00:00+00:00",
       "featured": false
     },
     {
@@ -341,15 +350,6 @@
       "excerpt": "The new member reception was hosted by Elect Democratic Women, a major pass-through for AIPAC this cycle, and was attended by more than 100 lobbyists.",
       "link": "https://www.dropsitenews.com/p/democrats-miss-hegseth-impeachment-vote-elect-democratic-women-party",
       "published": "2026-11-12T18:24:32+00:00",
-      "featured": false
-    },
-    {
-      "id": "6867f8e0d88c",
-      "source": "404 Media",
-      "headline": "'Way more terrifying than I expected'",
-      "excerpt": "Muse's boundary-pushing problems, sinking boats and stocks, supermassive space objects, and more.",
-      "link": "https://www.404media.co/way-more-terrifying-than-i-expected/",
-      "published": "2026-11-12T16:46:42+00:00",
       "featured": false
     },
     {
@@ -398,12 +398,12 @@
       "featured": false
     },
     {
-      "id": "135f92873339",
+      "id": "3b2353c7a415",
       "source": "Al Jazeera",
-      "headline": "Monkey attacks woman inside residential complex in India",
-      "excerpt": "A woman was attacked and repeatedly bitten by a monkey at a residential apartment complex in India’s Gujarat state.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/monkey-attacks-woman-inside-residential-complex-in-india?traffic_source=rss",
-      "published": "2026-11-15T03:39:39+00:00",
+      "headline": "Record number of migrants arrive in Spain’s Canary Islands",
+      "excerpt": "New EU migration and asylum laws have largely failed to stem flow of migrants to Spain and its territories.",
+      "link": "https://www.aljazeera.com/news/2026/11/15/record-number-of-migrants-arrive-in-spains-canary-islands?traffic_source=rss",
+      "published": "2026-11-15T15:16:29+00:00",
       "featured": false
     },
     {
@@ -416,30 +416,30 @@
       "featured": false
     },
     {
-      "id": "6df40c7c295e",
+      "id": "928a7c21d27c",
       "source": "ProPublica",
-      "headline": "How Trump’s War on Offshore Wind Upended a “Limitless” Future for Thousands of New England Workers",
-      "excerpt": "The post How Trump’s War on Offshore Wind Upended a “Limitless” Future for Thousands of New England Workers appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/offshore-wind-trump-connecticut-massachussetts",
-      "published": "2026-11-13T10:00:00+00:00",
+      "headline": "His Church or His Child? A Sixth-Generation Member of a Faith-Healing Sect Had to Choose.",
+      "excerpt": "The post His Church or His Child? A Sixth-Generation Member of a Faith-Healing Sect Had to Choose. appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/followers-of-christ-faith-healing-documentary",
+      "published": "2026-11-13T10:30:00+00:00",
       "featured": false
     },
     {
-      "id": "1ea64fa21007",
+      "id": "e854b0c64d79",
       "source": "The Lever",
-      "headline": "Voters Rejected Data Centers. Democrats Could Supercharge Trump’s AI Boom.",
-      "excerpt": "Twenty-one Senate Democrats advanced a lame-duck permitting bill that could fast-track the fossil fuel infrastructure powering the White House’s data-center buildout.",
-      "link": "https://www.levernews.com/voters-rejected-data-centers-democrats-could-supercharge-trumps-ai-boom/",
-      "published": "2026-11-12T17:11:05+00:00",
+      "headline": "Voters Said No To Data Centers — Now So Is Josh Hawley",
+      "excerpt": "The data center revolt just got a new high-ranking new ally.",
+      "link": "https://www.levernews.com/voters-are-rejecting-data-centers-now-so-is-josh-hawley/",
+      "published": "2026-11-12T20:50:32+00:00",
       "featured": false
     },
     {
-      "id": "587601176aa0",
+      "id": "6867f8e0d88c",
       "source": "404 Media",
-      "headline": "'No One Is Like This:' Muse Sexts While Roleplaying as Real People",
-      "excerpt": "Vanniall wanted to see if Muse would stop a boundary-pushing fan scenario. She found that it only encouraged this kind of behavior.",
-      "link": "https://www.404media.co/muse-sexts-roleplaying-real-people/",
-      "published": "2026-11-12T16:25:29+00:00",
+      "headline": "'Way more terrifying than I expected'",
+      "excerpt": "Muse's boundary-pushing problems, sinking boats and stocks, supermassive space objects, and more.",
+      "link": "https://www.404media.co/way-more-terrifying-than-i-expected/",
+      "published": "2026-11-12T16:46:42+00:00",
       "featured": false
     },
     {
@@ -488,12 +488,12 @@
       "featured": false
     },
     {
-      "id": "b8d9162756f9",
+      "id": "6e8034a1bd74",
       "source": "Al Jazeera",
-      "headline": "Italian artist reimagines Madonna paintings to expose Gaza’s pain",
-      "excerpt": "Italian artist Eduardo Castaldo has unveiled an artwork titled ‘Holy Mothers of Gaza’ inside Naples’ Pappacoda Chapel.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/aje-onl-nf_italian-artist-rips-madonna-painting-to-reveal-gaza-141126?traffic_source=rss",
-      "published": "2026-11-15T03:30:29+00:00",
+      "headline": "Jerusalem Daily: Mass funeral in Gaza as Netanyahu clings to power",
+      "excerpt": "A mass funeral was held in Gaza for 70 Palestinians whose bodies were trapped under the rubble.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/jerusalem-daily-mass-funeral-in-gaza-as-netanyahu-clings-to-power?traffic_source=rss",
+      "published": "2026-11-15T15:01:54+00:00",
       "featured": false
     },
     {
@@ -506,12 +506,30 @@
       "featured": false
     },
     {
-      "id": "e205aafed05a",
+      "id": "6df40c7c295e",
+      "source": "ProPublica",
+      "headline": "How Trump’s War on Offshore Wind Upended a “Limitless” Future for Thousands of New England Workers",
+      "excerpt": "The post How Trump’s War on Offshore Wind Upended a “Limitless” Future for Thousands of New England Workers appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/offshore-wind-trump-connecticut-massachussetts",
+      "published": "2026-11-13T10:00:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "1ea64fa21007",
       "source": "The Lever",
-      "headline": "Don’t F#*k It Up, Democrats, Ep. 4: Stopping Fascism After Trump",
-      "excerpt": "David Sirota asks Naomi Klein and Astra Taylor whether Democrats will use their new power to defeat fascism — or merely oppose Trump.",
-      "link": "https://www.levernews.com/dont-f-k-it-up-democrats-ep-4-stopping-fascism-after-trump/",
-      "published": "2026-11-12T17:08:33+00:00",
+      "headline": "Voters Rejected Data Centers. Democrats Could Supercharge Trump’s AI Boom.",
+      "excerpt": "Twenty-one Senate Democrats advanced a lame-duck permitting bill that could fast-track the fossil fuel infrastructure powering the White House’s data-center buildout.",
+      "link": "https://www.levernews.com/voters-rejected-data-centers-democrats-could-supercharge-trumps-ai-boom/",
+      "published": "2026-11-12T17:11:05+00:00",
+      "featured": false
+    },
+    {
+      "id": "587601176aa0",
+      "source": "404 Media",
+      "headline": "'No One Is Like This:' Muse Sexts While Roleplaying as Real People",
+      "excerpt": "Vanniall wanted to see if Muse would stop a boundary-pushing fan scenario. She found that it only encouraged this kind of behavior.",
+      "link": "https://www.404media.co/muse-sexts-roleplaying-real-people/",
+      "published": "2026-11-12T16:25:29+00:00",
       "featured": false
     },
     {
@@ -521,24 +539,6 @@
       "excerpt": "",
       "link": "https://www.occrp.org/en/news/uk-arrests-349-in-nationwide-money-laundering-crackdown",
       "published": "2026-11-12T12:09:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "8f4bd695e5e4",
-      "source": "ProPublica",
-      "headline": "More Than Numbers: Portraits of U.S. Citizens Detained by Immigration Agents",
-      "excerpt": "The post More Than Numbers: Portraits of U.S. Citizens Detained by Immigration Agents appeared first on ProPublica.",
-      "link": "https://projects.propublica.org/us-citizens-detained-immigration-photo-essay/",
-      "published": "2026-11-12T10:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "e0437dd8307b",
-      "source": "404 Media",
-      "headline": "Scientists Discovered An ‘Invisible’ Object In Space. It’s Challenging Our Understanding of the Cosmos",
-      "excerpt": "It's likely an ultra-rare supermassive neutron star.",
-      "link": "https://www.404media.co/scientists-discovered-an-invisible-object-in-space/",
-      "published": "2026-11-11T19:00:00+00:00",
       "featured": false
     }
   ]
