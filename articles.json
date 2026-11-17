@@ -1,14 +1,41 @@
 {
-  "generated_at": "2026-11-16T19:37:02.725087+00:00",
+  "generated_at": "2026-11-17T03:55:03.941496+00:00",
   "articles": [
     {
-      "id": "08ed79d7ae27",
+      "id": "78f74af01219",
       "source": "Al Jazeera",
-      "headline": "Saudi Arabia dismisses commander of coalition forces fighting Houthis",
-      "excerpt": "Move comes as government forces withdraw from Red Sea coast to halt Houthi approach to interim capital Aden.",
-      "link": "https://www.aljazeera.com/news/2026/11/16/saudi-arabia-dismisses-commander-of-coalition-forces-fighting-houthis?traffic_source=rss",
-      "published": "2026-11-16T19:19:21+00:00",
+      "headline": "Tankers hit in Strait of Hormuz as drone raises alarm at Iraq gas field",
+      "excerpt": "Iran reports tanker mine strikes as a drone alert in Iraq and the arrival of a US aircraft carrier raise tensions.",
+      "link": "https://www.aljazeera.com/news/2026/11/17/tankers-hit-in-strait-of-hormuz-as-drone-raises-alarm-at-iraq-gas-field?traffic_source=rss",
+      "published": "2026-11-17T03:12:54+00:00",
       "featured": true
+    },
+    {
+      "id": "a23f3f1b9c55",
+      "source": "The Intercept",
+      "headline": "The Intercept Sues U.S. Military Over Iran Casualty Tally and Blacklist of Journalists",
+      "excerpt": "Two lawsuits filed by The Intercept and Freedom of the Press Foundation push the military to comply with public information requests. The post The Intercept Sues U.S. Military Over Iran Casualty Tally and Blacklist of...",
+      "link": "https://theintercept.com/2026/11/16/intercept-sues-pentagon-military-hegseth/",
+      "published": "2026-11-16T22:04:16+00:00",
+      "featured": true
+    },
+    {
+      "id": "7eac1c4a9613",
+      "source": "The Lever",
+      "headline": "Democrats Have A Way Around The Filibuster. Will They Use It?",
+      "excerpt": "Dems could use reconciliation to pass their agenda with 51 Senate votes — will an unelected parliamentarian stand in their way?",
+      "link": "https://www.levernews.com/democrats-have-a-way-around-the-filibuster-will-they-use-it/",
+      "published": "2026-11-16T20:37:40+00:00",
+      "featured": true
+    },
+    {
+      "id": "8eccea12bf5a",
+      "source": "OCCRP",
+      "headline": "Iraq Cracks Down on Oil Smuggling in Area Controlled by Iran-aligned Shiite Militias",
+      "excerpt": "Following a leaked intelligence report on suspected oil smuggling by armed groups in the central region of Jurf al-Nasr, Iraq’s prime minister dismissed nine security officials. A retired army commander told OCCRP the...",
+      "link": "https://www.occrp.org/en/news/iraq-cracks-down-on-oil-smuggling-in-area-controlled-by-iran-aligned-shiite-militias",
+      "published": "2026-11-16T19:36:00+00:00",
+      "featured": false
     },
     {
       "id": "92dc4ef42685",
@@ -17,16 +44,7 @@
       "excerpt": "Court filings reveal how one of the world’s largest porn companies allowed child sexual abuse and nonconsensual videos to spread, even after victims and police flagged them.",
       "link": "https://www.icij.org/news/2026/11/he-used-pornhub-as-the-gun/",
       "published": "2026-11-16T18:40:06+00:00",
-      "featured": true
-    },
-    {
-      "id": "de2fa6f6bdf8",
-      "source": "The Lever",
-      "headline": "Trump’s Lame-Duck Power Grab Could Last 15 Years",
-      "excerpt": "In the weeks before Democrats take over Congress, MAGA could install its own federal overseer until 2041.",
-      "link": "https://www.levernews.com/trumps-lame-duck-power-grab-could-last-15-years/",
-      "published": "2026-11-16T17:25:34+00:00",
-      "featured": true
+      "featured": false
     },
     {
       "id": "648aef95893b",
@@ -44,15 +62,6 @@
       "excerpt": "\"Any human would agree with me that there’s something clearly wrong here.\"",
       "link": "https://www.404media.co/ai-powered-copyright-hell/",
       "published": "2026-11-16T15:25:10+00:00",
-      "featured": false
-    },
-    {
-      "id": "7177c2cfa9c5",
-      "source": "OCCRP",
-      "headline": "The Students Beat the Strongman. Now What? Five Questions on What Comes Next For Serbia",
-      "excerpt": "Corruption and kleptocracy expert Tena Prelec speaks to OCCRP on the challenges and opportunities that await Serbia’s student-backed party after it was voted into power with a mandate to rid the country of corruption.",
-      "link": "https://www.occrp.org/en/feature/the-students-beat-the-strongman-now-what-five-questions-on-whats-next-for-serbias-political-revolution",
-      "published": "2026-11-16T14:20:00+00:00",
       "featured": false
     },
     {
@@ -74,15 +83,6 @@
       "featured": false
     },
     {
-      "id": "65d51ba1c6f8",
-      "source": "The Intercept",
-      "headline": "The Year of the Pro-Palestine Super PAC",
-      "excerpt": "Pro-Palestine groups emerged to counter the pro-Israel lobby this cycle — and won. The post The Year of the Pro-Palestine Super PAC appeared first on The Intercept.",
-      "link": "https://theintercept.com/2026/11/16/pro-palestine-election-spending-midterms/",
-      "published": "2026-11-16T10:51:00+00:00",
-      "featured": false
-    },
-    {
       "id": "19f92bb3f004",
       "source": "More Perfect Union",
       "headline": "The Midterms’ Biggest Loser is a Political Lesson",
@@ -101,12 +101,30 @@
       "featured": false
     },
     {
-      "id": "f7b7a835333b",
+      "id": "c6cf2fe294c0",
       "source": "Al Jazeera",
-      "headline": "Thousands report difficulties accessing accounts online at major US banks",
-      "excerpt": "Customers report online access issues at major US banks, including Chase, Wells Fargo, and Bank of America.",
-      "link": "https://www.aljazeera.com/news/2026/11/16/thousands-report-difficulties-accessing-accounts-online-at-major-us-banks?traffic_source=rss",
-      "published": "2026-11-16T19:18:10+00:00",
+      "headline": "US moves to block China’s remote access to AI chips amid Nvidia scandal",
+      "excerpt": "The Trump administration introduces export licence requirement for Malaysia, Thailand, Indonesia, Singapore and Brazil.",
+      "link": "https://www.aljazeera.com/economy/2026/11/17/us-moves-to-block-chinas-remote-access-to-ai-chips-amid-nvidia-scandal?traffic_source=rss",
+      "published": "2026-11-17T02:52:56+00:00",
+      "featured": false
+    },
+    {
+      "id": "c2e91ae5188e",
+      "source": "The Intercept",
+      "headline": "ICE Shot Pepper Spray Into a Car in a Traffic Stop, Then Broke a Detainee’s Collarbone",
+      "excerpt": "A new federal lawsuit accuses ICE and DHS of a batch of brutal warrantless arrests. The post ICE Shot Pepper Spray Into a Car in a Traffic Stop, Then Broke a Detainee’s Collarbone appeared first on The Intercept.",
+      "link": "https://theintercept.com/2026/11/16/ice-violence-warrantless-arrest-lawsuit/",
+      "published": "2026-11-16T21:15:16+00:00",
+      "featured": false
+    },
+    {
+      "id": "de2fa6f6bdf8",
+      "source": "The Lever",
+      "headline": "Trump’s Lame-Duck Power Grab Could Last 15 Years",
+      "excerpt": "In the weeks before Democrats take over Congress, MAGA could install its own federal overseer until 2041.",
+      "link": "https://www.levernews.com/trumps-lame-duck-power-grab-could-last-15-years/",
+      "published": "2026-11-16T17:25:34+00:00",
       "featured": false
     },
     {
@@ -119,39 +137,21 @@
       "featured": false
     },
     {
+      "id": "7177c2cfa9c5",
+      "source": "OCCRP",
+      "headline": "The Students Beat the Strongman. Now What? Five Questions on What Comes Next For Serbia",
+      "excerpt": "Corruption and kleptocracy expert Tena Prelec speaks to OCCRP on the challenges and opportunities that await Serbia’s student-backed party after it was voted into power with a mandate to rid the country of corruption.",
+      "link": "https://www.occrp.org/en/feature/the-students-beat-the-strongman-now-what-five-questions-on-whats-next-for-serbias-political-revolution",
+      "published": "2026-11-16T14:20:00+00:00",
+      "featured": false
+    },
+    {
       "id": "432270ec1aa9",
       "source": "ProPublica",
       "headline": "Chicago Is $55 Billion in Debt, With No End in Sight. It’s a Threat to City Services.",
       "excerpt": "The post Chicago Is $55 Billion in Debt, With No End in Sight. It’s a Threat to City Services. appeared first on ProPublica.",
       "link": "https://www.propublica.org/article/chicago-debt-burden-public-health-safety",
       "published": "2026-11-16T10:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "8b407397e30d",
-      "source": "The Intercept",
-      "headline": "The Future Is Bright for the Democrats, as Long as They Don’t Have to Interact With the Public",
-      "excerpt": "Don’t call them centrists. At a strategy conference in Denver, prominent Democrats talked around what they think is next. The post The Future Is Bright for the Democrats, as Long as They Don’t Have to Interact With the...",
-      "link": "https://theintercept.com/2026/11/16/democrats-whats-next-denver-2028/",
-      "published": "2026-11-16T10:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "0c3e40abfb14",
-      "source": "OCCRP",
-      "headline": "Switzerland is Prosecuting the First Journalist Under its Banking Secrecy Law. The EU Has No Comment.",
-      "excerpt": "The European Commission declined to comment on the prosecution of a Swiss journalist whose reporting helped expose a major banking scandal. The case has raised concerns about the use of banking secrecy laws against...",
-      "link": "https://www.occrp.org/en/news/switzerland-is-prosecuting-the-first-journalist-under-its-banking-secrecy-law-the-eu-has-no-comment",
-      "published": "2026-11-16T05:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "27af6daaf71b",
-      "source": "The Lever",
-      "headline": "Lever Weekly: The Donors Would Like A Word",
-      "excerpt": "Data center betrayals, billion-dollar ICE deals, and more from The Lever this week.",
-      "link": "https://www.levernews.com/lever-weekly-the-donors-would-like-a-word/",
-      "published": "2026-11-15T13:57:00+00:00",
       "featured": false
     },
     {
@@ -200,12 +200,21 @@
       "featured": false
     },
     {
-      "id": "35ae23b3dc7f",
+      "id": "899257ebfc02",
       "source": "Al Jazeera",
-      "headline": "Is Israel’s Eisenkot bloc less right wing than Netanyahu?",
-      "excerpt": "An Israeli government without PM Netanyahu may be close, but a government without his politics is far less certain.",
-      "link": "https://www.aljazeera.com/news/2026/11/16/is-israels-opposition-less-right-wing-than-netanyahu?traffic_source=rss",
-      "published": "2026-11-16T19:09:09+00:00",
+      "headline": "Yemeni army reports 661 attacks on Houthis as group advances towards Aden",
+      "excerpt": "Yemen's army reports 173 Houthi fighters killed or wounded as government forces reposition to defend Aden.",
+      "link": "https://www.aljazeera.com/news/2026/11/17/yemen-army-reports-661-attacks-on-houthis-amid-houthi-push-towards-aden?traffic_source=rss",
+      "published": "2026-11-17T01:38:13+00:00",
+      "featured": false
+    },
+    {
+      "id": "65d51ba1c6f8",
+      "source": "The Intercept",
+      "headline": "The Year of the Pro-Palestine Super PAC",
+      "excerpt": "Pro-Palestine groups emerged to counter the pro-Israel lobby this cycle — and won. The post The Year of the Pro-Palestine Super PAC appeared first on The Intercept.",
+      "link": "https://theintercept.com/2026/11/16/pro-palestine-election-spending-midterms/",
+      "published": "2026-11-16T10:51:00+00:00",
       "featured": false
     },
     {
@@ -218,6 +227,24 @@
       "featured": false
     },
     {
+      "id": "0c3e40abfb14",
+      "source": "OCCRP",
+      "headline": "Switzerland is Prosecuting the First Journalist Under its Banking Secrecy Law. The EU Has No Comment.",
+      "excerpt": "The European Commission declined to comment on the prosecution of a Swiss journalist whose reporting helped expose a major banking scandal. The case has raised concerns about the use of banking secrecy laws against...",
+      "link": "https://www.occrp.org/en/news/switzerland-is-prosecuting-the-first-journalist-under-its-banking-secrecy-law-the-eu-has-no-comment",
+      "published": "2026-11-16T05:00:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "27af6daaf71b",
+      "source": "The Lever",
+      "headline": "Lever Weekly: The Donors Would Like A Word",
+      "excerpt": "Data center betrayals, billion-dollar ICE deals, and more from The Lever this week.",
+      "link": "https://www.levernews.com/lever-weekly-the-donors-would-like-a-word/",
+      "published": "2026-11-15T13:57:00+00:00",
+      "featured": false
+    },
+    {
       "id": "be3c86b2a424",
       "source": "404 Media",
       "headline": "This Comic Kills Technofascists",
@@ -227,39 +254,12 @@
       "featured": false
     },
     {
-      "id": "ab909ca8775c",
-      "source": "The Intercept",
-      "headline": "The Ceaseless Ceasefire",
-      "excerpt": "Gaza, “peace,” and surviving a zombie conflict. The post The Ceaseless Ceasefire appeared first on The Intercept.",
-      "link": "https://theintercept.com/2026/11/14/israel-gaza-ceasefire-violations/",
-      "published": "2026-11-14T18:59:33+00:00",
-      "featured": false
-    },
-    {
-      "id": "0a49136a7fc6",
-      "source": "The Lever",
-      "headline": "You Love To See It: A Dose Of Good News",
-      "excerpt": "A supermarket gets its sweet desserts, Hawaiian records get a discount, and other good news.",
-      "link": "https://www.levernews.com/you-love-to-see-it-a-dose-of-good-news/",
-      "published": "2026-11-14T14:04:00+00:00",
-      "featured": false
-    },
-    {
       "id": "981f96295622",
       "source": "Dropsite News",
       "headline": "Iran hits U.S. radar in Bahrain; Van Hollen challenges Schumer; Trump considers military operation against Cuba",
       "excerpt": "Drop Site Daily: November 13, 2026",
       "link": "https://www.dropsitenews.com/p/iran-hits-us-radar-in-bahrain-van",
       "published": "2026-11-13T15:56:52+00:00",
-      "featured": false
-    },
-    {
-      "id": "eca2ad1c7964",
-      "source": "OCCRP",
-      "headline": "Five Questions About the Future of Global Anticorruption Efforts in the Trump Era",
-      "excerpt": "Law Professor Kevin E. Davis, whose research has explored the ways that anti-corruption laws affect economic development, discusses the future of transnational anti-bribery enforcement after U.S. President Donald...",
-      "link": "https://www.occrp.org/en/feature/five-questions-future-global-anticorruption-efforts-trump-era",
-      "published": "2026-11-13T11:17:00+00:00",
       "featured": false
     },
     {
@@ -299,12 +299,21 @@
       "featured": false
     },
     {
-      "id": "ae09a94e8a2f",
+      "id": "02b6262a7355",
       "source": "Al Jazeera",
-      "headline": "Abdul El-Sayed’s victory is a blow to the politics of Islamophobia",
-      "excerpt": "He embraced his Muslim identity, put Gaza on the ballot and showed Democrats a different way forward.",
-      "link": "https://www.aljazeera.com/opinions/2026/11/16/abdul-el-sayeds-victory-is-a-blow-to-the-politics-of-islamophobia?traffic_source=rss",
-      "published": "2026-11-16T18:38:16+00:00",
+      "headline": "Irish court jails man for life over Dublin knife attack that sparked riots",
+      "excerpt": "Three children and a woman were injured in the attack outside a central Dublin school in 2023.",
+      "link": "https://www.aljazeera.com/news/2026/11/17/irish-court-jails-man-for-life-over-dublin-knife-attack-that-sparked-riots?traffic_source=rss",
+      "published": "2026-11-17T01:19:56+00:00",
+      "featured": false
+    },
+    {
+      "id": "8b407397e30d",
+      "source": "The Intercept",
+      "headline": "The Future Is Bright for the Democrats, as Long as They Don’t Have to Interact With the Public",
+      "excerpt": "Don’t call them centrists. At a strategy conference in Denver, prominent Democrats talked around what they think is next. The post The Future Is Bright for the Democrats, as Long as They Don’t Have to Interact With the...",
+      "link": "https://theintercept.com/2026/11/16/democrats-whats-next-denver-2028/",
+      "published": "2026-11-16T10:00:00+00:00",
       "featured": false
     },
     {
@@ -317,6 +326,15 @@
       "featured": false
     },
     {
+      "id": "0a49136a7fc6",
+      "source": "The Lever",
+      "headline": "You Love To See It: A Dose Of Good News",
+      "excerpt": "A supermarket gets its sweet desserts, Hawaiian records get a discount, and other good news.",
+      "link": "https://www.levernews.com/you-love-to-see-it-a-dose-of-good-news/",
+      "published": "2026-11-14T14:04:00+00:00",
+      "featured": false
+    },
+    {
       "id": "b12aa5024068",
       "source": "404 Media",
       "headline": "Scientists Made Monkeys Watch Minions to Study Their Brains",
@@ -326,30 +344,12 @@
       "featured": false
     },
     {
-      "id": "2c20201a0398",
-      "source": "The Intercept",
-      "headline": "Will Senate Religious Freedom Bill Actually Protect Land Sales for Israeli Settlements?",
-      "excerpt": "Advocates said the bill was necessary because of protests outside synagogues hosting real estate expos for Israeli settlement land. The post Will Senate Religious Freedom Bill Actually Protect Land Sales for Israeli...",
-      "link": "https://theintercept.com/2026/11/14/religious-freedom-protest-israeli-settlement-sales/",
-      "published": "2026-11-14T10:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "0762c50ca271",
-      "source": "The Lever",
-      "headline": "Can You Count Votes?",
-      "excerpt": "Test your knowledge of the midterms, Congress, and other issues that really matter.",
-      "link": "https://www.levernews.com/levermind-quiz-can-you-count-votes/",
-      "published": "2026-11-13T18:26:47+00:00",
-      "featured": false
-    },
-    {
-      "id": "0ed1bae23289",
+      "id": "eca2ad1c7964",
       "source": "OCCRP",
-      "headline": "Buro Media Launches Database of Lukashenko’s Inner Circle",
-      "excerpt": "OCCRP’s Belarusian member center Buro Media has launched a database profiling 20 people close to Aleksandr Lukashenko, documenting their assets, business interests, connections, and privileges.",
-      "link": "https://www.occrp.org/en/news/buro-media-launches-database-of-lukashenkos-inner-circle",
-      "published": "2026-11-13T10:34:00+00:00",
+      "headline": "Five Questions About the Future of Global Anticorruption Efforts in the Trump Era",
+      "excerpt": "Law Professor Kevin E. Davis, whose research has explored the ways that anti-corruption laws affect economic development, discusses the future of transnational anti-bribery enforcement after U.S. President Donald...",
+      "link": "https://www.occrp.org/en/feature/five-questions-future-global-anticorruption-efforts-trump-era",
+      "published": "2026-11-13T11:17:00+00:00",
       "featured": false
     },
     {
@@ -398,12 +398,21 @@
       "featured": false
     },
     {
-      "id": "c7c97534a839",
+      "id": "3e6084207749",
       "source": "Al Jazeera",
-      "headline": "British actor Robert Pattinson named as new James Bond",
-      "excerpt": "The actor called the studio's decision a 'dream come true'.",
-      "link": "https://www.aljazeera.com/news/2026/11/16/british-actor-robert-pattinson-named-as-new-james-bond?traffic_source=rss",
-      "published": "2026-11-16T18:13:14+00:00",
+      "headline": "EU countries announce migrant deportation centre in Rwanda",
+      "excerpt": "Germany, Austria, the Netherlands, Denmark and Greece have announced that Rwanda will be used as a deportation centre.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/17/eu-countries-announce-migrant-deportation-centre-in-rwanda?traffic_source=rss",
+      "published": "2026-11-17T01:12:28+00:00",
+      "featured": false
+    },
+    {
+      "id": "ab909ca8775c",
+      "source": "The Intercept",
+      "headline": "The Ceaseless Ceasefire",
+      "excerpt": "Gaza, “peace,” and surviving a zombie conflict. The post The Ceaseless Ceasefire appeared first on The Intercept.",
+      "link": "https://theintercept.com/2026/11/14/israel-gaza-ceasefire-violations/",
+      "published": "2026-11-14T18:59:33+00:00",
       "featured": false
     },
     {
@@ -416,12 +425,12 @@
       "featured": false
     },
     {
-      "id": "e8727a4df243",
-      "source": "The Intercept",
-      "headline": "Congress Might Sneakily Use Lame Duck to Deeply Intertwine the U.S. and Israeli Militaries",
-      "excerpt": "Democrats must stand with their voters and block the NDAA's provisions to cooperate even more closely with Israel. The post Congress Might Sneakily Use Lame Duck to Deeply Intertwine the U.S. and Israeli Militaries...",
-      "link": "https://theintercept.com/2026/11/13/ndaa-congress-israel-military/",
-      "published": "2026-11-13T21:39:07+00:00",
+      "id": "0762c50ca271",
+      "source": "The Lever",
+      "headline": "Can You Count Votes?",
+      "excerpt": "Test your knowledge of the midterms, Congress, and other issues that really matter.",
+      "link": "https://www.levernews.com/levermind-quiz-can-you-count-votes/",
+      "published": "2026-11-13T18:26:47+00:00",
       "featured": false
     },
     {
@@ -434,21 +443,12 @@
       "featured": false
     },
     {
-      "id": "df324333346b",
-      "source": "The Lever",
-      "headline": "The Revolving Door In The Desert",
-      "excerpt": "A new report alleges that politically connected players advanced a massive data center project in drought-stricken New Mexico through corruption and backroom dealings.",
-      "link": "https://www.levernews.com/the-revolving-door-in-the-desert/",
-      "published": "2026-11-13T17:01:13+00:00",
-      "featured": false
-    },
-    {
-      "id": "9ef48f72e8c4",
+      "id": "0ed1bae23289",
       "source": "OCCRP",
-      "headline": "US Prosecutors Ask Judge to Allow Bribery Evidence in South American Drug Trafficking Case",
-      "excerpt": "Ahead of a trial expected early next year, the U.S. Justice Department is asking a federal judge to admit intercepted messages and evidence of alleged payoffs made by Sebastián Marset to officials in Uruguay, Paraguay,...",
-      "link": "https://www.occrp.org/en/news/us-prosecutors-ask-judge-to-allow-bribery-evidence-in-south-american-drug-trafficking-case",
-      "published": "2026-11-13T09:49:00+00:00",
+      "headline": "Buro Media Launches Database of Lukashenko’s Inner Circle",
+      "excerpt": "OCCRP’s Belarusian member center Buro Media has launched a database profiling 20 people close to Aleksandr Lukashenko, documenting their assets, business interests, connections, and privileges.",
+      "link": "https://www.occrp.org/en/news/buro-media-launches-database-of-lukashenkos-inner-circle",
+      "published": "2026-11-13T10:34:00+00:00",
       "featured": false
     },
     {
@@ -488,12 +488,21 @@
       "featured": false
     },
     {
-      "id": "6fc0571b8949",
+      "id": "ae1b63a90fce",
       "source": "Al Jazeera",
-      "headline": "Cargo ship capsizes off Bulgaria’s Black Sea coast",
-      "excerpt": "Bulgaria's Transport Ministry says that all 12 of the ship's crew members were saved in a rescue operation.",
-      "link": "https://www.aljazeera.com/news/2026/11/16/cargo-ship-capsizes-off-bulgarias-black-sea-coast?traffic_source=rss",
-      "published": "2026-11-16T17:54:31+00:00",
+      "headline": "Ukraine holds peace talks with US, Europe as conflict escalates",
+      "excerpt": "Kushner reports progress towards a deal, but Moscow says it has not agreed to European participation in the next talks.",
+      "link": "https://www.aljazeera.com/news/2026/11/17/ukraine-holds-peace-talks-with-us-europe-as-conflict-escalates?traffic_source=rss",
+      "published": "2026-11-17T00:45:11+00:00",
+      "featured": false
+    },
+    {
+      "id": "2c20201a0398",
+      "source": "The Intercept",
+      "headline": "Will Senate Religious Freedom Bill Actually Protect Land Sales for Israeli Settlements?",
+      "excerpt": "Advocates said the bill was necessary because of protests outside synagogues hosting real estate expos for Israeli settlement land. The post Will Senate Religious Freedom Bill Actually Protect Land Sales for Israeli...",
+      "link": "https://theintercept.com/2026/11/14/religious-freedom-protest-israeli-settlement-sales/",
+      "published": "2026-11-14T10:00:00+00:00",
       "featured": false
     },
     {
@@ -506,12 +515,12 @@
       "featured": false
     },
     {
-      "id": "6e44dddada40",
-      "source": "The Intercept",
-      "headline": "Israel Used a U.S.-Made Missile to Kill Six at Gaza’s Nasser Hospital",
-      "excerpt": "“That’s not complicity,” said a U.S. doctor. “That’s active participation in the murder of physicians and other healthcare workers.” The post Israel Used a U.S.-Made Missile to Kill Six at Gaza’s Nasser Hospital...",
-      "link": "https://theintercept.com/2026/11/13/israel-gaza-nasser-hospital-attack/",
-      "published": "2026-11-13T19:29:19+00:00",
+      "id": "df324333346b",
+      "source": "The Lever",
+      "headline": "The Revolving Door In The Desert",
+      "excerpt": "A new report alleges that politically connected players advanced a massive data center project in drought-stricken New Mexico through corruption and backroom dealings.",
+      "link": "https://www.levernews.com/the-revolving-door-in-the-desert/",
+      "published": "2026-11-13T17:01:13+00:00",
       "featured": false
     },
     {
@@ -524,21 +533,12 @@
       "featured": false
     },
     {
-      "id": "e854b0c64d79",
-      "source": "The Lever",
-      "headline": "Voters Said No To Data Centers — Now So Is Josh Hawley",
-      "excerpt": "The data center revolt just got a new high-ranking new ally.",
-      "link": "https://www.levernews.com/voters-are-rejecting-data-centers-now-so-is-josh-hawley/",
-      "published": "2026-11-12T20:50:32+00:00",
-      "featured": false
-    },
-    {
-      "id": "b83dbab32cb5",
-      "source": "Dropsite News",
-      "headline": "Israel bombs Gaza hospital, killing 6; Scott Colom wins Mississippi’s Senate race; Nvidia CEO resigns",
-      "excerpt": "Drop Site Daily: November 12, 2026",
-      "link": "https://www.dropsitenews.com/p/israel-bombs-gaza-hospital-killing",
-      "published": "2026-11-12T16:18:32+00:00",
+      "id": "9ef48f72e8c4",
+      "source": "OCCRP",
+      "headline": "US Prosecutors Ask Judge to Allow Bribery Evidence in South American Drug Trafficking Case",
+      "excerpt": "Ahead of a trial expected early next year, the U.S. Justice Department is asking a federal judge to admit intercepted messages and evidence of alleged payoffs made by Sebastián Marset to officials in Uruguay, Paraguay,...",
+      "link": "https://www.occrp.org/en/news/us-prosecutors-ask-judge-to-allow-bribery-evidence-in-south-american-drug-trafficking-case",
+      "published": "2026-11-13T09:49:00+00:00",
       "featured": false
     }
   ]
