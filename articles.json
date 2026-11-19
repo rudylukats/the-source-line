@@ -1,23 +1,41 @@
 {
-  "generated_at": "2026-11-19T02:34:25.619449+00:00",
+  "generated_at": "2026-11-19T11:41:02.155172+00:00",
   "articles": [
     {
-      "id": "8fe81af2c81d",
+      "id": "9160d257b83d",
       "source": "Al Jazeera",
-      "headline": "Hegseth unveils new US-Venezuela military deal",
-      "excerpt": "Pete Hegseth has unveiled a new military deal with Venezuela in his first visit since the US capture of Nicolas Maduro.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/19/hegseth-unveils-new-us-venezuela-military-deal?traffic_source=rss",
-      "published": "2026-11-19T01:48:46+00:00",
+      "headline": "Denmark parliament approves security deal with Greenland and US",
+      "excerpt": "All 109 Danish lawmakers present approved the deal, easing tensions over Trump's desire to annex the Arctic island.",
+      "link": "https://www.aljazeera.com/news/2026/11/19/denmark-parliament-approves-security-deal-with-greenland-and-us?traffic_source=rss",
+      "published": "2026-11-19T11:09:00+00:00",
+      "featured": true
+    },
+    {
+      "id": "4343ba189831",
+      "source": "ProPublica",
+      "headline": "The Trump DOJ Quietly Intervened to Ink a Huge Payout to a Trump Golf Pro",
+      "excerpt": "The post The Trump DOJ Quietly Intervened to Ink a Huge Payout to a Trump Golf Pro appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/irs-settlement-golf-pro-shelby-lowman",
+      "published": "2026-11-19T11:00:00+00:00",
+      "featured": true
+    },
+    {
+      "id": "b2365444ebf0",
+      "source": "Rest of World",
+      "headline": "AI isn’t replacing your job. It’s turning it into low-paid gig work",
+      "excerpt": "Surgeon Kapil Sahnan uses a DaVinci Robot during surgery on a woman, 2026.",
+      "link": "https://restofworld.org/2026/ai-jobs-skills-gig-work/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "published": "2026-11-19T11:00:00+00:00",
       "featured": true
     },
     {
       "id": "1fcf081ea2c4",
       "source": "The Lever",
       "headline": "Democrats Refuse To Learn Newt Gingrich’s Lesson",
-      "excerpt": "A political party will not change unless its status quo culture is replaced by an insurgency culture – and deference to establishment leaders will not do that.",
+      "excerpt": "A political party will not change unless its status quo culture is replaced by an insurgency culture — and deference to establishment leaders will not do that.",
       "link": "https://www.levernews.com/speaker-hakeem-jeffries-newt-gingrich-democrats/",
       "published": "2026-11-19T00:53:33+00:00",
-      "featured": true
+      "featured": false
     },
     {
       "id": "9729092c9d15",
@@ -26,15 +44,6 @@
       "excerpt": "At the White House, Gary Lawkowski helped craft NSPM-7. Now he wants to be the top lawyer at the main U.S. intelligence office. The post Trump Intel Pick Calls $1 Million Bribe for a Pardon a “Complicated Legal...",
       "link": "https://theintercept.com/2026/11/18/trump-gary-lawkowski-nspm-7-pardons/",
       "published": "2026-11-18T23:19:29+00:00",
-      "featured": true
-    },
-    {
-      "id": "50f7437b8218",
-      "source": "ProPublica",
-      "headline": "Chicago’s City Council Orders Independent Review of Finances as Scrutiny Intensifies",
-      "excerpt": "The post Chicago’s City Council Orders Independent Review of Finances as Scrutiny Intensifies appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/chicago-city-council-finance-review",
-      "published": "2026-11-18T22:30:00+00:00",
       "featured": false
     },
     {
@@ -83,15 +92,6 @@
       "featured": false
     },
     {
-      "id": "20e8852a9626",
-      "source": "Rest of World",
-      "headline": "The small African lab sounding the alarm on AI bioweapons",
-      "excerpt": "Photograph showing Georgina an AI Engineer building and working on the user interface of the new model Moremi.",
-      "link": "https://restofworld.org/2026/ghana-ai-lab-minohealth-bioweapons-threat-dna-synthesis-regulation/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-      "published": "2026-11-16T11:00:23+00:00",
-      "featured": false
-    },
-    {
       "id": "c88c15aa3fe0",
       "source": "Bellingcat",
       "headline": "How Online Maps Lay Bare the US Military Bases Targeted by Iran",
@@ -101,12 +101,21 @@
       "featured": false
     },
     {
-      "id": "a23a354e9c43",
+      "id": "3abb8e70f06f",
       "source": "Al Jazeera",
-      "headline": "Why a trio of experts alleges Jeffrey Epstein did not die by suicide",
-      "excerpt": "A new report alleges that injuries on Epstein's body were overlooked by medical examiners during his 2019 autopsy.",
-      "link": "https://www.aljazeera.com/news/2026/11/19/why-a-trio-of-experts-alleges-jeffrey-epstein-did-not-die-by-suicide?traffic_source=rss",
-      "published": "2026-11-19T01:17:08+00:00",
+      "headline": "FIFA confirms Diallo, Tashima as Infantino’s challengers at 2027 election",
+      "excerpt": "French football chief Philippe Diallo and Japan's Kozo Tashima will be the only candidates to run for FIFA presidency.",
+      "link": "https://www.aljazeera.com/sports/2026/11/19/fifa-confirms-diallo-tashima-as-infantinos-challengers-at-2027-election?traffic_source=rss",
+      "published": "2026-11-19T10:42:53+00:00",
+      "featured": false
+    },
+    {
+      "id": "979247516ab9",
+      "source": "ProPublica",
+      "headline": "We’re Publishing the Tariff Refunds the Government Has Refused to Disclose",
+      "excerpt": "The post We’re Publishing the Tariff Refunds the Government Has Refused to Disclose appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/tariff-refund-database-cash-back",
+      "published": "2026-11-19T10:35:00+00:00",
       "featured": false
     },
     {
@@ -134,15 +143,6 @@
       "excerpt": "Drop Site Daily: November 18, 2026",
       "link": "https://www.dropsitenews.com/p/israel-gaza-operation-jeffries-speaker-nsa-comms-system",
       "published": "2026-11-18T16:20:54+00:00",
-      "featured": false
-    },
-    {
-      "id": "24e6b6c84bc1",
-      "source": "ProPublica",
-      "headline": "They Were Just Admitted to the Bar. Now They’re Federal Prosecutors. Meet Trump’s New DOJ.",
-      "excerpt": "The post They Were Just Admitted to the Bar. Now They’re Federal Prosecutors. Meet Trump’s New DOJ. appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/federal-prosecutors-hiring-trump-doj",
-      "published": "2026-11-18T11:00:00+00:00",
       "featured": false
     },
     {
@@ -182,12 +182,12 @@
       "featured": false
     },
     {
-      "id": "958bef4751bf",
+      "id": "20e8852a9626",
       "source": "Rest of World",
-      "headline": "How Jensen Huang’s exit from Nvidia impacts China’s AI supply chain",
-      "excerpt": "Nvidia CEO Jensen Huang attends a summit at the Institute of Peace on October 8, 2026 in Washington, DC.",
-      "link": "https://restofworld.org/2026/jensen-huang-nvidia-exit-china-ai-chip-impact/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-      "published": "2026-11-13T16:24:10+00:00",
+      "headline": "The small African lab sounding the alarm on AI bioweapons",
+      "excerpt": "Photograph showing Georgina an AI Engineer building and working on the user interface of the new model Moremi.",
+      "link": "https://restofworld.org/2026/ghana-ai-lab-minohealth-bioweapons-threat-dna-synthesis-regulation/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "published": "2026-11-16T11:00:23+00:00",
       "featured": false
     },
     {
@@ -200,12 +200,21 @@
       "featured": false
     },
     {
-      "id": "06181339fac7",
+      "id": "ec20b8d86961",
       "source": "Al Jazeera",
-      "headline": "Settler rams into Palestinians at multiple locations in central Israel",
-      "excerpt": "At least eight Palestinians were injured after a settler driver was caught on camera running them over.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/19/settler-rams-into-palestinians-at-multiple-locations-in-central-israel?traffic_source=rss",
-      "published": "2026-11-19T01:13:45+00:00",
+      "headline": "UN top court convicts Myanmar of ‘genocidal intent’ against Rohingya",
+      "excerpt": "In case filed at the ICJ in 2019, The Gambia accused Myanmar of breaching the 1948 Genocide Convention.",
+      "link": "https://www.aljazeera.com/news/2026/11/19/un-top-court-finds-myanmar-killed-10000-rohingya-as-it-rules-on-genocide?traffic_source=rss",
+      "published": "2026-11-19T10:31:36+00:00",
+      "featured": false
+    },
+    {
+      "id": "6f125a48a92b",
+      "source": "ProPublica",
+      "headline": "See How Much Companies Are Getting in Tariff Refunds",
+      "excerpt": "The post See How Much Companies Are Getting in Tariff Refunds appeared first on ProPublica.",
+      "link": "https://projects.propublica.org/trump-tariff-refund-ieepa/",
+      "published": "2026-11-19T10:30:00+00:00",
       "featured": false
     },
     {
@@ -245,15 +254,6 @@
       "featured": false
     },
     {
-      "id": "8d20372a31c0",
-      "source": "ProPublica",
-      "headline": "They Suffered Brain Injuries After Riding a Six Flags Roller Coaster. Regulators Pinned the Blame on Them.",
-      "excerpt": "The post They Suffered Brain Injuries After Riding a Six Flags Roller Coaster. Regulators Pinned the Blame on Them. appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/california-six-flags-x2-roller-coaster-brain-injuries-calosha",
-      "published": "2026-11-17T19:20:00+00:00",
-      "featured": false
-    },
-    {
       "id": "3e659f7c83c5",
       "source": "OCCRP",
       "headline": "Kyrgyz Man Sentenced to Three Years For Re-Posting Video on Facebook",
@@ -272,12 +272,12 @@
       "featured": false
     },
     {
-      "id": "37c5b562dc74",
+      "id": "958bef4751bf",
       "source": "Rest of World",
-      "headline": "The promise and peril of AI in government",
-      "excerpt": "In her new book “Reboot: AI and the Race to Save Democracy,” writer Beth Simone Noveck warns that while AI can increase efficiency, predictive models pose significant ethical and societal risks.",
-      "link": "https://restofworld.org/2026/ai-government-ethics-bias-risk/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-      "published": "2026-11-12T11:00:00+00:00",
+      "headline": "How Jensen Huang’s exit from Nvidia impacts China’s AI supply chain",
+      "excerpt": "Nvidia CEO Jensen Huang attends a summit at the Institute of Peace on October 8, 2026 in Washington, DC.",
+      "link": "https://restofworld.org/2026/jensen-huang-nvidia-exit-china-ai-chip-impact/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "published": "2026-11-13T16:24:10+00:00",
       "featured": false
     },
     {
@@ -299,12 +299,21 @@
       "featured": false
     },
     {
-      "id": "a72278ca30f5",
+      "id": "1aaebe7d96fe",
       "source": "Al Jazeera",
-      "headline": "German FA backs France’s Diallo for FIFA presidency",
-      "excerpt": "Incumbent Gianni Infantino has resisted repeated calls to resign, citing overwhelming global support.",
-      "link": "https://www.aljazeera.com/news/2026/11/19/german-fa-backs-frances-diallo-for-fifa-presidency?traffic_source=rss",
-      "published": "2026-11-19T00:44:50+00:00",
+      "headline": "‘Displacement by design’: Trump’s Gaza peace plan a failure, aid groups say",
+      "excerpt": "With two million Palestinians confined to an area of less than 130sq km, UN-backed Gaza peace plan has collapsed.",
+      "link": "https://www.aljazeera.com/news/2026/11/19/displacement-by-design-trumps-gaza-peace-plan-a-failure-aid-groups-say?traffic_source=rss",
+      "published": "2026-11-19T10:05:33+00:00",
+      "featured": false
+    },
+    {
+      "id": "f51d572214be",
+      "source": "ProPublica",
+      "headline": "This Counselor Faces Trial for Sexually Abusing 15 Students. California Has Been Warned About Him for Years.",
+      "excerpt": "The post This Counselor Faces Trial for Sexually Abusing 15 Students. California Has Been Warned About Him for Years. appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/california-educator-licenses-sexual-abuse-criminal-charges",
+      "published": "2026-11-19T10:00:00+00:00",
       "featured": false
     },
     {
@@ -344,15 +353,6 @@
       "featured": false
     },
     {
-      "id": "29fc04373343",
-      "source": "ProPublica",
-      "headline": "A Federal Women’s Prison Became a “Rape Club.” After Officials Shut It Down, Rampant Abuse Continued Elsewhere.",
-      "excerpt": "The post A Federal Women’s Prison Became a “Rape Club.” After Officials Shut It Down, Rampant Abuse Continued Elsewhere. appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/federal-womens-prison-sexual-abuse-reform-dublin-bop",
-      "published": "2026-11-17T11:00:00+00:00",
-      "featured": false
-    },
-    {
       "id": "8eccea12bf5a",
       "source": "OCCRP",
       "headline": "Iraq Cracks Down on Oil Smuggling in Area Controlled by Iran-aligned Shiite Militias",
@@ -362,21 +362,21 @@
       "featured": false
     },
     {
+      "id": "37c5b562dc74",
+      "source": "Rest of World",
+      "headline": "The promise and peril of AI in government",
+      "excerpt": "In her new book “Reboot: AI and the Race to Save Democracy,” writer Beth Simone Noveck warns that while AI can increase efficiency, predictive models pose significant ethical and societal risks.",
+      "link": "https://restofworld.org/2026/ai-government-ethics-bias-risk/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "published": "2026-11-12T11:00:00+00:00",
+      "featured": false
+    },
+    {
       "id": "34707f272cb7",
       "source": "More Perfect Union",
       "headline": "A $10,000 Bribe to Build a Data Center",
       "excerpt": "Big Tech can't sneak data centers into communities anymore, so they try to buy people out.",
       "link": "https://substack.perfectunion.us/p/a-10000-bribe-to-build-a-data-center",
       "published": "2026-11-09T19:01:03+00:00",
-      "featured": false
-    },
-    {
-      "id": "25ea5b9e4ab0",
-      "source": "Rest of World",
-      "headline": "Chinese AI firms want Silicon Valley’s top minds. Poaching them won’t be easy",
-      "excerpt": "Startups like MiniMax and Moonshot are setting up U.S. outposts, but massive pay gaps, weaker prestige, and national security tensions make luring talent away from OpenAI and Anthropic an uphill climb.",
-      "link": "https://restofworld.org/2026/chinese-ai-labs-hire-silicon-valley-engineers-openai-anthropic/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-      "published": "2026-11-09T08:30:00+00:00",
       "featured": false
     },
     {
@@ -398,12 +398,21 @@
       "featured": false
     },
     {
-      "id": "c4a653fe6dab",
+      "id": "52f44b95fa2c",
       "source": "Al Jazeera",
-      "headline": "Kenya’s milk shortage deepens as drought hits farmers and pushes up prices",
-      "excerpt": "Farmers are receiving higher payments but are producing far less milk and also face rising prices for hay.",
-      "link": "https://www.aljazeera.com/news/2026/11/19/kenyas-milk-shortage-deepens-as-drought-hits-farmers-and-pushes-up-prices?traffic_source=rss",
-      "published": "2026-11-19T00:40:01+00:00",
+      "headline": "Trump calls for nuclear arms reduction at APEC summit",
+      "excerpt": "Trump calls for nuclear arms reduction at APEC summit",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/19/trump-calls-for-nuclear-arms-reduction-at-apec-summit?traffic_source=rss",
+      "published": "2026-11-19T10:03:27+00:00",
+      "featured": false
+    },
+    {
+      "id": "50f7437b8218",
+      "source": "ProPublica",
+      "headline": "Chicago’s City Council Orders Independent Review of Finances as Scrutiny Intensifies",
+      "excerpt": "The post Chicago’s City Council Orders Independent Review of Finances as Scrutiny Intensifies appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/chicago-city-council-finance-review",
+      "published": "2026-11-18T22:30:00+00:00",
       "featured": false
     },
     {
@@ -443,21 +452,21 @@
       "featured": false
     },
     {
-      "id": "649d6a7c0ce0",
-      "source": "ProPublica",
-      "headline": "Democrats in Washington Move to Ban Data Centers on Public Lands",
-      "excerpt": "The post Democrats in Washington Move to Ban Data Centers on Public Lands appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/public-land-data-center-ban-burgum-congress",
-      "published": "2026-11-17T10:30:00+00:00",
-      "featured": false
-    },
-    {
       "id": "7177c2cfa9c5",
       "source": "OCCRP",
       "headline": "The Students Beat the Strongman. Now What? Five Questions on What Comes Next For Serbia",
       "excerpt": "Corruption and kleptocracy expert Tena Prelec speaks to OCCRP on the challenges and opportunities that await Serbia’s student-backed party after it was voted into power with a mandate to rid the country of corruption.",
       "link": "https://www.occrp.org/en/feature/the-students-beat-the-strongman-now-what-five-questions-on-whats-next-for-serbias-political-revolution",
       "published": "2026-11-16T14:20:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "25ea5b9e4ab0",
+      "source": "Rest of World",
+      "headline": "Chinese AI firms want Silicon Valley’s top minds. Poaching them won’t be easy",
+      "excerpt": "Startups like MiniMax and Moonshot are setting up U.S. outposts, but massive pay gaps, weaker prestige, and national security tensions make luring talent away from OpenAI and Anthropic an uphill climb.",
+      "link": "https://restofworld.org/2026/chinese-ai-labs-hire-silicon-valley-engineers-openai-anthropic/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "published": "2026-11-09T08:30:00+00:00",
       "featured": false
     },
     {
@@ -470,15 +479,6 @@
       "featured": false
     },
     {
-      "id": "8c4e39347815",
-      "source": "Rest of World",
-      "headline": "A rare strike in Taiwan exposes labor unrest beneath the global AI rush",
-      "excerpt": "Micron Technology union representatives gesture during a protest outside of the Micron facility demanding greater profit shares and better bonuses, in Taoyuan on October 22, 2026. Eleven workers at a Micron Technology...",
-      "link": "https://restofworld.org/2026/taiwan-labor-strike-ai-profits/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-      "published": "2026-11-05T11:00:00+00:00",
-      "featured": false
-    },
-    {
       "id": "06de66d6e095",
       "source": "ICIJ",
       "headline": "A reclusive billionaire, a ‘fearless’ dealer and a globe-spanning feud over priceless art",
@@ -488,12 +488,21 @@
       "featured": false
     },
     {
-      "id": "ac692c165ff8",
+      "id": "8c2efae1ddd7",
       "source": "Al Jazeera",
-      "headline": "Somalia’s constitutional overhaul tests its fragile federal bargain",
-      "excerpt": "Mohamud’s reforms promise stronger government, but regional resistance and violence threaten the fragile deal of 2012.",
-      "link": "https://www.aljazeera.com/news/2026/11/19/somalias-constitutional-overhaul-tests-its-fragile-federal-bargain?traffic_source=rss",
-      "published": "2026-11-19T00:37:03+00:00",
+      "headline": "Malaysian weightlifting champion Roslin loses arm after motorbike crash",
+      "excerpt": "Muhammad Hafizuddin Roslin, who won a gold medal at the Commonwealth Games 2026, had his arm amputated after accident.",
+      "link": "https://www.aljazeera.com/sports/2026/11/19/malaysian-weightlifting-champion-hafizuddin-loses-arm-after-motorbike-crash?traffic_source=rss",
+      "published": "2026-11-19T09:56:07+00:00",
+      "featured": false
+    },
+    {
+      "id": "24e6b6c84bc1",
+      "source": "ProPublica",
+      "headline": "They Were Just Admitted to the Bar. Now They’re Federal Prosecutors. Meet Trump’s New DOJ.",
+      "excerpt": "The post They Were Just Admitted to the Bar. Now They’re Federal Prosecutors. Meet Trump’s New DOJ. appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/federal-prosecutors-hiring-trump-doj",
+      "published": "2026-11-18T11:00:00+00:00",
       "featured": false
     },
     {
@@ -521,15 +530,6 @@
       "excerpt": "Birdwatching in GTA VI, the DOJ using Pangram, and more.",
       "link": "https://www.404media.co/defense-by-chatgpt/",
       "published": "2026-11-17T15:26:46+00:00",
-      "featured": false
-    },
-    {
-      "id": "e568af5c4a83",
-      "source": "ProPublica",
-      "headline": "I Photographed Her Parents as They Were Sentenced for Her Twin’s Death. Years Later, I Photographed Her Life.",
-      "excerpt": "The post I Photographed Her Parents as They Were Sentenced for Her Twin’s Death. Years Later, I Photographed Her Life. appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/faith-healing-child-photo-essay",
-      "published": "2026-11-17T10:00:00+00:00",
       "featured": false
     },
     {
