@@ -1,23 +1,50 @@
 {
-  "generated_at": "2026-11-20T02:19:19.562262+00:00",
+  "generated_at": "2026-11-20T11:41:24.324243+00:00",
   "articles": [
     {
-      "id": "9e020bee1762",
+      "id": "72f3e7331a5a",
       "source": "Al Jazeera",
-      "headline": "Meta rethinks 2030 climate goals as AI data centres drive emissions up",
-      "excerpt": "Rising data centre energy needs force Meta to review sustainability targets amid growing corporate climate retreat.",
-      "link": "https://www.aljazeera.com/news/2026/11/20/meta-rethinks-2030-climate-goals-as-ai-data-centres-drive-emissions-up?traffic_source=rss",
-      "published": "2026-11-20T01:29:28+00:00",
+      "headline": "US appoints new cybersecurity chief after series of tech failures",
+      "excerpt": "Appointee Kirsten Davies says US has the chance to 'dominate the cyber landscape for generations to come'.",
+      "link": "https://www.aljazeera.com/news/2026/11/20/us-appoints-new-cybersecurity-chief-after-series-of-tech-failures?traffic_source=rss",
+      "published": "2026-11-20T11:26:28+00:00",
       "featured": true
     },
     {
-      "id": "6845755f4566",
-      "source": "The Lever",
-      "headline": "Van Hollen Wants Schumer’s Job. Here’s Where They Split.",
-      "excerpt": "Medicare for All, weapons for Israel, AI regulation — the two Democrats have plenty to fight over.",
-      "link": "https://www.levernews.com/van-hollen-wants-schumers-job-heres-where-they-split/",
-      "published": "2026-11-20T00:03:37+00:00",
+      "id": "ba49e7729e6c",
+      "source": "ProPublica",
+      "headline": "A Texas Police Department Got $100K After a Single Immigration Arrest. It Stands to Earn Much More.",
+      "excerpt": "The post A Texas Police Department Got $100K After a Single Immigration Arrest. It Stands to Earn Much More. appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/texas-287g-immigration-police-department-money",
+      "published": "2026-11-20T11:00:00+00:00",
       "featured": true
+    },
+    {
+      "id": "98143077f619",
+      "source": "The Intercept",
+      "headline": "Sean Duffy’s FAA Fiasco",
+      "excerpt": "Aviation journalist Jeff Wise breaks down some misconceptions about air traffic control while the nation waits for answers on the ground stop. The post Sean Duffy’s FAA Fiasco appeared first on The Intercept.",
+      "link": "https://theintercept.com/2026/11/20/faa-ground-stop-flights-duffy/",
+      "published": "2026-11-20T11:00:00+00:00",
+      "featured": true
+    },
+    {
+      "id": "ef13fd66cdb0",
+      "source": "OCCRP",
+      "headline": "Wine Distributor Targeted in Latest US Prince Group Sanctions Owns Warehouse Unit in London",
+      "excerpt": "The latest U.S. sanctions against Cambodia's Prince Group netted a man involved in wine distribution in Hong Kong and Macau. Documents show that a company he ultimately owns bought a refrigerated warehouse unit in...",
+      "link": "https://www.occrp.org/en/news/wine-distributor-prince-group-sanctions-warehouse-unit-london",
+      "published": "2026-11-20T09:22:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "bf941297f019",
+      "source": "The Lever",
+      "headline": "Chris Van Hollen Is Threatening The Democratic Machine",
+      "excerpt": "In his leadership challenge against Chuck Schumer, the Maryland senator envisions a job that engages the public — and rejects his party’s top-down elitism.",
+      "link": "https://www.levernews.com/chris-van-hollen-is-threatening-the-democratic-machine/",
+      "published": "2026-11-20T08:05:00+00:00",
+      "featured": false
     },
     {
       "id": "603cd49712ac",
@@ -26,7 +53,7 @@
       "excerpt": "FOIA disclosures and hacked email archives show how Israel leverages personal ties with state officials to promote laws prohibiting boycotts as well as other forms of opposition to Israeli policy.",
       "link": "https://www.dropsitenews.com/p/israel-iowa-attorney-general-brenna-bird",
       "published": "2026-11-19T22:56:45+00:00",
-      "featured": true
+      "featured": false
     },
     {
       "id": "1d239a7f2a87",
@@ -38,30 +65,12 @@
       "featured": false
     },
     {
-      "id": "6016168ddf4f",
-      "source": "The Intercept",
-      "headline": "Elon Musk Thinks You’re an Idiot",
-      "excerpt": "The man with a custom dark MAGA hat rebrands: “I’m not sure what MAGA means.” The post Elon Musk Thinks You’re an Idiot appeared first on The Intercept.",
-      "link": "https://theintercept.com/2026/11/19/elon-musk-rebrand-moderate-trump/",
-      "published": "2026-11-19T20:31:00+00:00",
-      "featured": false
-    },
-    {
       "id": "22352d688ecb",
       "source": "404 Media",
       "headline": "To Catch a Ransomware Scammer, FBI Posed as Both Victim and Attacker",
       "excerpt": "By posing as the victim of a ransomware attack and the threat actors themselves, the FBI was able to catch an alleged fraud scheme in the act.",
       "link": "https://www.404media.co/ransomware-fraud-attack-fbi-indictment/",
       "published": "2026-11-19T18:11:50+00:00",
-      "featured": false
-    },
-    {
-      "id": "fcfd73beb352",
-      "source": "ProPublica",
-      "headline": "The U.S. Paid Insurers Billions to Cover Civilians Harmed in War. Even the Government Says the System Is Ripe for Fraud.",
-      "excerpt": "The post The U.S. Paid Insurers Billions to Cover Civilians Harmed in War. Even the Government Says the System Is Ripe for Fraud. appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/civilian-workers-war-injuries-insurance-companies",
-      "published": "2026-11-19T16:15:00+00:00",
       "featured": false
     },
     {
@@ -83,15 +92,6 @@
       "featured": false
     },
     {
-      "id": "ad36a2301ff1",
-      "source": "OCCRP",
-      "headline": "Accused South American Drug Lord Faces US Trial after Judge Rejects Motions",
-      "excerpt": "A federal judge rejected assertions of prosecutorial misconduct and vindictive prosecution, clearing the way for an accused South American drug baron’s jury trial.",
-      "link": "https://www.occrp.org/en/news/accused-south-american-drug-lord-faces-us-trial-after-judge-rejects-motions",
-      "published": "2026-11-18T13:56:00+00:00",
-      "featured": false
-    },
-    {
       "id": "c88c15aa3fe0",
       "source": "Bellingcat",
       "headline": "How Online Maps Lay Bare the US Military Bases Targeted by Iran",
@@ -101,30 +101,39 @@
       "featured": false
     },
     {
-      "id": "82ff5daca275",
+      "id": "0cfb735f2465",
       "source": "Al Jazeera",
-      "headline": "Democrats say law firm gave $11.8m in free services to Trump administration",
-      "excerpt": "Three top Democrats called Trump's dealings with law firms a case of 'official coercion' and pledged investigations.",
-      "link": "https://www.aljazeera.com/news/2026/11/20/democrats-say-law-firm-gave-11-8m-worth-of-service-to-trump-administration?traffic_source=rss",
-      "published": "2026-11-20T01:10:06+00:00",
+      "headline": "EU and UK seal reset deal",
+      "excerpt": "This is a breaking news story.",
+      "link": "https://www.aljazeera.com/news/2026/11/20/eu-and-uk-seal-reset-deal?traffic_source=rss",
+      "published": "2026-11-20T11:20:19+00:00",
       "featured": false
     },
     {
-      "id": "7dadde29b4a4",
+      "id": "adf67ebd0037",
+      "source": "ProPublica",
+      "headline": "Ohio Jobs Program Wants Its Money Back After Company’s Failure to Deliver GMO Salmon",
+      "excerpt": "The post Ohio Jobs Program Wants Its Money Back After Company’s Failure to Deliver GMO Salmon appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/aquabounty-jobsohio-gmo-salmon-grant",
+      "published": "2026-11-20T10:30:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "8003f5cd556c",
       "source": "The Lever",
-      "headline": "Weapons Makers Want To Keep Their Pentagon Repair Racket",
-      "excerpt": "Contractors control the data needed to fix military equipment, driving up taxpayer costs. Now they’re fighting legislation that would break their repair monopolies.",
-      "link": "https://www.levernews.com/weapons-makers-want-to-keep-their-pentagon-repair-racket/",
-      "published": "2026-11-19T21:27:12+00:00",
+      "headline": "Democrats’ Next Chapter, Brought To You By Billionaires",
+      "excerpt": "Billionaires, presidential hopefuls, operatives, and pundits descended on Denver for an invite-only summit to shape Democrats’ future — while largely ignoring what voters demanded.",
+      "link": "https://www.levernews.com/democrats-whats-next-billionaires/",
+      "published": "2026-11-20T04:24:19+00:00",
       "featured": false
     },
     {
-      "id": "462d51a2bea5",
+      "id": "6016168ddf4f",
       "source": "The Intercept",
-      "headline": "Just Rinse It Off, Army Says Before Blowing Up Five Tons of Lead Compound",
-      "excerpt": "The Army appears to be winging its detonation of unstable lead azide at its Iowa ammunition plant. The post Just Rinse It Off, Army Says Before Blowing Up Five Tons of Lead Compound appeared first on The Intercept.",
-      "link": "https://theintercept.com/2026/11/19/iowa-lead-ammunition-detonation-army/",
-      "published": "2026-11-19T19:37:59+00:00",
+      "headline": "Elon Musk Thinks You’re an Idiot",
+      "excerpt": "The man with a custom dark MAGA hat rebrands: “I’m not sure what MAGA means.” The post Elon Musk Thinks You’re an Idiot appeared first on The Intercept.",
+      "link": "https://theintercept.com/2026/11/19/elon-musk-rebrand-moderate-trump/",
+      "published": "2026-11-19T20:31:00+00:00",
       "featured": false
     },
     {
@@ -134,15 +143,6 @@
       "excerpt": "Drop Site Daily: November 19, 2026",
       "link": "https://www.dropsitenews.com/p/iran-war-oil-ansarallah-saudi-riyadh-icj-myanmar-rohingya",
       "published": "2026-11-19T16:02:07+00:00",
-      "featured": false
-    },
-    {
-      "id": "76f727165f28",
-      "source": "ProPublica",
-      "headline": "Corpus Christi Started Pumping Groundwater at “Lightning Speed.” Rural Residents Fear the Consequences.",
-      "excerpt": "The post Corpus Christi Started Pumping Groundwater at “Lightning Speed.” Rural Residents Fear the Consequences. appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/corpus-christi-water-crisis-groundwater",
-      "published": "2026-11-19T16:00:00+00:00",
       "featured": false
     },
     {
@@ -164,12 +164,12 @@
       "featured": false
     },
     {
-      "id": "8685f7a4f99d",
+      "id": "ad36a2301ff1",
       "source": "OCCRP",
-      "headline": "British Hacker Admits Breaching Uber, Revolut and Rockstar",
-      "excerpt": "A 21-year-old British hacker has pleaded guilty to cyberattacks on Rockstar Games, Uber, Revolut and BT/EE that exposed sensitive data and caused millions of dollars in losses. He continued hacking even after being...",
-      "link": "https://www.occrp.org/en/news/british-hacker-admits-breaching-uber-revolut-and-rockstar",
-      "published": "2026-11-17T17:17:00+00:00",
+      "headline": "Accused South American Drug Lord Faces US Trial after Judge Rejects Motions",
+      "excerpt": "A federal judge rejected assertions of prosecutorial misconduct and vindictive prosecution, clearing the way for an accused South American drug baron’s jury trial.",
+      "link": "https://www.occrp.org/en/news/accused-south-american-drug-lord-faces-us-trial-after-judge-rejects-motions",
+      "published": "2026-11-18T13:56:00+00:00",
       "featured": false
     },
     {
@@ -200,30 +200,39 @@
       "featured": false
     },
     {
-      "id": "247f47a4c401",
+      "id": "11cb4e9aad4a",
       "source": "Al Jazeera",
-      "headline": "‘Completely messed up everything’: Malawi’s fuel crisis causes chaos",
-      "excerpt": "Motorists and businesses struggle as shortages disrupt daily life.",
-      "link": "https://www.aljazeera.com/news/2026/11/20/completely-messed-up-everything-malawis-fuel-crisis-causes-chaos?traffic_source=rss",
-      "published": "2026-11-20T01:06:15+00:00",
+      "headline": "Kataib Hezbollah faces deadline to leave Iraqi stronghold",
+      "excerpt": "Kataib Hezbollah faces deadline to leave Iraqi stronghold",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/20/kataib-hezbollah-faces-deadline-to-leave-iraqi-stronghold?traffic_source=rss",
+      "published": "2026-11-20T11:10:06+00:00",
       "featured": false
     },
     {
-      "id": "b5c7025d8cf9",
+      "id": "f20520a7d6d6",
+      "source": "ProPublica",
+      "headline": "How SNAP Theft Happens — and What to Do if It Happens to You",
+      "excerpt": "The post How SNAP Theft Happens — and What to Do if It Happens to You appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/snap-theft-explained-stolen-benefits",
+      "published": "2026-11-20T10:00:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "6845755f4566",
       "source": "The Lever",
-      "headline": "The Tax-The-Rich Playbook For 2028",
-      "excerpt": "The California Democratic establishment voted no on Prop 40 and staved off the wealth tax. Are they up for another round?",
-      "link": "https://www.levernews.com/the-tax-the-rich-playbook-for-2028/",
-      "published": "2026-11-19T21:10:25+00:00",
+      "headline": "Van Hollen Wants Schumer’s Job. Here’s Where They Split.",
+      "excerpt": "Medicare for All, weapons for Israel, AI regulation — the two Democrats have plenty to fight over.",
+      "link": "https://www.levernews.com/van-hollen-wants-schumers-job-heres-where-they-split/",
+      "published": "2026-11-20T00:03:37+00:00",
       "featured": false
     },
     {
-      "id": "a5dee1b086a9",
+      "id": "462d51a2bea5",
       "source": "The Intercept",
-      "headline": "After Democrats’ Midterm Romp, What’s Stopping Governors From Commuting Death Sentences?",
-      "excerpt": "California Gov. Gavin Newsom spared the lives of 548 people on death row. Other governors might follow suit. The post After Democrats’ Midterm Romp, What’s Stopping Governors From Commuting Death Sentences? appeared...",
-      "link": "https://theintercept.com/2026/11/19/death-penalty-commutations-execution-newsom-dewine/",
-      "published": "2026-11-19T19:08:35+00:00",
+      "headline": "Just Rinse It Off, Army Says Before Blowing Up Five Tons of Lead Compound",
+      "excerpt": "The Army appears to be winging its detonation of unstable lead azide at its Iowa ammunition plant. The post Just Rinse It Off, Army Says Before Blowing Up Five Tons of Lead Compound appeared first on The Intercept.",
+      "link": "https://theintercept.com/2026/11/19/iowa-lead-ammunition-detonation-army/",
+      "published": "2026-11-19T19:37:59+00:00",
       "featured": false
     },
     {
@@ -236,15 +245,6 @@
       "featured": false
     },
     {
-      "id": "4343ba189831",
-      "source": "ProPublica",
-      "headline": "The Trump DOJ Quietly Intervened to Ink a Huge Payout to a Trump Golf Pro",
-      "excerpt": "The post The Trump DOJ Quietly Intervened to Ink a Huge Payout to a Trump Golf Pro appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/irs-settlement-golf-pro-shelby-lowman",
-      "published": "2026-11-19T11:00:00+00:00",
-      "featured": false
-    },
-    {
       "id": "250eae23af2d",
       "source": "Dropsite News",
       "headline": "“I Didn’t Expect Jenin Could Change So Much”: Reporter Jailed for Nearly 2 Years on Israel’s Destruction",
@@ -254,12 +254,12 @@
       "featured": false
     },
     {
-      "id": "3e659f7c83c5",
+      "id": "8685f7a4f99d",
       "source": "OCCRP",
-      "headline": "Kyrgyz Man Sentenced to Three Years For Re-Posting Video on Facebook",
-      "excerpt": "Kyrgyz police charged a man with using social media posts to incite mass unrest. But when the state’s expert said the evidence wasn’t there, police focused instead on his re-post of a video from an investigative...",
-      "link": "https://www.occrp.org/en/news/kyrgyz-man-sentenced-to-three-years-for-re-posting-video-on-facebook",
-      "published": "2026-11-17T09:55:00+00:00",
+      "headline": "British Hacker Admits Breaching Uber, Revolut and Rockstar",
+      "excerpt": "A 21-year-old British hacker has pleaded guilty to cyberattacks on Rockstar Games, Uber, Revolut and BT/EE that exposed sensitive data and caused millions of dollars in losses. He continued hacking even after being...",
+      "link": "https://www.occrp.org/en/news/british-hacker-admits-breaching-uber-revolut-and-rockstar",
+      "published": "2026-11-17T17:17:00+00:00",
       "featured": false
     },
     {
@@ -293,36 +293,45 @@
       "id": "c869b0dd1854",
       "source": "Bellingcat",
       "headline": "EU Satellite Imagery Delayed Over Gaza and Parts of West Bank by 24-hours",
-      "excerpt": "Sign up here to receive Bellingcat’s biggest investigations by email as soon as they are published. Become a member and support our work here. Imagery captured by the European Space Agency’s freely available Sentinel-2...",
+      "excerpt": "Sign up here to receive Bellingcat’s biggest investigations by email as soon as they are published. Become a member and support our work here. Imagery captured by the European Union Space Program’s freely available...",
       "link": "https://www.bellingcat.com/news/2026/10/29/eu-satellite-imagery-delayed-over-gaza-and-parts-of-west-bank-by-24-hours/",
       "published": "2026-10-29T22:15:59+00:00",
       "featured": false
     },
     {
-      "id": "47855d4f2faf",
+      "id": "3a083cc0df3b",
       "source": "Al Jazeera",
-      "headline": "Haiti police say 34 gang members killed in capital raid",
-      "excerpt": "Haitian police say at least 34 gang members were killed in an operation in the capital city of Port-au-Prince.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/20/haiti-police-say-34-gang-members-killed-in-capital-raid?traffic_source=rss",
-      "published": "2026-11-20T00:31:02+00:00",
+      "headline": "Kushner says Russia OK with ‘NATO-like’ security pact for Ukraine: Is it?",
+      "excerpt": "NATO Article 5 says attack on one member is an attack on all. Analysts say inclusion of Ukraine 'stretches credulity'.",
+      "link": "https://www.aljazeera.com/news/2026/11/20/kushner-says-russia-ok-with-nato-like-security-pact-for-ukraine-is-it?traffic_source=rss",
+      "published": "2026-11-20T11:01:51+00:00",
       "featured": false
     },
     {
-      "id": "8153c1c54871",
+      "id": "7dadde29b4a4",
       "source": "The Lever",
-      "headline": "Don’t F#*k It Up, Democrats, Ep. 6: The Path To Medicare For All",
-      "excerpt": "David Sirota asks insurance-industry whistleblower Wendell Potter whether Democrats will deliver universal healthcare — or let insurers again dictate reform.",
-      "link": "https://www.levernews.com/dont-f-k-it-up-democrats-ep-6-the-path-to-medicare-for-all/",
-      "published": "2026-11-19T19:03:13+00:00",
+      "headline": "Weapons Makers Want To Keep Their Pentagon Repair Racket",
+      "excerpt": "Contractors control the data needed to fix military equipment, driving up taxpayer costs. Now they’re fighting legislation that would break their repair monopolies.",
+      "link": "https://www.levernews.com/weapons-makers-want-to-keep-their-pentagon-repair-racket/",
+      "published": "2026-11-19T21:27:12+00:00",
       "featured": false
     },
     {
-      "id": "f87de16aa1f7",
+      "id": "a5dee1b086a9",
       "source": "The Intercept",
-      "headline": "ICE Spreads Misinformation About Securing Your iPhone. Here’s How to Really Do It.",
-      "excerpt": "No, your iPhone isn’t acting as a covert microphone by default — but there are steps you can take to secure your device. The post ICE Spreads Misinformation About Securing Your iPhone. Here’s How to Really Do It....",
-      "link": "https://theintercept.com/2026/11/19/ice-misinformation-iphone-security/",
-      "published": "2026-11-19T17:06:48+00:00",
+      "headline": "After Democrats’ Midterm Romp, What’s Stopping Governors From Commuting Death Sentences?",
+      "excerpt": "California Gov. Gavin Newsom spared the lives of 548 people on death row. Other governors might follow suit. The post After Democrats’ Midterm Romp, What’s Stopping Governors From Commuting Death Sentences? appeared...",
+      "link": "https://theintercept.com/2026/11/19/death-penalty-commutations-execution-newsom-dewine/",
+      "published": "2026-11-19T19:08:35+00:00",
+      "featured": false
+    },
+    {
+      "id": "fcfd73beb352",
+      "source": "ProPublica",
+      "headline": "The U.S. Paid Insurers Billions to Cover Civilians Harmed in War. Even the Government Says the System Is Ripe for Fraud.",
+      "excerpt": "The post The U.S. Paid Insurers Billions to Cover Civilians Harmed in War. Even the Government Says the System Is Ripe for Fraud. appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/civilian-workers-war-injuries-insurance-companies",
+      "published": "2026-11-19T16:15:00+00:00",
       "featured": false
     },
     {
@@ -335,15 +344,6 @@
       "featured": false
     },
     {
-      "id": "979247516ab9",
-      "source": "ProPublica",
-      "headline": "We’re Publishing the Tariff Refunds the Government Has Refused to Disclose",
-      "excerpt": "The post We’re Publishing the Tariff Refunds the Government Has Refused to Disclose appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/tariff-refund-database-cash-back",
-      "published": "2026-11-19T10:35:00+00:00",
-      "featured": false
-    },
-    {
       "id": "0d4f994c5078",
       "source": "Dropsite News",
       "headline": "Israel launches ground operation in central Gaza; Jeffries wins speaker nomination; NSA’s internal comms system goes down",
@@ -353,12 +353,12 @@
       "featured": false
     },
     {
-      "id": "8eccea12bf5a",
+      "id": "3e659f7c83c5",
       "source": "OCCRP",
-      "headline": "Iraq Cracks Down on Oil Smuggling in Area Controlled by Iran-aligned Shiite Militias",
-      "excerpt": "Following a leaked intelligence report on suspected oil smuggling by armed groups in the central region of Jurf al-Nasr, Iraq’s prime minister dismissed nine security officials. A retired army commander told OCCRP the...",
-      "link": "https://www.occrp.org/en/news/iraq-cracks-down-on-oil-smuggling-in-area-controlled-by-iran-aligned-shiite-militias",
-      "published": "2026-11-16T19:36:00+00:00",
+      "headline": "Kyrgyz Man Sentenced to Three Years For Re-Posting Video on Facebook",
+      "excerpt": "Kyrgyz police charged a man with using social media posts to incite mass unrest. But when the state’s expert said the evidence wasn’t there, police focused instead on his re-post of a video from an investigative...",
+      "link": "https://www.occrp.org/en/news/kyrgyz-man-sentenced-to-three-years-for-re-posting-video-on-facebook",
+      "published": "2026-11-17T09:55:00+00:00",
       "featured": false
     },
     {
@@ -398,30 +398,39 @@
       "featured": false
     },
     {
-      "id": "214aedaada17",
+      "id": "17ed4b065d02",
       "source": "Al Jazeera",
-      "headline": "El Salvador’s Bukele expected to formalise bid for third presidential term",
-      "excerpt": "The Salvadoran president has won popularity through a crime crackdown that has granted the state enormous power.",
-      "link": "https://www.aljazeera.com/news/2026/11/20/el-salvadors-bukele-expected-to-formalise-bid-for-third-presidential-term?traffic_source=rss",
-      "published": "2026-11-20T00:22:02+00:00",
+      "headline": "Can the Rohingya genocide verdict deliver justice?",
+      "excerpt": "The ICJ has ruled against Myanmar, but safe return, citizenship and reparations remain far from guaranteed.",
+      "link": "https://www.aljazeera.com/opinions/2026/11/20/can-the-rohingya-genocide-verdict-deliver-justice?traffic_source=rss",
+      "published": "2026-11-20T10:45:20+00:00",
       "featured": false
     },
     {
-      "id": "14beeaa8bc0d",
+      "id": "b5c7025d8cf9",
       "source": "The Lever",
-      "headline": "Sanders’ New Plan For Medicare For All Runs Through Hakeem Jeffries",
-      "excerpt": "Jeffries backed Medicare expansion, and now Bernie has a plan to make the proposal universal in four years.",
-      "link": "https://www.levernews.com/sanders-new-plan-for-medicare-for-all-runs-through-hakeem-jeffries/",
-      "published": "2026-11-19T18:07:46+00:00",
+      "headline": "The Tax-The-Rich Playbook For 2028",
+      "excerpt": "The California Democratic establishment voted no on Prop 40 and staved off the wealth tax. Are they up for another round?",
+      "link": "https://www.levernews.com/the-tax-the-rich-playbook-for-2028/",
+      "published": "2026-11-19T21:10:25+00:00",
       "featured": false
     },
     {
-      "id": "60a91acc24b4",
+      "id": "f87de16aa1f7",
       "source": "The Intercept",
-      "headline": "Everyone’s Talking About Air Travel. No One’s Talking About How ICE Flights Make It Less Safe.",
-      "excerpt": "Trump’s immigration crackdown is fueling a safety crisis that’s gone relatively unnoticed in the public panic over flying. The post Everyone’s Talking About Air Travel. No One’s Talking About How ICE Flights Make It...",
-      "link": "https://theintercept.com/2026/11/19/ice-air-deportation-flights-faa-safety/",
-      "published": "2026-11-19T16:11:07+00:00",
+      "headline": "ICE Spreads Misinformation About Securing Your iPhone. Here’s How to Really Do It.",
+      "excerpt": "No, your iPhone isn’t acting as a covert microphone by default — but there are steps you can take to secure your device. The post ICE Spreads Misinformation About Securing Your iPhone. Here’s How to Really Do It....",
+      "link": "https://theintercept.com/2026/11/19/ice-misinformation-iphone-security/",
+      "published": "2026-11-19T17:06:48+00:00",
+      "featured": false
+    },
+    {
+      "id": "76f727165f28",
+      "source": "ProPublica",
+      "headline": "Corpus Christi Started Pumping Groundwater at “Lightning Speed.” Rural Residents Fear the Consequences.",
+      "excerpt": "The post Corpus Christi Started Pumping Groundwater at “Lightning Speed.” Rural Residents Fear the Consequences. appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/corpus-christi-water-crisis-groundwater",
+      "published": "2026-11-19T16:00:00+00:00",
       "featured": false
     },
     {
@@ -434,15 +443,6 @@
       "featured": false
     },
     {
-      "id": "6f125a48a92b",
-      "source": "ProPublica",
-      "headline": "See How Much Companies Are Getting in Tariff Refunds",
-      "excerpt": "The post See How Much Companies Are Getting in Tariff Refunds appeared first on ProPublica.",
-      "link": "https://projects.propublica.org/trump-tariff-refund-ieepa/",
-      "published": "2026-11-19T10:30:00+00:00",
-      "featured": false
-    },
-    {
       "id": "9e1177effc86",
       "source": "Dropsite News",
       "headline": "Companies That Helped Gut EU Climate Law Turn Up for COP31",
@@ -452,12 +452,12 @@
       "featured": false
     },
     {
-      "id": "7177c2cfa9c5",
+      "id": "8eccea12bf5a",
       "source": "OCCRP",
-      "headline": "The Students Beat the Strongman. Now What? Five Questions on What Comes Next For Serbia",
-      "excerpt": "Corruption and kleptocracy expert Tena Prelec speaks to OCCRP on the challenges and opportunities that await Serbia’s student-backed party after it was voted into power with a mandate to rid the country of corruption.",
-      "link": "https://www.occrp.org/en/feature/the-students-beat-the-strongman-now-what-five-questions-on-whats-next-for-serbias-political-revolution",
-      "published": "2026-11-16T14:20:00+00:00",
+      "headline": "Iraq Cracks Down on Oil Smuggling in Area Controlled by Iran-aligned Shiite Militias",
+      "excerpt": "Following a leaked intelligence report on suspected oil smuggling by armed groups in the central region of Jurf al-Nasr, Iraq’s prime minister dismissed nine security officials. A retired army commander told OCCRP the...",
+      "link": "https://www.occrp.org/en/news/iraq-cracks-down-on-oil-smuggling-in-area-controlled-by-iran-aligned-shiite-militias",
+      "published": "2026-11-16T19:36:00+00:00",
       "featured": false
     },
     {
@@ -488,21 +488,30 @@
       "featured": false
     },
     {
-      "id": "a31d3c508145",
+      "id": "b9341d8d5dfb",
       "source": "Al Jazeera",
-      "headline": "Four bodies recovered after Senegal boat capsizes amid migration surge",
-      "excerpt": "Search for survivors continues near Yenne as migrant arrivals in Spain's Canary Islands surge by nearly two-thirds.",
-      "link": "https://www.aljazeera.com/news/2026/11/20/four-bodies-recovered-after-senegal-boat-capsizes-amid-migration-surge?traffic_source=rss",
-      "published": "2026-11-20T00:10:04+00:00",
+      "headline": "Drone operator removes Man United training footage and issues apology",
+      "excerpt": "The footage, filmed during new manager Mauricio Pochettino's first training session, was uploaded online.",
+      "link": "https://www.aljazeera.com/sports/2026/11/20/drone-operator-removes-man-united-training-footage-and-issues-apology?traffic_source=rss",
+      "published": "2026-11-20T10:37:20+00:00",
       "featured": false
     },
     {
-      "id": "90426178577d",
+      "id": "8153c1c54871",
+      "source": "The Lever",
+      "headline": "Don’t F#*k It Up, Democrats, Ep. 6: The Path To Medicare For All",
+      "excerpt": "David Sirota asks insurance-industry whistleblower Wendell Potter whether Democrats will deliver universal healthcare — or let insurers again dictate reform.",
+      "link": "https://www.levernews.com/dont-f-k-it-up-democrats-ep-6-the-path-to-medicare-for-all/",
+      "published": "2026-11-19T19:03:13+00:00",
+      "featured": false
+    },
+    {
+      "id": "60a91acc24b4",
       "source": "The Intercept",
-      "headline": "U.S. Drug War in Mexico Fueled More Murders, Violence, and Drug Deaths",
-      "excerpt": "A new report by the World Peace Foundation and Costs of War argues that the Trump administration’s militarized Mexico policy is destined to fail. The post U.S. Drug War in Mexico Fueled More Murders, Violence, and Drug...",
-      "link": "https://theintercept.com/2026/11/19/us-war-drug-mexico-violence/",
-      "published": "2026-11-19T15:00:00+00:00",
+      "headline": "Everyone’s Talking About Air Travel. No One’s Talking About How ICE Flights Make It Less Safe.",
+      "excerpt": "Trump’s immigration crackdown is fueling a safety crisis that’s gone relatively unnoticed in the public panic over flying. The post Everyone’s Talking About Air Travel. No One’s Talking About How ICE Flights Make It...",
+      "link": "https://theintercept.com/2026/11/19/ice-air-deportation-flights-faa-safety/",
+      "published": "2026-11-19T16:11:07+00:00",
       "featured": false
     },
     {
@@ -515,21 +524,12 @@
       "featured": false
     },
     {
-      "id": "f51d572214be",
+      "id": "4343ba189831",
       "source": "ProPublica",
-      "headline": "These Teachers Were Charged With Sexual Abuse. California Could Have Revoked Their Licenses Earlier but Didn’t.",
-      "excerpt": "The post These Teachers Were Charged With Sexual Abuse. California Could Have Revoked Their Licenses Earlier but Didn’t. appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/california-educator-licenses-sexual-abuse-criminal-charges",
-      "published": "2026-11-19T10:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "1fcf081ea2c4",
-      "source": "The Lever",
-      "headline": "Democrats Refuse To Learn Newt Gingrich’s Lesson",
-      "excerpt": "A political party will not change unless its status quo culture is replaced by an insurgency culture — and deference to establishment leaders will not do that.",
-      "link": "https://www.levernews.com/speaker-hakeem-jeffries-newt-gingrich-democrats/",
-      "published": "2026-11-19T00:53:33+00:00",
+      "headline": "The Trump DOJ Quietly Intervened to Ink a Huge Payout to a Trump Golf Pro",
+      "excerpt": "The post The Trump DOJ Quietly Intervened to Ink a Huge Payout to a Trump Golf Pro appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/irs-settlement-golf-pro-shelby-lowman",
+      "published": "2026-11-19T11:00:00+00:00",
       "featured": false
     },
     {
