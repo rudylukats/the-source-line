@@ -1,14 +1,59 @@
 {
-  "generated_at": "2026-11-20T11:41:24.324243+00:00",
+  "generated_at": "2026-11-20T20:22:25.053009+00:00",
   "articles": [
     {
-      "id": "72f3e7331a5a",
-      "source": "Al Jazeera",
-      "headline": "US appoints new cybersecurity chief after series of tech failures",
-      "excerpt": "Appointee Kirsten Davies says US has the chance to 'dominate the cyber landscape for generations to come'.",
-      "link": "https://www.aljazeera.com/news/2026/11/20/us-appoints-new-cybersecurity-chief-after-series-of-tech-failures?traffic_source=rss",
-      "published": "2026-11-20T11:26:28+00:00",
+      "id": "4cf7a1d33656",
+      "source": "404 Media",
+      "headline": "Podcast: I Spoke to an AI Fraud Kingpin",
+      "excerpt": "The man who created OnlyFake; a Muse agent is suing Meta; and the Justice Department is using Pangram.",
+      "link": "https://www.404media.co/podcast-i-spoke-to-an-ai-fraud-kingpin/",
+      "published": "2026-11-20T20:12:51+00:00",
       "featured": true
+    },
+    {
+      "id": "68b3333cb7fe",
+      "source": "Al Jazeera",
+      "headline": "Nepali cricket fans in Qatar want to see their team competing with the best",
+      "excerpt": "As thousands from Qatar's Nepali community watch their team play, they hope that the team will rise in global rankings.",
+      "link": "https://www.aljazeera.com/sports/2026/11/20/nepali-cricket-fans-in-qatar-want-to-see-their-team-competing-with-the-best?traffic_source=rss",
+      "published": "2026-11-20T20:03:11+00:00",
+      "featured": true
+    },
+    {
+      "id": "14b06b2d5d15",
+      "source": "ICIJ",
+      "headline": "Medical device makers have gotten worse at disclosing when their products harm people, new study finds. The FDA let them.",
+      "excerpt": "The agency allowed some companies to send in “incomplete, inaccurate, and delayed” information, resulting in an undercount of at least 12,000 adverse events, researchers said.",
+      "link": "https://www.icij.org/investigations/implant-files/medical-device-makers-have-gotten-worse-at-disclosing-when-their-products-harm-people-new-study-finds-the-fda-let-them/",
+      "published": "2026-11-20T19:27:08+00:00",
+      "featured": true
+    },
+    {
+      "id": "bd17bdaa98b4",
+      "source": "Dropsite News",
+      "headline": "Sudan’s Power Grid on Brink of Collapse Following Wave of Strikes Targeting Electricity Stations",
+      "excerpt": "Blackouts are disrupting the economy, including hospitals and farming, with little hope the grid will be repaired soon following an intense wave of attacks on Sudan’s electricity infrastructure.",
+      "link": "https://www.dropsitenews.com/p/sudan-power-grid-electricity-blackouts",
+      "published": "2026-11-20T18:02:02+00:00",
+      "featured": false
+    },
+    {
+      "id": "107d91962fdc",
+      "source": "The Lever",
+      "headline": "Who’s The Lamest Duck?",
+      "excerpt": "Test your knowledge of Trump nominees, Democratic infighting, and other issues that really matter.",
+      "link": "https://www.levernews.com/levermind-quiz-whos-the-lamest-duck/",
+      "published": "2026-11-20T17:46:31+00:00",
+      "featured": false
+    },
+    {
+      "id": "ec3887840bc1",
+      "source": "OCCRP",
+      "headline": "U.K. Seizes $72 Million Tied to Singapore Scandal, Drawing Scrutiny Over Early Deals",
+      "excerpt": "Britain’s National Crime Agency has recovered more than $70 million in London properties from two figures linked to Singapore’s $2.3 billion money-laundering network—bringing total seizures from the group to nearly $100...",
+      "link": "https://www.occrp.org/en/news/uk-seizes-72-million-tied-to-singapore-scandal-drawing-scrutiny-over-early-deals",
+      "published": "2026-11-20T16:19:00+00:00",
+      "featured": false
     },
     {
       "id": "ba49e7729e6c",
@@ -17,60 +62,6 @@
       "excerpt": "The post A Texas Police Department Got $100K After a Single Immigration Arrest. It Stands to Earn Much More. appeared first on ProPublica.",
       "link": "https://www.propublica.org/article/texas-287g-immigration-police-department-money",
       "published": "2026-11-20T11:00:00+00:00",
-      "featured": true
-    },
-    {
-      "id": "98143077f619",
-      "source": "The Intercept",
-      "headline": "Sean Duffy’s FAA Fiasco",
-      "excerpt": "Aviation journalist Jeff Wise breaks down some misconceptions about air traffic control while the nation waits for answers on the ground stop. The post Sean Duffy’s FAA Fiasco appeared first on The Intercept.",
-      "link": "https://theintercept.com/2026/11/20/faa-ground-stop-flights-duffy/",
-      "published": "2026-11-20T11:00:00+00:00",
-      "featured": true
-    },
-    {
-      "id": "ef13fd66cdb0",
-      "source": "OCCRP",
-      "headline": "Wine Distributor Targeted in Latest US Prince Group Sanctions Owns Warehouse Unit in London",
-      "excerpt": "The latest U.S. sanctions against Cambodia's Prince Group netted a man involved in wine distribution in Hong Kong and Macau. Documents show that a company he ultimately owns bought a refrigerated warehouse unit in...",
-      "link": "https://www.occrp.org/en/news/wine-distributor-prince-group-sanctions-warehouse-unit-london",
-      "published": "2026-11-20T09:22:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "bf941297f019",
-      "source": "The Lever",
-      "headline": "Chris Van Hollen Is Threatening The Democratic Machine",
-      "excerpt": "In his leadership challenge against Chuck Schumer, the Maryland senator envisions a job that engages the public — and rejects his party’s top-down elitism.",
-      "link": "https://www.levernews.com/chris-van-hollen-is-threatening-the-democratic-machine/",
-      "published": "2026-11-20T08:05:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "603cd49712ac",
-      "source": "Dropsite News",
-      "headline": "Israeli Diplomat Offered Iowa Attorney General Free Trip, Then Asked for Favors",
-      "excerpt": "FOIA disclosures and hacked email archives show how Israel leverages personal ties with state officials to promote laws prohibiting boycotts as well as other forms of opposition to Israeli policy.",
-      "link": "https://www.dropsitenews.com/p/israel-iowa-attorney-general-brenna-bird",
-      "published": "2026-11-19T22:56:45+00:00",
-      "featured": false
-    },
-    {
-      "id": "1d239a7f2a87",
-      "source": "ICIJ",
-      "headline": "Anatomy of a Chinese loanbook",
-      "excerpt": "What ICIJ learned when we analyzed hundreds of Industrial and Commercial Bank of China’s loan commitments.",
-      "link": "https://www.icij.org/investigations/china-capital/anatomy-of-a-chinese-loanbook/",
-      "published": "2026-11-19T21:10:12+00:00",
-      "featured": false
-    },
-    {
-      "id": "22352d688ecb",
-      "source": "404 Media",
-      "headline": "To Catch a Ransomware Scammer, FBI Posed as Both Victim and Attacker",
-      "excerpt": "By posing as the victim of a ransomware attack and the threat actors themselves, the FBI was able to catch an alleged fraud scheme in the act.",
-      "link": "https://www.404media.co/ransomware-fraud-attack-fbi-indictment/",
-      "published": "2026-11-19T18:11:50+00:00",
       "featured": false
     },
     {
@@ -101,12 +92,48 @@
       "featured": false
     },
     {
-      "id": "0cfb735f2465",
+      "id": "aecd3a5a0f31",
       "source": "Al Jazeera",
-      "headline": "EU and UK seal reset deal",
-      "excerpt": "This is a breaking news story.",
-      "link": "https://www.aljazeera.com/news/2026/11/20/eu-and-uk-seal-reset-deal?traffic_source=rss",
-      "published": "2026-11-20T11:20:19+00:00",
+      "headline": "Palestinian anti-Hamas groups accused of role in Israel Gaza operation",
+      "excerpt": "Israeli-backed Palestinian militias accused of expanding operations, raising concerns over their role in Gaza’s security",
+      "link": "https://www.aljazeera.com/news/2026/11/20/palestinian-anti-hamas-groups-accused-of-role-in-israel-gaza-operation?traffic_source=rss",
+      "published": "2026-11-20T19:57:05+00:00",
+      "featured": false
+    },
+    {
+      "id": "8ae193ef119b",
+      "source": "Dropsite News",
+      "headline": "Pentagon’s Iran war costs top $48 billion; Saudi strikes Hodeidah port, Ansarallah vows response; Haitian police kill 34 gang members",
+      "excerpt": "Drop Site Daily: November 20, 2026",
+      "link": "https://www.dropsitenews.com/p/pentagon-iran-war-saudi-yemen-port-haiti-gangs",
+      "published": "2026-11-20T15:57:46+00:00",
+      "featured": false
+    },
+    {
+      "id": "b035a918713f",
+      "source": "404 Media",
+      "headline": "Behind the Blog: Keeping It Together",
+      "excerpt": "This week, we discuss hippo physiology, Shenmue, and tricky interviews.",
+      "link": "https://www.404media.co/behind-the-blog-keeping-it-together/",
+      "published": "2026-11-20T15:40:21+00:00",
+      "featured": false
+    },
+    {
+      "id": "79515b9c6a5a",
+      "source": "The Lever",
+      "headline": "Watchdogs To Democrats: Give The Gavels To Monopoly Fighters",
+      "excerpt": "More than 50 groups want Jeffries and Schumer to put lawmakers ready to investigate corporate giants and block megamergers in charge of key committees.",
+      "link": "https://www.levernews.com/watchdogs-to-democrats-give-the-gavels-to-monopoly-fighters/",
+      "published": "2026-11-20T14:00:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "abd01bd58395",
+      "source": "OCCRP",
+      "headline": "US Sanctions Italian Mafia Group in Canada and Australian Biker Gang with Global Footprint",
+      "excerpt": "The U.S. has sanctioned members of a Canada-based faction of Italy’s ‘Ndrangheta mafia, and an Australian outlaw motorcycle gang. Both work with Mexican cocaine cartels, according to the Treasury Department.",
+      "link": "https://www.occrp.org/en/news/us-sanctions-italian-mafia-group-in-canada-and-australian-biker-gang-with-global-footprint",
+      "published": "2026-11-20T12:02:00+00:00",
       "featured": false
     },
     {
@@ -119,57 +146,12 @@
       "featured": false
     },
     {
-      "id": "8003f5cd556c",
-      "source": "The Lever",
-      "headline": "Democrats’ Next Chapter, Brought To You By Billionaires",
-      "excerpt": "Billionaires, presidential hopefuls, operatives, and pundits descended on Denver for an invite-only summit to shape Democrats’ future — while largely ignoring what voters demanded.",
-      "link": "https://www.levernews.com/democrats-whats-next-billionaires/",
-      "published": "2026-11-20T04:24:19+00:00",
-      "featured": false
-    },
-    {
-      "id": "6016168ddf4f",
-      "source": "The Intercept",
-      "headline": "Elon Musk Thinks You’re an Idiot",
-      "excerpt": "The man with a custom dark MAGA hat rebrands: “I’m not sure what MAGA means.” The post Elon Musk Thinks You’re an Idiot appeared first on The Intercept.",
-      "link": "https://theintercept.com/2026/11/19/elon-musk-rebrand-moderate-trump/",
-      "published": "2026-11-19T20:31:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "51d46f8ae520",
-      "source": "Dropsite News",
-      "headline": "Iran war caused largest oil and gas disruption on record; Ansarallah strikes Riyadh’s tallest building; ICJ rules Myanmar committed genocide against Rohingya",
-      "excerpt": "Drop Site Daily: November 19, 2026",
-      "link": "https://www.dropsitenews.com/p/iran-war-oil-ansarallah-saudi-riyadh-icj-myanmar-rohingya",
-      "published": "2026-11-19T16:02:07+00:00",
-      "featured": false
-    },
-    {
-      "id": "216542b26b91",
-      "source": "404 Media",
-      "headline": "High-End Furniture Marketplace AptDeco Is Taking People’s Furniture and Not Paying Them",
-      "excerpt": "“It genuinely feels like I’ve had something stolen from me.”",
-      "link": "https://www.404media.co/high-end-furniture-marketplace-aptdeco-is-taking-peoples-furniture-and-not-paying-them/",
-      "published": "2026-11-19T15:33:18+00:00",
-      "featured": false
-    },
-    {
-      "id": "cd94f39c0ff6",
+      "id": "1d239a7f2a87",
       "source": "ICIJ",
-      "headline": "Two more journalists murdered in Latin America, prompting press freedom concerns",
-      "excerpt": "The killings in Mexico and Costa Rica, as well as an arson attack in Panama, happened over a four-day period and stoked fears of escalating violence against reporters.",
-      "link": "https://www.icij.org/news/2026/11/two-more-journalists-murdered-in-latin-america-prompting-press-freedom-concerns/",
-      "published": "2026-11-18T16:15:50+00:00",
-      "featured": false
-    },
-    {
-      "id": "ad36a2301ff1",
-      "source": "OCCRP",
-      "headline": "Accused South American Drug Lord Faces US Trial after Judge Rejects Motions",
-      "excerpt": "A federal judge rejected assertions of prosecutorial misconduct and vindictive prosecution, clearing the way for an accused South American drug baron’s jury trial.",
-      "link": "https://www.occrp.org/en/news/accused-south-american-drug-lord-faces-us-trial-after-judge-rejects-motions",
-      "published": "2026-11-18T13:56:00+00:00",
+      "headline": "Anatomy of a Chinese loanbook",
+      "excerpt": "What ICIJ learned when we analyzed hundreds of Industrial and Commercial Bank of China’s loan commitments.",
+      "link": "https://www.icij.org/investigations/china-capital/anatomy-of-a-chinese-loanbook/",
+      "published": "2026-11-19T21:10:12+00:00",
       "featured": false
     },
     {
@@ -200,12 +182,12 @@
       "featured": false
     },
     {
-      "id": "11cb4e9aad4a",
+      "id": "04cee6e2e641",
       "source": "Al Jazeera",
-      "headline": "Kataib Hezbollah faces deadline to leave Iraqi stronghold",
-      "excerpt": "Kataib Hezbollah faces deadline to leave Iraqi stronghold",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/20/kataib-hezbollah-faces-deadline-to-leave-iraqi-stronghold?traffic_source=rss",
-      "published": "2026-11-20T11:10:06+00:00",
+      "headline": "Indian man sentenced to 19 years in US Sikh separatist assassination plot",
+      "excerpt": "Nikhil Gupta jailed for conspiring to hire a hitman to kill New York-based Sikh leader, Gurpatwant Singh Pannun.",
+      "link": "https://www.aljazeera.com/news/2026/11/20/indian-man-sentenced-to-19-years-in-us-sikh-separatist-assassination-plot?traffic_source=rss",
+      "published": "2026-11-20T19:40:07+00:00",
       "featured": false
     },
     {
@@ -218,57 +200,48 @@
       "featured": false
     },
     {
-      "id": "6845755f4566",
-      "source": "The Lever",
-      "headline": "Van Hollen Wants Schumer’s Job. Here’s Where They Split.",
-      "excerpt": "Medicare for All, weapons for Israel, AI regulation — the two Democrats have plenty to fight over.",
-      "link": "https://www.levernews.com/van-hollen-wants-schumers-job-heres-where-they-split/",
-      "published": "2026-11-20T00:03:37+00:00",
-      "featured": false
-    },
-    {
-      "id": "462d51a2bea5",
-      "source": "The Intercept",
-      "headline": "Just Rinse It Off, Army Says Before Blowing Up Five Tons of Lead Compound",
-      "excerpt": "The Army appears to be winging its detonation of unstable lead azide at its Iowa ammunition plant. The post Just Rinse It Off, Army Says Before Blowing Up Five Tons of Lead Compound appeared first on The Intercept.",
-      "link": "https://theintercept.com/2026/11/19/iowa-lead-ammunition-detonation-army/",
-      "published": "2026-11-19T19:37:59+00:00",
-      "featured": false
-    },
-    {
-      "id": "4371b3ca593b",
-      "source": "404 Media",
-      "headline": "Black Neighborhoods Are Twice as Likely To House a Data Center, Study Finds",
-      "excerpt": "The number goes up to 2.6 in majority-Hispanic neighborhoods and 4.2 times in majority-Asian neighborhoods.",
-      "link": "https://www.404media.co/redlining-ai-data-centers-and-race-study/",
-      "published": "2026-11-19T15:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "250eae23af2d",
-      "source": "Dropsite News",
-      "headline": "“I Didn’t Expect Jenin Could Change So Much”: Reporter Jailed for Nearly 2 Years on Israel’s Destruction",
-      "excerpt": "Palestinian journalist Mujahed Al-Saadi returned to his hometown after 22 months in prison to find the Jenin refugee camp emptied and the entire area disfigured by a massive Israeli military assault.",
-      "link": "https://www.dropsitenews.com/p/jenin-refugee-camp-israel-operation-iron-wall",
-      "published": "2026-11-18T19:15:46+00:00",
-      "featured": false
-    },
-    {
-      "id": "8685f7a4f99d",
+      "id": "ef13fd66cdb0",
       "source": "OCCRP",
-      "headline": "British Hacker Admits Breaching Uber, Revolut and Rockstar",
-      "excerpt": "A 21-year-old British hacker has pleaded guilty to cyberattacks on Rockstar Games, Uber, Revolut and BT/EE that exposed sensitive data and caused millions of dollars in losses. He continued hacking even after being...",
-      "link": "https://www.occrp.org/en/news/british-hacker-admits-breaching-uber-revolut-and-rockstar",
-      "published": "2026-11-17T17:17:00+00:00",
+      "headline": "Wine Distributor Targeted in Latest US Prince Group Sanctions Owns Warehouse Unit in London",
+      "excerpt": "The latest U.S. sanctions against Cambodia's Prince Group netted a man involved in wine distribution in Hong Kong and Macau. Documents show that a company he ultimately owns bought a refrigerated warehouse unit in...",
+      "link": "https://www.occrp.org/en/news/wine-distributor-prince-group-sanctions-warehouse-unit-london",
+      "published": "2026-11-20T09:22:00+00:00",
       "featured": false
     },
     {
-      "id": "92dc4ef42685",
+      "id": "bf941297f019",
+      "source": "The Lever",
+      "headline": "Chris Van Hollen Is Threatening The Democratic Machine",
+      "excerpt": "In his leadership challenge against Chuck Schumer, the Maryland senator envisions a job that engages the public — and rejects his party’s top-down elitism.",
+      "link": "https://www.levernews.com/chris-van-hollen-is-threatening-the-democratic-machine/",
+      "published": "2026-11-20T08:05:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "603cd49712ac",
+      "source": "Dropsite News",
+      "headline": "Israeli Diplomat Offered Iowa Attorney General Free Trip, Then Asked for Favors",
+      "excerpt": "FOIA disclosures and hacked email archives show how Israel leverages personal ties with state officials to promote laws prohibiting boycotts as well as other forms of opposition to Israeli policy.",
+      "link": "https://www.dropsitenews.com/p/israel-iowa-attorney-general-brenna-bird",
+      "published": "2026-11-19T22:56:45+00:00",
+      "featured": false
+    },
+    {
+      "id": "22352d688ecb",
+      "source": "404 Media",
+      "headline": "To Catch a Ransomware Scammer, FBI Posed as Both Victim and Attacker",
+      "excerpt": "By posing as the victim of a ransomware attack and the threat actors themselves, the FBI was able to catch an alleged fraud scheme in the act.",
+      "link": "https://www.404media.co/ransomware-fraud-attack-fbi-indictment/",
+      "published": "2026-11-19T18:11:50+00:00",
+      "featured": false
+    },
+    {
+      "id": "cd94f39c0ff6",
       "source": "ICIJ",
-      "headline": "‘He used Pornhub as the gun’",
-      "excerpt": "Court filings reveal how one of the world’s largest porn companies allowed child sexual abuse and nonconsensual videos to spread, even after victims and police flagged them.",
-      "link": "https://www.icij.org/news/2026/11/he-used-pornhub-as-the-gun/",
-      "published": "2026-11-16T18:40:06+00:00",
+      "headline": "Two more journalists murdered in Latin America, prompting press freedom concerns",
+      "excerpt": "The killings in Mexico and Costa Rica, as well as an arson attack in Panama, happened over a four-day period and stoked fears of escalating violence against reporters.",
+      "link": "https://www.icij.org/news/2026/11/two-more-journalists-murdered-in-latin-america-prompting-press-freedom-concerns/",
+      "published": "2026-11-18T16:15:50+00:00",
       "featured": false
     },
     {
@@ -299,30 +272,21 @@
       "featured": false
     },
     {
-      "id": "3a083cc0df3b",
+      "id": "a8fce583ebc4",
       "source": "Al Jazeera",
-      "headline": "Kushner says Russia OK with ‘NATO-like’ security pact for Ukraine: Is it?",
-      "excerpt": "NATO Article 5 says attack on one member is an attack on all. Analysts say inclusion of Ukraine 'stretches credulity'.",
-      "link": "https://www.aljazeera.com/news/2026/11/20/kushner-says-russia-ok-with-nato-like-security-pact-for-ukraine-is-it?traffic_source=rss",
-      "published": "2026-11-20T11:01:51+00:00",
+      "headline": "Nepal cricket fans celebrate their team’s global rise",
+      "excerpt": "Nepal’s cricket fans have witnessed a transformation in their national team’s fortunes in recent years.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/20/nepal-cricket-fans-celebrate-their-teams-global-rise?traffic_source=rss",
+      "published": "2026-11-20T19:24:26+00:00",
       "featured": false
     },
     {
-      "id": "7dadde29b4a4",
+      "id": "8003f5cd556c",
       "source": "The Lever",
-      "headline": "Weapons Makers Want To Keep Their Pentagon Repair Racket",
-      "excerpt": "Contractors control the data needed to fix military equipment, driving up taxpayer costs. Now they’re fighting legislation that would break their repair monopolies.",
-      "link": "https://www.levernews.com/weapons-makers-want-to-keep-their-pentagon-repair-racket/",
-      "published": "2026-11-19T21:27:12+00:00",
-      "featured": false
-    },
-    {
-      "id": "a5dee1b086a9",
-      "source": "The Intercept",
-      "headline": "After Democrats’ Midterm Romp, What’s Stopping Governors From Commuting Death Sentences?",
-      "excerpt": "California Gov. Gavin Newsom spared the lives of 548 people on death row. Other governors might follow suit. The post After Democrats’ Midterm Romp, What’s Stopping Governors From Commuting Death Sentences? appeared...",
-      "link": "https://theintercept.com/2026/11/19/death-penalty-commutations-execution-newsom-dewine/",
-      "published": "2026-11-19T19:08:35+00:00",
+      "headline": "Democrats’ Next Chapter, Brought To You By Billionaires",
+      "excerpt": "Billionaires, presidential hopefuls, operatives, and pundits descended on Denver for an invite-only summit to shape Democrats’ future — while largely ignoring what voters demanded.",
+      "link": "https://www.levernews.com/democrats-whats-next-billionaires/",
+      "published": "2026-11-20T04:24:19+00:00",
       "featured": false
     },
     {
@@ -335,39 +299,39 @@
       "featured": false
     },
     {
-      "id": "b1e132de927e",
-      "source": "404 Media",
-      "headline": "Mass Surveillance and GTA",
-      "excerpt": "ICE is paying AT&T to dig through a mountain of call records.",
-      "link": "https://www.404media.co/mass-surveillance-and-gta/",
-      "published": "2026-11-19T14:54:09+00:00",
-      "featured": false
-    },
-    {
-      "id": "0d4f994c5078",
+      "id": "51d46f8ae520",
       "source": "Dropsite News",
-      "headline": "Israel launches ground operation in central Gaza; Jeffries wins speaker nomination; NSA’s internal comms system goes down",
-      "excerpt": "Drop Site Daily: November 18, 2026",
-      "link": "https://www.dropsitenews.com/p/israel-gaza-operation-jeffries-speaker-nsa-comms-system",
-      "published": "2026-11-18T16:20:54+00:00",
+      "headline": "Iran war caused largest oil and gas disruption on record; Ansarallah strikes Riyadh’s tallest building; ICJ rules Myanmar committed genocide against Rohingya",
+      "excerpt": "Drop Site Daily: November 19, 2026",
+      "link": "https://www.dropsitenews.com/p/iran-war-oil-ansarallah-saudi-riyadh-icj-myanmar-rohingya",
+      "published": "2026-11-19T16:02:07+00:00",
       "featured": false
     },
     {
-      "id": "3e659f7c83c5",
+      "id": "216542b26b91",
+      "source": "404 Media",
+      "headline": "High-End Furniture Marketplace AptDeco Is Taking People’s Furniture and Not Paying Them",
+      "excerpt": "“It genuinely feels like I’ve had something stolen from me.”",
+      "link": "https://www.404media.co/high-end-furniture-marketplace-aptdeco-is-taking-peoples-furniture-and-not-paying-them/",
+      "published": "2026-11-19T15:33:18+00:00",
+      "featured": false
+    },
+    {
+      "id": "ad36a2301ff1",
       "source": "OCCRP",
-      "headline": "Kyrgyz Man Sentenced to Three Years For Re-Posting Video on Facebook",
-      "excerpt": "Kyrgyz police charged a man with using social media posts to incite mass unrest. But when the state’s expert said the evidence wasn’t there, police focused instead on his re-post of a video from an investigative...",
-      "link": "https://www.occrp.org/en/news/kyrgyz-man-sentenced-to-three-years-for-re-posting-video-on-facebook",
-      "published": "2026-11-17T09:55:00+00:00",
+      "headline": "Accused South American Drug Lord Faces US Trial after Judge Rejects Motions",
+      "excerpt": "A federal judge rejected assertions of prosecutorial misconduct and vindictive prosecution, clearing the way for an accused South American drug baron’s jury trial.",
+      "link": "https://www.occrp.org/en/news/accused-south-american-drug-lord-faces-us-trial-after-judge-rejects-motions",
+      "published": "2026-11-18T13:56:00+00:00",
       "featured": false
     },
     {
-      "id": "5b5e93c1cd9e",
+      "id": "92dc4ef42685",
       "source": "ICIJ",
-      "headline": "With the new shift in the U.S. Congress, time is running out on bills targeting drug patents",
-      "excerpt": "Supporters say the measures would bring cheaper medicines to the market sooner, but business groups are pushing back.",
-      "link": "https://www.icij.org/investigations/cancer-calculus/with-the-new-shift-in-the-u-s-congress-time-is-running-out-on-bills-targeting-drug-patents/",
-      "published": "2026-11-13T17:48:40+00:00",
+      "headline": "‘He used Pornhub as the gun’",
+      "excerpt": "Court filings reveal how one of the world’s largest porn companies allowed child sexual abuse and nonconsensual videos to spread, even after victims and police flagged them.",
+      "link": "https://www.icij.org/news/2026/11/he-used-pornhub-as-the-gun/",
+      "published": "2026-11-16T18:40:06+00:00",
       "featured": false
     },
     {
@@ -398,30 +362,21 @@
       "featured": false
     },
     {
-      "id": "17ed4b065d02",
+      "id": "51bdd196589e",
       "source": "Al Jazeera",
-      "headline": "Can the Rohingya genocide verdict deliver justice?",
-      "excerpt": "The ICJ has ruled against Myanmar, but safe return, citizenship and reparations remain far from guaranteed.",
-      "link": "https://www.aljazeera.com/opinions/2026/11/20/can-the-rohingya-genocide-verdict-deliver-justice?traffic_source=rss",
-      "published": "2026-11-20T10:45:20+00:00",
+      "headline": "Belgrade mayor charged with assaulting opposition politician in Serbia",
+      "excerpt": "Prosecutors say Aleksandar Sapic caused serious facial injuries to a female councillor and seek a three-year sentence.",
+      "link": "https://www.aljazeera.com/news/2026/11/20/belgrade-mayor-charged-with-assaulting-opposition-politician-in-serbia?traffic_source=rss",
+      "published": "2026-11-20T19:15:18+00:00",
       "featured": false
     },
     {
-      "id": "b5c7025d8cf9",
+      "id": "6845755f4566",
       "source": "The Lever",
-      "headline": "The Tax-The-Rich Playbook For 2028",
-      "excerpt": "The California Democratic establishment voted no on Prop 40 and staved off the wealth tax. Are they up for another round?",
-      "link": "https://www.levernews.com/the-tax-the-rich-playbook-for-2028/",
-      "published": "2026-11-19T21:10:25+00:00",
-      "featured": false
-    },
-    {
-      "id": "f87de16aa1f7",
-      "source": "The Intercept",
-      "headline": "ICE Spreads Misinformation About Securing Your iPhone. Here’s How to Really Do It.",
-      "excerpt": "No, your iPhone isn’t acting as a covert microphone by default — but there are steps you can take to secure your device. The post ICE Spreads Misinformation About Securing Your iPhone. Here’s How to Really Do It....",
-      "link": "https://theintercept.com/2026/11/19/ice-misinformation-iphone-security/",
-      "published": "2026-11-19T17:06:48+00:00",
+      "headline": "Van Hollen Wants Schumer’s Job. Here’s Where They Split.",
+      "excerpt": "Medicare for All, weapons for Israel, AI regulation — the two Democrats have plenty to fight over.",
+      "link": "https://www.levernews.com/van-hollen-wants-schumers-job-heres-where-they-split/",
+      "published": "2026-11-20T00:03:37+00:00",
       "featured": false
     },
     {
@@ -434,30 +389,39 @@
       "featured": false
     },
     {
-      "id": "7ad647236e6d",
+      "id": "4371b3ca593b",
       "source": "404 Media",
-      "headline": "ICE Is Paying AT&T to Dig Through a Mountain of Call Records",
-      "excerpt": "An internal ICE document obtained by 404 Media shows ICE is paying AT&T for access to “raw data and analytical services.” Experts and lawmakers call it a mass surveillance program that may impact trillions of records.",
-      "link": "https://www.404media.co/ice-is-paying-at-t-to-dig-through-a-mountain-of-call-records-hemisphere-data-analytical-services/",
-      "published": "2026-11-19T14:32:36+00:00",
+      "headline": "Black Neighborhoods Are Twice as Likely To House a Data Center, Study Finds",
+      "excerpt": "The number goes up to 2.6 in majority-Hispanic neighborhoods and 4.2 times in majority-Asian neighborhoods.",
+      "link": "https://www.404media.co/redlining-ai-data-centers-and-race-study/",
+      "published": "2026-11-19T15:00:00+00:00",
       "featured": false
     },
     {
-      "id": "9e1177effc86",
+      "id": "250eae23af2d",
       "source": "Dropsite News",
-      "headline": "Companies That Helped Gut EU Climate Law Turn Up for COP31",
-      "excerpt": "The Trump administration boycotted the UN’s annual climate talks but members of the “Competitiveness Roundtable,” a secretive coalition of fossil fuel companies, showed up in force.",
-      "link": "https://www.dropsitenews.com/p/climate-cop31-competitiveness-roundtable",
-      "published": "2026-11-18T02:15:26+00:00",
+      "headline": "“I Didn’t Expect Jenin Could Change So Much”: Reporter Jailed for Nearly 2 Years on Israel’s Destruction",
+      "excerpt": "Palestinian journalist Mujahed Al-Saadi returned to his hometown after 22 months in prison to find the Jenin refugee camp emptied and the entire area disfigured by a massive Israeli military assault.",
+      "link": "https://www.dropsitenews.com/p/jenin-refugee-camp-israel-operation-iron-wall",
+      "published": "2026-11-18T19:15:46+00:00",
       "featured": false
     },
     {
-      "id": "8eccea12bf5a",
+      "id": "8685f7a4f99d",
       "source": "OCCRP",
-      "headline": "Iraq Cracks Down on Oil Smuggling in Area Controlled by Iran-aligned Shiite Militias",
-      "excerpt": "Following a leaked intelligence report on suspected oil smuggling by armed groups in the central region of Jurf al-Nasr, Iraq’s prime minister dismissed nine security officials. A retired army commander told OCCRP the...",
-      "link": "https://www.occrp.org/en/news/iraq-cracks-down-on-oil-smuggling-in-area-controlled-by-iran-aligned-shiite-militias",
-      "published": "2026-11-16T19:36:00+00:00",
+      "headline": "British Hacker Admits Breaching Uber, Revolut and Rockstar",
+      "excerpt": "A 21-year-old British hacker has pleaded guilty to cyberattacks on Rockstar Games, Uber, Revolut and BT/EE that exposed sensitive data and caused millions of dollars in losses. He continued hacking even after being...",
+      "link": "https://www.occrp.org/en/news/british-hacker-admits-breaching-uber-revolut-and-rockstar",
+      "published": "2026-11-17T17:17:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "5b5e93c1cd9e",
+      "source": "ICIJ",
+      "headline": "With the new shift in the U.S. Congress, time is running out on bills targeting drug patents",
+      "excerpt": "Supporters say the measures would bring cheaper medicines to the market sooner, but business groups are pushing back.",
+      "link": "https://www.icij.org/investigations/cancer-calculus/with-the-new-shift-in-the-u-s-congress-time-is-running-out-on-bills-targeting-drug-patents/",
+      "published": "2026-11-13T17:48:40+00:00",
       "featured": false
     },
     {
@@ -479,48 +443,30 @@
       "featured": false
     },
     {
-      "id": "4bae28f15f20",
-      "source": "ICIJ",
-      "headline": "How banking giant ICBC helped Chinese firms gain a foothold in Europe’s wind market",
-      "excerpt": "As European companies try to fend off Beijing-backed competitors, confidential records reveal how the state bank pumped millions into “the Huawei of green energy.\"",
-      "link": "https://www.icij.org/investigations/china-capital/how-banking-giant-icbc-helped-chinese-firms-gain-a-foothold-in-europes-wind-market/",
-      "published": "2026-11-04T14:51:36+00:00",
-      "featured": false
-    },
-    {
-      "id": "b9341d8d5dfb",
+      "id": "6cc38668b794",
       "source": "Al Jazeera",
-      "headline": "Drone operator removes Man United training footage and issues apology",
-      "excerpt": "The footage, filmed during new manager Mauricio Pochettino's first training session, was uploaded online.",
-      "link": "https://www.aljazeera.com/sports/2026/11/20/drone-operator-removes-man-united-training-footage-and-issues-apology?traffic_source=rss",
-      "published": "2026-11-20T10:37:20+00:00",
+      "headline": "What are the implications of the ICJ Rohingya genocide ruling?",
+      "excerpt": "Verdict against Myanmar may have implications for Israel's genocide in Gaza.",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/11/20/what-are-the-implications-of-the-icj-rohingya-genocide-ruling?traffic_source=rss",
+      "published": "2026-11-20T19:12:14+00:00",
       "featured": false
     },
     {
-      "id": "8153c1c54871",
+      "id": "7dadde29b4a4",
       "source": "The Lever",
-      "headline": "Don’t F#*k It Up, Democrats, Ep. 6: The Path To Medicare For All",
-      "excerpt": "David Sirota asks insurance-industry whistleblower Wendell Potter whether Democrats will deliver universal healthcare — or let insurers again dictate reform.",
-      "link": "https://www.levernews.com/dont-f-k-it-up-democrats-ep-6-the-path-to-medicare-for-all/",
-      "published": "2026-11-19T19:03:13+00:00",
+      "headline": "Weapons Makers Want To Keep Their Pentagon Repair Racket",
+      "excerpt": "Contractors control the data needed to fix military equipment, driving up taxpayer costs. Now they’re fighting legislation that would break their repair monopolies.",
+      "link": "https://www.levernews.com/weapons-makers-want-to-keep-their-pentagon-repair-racket/",
+      "published": "2026-11-19T21:27:12+00:00",
       "featured": false
     },
     {
-      "id": "60a91acc24b4",
-      "source": "The Intercept",
-      "headline": "Everyone’s Talking About Air Travel. No One’s Talking About How ICE Flights Make It Less Safe.",
-      "excerpt": "Trump’s immigration crackdown is fueling a safety crisis that’s gone relatively unnoticed in the public panic over flying. The post Everyone’s Talking About Air Travel. No One’s Talking About How ICE Flights Make It...",
-      "link": "https://theintercept.com/2026/11/19/ice-air-deportation-flights-faa-safety/",
-      "published": "2026-11-19T16:11:07+00:00",
-      "featured": false
-    },
-    {
-      "id": "e0ba7be43c2d",
+      "id": "b1e132de927e",
       "source": "404 Media",
-      "headline": "Charting American Culture in News Footage of ‘Grand Theft Auto’",
-      "excerpt": "From death to sex to money, the panics around GTA map onto American anxieties.",
-      "link": "https://www.404media.co/charting-american-culture-in-news-footage-of-grand-theft-auto/",
-      "published": "2026-11-19T13:21:40+00:00",
+      "headline": "Mass Surveillance and GTA",
+      "excerpt": "ICE is paying AT&T to dig through a mountain of call records.",
+      "link": "https://www.404media.co/mass-surveillance-and-gta/",
+      "published": "2026-11-19T14:54:09+00:00",
       "featured": false
     },
     {
@@ -533,12 +479,66 @@
       "featured": false
     },
     {
-      "id": "2659b3a3576d",
+      "id": "0d4f994c5078",
       "source": "Dropsite News",
-      "headline": "Iran ‘DIRTY BOMB’ Claims; Will Iran Change its Nuclear Posture? | Sina Azodi",
-      "excerpt": "War Brief: Episode 9",
-      "link": "https://www.dropsitenews.com/p/iran-dirty-bomb-claims-can-iran-dash",
-      "published": "2026-11-17T21:50:50+00:00",
+      "headline": "Israel launches ground operation in central Gaza; Jeffries wins speaker nomination; NSA’s internal comms system goes down",
+      "excerpt": "Drop Site Daily: November 18, 2026",
+      "link": "https://www.dropsitenews.com/p/israel-gaza-operation-jeffries-speaker-nsa-comms-system",
+      "published": "2026-11-18T16:20:54+00:00",
+      "featured": false
+    },
+    {
+      "id": "3e659f7c83c5",
+      "source": "OCCRP",
+      "headline": "Kyrgyz Man Sentenced to Three Years For Re-Posting Video on Facebook",
+      "excerpt": "Kyrgyz police charged a man with using social media posts to incite mass unrest. But when the state’s expert said the evidence wasn’t there, police focused instead on his re-post of a video from an investigative...",
+      "link": "https://www.occrp.org/en/news/kyrgyz-man-sentenced-to-three-years-for-re-posting-video-on-facebook",
+      "published": "2026-11-17T09:55:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "8c4e39347815",
+      "source": "Rest of World",
+      "headline": "A rare strike in Taiwan exposes labor unrest beneath the global AI rush",
+      "excerpt": "Micron Technology union representatives gesture during a protest outside of the Micron facility demanding greater profit shares and better bonuses, in Taoyuan on October 22, 2026. Eleven workers at a Micron Technology...",
+      "link": "https://restofworld.org/2026/taiwan-labor-strike-ai-profits/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "published": "2026-11-05T11:00:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "4bae28f15f20",
+      "source": "ICIJ",
+      "headline": "How banking giant ICBC helped Chinese firms gain a foothold in Europe’s wind market",
+      "excerpt": "As European companies try to fend off Beijing-backed competitors, confidential records reveal how the state bank pumped millions into “the Huawei of green energy.\"",
+      "link": "https://www.icij.org/investigations/china-capital/how-banking-giant-icbc-helped-chinese-firms-gain-a-foothold-in-europes-wind-market/",
+      "published": "2026-11-04T14:51:36+00:00",
+      "featured": false
+    },
+    {
+      "id": "fa9d17d5cc26",
+      "source": "More Perfect Union",
+      "headline": "We Investigated The $400 Million Corruption Machine Deciding The Midterm Elections",
+      "excerpt": "It all happens through MAGA Inc., and oligarchs are spending big to defend their cash cow this election.",
+      "link": "https://substack.perfectunion.us/p/we-investigated-the-400-million-corruption",
+      "published": "2026-11-02T18:58:12+00:00",
+      "featured": false
+    },
+    {
+      "id": "ccdf7c292639",
+      "source": "Al Jazeera",
+      "headline": "Former US national security adviser confronted by students on Gaza",
+      "excerpt": "Former US National Security Adviser Jake Sullivan was confronted by student protesters during a speaking event at MIT.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/20/former-us-national-security-adviser-confronted-by-students-on-gaza?traffic_source=rss",
+      "published": "2026-11-20T18:51:26+00:00",
+      "featured": false
+    },
+    {
+      "id": "b5c7025d8cf9",
+      "source": "The Lever",
+      "headline": "The Tax-The-Rich Playbook For 2028",
+      "excerpt": "The California Democratic establishment voted no on Prop 40 and staved off the wealth tax. Are they up for another round?",
+      "link": "https://www.levernews.com/the-tax-the-rich-playbook-for-2028/",
+      "published": "2026-11-19T21:10:25+00:00",
       "featured": false
     }
   ]
