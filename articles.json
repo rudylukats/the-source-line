@@ -1,13 +1,22 @@
 {
-  "generated_at": "2026-11-22T11:26:25.248052+00:00",
+  "generated_at": "2026-11-22T19:41:30.146842+00:00",
   "articles": [
     {
-      "id": "bcbdc8155cc6",
+      "id": "14d0913d6398",
       "source": "Al Jazeera",
-      "headline": "Russian ship attacked by drone in Baltic Sea off Finland",
-      "excerpt": "Russian ship attacked by drone in Baltic Sea off Finland",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/22/russian-ship-attacked-by-drone-in-baltic-sea-off-finland?traffic_source=rss",
-      "published": "2026-11-22T11:15:27+00:00",
+      "headline": "CHK_Aber Kawas becomes first Palestinian in New York state Senate history",
+      "excerpt": "Kawas, a democratic socialist, won with 74.5 percent of the vote, championing progressive politics.",
+      "link": "https://www.aljazeera.com/news/2026/11/22/chk_aber-kawas-becomes-first-palestinian-in-new-york-state-senate-history?traffic_source=rss",
+      "published": "2026-11-22T19:18:29+00:00",
+      "featured": true
+    },
+    {
+      "id": "4d9b9894a703",
+      "source": "The Lever",
+      "headline": "Lever Weekly: Grand Theft Agenda",
+      "excerpt": "A Democrat billionaire confab, the path to Medicare for All, and more from The Lever this week.",
+      "link": "https://www.levernews.com/lever-weekly-grand-theft-agenda/",
+      "published": "2026-11-22T13:55:00+00:00",
       "featured": true
     },
     {
@@ -20,13 +29,22 @@
       "featured": true
     },
     {
+      "id": "0e8d302a71e6",
+      "source": "The Intercept",
+      "headline": "An Air Force Major Is Being Held in Solitary Confinement for Criticizing Trump on CNN",
+      "excerpt": "The administration is weaponizing military law to hold Maj. Jason Watson in extreme isolation awaiting a “contemptuous words” trial. The post An Air Force Major Is Being Held in Solitary Confinement for Criticizing...",
+      "link": "https://theintercept.com/2026/11/21/trump-jason-watson-air-force-solitary-speech/",
+      "published": "2026-11-21T11:17:00+00:00",
+      "featured": false
+    },
+    {
       "id": "de3fcb0a5f23",
       "source": "ProPublica",
       "headline": "Why Is the World Still Counting on Unproven Carbon Capture Technology?",
       "excerpt": "The post Why Is the World Still Counting on Unproven Carbon Capture Technology? appeared first on ProPublica.",
       "link": "https://www.propublica.org/article/carbon-capture-and-storage-climate-models",
       "published": "2026-11-21T10:00:00+00:00",
-      "featured": true
+      "featured": false
     },
     {
       "id": "14b06b2d5d15",
@@ -44,15 +62,6 @@
       "excerpt": "Blackouts are disrupting the economy, including hospitals and farming, with little hope the grid will be repaired soon following an intense wave of attacks on Sudan’s electricity infrastructure.",
       "link": "https://www.dropsitenews.com/p/sudan-power-grid-electricity-blackouts",
       "published": "2026-11-20T18:02:02+00:00",
-      "featured": false
-    },
-    {
-      "id": "107d91962fdc",
-      "source": "The Lever",
-      "headline": "Who’s The Lamest Duck?",
-      "excerpt": "Test your knowledge of Trump nominees, Democratic infighting, and other issues that really matter.",
-      "link": "https://www.levernews.com/levermind-quiz-whos-the-lamest-duck/",
-      "published": "2026-11-20T17:46:31+00:00",
       "featured": false
     },
     {
@@ -92,12 +101,12 @@
       "featured": false
     },
     {
-      "id": "4e95c65bfea5",
+      "id": "6fb0beae30a8",
       "source": "Al Jazeera",
-      "headline": "Messi throws ball in opponent’s face, avoids red card as Inter Miami lose",
-      "excerpt": "Lionel Messi escapes red-card booking for controversial throw-in in Miami's 3-0 defeat by Columbus in MLS Cup playoffs.",
-      "link": "https://www.aljazeera.com/sports/2026/11/22/lionel-messi-inter-miami-yellow-red-card-mls-playoffs?traffic_source=rss",
-      "published": "2026-11-22T11:07:30+00:00",
+      "headline": "‘Horrific’ and ‘chilling’: Officials condemn ICE arrests at Seattle airport",
+      "excerpt": "Video shows masked immigration agents forcibly detaining two people at Seattle airport, raising concerns over tactics.",
+      "link": "https://www.aljazeera.com/news/2026/11/22/horrific-and-chilling-officials-condemn-ice-arrests-at-seattle-airport?traffic_source=rss",
+      "published": "2026-11-22T19:10:00+00:00",
       "featured": false
     },
     {
@@ -110,6 +119,15 @@
       "featured": false
     },
     {
+      "id": "107d91962fdc",
+      "source": "The Lever",
+      "headline": "Who’s The Lamest Duck?",
+      "excerpt": "Test your knowledge of Trump nominees, Democratic infighting, and other issues that really matter.",
+      "link": "https://www.levernews.com/levermind-quiz-whos-the-lamest-duck/",
+      "published": "2026-11-20T17:46:31+00:00",
+      "featured": false
+    },
+    {
       "id": "8ae193ef119b",
       "source": "Dropsite News",
       "headline": "Pentagon’s Iran war costs top $48 billion; Saudi strikes Hodeidah port, Ansarallah vows response; Haitian police kill 34 gang members",
@@ -119,12 +137,12 @@
       "featured": false
     },
     {
-      "id": "79515b9c6a5a",
-      "source": "The Lever",
-      "headline": "Watchdogs To Democrats: Give The Gavels To Monopoly Fighters",
-      "excerpt": "More than 50 groups want Jeffries and Schumer to put lawmakers ready to investigate corporate giants and block megamergers in charge of key committees.",
-      "link": "https://www.levernews.com/watchdogs-to-democrats-give-the-gavels-to-monopoly-fighters/",
-      "published": "2026-11-20T14:00:00+00:00",
+      "id": "edbc2957c7f7",
+      "source": "The Intercept",
+      "headline": "Establishment Dems Want to Renew Trump’s Domestic Spy Powers Before New Congress",
+      "excerpt": "Rep. Jim Himes and Sen. Mark Warner are spurning the will of midterm voters by pushing warrantless spying in the lame-duck Congress, privacy advocates say. The post Establishment Dems Want to Renew Trump’s Domestic Spy...",
+      "link": "https://theintercept.com/2026/11/20/fisa-warrantless-spying-lame-duck-himes/",
+      "published": "2026-11-20T15:35:16+00:00",
       "featured": false
     },
     {
@@ -182,12 +200,12 @@
       "featured": false
     },
     {
-      "id": "06b2152cf892",
+      "id": "ee99e3bdcaf0",
       "source": "Al Jazeera",
-      "headline": "Russian cargo ship still on fire off Finland after drone attack",
-      "excerpt": "The ship, bound for Russia's Kaliningrad, was damaged in international waters before drifting into Finnish territory.",
-      "link": "https://www.aljazeera.com/news/2026/11/22/russian-cargo-ship-still-on-fire-off-finland-after-drone-attack?traffic_source=rss",
-      "published": "2026-11-22T10:39:50+00:00",
+      "headline": "Liverpool thrash 10-man Man United in nightmare start for Pochettino",
+      "excerpt": "Leny Yoro's red card for Manchester United after just eight minutes paved the way for a 4-0 football defeat at Anfield.",
+      "link": "https://www.aljazeera.com/sports/2026/11/22/liverpool-thrash-10-man-man-united-in-nightmare-start-for-pochettino?traffic_source=rss",
+      "published": "2026-11-22T18:44:24+00:00",
       "featured": false
     },
     {
@@ -197,6 +215,24 @@
       "excerpt": "This week, we discuss hippo physiology, Shenmue, and tricky interviews.",
       "link": "https://www.404media.co/behind-the-blog-keeping-it-together/",
       "published": "2026-11-20T15:40:21+00:00",
+      "featured": false
+    },
+    {
+      "id": "79515b9c6a5a",
+      "source": "The Lever",
+      "headline": "Watchdogs To Democrats: Give The Gavels To Monopoly Fighters",
+      "excerpt": "More than 50 groups want Jeffries and Schumer to put lawmakers ready to investigate corporate giants and block megamergers in charge of key committees.",
+      "link": "https://www.levernews.com/watchdogs-to-democrats-give-the-gavels-to-monopoly-fighters/",
+      "published": "2026-11-20T14:00:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "98143077f619",
+      "source": "The Intercept",
+      "headline": "Sean Duffy’s FAA Fiasco",
+      "excerpt": "Aviation journalist Jeff Wise breaks down some misconceptions about air traffic control while the nation waits for answers on the ground stop. The post Sean Duffy’s FAA Fiasco appeared first on The Intercept.",
+      "link": "https://theintercept.com/2026/11/20/faa-ground-stop-flights-duffy/",
+      "published": "2026-11-20T11:00:00+00:00",
       "featured": false
     },
     {
@@ -215,15 +251,6 @@
       "excerpt": "The latest U.S. sanctions against Cambodia's Prince Group netted a man involved in wine distribution in Hong Kong and Macau. Documents show that a company he ultimately owns bought a refrigerated warehouse unit in...",
       "link": "https://www.occrp.org/en/news/wine-distributor-prince-group-sanctions-warehouse-unit-london",
       "published": "2026-11-20T09:22:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "bf941297f019",
-      "source": "The Lever",
-      "headline": "Chris Van Hollen Is Threatening The Democratic Machine",
-      "excerpt": "In his leadership challenge against Chuck Schumer, the Maryland senator envisions a job that engages the public — and rejects his party’s top-down elitism.",
-      "link": "https://www.levernews.com/chris-van-hollen-is-threatening-the-democratic-machine/",
-      "published": "2026-11-20T08:05:00+00:00",
       "featured": false
     },
     {
@@ -272,12 +299,12 @@
       "featured": false
     },
     {
-      "id": "1b15f9b731e6",
+      "id": "dff33020a464",
       "source": "Al Jazeera",
-      "headline": "Iraqi bodybuilding champion Sajad Jawad dies days after winning the Asian crown",
-      "excerpt": "Sajad Jawad died three days after winning the gold medal in the 90kg category at the Asian Championships in Thailand.",
-      "link": "https://www.aljazeera.com/sports/2026/11/22/iraqi-bodybuilding-champion-sajad-jawad-dies-days-after-winning-the-asian-crown?traffic_source=rss",
-      "published": "2026-11-22T09:45:48+00:00",
+      "headline": "Civilians killed in RSF drone strikes in Sudan",
+      "excerpt": "Several civilians have been killed and several buildings damaged in drone strikes by Sudan’s Rapid Support Forces.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/22/civilians-killed-in-rsf-drone-strikes-in-sudan?traffic_source=rss",
+      "published": "2026-11-22T18:12:07+00:00",
       "featured": false
     },
     {
@@ -290,12 +317,21 @@
       "featured": false
     },
     {
-      "id": "8003f5cd556c",
+      "id": "bf941297f019",
       "source": "The Lever",
-      "headline": "Democrats’ Next Chapter, Brought To You By Billionaires",
-      "excerpt": "Billionaires, presidential hopefuls, operatives, and pundits descended on Denver for an invite-only summit to shape Democrats’ future — while largely ignoring what voters demanded.",
-      "link": "https://www.levernews.com/democrats-whats-next-billionaires/",
-      "published": "2026-11-20T04:24:19+00:00",
+      "headline": "Chris Van Hollen Is Threatening The Democratic Machine",
+      "excerpt": "In his leadership challenge against Chuck Schumer, the Maryland senator envisions a job that engages the public — and rejects his party’s top-down elitism.",
+      "link": "https://www.levernews.com/chris-van-hollen-is-threatening-the-democratic-machine/",
+      "published": "2026-11-20T08:05:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "6016168ddf4f",
+      "source": "The Intercept",
+      "headline": "Elon Musk Thinks You’re an Idiot",
+      "excerpt": "The man with a custom dark MAGA hat rebrands: “I’m not sure what MAGA means.” The post Elon Musk Thinks You’re an Idiot appeared first on The Intercept.",
+      "link": "https://theintercept.com/2026/11/19/elon-musk-rebrand-moderate-trump/",
+      "published": "2026-11-19T20:31:00+00:00",
       "featured": false
     },
     {
@@ -353,21 +389,30 @@
       "featured": false
     },
     {
-      "id": "444029da750d",
+      "id": "87534ccd1a25",
       "source": "Al Jazeera",
-      "headline": "Restored wells bring life back to Hebron’s occupied Old City",
-      "excerpt": "Hebron's Old City has been under constant siege by Israeli settlers and the military.",
-      "link": "https://www.aljazeera.com/features/2026/11/22/restored-wells-bring-life-back-to-hebrons-occupied-old-city?traffic_source=rss",
-      "published": "2026-11-22T09:33:16+00:00",
+      "headline": "Suspected drone attack causes explosion on Russian ship in Libya",
+      "excerpt": "A Russian ship has been struck in a suspected drone attack while docked at Libya’s Benghazi naval base.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/22/suspected-drone-attack-causes-explosion-on-russian-ship-in-libya?traffic_source=rss",
+      "published": "2026-11-22T18:11:30+00:00",
       "featured": false
     },
     {
-      "id": "6845755f4566",
+      "id": "8003f5cd556c",
       "source": "The Lever",
-      "headline": "Van Hollen Wants Schumer’s Job. Here’s Where They Split.",
-      "excerpt": "Medicare for All, weapons for Israel, AI regulation — the two Democrats have plenty to fight over.",
-      "link": "https://www.levernews.com/van-hollen-wants-schumers-job-heres-where-they-split/",
-      "published": "2026-11-20T00:03:37+00:00",
+      "headline": "Democrats’ Next Chapter, Brought To You By Billionaires",
+      "excerpt": "Billionaires, presidential hopefuls, operatives, and pundits descended on Denver for an invite-only summit to shape Democrats’ future — while largely ignoring what voters demanded.",
+      "link": "https://www.levernews.com/democrats-whats-next-billionaires/",
+      "published": "2026-11-20T04:24:19+00:00",
+      "featured": false
+    },
+    {
+      "id": "462d51a2bea5",
+      "source": "The Intercept",
+      "headline": "Just Rinse It Off, Army Says Before Blowing Up Five Tons of Lead Compound",
+      "excerpt": "The Army appears to be winging its detonation of unstable lead azide at its Iowa ammunition plant. The post Just Rinse It Off, Army Says Before Blowing Up Five Tons of Lead Compound appeared first on The Intercept.",
+      "link": "https://theintercept.com/2026/11/19/iowa-lead-ammunition-detonation-army/",
+      "published": "2026-11-19T19:37:59+00:00",
       "featured": false
     },
     {
@@ -434,21 +479,30 @@
       "featured": false
     },
     {
-      "id": "17bb50e9487a",
+      "id": "eadc5b447bb3",
       "source": "Al Jazeera",
-      "headline": "Photos: People rally across France over living costs, public services",
-      "excerpt": "Protests held on sixth weekend as tens of thousands march over inequality and organisers plan more rallies.",
-      "link": "https://www.aljazeera.com/gallery/2026/11/22/photos-people-rally-across-france-over-living-costs-public-services?traffic_source=rss",
-      "published": "2026-11-22T09:27:48+00:00",
+      "headline": "UN climate talks collapse without a deal",
+      "excerpt": "The longest UN climate summit in history ended without a deal in Turkiye, the first such failure since 2009.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/22/un-climate-talks-collapse-without-a-deal?traffic_source=rss",
+      "published": "2026-11-22T18:04:25+00:00",
       "featured": false
     },
     {
-      "id": "7dadde29b4a4",
+      "id": "6845755f4566",
       "source": "The Lever",
-      "headline": "Weapons Makers Want To Keep Their Pentagon Repair Racket",
-      "excerpt": "Contractors control the data needed to fix military equipment, driving up taxpayer costs. Now they’re fighting legislation that would break their repair monopolies.",
-      "link": "https://www.levernews.com/weapons-makers-want-to-keep-their-pentagon-repair-racket/",
-      "published": "2026-11-19T21:27:12+00:00",
+      "headline": "Van Hollen Wants Schumer’s Job. Here’s Where They Split.",
+      "excerpt": "Medicare for All, weapons for Israel, AI regulation — the two Democrats have plenty to fight over.",
+      "link": "https://www.levernews.com/van-hollen-wants-schumers-job-heres-where-they-split/",
+      "published": "2026-11-20T00:03:37+00:00",
+      "featured": false
+    },
+    {
+      "id": "a5dee1b086a9",
+      "source": "The Intercept",
+      "headline": "After Democrats’ Midterm Romp, What’s Stopping Governors From Commuting Death Sentences?",
+      "excerpt": "California Gov. Gavin Newsom spared the lives of 548 people on death row. Other governors might follow suit. The post After Democrats’ Midterm Romp, What’s Stopping Governors From Commuting Death Sentences? appeared...",
+      "link": "https://theintercept.com/2026/11/19/death-penalty-commutations-execution-newsom-dewine/",
+      "published": "2026-11-19T19:08:35+00:00",
       "featured": false
     },
     {
@@ -485,60 +539,6 @@
       "excerpt": "Kyrgyz police charged a man with using social media posts to incite mass unrest. But when the state’s expert said the evidence wasn’t there, police focused instead on his re-post of a video from an investigative...",
       "link": "https://www.occrp.org/en/news/kyrgyz-man-sentenced-to-three-years-for-re-posting-video-on-facebook",
       "published": "2026-11-17T09:55:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "8c4e39347815",
-      "source": "Rest of World",
-      "headline": "A rare strike in Taiwan exposes labor unrest beneath the global AI rush",
-      "excerpt": "Micron Technology union representatives gesture during a protest outside of the Micron facility demanding greater profit shares and better bonuses, in Taoyuan on October 22, 2026. Eleven workers at a Micron Technology...",
-      "link": "https://restofworld.org/2026/taiwan-labor-strike-ai-profits/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-      "published": "2026-11-05T11:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "4bae28f15f20",
-      "source": "ICIJ",
-      "headline": "How banking giant ICBC helped Chinese firms gain a foothold in Europe’s wind market",
-      "excerpt": "As European companies try to fend off Beijing-backed competitors, confidential records reveal how the state bank pumped millions into “the Huawei of green energy.\"",
-      "link": "https://www.icij.org/investigations/china-capital/how-banking-giant-icbc-helped-chinese-firms-gain-a-foothold-in-europes-wind-market/",
-      "published": "2026-11-04T14:51:36+00:00",
-      "featured": false
-    },
-    {
-      "id": "fa9d17d5cc26",
-      "source": "More Perfect Union",
-      "headline": "We Investigated The $400 Million Corruption Machine Deciding The Midterm Elections",
-      "excerpt": "It all happens through MAGA Inc., and oligarchs are spending big to defend their cash cow this election.",
-      "link": "https://substack.perfectunion.us/p/we-investigated-the-400-million-corruption",
-      "published": "2026-11-02T18:58:12+00:00",
-      "featured": false
-    },
-    {
-      "id": "d440411718ee",
-      "source": "Al Jazeera",
-      "headline": "‘Trump’s exit strategy may depend on quietly lifting Iran blockade’",
-      "excerpt": "US President Donald Trump will have to ease the naval blockade on Iran if he wants the war to wind down, says analyst.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/22/trumps-exit-strategy-may-depend-on-quietly-lifting-iran?traffic_source=rss",
-      "published": "2026-11-22T09:06:27+00:00",
-      "featured": false
-    },
-    {
-      "id": "b5c7025d8cf9",
-      "source": "The Lever",
-      "headline": "The Tax-The-Rich Playbook For 2028",
-      "excerpt": "The California Democratic establishment voted no on Prop 40 and staved off the wealth tax. Are they up for another round?",
-      "link": "https://www.levernews.com/the-tax-the-rich-playbook-for-2028/",
-      "published": "2026-11-19T21:10:25+00:00",
-      "featured": false
-    },
-    {
-      "id": "b1e132de927e",
-      "source": "404 Media",
-      "headline": "Mass Surveillance and GTA",
-      "excerpt": "ICE is paying AT&T to dig through a mountain of call records.",
-      "link": "https://www.404media.co/mass-surveillance-and-gta/",
-      "published": "2026-11-19T14:54:09+00:00",
       "featured": false
     }
   ]
