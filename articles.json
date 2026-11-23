@@ -1,23 +1,50 @@
 {
-  "generated_at": "2026-11-23T01:44:46.993936+00:00",
+  "generated_at": "2026-11-23T12:43:58.546511+00:00",
   "articles": [
     {
-      "id": "36634285571c",
+      "id": "90b7ea8f82ef",
       "source": "Al Jazeera",
-      "headline": "WHO chief calls for peace amid heavy fighting in Ebola-hit DR Congo region",
-      "excerpt": "Fighting near a DRC hospital disrupts Ebola efforts, putting patients and workers at 'grave risk', WHO warns.",
-      "link": "https://www.aljazeera.com/news/2026/11/23/who-chief-calls-for-peace-amid-heavy-fighting-in-ebola-hit-dr-congo-region?traffic_source=rss",
-      "published": "2026-11-23T00:39:51+00:00",
+      "headline": "Inside the talks between student protest leaders and Macron’s government",
+      "excerpt": "Al Jazeera interviews two French student leaders who have met with top government officials as protests continue.",
+      "link": "https://www.aljazeera.com/news/2026/11/23/they-smile-but-do-nothing-students-on-meeting-macron-and-other-leaders?traffic_source=rss",
+      "published": "2026-11-23T11:58:09+00:00",
       "featured": true
     },
     {
-      "id": "4d9b9894a703",
-      "source": "The Lever",
-      "headline": "Lever Weekly: Grand Theft Agenda",
-      "excerpt": "A Democrat billionaire confab, the path to Medicare for All, and more from The Lever this week.",
-      "link": "https://www.levernews.com/lever-weekly-grand-theft-agenda/",
-      "published": "2026-11-22T13:55:00+00:00",
+      "id": "dadff3d10057",
+      "source": "ProPublica",
+      "headline": "Spotted on the D.C. Metro: Trump Staffer Accidentally Reveals Plan for Smithsonian Overhaul",
+      "excerpt": "The post Spotted on the D.C. Metro: Trump Staffer Accidentally Reveals Plan for Smithsonian Overhaul appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/dc-metro-smithsonian-american-history-plan",
+      "published": "2026-11-23T11:00:00+00:00",
       "featured": true
+    },
+    {
+      "id": "b1d0b321e18b",
+      "source": "Rest of World",
+      "headline": "The catch in IBM’s offer to relocate its U.S.-based immigrant workers",
+      "excerpt": "Ending U.S. visa sponsorship and shifting roles abroad helps the company retain talent, but leaves employees paying a steep financial and personal price.",
+      "link": "https://restofworld.org/2026/ibm-consulting-ends-us-visa-green-card-sponsorship/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "published": "2026-11-23T11:00:00+00:00",
+      "featured": true
+    },
+    {
+      "id": "fb15e80085ee",
+      "source": "The Intercept",
+      "headline": "Losing to the Mud: Feds Drag Their Feet as an Alaskan Village Sinks",
+      "excerpt": "As communities seek relocation spurred by climate change, the Yup’ik people in the remote village of Nunapitchuk have struggled to get help moving a mile uphill. The post Losing to the Mud: Feds Drag Their Feet as an...",
+      "link": "https://theintercept.com/2026/11/23/alaska-sinking-village-climate-change-relocation/",
+      "published": "2026-11-23T10:00:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "a29f1a9fd2c2",
+      "source": "The Lever",
+      "headline": "Would Corporate Dems Block An El-Sayed-Trump Medicare Deal?",
+      "excerpt": "Having baited Trump into a negotiation over Medicare for All, Senator-elect Abdul El-Sayed says it would be “awkward” if a faction of his own party is the obstacle.",
+      "link": "https://www.levernews.com/would-corporate-dems-block-an-el-sayed-trump-medicare-deal/",
+      "published": "2026-11-23T09:01:00+00:00",
+      "featured": false
     },
     {
       "id": "5d42af867e67",
@@ -26,24 +53,6 @@
       "excerpt": "Scientists discovered that eagles hunt large adult baboons in Chad, suggesting that birds of prey attacked human ancestors far more recently than previously known.",
       "link": "https://www.404media.co/scientists-discover-new-and-horrible-eagle-based-way-our-ancestors-died/",
       "published": "2026-11-21T12:00:00+00:00",
-      "featured": true
-    },
-    {
-      "id": "0e8d302a71e6",
-      "source": "The Intercept",
-      "headline": "An Air Force Major Is Being Held in Solitary Confinement for Criticizing Trump on CNN",
-      "excerpt": "The administration is weaponizing military law to hold Maj. Jason Watson in extreme isolation awaiting a “contemptuous words” trial. The post An Air Force Major Is Being Held in Solitary Confinement for Criticizing...",
-      "link": "https://theintercept.com/2026/11/21/trump-jason-watson-air-force-solitary-speech/",
-      "published": "2026-11-21T11:17:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "de3fcb0a5f23",
-      "source": "ProPublica",
-      "headline": "Why Is the World Still Counting on Unproven Carbon Capture Technology?",
-      "excerpt": "The post Why Is the World Still Counting on Unproven Carbon Capture Technology? appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/carbon-capture-and-storage-climate-models",
-      "published": "2026-11-21T10:00:00+00:00",
       "featured": false
     },
     {
@@ -74,15 +83,6 @@
       "featured": false
     },
     {
-      "id": "b2365444ebf0",
-      "source": "Rest of World",
-      "headline": "AI isn’t replacing your job. It’s turning it into low-paid gig work",
-      "excerpt": "Surgeon Kapil Sahnan uses a DaVinci Robot during surgery on a woman, 2026.",
-      "link": "https://restofworld.org/2026/ai-jobs-skills-gig-work/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-      "published": "2026-11-19T11:00:00+00:00",
-      "featured": false
-    },
-    {
       "id": "34efcf640c2b",
       "source": "More Perfect Union",
       "headline": "Private Equity Wants American Football",
@@ -101,12 +101,39 @@
       "featured": false
     },
     {
-      "id": "397cb06d90e6",
+      "id": "18c47e077293",
       "source": "Al Jazeera",
-      "headline": "South Korea’s stock market tumbles as AI bubble fears mount",
-      "excerpt": "The Kospi falls more than 3 percent as markets across the region brace for losses.",
-      "link": "https://www.aljazeera.com/news/2026/11/23/south-koreas-stock-market-tumbles-as-ai-bubble-fears-mount?traffic_source=rss",
-      "published": "2026-11-23T00:18:03+00:00",
+      "headline": "Former Icelandic PM says world’s great powers are flexing their muscles",
+      "excerpt": "Iceland’s former PM warns climate change remains an existential threat as global power politics sidelines action.",
+      "link": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/11/23/former-icelandic-pm-says-worlds-great-powers-are-flexing-their-muscles?traffic_source=rss",
+      "published": "2026-11-23T11:34:59+00:00",
+      "featured": false
+    },
+    {
+      "id": "4c0befd1d24a",
+      "source": "ProPublica",
+      "headline": "If They Call 911 About Domestic Abuse, Will They Be Deported?",
+      "excerpt": "The post If They Call 911 About Domestic Abuse, Will They Be Deported? appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/immigration-domestic-violence",
+      "published": "2026-11-23T10:00:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "4d9b9894a703",
+      "source": "The Lever",
+      "headline": "Lever Weekly: Grand Theft Agenda",
+      "excerpt": "A Democrat billionaire confab, the path to Medicare for All, and more from The Lever this week.",
+      "link": "https://www.levernews.com/lever-weekly-grand-theft-agenda/",
+      "published": "2026-11-22T13:55:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "0e8d302a71e6",
+      "source": "The Intercept",
+      "headline": "An Air Force Major Is Being Held in Solitary Confinement for Criticizing Trump on CNN",
+      "excerpt": "The administration is weaponizing military law to hold Maj. Jason Watson in extreme isolation awaiting a “contemptuous words” trial. The post An Air Force Major Is Being Held in Solitary Confinement for Criticizing...",
+      "link": "https://theintercept.com/2026/11/21/trump-jason-watson-air-force-solitary-speech/",
+      "published": "2026-11-21T11:17:00+00:00",
       "featured": false
     },
     {
@@ -119,30 +146,12 @@
       "featured": false
     },
     {
-      "id": "107d91962fdc",
-      "source": "The Lever",
-      "headline": "Who’s The Lamest Duck?",
-      "excerpt": "Test your knowledge of Trump nominees, Democratic infighting, and other issues that really matter.",
-      "link": "https://www.levernews.com/levermind-quiz-whos-the-lamest-duck/",
-      "published": "2026-11-20T17:46:31+00:00",
-      "featured": false
-    },
-    {
       "id": "8ae193ef119b",
       "source": "Dropsite News",
       "headline": "Pentagon’s Iran war costs top $48 billion; Saudi strikes Hodeidah port, Ansarallah vows response; Haitian police kill 34 gang members",
       "excerpt": "Drop Site Daily: November 20, 2026",
       "link": "https://www.dropsitenews.com/p/pentagon-iran-war-saudi-yemen-port-haiti-gangs",
       "published": "2026-11-20T15:57:46+00:00",
-      "featured": false
-    },
-    {
-      "id": "edbc2957c7f7",
-      "source": "The Intercept",
-      "headline": "Establishment Dems Want to Renew Trump’s Domestic Spy Powers Before New Congress",
-      "excerpt": "Rep. Jim Himes and Sen. Mark Warner are spurning the will of midterm voters by pushing warrantless spying in the lame-duck Congress, privacy advocates say. The post Establishment Dems Want to Renew Trump’s Domestic Spy...",
-      "link": "https://theintercept.com/2026/11/20/fisa-warrantless-spying-lame-duck-himes/",
-      "published": "2026-11-20T15:35:16+00:00",
       "featured": false
     },
     {
@@ -155,21 +164,21 @@
       "featured": false
     },
     {
-      "id": "ba49e7729e6c",
-      "source": "ProPublica",
-      "headline": "A Texas Police Department Got $100K After a Single Immigration Arrest. It Stands to Earn Much More.",
-      "excerpt": "The post A Texas Police Department Got $100K After a Single Immigration Arrest. It Stands to Earn Much More. appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/texas-287g-immigration-police-department-money",
-      "published": "2026-11-20T11:00:00+00:00",
-      "featured": false
-    },
-    {
       "id": "1d239a7f2a87",
       "source": "ICIJ",
       "headline": "Anatomy of a Chinese loanbook",
       "excerpt": "What ICIJ learned when we analyzed hundreds of Industrial and Commercial Bank of China’s loan commitments.",
       "link": "https://www.icij.org/investigations/china-capital/anatomy-of-a-chinese-loanbook/",
       "published": "2026-11-19T21:10:12+00:00",
+      "featured": false
+    },
+    {
+      "id": "b2365444ebf0",
+      "source": "Rest of World",
+      "headline": "AI isn’t replacing your job. It’s turning it into low-paid gig work",
+      "excerpt": "Surgeon Kapil Sahnan uses a DaVinci Robot during surgery on a woman, 2026.",
+      "link": "https://restofworld.org/2026/ai-jobs-skills-gig-work/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "published": "2026-11-19T11:00:00+00:00",
       "featured": false
     },
     {
@@ -182,15 +191,6 @@
       "featured": false
     },
     {
-      "id": "20e8852a9626",
-      "source": "Rest of World",
-      "headline": "The small African lab sounding the alarm on AI bioweapons",
-      "excerpt": "Photograph showing Georgina an AI Engineer building and working on the user interface of the new model Moremi.",
-      "link": "https://restofworld.org/2026/ghana-ai-lab-minohealth-bioweapons-threat-dna-synthesis-regulation/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-      "published": "2026-11-16T11:00:23+00:00",
-      "featured": false
-    },
-    {
       "id": "a77780e327c4",
       "source": "Bellingcat",
       "headline": "Inside the Secretive, Contradictory World of Campaign Ads Funded by AI Super PACs",
@@ -200,12 +200,30 @@
       "featured": false
     },
     {
-      "id": "c85ec2c28cfa",
+      "id": "c3a1045cd8c9",
       "source": "Al Jazeera",
-      "headline": "Cameroon’s ex-rebels caught between hiding and broken promises",
-      "excerpt": "Cameroon’s former rebels face arrest fears and failed reintegration.",
-      "link": "https://www.aljazeera.com/news/2026/11/23/cameroons-ex-rebels-caught-between-hiding-and-broken-promises?traffic_source=rss",
-      "published": "2026-11-23T00:03:30+00:00",
+      "headline": "COP31: What next after UN climate talks collapse",
+      "excerpt": "UN member states fail to agree on how to fast-track action to reverse global warming in a blow to climate agenda.",
+      "link": "https://www.aljazeera.com/news/2026/11/23/cop31-what-next-after-un-climate-talks-collapse?traffic_source=rss",
+      "published": "2026-11-23T11:19:08+00:00",
+      "featured": false
+    },
+    {
+      "id": "de3fcb0a5f23",
+      "source": "ProPublica",
+      "headline": "Why Is the World Still Counting on Unproven Carbon Capture Technology?",
+      "excerpt": "The post Why Is the World Still Counting on Unproven Carbon Capture Technology? appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/carbon-capture-and-storage-climate-models",
+      "published": "2026-11-21T10:00:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "107d91962fdc",
+      "source": "The Lever",
+      "headline": "Who’s The Lamest Duck?",
+      "excerpt": "Test your knowledge of Trump nominees, Democratic infighting, and other issues that really matter.",
+      "link": "https://www.levernews.com/levermind-quiz-whos-the-lamest-duck/",
+      "published": "2026-11-20T17:46:31+00:00",
       "featured": false
     },
     {
@@ -218,30 +236,12 @@
       "featured": false
     },
     {
-      "id": "79515b9c6a5a",
-      "source": "The Lever",
-      "headline": "Watchdogs To Democrats: Give The Gavels To Monopoly Fighters",
-      "excerpt": "More than 50 groups want Jeffries and Schumer to put lawmakers ready to investigate corporate giants and block megamergers in charge of key committees.",
-      "link": "https://www.levernews.com/watchdogs-to-democrats-give-the-gavels-to-monopoly-fighters/",
-      "published": "2026-11-20T14:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "98143077f619",
+      "id": "edbc2957c7f7",
       "source": "The Intercept",
-      "headline": "Sean Duffy’s FAA Fiasco",
-      "excerpt": "Aviation journalist Jeff Wise breaks down some misconceptions about air traffic control while the nation waits for answers on the ground stop. The post Sean Duffy’s FAA Fiasco appeared first on The Intercept.",
-      "link": "https://theintercept.com/2026/11/20/faa-ground-stop-flights-duffy/",
-      "published": "2026-11-20T11:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "adf67ebd0037",
-      "source": "ProPublica",
-      "headline": "Ohio Jobs Program Wants Its Money Back After Company’s Failure to Deliver GMO Salmon",
-      "excerpt": "The post Ohio Jobs Program Wants Its Money Back After Company’s Failure to Deliver GMO Salmon appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/aquabounty-jobsohio-gmo-salmon-grant",
-      "published": "2026-11-20T10:30:00+00:00",
+      "headline": "Establishment Dems Want to Renew Trump’s Domestic Spy Powers Before New Congress",
+      "excerpt": "Rep. Jim Himes and Sen. Mark Warner are spurning the will of midterm voters by pushing warrantless spying in the lame-duck Congress, privacy advocates say. The post Establishment Dems Want to Renew Trump’s Domestic Spy...",
+      "link": "https://theintercept.com/2026/11/20/fisa-warrantless-spying-lame-duck-himes/",
+      "published": "2026-11-20T15:35:16+00:00",
       "featured": false
     },
     {
@@ -272,12 +272,12 @@
       "featured": false
     },
     {
-      "id": "958bef4751bf",
+      "id": "20e8852a9626",
       "source": "Rest of World",
-      "headline": "How Jensen Huang’s exit from Nvidia impacts China’s AI supply chain",
-      "excerpt": "Nvidia CEO Jensen Huang attends a summit at the Institute of Peace on October 8, 2026 in Washington, DC.",
-      "link": "https://restofworld.org/2026/jensen-huang-nvidia-exit-china-ai-chip-impact/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-      "published": "2026-11-13T16:24:10+00:00",
+      "headline": "The small African lab sounding the alarm on AI bioweapons",
+      "excerpt": "Photograph showing Georgina an AI Engineer building and working on the user interface of the new model Moremi.",
+      "link": "https://restofworld.org/2026/ghana-ai-lab-minohealth-bioweapons-threat-dna-synthesis-regulation/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "published": "2026-11-16T11:00:23+00:00",
       "featured": false
     },
     {
@@ -299,39 +299,39 @@
       "featured": false
     },
     {
-      "id": "de25ddea0330",
+      "id": "49a7e4be6186",
       "source": "Al Jazeera",
-      "headline": "Iran war live: Tankers set ablaze in Hormuz as IRGC warns of unrest threat",
-      "excerpt": "Iran's navy claims tankers contravening its rules were set ablaze, while the IRGC said 'enemies' sought to stoke unrest.",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/11/22/iran-war-live-tankers-set-ablaze-in-hormuz-as-irgc-warns-of-unrest-threat?traffic_source=rss",
-      "published": "2026-11-22T23:59:22+00:00",
+      "headline": "Ukraine claims drone strikes on Russian ships off Libya: What do we know?",
+      "excerpt": "A series of drone strikes on Russian vessels in Libyan and Finnish territories fuels fears of Ukraine war's spread.",
+      "link": "https://www.aljazeera.com/news/2026/11/23/russian-ships-hit-by-drones-off-libya-coast-what-do-we-know?traffic_source=rss",
+      "published": "2026-11-23T11:10:12+00:00",
       "featured": false
     },
     {
-      "id": "f20520a7d6d6",
-      "source": "ProPublica",
-      "headline": "How SNAP Theft Happens — and What to Do if It Happens to You",
-      "excerpt": "The post How SNAP Theft Happens — and What to Do if It Happens to You appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/snap-theft-explained-stolen-benefits",
-      "published": "2026-11-20T10:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "bf941297f019",
+      "id": "79515b9c6a5a",
       "source": "The Lever",
-      "headline": "Chris Van Hollen Is Threatening The Democratic Machine",
-      "excerpt": "In his leadership challenge against Chuck Schumer, the Maryland senator envisions a job that engages the public — and rejects his party’s top-down elitism.",
-      "link": "https://www.levernews.com/chris-van-hollen-is-threatening-the-democratic-machine/",
-      "published": "2026-11-20T08:05:00+00:00",
+      "headline": "Watchdogs To Democrats: Give The Gavels To Monopoly Fighters",
+      "excerpt": "More than 50 groups want Jeffries and Schumer to put lawmakers ready to investigate corporate giants and block megamergers in charge of key committees.",
+      "link": "https://www.levernews.com/watchdogs-to-democrats-give-the-gavels-to-monopoly-fighters/",
+      "published": "2026-11-20T14:00:00+00:00",
       "featured": false
     },
     {
-      "id": "6016168ddf4f",
+      "id": "ba49e7729e6c",
+      "source": "ProPublica",
+      "headline": "A Texas Police Department Got $100K After a Single Immigration Arrest. It Stands to Earn Much More.",
+      "excerpt": "The post A Texas Police Department Got $100K After a Single Immigration Arrest. It Stands to Earn Much More. appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/texas-287g-immigration-police-department-money",
+      "published": "2026-11-20T11:00:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "98143077f619",
       "source": "The Intercept",
-      "headline": "Elon Musk Thinks You’re an Idiot",
-      "excerpt": "The man with a custom dark MAGA hat rebrands: “I’m not sure what MAGA means.” The post Elon Musk Thinks You’re an Idiot appeared first on The Intercept.",
-      "link": "https://theintercept.com/2026/11/19/elon-musk-rebrand-moderate-trump/",
-      "published": "2026-11-19T20:31:00+00:00",
+      "headline": "Sean Duffy’s FAA Fiasco",
+      "excerpt": "Aviation journalist Jeff Wise breaks down some misconceptions about air traffic control while the nation waits for answers on the ground stop. The post Sean Duffy’s FAA Fiasco appeared first on The Intercept.",
+      "link": "https://theintercept.com/2026/11/20/faa-ground-stop-flights-duffy/",
+      "published": "2026-11-20T11:00:00+00:00",
       "featured": false
     },
     {
@@ -371,12 +371,12 @@
       "featured": false
     },
     {
-      "id": "37c5b562dc74",
+      "id": "958bef4751bf",
       "source": "Rest of World",
-      "headline": "The promise and peril of AI in government",
-      "excerpt": "In her new book “Reboot: AI and the Race to Save Democracy,” writer Beth Simone Noveck warns that while AI can increase efficiency, predictive models pose significant ethical and societal risks.",
-      "link": "https://restofworld.org/2026/ai-government-ethics-bias-risk/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-      "published": "2026-11-12T11:00:00+00:00",
+      "headline": "How Jensen Huang’s exit from Nvidia impacts China’s AI supply chain",
+      "excerpt": "Nvidia CEO Jensen Huang attends a summit at the Institute of Peace on October 8, 2026 in Washington, DC.",
+      "link": "https://restofworld.org/2026/jensen-huang-nvidia-exit-china-ai-chip-impact/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "published": "2026-11-13T16:24:10+00:00",
       "featured": false
     },
     {
@@ -389,39 +389,39 @@
       "featured": false
     },
     {
-      "id": "d5604a3ed5cb",
+      "id": "1531879d0a0a",
       "source": "Al Jazeera",
-      "headline": "Mystery of the red stream in Turkiye",
-      "excerpt": "The Degirmendere Stream in Rize, Turkiye has turned red and prompted investigations by local authorities.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/22/mystery-of-the-red-stream-in-turkiye?traffic_source=rss",
-      "published": "2026-11-22T23:57:58+00:00",
+      "headline": "Lebanese families return to ruins after Israeli attacks in south",
+      "excerpt": "In southern Lebanon’s Nabatieh, displaced families have been returning to ruins and widespread destruction.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/23/lebanese-families-return-to-ruins-after-israeli-attacks-in-south?traffic_source=rss",
+      "published": "2026-11-23T10:57:20+00:00",
       "featured": false
     },
     {
-      "id": "8003f5cd556c",
-      "source": "The Lever",
-      "headline": "Democrats’ Next Chapter, Brought To You By Billionaires",
-      "excerpt": "Billionaires, presidential hopefuls, operatives, and pundits descended on Denver for an invite-only summit to shape Democrats’ future — while largely ignoring what voters demanded.",
-      "link": "https://www.levernews.com/democrats-whats-next-billionaires/",
-      "published": "2026-11-20T04:24:19+00:00",
-      "featured": false
-    },
-    {
-      "id": "462d51a2bea5",
-      "source": "The Intercept",
-      "headline": "Just Rinse It Off, Army Says Before Blowing Up Five Tons of Lead Compound",
-      "excerpt": "The Army appears to be winging its detonation of unstable lead azide at its Iowa ammunition plant. The post Just Rinse It Off, Army Says Before Blowing Up Five Tons of Lead Compound appeared first on The Intercept.",
-      "link": "https://theintercept.com/2026/11/19/iowa-lead-ammunition-detonation-army/",
-      "published": "2026-11-19T19:37:59+00:00",
-      "featured": false
-    },
-    {
-      "id": "fcfd73beb352",
+      "id": "adf67ebd0037",
       "source": "ProPublica",
-      "headline": "The U.S. Paid Insurers Billions to Cover Civilians Harmed in War. Even the Government Says the System Is Ripe for Fraud.",
-      "excerpt": "The post The U.S. Paid Insurers Billions to Cover Civilians Harmed in War. Even the Government Says the System Is Ripe for Fraud. appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/civilian-workers-war-injuries-insurance-companies",
-      "published": "2026-11-19T16:15:00+00:00",
+      "headline": "Ohio Jobs Program Wants Its Money Back After Company’s Failure to Deliver GMO Salmon",
+      "excerpt": "The post Ohio Jobs Program Wants Its Money Back After Company’s Failure to Deliver GMO Salmon appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/aquabounty-jobsohio-gmo-salmon-grant",
+      "published": "2026-11-20T10:30:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "bf941297f019",
+      "source": "The Lever",
+      "headline": "Chris Van Hollen Is Threatening The Democratic Machine",
+      "excerpt": "In his leadership challenge against Chuck Schumer, the Maryland senator envisions a job that engages the public — and rejects his party’s top-down elitism.",
+      "link": "https://www.levernews.com/chris-van-hollen-is-threatening-the-democratic-machine/",
+      "published": "2026-11-20T08:05:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "6016168ddf4f",
+      "source": "The Intercept",
+      "headline": "Elon Musk Thinks You’re an Idiot",
+      "excerpt": "The man with a custom dark MAGA hat rebrands: “I’m not sure what MAGA means.” The post Elon Musk Thinks You’re an Idiot appeared first on The Intercept.",
+      "link": "https://theintercept.com/2026/11/19/elon-musk-rebrand-moderate-trump/",
+      "published": "2026-11-19T20:31:00+00:00",
       "featured": false
     },
     {
@@ -461,12 +461,12 @@
       "featured": false
     },
     {
-      "id": "25ea5b9e4ab0",
+      "id": "37c5b562dc74",
       "source": "Rest of World",
-      "headline": "Chinese AI firms want Silicon Valley’s top minds. Poaching them won’t be easy",
-      "excerpt": "Startups like MiniMax and Moonshot are setting up U.S. outposts, but massive pay gaps, weaker prestige, and national security tensions make luring talent away from OpenAI and Anthropic an uphill climb.",
-      "link": "https://restofworld.org/2026/chinese-ai-labs-hire-silicon-valley-engineers-openai-anthropic/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-      "published": "2026-11-09T08:30:00+00:00",
+      "headline": "The promise and peril of AI in government",
+      "excerpt": "In her new book “Reboot: AI and the Race to Save Democracy,” writer Beth Simone Noveck warns that while AI can increase efficiency, predictive models pose significant ethical and societal risks.",
+      "link": "https://restofworld.org/2026/ai-government-ethics-bias-risk/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "published": "2026-11-12T11:00:00+00:00",
       "featured": false
     },
     {
@@ -479,39 +479,39 @@
       "featured": false
     },
     {
-      "id": "93da1385db0e",
+      "id": "2b877f29ef1d",
       "source": "Al Jazeera",
-      "headline": "Lion on the loose in Turkiye sparks fear among residents",
-      "excerpt": "Lion on the loose in Turkiye sparks fear among residents",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/22/lion-on-the-loose-in-turkiye-sparks-fear-among-residents?traffic_source=rss",
-      "published": "2026-11-22T23:40:48+00:00",
+      "headline": "CAS decision on Senegal’s AFCON 2025 title appeal on Tuesday",
+      "excerpt": "Senegal are contesting CAF's decision to declare Morocco champions, despite Senegal winning the final 1-0 in January.",
+      "link": "https://www.aljazeera.com/sports/2026/11/23/senegal-africa-cup-of-nations-afcon-morocco-cas-decision-appeal?traffic_source=rss",
+      "published": "2026-11-23T10:55:05+00:00",
       "featured": false
     },
     {
-      "id": "6845755f4566",
-      "source": "The Lever",
-      "headline": "Van Hollen Wants Schumer’s Job. Here’s Where They Split.",
-      "excerpt": "Medicare for All, weapons for Israel, AI regulation — the two Democrats have plenty to fight over.",
-      "link": "https://www.levernews.com/van-hollen-wants-schumers-job-heres-where-they-split/",
-      "published": "2026-11-20T00:03:37+00:00",
-      "featured": false
-    },
-    {
-      "id": "a5dee1b086a9",
-      "source": "The Intercept",
-      "headline": "After Democrats’ Midterm Romp, What’s Stopping Governors From Commuting Death Sentences?",
-      "excerpt": "California Gov. Gavin Newsom spared the lives of 548 people on death row. Other governors might follow suit. The post After Democrats’ Midterm Romp, What’s Stopping Governors From Commuting Death Sentences? appeared...",
-      "link": "https://theintercept.com/2026/11/19/death-penalty-commutations-execution-newsom-dewine/",
-      "published": "2026-11-19T19:08:35+00:00",
-      "featured": false
-    },
-    {
-      "id": "76f727165f28",
+      "id": "f20520a7d6d6",
       "source": "ProPublica",
-      "headline": "Corpus Christi Started Pumping Groundwater at “Lightning Speed.” Rural Residents Fear the Consequences.",
-      "excerpt": "The post Corpus Christi Started Pumping Groundwater at “Lightning Speed.” Rural Residents Fear the Consequences. appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/corpus-christi-water-crisis-groundwater",
-      "published": "2026-11-19T16:00:00+00:00",
+      "headline": "How SNAP Theft Happens — and What to Do if It Happens to You",
+      "excerpt": "The post How SNAP Theft Happens — and What to Do if It Happens to You appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/snap-theft-explained-stolen-benefits",
+      "published": "2026-11-20T10:00:00+00:00",
+      "featured": false
+    },
+    {
+      "id": "8003f5cd556c",
+      "source": "The Lever",
+      "headline": "Democrats’ Next Chapter, Brought To You By Billionaires",
+      "excerpt": "Billionaires, presidential hopefuls, operatives, and pundits descended on Denver for an invite-only summit to shape Democrats’ future — while largely ignoring what voters demanded.",
+      "link": "https://www.levernews.com/democrats-whats-next-billionaires/",
+      "published": "2026-11-20T04:24:19+00:00",
+      "featured": false
+    },
+    {
+      "id": "462d51a2bea5",
+      "source": "The Intercept",
+      "headline": "Just Rinse It Off, Army Says Before Blowing Up Five Tons of Lead Compound",
+      "excerpt": "The Army appears to be winging its detonation of unstable lead azide at its Iowa ammunition plant. The post Just Rinse It Off, Army Says Before Blowing Up Five Tons of Lead Compound appeared first on The Intercept.",
+      "link": "https://theintercept.com/2026/11/19/iowa-lead-ammunition-detonation-army/",
+      "published": "2026-11-19T19:37:59+00:00",
       "featured": false
     },
     {
