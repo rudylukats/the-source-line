@@ -1,0 +1,1361 @@
+{
+  "generated_at": "2026-11-25T03:52:35.319746+00:00",
+  "date": "2026-11-26",
+  "theme": "The Library",
+  "word_search": {
+    "size": 14,
+    "grid": [
+      [
+        "B",
+        "Q",
+        "N",
+        "X",
+        "K",
+        "H",
+        "S",
+        "I",
+        "R",
+        "S",
+        "Y",
+        "Z",
+        "R",
+        "C"
+      ],
+      [
+        "O",
+        "P",
+        "L",
+        "Z",
+        "A",
+        "G",
+        "Q",
+        "Z",
+        "C",
+        "H",
+        "O",
+        "E",
+        "H",
+        "D"
+      ],
+      [
+        "O",
+        "Q",
+        "F",
+        "S",
+        "X",
+        "D",
+        "V",
+        "I",
+        "P",
+        "N",
+        "F",
+        "A",
+        "C",
+        "N"
+      ],
+      [
+        "K",
+        "H",
+        "W",
+        "J",
+        "X",
+        "T",
+        "W",
+        "A",
+        "A",
+        "E",
+        "P",
+        "Y",
+        "W",
+        "G"
+      ],
+      [
+        "M",
+        "N",
+        "B",
+        "W",
+        "A",
+        "O",
+        "R",
+        "I",
+        "R",
+        "T",
+        "K",
+        "Y",
+        "C",
+        "O"
+      ],
+      [
+        "A",
+        "W",
+        "O",
+        "A",
+        "R",
+        "G",
+        "R",
+        "E",
+        "E",
+        "D",
+        "C",
+        "S",
+        "G",
+        "L"
+      ],
+      [
+        "R",
+        "C",
+        "Z",
+        "R",
+        "O",
+        "A",
+        "N",
+        "R",
+        "T",
+        "U",
+        "A",
+        "E",
+        "O",
+        "A"
+      ],
+      [
+        "K",
+        "J",
+        "O",
+        "I",
+        "R",
+        "C",
+        "F",
+        "S",
+        "B",
+        "D",
+        "B",
+        "V",
+        "L",
+        "T"
+      ],
+      [
+        "L",
+        "B",
+        "B",
+        "B",
+        "E",
+        "R",
+        "H",
+        "U",
+        "N",
+        "Y",
+        "R",
+        "L",
+        "C",
+        "A"
+      ],
+      [
+        "I",
+        "E",
+        "I",
+        "O",
+        "V",
+        "E",
+        "R",
+        "D",
+        "U",
+        "E",
+        "E",
+        "E",
+        "P",
+        "C"
+      ],
+      [
+        "L",
+        "L",
+        "V",
+        "S",
+        "L",
+        "T",
+        "M",
+        "Z",
+        "U",
+        "M",
+        "P",
+        "H",
+        "H",
+        "O"
+      ],
+      [
+        "U",
+        "X",
+        "I",
+        "O",
+        "S",
+        "B",
+        "P",
+        "Q",
+        "J",
+        "Q",
+        "A",
+        "S",
+        "K",
+        "M"
+      ],
+      [
+        "S",
+        "U",
+        "W",
+        "K",
+        "N",
+        "P",
+        "F",
+        "E",
+        "A",
+        "O",
+        "P",
+        "H",
+        "D",
+        "E"
+      ],
+      [
+        "D",
+        "N",
+        "W",
+        "C",
+        "J",
+        "V",
+        "S",
+        "I",
+        "L",
+        "E",
+        "N",
+        "C",
+        "E",
+        "T"
+      ]
+    ],
+    "words": [
+      "BIOGRAPHY",
+      "REFERENCE",
+      "LIBRARIAN",
+      "PAPERBACK",
+      "BOOKMARK",
+      "CATALOG",
+      "OVERDUE",
+      "SHELVES",
+      "SILENCE",
+      "CHAPTER",
+      "BORROW",
+      "NOVEL"
+    ]
+  },
+  "crossword": {
+    "width": 28,
+    "height": 20,
+    "grid": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "letter": "S",
+          "number": 1
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "letter": "H",
+          "number": null
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "letter": "E",
+          "number": null
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "letter": "L",
+          "number": null
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "letter": "B",
+          "number": 2
+        },
+        null,
+        {
+          "letter": "V",
+          "number": null
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        {
+          "letter": "A",
+          "number": 3
+        },
+        {
+          "letter": "R",
+          "number": null
+        },
+        {
+          "letter": "C",
+          "number": null
+        },
+        {
+          "letter": "H",
+          "number": null
+        },
+        {
+          "letter": "I",
+          "number": null
+        },
+        {
+          "letter": "V",
+          "number": null
+        },
+        {
+          "letter": "E",
+          "number": null
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "letter": "O",
+          "number": null
+        },
+        null,
+        {
+          "letter": "S",
+          "number": null
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "letter": "G",
+          "number": null
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "letter": "H",
+          "number": 4
+        },
+        null,
+        {
+          "letter": "C",
+          "number": 5
+        },
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "letter": "R",
+          "number": null
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "letter": "F",
+          "number": 6
+        },
+        null,
+        {
+          "letter": "A",
+          "number": null
+        },
+        null,
+        {
+          "letter": "H",
+          "number": null
+        },
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        {
+          "letter": "P",
+          "number": 7
+        },
+        null,
+        {
+          "letter": "C",
+          "number": 8
+        },
+        {
+          "letter": "A",
+          "number": null
+        },
+        {
+          "letter": "T",
+          "number": null
+        },
+        {
+          "letter": "A",
+          "number": null
+        },
+        {
+          "letter": "L",
+          "number": null
+        },
+        {
+          "letter": "O",
+          "number": null
+        },
+        {
+          "letter": "G",
+          "number": null
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "letter": "I",
+          "number": null
+        },
+        null,
+        {
+          "letter": "R",
+          "number": 9
+        },
+        {
+          "letter": "E",
+          "number": null
+        },
+        {
+          "letter": "A",
+          "number": null
+        },
+        {
+          "letter": "D",
+          "number": null
+        },
+        {
+          "letter": "I",
+          "number": null
+        },
+        {
+          "letter": "N",
+          "number": null
+        },
+        {
+          "letter": "G",
+          "number": null
+        }
+      ],
+      [
+        {
+          "letter": "A",
+          "number": 10
+        },
+        {
+          "letter": "T",
+          "number": null
+        },
+        {
+          "letter": "L",
+          "number": null
+        },
+        {
+          "letter": "A",
+          "number": null
+        },
+        {
+          "letter": "S",
+          "number": null
+        },
+        null,
+        {
+          "letter": "P",
+          "number": null
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "letter": "C",
+          "number": null
+        },
+        null,
+        {
+          "letter": "D",
+          "number": null
+        },
+        null,
+        {
+          "letter": "P",
+          "number": null
+        },
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        {
+          "letter": "P",
+          "number": null
+        },
+        null,
+        null,
+        {
+          "letter": "H",
+          "number": null
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "letter": "L",
+          "number": 11
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "letter": "T",
+          "number": null
+        },
+        null,
+        {
+          "letter": "C",
+          "number": null
+        },
+        null,
+        {
+          "letter": "T",
+          "number": null
+        },
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        {
+          "letter": "E",
+          "number": 12
+        },
+        {
+          "letter": "N",
+          "number": null
+        },
+        {
+          "letter": "C",
+          "number": null
+        },
+        {
+          "letter": "Y",
+          "number": null
+        },
+        {
+          "letter": "C",
+          "number": null
+        },
+        {
+          "letter": "L",
+          "number": null
+        },
+        {
+          "letter": "O",
+          "number": null
+        },
+        {
+          "letter": "P",
+          "number": null
+        },
+        {
+          "letter": "E",
+          "number": null
+        },
+        {
+          "letter": "D",
+          "number": null
+        },
+        {
+          "letter": "I",
+          "number": null
+        },
+        {
+          "letter": "A",
+          "number": null
+        },
+        null,
+        null,
+        {
+          "letter": "B",
+          "number": 13
+        },
+        null,
+        {
+          "letter": "I",
+          "number": null
+        },
+        null,
+        {
+          "letter": "O",
+          "number": 14
+        },
+        {
+          "letter": "V",
+          "number": null
+        },
+        {
+          "letter": "E",
+          "number": null
+        },
+        {
+          "letter": "R",
+          "number": null
+        },
+        {
+          "letter": "D",
+          "number": null
+        },
+        {
+          "letter": "U",
+          "number": null
+        },
+        {
+          "letter": "E",
+          "number": null
+        }
+      ],
+      [
+        null,
+        null,
+        null,
+        {
+          "letter": "R",
+          "number": null
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "letter": "B",
+          "number": null
+        },
+        null,
+        null,
+        null,
+        {
+          "letter": "O",
+          "number": null
+        },
+        null,
+        {
+          "letter": "O",
+          "number": null
+        },
+        null,
+        {
+          "letter": "V",
+          "number": null
+        },
+        null,
+        {
+          "letter": "R",
+          "number": null
+        },
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        {
+          "letter": "B",
+          "number": null
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "letter": "R",
+          "number": 15
+        },
+        {
+          "letter": "E",
+          "number": null
+        },
+        {
+          "letter": "F",
+          "number": null
+        },
+        {
+          "letter": "E",
+          "number": null
+        },
+        {
+          "letter": "R",
+          "number": null
+        },
+        {
+          "letter": "E",
+          "number": null
+        },
+        {
+          "letter": "N",
+          "number": null
+        },
+        {
+          "letter": "C",
+          "number": null
+        },
+        {
+          "letter": "E",
+          "number": null
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        {
+          "letter": "A",
+          "number": null
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "letter": "A",
+          "number": null
+        },
+        null,
+        null,
+        null,
+        {
+          "letter": "R",
+          "number": null
+        },
+        null,
+        null,
+        null,
+        {
+          "letter": "R",
+          "number": null
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        {
+          "letter": "C",
+          "number": null
+        },
+        null,
+        null,
+        null,
+        {
+          "letter": "B",
+          "number": 16
+        },
+        {
+          "letter": "O",
+          "number": null
+        },
+        {
+          "letter": "O",
+          "number": null
+        },
+        {
+          "letter": "K",
+          "number": null
+        },
+        {
+          "letter": "M",
+          "number": null
+        },
+        {
+          "letter": "A",
+          "number": null
+        },
+        {
+          "letter": "R",
+          "number": null
+        },
+        {
+          "letter": "K",
+          "number": null
+        },
+        null,
+        {
+          "letter": "N",
+          "number": 17
+        },
+        {
+          "letter": "O",
+          "number": null
+        },
+        {
+          "letter": "V",
+          "number": null
+        },
+        {
+          "letter": "E",
+          "number": null
+        },
+        {
+          "letter": "L",
+          "number": null
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        {
+          "letter": "K",
+          "number": null
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "letter": "I",
+          "number": null
+        },
+        null,
+        null,
+        null,
+        {
+          "letter": "W",
+          "number": null
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "letter": "A",
+          "number": null
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "letter": "S",
+          "number": 18
+        },
+        {
+          "letter": "I",
+          "number": null
+        },
+        {
+          "letter": "L",
+          "number": null
+        },
+        {
+          "letter": "E",
+          "number": null
+        },
+        {
+          "letter": "N",
+          "number": null
+        },
+        {
+          "letter": "C",
+          "number": null
+        },
+        {
+          "letter": "E",
+          "number": null
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "across": [
+      {
+        "number": 3,
+        "clue": "Store of old documents",
+        "answer": "ARCHIVE",
+        "row": 5,
+        "col": 2,
+        "length": 7
+      },
+      {
+        "number": 8,
+        "clue": "List of a library's holdings",
+        "answer": "CATALOG",
+        "row": 9,
+        "col": 5,
+        "length": 7
+      },
+      {
+        "number": 9,
+        "clue": "Taking in written words",
+        "answer": "READING",
+        "row": 9,
+        "col": 21,
+        "length": 7
+      },
+      {
+        "number": 10,
+        "clue": "Book of maps",
+        "answer": "ATLAS",
+        "row": 10,
+        "col": 0,
+        "length": 5
+      },
+      {
+        "number": 12,
+        "clue": "Reference of many topics",
+        "answer": "ENCYCLOPEDIA",
+        "row": 12,
+        "col": 3,
+        "length": 12
+      },
+      {
+        "number": 14,
+        "clue": "Returned past the date",
+        "answer": "OVERDUE",
+        "row": 12,
+        "col": 21,
+        "length": 7
+      },
+      {
+        "number": 15,
+        "clue": "Section for looking things up",
+        "answer": "REFERENCE",
+        "row": 14,
+        "col": 13,
+        "length": 9
+      },
+      {
+        "number": 16,
+        "clue": "Marker that saves your place",
+        "answer": "BOOKMARK",
+        "row": 16,
+        "col": 7,
+        "length": 8
+      },
+      {
+        "number": 17,
+        "clue": "A long work of fiction",
+        "answer": "NOVEL",
+        "row": 16,
+        "col": 16,
+        "length": 5
+      },
+      {
+        "number": 18,
+        "clue": "Expected quiet of the room",
+        "answer": "SILENCE",
+        "row": 19,
+        "col": 9,
+        "length": 7
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Rows that hold books",
+        "answer": "SHELVES",
+        "row": 0,
+        "col": 8,
+        "length": 7
+      },
+      {
+        "number": 2,
+        "clue": "Story of a person's life",
+        "answer": "BIOGRAPHY",
+        "row": 4,
+        "col": 6,
+        "length": 9
+      },
+      {
+        "number": 4,
+        "clue": "Book with a stiff cover",
+        "answer": "HARDCOVER",
+        "row": 7,
+        "col": 21,
+        "length": 9
+      },
+      {
+        "number": 5,
+        "clue": "A division of a book",
+        "answer": "CHAPTER",
+        "row": 7,
+        "col": 23,
+        "length": 7
+      },
+      {
+        "number": 6,
+        "clue": "Made-up stories",
+        "answer": "FICTION",
+        "row": 8,
+        "col": 19,
+        "length": 7
+      },
+      {
+        "number": 7,
+        "clue": "Book with a soft cover",
+        "answer": "PAPERBACK",
+        "row": 9,
+        "col": 3,
+        "length": 9
+      },
+      {
+        "number": 11,
+        "clue": "Keeper of a library",
+        "answer": "LIBRARIAN",
+        "row": 11,
+        "col": 13,
+        "length": 9
+      },
+      {
+        "number": 13,
+        "clue": "Take out on loan",
+        "answer": "BORROW",
+        "row": 12,
+        "col": 17,
+        "length": 6
+      }
+    ],
+    "placed_count": 18,
+    "skipped": []
+  }
+}
