@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-11-26T03:34:13.744976+00:00",
+  "generated_at": "2026-11-26T16:55:04.392980+00:00",
   "articles": [
+    {
+      "id": "ad5279f11e86",
+      "source": "Al Jazeera",
+      "headline": "Two Italians killed by ‘drone strike debris’ in Kuwait",
+      "excerpt": "The Italians were technicians working at an air-defence surveillance station.",
+      "link": "https://www.aljazeera.com/news/2026/11/26/two-italians-killed-after-iranian-drones-strike-facility-says-kuwait?traffic_source=rss",
+      "published": "2026-11-26T16:32:31+00:00",
+      "featured": true
+    },
+    {
+      "id": "8fc7c4a1a172",
+      "source": "404 Media",
+      "headline": "Grand Thanksgiving Autumn",
+      "excerpt": "What you can learn about a person from how they share GTA VI.",
+      "link": "https://www.404media.co/grand-thanksgiving-autumn/",
+      "published": "2026-11-26T13:00:00+00:00",
+      "featured": true
+    },
     {
       "id": "2e2993eab6d8",
       "source": "The Lever",
@@ -11,22 +29,13 @@
       "featured": true
     },
     {
-      "id": "b5e545dcb652",
-      "source": "Al Jazeera",
-      "headline": "FIFA turns to influencers to promote U17 World Cup",
-      "excerpt": "FIFA has enlisted social media influencers to promote the Under-17 World Cup in Qatar.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/26/fifa-turns-to-influencers-to-promote-u17-world-cup?traffic_source=rss",
-      "published": "2026-11-26T03:00:51+00:00",
-      "featured": true
-    },
-    {
       "id": "bf452af3ea35",
       "source": "Dropsite News",
       "headline": "After Pentagon Official Took Office, His Family Firm’s Clients Won Up to $3.5 Billion in Military Contracts",
       "excerpt": "Michael Dodd and his family own a defense consulting company whose clients have won up to $3.5 billion in contracts since he joined the War Department as assistant secretary for critical technologies.",
       "link": "https://www.dropsitenews.com/p/michael-dodd-pentagon-dioltas-contracts",
       "published": "2026-11-25T20:18:23+00:00",
-      "featured": true
+      "featured": false
     },
     {
       "id": "f79c869ed115",
@@ -53,15 +62,6 @@
       "excerpt": "The post FDA to Expand Prescription Drug Testing After ProPublica Revealed Safety Concerns appeared first on ProPublica.",
       "link": "https://www.propublica.org/article/fda-prescription-generic-medication-testing",
       "published": "2026-11-25T19:30:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "573090b7545d",
-      "source": "404 Media",
-      "headline": "The Birds Are Listening: Scientists Used Seabirds to Track Hidden Ships",
-      "excerpt": "Scientists equipped birds with audio recorders, revealing a “surprising” amount of vessels had turned their location trackers off, one researcher said.",
-      "link": "https://www.404media.co/the-birds-are-listening-scientists-used-seabirds-to-track-hidden-ships/",
-      "published": "2026-11-25T19:00:00+00:00",
       "featured": false
     },
     {
@@ -101,12 +101,21 @@
       "featured": false
     },
     {
-      "id": "4b4af1f4284c",
+      "id": "96ef845be4b0",
       "source": "Al Jazeera",
-      "headline": "Kim Jong Un says North Korea should widen deployment of tactical nukes",
-      "excerpt": "North Korean leader warns attempts to deny country's nuclear status will be seen as \"an open declaration of war\".",
-      "link": "https://www.aljazeera.com/news/2026/11/26/kim-jong-un-says-north-korea-should-widen-deployment-of-tactical-nukes?traffic_source=rss",
-      "published": "2026-11-26T02:03:03+00:00",
+      "headline": "Spanish economist to become new European Central Bank chief",
+      "excerpt": "This is a breaking news story.",
+      "link": "https://www.aljazeera.com/news/2026/11/26/spanish-economist-to-become-new-european-central-bank-chief?traffic_source=rss",
+      "published": "2026-11-26T16:20:54+00:00",
+      "featured": false
+    },
+    {
+      "id": "e5a5d5c1561e",
+      "source": "404 Media",
+      "headline": "Pass the Controller: How Single Console Households Split 'GTA VI'",
+      "excerpt": "While a loud minority declares the year's biggest game a \"cuck simulator,\" real-life couples find sharing play time brings them closer.",
+      "link": "https://www.404media.co/gta-vi-sharing-playstation-console-accounts/",
+      "published": "2026-11-26T12:00:00+00:00",
       "featured": false
     },
     {
@@ -134,15 +143,6 @@
       "excerpt": "After Aylo, Pornhub's parent company, sought to restrain us from publishing a story based on court records, ICIJ prevailed. Now a federal judge has ordered us to explain why we shouldn't be forced to reveal our source.",
       "link": "https://www.icij.org/inside-icij/2026/11/statement-icij-battles-to-protect-source-behind-pornhub-documents-story/",
       "published": "2026-11-25T17:01:01+00:00",
-      "featured": false
-    },
-    {
-      "id": "66b587ce7410",
-      "source": "404 Media",
-      "headline": "Podcast: The AI Tool Hacking the Planet",
-      "excerpt": "We spoke to the people distributing ARTEX; Google is making a 24/7 AI TV channel starring you; and this data center definitely isn't a data center.",
-      "link": "https://www.404media.co/podcast-the-ai-tool-hacking-the-planet/",
-      "published": "2026-11-25T15:14:33+00:00",
       "featured": false
     },
     {
@@ -200,12 +200,21 @@
       "featured": false
     },
     {
-      "id": "405fa4f46187",
+      "id": "067f52bfbbd3",
       "source": "Al Jazeera",
-      "headline": "Photos: Storms and an El Nino-charged king tide batter California’s coast",
-      "excerpt": "Meteorologists have warned that the king tide could pair with high surf to bring historic surges to parts of the state.",
-      "link": "https://www.aljazeera.com/gallery/2026/11/26/photos-storms-and-an-el-nino-charged-king-tide-batter-californias-coast?traffic_source=rss",
-      "published": "2026-11-26T01:40:13+00:00",
+      "headline": "Why is France roiling?",
+      "excerpt": "Al Jazeera’s Ramy Allahoum looks at how France's financial crisis is shaping next year’s vote.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/26/why-is-france-roiling?traffic_source=rss",
+      "published": "2026-11-26T15:57:49+00:00",
+      "featured": false
+    },
+    {
+      "id": "0a3bdaa49488",
+      "source": "404 Media",
+      "headline": "All the Worst Government GTA Memes from Around the World",
+      "excerpt": "From India to Scotland to the United States, GTA 6 is proving that governments can’t meme.",
+      "link": "https://www.404media.co/all-the-worst-government-gta-memes-from-around-the-world/",
+      "published": "2026-11-26T12:00:00+00:00",
       "featured": false
     },
     {
@@ -215,15 +224,6 @@
       "excerpt": "Proposed reporting rules under the European Union’s 22nd sanctions package would require disclosures on aluminum oxide shipments to Russia—including output from Ireland’s Rusal-owned Aughinish refinery—following...",
       "link": "https://www.occrp.org/en/news/the-eu-could-be-tracking-irish-alumina-shipments-to-russia-amid-defense-industry-scrutiny",
       "published": "2026-11-25T14:43:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "53b51bf99166",
-      "source": "404 Media",
-      "headline": "Let the beat drop",
-      "excerpt": "Good vibes, pink slime, and more.",
-      "link": "https://www.404media.co/let-the-beat-drop/",
-      "published": "2026-11-25T14:05:00+00:00",
       "featured": false
     },
     {
@@ -299,21 +299,21 @@
       "featured": false
     },
     {
-      "id": "6cc600fdef49",
+      "id": "7a1f26616cb7",
       "source": "Al Jazeera",
-      "headline": "Ukraine attacks Russian military base, says five planes struck",
-      "excerpt": "The Ukrainian General Staff says its forces struck an airbase in the Nizhny Novgorod region east of Moscow.",
-      "link": "https://www.aljazeera.com/news/2026/11/26/ukraine-attacks-russian-military-base-says-five-planes-struck?traffic_source=rss",
-      "published": "2026-11-26T01:39:46+00:00",
+      "headline": "Diesel tanker capsizes near Ibiza, killing crew member",
+      "excerpt": "Aerial footage shows the capsized Maltese-flagged Med Emre chemical tanker off the Spanish island of Ibiza.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/26/aje-onl-nf_loaded-diesel-tanker-capsizes-off-ibiza-killing-one-261126?traffic_source=rss",
+      "published": "2026-11-26T15:56:39+00:00",
       "featured": false
     },
     {
-      "id": "ab888a2f1e45",
+      "id": "573090b7545d",
       "source": "404 Media",
-      "headline": "I Listened to ‘Sandstorm’ Through a Sex Toy",
-      "excerpt": "As \"Airpods for your ass,\" the Groove Thing is more concert experience than climax.",
-      "link": "https://www.404media.co/groove-thing-review/",
-      "published": "2026-11-25T14:00:00+00:00",
+      "headline": "The Birds Are Listening: Scientists Used Seabirds to Track Hidden Ships",
+      "excerpt": "Scientists equipped birds with audio recorders, revealing a “surprising” amount of vessels had turned their location trackers off, one researcher said.",
+      "link": "https://www.404media.co/the-birds-are-listening-scientists-used-seabirds-to-track-hidden-ships/",
+      "published": "2026-11-25T19:00:00+00:00",
       "featured": false
     },
     {
@@ -389,21 +389,21 @@
       "featured": false
     },
     {
-      "id": "63073ef0bfc1",
+      "id": "609da5d9e772",
       "source": "Al Jazeera",
-      "headline": "ICE officers smash car window, pepper spray bystanders",
-      "excerpt": "Masked ICE agents smashed a car window and forcibly opened its door to arrest a man in California.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/26/ice-officers-smash-car-window-pepper-spray-bystanders?traffic_source=rss",
-      "published": "2026-11-26T01:33:50+00:00",
+      "headline": "Two dead after Iranian drone attack on Kuwait",
+      "excerpt": "Kuwait’s army says two Italian workers were killed and four others were injured in an Iranian drone attack.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/26/two-dead-after-iranian-drone-attack-on-kuwait?traffic_source=rss",
+      "published": "2026-11-26T15:55:15+00:00",
       "featured": false
     },
     {
-      "id": "4e4c1ad913a8",
+      "id": "66b587ce7410",
       "source": "404 Media",
-      "headline": "Treasury CIO Is Vibe Coding a ‘Civilization’ Clone During Treasury Department Hack",
-      "excerpt": "While FinCEN is dealing with a “cybersecurity incident,” the man responsible for protecting it has been actively tweaking a game called 'Legatum.'",
-      "link": "https://www.404media.co/sam-corcos-legatum-treasury-cio-is-vibe-coding-a-civilization-clone-during-treasury-department-hack/",
-      "published": "2026-11-25T12:05:53+00:00",
+      "headline": "Podcast: The AI Tool Hacking the Planet",
+      "excerpt": "We spoke to the people distributing ARTEX; Google is making a 24/7 AI TV channel starring you; and this data center definitely isn't a data center.",
+      "link": "https://www.404media.co/podcast-the-ai-tool-hacking-the-planet/",
+      "published": "2026-11-25T15:14:33+00:00",
       "featured": false
     },
     {
@@ -479,21 +479,21 @@
       "featured": false
     },
     {
-      "id": "66326824d0e5",
+      "id": "32e556af0718",
       "source": "Al Jazeera",
-      "headline": "Judges recommend prosecutors end corruption case against Netanyahu",
-      "excerpt": "Israeli judges have ruled there is little prospect Benjamin Netanyahu will be convicted of corruption.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/26/judges-recommend-prosecutors-end-corruption-case-against-netanyahu?traffic_source=rss",
-      "published": "2026-11-26T01:08:43+00:00",
+      "headline": "Pep Guardiola calls on world to ‘disobey horror’ over Gaza and praises BDS",
+      "excerpt": "Football icon says it is more urgent than ever to demand an end to Israel's 'apartheid, colonialism and occupation'.",
+      "link": "https://www.aljazeera.com/sports/2026/11/26/pep-guardiola-calls-on-world-to-disobey-horror-over-gaza-and-praises-bds?traffic_source=rss",
+      "published": "2026-11-26T15:53:32+00:00",
       "featured": false
     },
     {
-      "id": "ce7f836b7702",
+      "id": "53b51bf99166",
       "source": "404 Media",
-      "headline": "Google's Customized AI TV Channel, Starring You",
-      "excerpt": "\"You are a customized video generating model. Generate a customized video for a user where the user will play the protagonist.\"",
-      "link": "https://www.404media.co/googles-customized-ai-tv-channel-starring-you/",
-      "published": "2026-11-24T13:42:30+00:00",
+      "headline": "Let the beat drop",
+      "excerpt": "Good vibes, pink slime, and more.",
+      "link": "https://www.404media.co/let-the-beat-drop/",
+      "published": "2026-11-25T14:05:00+00:00",
       "featured": false
     },
     {
