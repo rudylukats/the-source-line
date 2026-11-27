@@ -1,23 +1,41 @@
 {
-  "generated_at": "2026-11-27T01:44:21.123515+00:00",
+  "generated_at": "2026-11-27T12:22:34.258436+00:00",
   "articles": [
     {
-      "id": "79bb921cb738",
+      "id": "a1d836995afa",
       "source": "Al Jazeera",
-      "headline": "Global news agency AFP reports cyberattack, shuts down content platform",
-      "excerpt": "France's cybersecurity chief urges collective action to combat unprecedented threat levels in the nation.",
-      "link": "https://www.aljazeera.com/news/2026/11/27/global-news-agency-afp-reports-cyberattack-shuts-down-content-platform?traffic_source=rss",
-      "published": "2026-11-27T01:07:44+00:00",
+      "headline": "Saudi strike kills ’11 civilians’ in Yemen’s Taiz: Houthi media",
+      "excerpt": "Hostilities between Iran-backed Houthis and Saudi-backed coalition continue to push Yemen into a humanitarian crisis.",
+      "link": "https://www.aljazeera.com/news/2026/11/27/saudi-strike-kills-11-civilians-in-yemens-taiz-houthi-media?traffic_source=rss",
+      "published": "2026-11-27T12:00:22+00:00",
+      "featured": true
+    },
+    {
+      "id": "b1b7b4e66098",
+      "source": "The Intercept",
+      "headline": "The Far Right Wants to Kill Wolves Whenever and However They Please",
+      "excerpt": "Ryan Devereaux on ground zero in the political war over wolves: Yellowstone National Park. The post The Far Right Wants to Kill Wolves Whenever and However They Please appeared first on The Intercept.",
+      "link": "https://theintercept.com/2026/11/27/yellowstone-wolf-hunt-montana/",
+      "published": "2026-11-27T11:00:00+00:00",
+      "featured": true
+    },
+    {
+      "id": "e4b1b2978691",
+      "source": "The Lever",
+      "headline": "It’s The Most Predatory Time Of The Year",
+      "excerpt": "Fake discounts, surveillance pricing, swipe fees, and buy-now-pay-later traps: Here’s how to avoid getting fleeced this holiday season.",
+      "link": "https://www.levernews.com/black-friday-consumerism-guide/",
+      "published": "2026-11-27T11:00:00+00:00",
       "featured": true
     },
     {
       "id": "9d9315742b93",
       "source": "OCCRP",
       "headline": "Right-Wing Influencer Involved in ‘Reckless’ Release of USAID Files",
-      "excerpt": "A extreme-right influencer, Trump administration official, and self-styled “free speech” fighter is behind an unprecedented release of internal communications from the now-disbanded U.S. foreign aid agency.",
+      "excerpt": "An extreme-right influencer, Trump administration official, and self-styled “free speech” fighter is behind an unprecedented release of internal communications from the now-disbanded U.S. foreign aid agency.",
       "link": "https://www.occrp.org/en/feature/right-wing-influencer-involved-in-reckless-release-of-usaid-files",
       "published": "2026-11-26T17:22:00+00:00",
-      "featured": true
+      "featured": false
     },
     {
       "id": "8fc7c4a1a172",
@@ -26,15 +44,6 @@
       "excerpt": "What you can learn about a person from how they share GTA VI.",
       "link": "https://www.404media.co/grand-thanksgiving-autumn/",
       "published": "2026-11-26T13:00:00+00:00",
-      "featured": true
-    },
-    {
-      "id": "2e2993eab6d8",
-      "source": "The Lever",
-      "headline": "Democrats’ Lame-Duck Gift To Big Tech And Big Oil",
-      "excerpt": "The Bipartisan American Affordability and Jobs Act (BAAJA) could fast-track pipelines, data centers, and fossil fuel projects — with crucial support from Democrats.",
-      "link": "https://www.levernews.com/democrats-lame-duck-gift-to-big-tech-and-big-oil/",
-      "published": "2026-11-26T03:03:33+00:00",
       "featured": false
     },
     {
@@ -65,15 +74,6 @@
       "featured": false
     },
     {
-      "id": "2d27eec0eeb0",
-      "source": "The Intercept",
-      "headline": "It’s Time to Ditch Kirsten Gillibrand",
-      "excerpt": "The New York senator wants to lead the Democratic Senatorial Campaign Committee into 2028. She’s the wrong person to meet the moment. The post It’s Time to Ditch Kirsten Gillibrand appeared first on The Intercept.",
-      "link": "https://theintercept.com/2026/11/25/senate-democrats-kirsten-gillibrand-dscc/",
-      "published": "2026-11-25T12:13:00+00:00",
-      "featured": false
-    },
-    {
       "id": "04faff4baea0",
       "source": "Rest of World",
       "headline": "How foreign AI romance apps are reshaping youth intimacy in Africa",
@@ -101,12 +101,12 @@
       "featured": false
     },
     {
-      "id": "63523d7218be",
+      "id": "ae655af5ec45",
       "source": "Al Jazeera",
-      "headline": "Inside Ukraine’s power crisis amid its war with Russia",
-      "excerpt": "Electricity and water shortages have become part of daily life in Ukraine’s capital.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/27/inside-ukraines-power-crisis-amid-its-war-with-russia?traffic_source=rss",
-      "published": "2026-11-27T00:46:19+00:00",
+      "headline": "Italians killed in Kuwait: Why is Iran denying responsibility?",
+      "excerpt": "Iran has openly claimed its strikes on Gulf states throughout the war. So why is it denying an attack on Kuwait?",
+      "link": "https://www.aljazeera.com/news/2026/11/27/italians-killed-in-kuwait-why-is-iran-denying-responsibility?traffic_source=rss",
+      "published": "2026-11-27T11:51:26+00:00",
       "featured": false
     },
     {
@@ -119,21 +119,21 @@
       "featured": false
     },
     {
+      "id": "2e2993eab6d8",
+      "source": "The Lever",
+      "headline": "Democrats’ Lame-Duck Gift To Big Tech And Big Oil",
+      "excerpt": "The Bipartisan American Affordability and Jobs Act (BAAJA) could fast-track pipelines, data centers, and fossil fuel projects — with crucial support from Democrats.",
+      "link": "https://www.levernews.com/democrats-lame-duck-gift-to-big-tech-and-big-oil/",
+      "published": "2026-11-26T03:03:33+00:00",
+      "featured": false
+    },
+    {
       "id": "f79c869ed115",
       "source": "OCCRP",
       "headline": "Senior Opposition Members Accuse Trump Administration of Failing to Pursue Elites Fueling Haiti Insecurity",
       "excerpt": "U.S. lawmakers allege the administration of President Donald Trump has failed a legal duty to curb collusion between Haiti's elites and terrorist gangs, which is fueling instability and violence in the Caribbean country.",
       "link": "https://www.occrp.org/en/news/senior-opposition-accuse-trump-administration-haiti-insecurity",
       "published": "2026-11-25T20:13:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "661881f557aa",
-      "source": "The Lever",
-      "headline": "Jensen Huang’s Scandal Just Hit Your Pension",
-      "excerpt": "Jensen Huang’s brief exit temporarily wiped billions from public pension funds, exposing how workers’ retirements have become dangerously dependent on Nvidia and the AI boom.",
-      "link": "https://www.levernews.com/nvidias-jensen-huang-scandal-just-hit-your-pension/",
-      "published": "2026-11-25T17:17:46+00:00",
       "featured": false
     },
     {
@@ -155,12 +155,12 @@
       "featured": false
     },
     {
-      "id": "153e8bd8a4e7",
+      "id": "2d27eec0eeb0",
       "source": "The Intercept",
-      "headline": "Trump’s Imperialist Fantasy for Latin America Is Already Failing",
-      "excerpt": "Despite Hegseth’s victory lap, Trump’s “Donroe Doctrine” may already be on life support. The post Trump’s Imperialist Fantasy for Latin America Is Already Failing appeared first on The Intercept.",
-      "link": "https://theintercept.com/2026/11/25/trump-latin-america-intervention-influence/",
-      "published": "2026-11-25T11:00:00+00:00",
+      "headline": "It’s Time to Ditch Kirsten Gillibrand",
+      "excerpt": "The New York senator wants to lead the Democratic Senatorial Campaign Committee into 2028. She’s the wrong person to meet the moment. The post It’s Time to Ditch Kirsten Gillibrand appeared first on The Intercept.",
+      "link": "https://theintercept.com/2026/11/25/senate-democrats-kirsten-gillibrand-dscc/",
+      "published": "2026-11-25T12:13:00+00:00",
       "featured": false
     },
     {
@@ -200,12 +200,12 @@
       "featured": false
     },
     {
-      "id": "4c0939ebd433",
+      "id": "f960c2889409",
       "source": "Al Jazeera",
-      "headline": "America’s Thanksgiving holiday seen through different eyes",
-      "excerpt": "As millions of Americans celebrate Thanksgiving, Indigenous people gather in Plymouth for the National Day of Mourning.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/27/americas-thanksgiving-holiday-seen-through-different-eyes?traffic_source=rss",
-      "published": "2026-11-27T00:41:28+00:00",
+      "headline": "Russia’s hybrid war on Europe evolving, but failing: IISS",
+      "excerpt": "Growing attacks have damaged European infrastructure, but have not reduced support for Ukraine, analysis says.",
+      "link": "https://www.aljazeera.com/news/2026/11/27/russias-hybrid-war-on-europe-evolving-but-failing-iiss?traffic_source=rss",
+      "published": "2026-11-27T11:44:46+00:00",
       "featured": false
     },
     {
@@ -227,6 +227,15 @@
       "featured": false
     },
     {
+      "id": "661881f557aa",
+      "source": "The Lever",
+      "headline": "Jensen Huang’s Scandal Just Hit Your Pension",
+      "excerpt": "Jensen Huang’s brief exit temporarily wiped billions from public pension funds, exposing how workers’ retirements have become dangerously dependent on Nvidia and the AI boom.",
+      "link": "https://www.levernews.com/nvidias-jensen-huang-scandal-just-hit-your-pension/",
+      "published": "2026-11-25T17:17:46+00:00",
+      "featured": false
+    },
+    {
       "id": "f99c52c33fdf",
       "source": "ProPublica",
       "headline": "Oregon Housing Leader Met With Officials Who Are Seeking Money for a Project Her Husband’s Employer Is Developing",
@@ -236,21 +245,12 @@
       "featured": false
     },
     {
-      "id": "45d852449ff9",
+      "id": "153e8bd8a4e7",
       "source": "The Intercept",
-      "headline": "Court Orders Trump Media to Hand Over Truth Social Records in The Intercept Lawsuit",
-      "excerpt": "A federal judge opened the discovery phase in The Intercept’s lawsuit over the president’s scheme to enrich himself by selling early access to his posts. The post Court Orders Trump Media to Hand Over Truth Social...",
-      "link": "https://theintercept.com/2026/11/24/trump-truth-social-api-lawsuit-discovery/",
-      "published": "2026-11-24T22:26:37+00:00",
-      "featured": false
-    },
-    {
-      "id": "336ab1a151d8",
-      "source": "The Lever",
-      "headline": "Don’t F#*k It Up, Democrats, Ep. 7: The Anti-Fascist Fight For Affordability",
-      "excerpt": "David Sirota asks economist Isabella Weber whether Democrats will take on corporate power to make life affordable — or let the cost-of-living crisis fuel authoritarianism.",
-      "link": "https://www.levernews.com/dont-f-k-it-up-democrats-ep-7-the-anti-fascist-fight-for-affordability/",
-      "published": "2026-11-24T17:55:36+00:00",
+      "headline": "Trump’s Imperialist Fantasy for Latin America Is Already Failing",
+      "excerpt": "Despite Hegseth’s victory lap, Trump’s “Donroe Doctrine” may already be on life support. The post Trump’s Imperialist Fantasy for Latin America Is Already Failing appeared first on The Intercept.",
+      "link": "https://theintercept.com/2026/11/25/trump-latin-america-intervention-influence/",
+      "published": "2026-11-25T11:00:00+00:00",
       "featured": false
     },
     {
@@ -299,12 +299,12 @@
       "featured": false
     },
     {
-      "id": "58f49e9a0ea5",
+      "id": "8690dea523ca",
       "source": "Al Jazeera",
-      "headline": "Argentina bars Central Bank from printing money to fund government spending",
-      "excerpt": "The South American country's Senate also advances proposal to suspend primary elections ahead of 2027 presidential race.",
-      "link": "https://www.aljazeera.com/news/2026/11/27/argentina-bars-central-bank-from-printing-money-to-fund-government-spending?traffic_source=rss",
-      "published": "2026-11-27T00:11:16+00:00",
+      "headline": "Old wounds reopen as Kyrgyzstan’s Osh embraces a new urban project",
+      "excerpt": "Redevelopment reshapes the city, but some worry as residents are displaced and cultural heritage appears at risk.",
+      "link": "https://www.aljazeera.com/features/2026/11/27/old-wounds-reopen-as-kyrgyzstans-osh-embraces-a-new-urban-project?traffic_source=rss",
+      "published": "2026-11-27T11:35:34+00:00",
       "featured": false
     },
     {
@@ -335,21 +335,21 @@
       "featured": false
     },
     {
-      "id": "499da861dd3d",
+      "id": "45d852449ff9",
       "source": "The Intercept",
-      "headline": "Why a Case Against ICC Sanctions Is a Major Victory for Palestine Human Rights Work",
-      "excerpt": "A judge extended First Amendment protections to all Americans helping the ICC. Previous rulings only protected the plaintiffs. The post Why a Case Against ICC Sanctions Is a Major Victory for Palestine Human Rights Work...",
-      "link": "https://theintercept.com/2026/11/24/icc-sanctions-palestine-israel-human-rights/",
-      "published": "2026-11-24T21:04:06+00:00",
+      "headline": "Court Orders Trump Media to Hand Over Truth Social Records in The Intercept Lawsuit",
+      "excerpt": "A federal judge opened the discovery phase in The Intercept’s lawsuit over the president’s scheme to enrich himself by selling early access to his posts. The post Court Orders Trump Media to Hand Over Truth Social...",
+      "link": "https://theintercept.com/2026/11/24/trump-truth-social-api-lawsuit-discovery/",
+      "published": "2026-11-24T22:26:37+00:00",
       "featured": false
     },
     {
-      "id": "8716ffbec46d",
+      "id": "336ab1a151d8",
       "source": "The Lever",
-      "headline": "Democrats Want To Investigate Nvidia. Their Megadonor Is On The Board.",
-      "excerpt": "Democrats’ promise to investigate Trump’s interaction with Nvidia could put them on a collision course with the Nvidia billionaire financing the party’s new political machine.",
-      "link": "https://www.levernews.com/nvidia-trump-coxe/",
-      "published": "2026-11-24T01:18:25+00:00",
+      "headline": "Don’t F#*k It Up, Democrats, Ep. 7: The Anti-Fascist Fight For Affordability",
+      "excerpt": "David Sirota asks economist Isabella Weber whether Democrats will take on corporate power to make life affordable — or let the cost-of-living crisis fuel authoritarianism.",
+      "link": "https://www.levernews.com/dont-f-k-it-up-democrats-ep-7-the-anti-fascist-fight-for-affordability/",
+      "published": "2026-11-24T17:55:36+00:00",
       "featured": false
     },
     {
@@ -389,12 +389,12 @@
       "featured": false
     },
     {
-      "id": "3980a4e9d9d7",
+      "id": "e8a3097c649b",
       "source": "Al Jazeera",
-      "headline": "Iran war live: Iran’s Araghchi calls deadly Kuwait attack ‘suspicious’",
-      "excerpt": "Iran's FM Abbas Araghchi says the deadly Kuwait incident is \"suspicious\" and looks like a \"pre-cooked recipe\" for war.",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/11/27/iran-war-live-irans-araghchi-calls-deadly-kuwait-attack-suspicious?traffic_source=rss",
-      "published": "2026-11-27T00:00:00+00:00",
+      "headline": "What Spain’s election means for Morocco",
+      "excerpt": "The vote could reshape diplomatic relations, but shared strategic interests will continue to bind the two countries.",
+      "link": "https://www.aljazeera.com/opinions/2026/11/27/what-spains-election-means-for-morocco?traffic_source=rss",
+      "published": "2026-11-27T11:33:17+00:00",
       "featured": false
     },
     {
@@ -416,6 +416,15 @@
       "featured": false
     },
     {
+      "id": "499da861dd3d",
+      "source": "The Intercept",
+      "headline": "Why a Case Against ICC Sanctions Is a Major Victory for Palestine Human Rights Work",
+      "excerpt": "A judge extended First Amendment protections to all Americans helping the ICC. Previous rulings only protected the plaintiffs. The post Why a Case Against ICC Sanctions Is a Major Victory for Palestine Human Rights Work...",
+      "link": "https://theintercept.com/2026/11/24/icc-sanctions-palestine-israel-human-rights/",
+      "published": "2026-11-24T21:04:06+00:00",
+      "featured": false
+    },
+    {
       "id": "6e847846192b",
       "source": "OCCRP",
       "headline": "Australian Billionaire Politician Clive Palmer and His Wanted Nephew Had Vanuatu Diplomatic Passports",
@@ -425,21 +434,12 @@
       "featured": false
     },
     {
-      "id": "fe822d2f0f4e",
-      "source": "The Intercept",
-      "headline": "Hakeem Jeffries Can Live With “Medicare for More”",
-      "excerpt": "As progressives push for Medicare for All, the likely next House speaker has signed off on a first step. The post Hakeem Jeffries Can Live With “Medicare for More” appeared first on The Intercept.",
-      "link": "https://theintercept.com/2026/11/24/hakeem-jeffries-democrats-medicare-for-all/",
-      "published": "2026-11-24T11:00:00+00:00",
-      "featured": false
-    },
-    {
-      "id": "24f2ed9d368f",
+      "id": "8716ffbec46d",
       "source": "The Lever",
-      "headline": "Pod, Save Thyself",
-      "excerpt": "Crooked Media built an empire on Obama-era politics. Now its audience is demanding a populist transformation. Can the podcasters transform, too?",
-      "link": "https://www.levernews.com/pod-save-thyself-pod-save-america/",
-      "published": "2026-11-23T23:44:17+00:00",
+      "headline": "Democrats Want To Investigate Nvidia. Their Megadonor Is On The Board.",
+      "excerpt": "Democrats’ promise to investigate Trump’s interaction with Nvidia could put them on a collision course with the Nvidia billionaire financing the party’s new political machine.",
+      "link": "https://www.levernews.com/nvidia-trump-coxe/",
+      "published": "2026-11-24T01:18:25+00:00",
       "featured": false
     },
     {
@@ -479,12 +479,12 @@
       "featured": false
     },
     {
-      "id": "92bd584fd1f0",
+      "id": "59205f400da5",
       "source": "Al Jazeera",
-      "headline": "Georgian police clash with Turkiye’s Besiktas fans over Palestinian flag",
-      "excerpt": "Match between Besiktas and Hapoel Beer-Sheva suspended for 30 minutes after confrontation between fans and police.",
-      "link": "https://www.aljazeera.com/sports/2026/11/26/georgian-police-clash-with-turkiyes-besiktas-fans-over-palestinian-flag?traffic_source=rss",
-      "published": "2026-11-26T23:37:17+00:00",
+      "headline": "Israeli attacks on women and girls meant ‘to destroy life’ in Gaza: Amnesty",
+      "excerpt": "Israel seeking 'to prevent births' and destroy Palestinians in Gaza by targeting women and girls, rights group says.",
+      "link": "https://www.aljazeera.com/news/2026/11/27/israeli-attacks-on-women-and-girls-meant-to-destroy-life-in-gaza-amnesty?traffic_source=rss",
+      "published": "2026-11-27T11:15:03+00:00",
       "featured": false
     },
     {
@@ -515,21 +515,21 @@
       "featured": false
     },
     {
-      "id": "9ea4bb79ad11",
-      "source": "The Lever",
-      "headline": "Rep-elect Richard Ojeda on what the new Congress needs to fight for",
-      "excerpt": "Populism, what Democrats should do next, and what it takes to win voters who've stopped listening.",
-      "link": "https://www.levernews.com/rep-elect-richard-ojeda-on-what-the-new-congress-needs-to-fight-for/",
-      "published": "2026-11-23T21:37:31+00:00",
+      "id": "fe822d2f0f4e",
+      "source": "The Intercept",
+      "headline": "Hakeem Jeffries Can Live With “Medicare for More”",
+      "excerpt": "As progressives push for Medicare for All, the likely next House speaker has signed off on a first step. The post Hakeem Jeffries Can Live With “Medicare for More” appeared first on The Intercept.",
+      "link": "https://theintercept.com/2026/11/24/hakeem-jeffries-democrats-medicare-for-all/",
+      "published": "2026-11-24T11:00:00+00:00",
       "featured": false
     },
     {
-      "id": "ffca7f5cea06",
-      "source": "The Intercept",
-      "headline": "Private Prison Told ICE Its Jail Was Worth $67 Million. ICE Bought It for Nearly Half a Billion.",
-      "excerpt": "GEO Group made a windfall after ICE bought a jail for nearly seven times the private prison giant’s own appraisal, documents reveal. The post Private Prison Told ICE Its Jail Was Worth $67 Million. ICE Bought It for...",
-      "link": "https://theintercept.com/2026/11/23/geo-group-private-prison-ice-sale-contract/",
-      "published": "2026-11-23T18:57:05+00:00",
+      "id": "24f2ed9d368f",
+      "source": "The Lever",
+      "headline": "Pod, Save Thyself",
+      "excerpt": "Crooked Media built an empire on Obama-era politics. Now its audience is demanding a populist transformation. Can the podcasters transform, too?",
+      "link": "https://www.levernews.com/pod-save-thyself-pod-save-america/",
+      "published": "2026-11-23T23:44:17+00:00",
       "featured": false
     },
     {
